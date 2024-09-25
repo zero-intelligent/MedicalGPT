@@ -1,6 +1,6 @@
 CUDA_VISIBLE_DEVICES=0 torchrun --nproc_per_node 1 pretraining.py \
     --model_type auto \
-    --model_name_or_path Qwen/Qwen1.5-0.5B-Chat \
+    --model_name_or_path Qwen/Qwen2.5-7B \
     --train_file_dir ./data/pretrain \
     --validation_file_dir ./data/pretrain \
     --per_device_train_batch_size 4 \
