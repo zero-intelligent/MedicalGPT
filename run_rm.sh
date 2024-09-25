@@ -1,4 +1,4 @@
-CUDA_VISIBLE_DEVICES=0,1 python reward_modeling.py \
+CUDA_VISIBLE_DEVICES=0 python reward_modeling.py \
     --model_type auto \
     --model_name_or_path Qwen/Qwen1.5-0.5B-Chat \
     --train_file_dir ./data/reward \

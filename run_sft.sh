@@ -1,10 +1,10 @@
-CUDA_VISIBLE_DEVICES=0,1 torchrun --nproc_per_node 2 supervised_finetuning.py \
+CUDA_VISIBLE_DEVICES=0 torchrun --nproc_per_node 1 supervised_finetuning.py \
     --model_type auto \
     --model_name_or_path Qwen/Qwen1.5-0.5B-Chat \
     --train_file_dir ./data/finetune \
     --validation_file_dir ./data/finetune \
-    --per_device_train_batch_size 4 \
-    --per_device_eval_batch_size 4 \
+    --per_device_train_batch_size 2 \
+    --per_device_eval_batch_size 2 \
     --do_train \
     --do_eval \
     --template_name qwen \
@@ -23,7 +23,7 @@ CUDA_VISIBLE_DEVICES=0,1 torchrun --nproc_per_node 2 supervised_finetuning.py \
     --save_steps 500 \
     --save_strategy steps \
     --save_total_limit 13 \
-    --gradient_accumulation_steps 1 \
+    --gradient_accumulation_steps 2 \
     --preprocessing_num_workers 4 \
     --output_dir outputs-sft-qwen-v1 \
     --overwrite_output_dir \

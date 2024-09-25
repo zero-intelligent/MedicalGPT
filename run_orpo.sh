@@ -1,4 +1,4 @@
-CUDA_VISIBLE_DEVICES=0,1 python orpo_training.py \
+CUDA_VISIBLE_DEVICES=0 python orpo_training.py \
     --model_type auto \
     --model_name_or_path Qwen/Qwen1.5-0.5B-Chat \
     --template_name qwen \

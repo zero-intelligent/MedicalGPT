@@ -1,10 +1,10 @@
-CUDA_VISIBLE_DEVICES=0,1 python dpo_training.py \
+CUDA_VISIBLE_DEVICES=0 python dpo_training.py \
     --model_type auto \
     --model_name_or_path Qwen/Qwen1.5-0.5B-Chat \
     --template_name qwen \
     --train_file_dir ./data/reward \
     --validation_file_dir ./data/reward \
-    --per_device_train_batch_size 4 \
+    --per_device_train_batch_size 2 \
     --per_device_eval_batch_size 1 \
     --do_train \
     --do_eval \
