@@ -1,0 +1,706 @@
+CE Article #4
+Diagnosing Acute
+Pancreatitis in Dogs
+Kirstin Mix, DVM
+Christopher Jones, DVM, DACVIM
+Gulf Coast Veterinary Specialists
+Houston, Texas
+ABSTRACT: Canine acute pancreatitis is challenging to diagnose and treat. Because this disease has
+the potential for severe morbidity and mortality, accurate and timely diagnosis is important. The
+ideal diagnostic test would be highly sensitive and specific, practical, affordable, and readily available.
+Because no one diagnostic test fits these criteria, the diagnosis of acute pancreatitis must be made
+based on evidence from a variety of diagnostic tests and clinical judgment.This article reviews some
+of the tests available to diagnose pancreatitis.
+ancreatitis is the most common disease of
+for degradation of ingested proteins, fats, and
+the canine exocrine pancreas, but accurate
+polysaccharides. These digestive enzymes are
+diagnosis and reliable treatment of this
+produced by the pancreatic acinar cells, where
+disease remain challenging. Based on a necropsy
+they are stored until the pancreas is stimulated
+study' evaluating the prevalence of inflamma-
+to secrete them into the duodenum. Most dogs
+tory lesions within the pancreas, 64.4% of dogs
+have two pancreatic ducts: the pancreatic duct
+ have histologic evidence of pancreatic inflam-
+and the accessory pancreatic duct (Figure 1).
+mation, although the clinical significance of
+ Most pancreatic cells are pancreatic acinar cells.
+these lesions is not clear. In humans, it is sus
+Approximately 1% to 2% of pancreatic cll are
+seioued jo saseo jo 906 0n dn 1eun paioad
+endocrine cells.
+remain unrecognized and undiagnosed.? This
+damage normal tissues within the body (includ-
+Timely and accurate diagnosis of pancreatitis is
+the
+, the pancreas has several
+essential because pancreatitis can be associated
+defense
+with significant morbidity and mortality. This
+autodigestion or damage from these digestive
+article reviews the sensitivity, specificity, and
+enzymes.
+The first defense mechanism of the
+ practicality of the different diagnostic modalities
+ pancreas against autodigestion or damage from
+ available to diagnose pancreatitis.
+ pancreatic enzymes is production, storage, and
+secretion of pancreatic digestive enzymes in
+Send comments/questions via email
+PANCREAS
+their inactive forms, called zymogens. Within
+editor@CompendiumVet.com
+PHYSIOLOGY
+the pancreatic acinar cells, the zymogens are
+or fax 800-556-3288.
+The major function of the
+segregated into zymogen granules, thus protect-
+exocrine pancreas is produc-
+ing other cellular contents from contact with
+Visit Compendium Vet.com for
+full-text articles, CE testing and CE
+tion, storage, and secretion of
+the zymogens. In healthy animals, zymogens
+test answers.
+digestive enzymes important
+ are activated after they are secreted into the
+COMPENDIUM
+226
+March 2006
+Diagnosing Acute Pancreatitis in Dogs CE
+227
+Table 1. Prevalence of Clinical Signs in
+Dogs with Pancreatitis'
+Clinical Sign
+Prevalence
+Pancreatic duct
+ Dehydration
+97%
+Accessory pancreatic duct
+Anorexia
+91%
+Stomach
+Vomiting
+90%
+Weakness
+79%
+ Abdominal pain
+58%
+Diarrhea
+33%
+Icterus
+32%
+by Felecia Paras
+active forms within the pancreas, thereby resulting in
+autodigestion of pancreatic tissue.? Following activation
+of pancreatic enzymes, pancreatic inflammation and
+Acinus
+necrosis may occur, resulting in activation of inflamma-
+ration
+tory mediators and free radicals. Depending on the
+Zymogen granules
+severity of inflammation, pancreatic edema may occur,
+nl
+Figure 1. Most dogs have both a pancreatic duct and an
+accessory pancreatic duct. The exocrine pancreas comprises
+ o ap ap  jsn iod on ae A 
+most of the pancreatic tissue. Pancreatic islets of Langerhans'
+presence of pancreatic enzymes in the intravascular and
+comprise less than 5% of the pancreatic tissue.
+peritoneal spaces. c-Macroglobulins and other protease
+inhibitors exist in systemic circulation and can bind to
+the pancreatic digestive enzymes, thereby inactivating
+duodenum with exposure to the duodenal enzyme
+them and expediting their removal from the body. There
+is a finite supply of α-macroglobulins and protease
+activated to its active form, trypsin, releasing the protein 
+ inhibitors in circulation. Once this supply is exhausted,
+trypsin activation peptide. Trypsin then activates the
+the circulating digestive enzymes result in widespread
+inflammation and activation of the coagulation, fibri-
+Another defense mechanism of the pancreas against
+ nolytic, and complement cascades. Affected individuals
+Neither serum amylase nor serum lipase testing is a
+sensitive or specific diagnostic test for pancreatitis in dogs.
+autodigestion is trypsin inhibitor, which inhibits trypsin
+may develop disseminated intravascular coagulation,
+activity in the event that this enzyme is inappropriately
+ shock, and multiorgan failure.4
+activated within the pancreatic acinar cells. Trypsin
+The clinical course of pancreatitis is highly variable,
+inhibitor is produced and stored along with the pancre-
+ranging from subclinical to life-threatening disease.
+atic zymogens.4
+ Because of the potential for life-threatening complica
+ Both acute and chronic forms of pancreatitis occur in
+tions, timely and accurate diagnosis of pancreatitis is
+dogs, with the acute form being more clinically recog
+essential. The ideal diagnostic test for pancreatitis would
+nized. Acute pancreatitis is thought to occur primarily
+be highly sensitive and specific, practical, noninvasive,
+March 2006
+COMPENDIUM
+228
+CE Diagnosing Acute Pancreatitis in Dogs
+Figure 2. Ultrasonography of pancreatitis. (Courtesy of Gulf Coast Veterinary Diagnostic Imaging)
+SMABD
+LR SINGLE
+STOMA
+PANCRE
+VER
+BODY
+Ultrasonogram of a patient with pancreatitis. Note that the body
+of the pancreas appears large and the surrounding mesentery is
+ Ultrasonogram of a patient with severe pancreatitis that 
+hyperechoic.
+developed a pancreatic abscess.
+  n  i n   s
+the history and clinical signs associated with pancreatitis
+   sa  ar aq s i
+se a A   aids rod 2
+ patients. This article reviews the clinical history and
+with numerous other diseases.
+physical examination findings, imaging techniques,
+hematologic and biochemical findings, serologic testing,
+RadIoGRaPHY, UlTraSonoGRAPhy,
+and biopsy techniques involved in diagnosing acute pan-
+AND COMPUTEDTOMOGRAPHY
+creatitis in dogs.
+The most commonly used imaging techniques for
+ assessing the pancreas in veterinary patients are abdomi-
+HISTORY AND PHYSICAL EXAMINATION
+ nal radiography and ultrasonography In human medi-
+ The clinical presentation of acute pancreatitis is
+cine, computed tomography (CT) is routinely used to
+highly variable. Many affected dogs have a mild, self-
+assess patients suspected of having pancreatitis.8 The
+limited course of disease, and some of these patients
+value of this imaging modality has not been widely eval-
+remain subclinical. It is suspected that most dogs with
+ pancreatitis remain undiagnosed.2 Middle-aged, female
+ Abdominal radiography should be performed in every
+dogs are more likely to develop acute pancreatitis than
+ patient suspected of having pancreatitis. Radiographic
+ are other patient populations.4s There is a clinical
+changes and specificity associated with pancreatitis are
+impression that this disease is more common in minia-
+variable but may include loss of detail in the cranial
+ture schnauzers and anecdotal evidence that pancreatitis
+abdomen, displacement of the stomach to the left, and
+is more likely to occur after consumption of a fatty
+displacement of the duodenum to the right or ventrally.
+meal.4 Other historical factors, such as abdominal
+trauma or exposure to certain drugs (e.g., azathioprine,
+tients.279,10 In a retrospective study' of fatal cases of
+L-asparaginase, corticosteroids), may also raise clinical
+canine pancreatitis, only 24% of dogs had radiographic
+suspicion of pancreatitis.4-6
+abnormalities attributable to pancreatitis. Therefore,
+In a study? of dogs with fatal, acute pancreatitis, the
+abdominal radiography has a low sensitivity in diagnos-
+most common clinical signs were dehydration, anorexia,
+vomiting, weakness, abdominal pain, diarrhea, and
+ radiography in patients suspected of having pancreatitis
+icterus (Table 1). Fever, renal failure, respiratory com-
+is that it allows assessment of other organs in the
+ promise, cardiovascular shock, and multiorgan failure
+ abdominal cavity. As previously discussed, clinical signs
+have also been recognized in patients with severe forms
+of pancreatitis are nonspecific and could be related to
+of acute pancreatitis.24 It is important to recognize that
+ many other diseases of the abdomen, such as gastroin-
+COMPENDIUM
+March 2006
+Diagnosing Acute Pancreatitis in Dogs CE
+229
+Biochemical Abnormalities in Patients
+with Pancreatitis
+ Increased total protein level
+STOMACH
+Azotemia
+ Increased alanine aminotransferase level
+Increased alkaline phosphatase level
+Increased bilirubin level
+RIGHT
+Increased cholesterol level
+PANCREAS
+Hypocalcemia
+Hyperglycemia
+EFTPANCREAS
+be obtained immediately, and other abdominal organs
+can be evaluated simultaneously. Abdominal ultrasonog
+Figure 3. CT scan of a normal feline pancreas.
+Visualization of the entire pancreas may be improved with
+reconstructed images, which cause blurriness. (Courtesy of Gulf
+patients.
+CoastVeterinary Diagnostic Imaging)
+CT is the most widely used diagnostic test in assess-
+ing pancreatitis in humans and is considered the most
+effective method of detecting inflammatory disease of
+testinal disease, liver disease, or neoplasia. Abdominal 
+the pancreas.13 However, limited information is available
+radiography is widely available, safe, noninvasive, and 
+regarding the value of CT in veterinary patients. Almost
+ aa a    
+ all humans with pancreatitis have some abnormalities
+diately, which is important in critically ill patients.
+that can be identified via CT, such as local or diffuse
+Abdominal ultrasonography is useful in assessing
+ pancreatic enlargement, edema, pancreatic pseudocysts,
+patients suspected of having pancreatitis. Ultrasono-
+graphic findings consistent with acute pancreatitis
+ presence of peripancreatic fluid and thickening of tissue
+include an enlarged pancreas, a hypoechoic mass in the
+in the pancreatic regions, may also be noted (Figure 3).
+region of the pancreas, a hyperechoic region within the
+ Intravenous and oral contrast enhancement improve the
+ pancreas, generalized or localized free abdominal fluid,
+accuracy of CT in humans. There also appears to be a
+and thickening of the stomach or duodenal wallsz,.12
+ correlation between the severity of changes identified
+(Figure 2). Because of regional pain, the patient may
+via CT and the severity of the patient's disease.8141s In
+ resent examination of the pancreas. Ultrasonographic
+ sm   go as a g s  a
+abnormalities are due to pancreatic edema, necrosis, or
+ pared with serologic testing and abdominal ultrasonog-
+ hemorrhage secondary to pancreatitis.12 Complications
+raphy in diagnosing pancreatitis in cats. In this study,16
+of pancreatitis, such as pancreatic abscesses or pseudo-
+CT was found to be less sensitive and less specific than
+abdominal ultrasonography in diagnosing pancreatitis.
+Ultrasonographic evaluation of the pancreas is more
+To our knowledge, a similar study has not been con-
+sensitive in diagnosing pancreatitis than is radiographic
+ducted in dogs. A major concern with the use of CT in
+evaluation.7 One study? identified ultrasonographic
+diagnosing pancreatitis in dogs is the requirement of
+changes consistent with pancreatitis in 68% of cases.
+anesthesia to obtain images. Even in sedated or mori-
+Ultrasonographic evaluation of the pancreas is tech-
+bund patients, motion artifact interferes with accurate
+nically challenging, and the diagnostic value of this
+CT of the pancreas.17 The suitability of an individual
+imaging modality depends on the expertise of the ultra-
+ patient for anesthesia must be assessed before pursuing
+sonographer. Because pancreatic lesions may be detected
+abdominal CT. The availability of CT is limited and
+but not clinically significant, the significance of pancre-
+may be financially prohibitive for some owners.
+atic abnormalities identified via ultrasonography must
+be interpreted in light of a patient's clinical signs. Major
+HEMATOLOGY AND BIOCHEMISTrY
+advantages of abdominal ultrasonography are that it is
+A complete blood cell count should be conducted on
+ noninvasive, it is relatively inexpensive, information can
+all patients clinically suspected of having pancreatitis.
+March 2006
+COMPENDIUM
+230
+CB Diagnosing Acute Pancreatitis in Dogs
+Neutrophilia with a left shift is commonly recognized
+azotemia may occur secondary to hypovolemia or shock
+and was identified in 55% of cases in one study.7 Ane-
+ or may be associated with multiorgan dysfunction.?
+mia and thrombocytopenia may be recognized and may
+Azotemic patients must be monitored carefully. If
+be early indications of disseminated intravascular coagu-
+ azotemia does not resolve with fluid therapy, the possi-
+lation.? Conversely, an elevated packed cell volume may
+bility of renal failure must be considered.
+be observed secondary to hemoconcentration resulting
+Hyperglycemia is commonly identified in dogs with
+from dehydration.27
+ pancreatitis. Possible causes of hyperglycemia include
+ Evaluation of a serum biochemistry panel is indicated
+stress hyperglycemia or diabetes mellitus. Stress hyper-
+in patients suspected of having pancreatitis (see box on
+ u so u aras ssir ue ooo sit si ei
+ page 229). Elevated amylase and lipase levels have long
+y ym sop 1o %/'67 /Xpn4s 2aoadsona1 e uI es5
+been associated with a diagnosis of pancreatitis.18 How-
+ pancreatitis were hyperglycemic at initial presentation
+ever, studies² have failed to demonstrate a reliable pre
+Of these dogs, 63% were persistently hyperglycemic and
+dictive value for these enzymes. Hyperamylasemia and
+were diagnosed as diabetic.
+hyperlipasemia have poor specificity for pancreatitis.
+Hypoglycemia may be recognized in dogs with severe
+Approximately 50% of dogs with elevated amylase and
+pancreatitis and may occur as a result of septic compli-
+lipase levels have pancreatitis. Reported sensitivities of
+cations of pancreatitis or concurrent liver disease.?
+these enzymes for a diagnosis of pancreatitis are 50% to
+Hypercholesterolemia and hyperlipidemia are com-
+ monly identified in dogs with pancreatitis. These find-
+because both enzymes are produced in sites other than
+ings may be evident via gross examination, even if the
+Abdominal ultrasonography is the most sensitive
+imaging modality in diagnosing canine acute pancreatitis.
+the pancreas, such as the gastrointestinal tract and the
+patient has not recently eaten.? Mild to moderate
+liver. Furthermore, both enzymes are excreted via the
+-d  sp u pnoa ueq ose s ee
+kidneys, and decreased kidney function has been shown
+ creatitis. Hypocalcemia is thought to occur as a result of
+to result in hyperamylasemia and hyperlipasemia.19
+deposition of calcium salts within the pancreas, which
+Hypolipasemia or low-normal serum levels of lipase
+ occurs secondary to pancreatic inflammation. Hypocal-
+should decrease clinical suspicion of pancreatitis in
+cemia is rarely severe enough to result in clinical signs
+dogs, although this finding does not exclude the possi-
+related to low serum calcium.4 However, a study20 in cats
+bility of pancreatitis.1' It is important to remember that
+with pancreatitis revealed that patients with low ionized
+the presence of normal serum amylase and lipase values
+calcium had a worse prognosis compared with patients
+does not exclude the possibility of a diagnosis of pancre
+with normal ionized calcium. ?
+To our knowledge, no
+atitis. Furthermore, elevations in these enzymes are not,
+ such study has been reported in dogs.
+by themselves, diagnostic of pancreatitis.
+ Several biochemical abnormalities are commonly iden
+MARKERS OF PANCrEATIC ENZYME
+tified in patients with pancreatitis. Many patients with
+ACTIVATION
+ pancreatitis have elevated total protein levels, likely sec-
+Trypsin activation peptide (TAP) may be measured in
+ondary to dehydration. Elevated liver enzyme levels are
+the serum or urine of patients clinically suspected of hav-
+common and may reflect hepatocellular injury due to
+ing pancreatitis. Inappropriate activation of trypsinogen
+local inflammatory mediators originating from the pan-
+to its active form, trypsin, within the pancreas is impor-
+creas. Multiorgan dysfunction may also result in liver
+tant in the pathogenesis of acute pancreatitis. During
+damage. Hyperbilirubinemia may occur secondary to bile
+ activation of trypsinogen to trypsin, TAP is released into
+duct obstruction. Azotemia is common in this patient
+the pancreas, where it may diffuse into the intravascular
+ population and may be prerenal or renal in origin. Prere-
+ Or peritoneal space. Studies' in rodents have demon-
+ nal azotemia develops as a result of dehydration. Renal
+ strated a rise in TAP shortly after induction of pancreati-
+COMPENDIUM
+March2006
+Diagnosing Acute Pancreatitis in Dogs CE
+231
+Figure 4. Laparoscopy of the pancreas.
+07720/05
+Edematous
+10:23:31
+pancreas
+SCU-
+Normal pancreas
+Hemorrhage
+Laparoscopic image of a healthy canine pancreas and healthy
+Laparoscopic image of an inflamed pancreas showing an
+surrounding tissue. Note the light pink appearance of the
+edematous and erythematous pancreas. The surrounding
+pancreas. The organ does not appear hemorrhagic or edematous.
+mesentery is hemorrhagic. Biopsy of the pancreas proved that
+the patient had pancreatitis.
+tis in experimental models. The specificity of serum TAP
+study22 demonstrated higher CRP levels in dogs with
+levels is questionable—one study21 found elevations in
+ acute pancreatitis compared with levels in healthy dogs.
+TAP in dogs with pancreatitis, dogs with renal disease,
+Because CRP may be elevated with any inflammatory
+and healthy dogs. However, this study also found higher
+disease or subsequent to trauma, the specificity of CRP
+serum levels of TAP in dogs with more severe cases of
+is questionable. A more practical application of this test,
+ pancreatitis compared with dogs with milder disease.21
+rather than the diagnosis of pancreatitis, may be as a
+Therefore, although the value of serum and urinary TAP
+tool to monitor the progression or resolution of pancre-
+measurement is not thoroughly understood to date,
+atitis or as a prognostic indicator.
+because the test is not widely available and the signifi-
+cance of results is difficult to interpret, the clinical value
+SErOLOGIC MArKERS OF
+of this test is unclear. In the future, measurement of
+PANCREATITIS
+ serum TAP levels may prove useful as a prognostic indi-
+Two major serologic markers have been used to diag-
+ cator or as a tool to monitor resolution of disease.
+ nose pancreatitis: trypsin-like immunoreactivity (TLI)
+and pancreatic lipase immunoreactivity (PLI). Both of
+MARKERS OF PANCREATIC
+these are used as pancreas-specific tests. TLI testing,
+INFLAMMATION
+which is serologic, detects serum trypsinogen, trypsin,
+C-reactive protein (CRP) is an acute-phase reactant
+ and trypsin molecules bound to protease inhibitors. TLI
+produced by the liver in response to inflammation,
+testing is well known to be highly sensitive and specific
+infection, or trauma.22 CRP has been used in humans as
+for the diagnosis of exocrine pancreatic insufficiency. In
+a predictor of the severity of inflammation in patients 
+experimentally induced pancreatitis, serum levels of TLI
+with acute pancreatitis.22 In humans, measurement of
+   a    
+ CRP has shown value in assessing the severity of acute
+pancreatitis seem to produce a rapid rise of TLI follow-
+ pancreatitis, with more severe cases demonstrating
+ing induction of pancreatitis.1 One study2 showed a
+higher levels of CRP22 A study23 in dogs with pancreati-
+m sop 1oy 959 jo Ays e ue 9e go Aasus
+tis has shown elevated levels of CRP in dogs with pan-
+naturally occurring pancreatitis. Results of TLI testing
+creatic necrosis compared with dogs with edematous
+are not immediately available, and the sensitivity of this
+ pancreatitis. Therefore, CRP may have value as a prog-
+test for the diagnosis of pancreatitis is poor. Therefore,
+nostic indicator in dogs with pancreatitis. Another
+ measurement of TLI is not considered useful in diag-
+March 2006
+COMPENDIUM
+232
+CE Diagnosing Acute Pancreatitis in Dogs
+ nosing pancreatitis.
+aspiration is best performed by an experienced ultra-
+Development of a PLI assay has occurred fairly
+ sonographer because the pancreas can be difficult to
+fecently, and this test shows promise as a sensitive and
+identify and assess via ultrasonography, as previously
+discussed. Because of the regional nature of pancreatitis,
+normal results of fine-needle aspiration cannot exclude
+fore, lipase originating from other sources in the body,
+a diagnosis of pancreatitis. Therefore, fine-needle aspi-
+such as the stomach and salivary glands, cannot be
+ration of the pancreas is a relatively specific, but not
+sensitive, diagnostic test for pancreatitis.
+unique compared with lipase produced in other parts of
+the body. Reported sensitivity of PLI testing to diagnose 
+CONCLUSION
+pancreatitis is greater than 80%. Serum PLI levels
+Definitive diagnosis of acute pancreatitis in dogs
+appear to be highly sensitive in diagnosing pancreati-
+remains challenging. The clinical diagnosis of acute
+tis.26 The presence of renal failure does not appear to
+pancreatitis can be made based on the collective inter-
+result in elevated PLI levels.27 To date, serum PLI is
+pretation of history, clinical signs, biochemical abnor-
+considered the single best blood test for diagnosing pan-
+malities, serologic testing, imaging studies, and cytology
+creatitis in dogs.23 The major drawback of this test is
+ or histopathology. The ideal diagnostic test for pancre-
+that results are generally not available for several days
+ atitis would be highly sensitive and specific, readily
+because of the limited availability of the test. This delay
+available, affordable, and noninvasive. Unfortunately, the
+in results is problematic, particularly in critically ill
+ideal diagnostic test for pancreatitis does not exist. The
+patients.
+clinical presentation of patients with pancreatitis is
+highly variable, and this disease can result in severe
+PANCREATIC BIOPSY AND FINE-NEEDLE
+morbidity or death in some patients. Pancreatitis
+ASPIRATION
+ remains a uniquely challenging disease to diagnose and
+ Biopsy of the pancreas remains the gold standard in
+manage. The possibility of this disease must be consid-
+diagnosing canine acute pancreatitis.? Pancreatic biopsy
+ered in critically ill patients or patients with appropriate
+ de no Aoede ea pd aq ae
+clinical signs.
+inspection of the pancreas may confirm suspected pan-
+creatitis. However, a normal gross appearance of the
+REFERENCES
+pancreas does not exclude the possibility of microscopic
+1. Newman S, Steiner J, Woosley K, et al: Localization of pancreatic inflamma-
+tion and necrosis in dogs. J Vet Interm Med 18:488-493, 2004.
+2. SteinerJ: Diagnosisof pancreatitis. Ve Clin SmallAn 3:1181195,2003.
+Creatitis.2 Laparoscopic evaluation of the pancreas is less
+3.
+Willams D: Exocrine pancreatic disease, in Ettinger S,Feldman E (eds):
+invasive than laparotomy. The right limb and central
+Textbk gf Veterinary Internal Medicine. Philadelphia, WB Saunders, 2000,
+body of the pancreas can be visually inspected via
+pp 1345-1367.
+laparoscopy. The surrounding mesentery can also be
+4. Williams D: The pancreas, in Guilford WG, Center SA, Strombeck DR, et
+al (eds): Small Anmal Gastroenterology, ed 3. Philadelphia, WB Saunders,
+assessed. The left limb of the pancreas is challenging to
+1996, pp 381-410.
+visualize laparoscopically2s (Figure 4). The benefit of
+5. Cook AK, Breitschwerdt EB, Levine JF, et al: Risk factors associated with
+ pancreatic visualization and biopsy must be weighed
+acute pancreatitis in dogs: 101 cases (1985-1990) JAVMA 203:673-679,
+1993.
+against the potential risks of anesthesia to the individual
+6.MorilloKA,BowenD,MeyerDJ,et al Acute pancreatitis in two gs
+patient.2 If the decision to pursue laparotomy or
+given azathioprine and prednisone. JA VMA 191:695-696, 1987.
+laparoscopy is made, the abdomen should be thoroughly
+7.Hess RS,SaersHM, Va Winkle TJ, et al: Clinical, lnicpathlogi,
+explored, if possible. Biopsy of the pancreas is highly
+radiographic, and ultrasonographic abnormalities in dogs with fatal acute
+specific, but the sensitivity of pancreatic biopsy is poor
+pancreatitis: 70 cases (1986-1995). J4VMA 213:665-670, 1998.
+because pancreatitis may be localized to small regions
+8. Kemppainen P, Puolakkainen A, Leppaniemi A, et al: Diagnosis of acute
+pancreatitis. Ann Chir Gynaecol 87:191-194, 1998.
+within the pancreas.
+9.Mahaffey M, Barber D: The peritoneal space, in Thrall D (ed): Textbook of
+Ultrasound-guided fine-needle aspiration of the pan-
+Diagnostic Veterinary Radiology, ed 3. Philadelphia, WB Saunders, 1998, pp
+creas may be performed to obtain a diagnosis of pancre-
+441-457.
+atitis. This procedure can generally be performed
+10. Holm J, Chan D, Rozanski E: Acute pancreatitis in dogs. J Vet Emerg Crit
+Care 13:201-213, 2003.
+without anesthesia and may reveal inflammation, necro-
+11.Raux C: Diagnostic approaches to acute pancreatitis. Clin Tech SmallAnim
+sis, or sepsis of the pancreas." Pancreatic fine-needle
+Prace 18(4):245-249, 2003.
+COMPENDIUM
+March 2006
+Diagnosing Acute Pancreatitis in Dogs CE 2
+233
+12.
+Nyand T, Matton J: The pancreas, in Nyland T, Mattoon J (eds): SmllAnma?
+plasma ionized calcium concentration in cats with acute pancreatitis: 46 cases
+Diagnostic Utrasound, ed 2. Philadelphia, WB Saunders, 2002, pp 144157.
+(1996-1998). J4VMA 219:1105-1109, 2001.
+13.F
+Haaga JR, Alfidi RJ, Havrilla TR, et al: Definitive role of CT scanning of the
+apdad ugeane uaounsdan Aeun pue euseld ag sauo 's Pysu 17
+pancreas.Radiology124:723730,1977.
+in healthy dogs, dogs with pancreatitis, and dogs with other systemic dis-
+14.F
+Fawcitt RA, Forbes WS, Isherwood I, et al: Computed tomography in pan-
+eases. Aust VeeJ 78:416-422, 2000.
+creatic disease. Br J Radio/ 51:1-4, 1978.
+ 22. Holm J, Rozanski E, Freeman L, et al: C-reactive protein concentrations in 
+Partain CL, Stab EV, McCartney WH, et al: Multiple imaging modalities
+canine acute pancreatitis. J Vet Emerg Crit Care 14:183-186, 2004.
+15.
+for the study of pancreatic disease. Semin Vucl Med 9:36-42, 1979.
+23. Spillman T, KorrellJ, Wittker A, et al: Serum canine pancreatic elastase and
+16.Forman MA, Marks SL, De Cock HE, et al: Evaluation of serum feline pan-
+canineC-rectiveprtinforheiagnsisandpronsisfacutepancre
+tis in dogs. Proc 12* ECVIM-CA/ESVIM Congress, 2002.
+ventional testing for thediagnis of feline pancreatitisVe Intern Med
+24. Mansfield C: New insights into pancreatitis in dogs. Proc 12 ECVIM-
+18:807-815, 2004.
+CA/ESVIM Congress, 2002.
+17. Mix K, Fabiani M: Unpublished data, Evaluation of the normal feline pan-
+ 25. Steiner J: Pancreatic lipase immunoreactivity Proc ACVIM, 2003.
+creas withmutd tgraphHustonTXGulCastVetnay
+ 26. Steiner J: Serum canine pancreatic lipase immunoreactivity (cPLI) concentra-
+cialists, 2005.
+tions in dogs with spontaneous pancreatitis. J Vet Interm Med 18:274, 2004.
+18. Mia AS, Koger HD, Tierney MM, et al: Serum values of amylase and pan
+ 27. Steiner J, Willams D: Diagnosis of canine and feline pancreatitis. Prorc
+Am J Vet Rer 39:965-969, 1978.
+ACVIM, 2004
+28. Tams T: Laparoscopy for hepatic, pancreatic, and kidney biopsy. Proc West Vt
+19.
+Willard M, Twedt D: Gastrointestinal, pancreatic, and hepatic disorders, in
+Willard MD,Tvedten H,Turnwald GH (eds): Small Anmal CliniralDiago-
+Conf, 2004.
+sisbyabratryMhdsd3.Philadlphia,WBaers199
+29. Mansfield C: New directions in diagnosis and treating canine pancreatitis.
+172-207.
+Proc ACVIM, 2004.
+20. Kimmel S, Washabau RJ, Drobatz KJ: Incidence and prognostic value of low
+30.Center S: Feline pancreatitis. Proc West Vet Conf Proc, 2004.
+ARTICLE #4 CETEST
+This orticle qualifies for 2 contact hours of continuing education credit from the Auburn University College of Veterinary
+Medicine. Paid subscribers moy purchase individual CE tests or sign up for our annuol CE program. Those who wish to opply
+this credit to fulfll state relicensure requirements shouid consult their respective state Quthorities regording the opplicobility
+of this program. To participate, fll out the test form inserted at the end of this issue or toke CE tests online ond get real-time
+scores ot CompendiumVet.com.
+I. Which is a defense mechanism of the pancreas
+ b. diarrhea, weakness, anorexia
+ to prevent autodigestion from pancreatic diges-
+c. dehydration, anorexia, vomiting
+tive enzymes?
+d. hypothermia, vomiting, diarrhea
+a. production, storage, and secretion of pancreatic
+ enzymes as zymogens
+ 4. Which diagnostic imaging modality has the high-
+ b. segregation of zymogens into granules within the
+est reported sensitivity in diagnosing pancreatitis
+pancreatic cells
+in dogs?
+ C. production and storage of trypsin inhibitor to inacti-
+a. ultrasonography
+vate trypsin within the pancreatic cells
+b. radiography
+d. all of the above
+c.CT
+d. MRI
+2. Inappropriate activation of
+within the
+pancreatic acinar cells is important in the patho-
+ 5. Which ultrasonographic findings are not consis-
+physiology of pancreatitis.
+tent with acute pancreatitis?
+a enteropeptidase
+a. a hypoechoic mass lesion within the pancreas
+b. trypsin
+ b. peripancreatic free fluid 
+c. elastase
+C.
+"sludge”" within the gallbladder
+d. lipase
+d. generalized pancreatic enlargement
+3. Which are the most common clinical signs of
+6. Which statement regarding serum amylase and
+acute pancreatitis in dogs?
+lipase is incorrect?
+a. demonstration of the "praying position" vomiting
+ a. Elevations in serum amylase and lipase are neither
+fever
+sensitive nor specific for pancreatitis.
+March 2006
+Test answers available to paid subscribers at Compendium Vet.com
+COMPENDIUM
+234(
+CE Diagnosing Acute Pancreatitis in Dogs
+b. Normal serum amylase and lipase levels eliminate the
+ genically unique from lipase produced in other sites
+possibility of a diagnosis of pancreatitis.
+of the body.
+c. Low or low-normal serum lipase decreases the clini-
+b. Extrapancreatic disease such as renal failure can
+cal suggestion of pancreatitis.
+result in elevated serum lipase levels but does not
+d. Both ammylase and lipase are produced in extrapancre-
+appear to affect PLI levels.
+atic sites within the body.
+c. A drawback of PLl measurement is that test results
+are not readily available.
+7. Which hematologic or biochemical abnormality
+d. all of the above
+is diagnostic of acute pancreatitis?
+a. hyperbilirubinemia
+I0. Which test is the gold standard in diagnosing
+b. neutrophilia with a left shift
+ canine pancreatitis?
+c. hypercholesterolemia 
+a. pancreatic biopsy
+c. abdominal ultrasonography
+d. none of the above
+b. TLI
+d. abdominal CT
+8. Which statement regarding CRP is correct?
+ a. An elevated CRP level is diagnostic of pancreatitis.
+b. CRP appears to have high specificity but poor sensi-
+tivity in diagnosing pancreatitis.
+c. CRP appears to have high sensitivity but poor speci
+ficity in diagnosing pancreatitis.
+d. CRP is produced within the pancreas and leaks from
+edermatous pancreatic tissue during pancreatitis.
+9. Which statement regarding PLl and serum
+lipase is correct?
+a. PLl measures pancreas-specific lipase, which is anti-
+COMPENDIUM
+March 2006

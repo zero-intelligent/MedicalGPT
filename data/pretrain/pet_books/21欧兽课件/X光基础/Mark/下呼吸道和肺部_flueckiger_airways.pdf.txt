@@ -1,0 +1,330 @@
+Lower Airways and
+Pulmonary Parenchyma
+Radiological Analysis
+下呼吸道和肺部X线检查
+Production:
+Johann Lang, Univ. Berne
+Adaptation:
+M. Fluckiger, Univ. Zurich
+References参考文献
+Handout手稿
+Books 书
+Owens & Biery (1999)
+Radiographic Interpretation for the Small Animal
+Clinician (Williams and Wilkins)
+Dennis et al (2002)
+Handbook of Small Animal Radiological
+Differential Diagnosis (Saunders)
+Kealy & McAllister (2005)
+Diagnostic Radiology and Ultrasonography of the
+dog and cat (Saunders).
+Evaluation of Thoracic Radiographs
+胸腔×线片的判读
+1. Systematic Assessment 整体判读
+Technique: Field of view, Positioning, Phase of respiration, Exposure, Artifact
+技术：投照范围、体位、呼吸周期、曝光条件、伪影
+Lung: volume, vessels, airways, pulmonary pattern
+肺：体积、血管、呼吸道、肺型
+Heart (cardiac silhouette), Aorta, Vena cava
+心脏（心脏轮廓）、主动脉、腔静脉
+Pleura胸膜
+Mediastinum (Size, Opacity, Oesophagus, Lymphnodes)
+纵隔（大小、密度、食道、淋巴结）
+Diaphragm 横膈
+Skeletal Structures,Soft Tissue 骨性结构、软组织结构
+a
+Include signalement, history, clinical symptoms, and laboratory data
+考虑病征、病史、临床症状和实验室检查
+3. Re-evaluate abnormal findings重新判读异常点
+4.List DD and further work-up 列举结果， 并进一步检查
+Factors affecting
+diagnostic yield of
+thoracic radiographs
+影响胸腔X线检查的主要因素
+- Radiographic technique
+X线摄影技术
+- Body condition
+动物体状态
+- Phase of respiration
+呼吸周期
+Technique 技术
+underexposed
+slightly overexposed
+曝光不足
+轻度曝光过度
+Normal body condition
+正常状态
+Emaciated
+Obese
+消瘦
+肥胖
+A lung is made of AIR and VESSELS
+肺组织由空气和血管构成
+normale Lunge
+Pulmonary Pathology
+肺部的病理变化
+Opacity increased
+密度升高
+Opacity decreased
+密度降低
+Opacity decreased, generalized
+密度降低，广泛性
+Lung field opacity decreased but....
+肺野密度降低，但是
+Opacity decreased, focal
+局灶性密度降低
+Cyst (note the wall)
+囊肿（可见囊肿壁）
+Bulla (no wall)
+肺大疱（无壁）
+Emphysema
+肺气肿
+Bronchiectasy
+支气管阻塞
+Cavitary lesion
+空洞性损伤
+(aereated abscess or tumor, supplied by bronchus)
+（发生脓肿或肿瘤，支气管代偿）
+Lung Pattern, Terms
+肺型，术语
+General整体：
+"PulmonaryPattern肺型
+"Roentgen sign”X线征象
+Focal 病灶:
+Margination边缘
+Homogenicity均质度
+Distribution分布
+The lung pattern is the keyto the diagnosis
+肺型是诊断的关键
+Alveolar肺泡型
+End alr space 气体范围减少
+focal -multifocal 一generalized 病灶-多病灶-广泛性
+air-bronchogram formation! 
+出现空气支气管征
+Vascular血管型
+Vessels血管
+small /wide细/宽;
+inceased / reduced 增加/减少
+Bronchial支气管型Lower airways下呼吸道
+content内容物，wall管壁，peribronchialcuffings支气管周围袖套
+Interstitial 间质型
+Supporting lung matrix肺的支持结构
+unstructurered（active)非结构性（急性）
+structurered（chronic）结构性（慢性）
+reticular (net like) 网状 (类似网)
+nodular (nodules,nodes)结节性（瘤，结节)
+Lung Pattern, Description
+肺型，描述
+Alwaysuse永远受用
+一Type of PulmonaryPattern 肺型类型
+Localisation 部位
+Extent范围
+Distribution,Symmetry分布，对称性
+Temporal changes 随时间的变化
+Alveolar lung pattern 
+肺泡型
+Air bronchogramformation空气支气管征
+Alveolar肺泡型
+air alveologram formation
+空气支气管征
+Distribution分布：
+right sided
+右侧
+apical and middle
+lung lobes
+尖叶和中间叶
+Alveolar pattern 月
+肺泡型
+Maindifferentials主要的鉴别诊断
+Pneumonia 肺炎
+Severeedema严重的肺水肿
+(cardiogenic, non cardiogenic)
+（心源性，非心源性）
+Atelectasis肺不张
+(small lung lobe!) 小肺叶
+Severehemorrhage严重的出血
+Lung lobe torsion (always with
+pleural effusion)
+肺叶扭转（伴有胸膜腔渗出）
+Vascularpattern血管型
+Vessels few and small 血管减少、变小
+Hypovascular
+lung field
+肺野血管不足
+Vascularpattern血管型
+Vessels,few and small 血管减少、变细
+major DD常见疾病
+Hypovolemia低血容量
+(hemorrhage, dehydration)出血、 脱水
+Over-lnflation (asthma)
+肺膨胀过度（哮喘）
+Right heart insufficiency右心机能不全
+(pericardial effusion,
+pulmonic stenosis, tricuspid-lnsuff
+R => L shunt, rare)
+（心包积液、肺动脉狭窄、三尖瓣闭
+锁不全，心脏从右至左分流，罕见）
+Vascularpattern血管型
+Vessels:many andwide血管：增多、变粗
+Vascular pattern 血管型
+manyorwidevessels血管增多或变粗
+major DD常见疾病
+Expiratory radiograph
+呼气末摄影
+Congestion (left heart failure)
+充血（左心衰竭）
+Overperfusion (L-R Shunt)
+Overhydration
+灌注过度（左-右分流）
+水合过度
+Chronic severe anemia
+慢性严重的贫血
+Vascular obstruction
+(Dirofilariosis, Embolism)
+血管栓塞（犬恶丝虫病、血栓）
+Bronchial Pattern
+支气管型
+Usemagnifiyingglass使用放大镜
+Ring shadows（Doughnuts)，环形阴影（“油炸卷饼"状）
+Reducedbronchial lumen支气管腔变细
+"Tramlines，“电车轨道"征
+Caution:
+Mineralised bronchial walls in old animals are radio-
+opaque but not thickened.
+注意：在X线片中，老龄犬出现支气管壁钙化，但未见
+增厚
+Bronchial Pattern
+支气管型
+major DD常见疾病
+Walls opaque and thin, wide
+lumen:
+管壁密度升高，变细，管腔变宽
+ Mineralisation
+钙化
+Walls thickened, lumen narrow:
+管壁增厚，管腔变窄
+-Bronchitis支气管炎
+-Bronchiectasis支气管扩张
+- (Lymphosarcoma) 淋巴肉瘤
+Interstitial Pattern间质型
+ 2 Forms
+2类
+unstructured 非结构性
+structurerd 结构性
+reticular 网状
+nodular结节状
+normal
+Normal 正常
+Interstitial
+Pattern
+间质型
+Interstitial unstructured
+Interstitial structured
+结构性间质型
+非结构性间质型
+Interstitial
+unstructured
+非结构性间质型
+Interstital Pattern unstructured, DD
+非结构性间质型常见疾病
+Artifact !!伪影
+expiratory radiograph
+呼气末X线片
+Pneumonia 肺炎
+Pulmonary edema 肺水肿
+Hemorrhage 出血
+Neoplasia肿瘤
+Allergy过敏
+Fibrossis, old age
+老年性纤维化
+More 其他
+Interstitialstructured结构性间质型
+Osteoma
+骨瘤
+Reticular
+Interstitial structureo
+网状
+结构性间质型
+Nodular
+结节
+Mass
+肿块
+Interstitialstructured结构性间质型
+Nodular 结节
+Interstitialstructured结构性间质型
+Mass肿块
+Interstitial Pattern structured, DD
+结构性间质型常见疾病
+Tumor metastases
+转移性肿瘤
+( Granuloma, fungal)
+真菌性肉芽肿
+ Primary Lung tumor
+(single mass)
+原发性肺肿瘤（单一肿块）
+Osteoma
+small, opaque !!
+骨瘤
+小而不透射线
+A Radiographic Pattern
+is a descriptic finding
+not an aetiological diagnosis!
+X线分型是一种描述所见异常的方法，而不是病因
+学诊断
+A single pattern is rare.
+mixed or multiple patterns are common.
+单一肺型少见，混合型较常见
+Use the predominant pattern
+to build a list of DD
+通过主要肺型，可以列举常见疾病
+Use additional descriptive criteria
+使用其他的描述标准
+Location部位
+Extent,severity范围、程度
+Distribution,Symmetry 分布、对称性
+Lungvolume肺容量
+Changes over time (recheck)
+随时间变化（复查）
+Non-pulmonaryfindings未见肺部异常
+Distribution
+分布
+Lit: Dennis,
+In Practice 30;
+p. 182 (2008)
+Zur Anzeige wird der QuickTime?
+Dekompressor
+ben igt.
+after chemotherapy化疗后
+Malignant lymphoma:
+before chemotherapy
+interstitia! pattern,
+enlarged hilar lymph
+nodes,
+恶性淋巴瘤：
+华疗剪
+可见间质型，
+肺门淋巴
+结肿大
+Malignant lymphoma:
+before chemotherapy
+interstitial pattern,
+enlarged hilar lymph nodes,
+恶性淋巴瘤：
+：化疗前，可见间质型
+淋巴结肿大
+What is your diagnosis ?
+你的诊断？
+0
+Radiographs do not lie
+X线片不会说谎
+They mirror the disease
+它真实反映疾病
+Read them systematically
+必须全面的理解它
+Thank you !
+谢谢
+Berne, Switzerland, our capital
+Zur Anzeige wird der QuickTime?
+Dekompressor
+ben  igt.
+...and Zurich, Switzerland, my hometown

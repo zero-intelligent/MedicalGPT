@@ -1,0 +1,840 @@
+Medizinische
+Kleintierklinik
+Feline Upper Respiraory Tract Disease
+猫的上呼吸道疾病
+Katrin Hartmann
+Prof. Dr. med. vet., Dr. habil., Dipl. ECVlM-CA
+Ludwig-Maximilians-Universitat Munchen
+Medizinische
+Kleintierklinik
+",Kifera"
+·Siamese暹罗猫
+·10 weeks old10周
+·female母猫
+Medizinische
+Kleintierklinik
+",Kifera"
+history病史
+· was purchased from
+a breeder 1 week ago
+1周前从繁殖者那里买来
+· next day
+started sneezing and
+nasal discharge
+第二天开始打喷嚏和流鼻液
+· vaccinated once
+免疫过一次
+· single cat household
+家里只有这一只猫
+· only indoors
+只在室内生活
+Medizinische
+Kleintierklinik
+,Kifera"
+physical examination
+体检
+· very quiet, shivering
+anorectic
+很安静，发抖，厌食
+· severe conjunctivitis
+right > left eye
+严重的结膜炎
+右眼》左眼
+· mild keratitis
+轻微的角膜炎
+· serous nasal discharge
+浆液性鼻分泌物
+·anorexia厌食
+·hypothermia体温低
+Medizinische
+Kleintierklinik
+Whatis
+the
+eproblem
+intheseCats?
+这只猫有什么？
+Medizinische
+Kleintierklinik
+FURTD猫上呼吸道疾病
+-FHV
+=felineherpesvirus（FHV)猫疱疹病毒
+猫疱疹病毒=felines rhinotracheitisvirus(FRV)
+猫鼻气管炎病毒
+- FCV
+=felinecalicivirus猫杯状病
+Chlamydophilafelis猫衣原体
+- Bordetella bronchiseptica
+- Mykoplasma spp. (e. g. M. felis)
+otherbacteria其他细菌
+yr2000/may/research
+Medizinische
+Kleintierklinik
+FURTD猫上呼吸道疾病
+FHV
+FCV
+Cf
+Bb
+Lethargy嗜睡
++++
+Sneezing喷嚏
++++
+++
+Conjunctivitis结膜炎
+++
++
+Salivation流涎
++工+
+ocular disch眼分泌物
++++
++++
++
+nasal disch鼻分泌物
++++
+Ulceration溃疡
++++
+Keratitis角膜炎
+Coughing咳嗽
+（+）
+Pneumonia肺炎
+(+)
+Lameness跛行
+Medizinische
+Kleintierklinik
+,Kifera"
+swab（conjunctiva)试子（结膜）
+=> multiplex PCR (FCV, FHV, Chlamydophila felis)
+多元性PCR（猫杯状病毒，猫疱疹病毒，猫衣原体）
+swab（conjunctiva）试子（结膜）
+=> cytology (for Chlamydophila felis)
+细胞学（用于猫衣原体）
+Medizinische
+Kleintierklinik
+,Kifera"
+swab（conjunctiva）试子（结膜）
+- PCR
+=> positive for FHV + Chlamydophila felis
+FHV阳性+猫衣原体
+-cytology细胞学
+=> Chlamydophila felis inclusion bodies
+猫衣原体
+Medizinische
+Kleintierklinik
+Feline
+Herpesvirus
+Feliine
+猫疱疹病毒
+Medizinische
+Kleintierklinik
+FHV
+Etiology病因学
+ big, enveloped DNA virus
+only one single serotype
+大的包被DNA病毒
+只有一个血清型
+www.markanderson.ndirect.co.uk/
+defence.htm
+pathogenesis on natural conditions only temperature
+restrictive replication (< 37°C)
+=> replication in "cold" mucosals
+no viremia at body temperatures
+自然条件下发病机制只有温度限制复制（《37C）
+在“冷的”黏膜中复制
+在正常提问下没有病毒毒性
+-multifocal necrosis of epithelial cells
+-上皮细胞多灶性坏死
+Medizinische
+Kleintierklinik
+FHV-Epidemiology流行病学
+by ocular and nasal discharge, saliva
+Excretion
+眼，鼻腔，唾液
+分泌物
+(1 to 3 week period) 1-3周时间
+Transmission
+generallydirect,大多数情况时直接传播
+传染
+indirect transmission possible
+也可能间接传播
+Tenacity
+lessstableintheenvironment环境中稳定性较差
+稳定性
+(up to 24 hours)长达24小时
+carrier state
+viruspersistsin ganglions病毒存在于神经节
+携带状态
+withoutshedding不发生脱落
+periods of shedding (1 to 2 weeks)
+after immunosuppresssion
+如果受到免疫抑制那么（1-2周）会发生脱落
+Medizinische
+Kleintierklinik
+susceptiblecat怀疑患病猫
+FHV - Carrier State
++
+携带状态
+Virus病毒
+ cat with acute FHV infection
+shedding carrier
+急性EHV感染
+(may show
+clinical signs)
+脱落(可能表现临床症状)
+chronic
+clinical
+Sequelae
+Recovery
+4 -11
+慢性后遗症
+临床恢复
+days
+100 % becdme carriers
+(approximately half
+often after "stress
+epidemiologically important)
+(e.g. boarding,
+100%的携带者（大概在流行病学中
+going to stud,
+有一半是很重要的）
+cat show,
+corticosteroid)
+通常“应激”之后（例如寄养
+virus goes Tatent
+学习，猫展，皮质类固醇
+no evidence self-limitation
+潜伏的病毒，没有自身限制的证据
+variable period of time
+Gaskell & Benneff, 1996
+可变的时间段
+Medizinische
+Kleintierklinik
+FHV-ClinicaISignsI临床症状
+sneezing 喷嚏
+96 %
+nasal discharge鼻分泌物
+52 %
+ulcersintheoralcavitiy口腔溃疡
+4 %
+Mac Lachlan & Burgess, 1978
+ocular changes眼分泌物
+facialdermatitis面部皮炎
+abortion 流产
+Medizinische
+Kleintierklinik
+Rhinitis鼻炎
+Medizinische
+Kleintierklinik
+ChronicRhinitis慢性鼻炎
+Medizinische
+Kleintierklinik
+Severe Tracheitis/Pneumonia
+严重的气管炎、肺炎
+Medizinische
+Kleintierklinik
+Ocular Changes眼分泌物
+Keratitis角膜炎
+- ulcerative keratitis
+溃疡性角膜炎
+- keratoconjunctivitis sicca
+干眼症
+symblepharon脸球粘连
+www.ianimalclinic.com/ Practice.htm
+www.uveitis.org/Enhanced/ MD_info/md
+www.fabcats.org/is33.htm!
+Loki h+m
+Medizinische
+Kleintierklinik
+Abortion流产
+Abortion流产
+· consequence of general weakness?
+是全身虚弱的结果？
+· virus replication in the uterus?
+病毒在子宫里复制？
+www.medscape.com/../Pictour5/ public/PicTour5.0.htm!
+Medizinische
+Kleintierklinik
+FacialDermatitis面部皮r炎&
+& Ginn, 1999
+· ulcerative facial lesions 
+溃疡性面部损伤
+-erythematous,erosive,crusting 红斑，糜烂，结
+-characterizedbyeosinophils以嗜酸性细胞为特点
+-intranuclearinclusionbodies细胞核内包括胞体
+Scoff & Craig. 1999
+Scott & Craig, 1999
+Medizinische
+Kleintierklinik
+FHV-Diagnosis诊断
+detection of antibodies
+not useful
+抗体的检测
+没有月
+www.imagecyte.com/flash
+detectionofvirus病毒的检测
+· cytology (inclusion bodies)
+rarelytofind很难发现
+·细胞学（包括胞体）
+sensitive and specific
+·IFA（virus antigen）病毒抗原
+敏感而有特异性
+ PCR
+verysensitive很敏感
+ virus isolation (cell culture)
+difficult if concurrent
+FCVinfection如果出现
+病毒分离（细胞培养）
+猫杯状病毒感染那么会很难
+Medizinische
+Kleintierklinik
+FHV - Treatment Options
+治疗选择
+Medizinische
+Kleintierklinik
+SupportiveTreatment支持治疗
+-Nutrition营养
+-appetitestimulation胃口刺激
+*diazepam (Valium?)地西泮
+0.05-0.25mg/kgIV（immediateeffect)直接影响
+0.25 - 0.5 mg/kg q 12 h PO (longer application)长期运用
+cyproheptadine (Peritol?)
+0.5 - 1 mg/kg q 12 h'P0 (longer application)
+* mirtazapine 3 mg/Ktz. PO
+-vitamins（mucosalregeneration)维生素（黏膜重建）
+* vitamin A 5000 IU/kg q 24 h PO
+* vitamin C 80 mg/kg q 8 h PO
+* vitamin B complex q 48 h SQ
+Medizinische
+Kleintierklinik
+nasal
+tube鼻管
+Medizinische
+Kleintierklinik
+Esophagealtube食道管
+Medizinische
+Kleintierklinik
+Antiviral drugs against FHV
+用于FHV的抗病毒药
+local treatment(eye)局部治疗（眼部）
+acyclovir
+trifluridine
+vidarabine
+·idoxuridine
+·cidofovir
+systemic treatment全身治疗
+acyclovir
+valacyklovir
+famcyclovir
+interferon-w
+specific antibodies (Feliserin?)
+L-lysine
+Medizinische
+Kleintierklinik
+Antiviral drugs against FHV
+用于FHV的抗病毒药
+local treatment (eye)局部治疗(眼部)
+acyclovir
+trifluridine
+vidarabine
+idoxuridine
+cidofovir
+systemic treatment全身治疗
+acyclovir
+valacyklovir
+famcyclovir
+interferon-w
+specific antibodies (Feliserin?)
+L-lysine
+Medizinische
+Kleintierklinik
+Antiviral Effect in FHV and HSV
+在FHV和HSV中的抗病毒效果
+IC50*
+TFU
+GCV
+IDU
+CDV
+PCV
+VDB
+ACV
+Foscar
+net
+(μg/ml)
+FHV
+0,2
+1,3
+1,4-2,5
+3,1
+0,3-3,5
+5,6
+13,0-19,0
+44,7
+HSV
+0,5
+0,2
+0,3
+2,6
+0,6
+0,9
+0,3
+14,2
+*lowIC50=high efficacy 高度有效
+In-vitro-datafrom different studies不同研究的离体试验
+Medizinische
+Kleintierklinik
+LocalOcularTreatment局部眼部治疗
+trifuridine
+ ganciclovir
+= idouridine
+= cidofovir
+= penciclovir
+= vidarabin
+> acyclovir
+>> foscarnet
+Maggs, 2006
+picture U. Dietrich, Athens
+Medizinische
+Kleintierklinik
+Trifluridine
+trifluridine (Triflumann eye drops)
+）1%eyedrops1%眼滴剂
+very good efficacy against FHV in vitro
+离体试验对FHV很有效
+excellent penetration of the cornea
+对角膜有很好的渗透性
+irritationof theeye对眼有刺激
+expensive 贵
+ on day 1 g 1 h, afterwards g 3 (- 4) h
+Medizinische
+Kleintierklinik
+Idoxuridine
+idoxuridine (Virexen?)
+· 0,1 % eye drops 0.1%眼滴剂
+·0,5%eyeointment0.5%眼软膏
+good efficacy against FHV in vitro
+离体试验对FHV效果好
+toleratedverywellbycats猫的耐受性很好
+ relatively inexpensive (formulated by pharmacy)
+相对便宜（药房开据）
+q4 h
+Medizinische
+Kleintierklinik
+Viradabine
+viradabine (Vidarabin 3 % Thilo?)
+●3%eyeointment3%的眼软膏
+ good efficacy against FHV in vitro
+离体试验对FHV效果很好
+tolerated very well by cats
+猫的耐受性高
+q 4 (- 6) h
+Medizinische
+Kleintierklinik
+Cidofovir
+Vistide
+cidofovir
+cidofovir (Vistide?)
+ 1 drop of 0,5 % cidofovir g 12 h
+1滴0.5%的西多福韦
+药讯网WV
+ reduction of symptoms and viral shedding
+减轻症状和病毒的脱落
+expensive贵
+scarring of the nasolacrimal duct (humans)?
+鼻泪管的创伤（人）？
+Medizinische
+Kleintierklinik
+Cidofovir: Experimental Study
+实验室研究
+12 cats with experimental FHV-infection
+实验室感染12只猫FHV病毒
+6 cats cidofovir（topical）6只运用cidofovir（局部）
+1 drop of 0,5 % cidofovir in 1 % carboxymethylcellulose
+in both eyes q 12 h for 10 days
+1 滴 0,5 % cidofovir 和 1 % carboxymethylcellulose
+用于双侧眼g12h，持续10天
+6catsplacebo6只猫给安慰剂
+significantdifference很大的不同
+Vistide
+clinical signs临床症状
+amountofviralshedding病毒脱落的数量
+Fontenelle et al., 2008
+Medizinische
+Kleintierklinik
+Antiviral Drugs against FHV
+对抗FHV的抗病毒药
+local treatment(eye)局部治疗（眼部）
+acyclovir
+ trifluridine
+vidarabine
+idoxuridine
+cidofovir
+systemic treatment 全身治疗
+acyclovir
+valacyklovir
+ famcyclovir
+interferon-w
+specific antibodies (Feliserin?)
+L-lysine
+Medizinische
+Kleintierklinik
+Acyclovir
+commercially availiable e. g. as Zovirax? (Wellcome)
+市面上有销售
+modeofaction作用的模式
+nucleoside analogue核苷类似物
+interferes with DNA-replication of herpes viruses
+感染疱疹病毒DNA的复制
+is only activated in herpes infected cells
+只在疱疹感染的细胞中有活性
+Dosage剂量
+10 mg/kg q 8 h SC, IV, PO (or topical application)
+side effects副作用
+low toxicity低毒性
+=> damage of renal tubules
+肾小管损害
+local irritation if injected
+如果注射有局部刺激
+Medizinische
+Kleintierklinik
+Antiviral Effect in FHV and HSV
+在FHV和HSV的抗病毒作用
+IC50*
+TFU
+GCV
+IDU
+CDV
+PCV
+VDB
+ACV
+Foscar
+net
+(μg/ml)
+FHV
+0,2
+1,3
+1,4-2,5
+3,1
+0,3-3,5
+5,6
+13,0-19,0
+44,7
+HSV
+0,5
+0,2
+0,3
+2,6
+0,6
+0,9
+0,3
+14,2
+*low IC50 = high efficacy
+In-vitro-data from different studies
+Medizinische
+Kleintierklinik
+Selectivity ofAcyclovir
+阿昔洛韦的选择性
+high affinity
+to viral
+DNA polymerase
+viral
+thymidine
+cellular
+Kinase
+Kinases
+病毒胸苷激酶
+细胞激酶
+acyclovir→ acyclovir monophosphate
+acyclovir triphosphate
+阿昔洛韦单磷酸盐
+阿昔洛韦三磷酸盐
+low affinity
+to cellular
+DNA polymerase
+对细胞DNA聚合酶的低吸引I力
+Medizinische
+Kleintierklinik
+Valacyclovir: Experimental Study
+试验研究
+24 SPF-cats (experimental FHV-infection)
+24只猫（试验造FHV感染）
+12 cats valacyclovir (60 mg/kg PO q 6 h)
+12只运用valacyclovir
+12catsplacebo12只安慰剂
+nodifferencein“ocularsigns”对"眼部症状”没有不同
+severesideeffects严重的副反应
+-Neutropenia嗜中性白细胞减少症
+-Nephrotoxicity肾毒性
+Nasisse et al., 1997
+Medizinische
+Kleintierklinik
+Famciclovir
+famciclovir (Famvir?)
+activatedinFHV-infectedcells在FHV感染的细胞有活性
+by thymidinkinase of herpes viruses
+case reports (cats)
+病例报告
+Malik et al., 2008
+ocular changes（n=4）眼部变化
+- rhinosinusitis (n = 2) 
+鼻瘘炎
+- dermatitis (n = 4)皮炎
+- 62,5 mg/cat q 8 - 12 h PO (n = 6)
+FAMVIR
+- 125 mg/cat q 12 h PO (n = 4)
+21 1oi
+200 mg
+tolerated well over 4 months
+ONOVARTIS
+耐受性超过4个月都好不错
+Medizinische
+Kleintierklinik
+Famciclovir
+famciclovir (Famvir?)
+casereports病例报告
+·23catsofdifferentowners23只猫来自不同的主人
+ocular, dermatologic, respiratory signs
+眼部，皮肤，呼吸道症状
+● 93 (70 - 141) mg/kg P0 q 8 h
+14,5 (7 - 63) days
+17 cats with marked improvement (74%)
+17只有明显提高
+FAMVIR
+"safe"安全
+GNOYAREIS
+Thomasy & Maggs, 2008
+Medizinische
+Kleintierklinik
+Famciclovir
+shouldn'teverycatbetreated？难道不是每只猫都
+应治疗么？
+dosagepresumably...剂量假设
+ no side effects (even if given over months)
+没有副作用（尽管给药超过几个月）
+Scott & Craig, 1999
+Medizinische
+Kleintierklinik
+Interferon-w干扰素
+human interferon-α, feline interferon-w
+人的干扰素，猫的干扰素
+antiviraleffects抗病毒作用
+inhibits virus assemly and budding
+Virbage
+抑制病毒组装和脱落
+cytokine, immunomodulatory effect
+细胞因子，免疫调节作用
+Dosage剂量
+hulFN-α high dose 105 IU/kg g 24 h SQ (short term)
+hulFN-α low dose 1 (- 50) IU g 24 h PO (long term)
+felFN-o 106 IU/kg SQ g 24 h on 5 consecutive days
+Spectrum作用谱
+allvirusinfections所有病毒感染
+sideeffects副作用
+rarely allergic reactions (hulFN-a)
+罕见的过敏反应
+Medizinische
+Kleintierklinik
+Feline IFN-w against FHV
+猫干扰素对抗FHV
+inhibition of FHV replicationin vitro
+在离体试验中抑制FHV的复制
+efficacy有效
+feline interferon-w >>> human interferon-a
+猫干扰素》》人干扰素
+Siebeck et al., 2006
+Medizinische
+Kleintierklinik
+Interferon一invitro干扰素-离体试验
+interferon一invitro干扰素-离体试验
+1 - 5 x 10^5 IU/ml rhIFNα Or rfllFNw
+-reduced FHV-1 - titer and cytopathic effect
+减少FHV-1滴度以及细胞病理作用
+-in higher concentrations高浓度，IFNw > IFNa
+Sandmeyer et al. AJVR 2005;66:210-216
+Slebeck et al. AJVR 2006; 67:1406-1411
+10 or 100 1U/ml rhlFNa
+-8-fold reduction of the acyclovir - dose
+能8倍2减少acyclovir的剂量
+particularly with IFNa - pretreatment
+特别是和干扰素a一起运用-治疗治疗
+WeisS. AJVR 1989;50:1672-1677
+Medizinische
+Kleintierklinik
+Feline IFN-w against FHV
+猫干扰素W对抗FHV
+experimental FHV infection in 9 SPF cats
+试验造FHV感染9只猫
+ 5 cats feline interferon-w (starting 2 days before inf.)
+5只用猫干扰素W（用药前2天）
+- 103 IU/cat g 12 h topically into both eyes两眼局部用药
+- 203 IU/cat q 24 h PO
+4 catsplacebo 4只给予安慰剂
+nosignificantdifferencein没有明显的区别
+clinical score临床的分
+Virbage
+virusload病毒量
+periodofvirusshedding病毒脱落期
+significantly higher score for epithelial keratitis
+对上皮角膜炎有很明显的高评分
+Haid etal.,2007
+Medizinische
+Kleintierklinik
+Immunoglobulins免疫球蛋白
+Feliserin?
+antiviraleffects抗病毒作用
+specific virus neutralizing antibodies
+特异的病毒中和抗体
+Dosage剂量
+for prophylaxis single injection SQ
+FELISERIN PRC
+单注射用于预防
+for treatment 3 x SQ (3 consecutive days)
+治疗剂量3倍（连续3天）
+Spectrum作用谱
+parvovirus, herpesvirus, calicivirus
+细小病毒，疱疹病毒，杯状病毒
+side effects副作用
+anaphylactic reaction in cats (repeated application)
+猫的过敏作用（重复使用）
+Medizinische
+Kleintierklinik
+L-Lysine
+amino acid (analogue of arginine)
+氨基酸（精氨酸）
+active in vitro (Maggs et al., 2000)
+NatureMade
+离体试验有作用
+L-Lysine
+inacuteFHVinfection在急性FHV感染
+UM100
+TAELETL
+>less severe clinical signs (stiles et al., 2002)
+一不那么严重的临床症状
+inchronicFHVinfections在慢性FHV感染
+=> reduced risk of reactivation (Maggs et al., 2003)减少反
+应风险
+nosideeffects无副反应
+-Cheap便宜
+500 mg/cat g 12 h PO
+mixed with small amounts of moist food
+和少量潮湿的食物混合
+Medizinische
+Kleintierklinik
+L-Lysine as Food Supplement
+new studies of efficacy in animal shelters
+在动物上作用的新研究
+supplement with L-lysine for cats with enzootic cat flu
+提供给患有地方性猫流感的猫
+=> no effect 无作用
+Maggs et al. 2007
+nutritional supplementation of L-lysine as prevention of cat
+flu in animal shelter => no effect
+作为预防猫流感的营养补充--无作用
+Rees & Lubinski 2008
+nutritional supplementation of L-lysine to treat cat flu in
+animal shelters => no effect
+作为治疗猫流感的营养补充-----无作用
+(rather aggravation of symptoms and rise of viral shedding
+=> lack of arginine?)
+症状加重以及病毒脱落增加-----缺少精氨酸？
+Drazenovich et al., 2009
+Medizinische
+Kleintierklinik
+Lysine赖氨酸
+lysine
+ efficacy in FHV-1 - infected cats
+受FHV-1感染的猫有效
+ decreased replication in vitro (via arginine antagonism)
+离体试验中复制降低
+ clinical study
+临床研究
+－↓conjunctivitis（young cats）结膜炎下降（幼猫）
+-↓shedding（adult cats）脱落下降（青年猫）
+250/500mg - depot SlD not effective!无效!
+ counter-productive as food supplement!
+相反作为食物添加剂产品
+Medizinische
+Kleintierklinik
+Lactoferrin
+mammalian iron-binding glycoprotein
+produced by mucosal epithelial cells
+由黏膜上皮产生
+antibacterial, antifungal, antiprotozoal, antiviral
+抗细菌，抗真菌，抗原生动物，抗病毒
+nhibits FHV replication in vitro
+离体试验中抑制FHV复制
+inhibition of FHV adsorption to cell surface
+UIFEEXTENSION
+and/or penetration of the virus into the cell
+Laetoferrin
+(lactoferrin interaction with the receptors
+300MG
+or by direct neutralization/inhibition of FCV)
+iletary Sapp
+60Capsu
+抑制FHV吸附到细胞表面以及病毒渗透进入
+细胞（铁乳蛋白和受体作用，或者直接中和、抑制FCV）
+Maggs, 2006
+Medizinische
+Kleintierklinik
+Vaccination
+免疫
+Medizinische
+Kleintierklinik
+FHV vaccination
+Vaccination免疫
+significant but not complete protection against disease
+but no protection against carrier state
+重要，但是不能完全保护免受疾病侵害，不保护携带状态
+no prevention of colonization of mucous membranes
+对黏膜的定植没有预防
+no prevention of shedding
+不预防病毒脱落
+Medizinische
+Kleintierklinik
+,Kifera"
+history病史
+· was purchased from
+a breeder 1 week ago
+1周前从繁殖者那里购买
+·nextday第二天
+started sneezing and
+nasal discharge
+开始喷嚏和留鼻分泌物
+· vaccinated once
+·免疫过一次
+· single cat household
+·家里唯一的猫
+·onlyindoors只在室内
+Medizinische
+Kleintierklinik
+,Kifera"
+swab（conjunctiva）试子（结膜）
+- PCR
+=> positive for FHV + Chlamydophila felis
+FHV阳性+猫衣原体
+-cytology细胞学
+=> Chlamydophila felis inclusion bodies
+猫衣原体包核
+Medizinische
+Kleintierklinik
+Chlamydophila felis Inclusion Bodies
+衣原体包核
+picture U. Dietrich, Athens
+Medizinische
+Kleintierklinik
+,,Kifera"
+Treatment治疗
+· doxycycline for 6 weeks
+·多西环素6个月
+· local treatment (eye)
+·局部治疗（眼）
+· idoxuridine
+· feline interferon-w
+· clinical signs resolved after 7 days
+7天之后临床症状减轻
+·PCRafter4weeks4周后做PCR
+·negative for FHV FHV阴性
+still positive for Chlamydophila felis
+·猫衣原体仍然阳性
+Medizinische
+Kleintierklinik
+Thankyou!
+Medizinische Kleintierklinik LMU Munchen

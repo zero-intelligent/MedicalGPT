@@ -1,0 +1,4068 @@
+SmallAnimal
+Bandaging,
+Casting
+Splinting
+Technigues
+and
+Steven F. Swaim, Walter C.Renberg and Kathy M. Shike
+V.W.M.S
+WILEY-BLACKWELL
+小尾巴宠物健康中心http://ttahc.taobao.co m
+Small Animal Bandaging, Casting.
+and Splinting Techniques
+Small Animal Bandaging, Casting
+and Splinting
+Techniques
+Steven F. Swaim, DVM, MS
+Professor Emeritus
+Scott-Ritchey Research Center and
+Dept. of Clinical Sciences
+College of Veterinary Medicine
+Auburn University, Alabama
+Walter C. Renberg, DVM, MS, Dip. ACVS
+Associate Professor
+Department of Clinical Sciences
+College of Veterinary Medicine
+Kansas State University
+Manhattan, Kansas
+Kathy M. Shike, RVT
+Veterinary Technician
+Department of Clinical Sciences
+College of Veterinary Medicine
+Kansas State University
+Manhattan, Kansas
+V.W.M.S
+WWILEY-BLACKWELL
+A John Wiley & Sonis, Inic., Publication
+Edition first published 2011
+@ 2011 Steven F. Swaim, Walter C. Renberg, and Kathy M. Shike
+Blackwell Publishing was acquired by John Wiley & Sons in February 2007. Blackwell's publishing program has been
+merged with Wiley's global Scientific, Technical, and Medical business to form Wiley-Blackwell.
+Eaitorial Office
+2121 State Avenue, Ames, lowa 50014-8300, USA
+For details of our global editorial offices, for customer services, and for information about how to apply for permission to
+by Blackwell Publishing, provided that the base fee is paid directly to the Copyright Clearance Center, 222 Rosewood
+Drive, Danvers, MA 01923. For those organizations that have been granted a photocopy license by CCC, a separate system
+of payments has been arranged. The fee code for users of the Transactional Reporting Service is ISBN-13:
+978-0-8138-1962-4/2011.
+Wiley also publishes its books in a variety of electronic formats. Some content that appears in print may not be available in
+electronic books.
+Designations used by companies to distinguish their products are often claimed as trademarks. All brand names and
+product names used in this book are trade names, service marks, trademarks, or registered trademarks of their respective
+owners. The publisher is not associated with any product or vendor mentioned in this book. This publication is designed
+required, the services of a competent professional should be sought.
+Library of Congress Cataloging-in-Publication Data
+Swaim, Steven F.
+Small animal bandaging, casting, and splinting techniques / Steven F. Swaim, Walter C. Renberg, and Kathy M. Shike.
+p.; cm.
+Includes bibliographical references and index.
+ISBN 978-0-8138-1962-4 (pbk. : alk. paper)
+     e   a s    
+(Surgery)  1. Renberg, Walter C. I1. Shike, Kathy M. l1. Title.
+[DNLM: 1. Bandages--veterinary. 2. Orthopedic Fixation Devices--veterinary. 3. Animals, Domestic. 4. Wounds
+and Injuries--veterinary. SF 914.3]
+SF914.3.S93 2011
+636.089'71--dc22
+2010042171
+A catalog record for this book is available from the U.S. Library of Congress.
+ eipauad as-sag ueddo Aq oueed id s' uo s'6 un ias
+Printed in ··
+Disclaimer
+ The publisher and the authors make no representations or warranties with respect to the accuracy or completeness of the
+a competent professional person should be sought. Neither the publisher nor the author shall be liable for damages arising
+herefrom. The fact that an organization or Website is referred to in this work as a citation and/or a potential source of
+may provide or recommendations it may make. Further, readers should be aware that Internet Websites listed in this work
+may have changed or disappeared between when this work was written and when it is read.
+12011
+Dedication
+This book is dedicated to the veterinarians, veterinary technicians,
+residents, interns, veterinary students, and especially the animals
+that will benefit from its use.
+Table of Contents
+Mission Statement
+xi
+Joint immobilization
+11
+Foreword
+xiii
+Maceration and excoriation
+12
+Preface
+XV
+ Need for sedation or anesthesia
+Acknowledgments
+xvii
+during bandage change
+12
+Casts and splints
+13
+Chapter 1 - Basics of Bandaging, Casting.
+General information
+13
+ and Splinting
+3
+Purposes and functions of casts
+Bandaging
+3
+ and splints
+13
+ Purposes and functions of a bandage
+3
+Materials
+13
+ Components of a bandage
+4
+Splint rods
+13
+Primary-contact layer
+4
+Commercial splints
+13
+Highly absorptive dressings
+4
+ Plastic splinting material
+13
+Gauze dressings
+4
+Stockinette
+13
+Hypertonic saline dressings
+5
+ Casting tapes
+14
+ Calcium alginate dressings
+5
+Copolymer starch dressings
+5
+Chapter 2 - Head and Ear Bandages
+15
+Moisture-retentive dressings
+5
+Emergency ear bandage
+15
+ Polyurethane foam dressings
+6
+Indications
+15
+ Polyurethane film dressings
+6
+Technique
+15
+Hydrogel dressings
+7
+Aftercare
+16
+Hydrocolloid dressings
+7
+Advantages and complications
+16
+Nonadherent semiocclusive
+ Basic head and ear bandage
+16
+dressings
+7
+Indications
+16
+Antimicrobial dressings
+8
+Technique
+16
+Extracellular matrix bioscaffold
+Aftercare
+22
+dressings
+8
+Advantages and complications
+23
+Secondary-intermediate layer
+9
+Tertiary-outer layer
+9
+Chapter 3 - Thoracic, Abdominal,
+ Special considerations in bandaging.
+ and Pelvic Bandages
+25
+ casting, and splinting
+10
+Thoracic, abdominal bandages
+25
+ Frequency of changes
+10
+Circumferential thoracic, abdominal
+Security
+10
+bandage
+25
+Pressure relief
+11
+Indications
+25
+vii
+vill   Contents
+Technique
+26
+Advantages and complications
+55
+Aftercare
+29
+ Interdigital and interpad areas
+55
+ Advantages and complications
+29
+Primary bandage layer
+56
+Windowed thoracic, abdominal
+Secondary bandage layer
+56
+bandage
+29
+Tertiary bandage layer
+56
+Indications
+29
+ Basic paw and distal limb bandage
+56
+Technique
+29
+hdications
+56
+Aftercare
+29
+Technique
+56
+ Advantages and complications
+29
+ Interdigital/interpad areas
+56
+Thoracic,abdominal tie-over
+Primary bandage layer,
+bandage
+29
+"donut" pads, and "stirrups"
+58
+Indications
+29
+ Secondary bandage layer
+62
+Technique
+30
+Tertiary bandage layer
+64
+Aftercare
+31
+Aftercare
+67
+31
+ Bandage removal
+67
+Pelvic bandages
+32
+ Bandage replacement
+67
+ Circumferential pelvic bandage
+32
+ Advantages and complications
+68
+Indications
+32
+ Interdigital/interpad area
+68
+Technique
+33
+ Primary bandage layer
+68
+Aftercare
+35
+Secondary bandage layer
+68
+ Advantages and complications
+35
+Tertiary bandage layer
+69
+Windowed pelvic bandage
+36
+Paw pad pressure relief
+69
+Indications
+36
+Indications
+69
+Technique
+36
+Technique-
+-moderatewounds
+Aftercare
+38
+on small to medium-sized dogs
+69
+ Advantages and complications
+38
+ Metacarpal/metatarsal pad
+69
+Pelvic tie-over bandage
+39
+ Digital pads
+70
+Indications
+39
+Aftercare
+-moderate wounds on
+Technique
+39
+ small to medium-sized dogs
+71
+Aftercare
+39
+Advantages and complications-
+ Advantages and complications
+39
+moderate wounds on small to
+Pelvic extension splints
+39
+medium-sized dogs
+71
+Indications
+39
+Techniques
+-major reconstructive
+Technique
+40
+or salvage paw surgery, especially
+Aftercare
+41
+on large dogs
+71
+ Advantages and complications
+41
+"Clamshell" splints
+71
+One-half "clamshell" splint
+72
+Chapter 4 - Extremity Bandages,
+Aftercare-
+—major reconstructive
+Casts, and Splints
+43
+or salvage paw surgery, especially
+Tail bandages
+43
+on large dogs
+73
+Indications
+43
+ Advantages and complications-
+Technique
+44
+ major reconstructive or salvage
+Aftercare
+47
+paw surgery, especially on
+ Advantages and complications
+47
+large dogs
+73
+ Forelimb bandages, casts, and splints
+47
+ Dorsal paw pressure relief
+73
+Basic soft padded limb bandage
+47
+Indications
+73
+Indications
+48
+Technique
+74
+Technique
+48
+Aftercare
+75
+Aftercare
+54
+ Advantages and complications
+75
+ Bandage removal
+54
+ Carpal sling
+75
+ Bandage replacement
+55
+Indications
+75
+Contents
+iX
+Technique
+76
+Aftercare
+99
+Aftercare
+78
+Advantages and complications
+99
+ Advantages and complications
+78
+Ehmer sling
+100
+Basic forelimb splint
+78
+Indications
+100
+Indications
+78
+Technique
+100
+Technique
+78
+Aftercare
+104
+Aftercare
+83
+ Advantages and complications
+104
+ Advantages and complications 
+83
+90/90 sling
+104
+ Basic forelimb cast
+83
+Indications
+104
+Spica bandage and lateral splint 
+83
+Technique
+105
+Indications
+83
+Aftercare
+108
+Technique
+84
+ Advantages and complications
+108
+Aftercare
+87
+Tie-over bandage
+108
+ Advantages and complications
+87
+Indications
+108
+Aluminum rod loop elbow splint 
+88
+Technique
+108
+Indications
+88
+Aftercare
+108
+Technique
+88
+ Advantages and complications
+109
+Aftercare
+89
+89
+Chapter 5 - Restraint
+111
+Velpeau sling
+89
+Elizabethan collar
+111
+Indications
+89
+ Plastic wrap-around collar
+113
+Technique
+89
+Towel collar
+113
+Aftercare
+92
+Muzzles
+114
+Advantages and complications
+92
+Side braces
+114
+ Pelvic limb bandages, casts, and splints 
+92
+ Topical chemical deterrents
+118
+ Basic soft padded limb bandage
+92
+Electronic devices
+119
+Basic pelvic limb splint
+93
+ Basic pelvic limb cast
+93
+Suggested Reading
+121
+Indications
+93
+Index
+123
+Technique
+93
+Veterinary Wound Management
+Society Mission
+"The mission of the Veterinary Wound Management Society is to advance the art and science of animal
+,g a u auaxa oond sn taa pmom
+V.W.M.S
+VETERINARYWOUNDMANAGEMENT
+Foreword
+Bandage application is a daily activity in most small
+research projects in the field. The clinical and
+animal practices. Challenges arise due to variations
+research experiences of the authors are translated
+in size, shape, injury type and location, activity
+here into a format that the reader can use to make
+level, and desire (or lack thereofl) to keep a
+sound bandaging decisions for his or her own
+bandage in place posed by our veterinary patients.
+patients.
+Successful bandaging is both an art and a science.
+ Step-by-step illustrated instructions on a range
+The art: thinking outside the box for creative solu-
+of bandaging techniques are a unique component
+tions to protect injuries in even the most awkward
+of this book and provide a very practical, visual
+of locations. The scierce: selecting bandage compo-
+guide. Specific instructions on bandage applica-
+nents that work positively with the biology of
+tion are rounded out by clearly organized informa-
+wound healing and use the laws of physics to
+tion on the indications, aftercare, safe removal or
+advantage. This book successfully incorporates
+modification, and potential complications of each
+bothi.
+bandage type. This material is further enhanced by
+ pmos 't raide u pais Ade os sy
+plenty of helpful tips stemming from the extensive
+judgment is important when applying and modify-
+ personal experiences of the authors. Throughout
+ing bandages. The authors of this book have a
+the text there is an emphasis on patient comfort
+wealth of expertise in managing wounds in veteri-
+ and selecting a bandage type that will best support
+nary patients and are major contributors to the
+healing in each individual.
+research that backs up these techniques. Indeed,
+As current president of the Veterinary Wound
+Dr. Steven F. Swaim's name is symonymous with
+Management Society, I would like to say that the
+  a   m
+VWMS is exceptionally pleased to endorse Small
+erinary patients worldwide are the beneficiaries of
+Animal Bandaging, Casting,and Splinting Techniques.
+his extensive scholarship in the field and his
+The authors have expertly integrated the art and
+-de An A e c eq jo ai
+educates members of the veterinary profession. Dr.
+cable text. This book will be a frequently used and
+Walter C. Renberg is a veterinary surgeon and
+most welcome resource for practitioners and train
+teacher with wide-ranging clinical and research
+ees alike in the veterinary profession.
+experience who brings his specialized knowledge
+of orthopedic injury and biomechanics to the
+Bonnie Grambow Campbell, DVM, PhD,
+subject of bandaging. Ms. Kathy M. Shike has
+Diplomate ACVS
+extensive hands-on bandaging experience as a
+Veterinary Wound Management Society, President
+small animal surgery technician and instructor for
+ Clinical Assistant Professor of Small Animal
+veterinary students and has contributed to many
+Surgery, Washington State University
+xili
+Preface
+Veterinarians are often presented with animals that
+ molestation. The purpose of this book is to describe
+have wounds of varying severity and orthopedic
+in text and pictures techniques that the authors
+injuries of a like nature. A major part of the therapy
+have found effective in applying these structures.
+of these conditions is the bandaging, casting, and
+In addition, for each bandage, cast, or splint, the
+splinting necessary in their treatment. To be effec-
+ indications, aftercare, and advantages and compli-
+tive, these applications must be properly con-
+cations are presented.
+structed, securely held in place, and protected from
+Acknowledgments
+We acknowledge the work of Dave Adams and
+Barbara Webster are appreciated, and gratitude
+Chris Barker for their photographic contribution
+ goes to Brooke Grieger for the artwork in the book.
+to the book. The word processing skills of Mrs.
+Xvii
+Small Animal Bandaging, Casting.
+and Splinting Techniques
+Basics of Bandaging, Casting
+and Splinting
+Bandaging
+Purposes and functions of a bandage
+ a s   it   m i sy  s sm
+environment that promotes wound healing.
+Table 1.1. Properties of a bandage.
+ Provide an aesthetic appearance
+Wound protection from environmental contamin ation
+ Prevention of interference fron the patient 
+ Prevention of tissue danmage by desiccation
+ Provide a moist environment to promote healing
+ Retain heat and create an acid environment for oxygen dissociation to tissue
+ Provide pain relief
+Inmobilization of wound edges
+ Provide pressure to close dead space and reduce edenma and henorrhage
+ Deliver topical medications 
+Absorb exudate
+Debride wounds
+ Help stabilize concurrent orthopedic injuries
+Sources: Willians, John, and Moores, Allison. 2O09. BSA VA Manual of Canine and Feline
+Wound Management and Reconstruction, 2nd ed., pp. 37-53. Quedgeley, Gloucester,
+ England: British Small Animal Veterinary Association.
+Hedlund, Cheryl S. 2007. Surgery of the integumentary s5ystem. In Small Animal Surgery,
+3rd ed., pp. 159-259. St. Louis, MO: Mosby, Elsevier.
+Samll Animal Bandaging, Casting,and Splinting Techniques Steven F. Swaim, Walter C. Renberg, and Kathy M. Shike
+@ Steven F. Swaim, Walter C. Renberg, and Kathy M. Shike
+4  Small Animal Bandaging, Casting, and Splinting Techniques
+Tertiary
+(Outer)
+Layer
+Secondary
+(lntermediate)
+Primary
+Layer
+(Contact)
+Layer
+Fg. 1.1. The three layers of a bandage: primary-contact layer, secondary-intermediate layer, and tertiary-outer layer
+Components of a bandage
+There are three components or layers of a bandage. These are the primary, secondary, and tertiary bandage
+layers (fig. 1.1).
+Primary-contact layer
+the stage of healing, this layer can be used to debride tissue, absorb exudates, deliver medication, or form
+an occlusive seal over the wound. The primary layer plays a vital role in providing a wound environment
+that promotes healing rather than a layer that just covers the wound. The properties of primary dressing
+materials vary widely, and it is important to select a primary dressing that is appropriate to the wound
+ im its current stage of healing and to change the type of dressing as healing progresses. Occlusiveness and
+absorption are important properties of the contact dressing.
+Highly absorptive dressings
+Highly absorptive dressings are indicated in the treatment of wounds that are heavily contaminated or
+infected, have foreign debris present, and/or are producing large amounts of exudate. Such wounds are
+-u rae a paaua se pum e auo u pmm jo ais Arou aa a u Anaua
+a jo uoissanoid a anoid m je paialas si luissaip jo woy raoue aeis nedan Aea no Aroie
+healing process, for example, a moisture-retentive dressing.
+bandage are older techniques for bandaging and provide a means of clearing a wound of exudates and
+necrotic tissue in the early days of wound management. For instance, dry gauze may be the most eco-
+nomical primary dressing in a highly productive wound where absorptive bandage changes are needed
+multiple times daily. However, after three to five days, a contact layer that will promote wound repair is
+imdicated, for example, calcium alginate, hydrogel, or foam dressing
+With wet-to-dry dressings wide mesh gauze is wetted with sterile saline, lactated Ringers solution, or
+0.05% chlorhexidine diacetate solution and is placed in wounds with viscous exudate or necrotic tissue.
+The exudates are diluted and absorbed into the secondary bandage layer. As the fluid evaporates, the
+bandage dries and adheres to the wound. When the dressing is removed, adhered necrotic tissue is also
+removed. Removal is usually painful. Thus, moistening the gauze with warm 2% lidocaine that does not
+ contain epinephrine makes removal more comfortable. In cats, moistening the gauze with warm physi-
+ologic saline is indicated.
+Basics of Bandaging, Casting. and Splinting 
+For dry-to-dry dressings, dry gauze is placed in a wound that has low-viscosity exudate. The exudate
+is absorbed and evaporates from the bandage, leaving the dressing adhered to the wound. Removal of
+the dressing removes necrotic tissue. Moistering the gauze with warm 2% lidocaine makes removal more
+comfortable. Moistening the gauze with warm physiologic saline should be done in cats.
+These gauze dressings have several disadvantages: (1) Both healthy and unhealthy tissue are removed
+at dressing change. (2) The dry environment does not favor the function of cells and proteases involved
+in healing. (3) There is danger of exogenous bacteria wicking inward toward the wound with a wet gauze,
+and if the dressing is maintained wet tissue maceration can occur. (4) Dry gauze can disperse bacteria into
+the air at bandage change. (5) Fibers of the gauze can remain adhered to the wound to induce inflamma-
+tion. (6) The adherent dressings are more painful to wear and to remove. (7) Removal of wound fluid with
+the dressings removes cytokines and growth factors essential for optimal healing.
+Hypertonic saline dressings These dressings are a good choice for infected or necrotic, heavily
+exudative wounds that need aggressive debridement. Their 20% sodium chloride content gives them an
+osmotic effect to draw fluid from the wound to decrease edema and thus enhance circulation. The osmotic
+action also desiccates tissue and bacteria. These dressings are changed every one to two days until necrosis
+and infection are under control. The debridement of this osmotic dressing is nonselective in that both
+healthy and necrotic tissue are removed at dressing change. The dressings are used early in wound treat-
+an st i pmom Suena suepnxa Aaieapou e on pumom suunons snonoau e paauon cn sau
+the primary dressing is changed to a calcium alginate, hydrogel, or foam dressing.
+tive wounds, that is, wounds in the inflammatory stage of healing. However, their placement over exposed
+bone, muscle, tendon, and dry necrotic tissue is not recommended. Neither should they be used on dry
+ r p un l a e s ae a  ass u   paao as r sm
+form. The calcium alginate, which is derived from seaweed, interacts with sodium in wound fluids to
+create a sodium alginate gel that maintains a moist wound environment.
+Q 'shuissaap aeule wmiies Susn uaum sanss pmom jo uonepay a cn pied aq pmous uonua
+help maintain a moist environment, the dressing can be overlaid with a vapor-permeable polyurethane
+sheet. However, if too much exudate is being produced in the presence of the dressing, it can be covered
+with an absorptive foam dressing. Because it is so absorptive, it can dehydrate a wound as the healing
+progresses and exudate decreases. If it is left in a wound too long, it dehydrates and hardens to form a
+                  
+removal.
+These dressings aid in the transition from the inflammatory to the repair phase of healing by promoting
+promote granulation tissue in wounds without considerable exudate. Additional benefits of this dressing
+include a hemostatic property and entrapment of bacteria in the gel that can be lavaged from the wound
+at dressing change.
+wounds that are moderately to highly exudative. If an occlusive cover is needed to hold them in place or
+retain some moisture, they can be overlaid with a hydrocolloid dressing. At dressing change, the polymer
+is removed by lavage.
+It is important to observe the exudate level in wounds being treated with copolymer starch dressings.
+If exudate levels become too low, the dressing adheres to the wound. This can result in tissue damage
+when it is removed and inflammation if fragments of dressing are left in the wound.
+Moisture-retentive dressings
+Moisture-retentive dressings (MRDs) provide a warm, moist environment over a wound in which cell
+proliferation and function are enhanced in the inflammatory and repair stages of healing. In addition,
+6 Small Animal Bandaging, Casting, and Splinting Techniques
+Table 1.2. Advantages of moisture-retentive dressings (MR Ds)*.
+Barrier against exogenous bacteria
+Prevent tissue desiccation
+Inproved concentration of systemically administered antibiotics
+White blood cells stay in the wound with their enzymatic activity for autolytic debridenent
+ Low oxygen tension to lower pH and deter bacterial growth, favor collagen synthesis, enhance angiogenesis, and atract white blood cells
+Maintain physiologic tenperature to support cell function, proteases, and growth factors
+ Comfort when in place and when removed
+Waterproof against urine and other fluids
+ Decreased bandage changes and cost
+Decreased scarring
+ Less aerosolization of bacteria at bandage change
+Source: Campbell, Bonnie Grambow. 2006. Dressings, bandages, and splints for wound managenent in dogs and cats. Veterinary Clinics of
+North America: Smafl Animal Practice. 36(4):759-91. Philadelphia: Saunders/Elsevier.
+*MRDs will vary in their possession of these advantages.
+the retained fluid provides a physiologic ratio of proteases, protease inhibitors, growth factors, and cyto-
+kines at each stage of healing. Thus, exudate can be beneficial in healing. Clinical judgment should be
+used in deciding whether treatment should begin with one of the highly absorbent dressings first and
+ose       m g   m    c a 
+ dressing should be considered initially if there is a great amount of necrosis, foreign debris, infection, and
+exudate.
+ The wound environment under an MRD provides several advantages in the progression of wound
+ healing (table 1.2). There are disadvantages of MRDs in that retained fluid can cause maceration (softening
+caused by trapped moisture) and excoriation (damage caused by excess proteolytic enzymes) of the peri-
+wound skin.
+dressings. They are highly absorptive by wicking action and are designed for use in moderate to highly
+exudative wounds. The foam dressings maintain a moist environment and support autolytic debridement.
+In addition, they can promote the formation of healthy granulation tissue and have been reported to
+a pue Aroeuu au qoq u pasn aq uen jeu Sussap e are Aa 'snui uonezieada anoond
+repair stages of healing. An alternative way to use the foam is to saturate it with liquid medication for
+delivery to the wound.
+on Aiea ues hI ueau pumom jo ais a on paielan si suoy wm auep aepueq jo Aouanbay au
+m pa jo sais Aa a ui aq s namaq sa raus a m 'sp raaas ci a
+there is considerable fluid production.
+meable to gas but not water or bacteria) sheets. They have an adhesive perimeter for attaching them to
+periwound skin, and their transparency allows wound visualization. They are nonabsorptive and should
+be used on wounds with no or minimal exudate. For instance, they are suited for dry necrotic eschars, or
+shallow wounds, such as partial-thickness wounds like abrasions. They can also be used on wounds in
+the advanced repair stage of healing where there is need for a moist environment to promote epitheliali-
+zation. Another use of the films is as a cover over other contact layers to support moisture retention and
+to provide a bacteria and waterproof cover
+The films should not be used on wounds that have high levels of exudate, are infected, or have fragile
+periwound skin. Neither should they be used on wounds over exposed bone, muscle, or tendon or on
+deep burns.
+The dressings do not adhere well to areas with skin folds or unshaved hair. Hair growth on the peri-
+  e aa s a   ssa a p  aasae a y  s 
+improved around the perimeter of the wound with vapor-permeable film spray
+Basics of Bandaging, Casting, and Splinting
+With this type of dressing, the cloudy white to yellow exudate that accumulates under the dressing
+should not be interpreted as infection. It is just wound surface exudate. Infection will present as heat,
+swelling, pain, and hyperemia of the surrounding tissues.
+Hydrogel dressings Hydrogels are water-rich gel dressings that are in the form of a sheet or
+an amorphorus hydrogel. Some hydrogels contain other medications that can be beneficial to wound
+healing, such as acemannan, a wound healing stimulant, and metronidazole or silver sulfadiazine,
+antimicrobials.
+Because they donate moisture to a wound, the hydrogels can be used in wounds with an eschar or dry
+Sssaap aaisnioooas juanaupeuou e yim pienaao aq ueo jaorpay a aael alepueq Arepuosas a lou
+or vapor-permeable polyurethane foam. Some hydrogels have an impermeable covering as part of the
+dressing. Conversely to donating fluid to wounds, some hydrogels are able to absorb considerable fluid
+and can be used in exudative wounds. These dressings can also be used in necrotic wounds to provide a
+moist environment to promote autolytic debridement and aid in granulation tissue formation.
+ In noninfected full-thickmess wounds, the dressings are generally changed every three days. However,
+if a hydrogel containing a wound healing stimulant or antimicrobial is being used, daily change may be
+indicated to maintain their activity in the wound. With abrasions that have minimal exudate, hydrogels
+pumom au woy paaoai si aoophy a 'ahueu Sssap iv shep uaaas ci moy Anaaa pasueuo aq Ae
+with gentle saline irrigation.
+Hydrocolloid dressings Hydrocolloid dressings are a combination of absorbent and elastomeric
+components that interact with wound fluid to form a gel. Some dressings have an adhesive layer of
+hydrocolloid that contacts the wound and a outer occlusive polyurethane film. The hydrocolloid adheres
+to the periwound skin, and the dressing over the wound interacts with wound fluid to produce an occlu-
+aq jou pmous si taaamoH aouereadde juammd moias pue ropo p e aaey Aeu as aul ia aais
+interpreted as infection. Infection of the wound will be manifested by heat, swelling, pain, and hyperemia
+-osse las a ro aepnxa isnf ueu snoioeual aiou Alensn st p8 aui sanssn pumomiad pue pumom a jo
+ciated with hydrogel dressings.
+Although the dressings are available in a paste as well as granular and powdered form, they are gener-
+ally used as the sheet form that provides a thermally insulated moist environment which is impermeable
+to fluid, gas, and bacteria.
+Hydrocolloids can be used in partial or full-thickness wounds with clean or necrotic bases, including
+pressure wounds, minor bums, abrasions, or graft donor sites. They can be used in both the inflammatory
+and repair stages of healing. In the inflammatory stage of healing they promote autolytic debridement.
+However, their adherence to periwound skin may delay wound contraction. The dressings should not be
+used in heavily infected wounds or wounds producing large amounts of exudate. The large amounts of
+exudate can lead to maceration and excoriation of periwound skin.
+For application, the skin around the wound should be clipped. The pad is warmed between the hands
+and cut to be about 2cm larger than the wound. After removing the backing, it is placed over the wound.
+The tacky nature of the dressing allows it to stick to the periwound skin. At about two to three days, the
+dressing should be changed when it feels like a fluid-filled blister over the wound and before the underly-
+ing gel leaks from around the edges. After removal of the dressing, the gel is lavaged or gently wiped
+from the wound and periwound skin, respectively. Use of the dressing should be discontinued when the
+wound is fully epithelialized.
+Nonadherent semiocclusive dressings These dressings have a low absorptive capacity. They are
+porous and allow fluid to move through them into the secondary bandage layer where it can evaporate.
+This porosity could also allow exogenous bacteria to penetrate toward the wound.
+8Small Animal Bandaging, Casting, and Splinting Techniques
+These dressings can be either a wide mesh gauze impregnated with petrolatum or an absorbent material
+encased in a perforated nonadherent material. Although they are classified as nonadherent, they are actu-
+into the meshes and thus adhere to the wound, resulting in tissue damage when they are removed. With
+the perforated nonadherent material, the pad can adhere to the wound when the wound dries and exudate
+dries in the perforations. Granulation tissue and epithelium can also enter the perforations if they are
+large enough.
+ If the petrolatum-impregnated gauze is used in the repair stage of healing, it should be used in the
+oul moio jou saop anssn uonemuea aul os yonoua uanjo pasueuo aq pmous h! pue 'aoeis 1ieda1 Ajrea
+the meshes. Because petrolatum may interfere with epithelialization, its early use will prevent its interfer-
+ence with epithelialization. Once epithelialization starts, the perforated nonadherent material with absor
+bent filler should be used.
+If the perforated nonadherent material with absorbent filler is used, its purpose is to retain some mois-
+ture over the wound to promote epithelialization and allow excess fluid to be absorbed into the secondary
+layer. It should be used on superficial wounds with low to moderate levels of exudate. They are often
+B rd  e se e a  are saa axa  s i a yo p r  
+for sutured wounds.
+Antimicrobial dressings
+Antimicrobial agents such as iodine, silver, polyhexamethylene biguanide, activated charcoal, and antibi-
+otics have been incorporated into dressings. These dressings are indicated to treat infected wounds or
+wounds at risk for infection. The dressings are not moisture retentive. Thus, covering them with a poly-
+urethane film dressing may keep them from drying out.
+Dressings containing cadexomer iodine release iodine into the wound without having a negative effect
+on wound cells. The slow release of iodine is designed to maintain adequate levels of active iodine for
+about 48 hours.
+Silver ions in dressings have a broad antimicrobial effect and can be effective against otherwise antibiotic-
+ so snona n aenan are sssap yng ssno son os nu h ssro jsia
+include gauze, gauze roll, low adherent, hydrocolloid, hydrogel, and alginate dressings.
+ Polyhexamethylene biguanide (PHMB) is an antiseptic related to chlorhexidine. It has been incorpo-
+rated in gauze sponges and roll gauze to provide an antimicrobial dressing. It is bactericidal, and bacteria
+do not develop a resistance to this broad-spectrum compound. It is tissue compatible and does not have
+any apparent effects on wound healing. The PHMB has a prolonged antibacterial effect; it prevents bacteria
+ on the wound from contaminating the environment and stops exogenous bacteria from penetrating the
+bandage.
+Activated charcoal dressings provide a moist wound environment. They also absorb bacteria, prevent
+ exuberant granulation tissue formation, and reduce wound odor.
+e jo sa  d n aan I a jo sas u pn
+at the site of placement, while serum levels remain below toxic levels. These dressings have also been
+reported to have a hemostatic effect.
+Extracellular matrix bioscaffold dressings
+Extracellular matrix dressings (ECMs) are acellular biodegradable sheets with a three-dimensional
+ultrastructure. They are derived from porcine small intestinal submucosa or porcine urinary bladder
+submucosa matrix. The dressings contain structural proteins, growth factors, cytokines, and their inhibi-
+tors. Over the first two weeks of its presence in a wound, there is degradation of the scaffold, with the
+degradation products being chemotactic for repair cells. The repair cells enter the wound as stem cells
+that deposit a site-specific matrix. In other words, if the dressing has been placed in a skin wound, the
+matrix will be like that of skin/dermis. By 30 to 90 days, the entire bioscaffold is replaced by site-specific
+tissue.
+Basics of Bandaging, Casting. and Splinting 
+Jo aany pue papqap Auononon aq isnu pumom aul 'pandde ane Aa Aem a u anbnun ane s
+sheet is cut to a size slightly larger than the wound, rehydrated with saline, tucked beneath the skin at
+the wound edge, and sutured in place. If drainage is expected, it can be fenestrated. A nonadhesive or
+parts of the bandage are changed except the ECM. It will have a degenerated yellow to brown appearance.
+A second piece of dressing is placed over this degenerating first piece without removing it. The outer
+bandage is replaced with the next dressing change, four to seven days later. After two to three applications
+of ECM dressing, no new dressings are added. Typically, a granulation tissue bed is present with the
+presence of a site-specific matrix that will guide the healing of the wound with tissue like that in the sur-
+rounding area. Wound management is continued with appropriate bandaging of the granulating wound
+as healing progresses.
+Secondary-intermediate layer
+The main function of the secondary bandage layer is absorption. Thus, it should have good capillarity
+properties to provide for the collection of blood, serum, exudate, debris, bacteria, and enzymes from the
+wound. Additional functions of the secondary layer are to pad and protect the wound from trauma,
+prevent movement, and hold the primary layer against the wound.
+Materials that can be used for the secondary layer include specific loose-weave absorbent wrap materi-
+als, cast padding, and absorbent bulk roll cotton. One author (SFS) prefers to use the first of these as the
+a Aidde cn imo s h ieu aeeape at aaeq omi raet aui spumom suepueq roy raae Arepuosas
+too tightly because they tear under low levels of extension. However, they have the disadvantage that if
+oa si q  se   a p h  a   s pom e  a
+This leaves foreign material on the wound surface. Self-adherent gauze roll or tubular gauze can be placed
+An pue poddns aaord on rae apai a jo id se dem Arnas a rao
+This layer should be applied in a wrapping fashion with about 50% overlap of layers. When wrapping
+with enough pressure to hold the primary layer in contact with the wound and to have good contact
+between it and the primary layer. However, excessive compression when applying this layer should be
+avoided since it could impair absorption, blood supply, and wound contraction.
+The bandage should be changed frequently (at least daily) on heavily draining wounds to remove
+exudate that has been absorbed into the secondary layer. Bandage change should be before exudate soaks
+through to the tertiary layer. This could result in exogenous bacteria wicking inward toward the wound.
+To help prevent this potential for wound contamination, antimicrobial gauze roll can be used as the sec-
+ondary layer. When less fluid is absorbed into the secondary layer (e.g., with use of an MRD or as healing
+o ssat pauu st aepuq rae Arepuoas a '(sassaoad
+Tertiary-outer layer
+This layer's main function is to hold the other bandage layers in place and protect them from external
+contamination. Materials that are used for this layer are porous surgical adhesive tape, occlusive water-
+When applying this layer, certain factors should be kept in mind. First, the tertiary layer should be
+applied under the proper tension. It should hold the primary layer in contact with the wound and the
+secondary layer in contact with the primary layer
+ Second, care should be taken that it is not applied too tightly. This can limit the absorption of the sec-
+ondary layer. In addition, overtight application on the head and extremities can result in respiratory and
+circulatory problems, respectively. To help prevent this, one author (SFS) applies porous surgical adhesive
+tape and occlusive waterproof tape as pretorn strips, rather than rolling the tape directly off of the roll
+10 Small Animal Bandaging, Casting, and Splinting Techniques
+onto the bandage. Each strip is applied with about 1/3 to 1/2 width overlap with the previous strip. For
+ e jo rp a an   a go g pe s a a san sa a yo ue
+too tightly, the tape is secured near the bandage with one hand while pulling it off of the roll. Another
+guideline for applying the tape is to apply it so that the textured patterm of the tape is distorted but still
+visible.
+nodeaa pm smoe aden snoro raaeh st jo ssauaaisnno au st p u daa on roioey pi 
+wick inward toward the wound. When an occlusive waterproof tape is used, it protects the underlying
+bandage from exogenous fluid, but it may also lead to excess moisture retention and the need for more
+       q m o a  s s   
+addition to wound exudate results in considerable moisture. It should also be remembered that any fluid
+that gets into a bandage covered with waterproof tape remains in the bandage.
+Other forms of protection are available to hold bandages in place and protect them. These include
+premade dressing holders, which are breathable, nonwoven polypropylene fabric with Velcro fasteners.
+They are washable, reusable, and nonconstrictive. They are available in different sizes for the elbow, hip.
+   a  a s o  s     
+bandages on the thorax, abdomen, and limbs.
+Special considerations in bandaging, casting, and splinting
+Frequency of changes
+With bandages, the frequency of bandage changes decreases as wound healing progresses. During the
+early stages of healing when exudate production is greatest, wound observation is very important, and
+strike-through prevention is necessary, frequent bandage change may be indicated. However, with MRDs
+that support autolytic debridement, bandages may be left in place up to three days. Conversely, dressings
+with high absorptive capacity (e.g., gauze) may need to be changed at least daily and possibly more often,
+depending on the amount of exudate production.
+ Once a healthy bed of granulation tissue is present and exudate levels are low, the time between
+ bandage changes is expanded. With nonadherent simiocclusive dressings, the time may be extended to
+three or four days. With some of the other MRDs, the time may be expanded to five to seven days between
+bandage changes.
+There are times when unscheduled bandage, cast, or splint changes are necessary. These include when
+there has been slippage, strike-through, wemess, external contamination, and damage to the bandage,
+cast, or splint. Odor, swelling, or hypothermia of tissues adjacent to the bandage (e.g., digits left exposed
+from a limb/paw bandage) and constant licking or chewing at a bandage, cast, or splint are also indica-
+tions for a change.
+Security
+ For a bandage, cast, or splint to be effective, it must be secured in place. Security is a challenge in that
+animal conformation is quite variable (e.g., a chihuahua vs. a great dane), and tolerance of a bandage,
+cast, or splint can vary between animals. In the following chapters, application of bandages, casts, and
+splints will be covered to include techniques to help assure security of these applications. Based on the
+above-mentioned variables, the veterinarian or veterinary technician may need to occasionally modify a
+technique and use it in combination with some type of restraint to maintain a secure bandage, cast, or
+splint. However, if a modification is done, an adage should be remembered: "First, do no harm." Sound
+clinical judgment is important in applying bandages, casts, and splints.
+Basics of Bandaging. Casting. and Splinting 
+11
+Pressure relief
+Prevention of pressure from bandages, casts, and splints is important from two standpoints. First, there
+ must be prevention of pressure-induced injury from a bandage, cast, or splint being placed too tightly.
+This is particularly important in placing bandages on extremities and the head, especially when elastic
+J e :ra4e7 raino-Anenial pue 'aepueg e go sjuauoduo uaepueg '1 raideuo ul 6 sased aas) yooq
+chapter 2; and page 56 in chapter 4, Basic Paw and Distal Limb Bandage).
+The second important factor in pressure relief is prevention of localized pressure wounds over promi-
+loy sanbruuoai 'amssand pumom ped med jo uoguaaaid pue juds no ises 'asepueq e Aq pasnen saouau
+Casts, and Splints; Basic Soft Padded Limb Bandage [pg. 47]; Basic Paw and Distal Limb Bandage [pg.
+56]; Paw Pad Pressure Relief [pg. 69]; Carpal Sling [pg. 75]; Spica Bandage and Lateral Splint [pg. 83];
+([01 8d] us 06/06 pue [ss 8d] suds moq doo7 po um
+Joint immobilization
+Wounds over joints can have problems in healing due to joint movement. Thus, joint immobilization is
+ indicated for optimal healing. Such immobilization is attained with a bandage, cast, or splint.
+f a se sapa puom an go urdas cn oaqns st suol e jo aes uoisuaxa a raao pnom y
+ is flexed (fig. 1.2). In a sutured wound, the tension of joint flexion could result in sutures pulling out of
+tissues. Thus, wound immobilization is indicated.
+With a large open wound on the flexion surface of a joint, open wound healing could result in wound
+contraction ending in a wound contracture deformity, whereby the joint is pulled into a flexed position
+and carmot be extended (fig. 1.3). Immobilizing the joint in extension may help prevent this deformity.
+aqmp anou e ioy deg io hena uys e paau Aeu pue uonezieauda Aq Apureu leaq Aeu punom au
+cover, but contracture deformity has been avoided.
+Prolonged joint immobilization may lead to disuse atrophy, joint stiffness, pressure wounds, and car
+tilage degeneration. At bandage changes, the clinician should not only care for the wound but also evalu-
+ate joints for problems.
+A
+B
+Fig. 1.2. Wound disruption with flexion. (A) Wound over the extension surface of the carpus. (B) Carpal flexion results in
+'(smoe) saspa punom jo uoeiedas
+12  Small Animal Bandaging, Casting, and Splinting Techniques
+Fig- 1.3. Wound contracture with open wound healing. (A) Large wound over flexion surface of the hock. (B) Open wound
+healing with wound contraction, resulting in wound contracture deformity with limited hock extension.
+Maceration and excoriation
+Maceration is basically overhydration of skin around a wound. It is caused by prolonged contact of the
+skin with wound exudate. This compromises the skin's barrier function.
+Excoriations are skin abrasions caused by high levels of matrix metalloproteinases (enzymes) in exudate
+ of chronic wounds. These also compromise the barrier function of the skin.
+panpoid suaq aiepnxa jo pmoue au rog aienrdordde si se uasouo aq pmous aae aepueq poeuon y
+uoneraseu asnes ch pumom au 1aao play jou si aepnxa jo pumoue aaiel e Kem sju ul 'pumom au Aq
+and excoriation. To help prevent maceration and excoriation when using MRDs, the dressing can be cut
+to the size and shape of the wound so that it does not overlap onto healthy surounding skin.
+Need for sedation or anesthesia during bandage change
+There are several ways to decrease the pain and discomfort associated with bandage changes. Autolytic
+debridement with nonadherent MRDs is less painful than the mecharical debridement that occurs with
+adherent wet-to-dry and dry-to-dry dressings. However, if the latter dressings are used, the last layer of
+gauze in contact with the wound can be moistened with warm 2% lidocaine for a few minutes before it
+is removed to provide comfort. In cats, warm physiologic saline is used for this purpose. To remove
+n ro ym 'm r go ta a u paaoan aq pous h 'us a  adn aaisau
+provided by a hand on the skin. Ethanol or commercial adhesive remover can also be used to loosen
+solution can be applied to the skin before applying the tape.
+m aa p iasa san a rg pan aq Ar as se as rn
+management when staged debridement and lavage are being done. Although there may be additional
+expense and risk with sedation, the animal is more tractable, wound management is accomplished better,
+and there is less stress on the animal and personnel. General anesthesia may be needed for aggressive
+surgical debridement and for bandage changes when a wound is painful or an animal is particularly
+aggressive.
+Basics of Bandaging, Casting, and Splinting
+13
+Casts and splints
+General information
+Cast and splints rely on many of the same materials and layers used in other types of bandages, with a
+few exceptions. Generally, cast padding, gauze and various outer layers all provide the same purposes
+and are used in the manner described for each casting and splinting procedure. Because casts and splints
+may be in place for a prolonged period, and because they have an inflexible component, the need to
+prevent pressure wounds is critical. However, paying close attention to avoiding wrinkles, pressure on
+anatomic prominences, and motion within the cast or splint is also very important.
+Purposes and functions of casts and splints
+The materials that set a cast or splint aside from other bandages are those that provide a degree of rigidity.
+The purpose may be to stabilize a fracture in order to allow boney union or merely to allow more com-
+fortable transport of the animal. Splints and casts may protect surgical repairs or support soft tissue
+injuries. The rigidity of a cast will exceed that of a splint, and an intact cast provides more support than
+one that has been split ("bivalved") and then reapplied. The rigidity may be achieved through the use of
+or other materials that are of suitable size and stiffness, such as thermomoldable plastic.
+Materials
+Splint rods
+Splint rods are inexpensive, but they do not conform as well to the limbs as fiberglass tapes. They must
+be cut and bent to shape. Care should be taken to assure thiat the cut ends do not injure the animal
+Commercial splints
+Commercial plastic and metal splints are available in a variety of sizes and shapes. Some will work better
+spuena go Aaea e day ch isaq si h Kerana paau pue oneoi 'aned au uo upuadap srao u
+and sizes on hand in order to determine which will work best for a given case. The metal splints (e.g.
+Mason metasplints) can be cut with metal cutting shears to modify them if needed. Splints should be
+applied after a basic bandage is applied (i.e., a bandage consisting of a contact layer, cast padding as
+secondary bandage wrap, and gauze wrap) and then fixed to the limb with a nonelastic material such as
+porous adhesive tape.
+Plastic splinting material
+Thermomoldable plastic materials are available for molding splints. These are heated in hot water and
+are then manually molded to the conformation of the area being splinted. The materials can also be cut
+with shears when they are in their heated state. When cooled, they return to a rigid state.
+Stockinette
+Placing stockinette beneath casting material is not absolutely necessary, but it seems to help provide some
+degree of comfort in the authors opinion. When stockinette is applied longer than a cast, it can be folded
+back onto the cast to roll a small amount of cast padding over the edge of the cast to create a soft "bumper'
+thiat will protect the tissue from the sharp edge of the cast.
+14  Small Animal Bandaging. Casting, and Splinting Techniques
+Castingtapes
+ Casting tapes can be used to make a custom splint or a full cast. Fiberglass tape is preferable to plaster
+ because it is light, durable, and water resistant. However, plaster is inexpensive and sets more slowly and
+at a lower temperature. When using fiberglass tape, care should be taken to avoid stretching the tape
+during application because it will slowly return to its original length. In a splint application, this will
+result in a splint that is too short. In a cast application, it will result in a cast that is too tight.
+2
+Head and Ear Bandages
+Emergency ear bandage
+Indications
+The most common use of the emergency bandage is in hunting/working dogs that sustain a laceration
+of the pinna from a thorm or barb on a barbed wire. By instinct, the dogs shake their head to try to rid
+themselves of the irritation of the ear laceration. The head shaking further irritates and injures the pinna
+and splatters blood on the dog's surroundings. The emergency ear bandage is indicated to immobilize
+ the injured pinna against the dog's head to prevent further injury to the pinna and to prevent the dog
+from splattering blood on its surroundings.
+Technique
+ A section of a leg from a pair of pantyhose
+is cut such that it is the approximate length
+of the dog's head. This can be kept in a first
+aid kit to be taken to the field with the dog.
+A section of orthopedic stockinette could
+also be used.
+●When it is indicated, the section of the
+pantyhose leg can be pulled over the dog's
+head to immobilize the ear against the head
+(fig. 2.1).
+Fg. 2.1.
+Samll Animal Bandaging, Casting,and Splinting Techniques Steven F. Swaim, Walter C. Renberg, and Kathy M. Shike
+@ Steven F. Swaim, Walter C. Renberg, and Kathy M. Shike
+15
+16   Small Animal Bandaging, Casting, and Splinting Techniques
+Aftercare
+ If the dog persists in head shaking and the pantyhose segment tends to slip back, it may be necessary to
+tape the front edge of the pantyhose segment circumferentially around the dog's head. A piece of 2-inch
+(5cm)-wide adhesive tape is used. Half of the width of the tape goes on the hair / skin of the head and the
+other half is on the front edge of the pantyhose.
+Advantages and complications
+The emergency ear bandage is small and easily carried in a field first aid kit. It is readily available and
+quickly applied in the field. It provides protection for the ear until more definitive care can be administered
+to the ear.
+Basic head and ear bandage
+Indications
+ The basic head and ear bandage is indicated for protection of wounds in this area. This includes
+wounds associated with correction of auricular hematomas, total ear canal ablation, trauma, or tumor
+removal.
+Technique
+The following is a description of the technique for placing a head and ear bandage on a dog that has had
+surgery on the pinna (e.g., auricular hematoma correction) and needs to have medication placed in the
+ear canal. The same bandage would be used for treatment of other conditions, except that the aperture
+for applying ear medication would not be cut.
+To help assure adhesion of tape to the pinna
+of the ear for applying "stirrups," both the
+convex and concave sides of the pinna
+should be shaved, scrubbed, and allowed to
+dry.
+"Stirrups" are placed on the rostral and
+caudal edges of the ear. A strip of 2-inch
+(5.0cm)-wide adhesive tape that is long
+enough to wrap around the dog's head is
+used. The strip is aligned parallel with the
+long axis of the pinna along the rostral edge
+of the ear on the concave surface of the ear,
+with the adhesive surface against the ear.
+One half of the width of tape is against the
+Fg. 2.2.
+ear (fig. 2.2).
+Head and Ear Bandages 17
+ The other half of the tape width is folded
+over onto the convex surface of the rostral
+edge of the ear. This sandwiches the rostral
+edge of the ear between the two layers of
+tape with the rostral edge of the ear in the
+fold of the tape (fig. 2.3).
+ The length of tape beyond the distal end of
+the ear is folded over on itself to form a
+1-inch (2.5cm)-wide "stirrup"
+Fg. 2.3.
+ This procedure is repeated on the caudal
+edge of the ear to provide two "stirrups"
+that will be used to hold the ear over the top
+of the dog's head (fig. 2.4).
+Fg. 2.4.
+A bolus of cotton or a thick pad of cast
+padding is placed on top of the dog's head
+at the base of the ear (fig. 2.5).
+Fg. 2.5.
+18  Small Animal Bandaging, Casting, and Splinting Techniques
+ The two "stirrups" are used to pull the
+pinna up and fold it over the bolus/pad.
+The "stirrups" are wrapped around the
+ dog's head (curved arrows) and pulled up
+ in front and in back of the ear that is being
+bandaged (straight arrows). This leaves the
+opening of the ear canal open. If auricular
+hematoma correction surgery has been
+done, the incision line is between the
+"stirrup's"attachment on the pinna (dark
+line; fig. 2.6).
+Fg. 2.6.
+● An appropriate primary dressing is placed
+over the incision site (d; fig. 2.7).
+Fg.2.7.
+●A roll of secondary bandage wrap is used to
+wrap the dog's head circumferentially. Each
+time the wrap goes over the ear canal
+opening, the location of the opening is
+marked with a marking pen (fig. 2.8).
+Fg. 2.8.
+Head and Ear Bandages 19
+ Each time a wrap is made with the second-
+ ary wrap, it alternately goes in front and in
+back of the contralateral ear (unoperated
+ear). When the secondary wrap is com-
+pleted, the location of the ear canal has been
+marked (black spot) and the opposite ear is
+outside of the bandage (being held up;
+fig. 2.9).
+Fg. 2.9.
+Pretorn strips of 2-inch (5.0 cm)-wide adhe-
+sive tape are placed circumferentially over
+the secondary wrap (fig. 2.10), and the loca-
+tion of the ear canal opening is marked on
+the strip that goes over this area (fig. 2.11).
+Fg. 2.10.
+Fg. 2.11.
+ 20  Small Animal Bandaging, Casting, and Splinting Techniques
+A very important strip of tape is placed at
+the front edge of the bandage. It is placed
+such that half of the tape's width is on the
+hair/skin of the head and half is on the
+bandage (fig. 2.12).
+●
+ A similar piece of tape can be placed at the
+back edge of the bandage to further secure
+it and keep it from slipping forward, espe-
+cially on an obese dog with a large neck.
+Fg. 2.12.
+After placing this last tape strip, a hand is
+placed over the strip for approximately one
+minute. The heat of the dog's body and the
+heat of the hand help make the tape's adhe-
+sive material adhere to the skin/hair for
+bandage security (fig. 2.13). On small dogs
+and cats, the distance between the lateral
+canthus of the eye and base of the ear is
+short. Thus, use of 1-inch (2.5 cm)-wide tape
+to fashion the front portion of the bandage
+may be necessary.
+Fg. 2.13.
+Head and Ear Bandages  21
+A marker is used to draw a square around
+the dot marking the location of the ear
+canal opening. A razor or scalpel blade is
+used to incise the tape layer of the square
+while leaving the underlying layers uncut
+(fig. 2.14).
+Fg. 2.14.
+Fg. 2.15.
+Bandage scissors are used to remove the
+square of tape and underlying secondary
+Wrap. (fig. 2.15). This exposes the opening
+of the ear canal (fig. 2.16).
+Fg. 2.16.
+22 Small Animal Bandaging, Casting, and Splinting Techniques
+ Each edge of the square is taped with a strip
+?
+ of 1-inch (2.5cm)-wide adhesive tape to
+ prevent lint/pieces of secondary wrap from
+getting into the ear canal (fig. 2.17). It is
+ obvious that the ear is bandaged over the
+top of the dog's head when an opening has
+been made over the opening of the ear
+canal—an important factor during bandage
+removal.
+Fg. 2.17.
+The following is a description of the technique for placing a head and ear bandage on a dog that will
+not need to have medication placed in the ear canal. Examples would be bandaging the ear over the top
+ of the head, as would be done for a total ear canal ablation surgery, or bandaging the ear down alongside
+the dog's head, as with bandaging for a wound on top of the dog's head.
+When bandaging the ear over the top of the
+head, the technique for placing the head and
+ear bandage is as described above, with the
+exception that marking the location of the
+ear canal opening on the secondary and ter-
+tiary bandage layers and cutting an access
+hole to this area are not done.
+When bandaging the ear down along the
+ressanau are ,sdns, ou 'peaua jo apis
+A gauze sponge may be placed between the
+concave ear surface and the side of the head.
+ An appropriate primary dressing is applied
+to any wound on top of the head. The sec-
+ondary and tertiary bandage layers are
+placed as described above. However, the
+location of the ear canal opening is not
+ marked as these layers are applied.
+●After the bandage is in place, a marker is
+used to draw the location of the ear, either
+over the top of the head or down along the
+Fg.2.18.
+side of the head. The drawing is labeled
+"Ear" (fig. 2.18). If a person other than the
+ one who applied the bandage removes the
+sdpay oson ea paaqen a aeuq
+prevent cutting into the ear at the time of
+bandage removal.
+Aftercare
+Protocols for treating auricular hematomas and bandaging the ear and head may vary. The following is
+that used by the author (SFS). The original bandage is left in place for about seven days. When treatment
+Mead and Ear Bandages  23
+ of otitis externa is associated with the condition, medication can be administered to the ear canal by way
+of the hole in the bandage over the opening to the ear canal.
+At about seven days, the bandage is removed. This is done carefully so as to avoid cutting into the ear
+that is bandaged over the top of the head. Thus, cutting the bandage with bandage scissors should be
+done on the ventral aspect of the bandage (fig. 2.19), and it should be done carefully so as to leave the
+'stirrups" intact (fig. 2.20).
+Fig. 2.19. Removing a head bandage when an ear is bandaged Fg. 2.20. The bandage is cut such that the "stirrups" holding
+over the top of the dog's head. Cut the bandage on its ventral the ear over the top of the head are left intact.
+aspect to avoid cutting the ear.
+The tertiary and secondary layers of the bandage and the primary layer over the surgical site on the
+ au peaus op au puoe w paddemm aquen ,sdns, a ressaau  paouan are ed
+bolus or cast padding and convex surface of the ear are carefully examined for any moisture. The bolus
+aepueq Areud aendondde aul 'peay au pumore paddeimau are ,sdnnns, a pue paoeidan st ped 1o
+material is placed over the pinna surgical site, and the secondary and tertiary layers are replaced as
+described for bandage application. This includes making a hole over the ear canal opening for medication
+application if needed.
+ Removal and replacement of head and ear bandages is the same for the treatment of conditions other
+than auricular hematoma. However, appropriate treatment of head and ear wounds is done before
+bandage replacement.
+The author (SFS) uses pretorn strips of white adhesive tape on head and ear bandages. However, elastic
+s lee au am pandde si aepueq at 1 raaet aepueq Areat a roy pasn aq ues leae aepug
+still anesthetized and intubated, there is danger of geting it on too tight, especially the tertiary layer. When
+the endotracheal tube is removed, the tight bandage collapses the upper airway, resulting in respiratory
+embarrassment. Thus, the dog should be observed closely after the endotracheal tube is removed to assure
+there is no occlusion of the airway, especially if an elastic bandage material was used for the tertiary layer
+Advantages and complications
+Head and ear bandages provide good protection for wounds of the head and ears. However, if the front
+edge of the bandage is not adequately affixed to the hair of the head, the bandage can slip. A dog's first
+response to the bandage is to try to shake its head and rid itself of the bandage. When this fails, it will
+uo peay sh sund s,ieue au on speal si jo ame med pq e ym aoepueq a ie uoienos An
+the ground/floor and trying to push the bandage back off of its head. If the rostralmost piece of tape on
+the bandage is not adequately affixed to the hair in this area, the bandage is easily pushed caudally.
+3
+Thoracic, Abdominal, and
+Pelvic Bandages
+Thoracic, abdominal bandages
+Circumferential thoracic, abdominal bandage
+Indications
+Thoracic and abdominal bandages are indicated to provide covering for wounds on the thoracic and
+abdominal areas or wounds over the spinal areas of the thorax and abdomen (fig. 3.1). These could be
+Fig. 3.1. An example of a wound on the thoracic, abdominal, and dorsal spinal areas on which a circumferential thoracic,
+abdominal bandage would be indicated. Reproduced by permission from Swaim, Steven F., and Henderson, Ralph A., Smafl
+Animar Wound Management, 2nd ed., p. 155. (Baltimore: Williams and Wilkins, 1997).
+Samll Animal Bandaging,Casting,and Splinting Technigues Steven F. Swaim,Walter C. Renberg, and Kathy M. Shike
+@ Steven F. Swaim, Walter C. Renberg, and Kathy M. Shike
+25
+26Small Animal Bandaging, Casting, and Splinting Techniques
+sutured wounds or open wounds. For sutured wounds, the bandage provides protection of the area from
+ contamination and molestation by the animal. When bandaging an open wound, the bandage not only
+provides wound protection, but the primary bandage layer can also provide a stimulating effect on the
+wound healing process. These bandages are especially useful for large wounds over the thoracic and
+abdominal areas, such as burm wounds.
+A basic thoracic and abdominal bandage is also part of using aluminum splint rod side braces (see Side
+Braces in chapter 5). The bandage is applied prior to placing the side splints. Thus, when the extensions
+of the side splints are taped in place, they are taped to the bandage and the circumferential body tape
+Wraps are not applied to the hair on the trunk. This makes the presence of the splints more comfortable
+for the dog.
+Technique
+ When it is indicated (i.e., treating a thoracic
+or abdominal wound), the appropriate
+primary bandage layer is placed over the
+wound.
+● Using an absorbent secondary bandage
+ wrap material, the thoracic and abdominal
+ areas are wrapped circumferentially start-
+ ing on the thorax just behind the forelimbs
+(fig. 3.2).
+Fig. 3.2.
+●After several wraps, the bandage wrapping
+material is taken up between the forelimbs
+(fig. 3.3).
+Fg. 3.3.
+Thoracic, Abdominal, and Pelvic Bandages
+27
+ region and up across the opposite shoulder
+ area back onto the front of the body bandage
+(fig. 3.4 [arrow]). This is done at least two
+times to give layers of the bandage material
+ across the pectoral area as a strap.
+Fig. 3.4.
+ This procedure of placing a strap of bandage
+wrap is repeated on the opposite side. This
+provides two straps (A and B) of bandage
+across the pectoral and lower cervical areas
+thiat serve as shoulder straps to secure the
+bandage in place (fig. 3.5).
+Fg. 3.5.
+● After the two straps have been placed, the
+wrapping of the secondary bandage wrap is
+continued back onto the abdominal area.
+Each wrap overlaps the width of the previ-
+ ous wrap by one-half to one-third. Wrapping
+goes to just in front of the hind limbs. On
+male dogs, this goes to just in front of the
+prepuce (fig. 3.6). Two to three layers of
+wrap are made to cover the thoracic and
+abdominal areas.
+Fig. 3.6.
+ 28  Small Animal Bandaging, Casting, and Splinting Techniques 
+ Starting just behind the front limbs, pretorn
+ strips of 2-inch (5.0cm)-wide adhesive tape
+are placed circumferentially around the
+trunk to cover the secondary wrap (fig. 3.7).
+Each strip of tape overlaps the previous
+strip by one-half to one-third of its width.
+Alternatively, elastic bandage wrap can be
+used for this layer.
+Fg. 3.7.
+●Pretorn strips of 2-inch (5.0cm)-wide adhe-
+sive tape are placed over the two straps
+across the pectoral and lower cervical
+region. The strips are long enough so that
+the ends adhere to the body bandage (fig.
+3.8). If elastic bandage wrap is used as the
+tertiary layer, it is used to create the two
+straps. The completed bandage provides
+cover for thoracic or abdominal wounds or
+Fg. 3.8.
+a bandage surface along which the exten-
+sions of side splints can be taped (fig. 3.9).
+ To conserve on bandage material, a window
+can be cut in the bandage over the wound
+area, and a bandage is placed over this win-
+dowed area. This bandage is held in place
+by tape fixation to the body bandage. Thus,
+at bandage change, only the bandage cover-
+ing the wound is changed and the body
+bandage is left in place unless it has become
+wet or soiled, in which case it is changed
+(see page 36 this chapter, Pelvic Bandages,
+Windowed Pelvic Bandage).
+Fg. 3.9.
+Thoracic, Abdominal, and Pelvic Bandages
+Aftercare
+a pue sdens rapmous oml au ino ch pasn aie stossios aoepueq 'paieoipu si asueuo aoepueq Aep H
+length of the torso section, and the bandage is removed. The wound is treated and the bandage is replaced.
+If a windowed bandage is used, the wound is treated through the window and a small bandage is replaced
+over the window.
+ The cranial surface of the elbow area should be observed for any irritation that the two shoulder straps
+might be causing in the area. If this is noticed, a length of gauze can be passed from side to side under
+the straps and tied. This pulls the straps together and up away from the front of the elbow area.
+ On male dogs, the preputial area should be observed to check for any skin irritation that the caudal
+bandage edge may be causing in this area.
+Advantages and complications
+The bandage provides good coverage for thoracic and abdominal wounds or a good surface on which to
+fix the extensions of side splints. The shoulder straps provide security and keep the bandage from slipping
+caudally. If the windowed version of the bandage is used, it conserves on bandage materials since only
+the portion of the bandage over the wound is changed.
+The complication of this bandage is the skin irritation that can be caused by the shoulder straps and
+the caudal edge of the bandage in the bend of the elbow area and the preputial area on males,
+respectively.
+ If a windowed bandage is used, the bandage around the window can become wet and be a source for
+bacterial growth if wound lavage is used in wound care. Thus, care must be used in cleaning the wound
+surface.
+Windowed thoracic, abdominal bandage
+Indications
+See page 25 this chapter, Thoracic, Abdominal Bandages; Circumferential Thoracic, Abdominal Bandage.
+These bandages are indicated for smaller wounds in the thoracic and abdominal areas.
+Technique
+See page 36 this chapter, Pelvic Bandages, Windowed Pelvic Bandage.
+Aftercare
+See page 36 this chapter, Pelvic Bandages, Windowed Pelvic Bandage.
+Advantages and complications
+See page 36 this chapter, Pelvic bandages, Windowed Pelvic Bandage.
+Thoracic, abdominal tie-over bandage
+Indications
+The tie-over bandage can be used to protect open, sutured, or grafted wounds on the thoracic or abdominal
+areas. The bandage can also be used for the pelvic and proximal limb areas.
+ 30  Small Animal  Bandaging, Casting, and Splinting Techniques 
+Technique
+The thoracic or abdominal wound is represented by the fusiform, cross-hatched diagram in figure 3.10.
+Loose loops of 2-0 monofilament suture
+material
+(nylon  or polypropylene) are
+placed in the intact skin around the wound
+(fig. 3.10).
+Fg. 3.10.
+ The appropriate primary bandage material
+is placed over the wound (fig. 3.11).
+Fg. 3.11.
+●A secondary layer of absorbent bandage
+ material (e.g., laporotomy pad) is placed
+over the primary layer (fig. 3.12).
+Fg. 3.12.
+Thoracic, Abdominal, and Pelvic Bandages
+31
+Alength of umbilical tape or elasticbandage
+ material is laced between the suture loops
+in whatever pattern holds the bandage
+layers over the wound best (fig. 3.13).
+Fig. 3.13.
+Overlapping strips of 2-inch (5.0 cm)-wide
+adhesive tape are laid over the bandage and
+adhered to the skin surrounding the wound
+as the tertiary bandage layer (fig. 3.14).
+Other impermeable materials could be
+ placed over the bandage.
+Fig. 3.14.
+Aftercare
+Frequency of bandage change is governed by the amount and nature of drainage from the wound. At
+ q a o paan a a aa r ss ad ao a 'a a
+umbilical tape or strip of elastic bandage material is cut and removed. The suture loops in the skin are
+not cut.
+an puom aedodde q pamog 'paaoan are sna aepuq Aed pue Aepuas a
+ Fresh primary and secondary bandage materials are replaced over the wound.
+sdooi amns a yanor papeanu st renaeu aepueq snsea jo dins e ro aden requm jo yauat v
+around the wound, and tied.
+ The tertiary tape strips or impermeable material are placed over the bandage.
+Advantages and complications
+The main advantage of a tie-over bandage is that it is an economical form of bandage. The large
+amounts of secondary and tertiary bandage material that are required for a basic thoracic and abdominal
+ 32   Small Animal  Bandaging. Casting, and Splinting Techniques
+bandage are not necessary for a tie-over bandage. The centripetal force from tying the umbilical
+tape length or elastic strip can be considered as a supplement to wound contraction when treating
+an open wound.
+A potential complication of the tie-over bandage is that the suture loops could cut into the skin if the
+placing tape or some form of impermeable material over the bandage reduces chances of this
+complication.
+Pelvic bandages
+ Circumferential pelvic bandage
+Indications
+The circumferential pelvic bandage is indicated to provide covering for wounds on the pelvic area or
+wounds over the caudal lumbar and sacral areas (fig. 3.15). These could be sutured wounds or open
+wounds. The bandage provides protection of the area from contamination and molestation by the animal.
+When bandaging an open wound, the primary bandage layer can also fumish a stimulating effect on the
+[epnes 1o jiaqad au ui spumom asrel noy mgasn Aleinadsa are sasepueq asaul 'ssasoid Suneay pumom
+spinal areas,such asbum wounds.
+Fg. 3.15. An example of a wound over the caudal lumbar and sacral area on which a circumferential pelvic bandage would
+be indicated.
+Thoracic, Abdominal, and Pelvic Bandages
+EE
+Technique
+ The appropriate primary bandage material
+is placed over the wound.
+ Using an absorbent secondary bandage
+wrap material, the abdominal area 
+is
+wrapped  circumferentially
+ywithseveral
+layers (fig. 3.16). On male dogs, bandage
+material is initially wrapped over the
+prepuce.
+Fig. 3.16.
+ Wrapping  is continued circumferentially
+ around the proximal aspect of one pelvic
+limb for two to three wraps (fig. 3.17).
+Fig. 3.17.
+The wrapping goes back onto the caudal
+abdominal portion of the bandage for one to
+two wraps.
+Wrapping is then taken to the proximal
+ aspect of the opposite pelvic limb where
+ two to three layers of circumferential wrap
+are made, as with the first limb. On intact
+male dogs the scrotum should be avoided
+when wrapping the proximal limbs. The
+ result is a bandage that covers the abdomi-
+ nal, pelvic, and caudal spinal areas, leaving
+the tail, anus, vulva, or scrotum uncovered
+(fig. 3.18).
+Fig. 3.18.
+ 34  Small Animal Bandaging, Casting, and Splinting Techniques
+Pretorn strips of 2-inch (5.0cm)-wide
+adhesive tape are placed over the abdomi-
+nal and pelvic limb portions of the bandage
+as the tertiary bandage layer (fig. 3.19).
+Alternatively, elastic bandage wrap can be
+used for this layer.
+Fg. 3.19.
+● On male dogs, the area over the end of the
+prepuce is marked and a razor blade or
+scalpel blade is used to cut through the tape
+layer of the bandage (fig. 3.20).
+Fg.3.20.
+●Using bandage scissors carefully, the second-
+ary bandage material overlying the end of
+the prepuce is removed (fig. 3.21).
+Fg. 3.21.
+Thoracic, Abdominal, and Pelvic Bandages
+35
+●The tip of the prepuce is pulled out of the
+aperture that has been made. If necessary.
+the scalpel and scissors can be used to
+extend the opening further cranial to avoid
+any bandage pressure at the cranial base of
+the prepuce (the area being pointed out;
+Fig.3.22.
+fig. 3.22). The result is a circumferential
+pelvic bandage with allowances made for
+urination and defecation (fig. 3.23).
+Fig. 3.23.
+Aftercare
+ams iesiop sh suoie asepueq a ino ci pasn aie siossios aepueq 'paieoiput st aueu aepueq Aep 
+The bandage is removed, the wound is treated, and the bandage is replaced.
+Advantages and complications
+For large wounds, such as burn wounds, in the pelvic and/or caudal spinal areas, these bandages provide
+an adequate means of keeping medications in contact with the irregular surfaces that are involved. If the
+aseq leuen au ie donaaap Aeu pumom amssad e 'qonoua asrel lou st asepueq au u sunado lenndand
+ of the prepuce on male dogs.
+ 36  Small Animal  Bandaging, Casting, and Splinting Techniques 
+Windowed pelvic bandage
+Indications
+  s  a   s e  s a a
+for smaller wounds in the pelvic and caudal spinal areas.
+Technique
+●A circumferential pelvic bandage is app-
+lied (see page 32 this chapter, Pelvic
+Bandages, Circumferential Pelvic Bandage).
+?
+ The area of bandage over the wound is
+marked (fig. 3.24).
+Fg. 3.24.
+A razor blade or scalpel blade is used to
+ incise the tape of the marked area (fig. 3.25).
+Fg. 3.25.
+Thoracic, Abdominal, and Pelvic Bandages
+37
+ Bandage scissors are used to remove the sec-
+Fig. 3.26.
+ mdary wrap material in the marked area
+(fig. 3.26). This exposes the wound area
+(fig. 3.27. No wound is present on this dem-
+onstration dog).
+Fg.3.27.
+ Primary and secondary bandage materials
+are placed over the wound (fig. 3.28).
+Fig. 3.28.
+38   Small Animal Bandaging, Casting, and Splinting Techniques
+●Pretorn strips of 2-inch (5.0cm)-wide adhe-
+sive tape are placed over the primary and
+secondary bandage materials as the tertiary
+bandage layer to hold them in place (fig.
+3.29). These tape strips are adhered to the
+ tape of the circumferential pelvic bandage.
+Fg. 3.29.
+●A windowed bandage is the result (fig. 3.30.
+Broken lines indicate tape covering of the
+windowed bandage).
+Fg. 3.30.
+Aftercare
+● At bandage change, the tape of the windowed bandage is removed along with the underlying primary
+ and secondary layers. Appropriate wound treatment is performed.
+ Fresh primary and secondary bandage materials are replaced over the wound.
+● Pretorn tape strips are placed to hold the underlying bandage materials in place.
+Advantages and complications
+The main advantage of the windowed bandage is that it is a more economical form of bandage. It is not
+of bandage over the window is changed.
+The bandage around the window can become wet and be a source of bacterial growth if wound lavage
+is used in wound care. Thus, the wound surface must be cleaned carefully to prevent this.
+Thoracic, Abdominal, and Pelvic Bandages
+6E
+Pelvic tie-over bandage
+Indications
+See page 29 this chapter, Thoracic, Abdominal Bandages; Thoracic, Abdominal Tie-Over Bandage.
+Technique
+See page 29 this chapter, Thoracic, Abdominal Bandages; Thoracic, Abdominal Tie-Over Bandage.
+Aftercare
+See page 29 this chapter, Thoracic, Abdominal Bandages; Thoracic, Abdominal Tie-Over Bandage.
+Advantages and complications
+See page 29 this chapter, Thoracic, Abdominal Bandages; Thoracic, Abdominal Tie-Over Bandage.
+Pelvic extension splints
+Indications
+ Dogs that have had spinal trauma may assume a Schiff-Sherrington posture. They are in a sitting position
+with the forelimbs extended and supporting the dog's forequarters while the pelvic limbs are extended
+forward under the dog (fig. 3.31). Thus, the dog's weight is borne on the ischial tuberosities. With side
+splints that extend beyond the pelvic area, pressure goes on the ends of the splints, keeping it off of the
+skin over the ischial tuberosities and preventing decubital ulcer formation. The splints are designed for
+and work best on small dogs (fig. 3.32).
+Pressure on
+Fig. 3.32.Pelvic extension splints are designed for and work
+ischial tuberosities
+best on small dogs.
+Fg. 3.31. In the Schiff-Sherrington posture, the dog's weight
+rests on the ischial tuberosities.
+40  Small Animal Bandaging, Casting, and Splinting Techniques 
+Side splints may also be indicated to protect a tail stump when the tail has been amputated so short
+that a bandage cannot be applied. They protect the tail stump from pressure as the animal sits.
+Technique
+●Acircumferential thoracic,abdominal
+bandage is placed on the dog (see page 25
+this chapter, Thoracic, Abdominal Bandages;
+Circumferential
+Thoracic,
+Abdominal
+Bandage).
+ A rigid splint material that is about 3 inches
+(7.7cm) wide is selected for the pelvic exten-
+sion splints (fig. 3.33).
+Fg. 3.33.
+ The splints are taped on either side of the
+thoracic, abdominal circumferentialbandage
+Fg. 3.34.
+with about 2 to 3 inches (7.7cm) extending
+beyond the dog's hind quarters (fig. 3.34).
+When the dog takes the Schiff-Sherrington
+posture, the caudal ends of the splints take
+the pressure (closed arrow), not the ischial
+tuberosities (open arrow, fig. 3.35).
+no pressure
+Pressure
+Fg. 3.35.
+Thoracic, Abdominal, and Pelvic Bandages
+Aftercare
+The skin over the ischial tuberosities is observed and treated as necessary for the prevention or treatment
+of pressure wounds. The bandage and splints are adjusted and secured as needed to maintain their
+furiction.
+Advantages and complications
+The splints are an effective method for keeping pressure off of the skin over the ischial tuberosities. This
+is a major factor in the treatment and prevention of decubital ulcers. They may also be effective in pre-
+aban Ae siuds pe aepuq aui ‘uonndue jn Sumoioy dums jn hous e on euen Suaa
+adjustment and retaping if they slip. The splints are not as effective on large dogs.
+4
+Extremity Bandages, Casts,
+and Splints
+Tail bandages
+Indications
+Tail bandages are indicated when there has been an injury to the tail and the wound is being treated as
+an open wound, a sutured wound, or occasionally as a grafted wound. Bandages provide wound protec-
+tion and/or protection from pressure on a tail stump.
+A common wound of the tail occurs in long-tailed, short-haired dogs that are housed in a kennel envi-
+ronment. When the dog wags its tail, the tip becomes traumatized as it hits against cage or kennel run
+walls. The result is an open wound on the tip of the tail. A secure bandage is indicated to protect the tail
+tip while it heals
+When a tail has been amputated at a level such that a bandage can be applied to the remaining stump,
+a secure bandage is indicated. If the tip of the stump might be traumatized as the animal sits, a splint
+may be needed to protect the tip of the tail as it heals.
+If a tail has been amputated so short that a bandage and /or splint cannot be applied to the stump, side
+splints may be indicated to protect the stump to prevent molestation and trauma when the animal assumes
+a sitting posture (see page 39, chapter 3, Pelvic Extension Splints).
+Samll Animal Bandaging,Casting,and Splinting Technigues Steven F.Swaim,Walter C. Renberg, and Kathy M. Shike
+@ Steven F. Swaim, Walter C. Renberg, and Kathy M. Shike
+43
+44  Small Animal Bandaging, Casting, and Splinting Techniques 
+Technique
+The area proximal to the wound on the
+tail tip/stump is clipped and prepared for
+aseptic procedures, especially if any surgical
+procedure (e.g., suturing) is to be done
+(fig. 4.1).
+Fg. 4.1.
+the tail stump, a piece of gauze is placed
+ over the stump as the primary dressing and
+ taped in place with a circumferential wrap
+of 1-inch (2.5cm)-wide tape (figs. 4.2 A, B,
+C).
+B
+Fg. 4.2.
+Extremity Bandages, Casts, and Splints
+45
+ Strips of 1-inch (2.5 cm)-wide adhesive tape
+are placed longitudinally along each side of
+the tail as "stirrups" (fig. 4.3).
+Fig. 4.3.
+ The tape strips are adhered together beyond
+the tail tip/ stump (figs. 4.4 A, B).
+Fig. 4.4.
+46  Small Animal Bandaging, Casting, and Splinting Techniques
+The tape strips are folded back onto the tail
+(fig. 4.5, arrow).
+Fg. 4.5.
+● Circumferential wraps of pretorn strips of
+1-inch (2.5cm)-wide tape are wrapped
+around the tail, from distal to proximal.
+After two or three tape wraps, hair is pulled
+from beneath the last tape wrap (fig. 4.6).
+Fg. 4.6.
+ The hair thus lies over the last tape wrap
+and another circumferential segment of the
+tape is placed to sandwich this hair between
+its adhesive surface and the nonadhesive
+surface of the previous tape wrap. This is
+kmown as the "shingling" wrap (fig. 4.7).
+Fg. 4.7.
+Extremity Bandages, Casts, and Splints  47
+The result is a tail bandage secured by tape
+"stirrups" and "shingling" (fig. 4.8).
+If further protection is needed for a tail
+-s rau pazis-anedondde ue 'dums
+aepueq au raao padei aq ues puds ad
+to protect the end of the stump.
+Fg.4.8.
+Aftercare
+ameu au uo puadap m aueuo aepueq jo Aouanbang aui Aip pue ueap idax aq pmous aepueq au
+of the wound and the clinical jud gment of the clinician.
+ Bandage scissors will be needed to remove the bandage. The "stirrups" and "shingling" technique
+provides a secure bandage. Thus, removal may require some dilligence.
+ Because of this, some analgesic/sedation may be needed when manipulating an injured tail to remove
+the bandage.
+Advantages and complications
+H m rd a s sh aan ,, p ,snns, a jo a Ard a
+bandages is that they can be wagged off, that is, with the centrifugal force of tail wagging, the bandage
+tends to be thrown off of the tail. "Stirrups" and "shingling" help prevent this.
+Because the circulation of the tail becomes more tenuous as the tip of the tail is approached, circulatory
+compromise could occur if the circumferential tape wraps are placed too tight. To help avoid this, pretorn
+tape strips are used for these wraps. The danger of getting the wraps too tight is greater if the tape is
+rolled off of the roll and onto the tail.
+Forelimb bandages, casts, and splints
+There is some overlap of information about the basic soft padded limb bandage and the basic paw and
+distal limb bandage. However, some areas require information specific to them. Therefore, to make cover-
+age easier for the reader and thus avoid refering back to areas, a section has been devoted to each topic.
+Generally, information on the basic soft padded bandage will refer to injuries above the carpus or tarsus,
+and basic paw and distal limb bandages will refer to injuries from the carpus or tarsus distally. Thus, the
+reader should refer to both sections if there is concern about what technique to use based on location of
+an injury.
+Basic soft padded limb bandage
+This information for the basic soft padded limb bandage on the forelimb also applies to the pelvic limb
+(see page 92 this chapter, Pelvic Limb Bandages, Casts, and Splints; Basic Soft Padded Limb Bandage).
+48  Small Animal Bandaging, Casting, and Splinting Techniques
+Indications
+The soft padded limb bandage is indicated to provide moderate support, immobilization, and compres-
+sion to address a variety of needs. It is the fundamental bandage upon which many other techniques are
+uado se yons 'spumom ansst hos snoiea ioajoid oi pasn si asepueq aul 'siseo pue shunlds se yons 'paseq
+wounds, sutured wounds, and grafted wounds.
+Technique
+Although the pictures shown with this technique are for a forelimb bandage, the principles of the tech-
+q raad a o aeq a ndde rg as a ae ab
+ The animal is generally in lateral recum-
+bency with the affected limb up.
+● The limb is placed with neutral angulation
+of the joints. In most situations, the limb
+should be maintained in this position while
+the bandage is applied (fig. 4.9).
+Fg. 4.9.
+Tape "stirrups" are applied to the lateral
+and medial aspects of the paw and
+(2.5 cm)-wide strips of tape (fig. 4.10).
+Fg. 4.10.
+Extremity Bandages, Casts, and Splints 
+49
+Fig. 4.11.
+pmous ,sdnins, au roy adet jo sanaid au
+extend beyond the end of the paw 4 to 6
+mches (10-15.2cm). The free end of each
+piece of tape should be folded over on itself
+jede sdins au Sumd 1oy dug e apiaoid o1
+(fig. 4.11). The strips are adhered to each
+other temporarily (figs. 4.12 and 4.13).
+Alternatively, a tongue depressor can be
+placed between the two adhesive surfaces
+to allow them to be separated. If wounds
+exist on the lateral or medial aspect of the
+paw area, the strips can be placed on the
+dorsal and volar surfaces of the area. There
+are other techniques for placing "stirrups"
+e s g aed aas spom med 1o
+ Basic Paw and Distal Limb Bandage).
+Fig. 4.12.
+Fg. 4.13.
+ 50  Small Animal Bandaging, Casting, and Splinting Techniques 
+ Small pieces of cotton or cast padding are
+placed between the digits and in the inter-
+pad area on the palmar/plantar paw surface
+(fig. 4.14).
+Fg. 4.14.
+The need for protection of the skin over
+bony prominences or other protrubences
+(e.g., the carpal foot pad) is assessed so that
+measures can be taken to prevent pressure
+wounds. This is especially true if the
+bandage will be present for a prolonged
+time, such as under a cast. "Donut" pads
+can be made by folding several layers of cast
+Fg. 4.15.
+padding on each other (fig. 4.15) or by stack-
+a on rauasoi sasuods azmea eraaas Su
+a pad thick enough to approximate the
+degree to which the prominence protrudes
+from the surface of the limb. A hole is cut in
+the center of the pad to give it the donut
+effect (figs. 4.16, 4.17, 4.18, 4.19). These pads 
+are placed over the prominences with the
+hole over the prominence (fig. 4.20). (For an
+alternative way to make donut pads, see
+page 56 this chapter, Basic Paw and Distal
+Limb Bandages).
+Fg. 4.16.
+Fg. 4.17.
+Fig. 4.18.
+Fig. 4.19.
+Fg. 4.20.
+52   Small Animal Bandaging, Casting, and Splinting Techniques
+● If the bandage is to be used for covering a
+ wound or wound repair area, the appropri-
+ ate medication and primary bandage layer
+are placed over the wound.
+ Cast padding is applied by wrapping the
+ limb from distal to proximal, starting at the
+digits (figs. 4.21, 4.22). The width of cast
+padding used is dependent on the size of
+the animal. Effort should be made to overlap
+ each turn around the limb approximately
+Fg. 4.21.
+fifty percent over the preceding turn.
+Additionally, wrinkles should be avoided,
+and the material should be stretched to
+slightly distort the pillow texture if a tex-
+ tured type of cast padding is used. Concern
+about getting cast padding wrapped too
+tightly is not a factor since it will tear if too
+much tension is placed on it.
+ If the bandage is being used to cover a
+draining wound, an absorbent secondary
+wrap designed to absorb wound fluid is
+preferred to cast padding. The wrap is
+ applied in the same manner as described for
+ cast padding; however, care must be taken
+not to wrap it too tightly because it will not
+tear if excess tension is applied.
+Fg. 4.22.
+ At the proximal end of the bandage, tension
+is evenly applied across the roll of cast
+padding to tear the roll of padding.
+Additional layers are commonly applied
+(figs. 4.23, 4.24).
+ When treating a draining wound, several
+layers of absorbent secondary wrap are
+applied to absorb wound fluid. The wrap
+material is cut after sufficient layers have
+been applied, usually three to four layers.
+Fg. 4.23.
+Extremity Bandages, Casts, and Splints  53
+Fig. 4.24.
+The next layer is roll gauze, which is applied
+from distal to proximal starting at the digits.
+There should be fifty percent overlap of
+each wrap with the previous wraps. The
+ gauze should begin and terminate such that
+ a small amount of underlying cast padding
+protrudes from under it at the top and
+bottom of the bandage. It is important to
+apply even tension across the roll during
+ application by keeping fingers on the roll
+and not on the extended portion of the
+gauze (fig. 4.25). Tension is applied to
+supply mild compression of the underlying
+cast padding. However, excess tension
+should be avoided because it could inhibit
+venous and lymphatic return from the limb.
+When the bandage is being used to treat a
+Fig.4.25.
+draining wound, this layer of roll gauze is
+not used.
+The tape strips of the "stirrups" are sepa-
+ rated. Each one is twisted so the adhesive
+side will be against the bandage. They are
+then folded up onto the bandage. The
+middle two digits should be visible (fig.
+4.26).
+Fig. 4.26.
+54   Small Animal Bandaging, Casting, and Splinting Techniques
+●The final protective layer can be applied
+with elastic wrap bandage material. It is
+applied from distal to proximal with fifty
+percent overlap of each wrap with the previ-
+ q  ou p d s
+Fg. 4.27.
+(fig. 4.27). It is applied with moderate
+tension such that the textured pattern of the
+material is slightly distorted but still visible.
+There are factors that govern the amount of
+pressure within an elastic tape outer wrap
+(see page 56 this chapter, Basic Paw and
+Distal Limb Bandage). A small amount of
+ the underlying layer should protrude at the
+top and bottom of the bandage (fig. 4.28).
+Fg. 4.28.
+Alternatively, porous adhesive tape can be used for the outer layer of the bandage. Strips of tape are
+aepueq au pumoie aouo o ci yanoua buol si dins yoeg aepueq au oh pandde are Aau anojaq unoiaid
+circumferentially. The strips are applied from distal to proximal with mild but not constrictive pressure
+with fifty percent overlap of strips.
+Aftercare
+The bandage should be carefully monitored. It should be kept clean and dry, and the animal should not
+be allowed to lick or chew at it. The two exposed digits should be examined for signs of swelling (separa-
+tion of the digits), which would indicate the bandage is too tight and needs to be changed. A veterinarian
+should be contacted if the animal's use of the limb decreases or if any of the above signs are noticed.
+If the bandage has been used for treating a draining wound, periodic bandage changes will be
+necessary.
+Bandage remova!
+The bandage should be removed in layers to provide comfort for the animal. The following is the removal
+technique for a bandage covering a wound. Some of the steps will apply to removing a bandage that
+underlies a cast or splint being used for orthopedic treatment.
+Extremity Bandages, Casts, and Splints  55
+A razor, scalpel blade, or scissors should be used to carefully cut only the tertiary bandage layer for
+the length of the bandage.
+ The tertiary bandage layer is then removed by peeling it away from the underlying layer. If porous
+adhesive tape was used for the tertiary layer, bandage scissors will be needed to snip the attachment
+between the two layers.
+●An end of the secondary layer is found or created and the secondary layer is unwrapped from the
+ limb. The amount of exudate in the layer should become less with each bandage change as healing
+progresses. If "stirrups" are present, the position against the skin can be left intact and subsequent
+"stirrups" applied on top.
+ Cotton, cast padding, or primary dressing pieces in the interpad and interdigital areas are removed if
+they are wet or soiled.
+ The primary bandage layer is removed and the wound area is treated appropriately (e.g., debrided,
+lavaged, medicated). If the primary layer is adhered to the wound surface, it can be soaked with warm
+physiologic saline or warm 2% lidocaine that does not contain epinephrine. Physiologic saline should
+be used on cats. This loosens the bandage for removal and provides comfort for the animal.
+The layered removal of the bandage is much more comfortable for the animal than trying to manipulate
+the injured limb and bandage scissors with force to cut through all layers of the bandage at one time.
+Bandage replacement
+●The pieces of cotton or castpadding are replaced in theinterdigital and interpad area if they wereremoved.
+ Depending on the nature of the wound, the appropriate bandage material is replaced over the wound
+or graft.
+ Donut pads can be saved from the previous bandage and be replaced in the new bandage. After two
+to three uses, these pads become compressed and need to be replaced with new pads.
+If the "stirrups" have become wet with wound drainage, they are replaced.
+ Jo Aouanbany a unaao m paonpoid Suraq aiepnxa jo jumoue aul paoepdai st aAel Arepuonas aul
+bandage changes. In the early stages of wound management, when wound fluid production is greatest,
+saupeat aiepnxa arojaq auop aq pmous asueyp asepueg Alep isealle auop aq pmous sasueuo asepueq
+the tertiary layer (strike-through), especially if a porous tertiary layer has been used. If the tertiary
+layer becomes wet, exogenous bacteria can contaminate the wound. Bandage changes can become less
+frequent as healing progresses and fluid production decreases.
+ The tertiary layer is replaced using either elastic bandage wrap or porous adhesive tape. To help keep
+the tertiary bandage layers dry and clean, a plastic bag (e.g., bread sack or IV fluid bag) can be placed
+over the bandage when the animal is in a wet or potentially contaminating environment. Rubber bands
+should rot be used to affix the plastic bag on the limb. Tape should be used to secure the bag to the
+hair above the bandage. Thus, the possibility of the rubber band slipping off of the bag and going
+umoticed up under the hair to cause circumferential damage is avoided.
+Advantages and complications
+The soft padded bandage is easy to apply, and it provides appropriate support and protection for a variety
+the bandage by the animal. If any of these are suspected, the bandage should be changed. Each area of
+the bandage has its advantages and complications.
+Interdigital and interpad areas
+The pieces of cotton or cast padding placed between the digits and interpad area help absorb the normal
+aieq aod Aa lam ja Aa j 'aaamo 'mo ienaq huaaad dau pue eare a ui aisio
+growth.
+56Small Animal Bandaging, Casting. and Splinting Techniques
+Primary bandage layer
+The advantages and complications associated with the various primary bandage materials are covered in
+ chapter I, Basics of Bandaging, Casting, and Splinting. In general, the newer primary dressing materials
+enhance the healing process by creating an environment that supports wound healing or by interacting
+with tissues to enhance healing. The donut pads provide an inexpensive way to protect the skin over
+convex prominences from pressure injury. The "stirrups" help assure security of the bandage on the limb.
+However, if they become wet, they may become a source of bacterial growth and wound
+contamination.
+Secondarybandagelayer
+The absorption of exudate and its associated bacteria away from the wound is the main advantage of the
+secondary bandage layer. The secondary layer also provides padding and some immobilization of
+injuries.
+When a porous tertiary layer has been used, fluid can evaporate from the exudate, and this helps
+imhibit bacterial growth. The 0.2% polyhexamethylene biguanide-impregnated secondary dressing
+ has the added advantage of inhibiting wound bacteria and exogenous bacteria that may enter the second-
+ary layer.
+With highly productive wounds, evaporation of fluid from the secondary layer may not be as fast as
+frequent bandage changes are indicated.
+ If cotton or cast padding is used in the secondary layer, and if they come in contact with the wounds
+and become wet, they may stick to the wound. They are difficult to see and thus small amounts are left
+ on the wound and can act as foreign bodies. However, cast padding has an advantage as a secondary
+layer in that it is difficult to wrap it too tightly. It will tear if too much tension is placed on it while wrap-
+ping it.
+Tertiarybandagelayer
+This layer holds the other layers in place. If a porous material is used, it allws evaporation of fluid from
+the secondary layer, which is beneficial in keeping a bandage dry. However, the porosity also can allow
+exogenous fluid and bacteria to enter the bandage. Elastic bandage materials provide good conformation
+of the bandage to the limb, but they have the potential complication that they can cause circulatory prob-
+Aun oon pandde ane Aa j sisoioau anssh pue suat
+Basic paw and distal limb bandage
+See page 47 this chapter, Forelimb Bandages, Casts, and Splints.
+Indications
+sumom panjea 1o 'pamns 'uado Sugean roy paieoipui Aenauaa ane med pue qunl leisip a uo sasepueg
+For some soft tissue wounds, some form of splint is necessary to prevent tissue movement and/or pres-
+sure. Some specific indicafions will also be stated with porfions of the technique.
+Technique
+Interdigital/interpad areas
+These areas must be kept dry, and in the presence of wounds they require a primary bandage
+dressing.
+Extremity Bandages, Casts, and Splints 
+57
+ Small pieces of cotton or cast padding are
+placed between the digits and in the inter-
+pad area on the palmar/plantar paw surface
+(figs. 4.29 A and B).
+Fg- 4.29. From Smaffl Animar Distar Limb
+Injuries, published by Teton New Media (in
+press).
+58  Small Animal Bandaging. Casting, and Splinting Techniques
+Alternatively,if there are woundsbetweenn
+the digits, strips of some form of primary
+dressing should be placed between the
+digits (fig. 4.30).
+Fg. 4.30. From Smafl Animal Distal Limb Injuries, published by
+Teton New Media (in press).
+o a aaodns e d u an p ue sd r aq rd a
+healing and/or interacting with the wound tissues to enhance healing. Depending on the nature of
+the wound, the appropriate primary bandage material is placed over the wound or graft (see
+chapter 1).
+the dorsum of the digits or on the pads of medium-sized dogs. It is similar to placing a disposable diaper
+on a child.
+Triangular notches are cut from the mid-
+point along the adhesive edges on either
+side of a nonadherent semiocclusive pad
+(fig. 4.31).
+Fg- 4.31. From Smafl Animal Distal Limb injuries, published by
+Teton New Media (in press)
+Extremity Bandages, Casts, and Splints
+59
+The pad is placed on the palmar/plantar
+surface of the paw and adhered to the lateral
+and medial sides of the area (fig. 4.32).
+Fig. 4.32.
+-From Smaff Animar Distar Limb injuries, published by
+Teton New Media (in press).
+ The pad is folded so the remaining portion
+covers the dorsum of the paw (fig. 4.33).
+Fig.4.33.
+-From Smaff Animar Distar Limb Injuries, published by
+Teton New Media (in press).
+The remaining adhesive strips are adhered
+to the edges of the bandage already in place
+(fig. 4.34).
+Fig.4.34.
+-From Smafl Animar Distar Limb injuries, published by
+Teton New Media (in press).
+ 60  Small Animal Bandaging, Casting, and Splinting Techniques 
+"Donut" pads are used over prominences
+such as the carpal pad or the point of the
+hock that could be injured by bandage, cast,
+or splint pressure.
+ Several layers of cast padding are folded on
+each other to make a pad approximately 3
+inches x 3 inches (7.6 cm x 7.6 cm; fig. 4.35).
+Fg- 4.35. From Smaff Animal Distar Limb injuries, published by
+Teton New Media (in press).
+The pad is folded over on itself, and bandage
+scissors are used to cut a slit in the center of
+the pad (fig. 4.36).
+Fg. 4.36. From Smafl Animal Distal Limb injuries, published by
+Teton New Media (in press).
+ The pad is unfolded and the slit is enlarged
+to a nearly round opening using digital
+tension on its edges (fig. 4.37).
+Fg. 4.37. From Smafl Animal Distar Limb injuries, published by
+Teton New Media (in press).
+Extremity Bandages, Casts, and Splints  61
+ The pad is placed over the prominence with
+the opening over the prominence (fig. 4.38).
+Fg- 4.38. From Smaff Animar Distar Limb injuries, published by
+Teton New Media (in press).
+"Stirrups" can be placed on the limb to help
+secure a bandage in place.
+Two strips of 1-inch (2.5 cm)-wide adhesive
+tape are adhered to the skin of the limb par-
+allel to the limb's long axis. Placement of
+these can be on the dorsal or volar surface
+Fig. 4.39. From Smaff Animar Distal Limb injuries, published by
+(fig. 4.39) or on the medial and lateral sur-
+Teton New Media (in press).
+faces (fig. 4.40). The strips should extend
+several inches beyond the end of the paw.
+ The placement is dependent on the location
+of any lesion on the paw or distal limb.
+"Stirrups" should not be placed over any
+wound, suture line, or graft. If there is a
+large wound or graft in the area that would
+rups" should not be used.
+Fig. 4.40. From Smaff Animar Distar Limb injuries, published by
+Teton New Media (in press).
+62  Small Animal Bandaging, Casting, and Splinting Techniques
+Secondary bandage layer
+The function of the secondary bandage layer is to provide absorption of wound drainage, padding, and
+ some immobilization. Specific secondary wraps or cast padding can be used (see chapter 1).
+ The secondary bandage layer is wrapped
+onto the limb from distal to proximal. It
+should be wrapped such that there is good
+contact between this layer and the underly-
+ing primary bandage. However, excess
+ pressure should be avoided. This layer is
+placed evenly along the limb. The practice
+of twisting the bandage material 180 degrees
+ to get a narrow portion to pull underlying
+Fg. 4.41.From Smafl Animal Distar Limb injuries, published by
+bandage into an uneven area (e.g., around a
+Teton New Media (in press).
+carpal paw pad) should not be done. There
+is increased pressure under such twists.
+:,sdnnns, m aepueq yo pua [eis
+Option l—The adhesive surfaces of the
+"'stirrup" strips can be adhered together
+beyond the end of the paw for 3 to 8
+inches (7.6 to 20.4 cm), depending on the
+length of the bandage/leg. The resulting
+single strip is folded back onto the sec-
+ondary bandage surface (fig. 4.41).
+Option 2—Each strip of the stirrup 
+is
+twisted 180 degrees (arrows) and folded
+back onto the secondary bandage layer
+(fig. 4.42). There are other techniques for
+placing
+"stirrups"(see page
+47，this
+chapter, Basic soft padded limb bandage).
+Fg. 4.42.
+From Smafl Animal Distar Limb injuries, published by
+Teton New Media (in press).
+Extremity Bandages, Casts, and Splints  63
+ Distal end of the bandage without "stirrups": This form of bandaging is especially effective when there
+ Jo asn au apniand sheno ro spumom a anaum pasn aq ose uen h shioip a uo spumom ane
+"'stirrups".
+Option 1—-At the end of the paw, the secondary bandage roll is turned at a right angle in preparation
+for placing layers over the end of the paw (fig. 4.43). The bandage material is folded back and forth
+over the end of the paw several times (fig. 4.44). The bandage roll is then turned at a right angle
+again and wrapped circumferentially around the paw area to pull in the protruding edges of the
+( ) med a usoua auq oos e st nsa a ( ) sg
+Fig. 4.44. From Smafl Animal Distal Limb Injuries, published by
+Teton New Media (in press).
+Fg. 4.43. From Smafl Animal Distar Limb Injuries, published by
+Teton New Media (in press).
+Fg. 4.46. From Smalf Animal Distat Limb Injuries, published by
+Teton New Media (in press).
+Fg. 4.45. From Smafl Animal Distal Limb Injuries, published by
+Teton New Media (in press).
+ 64  Small Animal  Bandaging, Casting, and Splinting Techniques 
+Option 2—Wrapping the secondary roll begins at the level of the second and fifth digits, wrapping
+) pasodxa uean nq aepueq a Aq panaaon jou are shp ymoy pue pi a os Aanbio
+4.47). This allows the evaluation of bandage tightmess. If the digits appear swollen or feel hypother-
+mic, it is an indication the bandage may be too tight. This option for the distal end of the bandage
+could be used when the wounds or grafts preclude the use of "stirrups". It can also be used when
+pasodxa ueua pmon ship a anus paondua are sdns ienaen pue lpa
+Fg. 4.47. From Smaff Animar Distar Limb injuries, published by Teton New Media (in press).
+Tertiarybandagelayer
+This layer secures the other bandage components in place, keeps them clean, and helps immobilize the
+bandaged distal limb, especially when the layer holds a splint in place. Several materials are available for
+this layer (see chapter 1).
+● Tertiary bandage material is placed over the
+secondary layer.
+Option 1—If porous adhesive tape is used,
+strips of tape are pretorn before applying
+them to the bandage (fig. 4.48). Each strip
+ is long enough to go around the bandage
+circumferentially.Strips oftape are
+applied from distal to proximal on the
+bandage, with mild but not constrictive
+pressure in an overlapping fashion.
+Fig. 4.48.From Smafl Animat
+Distal Limb injuries, published by
+Teton New Media (in press).
+Extremity Bandages, Casts, and Splints 
+65
+ Alternatively, the tape can be rolled off of
+the roll as it is applied to the bandage.
+However in doing this, it is necessary to
+secure the tape near the bandage with one
+hand while pulling more tape off of the roll.
+Thus, the danger of applying tape too tightly
+is reduced (fig. 4.49).
+Fg. 4.49.From Smafl Animal Distal Limb injuries, published by
+Teton New Media (in press).
+Skin.
+At the proximal end of the bandage, the last
+% tape width on skin 
+piece of tape is placed such that half of its
+width is on the next-to-last piece of tape and
+% tape width on 
+previous tape
+the other half of its width is on the skin at
+the proximal end of the bandage (fig. 4.50).
+Bandage
+Fg. 4.50.
+ Additional pieces of tape can be placed to incorporate more skin/hair on the limb at the proximal end
+of the bandage and thus prevent bandage slippage. A hand can be pressed on the tape over the skin/
+hair for approximately one minute. The heat of the hand and the animal's body help make the tape's
+ adhesive material adhere to the skin/hair for bandage security.
+ Another means to help ensure tape adhesion to the skin is to spray polymeric solution of hexameth-
+yldisiloxane acrylate (Cavilon No Sting Barrier Film, 3M Health Care, St. Paul, MN) on the skin adja-
+cent to the top of the bandage. After drying, it leaves a clear film to which the tape sticks better than
+omnly the skin. This film also helps prevent epidermal stripping when the tape is removed.
+Option 2—When waterproof tape is used to protect the bandage from exogenous fluid (e.g., water or
+urine), it is applied as pretorn strips as described for porous adhesive tape (fig. 4.48). However, it
+is applied over the porous adhesive tape. Contact of this bandage material with skin and hair on
+the limb is avoided. Bandage security to the skin and hair is assured by the medical-grade porous
+adhesivetape.
+ 66  Small Animal  Bandaging, Casting, and Splinting Techniques
+Option 3—When elastic adhesive tape is applied, it should be done carefully over adequate secondary
+bandage wrap to provide even but not excessive pressure. Use of cast padding as the secondary layer
+applied off of the roll, it is secured near the bandage with one hand while pulling more tape off of
+the roll. Thus, the danger of applying tape too tightly is reduced (fig. 4.49). The wraps should overlap
+one-third to one-half of the tape width. Another guideline for applying this tape is to apply it such
+that the textured pattern of the material is slightly distorted but still visible.
+-Ao si aden st Aq paiean anssaid je paraquauan aq pmous i 'adei aaisaupe snsea Suisn uaum
+erned by five factors:
+ 1. The material's elasticity. Higher elasticity creates more pressure.
+2.
+ The amount of tension placed on the tape during application.
+3.
+(iaa janbjumon) amssand jesol au raean au 'adel au ramoneu aul adel au jo ypim au
+4.
+ The number and amount of overlap of layers applied. Pressure is additive with these, that is, each
+layer may feel as if it is being applied under the correct tension. However, the pressure increases 
+with each layer.
+5.
+ The circumference of the bandaged limb. The smaller the circumference, the greater will be the
+possible pressure (fig. 4.51).
+Care should be used when progressing from an area of smaller circumference to one of larger circum-
+ference, that is, distal to proximal. The distal portion of the bandage should be applied with less tension
+to prevent excessive constriction in this smaller circumference area. It should be remembered that there
+may be some areas that are narrower than more distal areas on some dogs, for example, immediately
+proximal to the carpus and tarsus and proximal to the digits. A tourniquet effect could result from tight
+application in these areas. Adequate padding is important in helping prevent such pressure problems.
+ If very convex areas (e.g., point of the hock or point of the elbow) are bandaged with elastic adhesive
+tape, care needs to be taken to avoid too much pressure. Bandages over these areas normally produce
+With placement of additional padding over these areas, pressure increases rather than decreases. Thus, it
+is best to pad around these points with a "donut" pad (see page 58, this chapter, Primary Bandage Layer
+"Donut" Pads, and "Stirrups").
+To help assess the pressure of a distal limb bandage applied with elastic adhesive tape, the bandage
+could be applied leaving the middle two digits exposed to be monitored for sensation and circulation
+③ Width of
+②Tension on roll
+Roll
+ Bandage material elasticity
+④Number of layers
+and amount of overlap
+③ Circumference
+ of bandaged area
+Five Things Governing Banadage Pressure
+Fg. 4.51.
+Extremity Bandages, Casts, and Splints  67
+several times a day (see page 64, this chapter, Secondary Bandage Layer, Distal End of the Bandage without
+"Stirrups"Option 2)
+Aftercare
+Bandage removal
+A distal limb and paw bandage should be removed in layers to provide comfort for the animal. The fol-
+lowing is the removal technique for a bandage covering a wound. Some of the steps will apply to removing
+a bandage that underlies a cast or splint being used for orthopedic treatment.
+ Using a razor blade or a scalpel blade, only the tertiary layer of the bandage is carefully incised along
+the length of the bandage.
+●At the proximal end of the bandage, where tape of the tertiary layer may be adhered to the skin and
+● The tertiary bandage layer is then removed by peeling it away from the underlying secondary bandage
+layer. Bandage scissors are used to snip the attachment between the two layers as it is needed.
+●An end of the secondary layer is found or created and the secondary layer is unwrapped from the
+limb. The amount of exudate being produced by the wound can be assessed as this layer is removed.
+The amount of exudate in this layer should become less with each bandage change as healing pro-
+u hal ane Aau 'juasaid are ,sdnirns, J 'sassana
+ paaoai are seare penpau pue pedranui an u sasard Sussarp Ared no 'upped isen oo o
+they are wet or soiled.
+● The primary bandage layer is removed and the wound area is treated appropriately (e.g., debrided,
+lavaged, medicated). If the primary layer is adhered to the wound surface, it can be soaked with warm
+physiologic saline or warm 2% lidocaine that does not contain epinephrine. For cats, warm physiologic
+saline should be used. This loosens the bandage for removal and provides comfort for the animal at
+removal.
+The layered removal of the bandage is much more comfortable for the animal than trying to manipulate
+the injured limb and bandage scissors with force to cut through all the layers of the bandage at once.
+Bandage replacement
+●At the time of bandage change, the pieces of cotton or cast padding that have been placed in the
+interdigital and interpad areas are replaced. If wounds are present in these areas, then pieces of the
+ appropriate primary bandage material are replaced in these areas.
+ Depending on the nature of the wound, the appropriate bandage material is replaced over the wound
+or graft. Diapering the paw may be done if it is indicated, that is, for a wound on the dorsum or
+palmar/plantar paw surface of the medium-sized dog.
+au ul paoeldai aq pue asepueq snoraaid au wony paaes aq ues Supped ises wony apeu sped jnuoa
+bandage. After two to three uses, these pads become compressed and need to be replaced with
+new pads.
+ If "stirrups" have been used, these are left in place and used in the new bandage. If the "stirrups"
+have become wet with wound drainage fluid, they should be removed since this would be an area of
+bacterial growth. The "stirrups" can be replaced or the bandage can be applied without "stirrups". In
+the latter case, bandage security is dependent on tape fixation to the skin and hair at the proximal end
+of the bandage.
+ The secondary bandage layer is replaced. The amount of exudate being produced will govern the
+frequency of bandage changes. In the early stages of wound management, when wound fluid produc-
+ag aop ag pmous a aeg p isai ie aop ag moys sy aeg 'saa si og
+exudate reaches the tertiary layer (strike-throughi), especially if a porous tertiary layer has been used.
+ 68  Small Animal Bandaging, Casting, and Splinting Techniques
+can become less frequent as healing progresses and fluid production decreases.
+ The secondary bandage layer is replaced with appropriate arrangement at the distal end of the
+asn uaaq iou aaey ro aau ,sdns, raaum uo uaap 'aeq
+The tertiary bandage layer is replaced using either elastic bandage wrap or porous adhesive tape. The
+tertiary bandage layer should be kept dry and clean. When a porous tertiary layer has been used,
+a plastic bag (e.g., bread sack, IV fluid bag) can be placed over the bandage when the animal is
+in a wet or potentially contaminating environment, such as being outdoors for bowel and urinary
+functions in wet grass. Rubber bands should not be used to affix the plastic bag on the limb. Tape
+should be used to secure the bag to the hair above the bandage. Thus, the possibility of the rubber
+band slipping off of the bag and going urnoticed up under the hair to cause circumferential damage
+is avoided.
+Advantages and complications
+od pue podns aenddde sapraod  pue idde on asea si aeuq qul res pue med sieq au
+tion for wounds in this area. General complications include slipping pressure wounds, and mutilation of
+sy aepuq a go eare yeg 'pau aq pmoys aepq a 'paadsns ae asa go e  aeuq au
+its advantages and complications.
+Interdigital/interpad area
+The pieces of cotton or cast padding placed in these areas help absorb normal as well as exudative mois-
+ture to help prevent tissue maceration and bacterial growth in these areas. With wounds in these areas,
+the strips of primary bandage material can enhance the healing process.
+Primarybandagelayer
+The advantages and complications associated with the various primary bandage materials are covered in
+chapter I. In general, the newer dressing materials enhance the healing process by creating an environment
+that supports wound healing or by interacting with tissues to enhance healing.
+Diapering a paw provides a smooth application of a nonadherent semiocclusive pad to the paw of a
+medium-sized dog if this is the type of dressing that is indicated for the wound.
+Donut pads made from cast padding provide an inexpensive way to provide protection for the skin
+over convex prominences from pressure.
+"Stirrups" help assure security of a bandage on the limb. However, if they become wet, they are a source
+of bacterial growth and wound contamination.
+Secondary bandage layer
+The absorption of exudate and its associated bacteria away from the wound is the main advantage of
+the secondary bandage layer. The secondary layer also provides padding and some immobilization of
+injuries.
+When a porous tertiary layer has been used, fluid can evaporate from the exudate, and this helps inhibit
+bacterial growth. The 0.2% polyhexamethylene biguanide-impregnated secondary dressing has the added
+advantage of inhibiting wound bacteria and exogenous bacteria that may enter the secondary layer.
+With highly productive wounds, evaporation of fluid from the secondary layer may not be as fast as
+absorption. Thus, wound bacteria and exogenous bacteria may proliferate in the bandage. In such wounds,
+frequent bandage changes are indicated.
+If cotton or cast padding is used in the secondary layer, and if they come in contact with the wound
+and become wet, they may stick to the wound. They are difficult to see and thus small amounts are left
+on the wound and can act as foreign bodies. However, cast padding has an advantage as a secondary
+layer in that it is difficult to wrap it too tightly. It will tear if too much tension is placed on it while wrap
+ping it.
+Extremity Bandages, Casts, and Splints 
+69
+Tertiary bandage layer
+This layer holds the other layers in place. If a porous material is used, it allows evaporation of fluid from
+ the secondary layer, which is beneficial in keeping a bandage dry. However, the porosity also can allow
+exogenous fluid and bacteria to enter the bandage. Elastic bandage materials provide good conformation
+of the bandage to the limb, but they have the potential complication that they can cause circulatory prob-
+lems and tissue necrosis if they are applied too tightly.
+Paw pad pressure relief
+Indications
+Wounds of the digital and metacarpal/metatarsal pads can be lacerations, abrasions, punctures, burns
+(thermal or chemical), or result from tumor removal. Such wounds have special requirements for adequate
+healing. Pressure and movement of pad tissues must be minimized or prevented. Since pads act as shock
+absorbers, weight bearing on the pads results in tissues of a wound moving apart as pressure is applied
+or in sutures tearing through tissue if the wound has been sutured. This impedes healing. Thus, techniques
+are necessary to relieve pressure in bandaging whether the wound is a simple laceration or a more com-
+plicated pad graft. Some specific indications will be stated with portions of the Technique sections
+Technique-moderate wounds on small to medium-sized dogs
+Metacarpal/metatarsal pad
+A foam sponge "donut" pad can be used for paw pad pressure relief on small to medium-sized dogs that
+have moderate pad wounds, such as sutured wounds or small open wounds.
+A piece of medium compressibility (blue
+color) foam sponge padding (ConforMfoam,
+HiTech Foam, Lincoln, NE) is cut to the size
+and basic shape of the palmar/plantar
+surface of the paw. The foam pad thickness
+laqumu no apenq rozei e Suisn jeu un Hds s!
+10 scalpel blade. Thus, the pad is approxi-
+mately 0.5 inch (1.25 cm) thick. Using the
+blade, a hole is cut in the area of the pad that
+will be over the metacarpal/metatarsal pad
+wound. Thus, a donut pad is created.
+ The primary and all but the last two or three
+wraps of the secondary layer of a basic paw
+ and distal limb bandage are applied (see
+page 56 this chapter, Basic Paw and Distal
+Limb Bandage).
+Fg. 4.52. From Effects of bandage
+ The donut foam sponge pad is placed on the
+configuration on paw pad pressure in dogs: A
+palmar/plantar surface of the bandage with
+preliminary study, fournal of the American
+the hole over the metacarpal/metatarsal
+Animar Hospitat Association.
+pad (fig. 4.52).
+70  Small Animal Bandaging, Casting, and Splinting Techniques
+ The final two or three wraps of the second-
+ary layer are done to hold the pad in place.
+ For further pressure relief, the paw cup
+portion of a Mason Metasplint can be placed
+ in the bandage underlying the foam sponge
+pad (fig. 4.53).
+● The tertiary layer of the bandage is applied.
+Fig. 4.53. From Effects of bandage
+configuration on paw pad pressure in dogs: A
+preliminary study, fournar of the American
+Animal Hospital Association.
+Digital pads
+An off-loading foam sponge pad can be used to relieve pressure on the digits of small to medium-sized
+dogs that have moderate pad wounds, for example, a sutured wound or small open wound, or for ortho-
+pedic digital injuries.
+●A piece of medium compressibility (blue
+color) foam sponge padding (Confor Mfoam,
+HiTech Foam, Lincoln, NE) is cut in a trian-
+gular shape that is approximately the size of
+the metacarpal/metatarsal pad. The thick-
+ness of the foam pad is split in half with a
+scalpel blade or razor blade to a thickness of
+0.5 inch (1.25 cm).
+ The primary and all but the last two or three
+wraps of the secondary layer of a basic paw
+and distal limb bandage are applied (see
+page 56 this chapter, Basic Paw and Distal
+Limb Bandage).
+ The triangular pad is placed on the palmar/
+plantar surface of the bandage under the
+Fig. 4.54. From Effects of bandage
+metacarpal/metatarsal pad (fig. 4.54).
+configuration on paw pad pressure in dogs: A
+preliminary study, fournar of the American
+Animat Hospitat Association).
+Extremity Bandages, Casts, and Splints 
+71
+The final two or three wraps of the secondary layer are done to hold the pad in place.
+For further pressure relief, the paw cup portion of a Mason Metasplint can be placed in the bandage
+underlying the foam sponge pad (fig. 4.53).
+Aftercare-moderate wounds on small to medium-sized dogs
+At the time of bandage change, all parts of the bandage are removed and replaced. The sponge pad, either
+the donut or triangular shaped, is saved for incorporation in the next bandage. If wound drainage has
+-ueip Aq palios st ped auo uaum 'snul 'sped oml aaey oi Aiessanau aq Aeu n 'ped au oiul paqiosqe uaaq
+age, it can be washed and rinsed with antiseptic solution, be allowed to dry, and be incorporated in the
+next bandage.
+Advantages and complications-moderate wounds on small to medium-sized dogs
+The advantage of the foam sponge pad is the pressure relief it provides on any pad wounds that are
+present. With the donut pad for metacarpal/metatarsal pad of-loading, the principle is that of distribut-
+ing pressure on tissues around the wound rather than on the wound (fig. 4.55, A). With the triangular
+pad placed under the metacarpal/metatarsal pad, the off-loading principle is that of elevating the digits 
+by placing padding under the metacarpal/metatarsal pad (fig. 4.55, B). A complication that may be associ-
+ated with the triangular foam sponge pad is that it may slip out of place as the animal puts weight on
+sa ie pd au jo apis a u  aq un Aaun us e aend ui ped a daa dau o auq a
+closest to the metacarpal/metatarsal pad.
+"Clamshell" splints
+"Clamshell" splints can be used for paw pad pressure relief following major paw reconstructive or salvage
+ p asa ae sus ne s  s p ro p lrd se ns as
+large dogs.
+A basic paw and distal limb bandage is applied (see page 56 this chapter, Basic Paw and Distal Limb
+Bandage).
+ Additional secondary wrap is applied to the level of the elbow for a forelimb or the hock for the pelvic
+1
+limb to make the bandage circumferentially equal along its length.
+Foam
+sponge pad
+Foam
+sponge
+pad
+area
+Pressure
+relief area
+"Donut" foam sponge pad
+Triangular foam sponge
+for metacarpal/metatarsal
+pad for digital pad pressure
+pad pressure relief
+relief
+A
+B
+aai ainssaid ped enlia (a) reai anssaid ped esieealediene ) rsped med uo jatai ainssaid ss't i
+72  Small Animal Bandaging, Casting, and Splinting Techniques
+ The tertiary bandage layer of adhesive tape
+is applied.
+ae azis aedoe at jo suds a om
+placed on opposite sides of the bandage. On
+the forelimb the splints should extend to
+near the elbow. On the hind limb they
+should extend to near the hock. The splints
+are usually placed on the cranial and volar/
+plantar bandage surfaces. However, they
+could be placed on the medial and lateral
+surfaces. The medial-lateral placement of
+the splints is primarily indicated on the
+pelvic limb where splints are placed below
+the hock. The medial-lateral placement
+helps avoid the skin irritation that can be
+caused by the top of the cranial splint as it
+presses against the skin on the cranial/
+flexor aspect of the hock. An alternative to
+medial-lateral splint placement is use of a
+H-auo aas) pds _,as, -a
+"Clamshell" Splint, below). For a large dog,
+ medial-lateral placement will give more
+support/stability. The splints are placed
+with the paw cups facing each other and
+ extending approximately 1 to 1.5 inches (2.5
+to 3.8cm) beyond the paw (fig. 4.56A).
+ The splints are taped in place with strips of
+2-inch (5.0cm)-wide adhesive tape (fig.
+4.56B). It is important that adhesive tape be
+used for the tertiary bandage layer and to
+tape the splints in place. The adhesion of the
+tape of these two layers between the splints
+provides security of the splints so they do
+not slip dorsally with weight bearing.
+Some form of padding, such as two or three
+gauze sponges, should be taped over the
+ends of the paw cups to protect them from
+abrasion and to protect the clients' floors
+Fg.4.56.
+From Small AnimatDistat Limb Injuries,published by
+and carpets from damage (fig. 4.56C).
+Teton New Media (in press).
+One-half "clamshell" splint
+ [eaueeqd se yons Krasms aeales no aanonnsuonai med roleu rahe amssad aaanar ci pasn st suds stu
+fillet or pad skin graft surgery, on the pelvic limb. A one-half "clamshell" splint prevents irritation to the
+Tranial surface of the hock that can be caused by the proximal end of the cranial part of a full "clamshell"
+s a uo pam snd op a uam hss
+s ,lrs, e e or a si ss ,, -a a e ro at a
+However, the cranial splint is not applied to the hind limb (see "Clamshell" Splints, above).
+Extremity Bandages, Casts, and Splints 
+73
+Thelength of  splint  extending beyond
+the bandage should be shorter than with
+a "clamshell" splint to provide stability
+(fig. 4.57).
+Fg. 4.57. From Smafl Animal Distal Limb Injuries, published by
+Teton New Media (in press).
+When changing the bandage/splint on a forelimb that has a "clamshell" splint on it, the status of the
+carpal pad should be noted. If there are signs of pressure injury, the cast padding donut pad should be
+made thicker to help alleviate pressure on it (see page 58 this chapter, Basic Paw and Distal Limb Bandage.
+Technique, "Donut" Pads).
+When "clamshell" splints are being used on the pelvic limb, the cranial/flexor surface of the tarsal area
+should be observed for evidence of pressure injury caused by the proximal edge of the cranial splint. If
+this can be used. If it is thought that full "clamshel" support is needed, such as for a large dog, then
+splints can be placed in medial and lateral locations.
+Advantages and complications-major reconstructive or salvage paw surgery,
+especially large dogs
+ pe rsod ,-ai, e  q e ad au sannn q-a se aas sds ,us
+provide maximum relief of pressure on reconstructive and salvage procedures to enhance healing. These
+splints are especially advantageous for large dogs where their weight could result in significant pressure
+se puds ,lausw, eu-auo aui 'shuds au Aq pauaaand o paonpan jou st l j sampanond iedan uos
+the same advantages as the "clamshell" splint, and it prevents the pressure that can occur on the cranial/
+flexor tarsal surface.
+is not sufficiently padded with a cast padding donut pad. The one-half "clamshell" splint may not provide
+ds ,auso, e se poddns yn se
+Dorsal paw pressure relief
+Indications
+A stockinette padding bandage can be used for temporary padding and coverage of the paws in small
+dogs and cats. This covering is indicated to prevent abrasive and pressure-type lesions that result from
+Aaaosan oj lenuajod seueu uoisal aa1au [eaudiad Aeiodual e ot anp med au jo juauaeid leuouqe
+74  Small Animal Bandaging, Casting, and Splinting Techniques
+with time, that is, a neuropraxic nerve lesion (fig. 4.58). Other types of commercial splints and braces are
+available. However, the author (SFS) has found this bandage to work nicely on small dogs and cats.
+Fg. 4.58. An example of a dorsal paw pressure/abrasive lesion on which a dorsal paw pressure relief bandage would be
+indicated.From Small Animal Distal Limb Injuries, Teton New Media.
+Technique
+●A length of 2-inch (5.0 cm)-diameter cotton
+or synthetic orthopedic stockinette that is
+used to line casts is placed on the distal limb
+extending from the proximal metacarpal/
+metatarsal level to beyond the digits. The
+stockinette is cut 1 to 2 inches (2.5-5.0 cm)
+beyond the ends of the digits (fig. 4.59).
+Fg. 4.59. From Smaff Animaf Distat Limb injuries, published by
+Teton New Media (in press).
+●The distal end of the stockinette is folded
+back onto the paw. The stockinette is folded
+dorsally if the lesion is on the dorsum of the
+paw or ventrally if the lesion is on the
+palmar/plantar paw surface (fig. 4.60).
+Fg. 4.60. From Smafl Animal Distar Limb injuries, published by
+Teton New Media (in press).
+Extremity Bandages, Casts, and Splints 
+75
+)  g    o
+wide adhesive tape is used to tape the distal
+end of the stockinette in place. The proximal
+end of the stockinette is also taped in place
+with a 1-inch (2.5cm)-wide adhesive tape
+strip that is placed circumferentially with
+half of its width on the stockinette and half
+on the haired skin of the limb. This strip
+may overlap the first strip (fig. 4.61).
+Fg. 4.61. From Smafl Animal Distar Limb injuries, published by
+Teton New Media (in press).
+Aftercare
+● The animal's exercise should be limited and preferably confined to soft surfaces. Keeping the stocki-
+nette clean and dry is important.
+Periodically, the stockinette should be observed for signs of wear over the area of the pressure/
+abrasion lesion to determine if a bandage change is indicated.
+●A piece of waterproof tape can be placed over the area of stockinette that receives the most wear to
+prolong its usefulness and avoid frequent bandage changes.
+Advantages and complications
+This type of bandage provides three layers of stockinette coverage over the lesion area of small dogs and
+cats until the animal can position the paw normally following nerve regeneration. This coverage is inex-
+pensive. However, it would not be sufficient for larger dogs due to the wear the animal would place on
+the stockinette.
+Carpal sling
+Indications
+The carpal sling is indicated to prevent weight-bearing on a forelimb without having to immobilize the
+entire limb. It is useful for short periods when it is important that the animal not bear weight but when
+padan naaq su s a e si andxa adoo i panan po si q aa a po aqo
+but is not sufficiently strong to withstand immediate walking forces. A soft tissue example is reconstruc-
+tive surgery or wound management on a paw pad. The sling allows the elbow and shoulder to flex and
+extend but prevents the paw from touching the ground.
+76  Small Animal Bandaging, Casting, and Splinting Techniques
+Technique
+ The animal is positioned in lateral recum-
+bency with the affected limb up. The carpus
+is palpated to assure that flexion is not
+uncomfortable (fig. 4.62). Many dogs lose
+mobility in the carpi as they age, and it
+might be painful if the carpus is flexed for a
+prolonged period.
+Fg. 4.62.
+● The carpus should be flexed, but not beyond
+90 degrees. Excessive flexion may be uncom-
+Fig. 4.63.
+fortable for the animal. An initial layer of
+cast padding is applied to the paw and
+distal antibrachium  in  a figure-of-eight
+manner. Excessive bulk around or behind
+the joint should be avoided. The middle two
+digits can be left exposed to assess for swell-
+ing during aftercare (figs. 4.63, 4.64).
+Fg. 4.64.
+Extremity Bandages, Casts, and Splints
+77
+ A second layer of roll gauze is then applied,
+taking care to avoid tension (fig. 4.65).
+Fig. 4.65.
+Finally, 2-inch (5.0 cm)-wide porous adhe-
+Fig.4.66.
+sive tape is applied in a similar figure-of-
+eight pattern without tension (fig. 4.66).
+Using the same type of tape, a final loop is
+made around the entire bandage (fig. 4.67).
+Fg. 4.67.
+78  Small Animal Bandaging, Casting, and Splinting Techniques
+●The animal should then be able to stand
+comfortably without the sling slipping off
+(fig. 4.68).
+Fg. 4.68.
+Aftercare
+This animal should be monitored carefully to assure that the toes are not swelling and that the bandage
+is not slipping. The sling should not be used for longer than two weeks, and it should be checked twice
+daily during that time.
+If the sling is being used as part of the treatment of a paw pad injury, it will be necessary to remove
+and replace it periodically to allow wound treatment.
+Advantages and complications
+Movement is important for joint health, and this sling allows motion of the elbow and shoulder
+joints. This is helpful if an articular fracture of the elbow has been repaired. The sling will result in
+some temporary stiffness of the carpus after it is removed. Thus, it should not be left in place for
+longer than two weeks. The biggest complication is that the animal slips the sling off cranially. However,
+this can be avoided with sufficient carpal flexion and proper application of the figure-of-eight
+technique.
+Basic forelimb splint
+This information for splints on the forelimb also applies to the pelvic limb (see page 93 this chapter, Basic
+Pelvic Limb Splint).
+Indications
+Splints are used for a variety of purposes, including to support some fractures or ligamentous instability
+of e raao heio uns e se yons 1eda1 [eoibms e pnaloid ol 10
+Technique
+Although pictures for this technique are for a forelimb splint, the principles of the technique are the same
+for applying a splint to the pelvic limb. Splints may be purchased from various companies or may be
+fashioned in a custom manner using fiberglass tape or temperature-dependent plastics.
+Extremity Bandages, Casts, and Splints 
+79
+ The initial steps in application of a splint are
+ the same as for applying a soft padded
+ bandage (see page 47 this chapter, Forelimb
+Bandages, Casts, and Splints; Basic Soft
+Padded Limb Bandage). The steps are fol-
+ lowed up through the application of the roll 
+ gauze. The final protective layer is not
+applied.
+After applying the roll gauze, an appropri-
+Fig. 4.69.
+ ate splint is selected. If a commercial product
+is used, whether plastic or aluminum, assure
+that it fits well with the size of the animal
+and amount of padding that has been used
+(figs. 4.69, 4.70). The length of the splint may
+be trimmed if necessary.
+The splint should then be secured to the
+limb using roll gauze (figs. 4.71, 4.72). The
+gauze should not be a stretchable variety
+inoum inq Aqn pandde aq pmous pue
+tension.
+Fig. 4.70.
+Fig.4.71.
+Fg. 4.72.
+ 80  Small Animal Bandaging, Casting, and Splinting Techniques
+● A final protective layer (2 inch [5.0cm] wide
+porous adhesive tape or elastic adhesive
+tape) should then be added (figs. 4.73, 4.74).
+● If fiberglass casting tape is used, the initial
+steps are the same. The width of the casting
+ tape chosen should be sufficient to cover at
+least one-third of the circumference of the
+limb. The casting tape may either be wetted
+Fg. 4.73.
+as a roll and then unrolled on the limb or
+unrolled on a flat surface prior to being
+wetted. In either case, it is vital to avoid
+stretching the casting tape when it is being
+urolled as it will slowly shrink back which
+may excessively shorten the splint. The
+warmer the water is to wet the tape, the
+quicker it will harden. Beginners should use
+colder water to wet the tape. It is best to use
+gloved hands while handling the fiberglass
+so that the resin on the tape does not stick
+to the user's skin.
+Fg. 4.74.
+●If casting tape is wetted while it is rolled,
+the water should be worked all the way
+through the roll prior to forming the splint.
+Placing the roll in the water and lifting it out
+ in a scooping-type motion so the edge of the
+tape is facing up may allow water to be
+pulled down through the tape by gravity.
+After the roll is thoroughly wetted, excess
+water should be squeezed out so the under-
+lying bandage does not absorb the moisture
+(figs. 4.75, 4.76).
+Fg. 4.75.
+Extremity Bandages, Casts, and Splints  81
+Fig. 4.76.
+ The end of the tape is held at one end of the
+limb, and it is unrolled up and down the
+length of the bandage several times to layer
+the tape on the bandage. The layering
+should continue until sufficient thickmess
+is achieved, at which point the tape is cut
+(fig. 4.77).
+Fg. 4.77.
+ The tape is then carefully smoothed and
+shaped to conform to the limb (fig. 4.78).
+ The splint is then secured to the limb using
+roll gauze before it sets (figs. 4.79, 4.80). It is
+important thiat all the layers of the fiberglass
+bond to each other. Thus, movement of the
+patient or splint should be avoided while
+the fiberglass is hardening. Furthermore,
+fingers or by table edges should be avoided
+because indentations may result in pressure
+sores.
+Fg. 4.78.
+82  Small Animal Bandaging, Casting, and Splinting Techniques
+Fg. 4.79.
+Fg.4.80.
+When the splint has hardened, an outer pro-
+tective layer of 2 inch (5.0cm) wide porous
+adhesive tape or elastic adhesive tape is
+added (fig. 4.81).
+Fg. 4.81.
+Extremity Bandages, Casts, and Splints  83
+●If the bandage needs to be changed, the
+splint may be reused if it is in good condi-
+tion (fig. 4.82).
+Fg. 4.82.
+Aftercare
+The bandage and splint should be carefully monitored. They should be kept clean and dry, and the animal
+Jo suois roy paunexa aq pmous shoip pasodxa oml aui wa ie mauo ro yil on pamoe aq lou pmous
+swelling (separation of the digits), which would indicate the bandage is too tight and needs to be changed.
+A veterinarian should be contacted if the animal's use of the limb decreases.
+If the bandage and splint have been used to treat a draining wound, periodic bandage change will be
+necessary (see page 47 this chapter, Forelimb Bandages, Casts, and Splints; Basic Soft Padded Limb
+Bandage).
+Advantages and complications
+The soft padded bandage portion of the appliance is easy to apply, and it provides some support and
+protection for a variety of conditions. The addition of a splint provides an additional moderate amount
+of stability, and it is easy to place and remove. The bandage and splint combination are a good means of
+immobilizing joints when wound management requires such immobility. General complications include
+bandage and splint slipping, pressure wounds, and mutilation by the animal. If any of these are suspected,
+the bandage and splint should be changed. Each area of the bandage has its advantages and complications
+(see page 47 this chapter, Forelimb Bandages, Casts, and Splints; Basic Soft Padded Limb Bandage).
+Basic forelimb cast
+The information for casts on the pelvic limb also applies to the forelimb (see page 93 this chapter, Pelvic
+Limb Bandages, Casts, and Splints; Basic Pelvic Limb Cast)
+Spica bandage and lateral splint
+Indications
+The spica bandage and splint is a method of immobilizing the entire forelimb in extension. This bandage
+and splint can be used when moderate immobilization of the forelimb area is required. It is particularly
+useful for upper limb immobilization. Some indications include scapular fractures or to support surgical
+stabilization of elbow luxations. Additionally, the spica bandage and splint is indicated for conservative
+ 84  Small Animal Bandaging, Casting, and Splinting Techniques
+treatment of lateral shoulder luxations or to provide support following surgical repair. It is not recom-
+ mended to manage medial shoulder luxations.
+ For soft tissue injuries, the spica bandage and splint are primarily indicated for managing wounds over
+the point of the elbow, such as elbow hygromas and open or closed wounds over the olecranon. Healing
+of wounds in this location require extension and immobilization, which the spica bandage and splint
+provide. Extension keeps the animal from bending the elbow to get in sternal recumbency which would
+put pressure on the area. Immobilization keeps the tissues from moving so they can heal.
+Technique
+The spica bandage and splint utilizes standard bandage material and incorporates either fiberglass casting
+ material or aluminum splint rod. The bandage and splint can be applied with the animal standing or in
+lateral recumbency with the affected limb up. Application is generally easier with the animal standing.
+but that requires some degree of cooperation from the animal. If the animal is in lateral recumbency, it
+must be frequently lifted in order to pass the bandage material around the thorax. When an animal is
+anesthetized, care must be taken to avoid excessive tightmess, which might interfere with chest excursions
+and respiration.
+ Application of a spica bandage and splint
+begins with several layers of cast padding.
+ The bandage should begin at the digits and
+progress up the limb as would be the case
+for an ordinary soft padded bandage (fig-
+4.83).
+Fg. 4.83.
+The cast padding is then continued over the
+dorsum of the animal and around the thorax
+both in front and behind the limb (figs. 4.84,
+4.85).
+Fg. 4.84.
+Extremity Bandages, Casts, and Splints 
+85
+Fg. 4.85.
+Care should be taken with all layers to avoid
+wrapping the bandage too tightly around
+the thorax. After two to three layers of cast
+padding are applied, a layer of roll gauze is
+unrolled over the padding to secure the
+bandage (fig. 4.86).
+Fig. 4.86.
+ Fiberglass casting tape is the best material
+to use for the splint. It may be unrolled to
+the proper length to extend from the digits
+to over the shoulder area prior to its wetting.
+or it may be wetted and unrolled on the
+patient as shown (fig. 4.87). Alternatively, a
+length of aluminum splint rod can be bent 
+m the shape of an elongated loop that
+extends from the digits to over the shoul-
+ders. It is then fashioned to the curvatures
+of the lateral aspect of the limb as much as
+possible.
+Fig. 4.87.
+ 86  Small Animal Bandaging, Casting, and Splinting Techniques
+The casting tape must extend over the
+ dorsum and down the opposite side of the
+lize the limb (fig. 4.88).
+Fg. 4.88.
+● The casting tape should be fashioned in a
+broad enough manner to cover the lateral
+aspect of the shoulder area and extend
+slightly around the cranial portion of the
+shoulder joint (fig. 4.89).
+Fg. 4.89.
+ The casting material or aluminum splint rod
+loop is then held in place with an additional
+layer of roll gauze. If casting material is
+used, it is allowed to dry (figs. 4.90, 4.91). It
+is important that the animal not be allowed
+to move during the drying of the splint if
+fiberglass casting material has been used.
+Fg. 4.90.
+Extremity Bandages, Casts, and Splints 
+Fig. 4.91.
+● Finally, a protective outer layer is wrapped
+over the splint, avoiding undue tension
+(fig. 4.92).
+ If the splint has been applied as part of the
+treatment of a wound over the point of the
+elbow, a window can be cut in the splint and
+bandage over this area to allow wound care.
+Fig. 4.92.
+Aftercare
+The bandage and splint should be monitored closely. Observation is important to be sure the animal is
+not having trouble breathing and that there is no slippage of the bandage and splint or limb underneath.
+If the limb seems to have excessive motion, the front of the shoulder may be slipping out of the cranial
+aspect of the splint.
+For wound care over the point of the elbow, treatment is done through the window in the splint and
+bandage. A small bandage is placed over the window following each treatment. If lavage is done on the
+wound, measures should be taken to avoid geting the bandage material around the window wet.
+Advantages and complications
+The spica bandage and splint provides a good method for immobilizing the entire forelimb. It does not
+provide rigid support, so it is not sufficient to immobilize most fractures below the scapula. If an alumi-
+am se rapmous a jo jun a aiqou jou e n uds jena a rog pasn si doon pon puds wmu
+and may not be as comfortable for the animal.
+Because of its length and immobility, the splint is somewhat awkward for the animal. Most animals
+will adapt after a few days, but some will not tolerate it. Special care should be taken to assure that the
+ 88  Small Animal Bandaging, Casting, and Splinting Techniques
+ animal does not get into a lateral recumbent position from which it is unable to rise. This may be especially
+true for animals that are obese or otherwise debilitated.
+When the splint is used to treat soft tissue wounds over the point of the elbow, it provides the immo-
+bilization and extension necessary for soft tissue healing. When a window is cut over the point of the
+elbow, it conserves on bandage materials since only the portion of bandage over the wound is changed
+daily. If the portion of the bandage around the window becomes wet during wound care, it can become
+a source of bacterial growth. Thus, care must be used in cleaning the wound surface.
+Aluminum rod loop elbow splint
+Indications
+Another method to immobilize the elbow is to use a cranially-applied splint made from aluminum splint
+the healing of soft tissue wounds over the point of the elbow, such as elbow hygromas and open or closed
+wounds over the olecranon. The splint does not immobilize the shoulder at all.
+Technique
+The splint can be applied with the patient standing or in lateral recumbency with the affected limb up.
+The choice of position may depend on the animal's body shape.
+●If an open or closed wound is present in the
+area, the appropriate medication and
+ primary bandage layer are applied to the
+wound.
+●A soft-padded bandage secondary layer is
+wrapped around the elbow area. On animals
+with long, thin legs, the bandage is extended
+into the axilla and stopped. On other
+animals, it may be necessary to continue this
+wrap over the shoulders and around the
+thorax in the form of a spica bandage (fig.
+4.93; see page 83 this chapter, Spica Bandage
+and Lateral Splint),
+Fg. 4.93.
+●A section of the appropriate-sized alumi-
+num splint rod is bent into a narrow rect-
+angle, and an angle is bent at the midpoint
+of the long sides of the rectangle (fig. 4.94)
+Fg. 4.94.
+Extremity Bandages, Casts, and Splints 
+68
+●The splint should conform to the natural
+standing angle of the elbow and fit closely
+against the bandage with the bend of the
+splint positioned at the bend of the elbow
+(fig. 4.95). The splint is then secured using
+roll gauze and an outer protective layer.
+ If a wound is to be treated over the point of
+the elbow, a window can be cut in the
+bandage over the wound to allow
+treatment.
+Fg. 4.95.
+Aftercare
+The bandage and splint should be monitored carefully. The animal should be closely observed to note
+any change in its willingness to put weight on the leg, as this could indicate slippage or formation of a
+bandage sore. In this case, the bandage and splint should be changed.
+If a wound is being treated over the point of the elbow, treatment is done through the window in the
+bandage. A small bandage is placed over the window following each treatment. If lavage is done on the
+wound, measures should be taken to avoid geting the bandage material around the window wet.
+Advantages and complications
+This bandage and splint are easier to apply and may be better tolerated than a spica bandage and splint
+since the shoulder is not immobilized. It provides the immobilization and extension necessary for soft
+tissue healing. When a window is cut over the point of the elbow, it conserves on bandage material since
+only a portion of bandage over the wound is changed daily. If the portion of the bandage around the
+window becomes wet during wound care, it can become a source of bacterial growth. Thus, care should
+be used in cleaning the wound surface.
+Velpeau sling
+Indications
+The Velpeau sling can be used to prevent weight bearing on a forelimb in a variety of situations. If the
+ s redien e seio ped jo puad m se uns ueq am puaid ci st asodmd a
+be more comfortable than a Velpeau sling since the latter places both the carpus and elbow in tight flexion
+(see page 75 this chapter, Carpal Sling).
+The Velpeau sling also helps to lateralize the proximal humerus and is therefore useful in conservative
+management of medial shoulder luxations. This lateralizing effect makes it unsuitable for lateral shoulder
+luxations and for some scapular fractures.
+Technique
+The Velpeau sling supports the front limb in a flexed position against the animal's thorax (fig. 4.96). The
+sling is applied using standard layers of material in order to pad, support, and protect. The sling can
+be applied with the animal standing or in lateral recumbency with the affected limb up. Application is
+generally easier with the animal standing, but it requires some degree of cooperation from the patient.
+90  Small Animal Bandaging, Casting, and Splinting Techniques
+Fg. 4.96. Front limb is being held in the position that the Velpeau sling will ultimately maintain.
+When the animal is in lateral recumbency, it must be lifted frequently to pass the bandage material around
+the thorax. When an animal is anesthetized, care must be taken to avoid excessive tightmess, which might
+ interfere with chest excursions and respiration.
+ The Velpeau sling application is begun by
+using cast padding to wrap around the limb
+distal to the carpus, wrapping two to three
+times (fig. 4.97).
+Fg. 4.97.
+●While holding the limb in the desired flexed
+position, the cast padding is brought up
+over the dorsum of the animal and around
+the thorax back to the limb to hold it in the
+flexed position against the thorax (fig. 4.98).
+Fg. 4.98.
+Extremity Bandages, Casts, and Splints 
+16
+ The cast padding wrapping is continued
+until two to three layers have covered the
+thorax and flexed limb, to include the front
+of the carpus (fig. 4.99).
+Fg. 4.99.
+ A similar wrapping pattern is placed over
+ this initial layer using roll gauze or white
+tape (fig. 4.100).
+Fig. 4.100.
+Care should be taken to ensure that the
+wrapping material supports the front of the
+carpus so the limb carmot slip cranially out
+of the sling (fig. 4.101).
+Fg. 4.101.
+92
+ Small Animal Bandaging, Casting, and Splinting Techniques
+●Finally, a protective outer layer of 2 inch
+(5.0cm) wide porous adhesive tape or
+elastic adhesive tape is applied to the sling
+(fig. 4.102).
+Fg. 4.102.
+Aftercare
+The sling should be closely monitored. Vigilance is important to be sure the animal is not having any
+trouble breathing and that there is no slippage of the sling or limb underneath. The sling should be left
+ in place only as long as necessary to treat the primary problem. However, its presence beyond two weeks
+ may result in problems. After removing the sling, activity should be gradually increased over several
+weeks to allow the tissues to adjust to restoration of mobility.
+Advantages and complications
+The Velpeau sling provides a secure method of immobilizing the forelimb. However, it is confining
+and may be slightly uncomfortable for the animal initially. If it is applied too tightly, movement of the
+chest wall could be compromised, causing respiratory distress. If the flexed carpus and paw are com-
+uonnnsqo remosea Sunsixaaid st arat j ro 'sdigs ro suasool sus au j! 'adel ro aznea snsepa Aq passaid
+of the paw, there may be necrosis of the skin and underlying structures. Because all joints of the limb are
+immobilized, cartilage health is compromised, and lameness may be present when the sling is removed.
+If the sling is used more than two weeks, joint contracture can occur due to the severe flexion of the
+forelimb joints.
+When attempting to immobilize the axillary area of a cat to support the healing of a wound in this area,
+a Velpeau sling would seem to be indicated in principle; however, this sling is not tolerated well by cats.
+One author (SFs) has found that immobilization of the axillary region on a cat is best accomplished
+by cage rest and a cardboard box. A box large enough to accommodate the cat is placed up-side-down in
+se "q8non 1ao on 1en a 1oy yonoua aaiel st je apis sh ui 1no aoy e seq xoq aul aoeo sien a
+like to get in such accommodations and will sit in sternal recumbency in the box with all limbs flexed,
+thus gaining some immobilization of the axillary region. A large opened paper sack will also serve this
+purpose.
+Pelvic limb bandages, casts, and splints
+Basic soft padded limb bandage
+The information for the basic soft padded limb bandage on the forelimb also applies to the pelvic limb
+(see page 47 this chapter, Forelimb Bandages, Casts, and Splints; Basic Soft Padded Limb Bandage).
+Extremity Bandages, Casts, and Splints  93
+Basic pelvic limb splint
+The information for splints on the forelimb also applies to the pelvic limb (see page 78 this chapter, Basic
+Forelimb Splint).
+Basic pelvic limb cast
+ The information for casts on the pelvic limb also applies to the forelimb (see page 83 this chapter, Basic
+Forelimb Cast).
+Indications
+ Casting can be performed to address a variety of situations in which immobilization of a portion of a limb
+is needed. Although a cast does not provide rigid stabilization of bones, the support is often sufficient to
+allow healing of selected fractures. Additionally, casts can be used to provide support postoperatively in
+cases such as arthrodeses or soft tissue reconstructions. If necessary, casts can be split longitudinally into
+our g pasn uaq aram isen a f paeu aq om s pada aq pe (auaeaia,) saaeu omi
+bilization of a wound that needed periodic treatment or to check for and accommodate limb swelling (see
+Advantages and Complications, below). Half of the splint cast can be used as a splint. However, this
+decreases the stability compared to a cast.
+Technique
+Although the pictures for this technique are for a pelvic limb cast, the principles of the technique are the
+same for applying a cast to a forelimb.
+ The initial steps in application of a cast are
+similar to those for a soft padded bandage.
+However, there are some important differ-
+Ences. Tape "stirrups" are placed and cotton
+pieces are placed in the interdigital and
+interpad areas as with a soft padded
+ bandage (see page 47 this chapter, Forelimb
+ Bandages and Splints, Basic Soft Padded
+Bandage).
+ Regular cast: Throughout cast application,
+the limb should be held in a neutral position
+with each joint moderately flexed in a func-
+tional manner.
+A length of stockinette is cut to twice the
+length of the limb to be casted. The length
+used to measure should extend proximal to
+the most proximal extent of the proposed
+Fig. 4.103.
+cast by two to three inches (5.0-7.6cm)
+and beyond the digits by a similar distance
+(fig. 4.103).
+94  Small Animal Bandaging, Casting, and Splinting Techniques
+●The stockinette is doubled onto itself to
+Fg. 4.104.
+create a double thickness, and it is placed on
+the limb. The author (WCR) finds it easiest
+to do this by rolling half the length of the
+stockinette from one end in a conventional
+manner (fig. 4.104) and rolling from the
+opposite end by rolling the stockinette in on
+itself (fig. 4.105).
+Fg. 4.105.
+●The end of the stockinette that was rolled
+conventionally is then rolled up onto the
+limb. The remaining portion is then easily
+unrolled over the first layer (figs. 4.106,
+4.107, 4.108). It is important to leave several
+inches of stockinette protruding beyond the
+end of the digits.
+Auoq 1aao paserd are Suipped jo ,sinuo,
+prominences as described for soft padded
+bandages. These donuts are usually placed
+under the stockinette. Thus, the stockinette
+holds them in place. It is important that they
+do not slip out of place as the remaining
+ bandage layers are applied.
+Fg. 4.106.
+Extremity Bandages, Casts, and Splints 
+95
+Fg. 4.107.
+Fig. 4.108.
+ Cast padding (fig. 4.109) and then roll gauze
+(fig. 4.110) are placed over the stockinette as
+described for a soft padded bandage.
+Generally, about three to four plies of cast
+padding are sufficient (It should be remem-
+bered that by overlapping fifty percent, each
+"layer" of bandage material actually adds
+two thicknesses of material). The stockinette
+should protrude from each end of the
+bandage (fig. 4.11).
+Fg. 4.109.
+96 Small Animal Bandaging, Casting, and Splinting Techniques
+Fg. 4.110.
+Fg. 4.111.
+Examination gloves should be donned and
+the fiberglass casting material to be used
+should be thoroughly wetted. Warm water
+will result in the cast's setting more quickly.
+Thus, beginners should use colder water to
+ allow more time for application. It is impor-
+tant to work the water all the way to the
+innermost layers of the rol. Placing the
+ roll in the water and lifting it out in a scoop-
+ing motion so the edge of the tape is facing
+up may allow water to be pulled down
+through the tape by gravity. After it is
+completely saturated, the roll should be
+squeezed to eliminate excess water so the
+uderlying bandage does not absorb the
+Fg. 4.112.
+moisture (fig. 4.112).
+Extremity Bandages, Casts, and Splints 97
+ The casting tape is applied from distal to
+proximal being careful to achieve fifty
+percent overlap with each wrap and to
+avoid wrinkles (fig. 4.113). Care should be
+taken not to place tension on the tape as it
+ is applied since that will result in the cast's
+becoming excessively tight.
+Fg. 4.113.
+The distal ernd of the casting tape layer
+should be even with the end of the digits,
+with the underlying layers extending past
+the fiberglass by 1 to 2 inches (2.5-5.0 cm).
+ Additional rolls of casting tape are applied
+until the desired thickness is achieved. The
+final result should be a smooth cast with
+each layer bonded to those beneath (fig.
+4.114).
+Fg. 4.114.
+Before the cast hardens, the stockinette and
+cast padding are pulled over each end of the
+cast to create a padded edge over the ends
+of the cast (fig. 4.115).
+Fig. 4.115.
+98  Small Animal Bandaging, Casting, and Splinting Techniques
+ The cast is allowed to harden. During hard-
+ening, care should be taken not to allow
+fingers or rigid supports (table edges, etc.)
+to indent the cast as this could predispose
+to pressure wounds.
+ The "stirrups" are folded up against the
+ distal end of the cast. A final protective layer
+ of 2 inch (5.0 cm) wide porous adhesive tape
+or elastic adhesive tape is applied after the
+cast has hardened (fig. 4.116).
+Fg. 4.116.
+"Bivalving" a cast: A cast cutting saw can be
+used to make a bivalved cast that can be
+ removed and replaced periodically. A cast-
+Fg. 4.117.
+cutting saw is used to split the cast longitu-
+dinally along the lateral and medial aspects
+for the forelimb or the cranial and caudal
+aspects for the pelvic limb (fig. 4.117). Cast
+splitters are helpful to separate the two
+halves of the cast (figs. 4.118, 4.119). At times
+the two halves of the cast can be reapplied
+(fig. 4.120).
+Fg. 4.118.
+Extremity Bandages, Casts, and Splints
+56
+Fig. 4.119.
+Fg. 4.120.
+Aftercare
+The cast should be carefully monitored. It should be kept clean and dry, and the animal should not be
+allowed to lick or chew at it. The two exposed digits should be examined for signs of swelling (separation
+of the digits), which would indicate the cast is too tight and needs to be changed or bivalved. A veterinar-
+ian should be contacted if the animal's use of the limb decreases.
+ If the cast has been used to immobilize a draining wound, periodic bandage change will be necessary.
+Thus, a bivalved cast will be necessary to allow periodic removal for bandage change (see page 47 this
+of the cast can be applied to the limb as a splint, with the application on the side opposite the location of
+the wound.
+Advantages and complications
+A cast provides the most rigid stabilization of a limb. Because it is so rigid, and because it may be in place
+for a longer period, casts can result in pressure wounds, especially over bony prominences. Early detec-
+tion is the key to preventing serious problems. If there is any indication that a problem is developing (i.e.,
+wet or dirty cast, spots on the cast, offensive odor to the cast, decreased limb use, or licking and chewing
+at the cast), the cast should be removed and the limb should be inspected. If necessary, the two halves of
+100  Small Animal Bandaging, Casting, and Splinting Techniques
+the cast may be replaced after new inner bandage layers are applied. Pressure wounds that do develop
+should be cared for and adjustments should be made to prevent further pressure by the cast, such as not
+applying the cast directly over the wound. For example, when using the cast that has been split for
+removal, one-half of the cast can be used as a splint on the opposite side of the limb, or cutting a window
+in the cast over the wound can be considered.
+Early placement of a cast on a limb where there has been trauma resulting in fractures with no displace-
+ment can have the potential for complications. With the cast in place, there is no accommodation for the
+edema that will result over the first few days following injury. Thus, the swelling of the limb that is con-
+fined in the cast may encroach on blood vessels. The result can be ischemic necrosis of soft tissues. In such
+cases, a bivalved cast should be considered until swelling subsides.
+Ehmer sling
+Indications
+The Ehmer sling is used to maintain the head of the femur in the acetabulum following closed reduction
+ of a cranio-dorsal coxofemoral luxation. It should not be used to support reduction after a ventral
+luxation.
+ Prior to placing an Ehmer sling, it is important to assure that proper case selection has occurred in order
+to maximize the chances of success. Animals with chronic luxation, poor conformation, avulsions within
+the joint, or other injuries are usually poor candidates for closed reduction of coxofemoral luxation.
+ Additionally, appropriate technique in reducing the joint is vital.
+Technique
+This sling should provide internal rotation of the limb, flexion of the hip, and abduction of the limb. The
+sling is usually placed with the animal in lateral recumbency with the affected limb up. The limb should
+be held flexed with slight internal rotation of the lower limb.
+●An initial two to three layers of cast padding
+are placed around the metatarsal area to
+begin the application (fig. 4.121).
+Fg. 4.121.
+Extremity Bandages, Casts, and Splints 
+¥101
+Two-inch (5.0cm)-wide porous adhesive
+tape is used for the remainder of the
+bandage. The tape is initially placed on
+ the metatarsal area by placing it around the
+caudal surface with the adhesive side of
+the tape against the initial wrap. The tape is
+brought cranially in such a way that the
+adhesive sides meet cranially (fig. 4.122).
+Thus, the tape does not completely encircle
+the metatarsal area. This technique helps to
+guard against placing tape too tightly
+around the metatarsal area.
+Fg. 4.122.
+ The tape is then brought, adhesive side
+against the animal, up the medial aspect of
+the crus and around the cranial aspect of the
+thigh just proximal to the stifle (fig. 4.123).
+Fig. 4.123.
+● The tape then continues around the caudal
+aspect of the crus and onto the medial side
+of the hock to then finish caudally on the
+metatarsal area (figs. 4.124, 4.125). This layer
+can be repeated. When this portion of the
+bandage is completed, the lateral aspect of
+the crus should be visible (i.e., no tape
+should have crossed the lateral aspect
+of the hock). Internal rotation should be
+maintained.
+Fig. 4.124.
+102  Small Animal Bandaging, Casting, and Splinting Techniques
+Fg. 4.125.
+ The abdominal support portion of the sling
+begins with tape being applied at the meta-
+tarsal region as previously described (fig.
+4.126).
+Fig. 4.126.
+ The tape is brought up the lateral aspect of
+the limb and then over the dorsum of the
+animal. In order to avoid a shift in the skin,
+which would let the limb slip down as soon
+as the animal stands, the skin of the flank
+should gently be pulled ventrally (arrow)
+before the tape is applied (fig. 4.127).
+Fg. 4.127.
+Extremity Bandages, Casts, and Splints 
+ The tape is continued around the opposite
+Fg. 4.128.
+side of the animal and around the ventral
+aspect of the animal (fig. 4.128). Care is
+taken to bring the tape cranial to the prepuce
+on male dogs (fig. 4.129).
+Fg. 4.129.
+-on uauM paeadan aq Ae nael au
+pleted, the limb should be abducted and
+flexed, with slight internal rotation (figs.
+4.130, 4.131).
+Fg. 4.130.
+1 04  Small Animal Bandaging, Casting, and Splinting Techniques
+Fg. 4.131.
+Aftercare
+The Ehmer sling has a higher likelihood of causing bandage-related wounds than some other bandages
+because the skin is thin where it is applied and because tape is applied directly to the skin. Special care
+should be taken to watch for slipping of the sling and the development of bandage-related wounds. One
+ particular area to be observed for a pressure wound is the caudal aspect of the metatarsal area. If any
+wounds develop, the sling should be modified immediately or removed.
+Recheck visits with the veterinarian are advised, and the sling should not be left in place for more than
+10 to 14 days. Removal of the sling can be uncomfortable for an animal since the tape has been applied
+directly to the skin. Commercial products are available to help remove adhesive tape bandages. Following
+removal, the animal should be confined for an additional two to four weeks while it regains range of
+motion in the limb.
+Upon having the Ehmer sling removed, an animal may not use the limb for a day or two because of
+stiffness. The animal should not be forced to use the limb; however, it should be assured that the coxo-
+femoral joint is still in place. The animal should improve consistently with each day.
+Advantages and complications
+The Ehmer sling accomplishes the necessary positioning of the pelvic limb that counters the tendency for
+relaxation following cranio-dorsal hip luxation. Such positioning would be contraindicated for luxations
+ in other directions. Bandage-related wounds can result from an Ehmer sling, so careful attention must be
+paid to the calcaneal tendon area, the caudal metatarsal area, the inguinal area, and the medial thigh and
+crus areas.
+90/90 sling
+Indications
+The 90/90 sling is a method for preventing weight-bearing on a pelvic limb and/or achieving flexion of
+the hock and stifle joints. Thus, it would be indicated for treating orthopedic conditions where these
+qualities are needed. It could be considered for preventing weight-bearing on a paw where significant
+surgery had been done on the pads, such as pad grafts.
+Extremity Bandages, Casts, and Splints  105
+Technique
+ The animal is placed in lateral recumbency
+with the affected limb up.
+A length of 2-inch (5.0 cm)-wide porous
+ adhesive tape is reserved for later use (fig.
+4.132).
+Fig. 4.132.
+ An initial cover of two to three layers of cast
+padding are wrapped around the metatar-
+sals to begin the bandage (fig. 4.133).
+Fg. 4.133.
+Two-inch (5.0cm)-wide porous adhesive
+tape is used for the remainder of the
+bandage. The tape is initially placed on
+the metatarsal area by placing it around the
+caudal surface with the adhesive side
+against the initial wrap. The tape is brought 
+ranially in such a way that the adhesive
+sides meet cranially (figs. 4.134, 4.135). Thus,
+the tape does not completely encircle the
+metatarsal area. This technique helps to
+guard against placing tape too tightly
+around the metatarsal area.
+Fig. 4.134.
+106  Small Animal Bandaging, Casting, and Splinting Techniques
+Fg. 4.135.
+ The reserved piece of tape (see above) is laid
+adhesive side up along the femoral area.
+With the hock and stifle flexed, the tape that
+began on the metatarsal area is brought up
+the lateral aspect of the crus and around the
+cranial aspect of the femoral area, with the
+adhesive side against the animal (fig. 4.136).
+This tape should cross over the reserved
+piece of tape at a 90-degree angle. The
+reserved piece should extend 4 to 6 inches
+(10-15.2cm) ventrally past the crossing
+piece.
+Fg. 4.136.
+●The tape that started on the metatarsal area
+is then brought down the medial aspect of
+the crus and returned around the caudal
+aspect of the hock (fig. 4.137). This layer is
+repeated.
+Fg. 4.137.
+Extremity Bandages, Casts, and Splints 
+107
+ The ventral end of the reserved piece of tape
+is now folded over to secure its attachment
+to the tape that started on the metatarsal
+area (fig. 4.138).
+Fig. 4.138.
+ The remaining portion of this tape is now
+twisted to be adhesive side against the
+ patient. It is brought up the femoral area for
+passage around the dorsum of the animal
+(fig. 4.139).
+Fg. 4.139.
+ It is then brought down the other side and
+around the abdomen in a manner similar to
+that illustrated for the Ehmer sling.
+In a male dog, care is taken to assure that
+ the tape does not interfere with the prepuce
+(fig. 4.140).
+Fig. 4.140.
+108 Small Animal Bandaging, Casting, and Splinting Techniques
+●The final sling should maintain flexion of
+the hock and stifle when the animal stands
+(fig. 4.141).
+Fg. 4.141.
+Aftercare
+The 90/90 sling has a higher likelihood of causing bandage-related wounds than some other bandages
+a gads s a on Aanp pande si aden asnag pe padde si hu arm s si us a asnag
+ sm paa go pp u s a go s r rm cn u aq pus
+particular area to be observed for a pressure wound is the caudal aspect of the metatarsal area. If any
+wounds develop, the sling should be modified immediately or removed.
+Recheck visits with the veterinarian are advised, and the sling should not be left in place for more
+than 10 to 14 days. Removal of the sling can be uncomfortable for an animal since the tape has
+been applied directly to the skin. Commercial products are available to help remove adhesive tape
+bandages.
+Upon removal of the sling, an animal may not use the limb for a day or two because of stiffness. Limb
+use will gradually increase with time.
+Advantages and complications
+The 90/90 sling is less complicated and more comfortable than an Ehmer sling. It serves as a good means
+ to limit weight-bearing on a hind limb and will maintain flexion of most joints in the leg. It does not allow
+Tie-over bandage
+Indications
+The tie-over bandage can be used to protect open, sutured, or grafted wounds on the proximal aspect of
+the pelvic limb. The bandage can also be used for wounds in the pelvic area.
+Technique
+See page 29 in chapter 3, Thoracic, Abdominal Tie-Over Bandage.
+Aftercare
+See page 29 in chapter 3, Thoracic, Abdominal Tie-Over Bandage.
+Extremity Bandages, Casts, and Splints  109
+Advantages and complications
+proximal limb or truncal bandage are not necessary for a tie-over bandage. The centripetal force from
+tying the umbilical tape or elastic strip can be considered as a supplement to wound contraction when
+treating an open wound.
+A potential complication of the tie-over bandage is that the suture loops might cut into the skin if the
+tie-over strip is tied too tightly. Contamination of the secondary layer of the bandage is possible. However,
+placing tape or some form of impermeable material over the bandage reduces chances of this
+complication.
+5
+Restraint
+The use of physical restraining devices to deter an animal from molesting a bandage, cast, or splint should
+be considered. This is especially needed when the animal will be unsupervised.
+Elizabethan collar
+Elizabethan collars are an effective way of keeping an animal's teeth and tongue away from a bandage,
+cast, or splint caudal to the head. They are also effective in keeping paws away from head bandages.
+Appropriately sized, plastic Elizabethan collars that have loops at the base to accommodate a collar or a
+length of gauze are the most effective type of collar (fig. 5.1).
+Fig. 5.1. Plastic Elizabethan collar affixed to a dog's leather collar by loops on the Elizabethan collar.
+Samll Animal Bandaging, Casting,and Splinting Technigues Steven F. Swaim,Walter C.Renberg,and Kathy M.Shike
+@ Steven F. Swaim, Walter C. Renberg, and Kathy M. Shike
+1 1 1
+112  Small Animal Bandaging, Casting, and Splinting Techniques
+Because the collar extends beyond the animal's muzzle, it may be difficult for it to eat and drink from
+a bowl on the floor. The animal should be observed to see if this is a problem. If it is, several options can
+be tried. Elevating the bowls may be necessary. Smaller deep bowls that fit inside the collar could be tried.
+Third, the collar may be removed and then replaced after the animal eats and drinks.
+For small dogs, a large plastic bowl can be modified and used similar to the way an Elizabethan collar
+is used.
+ A hole through which the animal's head will
+be placed is cut out of an appropriately
+sized plastic bowl (figs. 5.2 A and B).
+B
+Fg. 5.2.
+●Small holes are cut at four equidistant places
+around the head hole, and a length of gauze
+is threaded through these holes (fig. 5.3).
+Fg. 5.3.
+Restraint 113
+abuy
+The dog's head is passed through the large
+hole and the gauze is tied to secure the bowl
+in place (fig. 5.4).
+Fig. 5.4.
+Plastic wrap-around collar
+Rigid, plastic wrap-around collars with fasteners (Bite Not Collar, Bite Not Products, San Francisco, CA)
+can be placed around an animal's neck. They are available in various sizes and extend from just behind
+the ears to the shoulders. They are equipped with a fabric strap that encircles the thorax just behind the
+forelimbs. This keeps the collar from coming off over the animal's head (fig. 5.5).
+dog's head.
+These collars are effective in keeping an animal from molesting areas caudal to the shoulders. However,
+they would not be effective in protecting a head bandage. They may not protect the distal limbs from
+molestation. The collars should be removed daily to check for underlying dermatitis.
+Towel collar
+A large terry cloth bath towel can be used similar to the way a Bite Not Collar is used.
+114  Small Animal Bandaging, Casting, and Splinting Techniques
+ A large terry cloth towel is folded such that
+its width extends from just behind the dog's
+ears to the shoulders. The folded towel is
+wrapped around the dog's neck (fig. 5.6).
+Fg. 5.6.
+Two strips of 2-inch (5.0cm)-wide adhesive
+tape are wrapped circumferentially around
+the towel to hold it in place. Care should be
+taken not to wrap these too tightly (fig. 5.7).
+Fg. 5.7.
+Muzzles
+laeat pue yoi sansuoi pue yaai uony sunds pue 'sisen 'saepueq iaiond oi pasn aq uen salzznn
+muzzles that are used temporarily to protect handlers from animal bites should not be used. These become
+ soaked with saliva, and they are messy and unsanitary. They could also interfere with the dog's breathing
+ Or ability to vomit, following sedation, for example. Wire basket-type muzzles should be used.
+Wire and plastic basket muzzles are available in various sizes and can be obtained commercially (fig.
+5.8). If a dog tends to pull the muzzle off over its nose with its front paws, a strip of 1-inch (2.5cm)-wide
+adhesive tape can be folded over on itself lengthwise to provide a means to help prevent this. The strip
+extends from the portion of the muzzle that is over the nasal area to the strap that goes behind the ears.
+Thus, it lies up between the eyes. If the muzzle rubs on the side of the face causing a lesion, a larger
+muzzle should be considered. However, if the lesion is the result of the dog's activity, the area of the
+Side braces
+Side braces made from aluminum splint rods can be used to keep a dog away from its hind quarters.
+Restraint 115
+Fig. 5.8. Plastic basket muzzle on a large dog.
+n ps uue go azis adrde a
+is selected. At its midpoint it is bent into a
+the same diameter as the base of the dog's
+neck on which it will be used (figs. 5.9 A, B,
+and C).
+Fg. 5.9.
+116 Small Animal Bandaging. Casting. and Splinting Techniques
+Two-inch (5.0cm)-wide adhesive tape is
+used to tape the top half of the circle that
+has two thicknesses of rod (fig. 5.10).
+Fg.5.10.
+Fg. 5.11.
+ The two straight extensions from the circle
+are bent at a right angle to the circle at the
+circle's midpoint (fig. 5.11) to provide the
+basic shape of the brace (fig. 5.12).
+Fg. 5.12.
+Restraint 117
+The bottom half of the circle is bent back or
+forward slightly, depending on the dog's
+anatomy, so this portion of the brace fits the
+ventral base of the neck better (fig. 5.13).
+Fig- 5.13.
+ Cast padding is wrapped around the bent
+bottom half of the circle (fig. 5.14).
+Fig- 5.14.
+Two-inch (5.0cm)-wide adhesive tape is
+wrapped over the cast padding (fig. 5.15).
+Fig. 5.15.
+118  Small Animal Bandaging, Casting, and Splinting Techniques
+●The straight extensions are cut with bolt
+ cutters to a length such that they will come
+to the level of the greater trocanters of the
+dog. The ends of these extensions are
+padded with cast padding held in place
+with adhesive tape (fig. 5.16).
+Fg. 5.16.
+●A body bandage is applied to the dog (see
+page 25 chapter 3, Thoracic, Abdominal
+Bandages). This is followed by placing the
+splint on the dog such that the circle is at
+the base of the neck and the side extensions
+are along the dog's sides. These extensions
+are held in place by two circumferential
+wraps of 2-inch (5.0 cm)-wide adhesive tape.
+One wrap is just behind the forelimbs
+and the other just in front of the hind limbs
+(fig. 5.17).
+Fg. 5.17.
+Topical chemical deterrents
+ Topical chemical deterrents in the form of bitter-tasting materials may be placed on bandages, casts,
+splints, or around suture lines on intact skin to prevent molestation. These come in various liquid and
+semiliquid forms and a tape form (fig. 5.18). For best results, a small amount of the material should be
+placed on or near the dog's nose prior to its use on the bandage, cast, splint, or skin. This allows the
+animal to lick and smell the substance simultaneously. The substance is then placed on the bandage, cast,
+splint, or intact skin and the animal will associate the lingering scent with the bitter taste. The authors
+have had limited success with topical chemical deterrents.
+Restraint119
+uoeisalo jaap oi aepueg e uo aden paleusaidul-siaddad rat's bi
+Electronic devices
+An additional method to deter animals from licking or removing a bandage, cast, or splint is an electronic
+aeq-aaisaue se se pandde si (sun emo idos) rnpord si sano ts e seu se pnpod
+strip that is placed on the outer surface of the bandage. A small battery is included in the strip and a series
+of exposed metal strips serve as conductors. When the animal licks the bandage, it experiences a small
+charge. The strips come in a variety of sizes and can be further trimmed to fit (fig. 5.19).
+Fig. 5.19. Electronic strips that can be placed on a bandage, cast, or splint to deter molestation.
+Suggested Reading
+Anderson, Davina. 2009. Management of open
+effects of cast padding in coaptation casts on
+wounds. In BSAVA Manual of Canine and Feline
+dogs. American Journal of Veterinary Research
+Wound Management and Reconstruction, 2nd ed.,
+53(7):1266-72
+pp. 37-53. Quedgeley, Gloucester, England:
+Swaim, Steven F., and Henderson, Ralph A. 1997.
+British Small Animal Veterinary Association.
+Small Animal Wound Management, 2nd ed., pp.
+Campbell, Bonnie Grambow. 2006. Dressings, ban-
+53-85. Baltimore: Williams and Wilkins.
+ dages, and splints for wound management in 
+Swaim, Steven F. 2000. Bandaging and splinting
+dogs and cats. Veterinary Clinics of North America:
+techniques. In Handbook of Veterinary Procedures
+Small Animal Practice. 36(4):759-91. Philadelphia:
+and Emergency Treatment, 7th ed., pp. 549-71.
+Saunders/Elsevier.
+Philadelphia: Saunders.
+DeCamp, Charles E. 2003. External coaptation. In
+Swaim, Steven F, Marghitu, Daniel B., Rumph,
+Textbook of Small Animal Surgery, 3rd ed., pp.
+Paul F., et al. 2003. Effects of bandage configura-
+1835-48. Philadelphia: Saunders/Elsevier.
+tion on paw pad pressure in dogs: A preliminary
+Hedlund, Cheryl S. 2007. Surgery of the integu-
+study. Journal of the American Animal Hospital
+mentary system In Small Animal Surgery, 3rd ed.,
+Association. 39:209-216.
+pp. 159-259. St. Louis: Mosby/Elsevier.
+Swaim, Steven F, and Bohling, Mark W. 2005.
+Miller, Craig W. 2003. Bandages and drains. In
+Bandaging and splinting canine elbow wounds.
+Textbook of Small Animal Surgery, 3rd ed., pp.
+NAVC Clinician's Brief. November: 73-76.
+244-49. Philadelphia: Saunders/Elsevier.
+Swaim, Steven, Welch, Janet, and Gillette, Rob. In
+Pavletic, Michael M. 1999. Atlas of Small Animal
+press. Small Animal Distal Limb Injuries. Jackson,
+Reconstructive Surgery, 2nd ed., pp. 107-122.
+WY: Teton NewMedia.
+Philadelphia: Saunders.
+Williams, John, and Moores, Allison. 2009. BSAVA
+Scardino, M. Stacie, and Swaim, Steven F. 1997.
+Manual ofCanine andFeline Wound Management
+ Bandaging and drainage techniques. In Current
+and Reconstruction,2nd ed.,pp.37-53.Quedgeley,
+Techniques in Small Animal Surgery, 4th ed., pp.
+Gloucester, England: British Small Animal
+27-34. Baltimore: Williams and Wilkins.
+Veterinary Association.
+Swaim, Steven F, Vaughn, Dana M., Spalding.
+Patrick R.,et al.1992. Evaluation of the dermal
+Abdominal bandage, 25-32
+Bandage
+circumferential, 25-29
+abdominal, 25-32
+advantages of, 29
+circumferential, 25-29, 25f-28f
+aftercare with, 29
+te-over bandage, 29-32, 30f, 31f
+ complications with, 29
+windowed,29
+indications for, 25-26, 25f
+ anesthesia during change of, 12
+techmique for, 26-28, 26f-28f
+ antimicrobial dressings, 8
+tie-over, 29-32, 30f, 31f
+calcium alginate dressings, 5
+advantages of, 31-32
+components of, 4-10, 4f
+aftercare with, 31
+primary-contact layer, 4-9, 4f, 56, 58, 68
+complications with, 31-32
+secondary-intermediate layer, 4f, 9, 56, 62-64, 68
+ indications for, 29
+tertiary-out layer, 4f, 9-10, 56, 64-65, 69
+technique for, 30-31, 30f, 31f
+copolymer starch dressings, 5
+windowed, 29
+ear, 15-23
+advantages of, 29
+advantages of, 16, 23
+aftercare with, 29
+aftercare with, 16
+complications with, 29
+complications with, 16, 23
+indications for, 29
+indications for, 15, 16
+techmique for, 29
+technique for, 16-23, 16f-23f
+Activated charcoal dressings, 8
+excoriation with, 12
+Aluminum rod loop elbow splint, 88-89
+ extracellular matrix bioscaffold dressings,
+advantages of, 89
+8-9
+aftercare with, 89
+extremity, 43-110
+complications with, 89
+forelimb, 47-75, 48f-54f, 57f-66f, 69f-75f
+indications for, 88
+pelvic limb, 92, 108-9
+technique for, 88-89, 88f, 89f
+tail, 43-47, 44f-47f
+Aluminum splint rod restraint, 114-15, 115f
+forelimb, 47-75
+Anesthesia, bandage change with, 12
+dorsal paw pressure relief for, 73-75, 74f,
+Antimicrobial dressings, 8
+75f
+activated charcoal, 8
+ paw /distal limb bandage for, 56-69, 57f-66f
+cadexomer iodine, 8
+paw pad pressure relief for, 69-73, 69f-73f
+ gentamicin-impregnated collagen sponges, 8
+soft padded limb bandage for, 48-56, 48f-54f
+polyhexamethylene biguanide, 8
+silver ions, 8
+frequency of changes with, 10
+Samll Animal Bandaging, Casting, and Splinting Technigues Steven F. Swaim, Walter C. Renberg, and Kathy M. Shike
+@ Steven F. Swaim, Walter C. Renberg, and Kathy M. Shike
+124Index
+Bandage (cont.)
+frequency of changes with, 10
+functions of, 3, 3t
+functions of, 13
+gauze dressings, 4-5
+ general information for, 13
+head, 16-23
+joint immobilization with, 11-12, 11f, 12f
+advantages of, 23
+maceration with, 12
+complications with, 23
+pelvic limb, 93-100, 93f-99f
+indications for, 16
+ pressure relief with, 11
+technique for, 16-23, 16f-23f
+purpose of, 13
+highly absorptive dressings, 4
+security with, 10
+hydrocolloid dressings, 7
+ special considerations with, 10-12, 11f, 12f
+hydrogel dressings, 7
+stockinette with, 13
+hypertonic saline dressings, 5
+Circumferential pelvic bandage, 32-35
+ joint immobilization with, 11-12, 11f, 12f
+advantages of, 35
+maceration with, 12
+aftercare with, 35
+moisture-retentive dressings, 5-6, 6t
+complications with, 35
+ nonadherent semiocclusive dressings, 7-8
+indications for, 32, 32f
+pelvic, 32-41
+technique for, 33-35, 33f-35f
+circumferential, 32-35, 32f-35f
+Circumferential thoracic, abdominal bandage, 25-29
+tie-over bandage, 39
+advantages of, 29
+windowed, 36-38, 36f-38f
+aftercare with, 29
+pelvic limb, 92, 108-9
+complications with, 29
+ soft padded limb bandage for, 92
+indications for, 25-26, 25f
+tie-over bandage for, 108-9
+technique for, 26-28, 26f-28f
+Jell 'uo adel paneubandu-iaddad
+Clamshell splints, 71-72, 72f
+polyurethane film dressings, 6-7
+Collar
+ polyurethane foam dressings, 6
+Elizabethan, 111-13, 111f-113f
+ pressure relief with, 11
+plastic wrap-around, 113, 113f
+properties of, 3t
+towel, 113-14, 114f
+restraint with body bandage, 118, 118f
+Copolymer starch dressings, 5
+security with, 10
+ special considerations with, 10-12, 11f, 12f
+"Diapering a paw," 58
+tail, 43-47
+Digital pad, 70-71,70f, 71f
+advantages of, 47
+Distal limb bandage. See Paw /distal limb bandage
+aftercare with, 47
+Donut pad, 58
+complications with, 47
+ Dorsal paw pressure relief, 73-75
+indications for, 43
+advantages of, 75
+technique for, 44-47, 44f47f
+aftercare with, 75
+thoracic,25-32
+complications with, 75
+circumferential, 25-29, 25f-28f
+indications for, 73-74
+tie-over bandage,29-32, 30f, 31f
+technique for, 74-75, 74f, 75f
+windowed, 29
+Bivalving, pelvic limb cast, 98, 98f
+Ear bandage, 15-23
+Body bandage, 118, 118f
+advantages of, 16, 23
+aftercare with, 16
+Cadexomer iodine dressings, 8
+basic, head and ear, 15-23, 16f-23f
+Calcium alginate dressings, 5
+complications with, 16, 23
+Carpal sling, 75-78
+emergency, 15-16, 15f
+advantages of, 78
+indications for, 15, 16
+aftercare with, 78
+technique for, 15-23, 16f-23f
+complications with, 78
+ ECM. See Extracellular matrix bioscaffold dressings
+indications for, 75
+Ehrmer sling, 100-104
+techmique for, 76-78, 76f-78f
+advantages of, 104
+Casting tapes, 14
+aftercare with, 104
+Casts
+complications with, 104
+excoriation with,12
+indications for, 100
+forelimb, 47, 83
+techmique for, 100-104, 100f-104f
+Index 125
+Elbow splint, 88-89, 88f, 89f
+indications for, 83-84
+Electronic device restraint, 119, 119f
+techmique for, 84-87, 84f-87f
+Elizabethan collar, 111-13, 111f-113f
+Excoriation, 12
+Maceration, 12
+Extracellular matrix bioscaffold dressings (ECM), 8-9
+Metacarpal/metatarsal pad, 69-70, 69f-71f 
+Extremity bandage, 43-110
+Moisture-retentive dressings (MRD), 5-6
+forelimb, 47-75, 48f-54f, 57f-66f, 69f-75f
+advantages of, 6t
+dorsal paw pressure relief for, 73-75, 74f,
+ disadvantages of, 6
+75f
+MRD. See Moisture-retentive dressings
+paw/distal limb bandage for, 56-69, 57f-66f
+Muzzles, 114
+paw pad pressure relief for, 69-73, 69f-73f
+ plastic basket, 115f
+soft padded limb bandage for, 48-56, 48f-54f
+ spica bandage and lateral splint for, 83-88, 84f-87f
+90/90 sling, 104-8
+pelvic limb, 92, 108-9
+advantages of, 108
+ soft padded limb bandage for, 92
+aftercare with, 108
+tie-over bandage for, 108-9
+complications with, 108
+tail, 43-47, 44f47f
+indications for, 104
+advantages of, 47
+technique for, 104f-108f, 105-8
+aftercare with, 47
+ Nonadherent semiocclusive dressings, 7-8
+complications with, 47
+indications for, 43
+One-half clamshell splint, 72-73, 73f
+Paw/distal limb bandage, 56-69
+Forelimb bandage, 47-75
+advantages of, 68-69
+dorsal paw pressure relief for, 73-75, 74f, 75f
+aftercare with, 67-68
+paw/distal limb bandage for, 56-69, 57f-66f
+bandage removal for, 67
+paw pad pressure relief for, 69-73, 69f-73f
+bandage replacement for, 67-68
+soft padded limb bandage for, 48-56, 48f-54f
+complications with, 68-69
+spica bandage and lateral splint for, 83-88, 84f-87f
+indications for, 56
+Forelimb cast, 47, 83
+primary layer of, 58, 68
+Forelimb splint, 47, 78-83
+secondary layer of, 62-64, 68
+advantages of, 83
+techmique for, 56-67, 57f-66f
+aftercare with, 83
+"diapering a paw," 58
+complications with, 83
+donut pad, 58
+indications for, 78
+tertiary layer of, 64-65, 69
+technique for, 78-83, 79f-83f
+Paw pad pressure relief, 69-73
+advantages of, 71, 71f, 73
+Gauze dressings, 4-5
+aftercare with, 71, 73
+Gentamicin-impregnated collagen sponges, 8
+complications with, 71, 73
+indications for, 69
+Head bandage, 16-23
+technique, major reconstructive on large dogs, 71-73,
+advantages of, 23
+72f, 73f
+complications with, 23
+clamshell splints, 71-72, 72f
+indications for, 16
+one-half clamshell splint, 72-73, 73f
+technique for, 16-23, 16f23f
+techmique, moderate wounds on small to medium-
+Highly absorptive dressings, 4
+sized dogs, 69-71, 69f-71f
+Hydrocolloid dressings, 7
+digital pad, 70-71, 70f, 71f
+Hydrogel dressings, 7
+metacarpal/metatarsal pad, 69-70, 69f-71f
+Hypertonic saline dressings, 5
+Pelvic bandage, 32-41
+circumferential, 32-35, 32f-35f
+Joint immobilization, 11-12, 11f, 12f
+advantages of, 35
+aftercare with, 35
+Lateral splint, spica bandage and, 83-88
+complications with, 35
+advantages of, 87-88
+indications for, 32, 32f
+aftercare with, 87
+techmique for, 33-35, 33f-35f
+complications with, 87-88
+tie-over, 39
+126Index
+Pelvic bandage (cont.)
+Silver ions dressings, 8
+advantages of, 39
+Sling
+aftercare with, 39
+carpal,75-78,76f-78f
+complications with,39
+Ehmer, 100-104, 100f-104f
+indications for, 39
+90/90, 104-8, 104f-108f
+technique for, 39
+Velpeau, 89-92, 90f-92f
+windowed, 36-38, 36f-38f
+Soft padded limb bandage, 48-56
+advantages of, 38
+advantages of, 55-56
+aftercare with, 38
+aftercare with, 54-55
+complications with, 38
+bandage removal for, 54-55
+indications for, 36
+bandage replacement for, 55
+technique for, 36-38, 36f-38f
+complications with, 55-66
+ Pelvic extension splints, 39-41
+indications for, 48
+advantages of, 41
+primary layer of, 56
+ aftercare with, 41
+secondary layer of, 56
+complications with, 41
+technique for, 48-54, 48f-54f
+indications for, 39, 39f
+tertiary layer of, 56
+technique for, 40, 40f
+Soft padded pelvic limb bandage, 92
+Pelvic limb bandage, 92, 108-9
+Spica bandage and lateral splint, 83-88
+soft padded limb bandage for, 92
+advantages of, 87-88
+tie-over bandage for, 108-9
+aftercare with, 87
+Pelvic limb cast, 93-100, 93f-99f
+complications with, 87-88
+advantages of, 99-100
+indications for, 83-84
+aftercare with, 99
+technique for, 84-87, 84f-87f
+bivalving of, 98, 98f
+Splints
+complications with, 99-100
+aluminum rod 1oop elbow, 88-89, 88f, 89f
+indications for, 93
+clamshell, 71-72, 72f
+stockinette with, 94, 94f
+commercial, 13
+techmique for, 93-100, 93f-99f
+elbow, 88-89, 88f, 89f
+Pelvic limb splint, 93
+excoriation with, 12
+Pelvic tie-over bandage
+forelimb, 47, 78-83
+advantages of, 39
+frequency of changes with, 10
+aftercare with, 39
+functions of, 13
+complications with, 39
+ general information for, 13
+indications for, 39
+joint immobilization with, 11-12, 11f, 12f
+techmique for, 39
+maceration with, 12
+ Pepper-impregnated tape, 119f 
+materials with, 13
+Plastic basket muzzle, 115f
+one-half clamshell, 72-73, 73f
+Plastic wrap-around collar, 113, 113f
+pelvic extension splints, 3941
+ Polyhexamethylene biguanide dressings, 8
+advantages of, 41
+ Polyurethane film dressings, 6-7
+ aftercare with, 41
+Polyurethane foam dressings, 6
+complications with, 41
+indications for, 39, 39f
+Restraint, 111-19
+technique for, 40, 40f
+aluminum splint rod, 114-15, 115f
+pelvic limb, 93
+body bandage, 118, 118f
+plastic, 13
+electronic devices, 119, 119f
+ pressure relief with, 11
+Elizabethan collar, 111-13, 111f-113f
+pupose of, 13
+muzzles, 114, 115f
+rods, 13
+plastic wrap-around collar, 113, 113f
+security with, 10
+side braces, 114-18, 115f-118f
+ special considerations with, 10-12, 11f,
+topical chemical, 118-19, 119f
+12f
+towel collar, 113-14, 114f
+spica bandage and lateral, 83-88, 84f-87f
+stockinette with, 13
+Sedation, bandage change with, 12
+Stockinette, 13
+Side braces, 114-18, 115f-118f
+pelvic limb cast, 94, 94f
+Index127
+Tail bandage, 43-47
+technique for, 108
+advantages of, 47
+Tie-over thoracic, abdominal bandage, 29-32, 30f, 31f
+aftercare with, 47
+advantages of,31-32
+complications with, 47
+aftercare with, 31
+indications for, 43
+complications with, 31-32
+technique for, 44-47, 44f47f
+indications for, 29
+Thoracic bandage, 25-32
+techmique for, 30-31, 30f, 31f
+circumferential, 25-29
+Topical chemical restraint, 118-19, 119f
+advantages of, 29
+Towel collar, 113-14, 114f
+aftercare with, 29
+complications with, 29
+Velpeau sling, 89-92
+indications for, 25-26, 25f
+advantages of, 92
+techmique for, 26-28, 26f-28f
+aftercare with, 92
+tie-over, 29-32, 30f, 31f
+complications with, 92
+advantages of, 31-32
+indications for, 89
+aftercare with, 31
+techmique for, 89-92, 90f-92f
+complications with, 31-32
+indications for, 29
+Windowed pelvic bandage, 36-38, 36f-38f
+techmique for, 30-31, 30f, 31f
+advantages of, 38
+windowed, 29
+aftercare with, 38
+advantages of, 29
+complications with, 38
+aftercare with, 29
+indications for, 36
+complications with, 29
+technique for, 36-38, 36f-38f
+indications for, 29
+Windowed thoracic, abdominal bandage, 29
+technique for, 29
+advantages of, 29
+Tie-over bandage, pelvic limb, 108-9
+aftercare with, 29
+advantages of, 109
+complications with, 29
+aftercare with, 108
+indications for, 29
+complications with, 109
+technique for, 29
+indications for, 108

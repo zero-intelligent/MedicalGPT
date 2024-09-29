@@ -1,0 +1,80 @@
+ Radiographic Signs of Diffuse, Multifocal, and Focal Bone Lesions
+弥漫性、多病灶性、局灶性
+骨骼病变的X光征象
+2
+Appendicular Skeleton
+四肢骨骼
+3
+Diffuse and Multifocal Bone Lesions
+弥散性和多灶性骨骼病变
+4
+(Selected) Congenital Diseases
+（已经过挑选）先天性疾病
+5□
+6
+Nutritional or Metabolic Bone Diseases 营养性戚代谢性骨病
+7
+Hyperparathyroidisn
+甲状旁腺功能亢进
+8□
+Disuse Osteopenia
+废用性骨质减少
+6
+Diffuse Neoplastic Bone Diseases
+弥散性肿瘤性骨病
+10
+ Multiple Hyeloma
+多发性骨髓瘤
+11
+Osteochondromatosis or Hultiple Cartilaginous Exostosis
+骨软骨瘤或多发性软骨疣
+12 
+Metastatic Bone Disease
+转移性骨病
+13
+Diffuse or Multifocal Idiopathic Bone Diseases 弥漫性或多病灶性自发性骨病
+14
+Panosteitis or Enostosis
+全骨炎和骨内板增生
+15
+ Panosteitis or Enostosis
+全骨炎和骨内板增生
+16
+Hypertrophic Osteopathy (HO)
+肥大性骨病
+17
+Hypertrophic Osteodystrophy (HOD)
+肥大性骨营养不良
+18
+Focal Bone Lesions
+局灶性骨骼病变
+19
+Fractures
+骨折
+20
+Fracture Repair
+骨折修复
+21
+Fracture Repair
+骨折修复
+22
+Fracture : Complications
+骨折并发症
+23
+ Trama
+外伤
+24
+Primary Bone Tumors
+原发性骨肿瘤
+25
+Bone Infection or Osteomyelitis
+骨感染或骨髓炎
+26
+ Osteonyelitis from External Trauma
+创伤所致骨髓炎
+27
+Osteomyelitis：Sequestrum and Involucrum 骨髓炎：死骨片和包鞘
+28 
+Hematogeneous Osteomyelitis
+血道转移性骨髓炎
+29

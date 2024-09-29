@@ -1,0 +1,418 @@
+Techniqueand
+Radiographic Anatomy of
+theThorax
+胸腔放射检查技术和X线解部
+Prof. dr. Paul Barthez, DipAVCR, DipECVDI
+Technique
+放射技术
+·RadiographicparametersX线摄影参数
+Positioning
+摆位
+Technique放射技术：
+RadiographicParametersX线摄影参数
+· Pulmonary air against soft tissue
+=> good natural contrast
+肺内气体与软组织结构
+>良好的天然对比度
+Motion : respiratory and cardiac
+移动伪影：呼吸和心跳
+Settings参数，Tools设备
+Voltage管电压
+Dogs 90 - 120kVp (high voltage) 犬 90~120 kVp(高千伏)
+Cats 50 - 60 kVp 猫 50~60 kVp
+Short exposure time(<0.06 s)短曝光时间(<0.06 s)
+Thickness厚度
+>10 cm：Grid+medium speed screens使用虑线栅+中速增感屏
+<10cm：nogrid+detailscreens不用虑线栅+低速增感屏
+=>Catsusuallytabletoptechnique猫通常使用桌面技术
+摄影程序
+Procedure
+2orthogonalviews2个垂直的体位
+-Left（or right) side down lateral view左侧（或右侧）卧侧位
+-Ventro-Dorsal（orDorso-Ventral)view腹背位（或背腹位）
+Why 2 orthogonal views ?
+为什么需要2个垂直体位
+侧位
+Lateral view
+Dog in lateral recumbency 犬侧卧
+Thoracic limb in extension 前肢伸展
+Head and neck in neutral pos.
+头颈自然状态
+Beam center投照中心：
+ caudal border ofthe scapula
+肩脾骨后缘
+ventral third of the thorax
+胸腔下三分之一
+Field of view : thoracic inlet to last rib
+投照范围：胸腔入口到最后肋骨
+R or L marker进行R或L标记
+Exposure at end of inspiration在吸气末曝光
+Lateral View: Quality
+Control
+侧位：质量控制
+Entirelungfieldon thefilm相片中可见整个肺野
+Thoracic limbs out of the thorax
+前肢影像未出现在胸片
+Lateral View : Quality Control
+侧位：质量控制
+Norotation未发生旋转：
+-Superposition oftheribs attheirorigin各肋骨起点重合
+Deep inspiration : diaphragm intersects spine in dogs at
+T12-T13, in cats at L1-L2
+深吸气时：在犬，隔与脊柱交于T12~T13：在猫，交于L1~L2
+T11
+T'12 
+T13
+T10
+Dorso-Ventral View (not easy)
+背腹位（困难）
+Dog in sternal recumbency大趴卧
+Neckinflexionbetweenthoraciclimbs颈部屈卧于前肢之间
+Checksymmetry两侧对称
+Beam center : caudal border of scapulae on midline
+投照中心：肩脚骨后缘连线中点
+Openfieldtoincludeshoulders投照范围包括肩关节
+RorLmarker进行R或L标记
+Exposure at the end of inspiration
+在吸气末曝光
+Dorso-Ventral View : Quality Control
+背腹位：质量控制
+Entire lung on the film
+相片中可见整个肺野
+Symmetrical对称
+Vertebrae and sternebrae superimposed
+椎骨和胸骨重合
+Diaphragm superimposed over 8 th
+thoracic vertebra
+隔覆盖第8胸椎
+Other Views
+其他体位
+Left side down versus right side down
+左侧位与右侧位
+VD or DV
+腹背位与背腹位
+Lateral view in expiration
+呼气状态下的侧位
+Horizontal beam
+水平投照
+RadiographicAnatomyX线解剖
+Extra-thoracicbony structures胸腔附属骨性结构
+Diaphragm膈
+Pleuralspace胸膜腔
+Mediastinum纵隔
+Lungs肺
+Extra-Thoracic Structures
+胸腔附属结构
+Ribs肋骨
+Vertebrae椎骨
+Sternebrae胸骨
+Thoraciclimbs前肢
+Repeat radiographs
+with bone technique (medium kVp)
+使用骨骼摄影技术（中等kVp
+）再次进行投照
+Extra-Thoracic Structures
+胸腔附属结构
+Diaphragm
+隔
+Shape andpositiondependon形态与位置取决于：
+一Species动物种类
+-Breed（conformation）品种（构造）
+一Degreeofinspiration（thoracicvolume）吸气程度（胸腔体积）
+-X-raybeampositionX线束投照方向
+-Rightorleftsidedown右侧或左侧卧
+-VDorDV腹背位或背腹位
+Right or left side down ?
+右侧卧或左侧卧
+The cranial crus is the dependent one
+前臂部是影响因素之一
+Right or left side down
+右侧卧或左侧卧
+Rightsidedown右侧卧：
+- Caudal vena cava blends in with right crus 右前臂部遮挡前腔静脉
+-（Crura parallel to each other)两前臂部相互平行
+Right or left side down
+右侧卧或左侧卧
+·Left side down左侧卧
+Gastric air bubble just caudal to the left crus
+胃内气体刚好位于左前臂部后方
+(Crura not parallel to each other)两侧前臂部不能相互平行
+Dorso-Ventral versus Ventro-Dorsal View
+背腹位与腹背位
+Ventro-Dorsal(VD)view腹背位
+-2 diaphragmatic crura visible："Mickey mouse 》2个横隔脚呈“
+米老鼠样
+-Ideal forevaluationof thelungfield可以理想的评价肺野
+Dorso-Ventral versus Ventro-Dorsal View
+背腹位与腹背位
+Dorso-Ventral（DV)view背腹位
+-Ventral cupula visible：dome shaped腹侧膈顶呈:圆拱形
+一Ideal for the evaluation of theheart可以理想的评价心脏
+Pleural Space
+胸膜腔
+Notvisibleifnormal正常时不可见
+Lung borders adjacent to the ribs
+肺的边缘紧贴肋骨
+No separation between lung lobes
+肺叶间裂隙不明显
+Pleural thickening common in old dogs
+在老年犬，常发生胸膜增厚
+胸膜
+Pleura
+Cats : Soft tissue opacity between caudal lung lobes and
+caudal thoracic vertebrae,lumbar muscles
+猫：肺尾叶和最后胸椎、腰肌之间，呈现软组织阴影
+Dog
+Cat
+纵隔
+Mediastinum
+Cranial前纵隔
+-Dorsal背侧
+-Ventral腹侧
+Central中间纵隔
+Caudal
+后纵隔
+前纵隔
+Cranial Mediastinum
+Dorsal背侧：
+-Esophagus食道
+-Trachea气管
+-- Large vessels : carotids, cranial vena cava
+大血管：颈动脉，前腔静脉
+一Lymphnodes淋巴结
+Ventral腹侧
+－Thymus胸腺
+-Vessels 血管
+-Sternal lymphnode胸淋巴结
+前纵隔
+Cranial Mediastinum
+Dorsal背侧
+-Wide宽
+-Inmidline位于中间
+Ventral腹侧
+-Narrow狭窄
+-- Oblique direction : right cranial - left caudal
+倾斜方向：右前一左后
+前纵隔
+CranialMediastinum
+Ventral limit of the cranio-dorsal mediastinum :cranial
+vena cava
+前纵隔背侧的腹侧缘：前腔静脉
+Cranio
+Ventral Mediastinum
+前纵隔腹侧
+Thymus in animals less than 1 year of age
+小于1岁龄的动物可以见到胸腺
+Cranio Ventral Mediastinum
+前纵隔腹侧
+Thymus in young animals 
+幼龄动物可以见胸腺
+Thinlineinnormaladults成年动物呈细线状
+- Right-cranial to left-caudal direction on VD view
+在腹背位影像中呈右前至左后方向
+Cranio Ventral Mediastinum
+前纵隔腹侧
+Thymusinyounganimals幼龄动物可见胸腺
+Thinlineinnormaladults成年动物呈线状
+- Cranial-Right to caudal left direction on VD view
+在腹背位影像中呈右前至左后方向
+- Separating left cranial from right cranial lung lobe
+on the lateral view (well seen in
+obese animals)
+在侧位影像中，右侧肺前叶与
+左侧前叶分离（在肥胖动物更加
+明显）
+Cranio Dorsal Mediastinum
+前纵隔背侧
+·Wide较宽：
+-Brachycephalic dogs短头犬
+-Obesedogs肥胖犬
+Narrow较窄：Cat猫
+Cranio-dorsal Mediastinum :Trachea
+前纵隔背侧：气管
+Transparent tube 气管
+Midline or slightly curved to the
+right
+位于中线或轻微向右侧弯曲
+Shape depends on neck
+positioning and respiratory phase
+气管形态取决于颈部摆位和呼吸状
+态
+气管
+Trachea
+Cranio-dorsal Mediastinum :Trachea
+前纵隔背侧：气管
+Redundentdorsal trachealwal背侧气管壁遮挡：
+apparent decrease in tracheal diameter
+看起来气管直径变窄
+Very common in normal dogs
+在正常犬非常常见
+Cranio Dorsal Mediastinum :Esophagus
+前纵隔背侧：食道
+Usuallynotvisible通常不可见
+Sometimes有时：
+-Airstripe dorsal to thetrachea气管背侧出现空气条纹
+- Tubular soft tissue opacity between aorta and CVC
+主动脉与前腔静脉之间出现管状软组织阴影
+Central Mediastinum :Heart
+中间纵隔：心脏
+Well contrasted by pulmonary air
+在肺内空气衬托下可以良好显示
+Rounded structure on both projections
+两个体位摄影时，均呈现圆形结构
+Softtissueopacity软组织阴影
+一Cardiacsilhouette心脏轮廓
+Heart心脏：Size大小
+Subjective evaluation compared to thoracic volume
+与胸腔体积进行主观比较
+Empiricalrule经验评估：
+-Lateral侧位：
+Less than 3.5 intercostal spaces in dogs,
+在犬，小于3.5个肋间隙
+less than 2.5 intercostal spaces in cats
+在猫，小于2.5个肋间隙
+一DV背腹位：2/3ofthoracicwidth胸腔宽度的2/3
+Size compared to thoracicvertebrae大小与胸椎比较
+- Vertebral Heart Scale椎体心脏比分 - JW Buchanan
+Vertebral Heart Scale (VHS)
+椎体心脏比分
+Measure width + height of the cardiac silhouette
+测量心脏轮廓的宽度+高度
+Compare to length of thoracic vertebrae between T4 et T8
+与第4和第8胸椎间胸椎长度比较
+Dogs犬：
+-9.7 ± 0.5
+Cats猫：
+- 7.5 ± 0.3 (6.9 - 8.1)
+Variations in Cardiac Size and Shape
+心脏大小和形态的变化
+Species动物种类
+Breed品种
+Age年龄
+Bodycondition身体状态
+Cardiac phase (systole-diastole)
+心动周期（收缩期一舒张期）
+Respiratory phase 呼吸周期
+（inspiration-expiration）（吸气－呼气）
+X-raybeamorientationX射线投照方向
+Heart : Cavities and Great Vessels
+心脏：腔室和大血管
+Rightversus left heart 心脏右侧与左侧
+Take lateralview侧位摄影
+Draw line between
+tracheo-bronchial bifurcation and
+apex of the heart
+气管支气管分叉至心尖连线
+- 2/3 cranial is right heart
+头侧2/3为右心
+-1/3 caudal is left hear
+尾侧1/3为左心
+Dorsal half : atria
+背侧1/2处：主动脉
+ Ventral half : ventricles
+腹侧1/2处：心室
+Heart : Cavities
+心脏：腔室
+·Leftatrium左心房
+Leftventricle左心室
+Heart : Cavities
+心脏：腔室
+Rightatrium右心房
+Rightventricle右心室
+Heart: Large
+Vessels
+心脏：大血管
+Mainpulmonary artery主要肺动脉
+Aorta主动脉
+Heart : Location of Cavities and Great Vessels
+心脏：腔室和大血管的位置
+artery主要肺动脉
+Right atrium
+Left auricle
+右心房
+左心耳
+Leftventricle
+左心室
+Right ventricle
+右心室
+Leftatrium左心房
+Heart : Projection of Different Cavities and
+Great Vessels
+心脏：不同腔室和大血管的检查程序
+Aorta主动脉
+Main pulmonary
+artery主要肺动脉
+11
+Right atrium
+右心房
+10
+Left auricle
+左心耳
+Left ventricle
+左心室
+Right ventricle
+右心室
+Leftatrium左心房
+Tracheobronchial Bifurcation
+气管支气管分叉
+Mainstembronchi主支气管干
+Tracheo-bronchial lymphnodes气管支气管淋巴结
+后纵隔
+CaudallMediastinum
+Mediastinalfoldontheleft后纵隔在左侧发生折转
+CaudalVenacavaontheright后腔静脉在右侧
+Overall transparent
+整体透射线
+Opaque structures
+不透射线结构：
+-Vessels血管
+-Interstitial tissue间质组织
+Reticular pattern
+网状
+肺
+Lungs
+Bronchi支气管：
+一Airfilled充气：transparent透射线
+-Tubularorround管状或圆环状
+Vessels血管：
+-Opaque不透射线
+-Tubular orround管状或圆环状
+- Artery : dorsal and lateral
+动脉：背侧和外侧
+- Veine : ventral and medial
+静脉：腹侧和内侧
+Artery + Bronchus + Vein = Triad
+动脉+支气管+静脉为一组
+肺型
+Lung
+Pattern
+Lungs : Pulmonary Lobes
+肺：肺叶
+Dogs and cats犬和猫：
+2 lung halfs - 6 lobes
+2个肺区一6个肺叶
+Right side 右侧
+cranial前叶,middle 中间叶，
+caudal 尾叶,accessory
+副叶
+Leftside左侧
+cranial前叶(2parts 2个部分）,
+caudal尾叶
+Lungs : Pulmonary Lobes
+肺：肺叶
+Right cranial lobe 右前叶
+Right middle lobe右中间叶
+Right caudal lobe 右尾叶
+Accessory lobe (right lung)
+副叶（右肺）
+Leftcranial lobe左前叶
+Leftcaudal lobe左尾叶
+Lungs : Pulmonary Lobes
+肺：肺叶
+Right cranial lobe右前叶
+Rightmiddle lobe右中间叶
+Rightcaudal lobe右尾叶
+Accessory lobe (right lung)
+副叶（右肺）
+Left cranial lobe左前叶
+Leftcaudallobe左尾叶

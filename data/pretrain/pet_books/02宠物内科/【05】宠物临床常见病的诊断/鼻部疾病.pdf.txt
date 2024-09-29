@@ -1,0 +1,572 @@
+HISTORY病史
+Working gun dog
+工作狩猎犬
+Sudden onset sneezing
+突发喷嚏
+Right nasal discharge for 3 months
+右侧鼻孔出现分泌物，时长3个月
+CLINICALSIGNSI临床症状
+Mucopurulent nasal discharge, mainly right sided
+主要在右侧鼻腔出现脓样粘液鼻液
+Marked halitosis
+明显口臭
+Airflow through both nostrils, but slightly reduced
+on right side
+呼吸时，流经右侧鼻孔时气流较左侧微弱
+鼻部MRI
+NASALMRI
+HANKEY,F
+Cambridge University
+04-1125
+MR Vet-MR
+GuickTimeranta
+aleneodetrdsee thia trtgra
+HNIE
+Dorsal
+背面
+Sagittal
+纵切面
+2004.05.05
+4cq: 1, Image: 11
+NASALMRI
+鼻部MRI
+HANKEY ,F
+Cambridge University
+HANKEY ,F
+04-1125
+MR Vet-MR
+04-1125
+MR Vet-MR
+Gpich fimesanna
+QuiokTwekams
+Biahesderumeiessu
+aleneodetrdsee tha trtgra
+Bte heedeg tosoe thn poure
+HNIE
+Right sagittal
+右侧纵切面
+Leftsagittal左侧纵切面
+2004.05.05
+2004.05.05
+Acq: 1. Image: 7
+4cq: 1, Image: 8
+HAN KEY.F
+0+-1125
+MR Ve HMR
+0+1125
+MRVEHMR
+NASALMRI
+鼻部MRI
+Cambndge Urversly HAlKEY,F
+Gambrdgeunuersly
+0+-1125
+MR. VEHMRO4-1125
+HATREY.F
+MF. Ve HMI
+200405.05
+2000505
+20450
+REMOVAL移除
+异物
+FOREIGN BODY
+Bracken stem
+厥类茎部
+DIFEERENTIALDIAGNOSISOE
+NASALDISEASE
+鼻病鉴别诊断
+Inflammatory rhinitis
+炎性鼻炎
+Fungal (destructive) rhinitis
+真菌性鼻炎
+Nasal neoplasia
+鼻肿瘤
+Foreign body
+异物
+Dental disease
+牙病
+Systemic disease e.g. immunodeficiency, bleeding
+disorder, hypertension
+系统疾病：如免疫缺陷、出血性疾病、高血压等
+INFLAMMATORYRHINITIS
+炎性鼻炎
+Viral
+病毒性
+细菌性
+Bacterial
+急性
+Acute
+慢性
+Chronic
+INVESTIGATIONOFNASALDISEASE
+鼻病诊断
+Clinicalhistory病史
+Physical signs
+体检症状
+Radiography
+X光片
+CT/MRI
+Rhinoscopy
+鼻内镜
+Biopsy
+活检
+Serology
+血清学检查
+临床症状
+CLINICALSIGNS
+Nasal discharge鼻漏
+Unilateral
+单侧
+.Bilateral
+双侧
+特性
+Characterisation
+Sneezing
+喷嚏
+鼻出血
+Epistaxis
+酣声
+Stertor
+Differentiate reverse sneezing
+鉴别倒吸型喷嚏
+REVERSESNEEZING
+倒吸型喷嚏
+Irregular and distressing snorting sound
+不规则和痛苦的鼻吸声
+Produced by vibration of the soft palate during forceful
+expiration
+用力呼气时软聘振动产生
+There is no physical obstruction, obstructive dyspnoea or
+exercise intolerance
+无生理性阻塞，阻塞性呼吸困难或运动不耐受
+Reassulrance is necessary
+必要的安慰
+NASALRADIOGRAPHY鼻部X光片
+NASALRADIOGRAPHY
+鼻部X光片
+Frontal
+sinus
+额窦
+20° nose up or angle beam caudally
+鼻子与桌面成20°，或者将X光射线向后方照射
+鼻部X光片
+NASALRADIOGRAPHY
+NASALRADIOGRAPHY
+鼻部X光片
+Septum
+Zygomatic
+Process颜突
+鼻中隔
+Rostrocaudal
+头前后位
+Caudorostral头后前位
+71988
+MRI
+Nasalchambers
+鼻腔MRI
+General anaesthesia 全麻
+Dual phased array coil
+双向序列螺旋
+T1, T2 and proton density
+weighted images
+驰豫时间T1，T2和质子密度加权影像
+MRI Transverse
+plane Normal nasal chambers
+正常鼻腔MRI横向扫描图像
+ retriever , F
+Carmbridge University
+MR E-scan
+MORTONLabradorretriever,F
+Cam bridge University
+MORTONLabradorretriever,F
+Carm bridge University
+MORTONLabradorretriever,F
+Cambridge University
+02-1366
+MRE-scan
+02-1366
+MR E-scan
+02-1366
+MRE-scan
+2002.06.25
+2002.06.25
+2002.06.25
+Acq:1,Image:5747
+Acq:1,Image:5745
+Acq:1,Image:5706
+MORTONLabradorretriever,F Cambridge University
+MORTON Labradorretriever, F CambridgeUniversity
+MORTONLabradorretriever,F Cambridge University
+02-1366
+MRE-scan
+02-1366
+MRE-scan
+02-1366
+MRE-scan
+2002.06.25
+2002.06.25
+2002.06.25
+Acq:1,lmage:5704
+Acq:1,Image:5702
+Acq:1,mage:5699
+RHINOSCOPY鼻内镜
+CHRONICHYPERPLASTICRHINITIS
+慢性增生性鼻炎
+Chronic
+usually
+bilateral
+mucopurulent discharge
+通常是双侧、慢性的，粘液
+脓性鼻漏
+Often associated with frontal
+sinusitis, especially in cats
+尤在猫通常与额窦炎有关
+Epistaxis israre鼻出血少见
+Air flow is usually normal
+气流一般正常
+CHRONICHYPERPLASTICRHINIT
+慢性增生性鼻炎
+Patchy increase in opacity, usually bilateral
+involvement
+通常双侧可见片状混浊的影像增加
+Conchal pattern blurred or partly obscured by
+mucosal thickening and exudate
+鼻甲轮廓模糊，或者因粘膜增厚和渗出液
+而部分模糊
+No evidence of bony destruction involving
+caudal conchae, vomer bone or surrounding
+facial bones
+后鼻甲、犁骨和周围的面骨没有被破坏的
+迹象
+No evidence of external soft tissue mass
+无外部软组织肿块的证据
+CHRONICHYPERPLASTICRHINITIS
+慢性增生性鼻炎
+Specific antibiotic therapy (4 - 6 weeks)
+特异性抗生素治疗（4一6周）
+Mucolytic therapy
+黏膜溶解治疗
+Bromhexine（Bisolvon?)溴乙新
+·Steam雾化
+Nasalflushwithsaline生理盐水冲洗鼻腔
+Exploratory rhinotomy/ radical turbinectomy
+鼻腔切开探查术/鼻甲骨切除术
+IRISHWOLFHOUNDRHINITISSYNDROME
+爱尔兰猎狼犬鼻炎综合症
+Chronicrhinitis慢性鼻炎
+Primary inherited immunodeficiency
+原发性遗传性免疫缺陷
+May progress to lower respiratory tract
+involvement
+可继发下呼吸道疾病
+真菌性鼻炎
+FUNGALRHINITIS
+Mucopurulent nasal discharge
+粘液脓性鼻漏
+Intermittent sneezing
+间歇性喷嚏
+Facial pain and discomfort
+面部疼痛和不适
+Epistaxis鼻出血
+Ulceration and depigmentation
+of the rhinarium
+鼻前唇溃疡和色素减退
+真菌性鼻炎
+FUNGALRHINITIS
+Fungal culture
+真菌培养
+Serology
+血清学检查
+Radiography
+X光片
+CT/MRI
+Endoscopy ± biopsy
+内窥镜（±活检）
+FUNGALRHINITIS
+真菌性鼻炎
+Areas of decreased opacity
+片状混浊度下降
+Unilateral or bilateral conchal destruction
+单侧或双侧鼻甲破坏
+Punctate lucencies may be seen in
+surrounding bone
+周围骨上可见斑点状透亮点
+May see poorly circumscribed mass in
+caudal nasal chamber and frontal sinuses
+可能在后鼻腔和额窦见到界线不明显
+的肿块
+Frontal sinus involvement may occur with
+thickening or lysis of the frontal bones
+感染到额窦时，可见有额骨的增厚和溶解
+FUNGALRHINITIS真菌性鼻炎
+FUNGAL
+KINGSLEYJack,M
+02-69
+MRE-MRI Scanner
+RHINITIS
+真菌性鼻炎
+2002.02.13
+T1W+Gd
+Acq:1,Image:6478
+02/69
+KINGSLEYJack,M
+02-69
+MRE-MRI Scanner
+Border collie
+12y M
+Nasal
+aspergillosis
+鼻曲霉病
+2002.02.13
+PDW
+Acq:1,mage:6427
+FUNGALRHINITIS
+真菌性鼻炎
+Areas of conchal loss.
+particularly in the
+ethmoturbinate region
+鼻甲骨缺损，特别是在筛
+骨鼻甲区域
+Discrete fungal plaques on
+the surface of swollen
+conchal mucosa
+水肿的鼻甲粘膜上可见散
+在在真菌斑
+真菌性鼻炎
+FUNGALRHINITIS
+Areas of conchal loss.
+particularly in the
+ethmoturbinate region
+鼻甲骨缺损，特别是在筛
+骨鼻甲区域
+Discrete fungal plaques on
+the surface of swollen
+conchal mucosa
+水肿的鼻甲粘膜上可见散
+在在真菌斑
+FUNGALRHIINITIS
+真菌性鼻炎
+Use of imidazoles or triazoles
+使用咪唑类或三唑类
+Oral, topical 口服
+±surgery手术（可选）
+鼻肿瘤
+NASALTUMOUR
+Mucopurulent nasal discharge
+粘液脓性鼻漏
+Epistaxis, often heavy bouts
+通常出现严重鼻出血
+Sneezing喷嚏
+Stertor or nasal obstructive noise
+鼾声或鼻塞音
+Reduced air flow
+，气流减少
+Epiphora
+流泪
+Facial pain and discomfort
+面部疼痛和不适
+Exophthalmos眼球突出
+NASALTUMOUR
+鼻肿瘤
+Homogenous soft tissue opacity with
+conchal destruction
+软组织混浊，伴鼻甲破坏
+Unilateral or bilateral
+单侧或双侧
+Distortion or destruction of the vomer bone
+犁骨扭曲或破坏
+Frontal sinus opacification
+额窦混浊
+Destruction of the hard palate and/or
+overlying facial bones
+硬聘（或/和覆盖在其上的面骨）破坏
+External soft tissue swelling
+外部软组织肿胀
+NASALTUMOUR
+鼻肿瘤
+NASALTUMOUR
+BALEY Labrador,M
+Cambirdge University
+BAILEYLabrador,M
+CambirdgeUniversity
+02-666
+MRE-scan
+02-666
+MRE-scan
+02/666
+Labrador
+retriever 10y M
+拉不拉多，10岁，雄
+2002.03.21
+2002.03.21
+Acq:1,lmage:581
+Acq:1,Image:678
+Carcinoma in nasal
+T1W
+T1 W+Gd
+BAILEY Labrador,M
+Cambirdge University
+BAILEY Labrador,M
+chamber and
+Cambirdge University
+02-666
+MR E-scan
+02-666
+MRE-scan
+frontal sinus
+鼻腔和额窦癌
+2002.03.21
+2002.03.21
+Acq:1,lmage:582
+Acq:1,lmage:679
+CRITCHELLHMMSEnglishSetter,GmbnidgeUniversity
+CRITCHELLHMMSEnglishSetter,GombnidgeUniversity
+02/2042
+MRE-scan
+0212042
+MRE-scan
+T1W
+02/2042
+English setter
+10y Mn
+英国雪达犬
+2002.09.18
+2002.09.18
+Acq:1,Image:8693
+Acq:1,Image:8721
+Chondrosarcoma
+CRITCHELLHMMSEnglishSetterGmbridgeUniversity
+CRITCHELLHMMSEnglishSetter,GambridgeUniversity
+02/2042
+MRE-scan
+0212042
+MRE-scan
+软骨肉瘤
+2002.09.18
+2002.09.18
+Acq:1,lmage:8718
+Acq:1,lmage:8711
+NASALTUMOUR
+鼻肿瘤
+96-1058 Doberman pinscher
+Nasal lymphoma
+RADIOLOGYOFTHENASALCHAMBERS
+鼻腔X光片
+Normal radiographic appearance of both nasal chambers and frontal
+sinuses
+两侧鼻腔和额窦X光片显示正常
+Areas of increased soft tissue opacity superimposed over a normal
+conchal pattern (Chronic rhinitis)
+软组织混浊增加，重叠在正常鼻甲轮廓之上（慢性鼻炎）
+Areas of decreased opacity due to conchal destruction without
+accompanying soft tissue opacity (Fungal rhinitis)
+鼻甲骨破坏，混浊度降低，不伴软组织混浊度改变（真菌性鼻炎）
+Areas of increased soft tissue opacity superimposed over areas of
+conchal destruction (Nasal neoplasia)
+鼻加骨破坏，伴软组织混浊度增加（鼻肿瘤）
+FELINENASALTUMOUR
+猫的鼻肿瘤
+FELINENASALTUMOUR
+猫的鼻肿瘤
+Lymphoma淋巴组织瘤
+FELINECHRONIC RHINITIS
+猫的慢性鼻炎
+NASOPHARYNGEALPOLYP
+鼻咽息肉
+异物
+FOREIGNBODY
+Sudden onset
+突发
+Violent sneezing
+急剧喷嚏
+Head shaking
+摇头
+Nose rubbing
+鼻摩擦
+Pawing at face
+抓挠面部
+Later mucopurulent discharge
+稍后出现粘液脓性鼻液
+异物
+FOREIGNBODY
+异物
+FOREIGNBODY
+NASALRADIOGRAPHY鼻部X光片
+04-1125 Labrador retriever 5yr F
+鼻部X光片
+NASALRADIOGRAPHY
+04-1125 Labrador retriever 5yr F
+鼻部MRI
+NASALMRI
+HANKEY,F
+Cambridge University
+04-1125
+MR Vet-MR
+04-1125 Labrador retriever 5yr F
+GpickTimesanta
+aleleodetrdsee thin trtgra
+HNIE
+Dorsal
+Sagittal
+2004.05.05
+4cq: 1, Image: 11
+NASALMRI
+鼻部MRI
+HANKEY ,F
+Cambridge University HANKEY , F
+04-1125
+MR Vet-MR
+04-1125
+MR Vet-MR
+Gpick fimesann a
+QuiokTweam.
+Biahes dorameressu
+aleneodetrdsee tha trtgra
+ate heedeg tosoe tha poure
+HNIE
+Right sagittal
+Left sagittal
+2004.05.05
+2004.05.05
+Acq: 1, Image: 7
+4cq: 1, Image: 8
+0+-1125
+MR Ve HMR
+0+-1125
+MR VEHMR
+NASALMRI
+鼻部MRI
+04-1125 Labrador retriever 5yr F
+Bambrdge Urversly HAIKEY,F
+Cambndge urvuersiy
+HAI KEY , F
+0+-1125
+MR. VEHMRO4-1125
+200↓05.05
+2000505
+20450
+异物
+FOREIGNBODY
+04-1125 Labrador retriever 5yr F
+ALLERGICRHINITIS
+过敏性鼻炎
+Uncommon不常见
+Sneezing, reverse sneezing, serous
+nasal discharge
+喷嚏，吸入性喷嚏，浆液性鼻液
+Diagnosis by exclusion
+用排除法诊断
+Biopsy活检
+Treatment with glucocorticoids
+usually dramatic
+通常用糖皮质激素治疗效果显著
+慢性鼻炎
+CHRONICRHINITIS
+Related to dental disease
+与牙病相关
+Related to palatine defects
+与聘骨缺陷相关
+Related to pharyngeal retching.
+regurgitation and recurrent vomiting
+与咽呕、反流和复发性呕吐相关
+牙病
+DENTALDISEASE

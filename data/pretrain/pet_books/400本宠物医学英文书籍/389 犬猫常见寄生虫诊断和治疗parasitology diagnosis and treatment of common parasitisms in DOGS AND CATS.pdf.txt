@@ -1,0 +1,3928 @@
+PARASITOLOGY
+DIAGNOSIS AND TREATMENT OFCOMMON PARASITISMSIN
+DOGSANDCATS
+DwightD.Bowman,MS,PhD
+Elizabeth A.Fogarty,BA
+Stephen CharlesBarr,
+BVSc,MVSc,PhD,DACVIM
+PublishedbyTetonNewMedia
+POBox4833|4125SouthHwy89|Jackson,WY83001
+Teton NewMedia
+ph888-770-3165|fax307-734-0841|www.tetonnm.com
+Innovative Publishing
+小尾巴宠物健康中心
+http://ttaha.laobao.co m
+Teton NewMedia
+Teton NewMedia
+90 East Simpson, Suite 110
+Jaclkson, WY 83001
+@ 2002 by Tenton NewMedia
+Exclusive worldwide distribution by CRC Press an imprint of Taylor & Francis Group, an Informa business
+Version Date: 20140128
+International Standard Boolk Number-13: 978-1-4822-4126-6 (eBool - PDF)
+This bool contains information obtained from authentic and highly regarded sources. While all reasonable
+efforts have been made to publish reliable data and information, neither the author[s] nor the publisher
+ys!qnd au apeuu aq Keu ieu suosuo ao suouaa Aue aog Aaqe! ao Aaisuodsau 1ea Aue ndasse ue
+ers wish to malce clear that any views or opinions expressed in this boolc by individual editors, authors or
+contributors are personal to them and do not necessarily reflect the views/opinions of the publishers. The
+information or guidance contained in this bool is intended for use by medical, scientific or health-care
+professionals and is provided strictly as a supplement to the medical or other professional's own judgement.
+their lknowledge of the patient's medical history, relevant manufacturer's instructions and the appropriate
+best practice guidelines. Because of the rapid advances in medical science, any information or advice on
+dosages, procedures or diagnoses should be independently verified. The reader is strongly urged to consult
+the drug companies' printed instructions, and their websites, before administering any of the drugs recom-
+mended in this boolk. This book does not indicate whether a particular treatment is appropriate or suitable
+for a particular individual. Ultimately it is the sole responsibility of the medical professional to malke his or
+her own professional judgements, so asto advise and treat patients appropriately The authors and publish
+ers have also attempted to trace the copyright holders of all material reproduced in this publication and
+apologize to copyright holders if permission to publish in this form has not been obtained. If any copyright
+material has not been aclknowledged please write and let us know so we may rectify in any future reprint.
+Except aspermitted under U.S. Copyright Law, no part of this bool may be reprinted, reproduced, transmit-
+ted, or utilized in any form by any electronic, mechanical, or other means, now known or hereafter invented,
+including photocopying, microfilming, and recording, or in any information storage or retrieval system,
+without written permission from the publishers.
+For permission to photocopy or use material electronically from this worlk, please access www.copyright.
+  (
+Drive, Danvers, MA 01923, 978-750 -8400. CCC is a not-for-profit organization that provides licenses and
+registration for avariety of users. For organizations that have been granted a photocopy license by the CCC.
+aseparate system of payment has been arranged.
+Trademark Notice: Product or corporate names may be trademarks or registered trademarks, and are used
+only for identific ation and explanation without intent to infringe.
+Visit the Taylor & Francis Web site at
+http://www.taylorandfrancis.com
+and the CRC Press Web site at
+http://www.crcpress.com
+and the Teton NewMedia Web site at
+www.tetonnewmedia.com
+PARASITOLOGY
+Diagnosis and treatment of common parasitisms In
+DOGS AND CATS
+Dwight D. Bowman, MS, PhD
+Professor of Parasitology
+Department of Microbiology and Immunology
+College of Veterinary Medicine
+Cornell University
+Elizabeth A. Fogarty, BA
+Department of Microbiology and Immunology
+College of Veterinary Medicine
+Cornell University
+Stephen Charles Barr, BVSc,
+MVSc, Phd, dACViM
+Professor of Medicine
+Department of Clinical Sciences
+College of Veterinary Medicine
+Cornell University
+PREFACE
+The purpose of this set of Flash Cards is to provide a quick guide
+to the most common parasites seen in dogs and cats, the
+diseases they produce, and treatments to remove the infections.
+Parasitologists tend to make keys for other parasitologists who
+share a familiarity with the systematic format in which parasites
+are classified. In this publication, we have collected all of the
+essential information about a particular parasite on a single
+review card for quick reference. The material is organized so
+that information regarding the organism, its diagnostic stage,
+the type of specimen required, location in the body, and
+methods of control can be easily reviewed. Only those few
+points of biology with a direct bearing on control are presented.
+significance. No attempt is made to be all-inclusive with respect
+to either pathogens that may be encountered or to treatments
+that may be applied.
+This information is also available as a PDA program. The plan
+from the outset was to develop a set of information that could
+the hand-held device will also serve as an electronic visual key to
+these parasites. We think that the different search capabilities
+of the PDA format will be a favorable attribute for the individual
+who needs rapid access to diagnostic and treatment information
+in a clinical or laboratory setting. We hope that the information
+we have provided in both of these formats is what people really
+do need for effective management of the commonly
+encountered parasitisms ofdogs and cats.
+The material evolved from a joint interest between the authors
+and our editor, Carroll Cann, in developing a resource that would
+work in a pocket computer format. It has been a pleasure
+fruition. We have spent a good deal of time with the team at
+Teton NewMedia developing various aspects of the design and
+presentation. Thus, we also need to thank Cynthia Roantree,
+Nicol Giandomenico, Susan Hunsberger, Anita Sykes and Sue
+Haun for making this an enjoyable and productive experience.
+CONTENTS
+Parasites of the doG
+Alaria canis
+Ancylostoma braziliensis .
+2
+Ancylostoma caninum.
+3
+Babesia canis.
+4
+Babesia gibsoni
+5
+Ballatidium coli
+6
+Baylisascaris procyonis
+7
+Cheyletiella yasguri
+8
+Crenosoma vulpis
+9
+Cryptosporidium parvum
+10
+Ctenocephalides felis.
+11
+Demodex canis
+12
+Dermacentor variabilis.
+13
+Dipetalonema reconditum.
+14
+Diphyllobothrium latum
+15
+Dipylidium caninum
+16
+Dirofilaria immitis
+17
+Echinococcus granulosus.
+18
+Echinococcus multilocularis.
+19
+Eucoleus aerophilus.
+20
+Eucoleus boehmi.
+21
+Filaroides hirthi
+22
+Filaroides osleri
+23
+Giardia canis .
+24
+Hammondia heydorni
+25
+Hepatozoon americanum
+26
+Heterobilharzia americanum 
+27
+Isospora canis
+28
+Isospora ohioensis, I. burrowsi, and I. neorivolta
+29
+Ixodes scapularis .
+30
+Leishmania donovani.
+31
+Mesocestoides spp
+32
+Nanophyetus salmincola .
+33
+Neospora caninum
+34
+Otodectes cynotis
+35
+ Paragonimus kellicotti .
+36
+Pearsonema plica
+37
+Pentatrichomonas hominis .
+38
+Physalopterarara
+39
+Pneumonyssoides caninum
+40
+Rhipicephalus sanguineus
+41
+Sarcocystis spp
+42
+Sarcoptes scabiei.
+43
+Spirocerca lupi.
+44
+Spirometra mansonsoides
+45
+Strongyloides stercoralis
+46
+Taenia pisiformis
+47
+Toxascaris leonina
+48
+Toxocara canis.
+49
+Trichodectes canis
+50
+Trichuris vulpis.
+51
+52
+Uncinaria stenocephala.
+53
+Parasites of the cat
+Aelurostrongylus abstrusus.
+55
+Alaria marcianae .
+56
+Ancylostoma braziliensis
+57
+Ancylostoma tubaeforme.
+58
+Aonchotheca putorii .
+59
+Cheyletiella blakei
+60
+Cryptosporidium felis
+61
+Ctenocephalides felis.
+62
+Cytauxzoon felis
+63
+Demodex cati
+64
+Dermacentor variabilis.
+65
+Diphyllobothrium latum
+66
+Dipylidium caninum
+67
+Echinococcus multilocularis.
+68
+Eucoleus aerophilus.
+69
+Felicola subrostratus
+70
+Giardia felis
+71
+Hammondia hammondi
+72
+Isospora felis .
+73
+Isospora rivolta
+74
+Ixodes scapularis .
+75
+Leishmania spp
+76
+Lynxacarus radovskyi
+77
+Mesocestoides spp
+78
+Notoedres cati.
+79
+Otodectes cynotis
+80
+ Paragonimus kellicotti .
+81
+Pearsonema feliscati
+82
+Pentatrichomonas hominis
+83
+Physalopterapraeputialis
+84
+Physalopterarara
+85
+Platynosomum concinnum
+86
+Rhipicephalus sanguineus
+87
+Sarcocystis spp . .
+88
+Spirometra mansonsoides
+89
+Taenia taeniaeformis
+90
+Toxascaris leonina
+91
+Toxocara cati
+92
+Toxoplasma gondi
+93
+Copyright
+DOG
+ALARIA CANiS
+02005 Teton
+mammalian hosts.
+PPP= 3 weeks.
+Dx: Eggs in feces are large (110 to 130 μm long) and brown
+NewMedia
+with contained cells of embryo (will often
+appear clear on sugar flotation).
+Adult Habitat: Small intestine.
+Similar Species: There are a
+number of species of Alaria
+that infect dogs.
+Range: Species around
+the world.
+Clinical Signs:
+Asymptomatic.
+Tx: No approved drug.
+Praziquantel efficacious,
+also probably
+epsiprantel.
+Drontal? Plus
+Tablets (not for
+puppies <3 weeks
+or 2 Ibs)
+Cestex (not for
+puppies <7 weeks)
+Droncit? Canine
+Cestocide Tablets
+(not for use in
+puppies <4 weeks)
+Droncit? Injectable
+Cestocide for Dogs
+and Cats
+1
+Dog
+Copyright
+DOG
+ANCYLOStoMA bRAZIlIENSIS
+02005
+Canine/feline hookworm common along southern Atlantic
+seacoast and Caribbean. Transcutaneous infection and ingestion
+Teton
+of paratenic hosts.
+PPP= 2 weeks.
+NewMedia
+Dx: Elongate, ellipsoid (60 μm
+long), thin-shelled egg in feces (in
+the 8-celled stage) is indistin-
+guishable from Ancylostoma
+caninum. Ancylostoma eggs are
+smaller than Uncinaria eggs. If
+eggs develop and hatch in
+feces L1 (300-340μm), will have
+a short esophagus with a bulb
+at its base and a small genital
+primordium (compare with
+Strongyloides).
+Adult Habitat: Small intestine.
+Similar Species: Ancylostoma
+caninum.
+Range: Southern Atlantic seacoast
+and Caribbean.
+Clinical Signs: Anemia, but Ancylostoma braziliensis
+causes less blood loss than Ancylostoma caninum, so
+less likely to cause acute disease.
+Potential Zoonosis: Cutaneous larva migrans in
+the southeastern United States and Caribbean
+islands.
+Tx: Hookworms constantly repopulate the
+intestine from larvae sequestered in tissues, so
+it is possible that fecal samples collected 2
+weeks after treatment will show additional
+eggs. Drugs to clear the adult infections at the
+labeled dose include:
+Nemex TM
+Panacur? Granules 22.2%
+Drontal Plus (not for puppies <3 weeks or 2 Ibs)
+Heartgard? Plus (not for puppies <6 weeks)
+Interceptor? (not for puppies or <6 weeks or 2 Ibs)
+Sentinelm (not for puppies or <4 weeks or 2 Ibs)
+Sentinel " Flavor Tabs? (not for puppies <4 weeks or 11 Ibs)
+2|
+Dog
+Copyright
+DOG
+AnCylostoMa CAninuM
+02005
+Common canine hookworm (most pathogenic). Transcutaneous
+and transmammary infection
+Teton
+PPP= Puppies can shed eggs as early
+as 2 weeks after birth
+NewMedia
+(transmammary infection),
+Dx: Elongate ellipsoid (60 μm
+long), thin-shelled egg in feces
+(in the 8-celled stage) is
+indistinguishable from
+Ancylostoma braziliensis.
+Ancylostoma eggs are smaller
+than Uncinaria eggs. If eggs
+develop and hatch in feces L1
+(300-340um), will have a short
+esophagus with a bulb at its
+base and a small genital
+primordium (compare with
+Strongyloides). Found in feces.
+Adult Habitat: Small intestine.
+Similar Species: Ancylostoma
+braziliensis.
+Range: World.
+Clinical Signs: Anemia. Puppies can die several weeks
+after birth from transmammary acquired disease. May
+see diarrhea, constipation, or blood in the stool.
+Tx: Give anemic puppies transfusions immediately.
+then treat adult worms. Hookworms constantly
+repopulate the intestine from larvae sequestered in
+tissues, so possible that fecal samples collected 2
+weeks after treatment will show additional eggs.
+This repopulation of the intestine can go on for
+months to years. Drugs to clear the adult
+infections at the labeled dose include:
+Nemex TM
+Panacur Granules 22.2%
+Drontal? Plus (not for puppies <3 weeks
+or 2 Ibs)
+Heartgard? Plus (not for puppies <6 weeks)
+Interceptor (not for puppies or <6 weeks
+or 2 Ibs)
+Sentinel" (not for puppies or <4 weeks or 2 Ibs)
+SentinelM Flavor Tabs (not for puppies
+<4 weeks or 11 Ibs)
+3
+Dog
+Copyright
+DOG
+BAbeSIA CANiS
+t02005Teton
+Large Babesia organism in dog RBCs transmitted by tick bite.
+PPP= 1 to 3 weeks.
+Dx: Trophozoites and gametocytes in RBCs.
+NewMedia
+Habitat: RBCs.
+Similar Species: Babesia
+gibsoni has stages in RBCs
+that are smaller.
+Range: World.
+Clinical Signs: In United
+States, often asymptomatic
+(Greyhounds). South African
+strains more pathogenic.
+Acute presentation typical:
+fever, lethargy, acute anemia.
+Peracute: hypertensive shock,
+hypoxia, vascular stasis is rare
+(puppies) and usually fatal.
+Acute disease: hemolytic
+anemia, thrombocytopenia,
+lymphadenopathy,
+splenomegally. May be
+complicated with concurrent
+rickettsial infections.
+Tx: One approved product.
+Imizol (imidocarb
+dipropionate; 7.5 mg/kg,
+IM, once, or repeat in 2 weeks)
+Berenil? (diaminazene aceturate; 3.5 mg/kg, IM, once. Note:
+not available in United States)
+Phenamidine? (phenamidine isethionate; 15 mg/kg, 5Q, q24h
+for 2 days. Note: not available in United States) 1% Trypan
+blue (10 mg/kg, IV, once).
+Supportive Care: whole blood or packed RBC transfusion, treat
+for shock (fluids).
+4
+Dog
+Copyright
+DOG
+BAbeSIA GIbSoNI
+02005
+Small Babesia organism in dog RBCs transmitted by tick bite.
+PPP= 1 to 3 weeks.
+Teton
+Dx: Trophozoites and gametocytes in RBCs.
+Habitat: RBCs.
+Similar Species: Babesia
+canis has stages in RBCs
+that are larger.
+Range: World. United
+States - southwest. Found
+in Bull terrier breed.
+Clinical Signs: More
+pathogenic than B. canis.
+Acute presentation
+typical: fever, lethargy.
+acute anemia. Peracute:
+hypertensive shock,
+hypoxia, vascular stasis is
+rare (puppies) and usually
+fatal. Acute disease:
+hemolytic anemia,
+thrombocytopenia,
+lymphadenopathy,
+splenomegally. May be
+complicated with
+concurrent rickettsial infections.
+Tx: One approved product.
+Imizol (imidocarb dipropionate; 7.5 mg/kg, IM, once,
+or repeat in 2 weeks)
+Berenil? (diaminazene aceturate; 3.5 mg/kg, IM, once.
+Note: not available in United States)
+Phenamidine? (phenamidine isethionate; 15 mg/kg, 5Q, q24h
+for 2 days. Note: not available in United States) 1% Trypan
+blue (10 mg/kg, IV, once. Unknown efficacy against
+B. gibsoni)
+Supportive Care: whole blood or packed RBC transfusion. Treat
+for shock (fluids).
+51
+Dog
+Copyright
+DOG
+BALLATIDIUM COLI
+02005Teton
+Large ciliate trophozoites and cysts in feces of dogs acquired by
+ingestion of infectious cyst.
+PPP= 2 weeks.
+Dx: Trophozoites and cysts in feces. Ciliated trophozoites large
+NewMedia
+(up to 150 μm long) and ovoid, cytostome at
+narrower end, with two nuclei (one large and
+bean shaped, other small and spherical).
+Cysts spherical, 40 to 60 μm wide, with a
+relatively clear thin shell. Just under the
+shell can be seen striations that represent
+cilia on surface of contained trophozoite.
+Habitat: Lumen of cecum and colon; can
+cause ulcerations.
+Similar Species: None.
+Range: World.
+Clinical Signs: Rare in dogs. When
+present, associated with watery
+diarrhea and intestinal ulcers. Has
+proved fatal.
+Potential Zoonosis: Dogs probably
+infected from other mammals,
+however, routine precautions should
+be taken when handling canine
+fecal matter.
+Tx: No approved drug.
+Metronidazole, furazolidone and
+tetracyclines (less effective) have
+been used in man and are probably
+effective in dogs:
+Flagyl? oral tablets
+(metronidazole: 25 mg/kg, PO,
+q12h for 5 days)
+Vibramycin? capsules, tablets, oral syrup or suspension, or
+Ronaxan? tablets (doxycycline: 5 mg/kg, PO, q12h for
+21 days)
+Terramycin? capsules (oxytetracycline: 22 mg/kg, PO, q8h
+for 14 days).
+Furoxone tablets or oral liquid (furazolidone: 5 mg/kg,
+PO, q12h, 1 week).
+19
+Dog
+Copyright
+DOG
+baylisasCaris proCyonis
+t02005 Teton NewMedia
+Raccoon roundworm - dogs occasionally infected with adults.
+Very common in raccoons, also in kinkajous.
+PPP= 2 months.
+Dx: Egg in feces slightly smaller in
+diameter, ellipsoid, (70 μm long)
+than Toxocara and Toxascaris,
+dark in color, with an
+externally roughened
+eggshell (not dimpled).
+Adult Habitat: Small
+intestine.
+Similar Species:
+Other species of
+Bayfisascaris occur in
+skunks and bears.
+Range: Throughout
+North and Central
+America. Worms taken to
+Europe via imported
+raccoons.
+Clinical Signs: None when
+infected with adult worms.
+Potential Zoonosis: Visceral and
+ocular larva migrans, associated with
+severe neurologic disease and death.
+Tx: No approved drugs but typical ascarid drugs are successful.
+Large range of products used as per label instructions:
+NemexTM
+Panacur? Granules 22.2%
+Drontal Plus (not for puppies <3 weeks or 2 Ibs)
+Heartgard? Plus (not for puppies <6 weeks)
+Interceptor? (not for puppies <6 weeks or 2 Ibs)
+Sentinel  (not for puppies <4 weeks or 2 Ibs)
+Sentinel TM Flavor Tabs (not for puppies <4 weeks or 11 Ibs)
+7
+Dog
+Copyright
+DOG
+ChEYLeTIeLla YaSGURI
+t 02005 Teton NewMedia
+Hair-clasping mite of dogs acquired by direct contact.
+Dx: Mites in skin scrapings or fecal examinations. Mites (500 to
+600 μm long) have 8 legs and formidable palpal claws on the
+anterior end that are diagnostic. Eggs are large and glued to
+hairs. In feces, eggs have
+projections on one end
+(remnant of glue).
+Adult Habitat: Hair.
+Similar Species: None.
+Range: World.
+Clinical Signs: None or
+mild dermatitis. Mites
+found in skin scrapings
+and fecal examinations
+of normal dogs.
+Potential Zoonosis:
+People handling dogs
+with cheyletiellosis have
+developed transient
+lesions.
+Tx: Can be treated with
+pyrethrin or permethrin
+dips, mists, or sprays.
+Defend? Exspot?
+Insecticide for dogs
+(permethrin)
+Frontline? Top Spot for dogs and puppies (fipronil)
+81
+Dog
+DOG
+oyright
+CrenoSoMa VulPiS
+02005
+Fox lungworm of dogs found in terminal bronchiols. Dogs
+infected by ingesting infected snails/slugs. Natural hosts: foxes
+Teton
+and raccoons.
+PPP=3 weeks.
+NewMedia
+Dx: Larva (275 μm long) passed in feces or transtracheal
+wash. Larva: long esophagus (1/2 body length) with
+pointed tail. Larva appears C-shaped with a pointed
+head compared to larvae of Filaroides.
+Adult Habitat: Lumen of the trachea, bronchi,
+and bronchioles.
+Similar Species: The five nematode larvae that can be
+found in dog feces include: Strongyloides stercorafis.
+Filaroides osleri, Filaroides hirthi, Crenosoma vulpis,
+and hatched Ancylostoma larvae.
+Range: World.
+Clinical Signs: Exercise-induced cough.
+Chest radiographs may reveal a marked bronchiolar
+interstitial pattern.
+Tx: No approved drug. Effective Tx include:
+Panacur (fenbendazole: 50 mg/kg, P0, q 24h for
+3 to 7 days)
+Ivomec? (ivermectin: 0.2 to 0.4 mg/kg, PO,
+once, repeated in 2 weeks)
+Levamisole (8 mg/kg, PO, once, repeated in
+2 weeks)
+Prednisone (0.5 mg/kg. q 24 hr for
+5 days).
+16
+Dog
+Copyright
+DOG
+Cryptosporidium parVuM
+02005
+Tiny coccidian acquired by ingestion of an oocyst. Infectious
+whenpassed
+Teton
+PPP= 5 to 7 days.
+Dx: Oocysts in feces, spheroid, easiest to see in sugar flotation
+NewMedia
+(5 μm in diameter).
+Habitat: Small
+intestinal mucosa.
+Similar Species: None.
+Range: World.
+Clinical Signs: Usually
+asymptomatic. Dogs
+with some other
+immunosuppressive
+disorder can develop
+severe diarrhea.
+Potential Zoonosis:
+Unclear how many
+humans infected with
+canine genotype, but
+must, treat oocysts in
+dog feces as potentially
+infectious to people.
+Tx: No approved drug. Paromomycin effective but use with care
+in young and dogs with severe diarrhea. Tylosin reported
+effective in one cat.
+Humatin? (paromomycin: 125 -165 mg/kg, P0, q12h for
+5 days). NOTE: if GIT inflamed, drug may be absorbed
+into blood and cause aminoglycoside nephropathy.
+Tylan soluble powder (100 gm containers; ~3g/teaspoon)
+Dose for cat: 11 mg/kg. P0, q12h for 4 weeks.
+10|
+Dog
+Copyright
+DOG
+CTENOCEPHALIDES
+ FELIS
+02005
+Common cat and dog flea.
+Dx: Adult, 1 to 3 mm, dark brown
+Teton
+to black with combs {lines of thick
+bristles) on cheek and neck,
+laterally compressed, six legs.
+NewMedia
+Habitat: Haircoat. Eggs and
+larvae mainly in bedding. Vector
+of Dipylidium caninum - flea
+infected as larva.
+Similar Species: Trichodectes canis
+(dogs). Felicola subrostratus (cats)
+Range: Worldwide.
+Clinical Signs:Usuallynone,
+many can cause anemia.
+Potential Zoonosis: Feces may
+transmit cat scratch fever.
+Tx: Removal followed by bathing.
+Very heavy infections may require
+transfusions.
+Oral
+Capstar (Nytenpyram)
+Program Flavor Tabs?
+(Lufenuron)
+SentinelFlavor Tabs
+(Lufenuron and
+Milbemycin oxime)
+Spot Ons
+K9 Advantix (imidacloprid
+and permethrin) DO NOT USE ON CATS.
+Advantage (lmidacloprid)
+( s  
+Frontline Top Spot for dogs and puppies (Fipronil)
+Revolution (Selamectin)
+Scratchex? 30 Day Flea and Tick Treatment (Permethrin)
+Vet-Kem? Ovitrol Plus Spot On Flea and Tick Control for dogs and
+puppies (Permethrin and (S)-Methoprene)
+Collars
+AdamsT Dual Action Flea and Tick Collar for dogs
+(O-Isopropoxyphenyl methylcarbamate, 3-Phenooxybenzyl d-cis
+and trans 2,2,- dimethyl-3-(2-methylpropenyl)
+cyclopropanecarboxylate, N-Octyl bicylcoheptene diacarboximide)
+Bansect? Flea and Tick Collars for dogs (Naled)
+Happy Jack NovationT" Flea and Tick Collar for dogs
+(Deltamethrin)
+Hartz 2 in 1 Flea and Tick Collar for dogs and puppies
+(Tetrachlorvinphos)
+Longlife 90 Day"" Brand Collar for_dogs (Tetrachlorvinphos)
+PreventefFlea and Tick Collar for Dogs (Diazinon)
+Scratchex? Flea and Tick Collars for dogs (Chlorpyrifos)
+11
+Dog
+Copyright
+DOG
+deModeX CAniS
+02005
+Follicular mite of dogs acquired by direct contact.
+Dx: Mites in skin scraping or fecal examinations. Both mites and
+Teton
+eggs elongate. Mites are 200 to 300 μm long and have a
+characteristic elongate shape with very reduced legs on the
+NewMedia
+anterior end. Eggs are elongate
+and 150 μm long.
+Habitat: Hair follicles.
+Similar Species: None.
+Range: World.
+Clinical Signs: Oten none.
+Mites found in skin
+scrapings and fecal
+examinations of normal
+dogs. Can have discrete
+focal areas of alopecia or
+generalized hair loss,
+folliculitis, and secondary
+bacterial infections.
+Potential Zoonosis: People
+handling dogs
+with demodectic mange
+have developed transient
+lesions.
+Tx: Mitaban? only approved
+drug. Often avermectins at
+increased dosages are used
+especially in heritably-
+predisposed dogs.
+Mitaban? (at labeled doses)
+Interceptor? (2 mg/kg daily until condition clears). Not for
+puppies <2lbs or <6 weeks of age.
+Ivomec? (ivermectin: 0.3 to 0.6 mg/kg, daily until condition
+clears - could take years).
+12|
+Dog
+Copyright
+DOG
+DerMACEnTOr VarIabilIS
+02005
+American dog tick. Attach to skin from brush or scrub.
+Dx: Usually find adults, 3 to 15 mm, flat to bean
+Teton
+shaped when engorged. Scutum is ornamented
+with patterns of white on a dark background.
+NewMedia
+Have eyes on edges of scutum. No preanal
+groove. Nymphs look like small females
+Habitat: Skin.
+Similar Species: Rhipicephalus sanguineus.
+Ixodes scapularis.
+Range: Eastern Us, western states have
+Dermacentor andersoni.
+Clinical Signs: Usually none; many can
+cause anemia.
+Potential Zoonosis: No direct transfer of
+pathogens without attachment. Vector of canine
+ehrlichias and Rocky Mountain Spotted Fever.
+Tx: Removal - wash wound with alcohol.
+Spot Ons
+Frontline? Top Spot? for dogs and
+puppies (Fipronil)
+K9 Advantix "m (imidacloprid and
+permethrin) DO NOT USE ON CATS.
+AdamsT" spot-on Flea and Tick Control
+for Dogs (permethrin)
+Scratchex 30 Day Flea and Tick
+Treatment (Permethrin)
+Vet-Kem? Ovitrol Plus? Spot On Flea and
+Tick Control for dogs and puppies
+(Permethrin and (S)-Methoprene)
+Collars
+AdamsTM Delta ForceTM Tick Collar for dogs
+(Deltamethin)
+AdamsT Dual Action Flea and Tick Collar for dogs
+(O-Isopropoxyphenyl methylcarbamate, 3-Phenooxybenzyl d-cis
+and trans 2,2,- dimethyl-3-(2-methylpropenyl)
+cyclopropanecarboxylate, N-Octyl bicylcoheptene diacarboximide)
+Bansect Flea and Tick Collars for dogs (Naled)
+Happy Jack Novation T" Flea and Tick Collar for dogs (Deltamethrin)
+Hartz 2 in 1 Flea & Tick Collar for dogs and puppies
+(Tetrachlorvinphos)
+Longlife 90 Day" Brand Collar for dogs (Tetrachlorvinphos)
+Preventef? Flea and Tick Collar for Dogs (Diazinon)
+Preventic? Collar for dogs (Amitraz)
+Scratchex Flea and Tick Collars for dogs (Chlorpyrifos)
+Vet-KemTickawayTMTick Collar for dogs (Propoxur)
+13|
+Dog
+Copyright
+DOG
+DIPEtALONeMA RECoNdItuM
+02005
+Canine tissue filarid. Transmitted
+by fleas.
+Teton
+PPP= 2 to 4 months.
+Dx: Microfilariae in blood. Antigen
+NewMedia
+tests for heartworm should remain
+negative in dogs that have circulating
+Dipetalonema reconditum
+microfilariae.
+Habitat: Connective tissues of
+the body.
+Similar Species: Microfilariae (275 μm
+long) can be confused with those of
+Dirofilaria immits. Dipetalonema
+reconditum microfilariae are thinner at
+midbody than RBCs and have a blunt
+head with a cephalic hook.
+Range: World wherever dogs and
+mosquitoes are prevalent and
+temperatures are warm enough to
+support growth within the
+mosquito vector.
+Clinical Signs: Asymptomatic.
+Tx: None required. Important in that can lead
+to unnecessary arsenical treatment if
+misdiagnosed as heartworm.
+14
+Dog
+Copyright
+DOG
+DiPhYLLObothrIuM LaTuM
+t02005Teton
+Canine broadfish tapeworm acquired by eating infected
+freshwater fish
+PPP= 5 or 6 weeks.
+NewMedia
+Dx: Egg (60 μm long) in feces is brown,
+elongate, with a small operculum
+(or cap) on one end, containing
+cells of the developing larva.
+Egg about the size of the egg
+of Ancylostoma caninum.
+Adult Habitat: Small
+intestine.
+Similar Species: Related
+exotic species around the
+world capable of
+infecting dogs. Egg very
+similar to that of
+Spirometra spp.
+Range: Northern
+freshwater lakes.
+Clinical Signs:
+Asymptomatic.
+Tx: No approved drug.
+Praziquantel reported
+successful (7.5 mg/kg, PO, once),
+may work at labeled dose.
+Drontal? Plus Tablets (not for
+puppies <3 weeks or 2 Ibs)
+Cestex (not for puppies <7 weeks)
+Droncit? Canine Cestocide Tablets (not for puppies <4 weeks)
+Droncit? Injectable Cestocide for Dogs and Cats
+15|
+Dog
+Copyright
+DOG
+DipylidIuM CANiNuM
+02005
+PPP= 3 weeks.
+Teton
+Dx: Tapeworm segments (250 to 1000
+μm long) or egg balls (2 to
+NewMedia
+30 eggs/ball) found in feces.
+Segments: recognized by paired
+lateral reproductive openings,
+containing egg balls. Egg balls:
+vary in size from a Toxocara egg
+(if only contains a few) to two or
+three times the diameter of a
+Toxocara egg (if contains around
+30 eggs).
+Adult Habitat: Small intestine.
+Similar Species: Other tapeworm
+segments found in dog feces: Taenia
+pisiformis (reproductive pores on only
+one side), and Spirometra,
+Diphylfobothrium, and Mesocestoides (all
+have medial pores).
+Range: World.
+Clinical Signs: Asymptomatic. Very young flea-
+infested puppies can occasionally die of intestinal
+blockage due to large numbers of worms.
+Potential Zoonosis:Occasionally infection (as in
+dogs) occurs in children who ingest an infected
+flea. Usually asymptomatic, but motile segments
+may appear in diapers.
+Tx: Approved drugs for Dipylidium caninum are
+formulated with eitherpraziquantel or
+epsiprantel and are very efficacious as labeled
+(Benzimidazoles, e.g., Panacur? does not clear
+Dipyfidium infections):
+Drontal? Plus Tablets (not for puppies
+<3 weeks or 2 Ibs)
+Cestex? (not for puppies <7 weeks)
+Droncit? Canine Cestocide Tablets (not for
+puppies <4 weeks)
+Droncit? Injectable Cestocide for Dogs
+and Cats
+16|
+Dog
+Copyright
+DOG
+DIroFIlARIA IMMiTIS
+ 02005 Teton
+Dog heartworm. Transmitted by mosquitoes.
+PPP= 7 months.
+Dx: Microfilariae in blood or by antigen detection test. Antigen
+tests on rare occasions negative
+NewMedia
+in dogs with adult worms and
+high microfilarial counts, but
+usually correspond very well to
+tests for microfilariae.
+Habitat: Pulmonary arteries and
+right heart.
+Similar Species: Microfilariae
+(300 μm long) can be confused
+with those of Dipetafonema
+reconditum. Dirofilaria immitis
+microfilariae are wider at
+midbody than RBcs and the
+head tapers gradually to tip.
+Range: World, wherever dogs
+and mosquitoes are prevalent
+and temperatures are warm
+enough to support growth
+within the mosquito vector.
+Clinical Signs: Usually
+respiratory signs of cough,
+tachypnea, exercise intolerance,
+syncope, rarely hemoptysis. Usually divided into 3 classes: Class
+I-asymptomatic, no radiographic signs or anemia; Class
+Il-cough, exercise intolerance, anemia (between 20 and 30%),
+radiographic signs pulmonary artery enlargement; Class
+Ill-cardiac cachexia, severe cough at rest, signs of right heart
+failure (ascites), severe radiographic signs RSHF, enlarged
+pulmonary arteries, lung infitrates from thromboembolism and
+severe anemia (<20%).
+Potential Zoonosis: Rare lung nodules in humans who have
+been infected by bite of mosquito
+Tx: Immiticide? (melarsomine dihydrochloride; Class I and Il: 2.5
+mg/kg, IM deep in lumbar muscle, q24h for 2 doses repeated 4
+to 6 months later if antigen test still positive. Class Ill: stabilize
+heart failure first with aspirin, glucocorticoids, furosemide, use
+give 2.5 mg/kg, IM deep in lumbar muscle, q24h for 2 doses).
+17|
+Dog
+Copyright
+DOG
+ECHinococcus
+ 02005 Teton NewMedia
+GRANULOSUS
+Very small tapeworm of dogs acquired by eating viscera from
+infected ruminants (sheep and moose).
+PPP= 2 months.
+Dx: Eggs (30 to 35 μm long) in feces. If a purgative given
+(dangerous because eggs infectious
+to man), adult worms (2 mm)
+may be found in feces.
+Adult Habitat: Small
+intestine.
+Similar Species: Eggs of
+Echinococcus are
+indistinguishable from
+those of Taenia
+Range: Areas where
+sheep (California,
+Arizona, New Mexico,
+and Utah), moose, or elk
+are found.
+Clinical Signs:
+Asymptomatic.
+Potential Zoonosis: Cystic
+hydatid disease in humans ingesting
+the egg passed in dog feces; the egg is infectious
+when passed.
+Tx: Drug of choice: Praziquantel (100% efficacious)
+Drontal Plus Tablets (not for puppies <3 weeks or 2 Ibs)
+Droncit? Canine Cestocide Tablets (not for puppies
+<4 weeks)
+Droncit? Injectable Cestocide for Dogs and Cats
+18|
+Dog
+Copyright @2005 Teton NewMedia
+DOG
+ECHinococCus
+MULTILOCULARIS
+Very small tapeworm of dogs acquired by eating infected
+small rodents.
+PPP= 3 weeks.
+Dx: Eggs (30 to 35 μm long) in feces. If a purgative given
+(dangerous because eggs infectious
+to man), adult worms (2 mm)
+may be found in feces.
+Adult Habitat: Small
+intestine.
+Similar Species: Eggs of
+Echinococcus are
+indistinguishable from
+those of Taenia.
+Range: Rare in most of
+the United States. Found
+in Alaska, across Canada,
+and extending into the
+wild canid population in
+the central United States.
+Clinical Signs: Asymptomatic.
+Potential Zoonosis: Alveolar
+hydatid disease in humans who ingest
+the egg. The egg is infectious when passed. Human disease
+is 100% fatal without treatment.
+Tx: Drug of choice is Praziquantel (100% efficacious). In areas
+where endemic in dog populations (Alaska, etc.), dogs should
+be treated every 3 weeks.
+Drontal Plus Tablets (not for puppies <3 weeks or 2)
+Droncit? Canine Cestocide Tablets (not for puppies
+<4 weeks)
+Droncit? Injectable Cestocide for Dogs and Cats
+191
+Dog
+Copyright
+DOG
+EuColeuS aeroPhiluS
+t02005Teton
+Common respiratory capillarid of dogs. Life cycle direct or
+through earthworms.
+PPP= 3 to 5 weeks.
+Dx: Egg in feces is similar to Trichuris vuipis, but smaller (60 μm
+NewMedia
+long), with polar plugs often at some angle
+off the linear axis of the egg. Surface has a
+fine net-like ornamentation.
+Adult Habitat: Mucosae of lungs
+and bronchi.
+Similar Species: Eucoleus boehmi of
+the nasal sinuses.
+Range: World.
+Clinical Signs: Wheezing.
+coughing, lack of weight gain.
+Chronic dry, nonproductive
+cough. Radiographs: diffuse
+peribronchial and interstitial
+infiltrate.
+Tx: No approved drug. After Tx,
+eggs may be passed in feces for
+several weeks after adults killed.
+Potential therapies include:
+Panacur (fenbendazole:
+50 mg/kg x 3 days) Extend
+treatment to a week or
+treat every other week for
+two months.
+Ivomec (ivermectin 1%
+injection formulation:
+0.2 mg/kg subcutaneously
+or PO, repeat in 2 weeks)
+20|
+Dog
+Copyright
+DOG
+EuCOLeuS boEHMi
+02005
+Capillarid of canine nasal sinuses. Life cycle direct or through
+earthworms paratenic hosts.
+Teton
+PPP= 1 month.
+Dx: Egg in feces is similar to Trichuris vuipis, but smaller (60 μm
+NewMedia
+long) with polar plugs often at some angle
+off the linear axis, and with fine pits on
+the surface. Egg contains an elongate
+oval embryo, while Eucoleus
+aerophilus eggs are in the single-
+celled stage when passed.
+Adult Habitat: Threaded through
+nasal mucosa.
+Similar Species: Eucoleus
+aerophilus of the bronchial
+epithelium.
+Range: World.
+Clinical Signs: Asymptomatic,
+but may have rhinitis (serous
+nasal discharge, sneezing).
+Tx: No approved drug. After Tx,
+eggs may be passed in feces for
+several weeks after adults killed.
+Potential therapies include:
+Panacur? (fenbendazole:
+50 mg/Kg x 3 days) Extend
+Tx to a week or treat every
+other week for 2 months.
+Ivomec (ivermectin 1% injection
+formulation: 0.2 mg/kg.
+subcutaneously or PO, repeat in
+2 weeks)
+21|
+Dog
+Copyright
+DOG
+FILAROIDES HIRTHI
+02005
+Dog parenchymal lung parasite. Most common in collies and toy
+breeds. Larvae in the feces and saliva/vomitus
+Teton
+directly infectious.
+PPP= 5 weeks.
+NewMedia
+Dx: Larvae (225 μm long) in feces using zinc-sulfate flotation;
+long esophagus (1/2 body length)
+and straight tip to tail.
+F osleri has a kink just
+before tail tip. Chest
+radiographs: diffuse
+interstitial pattern.
+Adult Habitat:
+Threaded through
+lung parenchyma.
+Similar Species:
+The five nematode
+larvae that can be
+found in dog feces
+include: Strongyloides
+stercorafis, Filaroides
+osferi, Filaroides hirthi,
+Crenosoma vulpis, and
+hatched Ancylostoma larvae.
+Range: World.
+Clinical Signs: Very heavy infections: coughing, dyspnea,
+possibly diarrhea, dehydration. Light infections: asymptomatic.
+Tx: No approved drug. Albendazole is the drug of choice, but
+the margin of safety is small and dogs should not be continued
+on this drug over the suggested 5 days.
+Valbazen? Cattle Dewormer Suspension (albendazole:
+11.36% suspension, 114 mg/ml): 25 mg/kg, P0, q12h for
+5 days (side effects: bone marrow suppression).
+Panacur? (fenbendazole: 50 mg/Kg, P0, q24h for 14 days,
+not curative in all cases)
+Ivomec? (ivermectin 1% injection formulation: 0.05 mg/kg,
+SQ, once, then repeat 2 weeks later)
+22|
+Dog
+Copyright
+DOG
+FilAroIdeS OSLerI
+02005
+Dog nodular lung parasite. Larvae in the feces and saliva/vomit
+are directly infectious.
+Teton
+PPP= 6 months.
+Dx: View nodules via bronchoscopy at bifurcation of trachea or
+NewMedia
+L1, in vomit, feces, or transtracheal wash fluid. Larvae (250 μm
+long) in feces using zinc-
+sulfate flotation; long
+esophagus (1/2 body
+length) and a
+distinctive kink
+before tail tip.
+F hirthi is straight
+tipped.
+Adult Habitat:
+Nodules in the
+terminal trachea
+and bronchi.
+Similar Species: The
+five nematode larvae
+that can be found in dog
+feces include: Strongyloides
+stercorafis, Filaroides osleri,
+Filaroides hirthi, Crenosoma vuipis,
+and hatched Ancylostoma larvae.
+Range: World.
+Clinical Signs: Exercise-induced dry cough, dyspnea.
+Tx: No approved drug. Remove nodules via bronchoscopy:
+oxfendazole (10 mg/kg, q24 hr for 28 days), prednisone (0.5
+mg/kg, q 24 hr for 5 days post-nodule removal).
+23|
+Dog
+Copyright
+DOG
+GIArdia CaNiS
+t02005Teton
+Flagellate trophozoites and cysts in feces of dogs acquired by
+ingestion of infectious cyst.
+PPP= 5 to 7 days.
+Dx: Trophozoites and cysts in feces.
+NewMedia
+Trophozoites more common in loose
+stools; tennis-racket or tear-drop shaped
+(10 to 17 um long). Two nuclei in the
+wider end, 8 trailing flagella, motile in
+saline preparations and have a gliding
+motion. Cysts most common in formed
+stools, ellipsoid, clear, contain 4 nuclei,
+(about 10 μm long).
+Habitat: Small intestinal mucosa (surface)
+Similar Species: Trophozoites must be distinguished from
+Pentatrichomonas. Cysts can be confused with sporocysts of
+Sarcocystis and oocysts of coccidia.
+Range: World.
+Clinical Signs: Usually asymptomatic,
+but can show small
+bowel diarrhea, often
+with high fat content.
+Potential Zoonosis: Giardia
+canis can be transmitted to humans,
+but humans typically acquire infections
+from other humans. Routine precautions
+should be taken when handling canine
+fecal matter.
+Tx: No approved drug. Benzimidazoles
+used most commonly now. Fenbendazole
+(Panacur) works at dosage approved for helminth
+removal.Drontal and Albendazole have been used.
+Panacur? Granules 22.2%
+Drontal? Plus (Treat daily at labeled dose for 3 days)
+Not for puppies <2 pounds or <3 weeks of age.
+Valbazen? Cattle Dewormer Suspension (albendazole:11.36%
+suspension, 114 mg/ml. Dose: 25 mg/kg, BID for 2 or 3
+days. Side effects: bone marrow suppression).
+Flagyl oral tablets (metronidazole: 25 mg/kg, PO, q12h for
+5 days—67% efficacious).
+Atabrine? oral tablets (quinacrine: 6.6 mg/kg, PO, q12h for 5
+days—100% effective but 50% side effects of lethargy, fever).
+24|
+Dog
+Copyright
+DOG
+HAMMONdIA HEYdoRNI
+t02005Teton
+Small-sized canine coccidian acquired by eating infected rabbits,
+sheep, or other non-murine mammals. No direct infection of
+dogs with oocysts.
+PPP= 7 to 8 days.
+NewMedia
+Dx: Oocysts in feces, clear, unsporulated, round
+to ovoid (10 to 13 μm long).
+Habitat: Small intestinal mucosa.
+Similar Species: Oocyst
+indistinguishable from that of
+Neospora caninum
+Range: World.
+Clinical Signs: Asymptomatic.
+Tx: No approved drug. Will probably
+respond to same treatments used for
+toxoplasmosis:
+Antirobe? capsules or oral
+solution, or Cleocin? injectable
+solution (clindamycin:
+10-20 mg/kg, PO, IM, q12h
+for 2 weeks).
+Tribrissen? tablets
+(sulfadiazine-
+trimethoprim:
+15 mg/kg, PO, q12h
+for 14 days).
+25|
+Dog
+Copyright
+DOG
+Hepatozoon AMerIcAnuM
+02005
+Hepatozoon of American dogs, transmitted by eating infected ticks.
+PPP= 1 to 3 weeks.
+Teton
+Dx: Gamonts in polymorphonuclear leukocytes or large
+schizonts reviewed in muscle biopsy. Dx based on typical clinical
+NewMedia
+and radiographic findings,
+markedly elevated
+neutrophilia, and finding
+organism on Bx of tissue.
+Habitat: PMNs, schizonts in
+skeletal muscle (very large
+cystic form).
+Similar Species: Hepatozoon
+canis in other parts of the
+world typically causes a
+more chronic form of the
+disease with schizonts in
+multiple organs.
+Range: World.
+Clinical Signs: Emaciation
+and fever (unresponsive to
+antibiotics). Severe
+neutrophilic leukocytosis and
+anemia with significant joint
+pain, myositis, and periosteal
+bone proliferation (can be seen on radiographs), reluctance
+to move.
+Tx: No single treatment effectively eliminates tissue stages, but
+trimethoprim-sulfadiazine, clindamycin, and pyrimethamine
+followed by long-term administration of decoquinate results in
+extended survival times and excellent quality of life. Relapses
+occur within 3 to 4 months. Palliative use of nonsteroidal anti-
+inflammatory agents (aspirin, phenylbutazone, flunixin) relieve
+discomfort. Glucocorticoids give temporary improvement but,
+longterm, exacerbate the disease.
+Tribrissen? tablets (sulfadiazine-trimethoprim: 15 mg/kg, PO,
+q12h for 2 weeks).
+Antirobe? capsules or oral solution (clindamycin: 10 mg/kg,
+PO, q8h for 2 weeks).
+Daraprim? 25 mg oral tablets (pyrimethamine; 0.25 mg/kg,
+PO, q24h for 2 weeks).
+26|
+Dog
+Copyright
+DOG
+HETEROBILHARZIA
+02005 Teton I
+AMERICANUM
+Canine blood fluke acquired by cercariae penetrating the skin.
+PPP= 2 months.
+NewMedia
+Dx: Eggs in feces relatively round, about 80 μm in diameter,
+brown, and containing developed
+miracidium. Eggs collected in
+water will hatch.
+Ultrasound may reveal
+fibrosis of the
+hepatic portal
+system.
+Adult Habitat:
+Mesenteric veins
+and hepatic
+portal veins.
+Similar Species:
+Dogs in SE Asia
+may be infected
+withSchistosoma
+japonicum.
+Range: Southeastern
+United States
+Clinical Signs: Diarrhea, fever, icterus, and anorexia. With liver
+cirrhosis, may have hypercalcemia, hyperglobulinemia, hypoal-
+buminemia, anemia, and eosinophilia.
+Tx: No approved drug. Praziquantel at high doses effective:
+Droncit? Canine Cestocide Tablets (praziquantel; 40-50
+mg/kg, PO, once, then repeated monthly, for several
+months until feces clear). Not for puppies <4 weeks.
+271
+Dog
+Copyright
+DOG
+ISOSPORA CANiS
+t 02005 Teton NewMedia
+Large-sized canine coccidian acquired by eating sporulated
+oocyst or infected rodent.
+PPP= 9 to 11 days.
+Dx: Oocyst in feces, clear wall, ovoid, 40 x 30 μm, containing
+single sporoblast when fresh.
+Habitat: Distal third of
+small intestine.
+Similar Species: Easy
+to differentiate
+from other canine
+coccidia by large
+oocyst.
+Range: World.
+Clinical Signs:
+Diarrhea. May have
+blood in feces.
+Tx: Once oocysts
+appear in feces, most of
+the damage from
+development in the mucosa has
+already occurred. Sulfonamides are the drugs of choice:
+Tribrissen? tablets (sulfadiazine-trimethoprim: 30 mg/kg, PO
+q12h for 5 days)
+Albon? (sulfadimethoxine: 50 mg/kg, PO, q24h for 1 to
+3 weeks)
+Primor (sulfadimethoxine-ormetoprim: 66 mg/kg, PO, q24h
+for 1 to 3 weeks)
+Corid? (amprolium: 1.25% oral crumbles, 9.6% solution, 20%
+soluble powder: 100 mg (pups < 10 kg) or 200 mg
+(pups >10 kg) total dose, P0, q24h for 1 to 2 weeks.) If
+added to food (bitches and pups) 250 - 300 mg total
+dose, 20% powder on food up to 2 weeks. If added to
+water, 30 ml of 9.6% solution to 3.8 L (1 gallon) of water
+with no access to other water sources for 2 weeks.
+Baycox? oral solution 2.5% (toltrazuril: 10 mg/kg, P0, once,
+or in medicated feeds for 2 to 6 days). Not for puppies
+<3 weeks.
+281
+Dog
+Copyright
+DOG
+ISoSPora OhiOenSIS.
+ 02005 Teton NewMedia
+I. buRroWSI, ANd
+I. NeorivoltA
+Middle-sized canine coccidians acquired by eating sporulated
+oocyst or infected rodent.
+PPP= 6 to 7 days.
+Dx: Oocyst in feces are clear, ellipsoid
+(17 to 27 μm x 16 to 23 μm).
+Habitat: Isospora ohioensis:
+schizonts in intestinal cells of
+the jejunum, gametocytes in
+epithelial cells of small
+intestine, cecum and colon.
+fsospora burrowsi: schizonts
+and gametocytes in lamina
+propria of the caudal 3/5ths of
+small intestine. Isospora
+neorivofta: lamina propria of the
+posterior 1/2 of small intestine.
+Similar Species: Cannot distinguish these 3 species using oocyst
+morphology. Need to separate from smaller organisms of
+potential zoonotic importance.
+Range: World.
+Clinical Signs: Diarrhea that can be hemorrhagic. Can cause
+death in heavy infections.
+Tx: Once oocysts appear in feces, most of the damage from
+development in the mucosa has already occurred. Sulfonamides
+are the drugs of choice:
+Tribrissen? tablets (sulfadiazine-trimethoprim: 30 mg/kg, PO,
+q12h for 5 days)
+Primor (sulfadimethoxine-ormetoprim (66 mg/kg, P0, q24h
+for 1-3 weeks)
+Corid? (amprolium: 1.25% oral crumbles, 9.6% solution, 20%
+< sdnd) 6w 0oz 1o (6y 0l > sdnd) 6w 0ol :apmod alqnjos
+10 kg) total dose, P0, q24h for 1 - 2 weeks.) If added to
+food (bitches and pups) 250 - 300 mg total dose, 20%
+powder on food up to 2 weeks. If added to water, 30 ml of
+9.6% solution to 3.8 L (1 gallon) of water with no access
+to other water sources for 2 weeks.
+Baycox? oral solution 2.5% (toltrazuril: 10 mg/kg, P0, once, or
+in medicated feeds for 2 - 6 days). Not for puppies <3 weeks.
+291
+Dog
+Lopyright
+DOG
+IXodeS ScApularis
+02005
+(Also called I. daMmini)
+Deer tick, lyme disease tick, black-legged tick.
+Teton
+Attach to skin from brush or scrub.
+Dx: Usually find adults, 3 to 7 mm, flat to bean
+NewMedia
+shaped when engorged. Shades of brown
+(scutum darker than body), characteristic preanal
+groove on all stages. Nymphs look like small
+females
+Habitat: Skin.
+Similar Species: Dermacentor variabilis.
+Rhipicephafussanguineus.
+Range: Eastern Us, other species in western
+states.
+Clinical Signs: Usually none, many can cause
+anemia.
+Potential Zoonosis: No direct transmission of
+pathogens without attachment.
+Tx: Removal - wash wound with alcohol.
+May want to submit engorged ticks to
+diagnostic lab to see if infected with lyme
+disease organism. Vector of lyme disease and
+various erhlichias.
+Spot Ons
+Frontline Top Spot for dogs and puppies
+(Fipronil)
+K9 Advantix(imidacloprid and
+permethrin) DO NOT USE ON CATS.
+AdamsTM spot-on Flea and Tick Control for
+Dogs (permethrin)
+Scratchex? 30 Day Flea and Tick Treatment (Permethrin)
+Vet-Kem? Ovitrol Plus? Spot On Flea and Tick Control for dogs and
+puppies (Permethrin and (S)-Methoprene)
+Collars
+AdamsT" Delta Force T" Tick Collar for dogs (Deltamethin)
+AdamsTm Dual Action Flea and Tick Collar for dogs
+(O-Isopropoxyphenyl methylcarbamate, 3-Phenooxybenzyl d-cis
+and trans 2,2,- dimethyl-3-(2-methylpropenyl)
+cyclopropanecarboxylate, N-Octyl bicylcoheptene diacarboximide)
+Bansect Flea & Tick Collars for dogs (Naled)
+Happy Jack? NovationT" Flea and Tick Collar for dogs (Deltamethrin)
+Hartz 2 in 1 Flea and Tick Collar for dogs and puppies
+(Tetrachlorvinphos)
+Longlife? 90 Day"" Brand Collar for dogs (Tetrachlorvinphos)
+Preventef Flea and Tick Collar for Dogs (Diazinon)
+Preventic? Collar for dogs (Amitraz)
+Scratchex? Flea and Tick Collars for dogs (Chlorpyrifos)
+Vet-Kem TickawayT Tick Collar for dogs (Propoxur)
+30|
+Dog
+Copyright
+DOG
+LeISHMANiA DONOVANI
+02005
+Visceral leishmanial organism of dog. Transmitted by sandfly bite,
+transplacentally.
+Teton
+PPP= Weeks to years.
+Dx: Amastigotes in macrophages
+NewMedia
+from skin scrapings or biopsies
+(aspirates) from nodes, bone
+marrow, or spleen. Serology: IFA
+and ELlsA. Both cross react with
+Trypanosoma cruzi.
+Habitat: Macrophages.
+Similar Species: Leishmania spp.
+that cause only the cutaneous form
+of the disease.
+Range: World. Dogs mainly seen
+infected in Mediterranean and
+Brazil, but recent reports of infections in United States (especially
+Foxhound population) indicate may have more regular
+transmission here than previously thought
+Clinical Signs: Lymphadenopathy, exercise intolerance, weight
+loss, fever, splenomegally, hyperkeratosis with excessive epidermal
+scale of muzzle,face and footpads—usually bilaterally
+symmetrical. Intradermal nodules and ulcers may occur in
+advanced cases. Long brittle nails. Terminally, renal failure
+(glomerulonephritis).
+Potential Zoonosis: Organisms could transfer from dog into
+wound on people but very low risk. Dogs considered reservoir of
+infection for vectors where vectors are present.
+Tx: No single drug or combinations totally curative. Design drug
+protocol around those available and owner compliance. Monitor
+renal function.
+Pentostam? (Na stibogluconate; 30-50 mg/kg of pentavalent
+antimony, IV or SQ, q24h for 4 weeks). Note: only available
+in United States from CDC.
+Glucantime (meglumine antimonite; 75 mg/kg, SQ, q24h
+for 3-4 weeks concurrently with allopurinol; 15-30 mg/kg,
+q12h for 12 months or longer).
+Allopurinol (10 to 30 mg/kg, g12h maintenance).
+Fungizone? (amphotericin B; 0.5 to 0.8 mg/kg diluted in
+10-60 ml of 5% dextrose, given over 30 seconds IV, q48h
+until total dose of 8-15 mg/kg). Subcutaneous route
+described: 0.5-0.8 mg/kg in 500 ml of 0.45% saline/2.5%
+dextrose, SQ to cumulative dose of 8-26 mg/kg)
+AmBisome (Liposome formulation of amphotericin B; 5 doses
+of 3 mg/kg).
+31
+Dog
+Copyright @2005 Teton NewMedia
+DOG
+Mesocestoides spp
+Tapeworm acquired by dogs eating infected amphibians,
+reptiles, birds, or small mammals.
+PPP= 3 weeks.
+Dx: Segment in feces (250 to 500 μm long); sometimes chains
+of segments are passed. Small segments easily missed, but
+identified by the eggs being
+clustered in a single ball in the
+middle (about 30 or s0 eggs in
+the central packet, each egg
+containing a larva that has 3 pairs
+of small hooklets).
+Adult Habitat: Small intestine.
+Similar Species: There are a
+number of Mesocestoides species
+that have been described that
+could all infect dogs including
+Mesocestoides kirbyi, M. latus,
+M. fineatus, M. fitteratus, and
+M. manteri. All are very similar
+and are probably found naturally
+in various wild species of canids
+or felids.
+Range: World.
+Clinical Signs: Typically
+asymptomatic. Occasionally,
+especially in the western United
+States, dogs develop severe and
+life-threatening infections with
+the larval stage within the peritoneal cavity which secondarily
+invades other organs such as the liver There does not appear to
+be any correlation between the development of the intestinal
+infection and the visceral infection.
+Tx: No approved drug. Praziquantel has been found efficacious
+on more than one occasion. it should be tried first at the labeled
+dose. Epsiprantel (Cestex) may also be effective.
+Drontal? Plus Tablets (not for puppies <3 weeks or 2 Ibs)
+Cestex? (not for puppies <7 weeks)
+Droncit? Canine Cestocide Tablets (not for puppies
+<4 weeks)
+Droncit? Injectable Cestocide for Dogs and Cats
+321
+Dog
+Copyright
+DOG
+NANOPHYETUS SALMINCOLA
+02005 Teton
+PPP= 5 to 8 days.
+Dx: Egg in feces. Dogs often present with fever and diarrhea
+due to the infection with Neorickketsia heiminthoeca
+NewMedia
+transmitted in this fluke. Egg is brown,
+operculate on one end, with a small
+blunt point on the other, (75 to 80
+μm long).
+Adult Habitat: Small intestine.
+Similar Species: A number of
+exotic flukes that rarely infect
+dogs could have eggs of
+similar morphology.
+Range: Northern Pacific rim.
+Clinical Signs: Infection
+with the fluke probably
+asymptomatic. Fluke
+transmits N. heiminthoeca
+which can produce a
+febrile illness.
+Tx: No approved drug.
+Removed by routine
+praziquantel and epsiprantel.
+Need to treat rickettsial infection
+with tetracyclines.
+Drontal? Plus Tablets (not for
+puppies < 3 weeks or 2 Ibs)
+Cestex? (not for puppies
+<7 weeks)
+Droncit? Canine Cestocide Tablets
+(not for puppies <4 weeks)
+Droncit? Injectable Cestocide for Dogs and Cats
+331
+Dog
+Copyright
+DOG
+NeoSPora CAninuM
+t02005Teton
+Small-sized canine coccidian acquired by eating infected beef.
+Dogs can be infected by ingestion of oocysts.
+PPP= 6 to 9 days.
+Dx: Oocysts in feces, clear, unsporulated, round to ovoid (10 to
+NewMedia
+13 μm long).
+Habitat: Small intestinal mucosa.
+Similar Species: Cannot distinguish
+0ocyst from that of Hammondia
+heydorni.
+Range: World.
+Clinical Signs: Asymptomatic. Dogs,
+especially if infected in utero, can
+develop severe disease, e.g., polyradi-
+culitis with flaccid paralysis. Due to
+disseminated neosporosis.
+Tx: No approved drug. Will probably
+respond to same treatments used for
+toxoplasmosis:
+Antirobe? capsules or oral solution, or
+Cleocin? injectable solution
+(clindamycin: 10-20 mg/kg,
+PO, IM, q12h for
+2 weeks).
+Tribrissen? tablets
+(sulfadiazine-
+trimethoprim:
+15 mg/kg, PO, q12h
+for 14 days).
+34|
+Dog
+Copyright
+DOG
+OTOdeCTeS CYnOTiS
+t02005Teton
+Ear mite of dogs acquired by direct contact.
+Dx: Mites in ear swabs or fecal examinations.
+Mites (about 400 μm long) have 8 rather
+long legs on a round body. Terminal stalks
+NewMedia
+on legs (l and Il of females, all legs of
+males, other leg terminate in setae) are
+short and unsegmented and end in
+sucker-like terminations. Eggs about
+200 μm long.
+Adult Habitat: Ear canal.
+Similar Species: None.
+Range: World.
+Clinical Signs: Otitis with head shaking,
+scratching at the ears, production of
+cerumen. Can lead to severe secondary
+ear infections.
+Tx: Several approved products:
+Acarexx TM
+Revolution TM
+Milbemite T
+Pyrethrin based
+products: (Aurimite,
+Cerumite,Eradimate
+Happy Jack Mitex TM
+Hartz Health Measures
+Ear Mite Treatment for
+Dogs, Mita-Clear T",
+Nolvamite?
+OtiCare-M Ear Mite
+Treatment,
+Otomite? Plus, Performer?
+Ear mite Killer, Pet Care Ear
+Mite Lotion & Repellent)
+Rotenone based
+products: (Ear Mite
+Solution, Ear Mitecide,
+Mitaplex-R )
+35|
+Dog
+Copyright
+DOG
+ParaGoniMUS KellicottI
+02005
+Lung fluke of the dog acquired by eating infected crayfish (or
+perhaps rodent hosts)
+Teton
+PPP= 5 to 7 weeks.
+NewMedia
+Dx: Eggs in feces are brown with seated operculum (or cap) and
+a small bump on abopercular end, 70
+to 100 μm long. Chest radiographs
+may show cystic lesions in lungs.
+Adult Habitat: Cysts in lungs.
+Similar Species: A number of
+species reported from dogs
+and cats around the world.
+Eggs must be distinguished
+from Spirometra and
+Diphyllobothrium.
+Range: P kelficotti in
+North America, but other
+species around the world.
+Clinical Signs: Mild
+coughing, to paroxysmal
+coughing, with dyspnea;
+can have pneumothorax.
+Tx: No approved drug.
+Praziquantel given at
+elevated dosages for several
+days is efficacious:
+Droncit? Canine Cestocide
+Tablets (praziquantel
+25 mg/kg every 8 hours for
+3 days). Not for puppies
+<4 weeks.
+36|
+Dog
+Copyright
+DOG
+PearsoneMa pliCa
+t02005Teton
+Capillarid of canine bladder from ingesting earthworms or
+possibly other paratenic hosts.
+PPP= 2 months.
+Dx: Egg in urine, like Trichuris vuipis, but smaller (60 μm long)
+NewMedia
+with large surface pits.
+Adult Habitat: Threaded through mucosa
+of urinary bladder wall.
+Similar Species: None.
+Range: World.
+Clinical Signs: Asymptomatic, but
+may have cystitis
+Tx: No approved drug. After Tx,
+eggs may be passed in urine for
+several weeks after adults killed.
+Potential therapy includes:
+Ivomec? (ivermectin
+1% injection formulation:
+0.2 mg/kg, subcutaneously
+or PO, repeat in 2 weeks)
+37|
+Dog
+Copyright
+DOG
+PENTATRICHOMONAS
+t02005Teton
+HOMINIS
+Trichomonad trophozoite of dogs; fecal-oral transmission.
+PPP= 1 week.
+Dx: Flagellated trophozoites (10 μm long) in saline fecal
+NewMedia
+preparation (destroyed
+typically by flotation media);
+move with a jerking forward
+motion. Can often visualize an
+undulating membrane on one
+caught in debris.
+Habitat: Lumen of cecum
+and colon.
+Similar Species: Need to
+distinguish trophozoite from
+that of Giardia.
+Range: World.
+Clinical Signs: Seen in dogs
+with diarrhea, probably not
+typically the cause.
+Potential Zoonosis: Could be
+directly transmissible from
+feces to human caregivers.
+Routine precautions should be
+taken when handling canine
+fecal matter.
+Tx: No approved drug. Metronidazole has been used:
+Flagyl® oral tablets (metronidazole: 66 mg/kg, P0, q24h for
+5 days. Note: At this dose, neurologic signs could develop.
+Do not dose for longer).
+381
+Dog
+Copyright
+DOG
+PHYSALOPTERA RARA
+02005
+Canine stomach worm. Adults attach to antrum of stomach and
+proximal duodenum. Intermediate host: coprophagous beetles.
+Teton
+PPP= 2 to 3 months.
+Dx: Egg (45 μm long) in feces slightly shorter than hookworm
+NewMedia
+eggs, very clear, with a relatively thick
+shell containing a larva.
+Adult Habitat: Stomach and
+proximal small intestine.
+Similar Species: Related
+species occur in other
+canines, cats, foxes,
+skunks, and raccoons.
+Range: World.
+Clinical Signs: Vomiting.
+Tx: No approved drug.
+Heartworm preventatives
+do not prevent infection.
+Treatments appearing
+efficacious:
+StrongidT (pyrantel
+pamoate: 5 mg/kg.
+PO, once; may repeat
+in 2 weeks)
+Panacur? (fenbendazole:
+50 mg/kg, P0, q24h, for
+3 days)
+391
+Dog
+Copyright
+DOG
+PnEuMONYSSOIdES CANInuM
+ 02005 Teton
+Nasal mite of dogs acquired by direct contact.
+Dx: Mites in nasal secretions or swab or fecal examinations.
+Mites over 1 mm long.Eggs about 200 μm long.
+Adult Habitat: Nasal sinuses.
+NewMedia
+Similar Species: None.
+Range: World.
+Clinical Signs: Sneezing.
+reverse sneezing, and
+epistaxis.
+Tx: No approved drug.
+Avermectins are efficacious.
+Selamectin may be
+effective.
+Interceptor (0.5 to
+1 mg/kg once/week
+for 3 weeks). Not for
+puppies <6 weeks or
+2 Ibs.
+Ivomec? (ivermectin:
+0.2 to 0.4 mg/kg.
+once/week for
+3 weeks)
+40|
+Dog
+Copyright
+DOG
+RHiPCEPHALuS SANGuINEUS
+02005
+Brown dog tick. Attach to skin from brush or scrub.
+Dx: Usually find adults, 3 to 7 mm, flat to bean
+Teton
+shaped when engorged. Shades of brown. Have
+eyes on edges of scutum. No preanal groove.
+NewMedia
+Nymphs look like small females
+Habitat: Skin.
+Similar Species: Dermacentor variabilis.
+Ixodes scapularis.
+Range: Southern Us, cannot stand freezing
+temperatures but will do well inside.
+Clinical Signs: Usually none, many can
+cause anemia.
+ Potential Zoonosis: No direct transfer of
+pathogens without attachment. All stages
+(larva, nymph, and adult) feed on the dog. Can
+infest kennels and households.Vector of
+canine babesiosis.
+Tx: Removal - wash wound with alcohol.
+Spot Ons
+Frontline? Top Spot for dogs and
+puppies (Fipronil)
+K9 Advantix "m (imidacloprid and
+permethrin) DO NOT USE ON CATS.
+AdamsTM spot-on Flea and Tick Control for
+Dogs (permethrin)
+Scratchex? 30 Day Flea and Tick Treatment
+(Permethrin)
+Vet-Kem? Ovitrol Plus Spot On? Flea and
+Tick Control for dogs and puppies
+(Permethrin and (S)-Methoprene)
+Collars
+AdamsT" Delta ForceT Tick Collar for dogs (Deltamethin)
+AdamsT Dual Action Flea and Tick Collar for dogs
+(O-Isopropoxyphenyl methylcarbamate, 3-Phenooxybenzyl d-cis
+and trans 2,2,- dimethyl-3-(2-methylpropenyl)
+cyclopropanecarboxylate, N-Octyl bicylcoheptene diacarboximide)
+Bansect Flea and Tick Collars for dogs (Naled)
+Happy Jack NovationTm Flea and Tick Collar for dogs
+(Deltamethrin)
+Hartz 2 in 1@ Flea and Tick Collar for dogs and puppies
+(Tetrachlorvinphos)
+Longlife 90 Day" Brand Collar for dogs (Tetrachlorvinphos)
+Preventefe Flea and Tick Collar for Dogs (Diazinon)
+Preventic Collar for dogs (Amitraz)
+Scratchex? Flea amd Tick Collars for dogs (Chlorpyrifos)
+Vet-Kem TickawayTM Tick Collar for dogs (Propoxur)
+41|
+Dog
+Copyright
+DOG
+SARCoCYSTiS SPp
+02005
+Sporocysts in feces of dogs that have ingested muscle tissue of
+intermediate host.
+Teton
+PPP= 3 days to 3 weeks.
+Dx: Clear, sporulated, ellipsoid sporocyst in feces (9 to 17 μm
+NewMedia
+long), sometimes seen paired within thin
+oocyst wall. Infectious when passed.
+Habitat: Small intestinal mucosa.
+Similar Species: This is a very
+large genus with many species
+infecting many different
+intermediate hosts. Sporocysts
+must be examined carefully to
+distinguish them from small
+oocysts and cysts of Giardia canis.
+Range: World.
+Clinical Signs: Asymptomatic.
+Potential Zoonosis: Disease has
+been reported in people ingesting
+sporocysts; infectious dog feces should
+be handled with routine caution.
+Tx: None.
+42|
+Dog
+Copyright
+DOG
+SARCOPTES SCAbIEI
+02005 Teton
+Scabies mite of dogs acquired by direct contact.
+Dx: Mites in skin scrapings or fecal examinations. Mites (about
+350 μm long) have 8 legs and large stocky body spines. Terminal
+stalks on legs (l and Il of females, and I, Il, and IV of males;
+NewMedia
+other legs terminate in
+setae) are long and
+unsegmented with sucker-
+like terminations. Egg
+about 200 μm long.
+Adult Habitat: Burrows
+in skin.
+Similar Species: None.
+Range: World.
+Clinical Signs: Pruritis,
+hyperkeratosis, alopecia,
+and self-inflicted trauma.
+Lesions typically begin on
+face or knees.
+Tx: Two approved
+products, but often
+treated with bovine
+ivermectin administered at
+200 μg/kg body weight.
+Mitaban?
+Revolution TM
+43|
+Dog
+Copyright
+DOG
+SPIROCErCA LUPI
+02005
+Esophageal worm of dog living in nodules at base of esophagus
+and acquired by eating infected beetles, chickens, or rodents.
+Teton
+PPP= 5 to 6 months.
+Dx: Thick-shelled egg in feces is narrow, clear, and small (35 μm
+NewMedia
+long, only as long as the egg of taeniid
+tapeworms) with a larva when passed in the
+feces. Egg most likely be confused with
+Physaloptera rara, but narrower.
+Adult Habitat: Nodules at the base of the
+esophagus and in the stomach.
+Similar Species: None.
+Range: Southern United States
+and tropics.
+Clinical Signs: Esophageal nodules can
+cause dysphagia and vomiting. Dog may
+become anorexic and emaciated.
+Migrating larvae cause aortic lesions with
+aneurysms/rupture.
+Fibrosarcomas/osteosarcomas of
+esophagus; T,-Ti, discospondilytis
+can occur.
+Tx: No approved drug. Sx to remove nodules
+has been successful.
+Sergeant's Worm-Away? for Dogs
+(piperzine citrate, 1570 mg [contents of
+about 11 capsules]/day for 3 days)
+Dectomax? Injectable solution (doramectin, 200 μg/kg 5Q,
+3 injections 2 weeks apart. May require another Tx with
+500 μg/kg P0 daily for 6 weeks)
+44|
+Dog
+Copyright
+DOG
+SpIroMeTrA ManSonSoIdeS
+t02005Teton
+Canine/feline tapeworm acquired by eating infected snakes,
+rodents, and other small vertebrates.
+PPP= As short as 10 days, and patency can be maintained for
+several years.
+NewMedia
+Dx: Egg (60 μm long) in feces is brown,
+elongate, with a small operculum (or cap)
+on one end, containing cells of the
+developing larva. Egg about the size
+of Ancylostoma caninum egg.
+Adult Habitat: Small intestine.
+Similar Species: There are a
+number of species of
+Spirometra around the world.
+Egg very similar to that of
+Diphyllobothrium fatum.
+Range: United States.
+Clinical Signs: May have
+diarrhea, emaciation, and/or
+vomiting. Clinical disease
+appears less commonin the
+dog than in the cat, perhaps
+because dogs are less often
+infected.
+Tx: No approved drug. Some report
+success treating with praziquantel at
+5 mg/kg, but others report the need for
+elevated doses. Epsiprantel (Cestex) may
+also be effective. Albendazole not effective.
+Drontal Plus Tablets (not for puppies <3 weeks or 2 Ibs)
+Cestex? (not for puppies <7 weeks)
+Droncit? Canine Cestocide Tablets (not for puppies
+<4 weeks)
+Droncit? Injectable Cestocide for Dogs and Cats
+If Tx is unsuccessful, try
+Droncit? Canine Cestocide Tablets (praziquantel 7.5 mg/kg x
+2 days or 25 mg/kg x 2 days) Not for puppies 4 weeks.
+45|
+Dog
+Copyright
+DOG
+STRONGYLOIDES
+02005Teton
+STERCORALIS
+Intestinal threadworm of dogs. Infection by larvae penetrating
+skin or transmammary. Larva in feces develops to infective stage
+outside dog. Can have significant environmental contamination,
+NewMedia
+especially in densely populated kennels.
+PPP= 2 weeks.
+Dx: Larva (380 μm long) in feces has large genital
+rudiment (longer than body is wide), esophagus with
+three distinct sections (corpus, isthmus, and bulb), and a
+long straight tail.
+Adult Habitat: Threaded through small
+intestinal mucosa.
+Similar Species: Five nematode larvae are found in dog
+feces: Strongyloides stercoralis, Filaroides osleri,
+Filaroides hirthi, Crenosoma vuipis, and sometimes
+hatched Ancylostoma larvae. Hatched larvae of
+Ancylostoma are longer, have a smaller genital
+primordium, and a marked buccal cavity. Larvae of
+Filaroides osleri and Crenosoma vulpis bare an
+esophagus that does not become thinner in the middle.
+Range: World.
+Clinical Signs: Usually asymptomatic. Mild diarrhea.
+Severe/fatal infections in young nursing puppies
+(transmammary transmission) or in dogs severely
+immunosuppressed. Severe infections mimic
+viral enteritis.
+Potential Zoonosis: Causes similar infection in
+human beings.
+Tx: No approved drug. Ivermectin approved to Tx
+humans in the United States. Can Tx bitch
+at parturition.
+Ivomec (ivermectin 1% injection
+formulation: 0.2 mg/kg, PO, once;
+repeat in 2 weeks)
+46|
+Dog
+Copyright
+DOG
+TAENiA PiSIFORMiS
+t02005Teton
+Rabbit tapeworm. Dogs acquire infection by eating
+rabbit viscera.
+PPP= 2 months.
+Dx: Find segments (500 to 1000 μm long) or
+NewMedia
+taeniid eggs (30 to 35 μm long) in feces.
+Segment recognized by rectangular
+appearance with singlelateral
+reproductive pore. Can
+tease apart segment to reveal
+typical eggs.
+Adult Habitat: Small intestine.
+Similar Species: Dogs are host
+to other Taenia spp. (7. ovis,
+T. mufticeps, etc.), but the
+segments can only be identified
+by experts and no way to tell
+eggs apart. Other tapeworm
+segments that can be found in dog
+feces: Dipyfidium caninum
+(reproductive pores on each side of
+segment), and Spirometra,
+Diphyllobothrium, and Mesocestoides which
+all have medial pore on each segment, so it
+appears as though they do not have a pore
+unless one looks quite carefully. The eggs of
+Taenia are indistinguishable from those
+of Echinococcus.
+Range: World.
+Clinical Signs: Assymptomatic.
+Tx: Effective approved products:
+Panacur? Granules 22.2%
+Drontal Plus Tablets (not for puppies
+<3 weeks or <2 Ibs)
+Cestex? (not for puppies <7 weeks)
+Droncit? Canine Cestocide Tablets (not
+for puppies <4 weeks)
+Droncit Injectable Cestocide for Dogs
+and Cats
+47|
+Dog
+Copyright
+DOG
+TOXASCARIS LEONiNA
+ 02005 Teton NewMedia
+Common roundworm of dogs (and cats). Typically not seen in
+puppies (no prenatal infection).
+PPP= 2 months.
+Dx: Egg (ovoid, 90 μm long) in feces has thick, smooth shell
+with the internal ovum appearing
+light in color. Eggs
+develop rapidly.
+Adult Habitat: Small
+intestine.
+Similar Species:
+Toxocara canis:
+similar size and
+shape, but has
+dimpled eggshell
+and a darker
+colored ovum.
+Range: World, but
+more common in
+cooler climates.
+Clinical Signs: Typically
+none. Rarely present in
+sufficient numbers to cause disease. Due to rapidly developing
+egg, can build up large numbers in kennels or zoos.
+Potential Zoonosis: Visceral larva migrans in children.
+Tx: Will work at the labeled dose even if not so indicated on the
+label. Large range of products used as per label instructions:
+Nemex TM
+Panacur? Granules 22.2%
+Drontal Plus (not for puppies <3 weeks or 2 Ibs)
+Heartgard? Plus (not for puppies <6 weeks)
+Interceptor? (not for puppies or <6 weeks or 2 Ibs)
+Sentinel m (not for puppies or <4 weeks or 2 Ibs)
+Sentinel " Flavor Tabs? (not for puppies <4 weeks or 11 Ibs)
+48|
+Dog
+Copyright @2005 Teton NewMedia
+DOG
+ToXoCara CaNiS
+Common canine roundworm. Puppies can acquire large
+numbers of worms in utero.
+PPP= Puppies begin shedding eggs as early as 3 to 4 weeks
+after birth.
+Dx: Eggs (spheroid, 90 μm long) in
+feces of dogs of all ages.
+Eggshell has a characteristic
+pitted surface.
+Adult Habitat: Small
+intestine.
+Similar Species: The egg
+of Toxascaris feonina is
+similar in size, but has a
+smooth shell and the
+ovum tends to be lighter
+in color.
+Range: World
+Clinical Signs: Pups:
+listless, inappetent, large
+abdomens, poor hair coat.
+Severe infections: constipation,
+diarrhea, and possibly abdominal
+pain (palpation). Large numbers of worms: intestinal blockage
+or perforation.
+Potential Zoonosis: Visceral and ocular larva migrans
+in children.
+Tx: Large number of products used as per label instructions:
+Nemex TM
+Panacur@ Granules 22.2%
+Drontal? Plus (not for puppies <3 weeks or 2 Ibs)
+Heartgard? Plus (not puppies <6 weeks)
+Interceptor (not for puppies <6 weeks or 2 Ibs)
+Sentinel ㎡" (not for puppies <4 weeks or 2 Ibs)
+Sentinel" Flavor Tabs? (not for puppies <4 weeks or 11 Ibs)
+49|
+Dog
+Copyright
+DOG
+TrICHodeCTES CANiS
+ 02005 Teton
+Dog louse, chewing. Direct contact with other infested dogs.
+Dx: Usually find adults, 1 to 2 mm, clinging to hairs. Elongate
+organism with wide head, often cream-colored to light brown.
+Wide head separates it from the less common sucking louse of
+NewMedia
+the dog (Linognathus setosus). Male
+and female similar in appearance.
+Egg with small cap (operculum).
+Habitat: Cling to hair. Eggs (gnits)
+are glued to hairs.
+Similar Species:
+Ctenocephalides felis.
+Range: World.
+Clinical Signs: Usually none,
+cause pruritus.
+Comment: Infestation usually
+indicates poor housing conditions
+or many dogs sharing the
+same space.
+Potential Zoonosis: None.
+Tx: Need to insure that animals are
+receiving adequate care at home.
+Advantage (lmidacloprid)
+Defend? Exspot Treatment
+for dogs
+Frontline (Fipronil)
+Revolution (Selamectin)
+50|
+Dog
+Copyright
+DOG
+TRICHURIS VULPIS
+02005
+Canine whipworm, common in dogs >3 months. Direct life cycle.
+PPP= 3 months.
+Teton
+e pue shnid selod yhm 'padeus-uowal 'umog s! saoay us bhg :xa
+smooth shell, and about as long (80 μm) as a Toxocara canis egg
+Ne
+ewMedia
+is wide. Capillarid eggs found in dog feces are
+smaller than Trichuris vuipis.
+Adult Habitat: Cecum, when present in
+numbers > 100 also in colon.
+Similar Species: None.
+Range: World. Most common in
+areas with clay soils.
+Clinical Signs: Large bowel diarrhea
+(large numbers) ± anemia. Reddish-
+brown feces in heavy infections.
+Tx: Different spectrum of drugs
+than for roundworms and
+hookworms. Active products are
+benzimidazoles and milbemycin
+oxime. Three heartworm preven-
+tative products (Filaribits Plus?,
+Interceptor?, and Sentinel ") have
+activity against whipworms. Drugs
+used at the labeled dose include:
+Panacur Granules 22.2%
+Drontal Plus (not for puppies
+<3 weeks or 2 Ibs)
+Interceptor? (not for puppies
+<6 weeks or 2 Ibs)
+Sentinel " (not for puppies <4 weeks
+or 2 Ibs)
+Sentinel m Flavor Tabs? (not for puppies
+<4 weeks or 11 Ibs)
+51|
+Dog
+Copyright 2005 Teton NewMedia
+DOG
+TrYpAnOSoMA CruZI
+American trypanosomiasis. Transmitted by reduviid bugs.
+PPP= 6 to 9 days.
+Dx: Small C-shaped, trypomastigote with large terminal
+kinetoplast in blood and amastigotes in biopsies.
+Habitat: Blood and
+tissues.
+Similar Species: The
+amastigote stage is
+indistinguishable from
+that of the Leishmania
+spp.although T cruzi
+infects a number of cell
+types where Leishmania
+only infects
+macrophages.
+Range: Americas. United
+States isolates are less
+pathogenic than South
+American isolates.
+Clinical Signs: Asymptomatic. Acute disease (2 to 3 weeks post-
+infection): acute cardiomyopathy (weakness, pale mucus
+membranes, anorexia, lymphadenopathy) or diffuse neurologic
+signs seen mainly in young dogs (must differentiate from
+distemper). Chronic disease (months to years post-infection) -
+dilated cardiomyopathy (weakness, exercise intolerance, ascites,
+ventricular arrhythmias).
+Potential Zoonosis: Infected blood potential source of infection
+to laboratory staff, veterinarians, animal technicians.
+Tx: Supportive treatment for cardiac manifestations of disease.
+Benznidazol removes organism from blood and may decrease
+severity of disease in chronic stage but unknown in dogs.
+Ragonil (benznidazol; 5 mg/kg, q12h for 30 days. Side
+effects include fever, nausea, GIT signs. Stop Tx until signs
+abate, then cut back to q24h). Note. Not available in the
+United States except from CDC.
+52|
+Dog
+Copyright
+DOG
+UnCInArIA STENOCEPhALA
+02005
+Canine hookworm of cooler climates. Not seen in puppies (no
+transmammary transmission).
+Teton
+PPP= 2 weeks.
+Dx: Elongate, ellipsoid egg (90 μm long) in feces has thin shell,
+NewMedia
+usually passed in the eight-celled stage,
+and larger than Ancylostoma spp.
+eggs. If eggs develop and hatch in
+feces L1 (290-360um), will have a
+short esophagus with a bulb at
+its base and a small genital
+primordium (compare with
+Strongyloides).
+Adult Habitat: Small intestine.
+Similar Species: Other
+hookworms have similar eggs,
+but Uncinaria is larger.
+Range: Focal areas of
+concentration in northern
+United States.
+Clinical Signs: Disease rare
+(least pathogenic of all canine
+hookworms) unless high build
+up of contamination occurs in
+kennel. Signs: anemia, melena,
+and diarrhea or constipation.
+Tx: Interceptor? and Sentinel'
+with the active ingredient
+milbemycin oxime are
+ineffective against Uncinaria
+stenocephala. Drugs used at
+the labeled dose include:
+Nemex TM
+Panacur Granules 22.2%
+Drontal Plus (not for puppies
+<3 weeks or 2 Ibs)
+Heartgard? Plus (not for puppies
+<6 weeks)
+531
+Dog
+This page intentionally left blank
+Copyright
+CAT
+AELUROSTRONGYLUS
+ 02005 Teton NewMedia
+A BSTRUSUS
+Feline lungworm obtained by ingestion of infected rodents
+and birds.
+PPP= 5 weeks
+Dx: Larva (375 μm long) in feces is very active, easy
+to recover in a Baermann funnel; has a distinctive
+dorsal spine on the tail. Larva easily recovered during
+transtracheal wash which also may contain elevated
+eosinophil numbers. Chest radiographs show diffuse
+poorly defined nodular densities- caudal lung fields
+most involved. Post-Tx radiographs look worse even
+when clinical signs improved.
+Adult Habitat: Threaded through lung parenchyma.
+Similar Species: Cats are commonly host to very few
+worms producing larvae in feces.
+Range: World.
+Clinical Signs: Usually asymptomatic. Signs can
+range from mild cough, to severe wheezing and
+respiratory distress. Must differentiate from
+asthma, heart worm, cardiac disease, and
+Paragonimus infection.
+Tx: Asymptomatic cases usually resolve without Tx.
+Corticosteroids (prednisone; 0.5 mg/kg, PO, q24h for
+5 days) will reduce severity of clinical signs. No
+approved drugs to kill adults, but effective
+treatments include:
+Ivomec? (ivermectin 1% injection formulation:
+0.4 mg/kg, SQ or PO, repeat in 2 weeks)
+Panacur (fenbendazole: 50 mg/kg, PO,
+q 24h, for 5 to 10 days)
+551
+Cat
+Copyright
+CAT
+ALARIa MARCIANAe
+ 02005 Teton NewMedia
+mammalian hosts.
+PPP= 3 weeks.
+Dx: Egg in feces large (110 to 130 μm long) and brown with
+contained cells of embryo.
+Will often appear clear on
+sugar flotation.
+Adult Habitat: Small
+intestine.
+Similar Species: There
+are a number of species
+of Alaria that could
+infect cats.
+Range: Species
+around the world.
+Clinical Signs:
+Asymptomatic.
+Tx: Praziquantel
+efficacious, also
+probably epsiprantel.
+Drontal? Tablets
+(not for kittens
+<4 weeks or
+1.5 Ibs)
+Cestex? (not for
+kittens <7 weeks)
+Droncit? Feline
+Cestocide Tablets (not
+for kittens <6 weeks)
+Droncit? Injectable
+Cestocide for Dogs and Cats
+(not for kittens <6 weeks)
+56|
+Cat
+Copyright
+CAT
+ANCYLOStoMA braZIlIEnSIS
+02005
+Canine/feline hookworm common along southern Atlantic
+seacoast and Caribbean. Transcutaneous infection and rodent
+Teton
+paratenic hosts.
+PPP= Kittens shed eggs as early as
+NewMedia
+2 weeks after birth
+(tra nsmammary infection).
+Dx: Elongate, ovoid (60 μm
+long), thin-shelled egg
+passed in feces in the
+8-celled stage, is indistin-
+guishable from Ancylostoma
+caninum.Ancylostoma eggs
+are smaller than Uncinaria
+eggs. If eggs develop and
+hatch in feces. L1 (300-400
+μm) will have a short
+esophagus with a bulb at its
+base and a small genital
+primordium (compare with
+Strongyloides).
+Adult Habitat: Small intestine.
+Similar Species: Ancylostoma
+caninum.
+Range: Southern Atlantic seacoast
+and Caribbean.
+Clinical Signs: Regenerative anemia. Ancylostoma
+braziliensis causes less blood loss than
+Ancylostoma tubaeforme, so is less likely to
+cause acute disease.
+Potential Zoonosis: Cutaneous larva migrans
+in the southeastern United States and
+Caribbean islands.
+Tx: Drugs to clear the adult infections at the
+labeled dose include:
+Drontal Tablets (not for kittens <4 weeks
+or 1.5 Ibs)
+Revolution T" (not for kittens <6 weeks)
+Task? Tabs (not for kittens <10 days or 1 Ib)
+Interceptor? Flavor Tabs (not for kittens <6 weeks
+or 1.5 Ibs)
+57|
+Cat
+CAT
+AnCylOStOMa TwbAEfoRMe
+02005
+Common feline hookworm (most pathogenic). Transcutaneous
+infection and uses rodent paratenic hosts.
+Teton
+PPP= Cats can shed eggs as early as
+2 weeks after birth
+NewMedia
+(tra nsmammary infection).
+Dx: Elongate ellipsoid (60 μm
+long), thin-shelled egg
+passed in feces in the
+8-celled stage, is indistin-
+guishable from
+Ancylostoma braziliensis.
+Ancylostoma eggs are
+smaller than Uncinaria
+eggs. If eggs develop and
+hatch in feces, L1 (300-400
+μm) will have a short
+esophagus with a bulb at its
+base and a small genital
+primordium (compare with
+Strongyloides). Found in feces.
+Adult Habitat: Small intestine.
+Similar Species: Ancylostoma
+braziliensis.
+Range: World.
+Clinical Signs: Regenerative anemia. Cats can
+develop severe acute blood-loss anemia and die
+from hookworm infections with
+this species.
+Tx: Drugs to clear the adult infections at the
+labeled dose include:
+Drontal Tablets (not for kittens <4 weeks
+or 1.5 Ibs)
+Revolution " (not for kittens <6 weeks)
+Task? Tabs (not for kittens <10 days
+or 1 Ib)
+Interceptor? Flavor Tabs (not for kittens
+<6 weeks or 1.5 Ibs)
+581
+e
+Copyright
+CAT
+AONCHOTHECA PuTORlI
+ 02005 Teton NewMedia
+Capillarid of feline stomach. Life cycle direct.
+PPP= 1 month.
+Dx: Egg in feces is similar to Trichuris vuipis, but smaller (60 μm
+long) and darker, with polar plugs often at some angle off the
+linear axis; deep striations on the surface.
+Adult Habitat: Threaded through
+gastric mucosa.
+Similar Species: Eucoleus aerophifus of
+the bronchial epithelium.
+Range: World.
+Clinical Signs: Asymptomatic, but
+may have anorexia, intermittent
+vomiting, and tarry feces. May have
+mild regenerative blood-loss anemia.
+Tx: No approved drug. After Tx,
+eggs may be passed in feces for
+several weeks after adults are killed.
+Potential therapies include:
+Panacur? (fenbendazole:
+50 mg/Kg, P0, q24h for
+3 days). Extend Tx to a week
+or treat every other week for
+2 months.
+Ivomec? (ivermectin 1%
+injection formulation:
+0.2 mg/kg, 5Q or PO,
+repeat in 2 weeks)
+591
+Cat
+Copyright
+CAT
+CHEYLETIELLA BLAKEI
+ 02005 Teton NewMedia
+Hair-clasping mite of cats acquired by direct contact.
+Dx: Mites in skin scrapings or fecal examinations. Mites (500 to
+600 μm long) have 8 legs and formidable palpal claws on the
+anterior end that are diagnostic. Eggs are large and glued to
+hairs; in feces have
+projections on one end
+(remnant of glue). Mites
+found in skin scrapings
+and fecal examinations of
+normal cats.
+Adult Habitat: Hair.
+Similar Species: None.
+Range: World.
+Clinical Signs: None or
+mild dermatitis.
+Potential Zoonosis:
+People handling cats with
+cheyletiellosis have
+developed transient
+lesions on arms.
+Tx: Can be treated with
+pyrethrin or permethrin
+dips, mists, or sprays.
+Defend? Just for Cats TM
+Insecticide
+(pyrethrin)
+Frontline? Top Spot? for cats and kittens (fipronil)
+60|
+Cat
+Copyright
+CAT
+CryPtOSporidiuM FeliS
+t02005Teton
+Tiny coccidian acquired by ingestion of an oocyst (infectious
+when passed).
+PPP= 5 to 7 days.
+Dx: Oocysts (5 μm in diameter) in feces easiest to see in
+NewMedia
+sugar flotation.
+Habitat: Small
+intestinal mucosa.
+Similar Species: None.
+Range: World.
+Clinical Signs: Usually
+asymptomatic. Cats
+with some other
+immunosuppressive
+disorder can develop
+severe diarrhea.
+Potential Zoonosis:
+Unclear how many
+humans infected with
+feline species, but
+must treat oocysts in
+cat feces as potentially
+infectious to humans.
+Tx: No approved drug. Paromomycin effective but use with care
+in young and cats with severe diarrhea. Tylosin reported
+effective in one cat.
+Humatin? (paromomycin: 125 - 165 mg/kg, P0, q12h for
+5 days). NOTE: if GiT inflamed, drug may be absorbed into
+blood and cause aminoglycoside nephropathy.
+Tylan? soluble powder (100 gm containers; ~3g/teaspoon)
+Dose for cat: 11 mg/kg. P0, q12h for 4 weeks.
+61|
+Cat
+Copyright
+CAT
+CTENOCEPHALIDES
+ FELIS
+02005
+Common cat and dog flea.
+Dx: Adult, 1 to 3 mm, dark
+Teton
+brown to black with combs
+(lines of thick bristles) on cheek
+and neck, laterally compressed,
+NewMedia
+six legs.
+Habitat: Haircoat. Eggs and
+larvae mainly in bedding.
+Similar Species: Trichodectes
+canis (dogs). Felicola subros-
+tratus (cats)
+Range: Worldwide.
+Clinical Signs: Usually none,
+many can cause anemia.
+Comments: Vector of
+Dipylidium caninum - flea
+infected as larva.
+Potential Zoonosis: Feces may
+transmit cat scratch fever.
+Tx: Removal followed by
+bathing. Very heavy infections
+may require transfusions.
+Injectable
+Program 6-month Injectable
+for cats (Lufenuron)
+Oral
+Capstar (Nytenpyram)
+Program Flavor Tabs (Lufenuron), Program? Suspension
+Spot Ons
+Advantage (lmidacloprid)
+Hartz® Advanced Care" Brand Once-a-Month " Flea and Tick
+Drops for cats and kittens (Phenothrin)
+Revolution (Selamectin)
+Collars
+Adams'" Dual Action Flea and Tick Collar for Cats
+(O-Isopropoxyphenyl methylcarbamate, 3-Phenooxybenzyl d-cis
+and trans 2,2,- dimethyl-3-{2-methylpropenyl) cyclopropaneca-
+boxylate, N-Octyl bicylcoheptene diacarboximide)
+Bansect? Flea and Tick Collars for cats (Naled)
+Hartz? 2 in 1? Flea and Tick Collar for cats and kittens
+(Tetrachlorvinphos)
+Longlifeg0 Day" Brand Collar for cats (Tetrachlorvinphos)
+Preventef@ Flea and Tick Collars for cats (Diazinon)
+Scratchex Flea and Tick Collar for cats (Chlorpyrifos)
+Vet-Kem? Breakaway Plus Flea and Tick Collars for cats
+(Propoxur and (S)-Methoprene)
+62|
+Cat
+Copyright
+CAT
+CYTAUXZoon FeLIS
+t02005Teton
+Small Babesia-like organism in cat RBCs; transmitted by tick bite
+PPP= 1 to 3 weeks.
+Dx: Trophozoites and gametocytes in RBCs; typically only 1% to
+NewMedia
+4% infected.
+Habitat: RBCs. Damage due to
+schizonts in histiocytes may be
+apparent on bone-marrow
+aspirates.
+Similar Species: None.
+Range: South eastern and south
+central United States.
+Clinical Signs: Cats usually are
+severely debilitated and typically
+have anemia, depression, high
+fever, dehydratation, icterus,
+splenomegaly, and
+hepatomegally. Cats often die
+within 9 to 15 days after
+infection. More recently a less
+virulent form of the disease has
+been recognized that appears to
+be less fatal and not all cats have
+clinical signs.
+Tx: Aggressively treat for DlC: isotonic fluids, heparin (150 U/kg,
+SQ, q8h), plasma. Imidocarb diproprionate has been found to
+produce a cure rate of 50%.
+Imizol (imidocarb dipropionate; 5 mg/kg, IM, twice,
+2 weeks apart)
+Berenil? (diminazine; 2 mg/kg, IM, twice, 7 days apart). Not
+available in United States.
+631
+Cat
+CAT
+DEMODEX CATI
+02005
+Follicular mite of cats acquired by direct contact.
+Dx: Mites in skin scraping or fecal examinations. Both mites and
+Teton NewMedia
+eggs are elongate. Mites are 180 to 220 μm long and have a
+characteristic elongate shape with very reduced legs on the
+anterior end.Eggs are also
+elongate and 70 μm long.
+Habitat: Hair follicles.
+Similar Species: None.
+Range: World.
+Clinical Signs: Often
+none. Mites are found in
+skin scrapings and fecal
+examinations of normal
+cats. Can have discrete
+focal areas of alopecia
+typically on the face-
+eyelids, chin, or neck.
+Also can have a
+generalized form with
+lesions on different parts
+of the body.
+Potential Zoonosis:
+People handling cats with
+demodectic mange have
+developed transient
+lesions on arms.
+Tx: Mitaban? (amitraz) can
+be used in cats at half the
+labeled dose (0.0125%) weekly. Often avermectins at increased
+dosages are used.
+Mitaban? (at one-half labeled doses)
+Interceptor? (2 mg/kg daily until condition clears; not for
+kittens <6 weeks or 1.5 Ibs)
+Ivomec? (ivermectin: 0.3 to 0.6 mg/kg, daily until condition
+clears - could take years).
+64|
+Cat
+Copyright
+CAT
+DerMACEnTOr VarIabilIS
+02005
+American dog tick. Attach to skin from brush or scrub.
+Dx: Usually find adults, 3 to 15 mm, flat to
+Teton
+bean shaped when engorged. Scutum is
+ornamented with patterns of white on a
+NewMedia
+dark background. Have eyes on edges
+of scutum. No preanal groove.
+Nymphs look like small females.
+Habitat: Skin.
+Similar Species: Rhipicephafus
+sanguineus. Ixodes scapufaris.
+Range: Eastern US, western states
+have Dermacentor andersoni
+Clinical Signs: Usually none; may
+cause anemia.
+Comment: Vector of feline
+Cytauxzoonosis.
+Potential Zoonosis: No direct transfer of
+pathogens without attachment.
+Tx: Removal - wash wound with alcohol.
+Spot Ons
+Hartz? Advanced Care "" Brand
+Once-a-Month T Flea and Tick
+Drops for cats and kittens
+(Phenothrin)
+Collars
+Adams 'm Dual Action Flea and Tick
+Collar for Cats (O-lsopropoxyphenyl
+methylcarbamate,
+3-Phenooxybenzyl d-cis and trans
+2,2,- dimethyl-3-(2-methylpropenyl)
+cyclopropanecarboxylate, N-Octyl
+bicylcoheptene diacarboximide)
+Bansect? Flea and Tick Collars for cats (Naled)
+Hartz? 2 in 1? Flea and Tick Collar for cats and
+kittens (Tetrachlorvinphos)
+Longlife 90 Day'" Brand Collar for cats (Tetrachlorvinphos)
+Preventef? Flea and Tick Collars for cats (Diazinon)
+Scratchex? Flea and Tick Collar for cats (Chlorpyrifos)
+Vet-Kem? Breakaway? Plus Flea and Tick Collars for cats
+(Propoxur and (S)-Methoprene)
+65|
+Cat
+Copyright
+CAT
+DIPHYLLOBOTHRIUM LATUM
+t02005Teton
+Feline broadfish tapeworm acquired by eating infected
+freshwater fish.
+PPP= 5 to 6 weeks.
+Dx: Eggs (60 μm long) in feces about the size of Ancylostoma
+NewMedia
+tubaeforme egg,brown,elongate,
+with a small operculum on one
+end containing cells of the
+developing larva.
+Adult Habitat: Small
+intestine.
+Similar Species: Some
+related exotic species
+around the world
+capable of infecting cats.
+Egg very similar to that
+of Spirometra spp.
+Range: Northern
+freshwater lakes.
+Clinical Signs:
+Asymptomatic.
+Tx: No approved drug.
+Praziquantel (35 mg/kg,
+PO, once) reported
+effective.
+Drontal Tablets (18.2 mg
+praziquantel/tablet; not for
+kittens <4 weeks or 1.5 Ibs)
+Droncit? Feline Cestocide Tablets
+(23 mg praziquantel/tablet; not for
+kittens <6 weeks)
+Droncit? Injectable Cestocide for Dogs and Cats (56.8 mg
+praziquantel/ml; not for kittens <6 weeks)
+661
+Cat
+Copyright
+CAT
+DIPYLIdIUM CANINUM
+ 02005 Teton NewMedia
+Feline (canine) flea tapeworm acquired by eating an
+infected flea.
+PPP= 3 weeks.
+Dx: Tapeworm segments (250 to
+1000 μm long) or egg balls (2 to 30
+eggs/ball) in feces. Segments:
+recognized by paired lateral
+reproductive openings containing
+egg balls. Egg balls vary in size
+from a Toxocara eggs (if only
+contains a few) to 2 or 3 times
+the diameter of a Toxocara egg (if
+contains around 30 eggs).
+Adult Habitat: Small intestine.
+Similar Species: Other tapeworm
+segments found in cat feces:
+Taenia taeniaeformis (reproductive
+pores on only one side), Spirometra
+(medial pore), and Mesocestoides
+(parauterine organ).
+Range: World.
+Clinical Signs: Asymptomatic. Motile segments
+appear on perianal fur of cat.
+Potential Zoonosis: Occasionally infection
+occurs in children who ingest an infected flea.
+Usually asymptomatic, but motile segments
+may appear in diapers.
+Tx: Approved drugs for Dipylidium caninum are
+formulated with either praziquantel or
+epsiprantel and are very efficacious as labeled.
+Drontal Tablets (not for kittens <4 weeks
+or 1.5 Ibs)
+Cestex? (not for kittens <7 weeks)
+Droncit Feline Cestocide Tablets (not for
+kittens < 6 weeks)
+Droncit Injectable Cestocide for dogs and
+cats (not for kittens <6 weeks)
+67|
+Cat
+Copyright
+CAT
+ECHinococcus
+ 02005 Teton NewMedia
+MYLTIlOCYLARIS
+Very small tapeworm of dogs, rarely cats, acquired by eating
+infected small rodents.
+PPP= 3 weeks.
+Dx: Eggs (30 to 35 μm long) in
+feces. If a purgative given
+(dangerous because eggs
+infectious to man), adult
+worms (2 mm) may be
+found in feces.
+Adult Habitat: Small
+intestine.
+Similar Species: Eggs
+of Echinococcus are
+indistinguishable from
+those of Taenia.
+Range: Very rare in most
+of the United States.
+Found in Alaska, across
+Canada, and in the wild
+canid population
+the central states of the
+United States.
+Clinical Signs: Asymptomatic.
+Potential Zoonosis: Alveolar hydatid disease in humans who
+ingest the egg. The egg is infectious when passed. The
+human disease is 1oo% fatal without treatment.
+Tx: Drug of choice: praziquantel (100% efficacious).
+Drontal? Tablets (not for kittens <4 weeks or 1.5 Ibs)
+Droncit? Feline Cestocide Tablets (not for kittens <6 weeks)
+Droncit? Injectable Cestocide for Dogs and Cats
+(not for kittens <6 weeks)
+681
+Cat
+Copyright
+CAT
+EuCoLEuS AeroPhilUS
+ 02005 Teton NewMedia
+Common respiratory capillarid of cats. Life cycle direct or
+possibly through earthworms.
+PPP= 3 to 5 weeks.
+Dx: Egg in feces is similar to Trichuris vuipis, but smaller (60 μm
+long), with polar plugs often at some angle
+off the linear axis of the egg. Surface has a
+fine net-like ornamentation.
+Adult Habitat: Mucosae of lungs
+and bronchi.
+Similar Species: Eucoleus boehmi of
+the nasal sinuses.
+Range: World.
+Clinical Signs: Wheezing.
+coughing, lack of weight gain.
+Chronic dry nonproductive cough.
+Radiographs show diffuse
+peribronchial and interstitial
+infiltrate.
+Tx: No approved drug. After Tx,
+eggs may be passed in feces for
+several weeks after adults are
+killed. Potential therapies include:
+Panacur? (fenbendazole:
+50 mg/kg, P0, q24h for
+3 days). Extend treatment to a
+week or treat every other week
+for 2 months.
+Ivomec? (ivermectin 1% injection
+formulation: 0.2 mg/kg.
+SQ or PO, repeat in 2 weeks)
+169
+Cat
+Copyright
+CAT
+FeLICOlA SUbrOStrATUS
+ 02005 Teton
+Cat louse chewing. Direct contact with other infested cats
+Dx: Usually find adults 1 to 2 mm clinging to hairs. Elongate
+organism with wide triangular head, often cream-colored to
+light brown. Male and female similar in appearance. Eggs with a
+NewMedia
+small cap (operculum).
+Habitat: Cling to hair. Eggs (gnits)
+are glued to hairs.
+Similar Species:
+Ctenocephalides felis.
+Range: World.
+Clinical Signs: Usually none,
+cause pruritus.
+Potential Zoonosis: None.
+Comment: Only louse of cats.
+Tx: Need to insure that animals
+receiving adequate care at home.
+Advantage (lmidacloprid)
+Frontline (Fipronil)
+Revolution (Selamectin)
+Flea, Tick, and Lice Shampoo
+(Pyrethrins, Piperonyl
+Butoxide, N-Octyl
+bicycloheptene dicarboximide)
+70|
+Cat
+Copyright
+CAT
+GiArdia FeliS
+t02005TetonNewMedia
+Flagellate trophozoites and cysts in feces of cats
+acquired by ingestion of infectious cyst.
+PPP= 5 to 7 days.
+Dx: Trophozoites and cysts in feces.
+Trophozoites more common in loose
+stools; tennis-racket or tear-drop
+shaped (10 to 17 μm long), two nuclei
+in the wider end, 8 trailing flagella,
+motile in saline preparations and have
+a gliding motion. Cysts most common
+in formed stools; ellipsoid, clear, and
+contain 4 nuclei; (about 10 μm long).
+Habitat: Small intestinal mucosa (surface).
+Similar Species: Trophozoites must be distin-
+guished from Pentatrichomonas. Cysts can
+be confused with sporocysts of Sarcocystis
+and oocysts of coccidian.
+Range: World.
+Clinical Signs: Usually
+asymptomatic, but can show
+small bowel diarrhea, often with
+high fat content.
+Potential Zoonosis: Giardia felis can be
+transmitted to humans, but humans typically
+acquire infections from other humans.
+Routine precautions should be taken when
+handling feline fecal matter.
+Tx: No approved drug. Benzimidazoles used most
+commonly now. Fenbendazole (Panacur) works at labeled
+dosage. Drontal and Albendazole have been used.
+Panacur?Granules 22.2%
+Valbazen? Cattle Dewormer Suspension (albendazole:11.36%
+suspension, 114 mg/ml. Dose: 25 mg/kg, BID for 5 days.
+Side effects: bone marrow suppression).
+Flagyl? oral tablets (metronidazole: 25 mg/kg, P0, q12h for
+5 days-67% efficacious).
+Atabrine? oral tablets (quinacrine: 6.6 mg/kg, PO, q12h for 5
+days-100% effective but 50% side effects of lethargy, fever).
+Furoxone? tablets or oral liquid (furazolidone; 4 mg/kg, PO,
+q12h for 5 to 10 days)
+71|
+e
+Copyright @2005 Teton NewMedia
+CAT
+HAMMoNDIA HAMMONdI
+Small-sized feline coccidian acquired by eating infected mice,
+goats, deer, or other mammals.
+PPP= 5 to 6 days.
+Dx: 0ocysts (10 to 13 μm long) in feces,
+clear, unsporulated, spheroid.
+Habitat: Small intestinal mucosa.
+Similar Species: Oocysts
+indistinguishable from those of
+Toxoplasma gondli.
+Range: World.
+Clinical Signs: Asymptomatic.
+Tx: None.
+721
+e
+Cop
+CAT
+ISOSPoRA FeLIS
+02005
+Large-sized feline coccidian acquired by eating sporulated oocyst
+or infected rodent.
+Teton
+PPP= 7 to 11 days.
+Dx: Oocyst (40 x 30 μm) in feces, clear wall, ovoid, containing
+NewMedia
+single sporoblast
+when fresh.
+Habitat: lleum.
+Similar Species:
+Easy to differ-
+entiate from
+other feline
+coccidia by
+large oocyst.
+Range:
+World.
+Clinical Signs:
+Diarrhea to soft
+mucoid feces. Very
+young kittens may have
+signs of enteritis (profuse
+diarrhea), emaciation, and sometimes death.
+Tx: Once oocysts appear in feces, most of the damage from
+development in the mucosa has already occurred. Sulfonamides
+are the drugs of choice:
+Tribrissen? tablets (sulfadiazine-trimethoprim; 15 to 50 mg
+sulfadiazine plus 5 to 10 mg trimethoprim/kg, P0, q12h
+for 6 days; cats over 4 kg)
+Albon? (sulfadimethoxine; 50 mg/kg, PO, once, then
+27.5 mg/kg, P0, q24h until signs disappear)
+Primor (sulfadimethoxine-ormetoprim; 55 mg
+sulfadimethozine plus 11 mg ormethoprim/kg, PO, q24h
+for up to 23 days)
+Corid? 1.25% oral crumbles, 9.6% solution, 20% soluble
+powder (amprolium; 300 to 400 mg/kg, P0, q24h for
+5 days; 110 to 220 mg/kg for 7 to 12 days; 20 to
+40 mg/kg for 10 days)
+Furoxone? tablets or oral liquid (furazolidone; 4 mg/kg, PO,
+q12h for 5 to 10 days)
+73|
+Cat
+Copyright
+CAT
+ISoSPOrA rIVOLTA
+t 02005 Teton NewMedia
+Middle-sized feline coccidian acquired by eating sporulated
+oocyst or infected rodent.
+PPP= 4 to 7 days.
+Dx: 0ocysts (18 to 28 μm x 16 to 23 μm) in feces are clear
+and spheroid.
+Habitat: Mucosa of
+small intestine.
+Similar Species: Need to
+separate from smaller
+organisms of potential
+zoonotic importance.
+Range: World.
+Clinical Signs:
+Pathogenic causing
+diarrhea in newborn
+but not weaned
+kittens.
+Tx: Once oocysts
+appear in feces, most of
+the damage from
+development in the mucosa
+has already occurred.
+Sulfonamides are the drugs
+of choice:
+Tribrissen? tablets (sulfadiazine-trimethoprim; 15 to 50 mg
+sulfadiazine plus 5 to 10 mg trimethoprim/kg, P0, q12h
+for 6 days; cats over 4 kg)
+Albon? (sulfadimethoxine; 50 mg/kg, PO, once, then
+27.5 mg/kg, P0, q24h until signs disappear)
+Primor (sulfadimethoxine-ormetoprim; 55 mg
+sulfadimethozine plus 11 mg ormethoprim/kg, PO, q24h
+for up to 23 days)
+Corid? 1.25% oral crumbles, 9.6% solution, 20% soluble
+powder (amprolium; 300 to 400 mg/kg, P0, q24h for
+0t 04 07 :s4ep 71 04 / 10, 6y/6w 077 04 011 :s4ep 5
+mg/kg for 10 days)
+Furoxone? tablets or oral liquid (furazolidone; 4 mg/kg, PO,
+q12h for 5 to 10 days)
+74|
+Cat
+Copyright
+CAT
+IXodeS ScApulariS
+02005
+(Also Called I. damminl)
+Deer tick, lyme disease tick, black-legged tick. Attach to skin from
+Teton
+brush or scrub.
+Dx: Usually find adults, 3 to 7 mm,
+flat to bean shaped when engorged.
+NewMedia
+Shades of brown (scutum darker than
+body), characteristic preanal groove
+on all stages. Nymphs look like
+small females.
+Habitat: Skin.
+Similar Species: Dermacentor
+variabilis. Rhipicephafus
+sanguineus.
+Range: Eastern US, other species
+in western states.
+Clinical Signs: Usually none,
+many can cause anemia.
+Comment: May want to submit
+engorged ticks to diagnosticlab to
+see if infected with lyme disease organism.
+Vector of lyme disease and various erhlichias.
+Potential Zoonosis: No direct transmission
+of pathogens without attachment.
+Tx: Removal - wash wound with alcohol.
+Spot Ons
+Hartz Advanced Care'" Brand Once-
+a-Month i Flea and Tick Drops for
+cats and kittens (Phenothrin)
+Collars
+Adams'" Dual Action Flea and Tick
+Collar for Cats (O-lsopropoxyphenyl
+methylcarbamate, 3-Phenooxybenzyl
+d-cis and trans 2,2,- dimethyl-3-
+(2-methylpropenyl)
+cyclopropanecarboxylate,N-Octyl
+bicylcoheptene diacarboximide)
+Bansect Flea and Tick Collars for cats (Naled)
+Hartz 2 in 1@ Flea and Tick Collar for cats and kittens
+(Tetrachlorvinphos)
+Longlifeg0 Day" Brand Collar for cats (Tetrachlorvinphos)
+Preventef? Flea and Tick Collars for cats (Diazinon)
+Scratchex Flea and Tick Collar for cats (Chlorpyrifos)
+Vet-Kem? Breakaway Plus Flea and Tick Collars for cats
+(Propoxur and (S)-Methoprene)
+75|
+Cat
+Copyright
+CAT
+LEISHMANiA SPP
+t 02005 Teton NewMedia
+(CuTANEOUS)
+Cutaneous leishmanial organisms (several different species) of
+thecat.Transmitted bysandflybite.
+PPP= Weeks to months.
+Dx: Amastigotes in
+macrophages from
+impression smears.
+Habitat:
+Macrophages.
+Similar Species:
+None.
+Range: Mainly seen in
+cats located in central
+western United States,
+e.g., Oklahoma
+and Texas.
+Clinical Signs:
+Lesions often on ears
+and nose.
+Tx: Surgical removal
+of lesions on ears has
+been curative. There
+have been no attempts at treatment with typical
+anti-leishmanial agents.
+76|
+Cat
+Copyright C2005 Teton NewMedia
+CAT
+LYnXACArUS rAdoVSKYI
+Hair-clasping mite of cats acquired by direct contact
+Dx: Mites seen on skin or fecal examinations. Mites (about
+500 μm long) are laterally compressed with a long abdomen.
+Eggs (about 200 μm long) typically glued to hairs.
+Adult Habitat: Clasping to hairs typically in the tail region.
+Similar Species: None.
+Range: World.
+Clinical Signs: Mild dermatitis
+Tx: No approved products, but these should work:
+Defend? Just for Cats " Insecticide (pyrethrin)
+Frontline? Top Spot? for cats and kittens (fipronil)
+Revolution TM
+771
+Cat
+Copyright
+CAT
+MesoCeStOIdeS SPp
+t02005Teton
+Tapeworm acquired by cats eating infected amphibians, reptiles,
+birds, or small mammals.
+PPP= 3 weeks.
+Dx: Segment in feces (250 to 500 μm long); sometimes chains
+NewMedia
+of segments are passed.
+Small segments easily
+missed, but identified by the
+eggs being clustered in a
+single ball in the middle
+(about 30 or s0 eggs in the
+central packet. Each egg
+containing a larva that has 3
+pairs of small hooklets).
+Found in feces.
+Adult Habitat: Small
+intestine.
+Similar Species:
+Mesocestoides spp. described
+that could infect cats include
+Mesocestoides kirbyi,
+M. latus, M. lineatus,
+M. litteratus, and M. manteri.
+All are very similar and are
+probably found naturally in
+various wild canids or felids.
+Range: World.
+Clinical Signs:
+Asymptomatic
+Tx: No approved drug. Praziquantel has been efficacious on
+more than one occasion at labeled dose. Epsiprantel (Cestex)
+may also be effective.
+Drontal? Tablets (not for kittens <4 weeks or 1.5 Ibs)
+Cestex? (not for kittens <7 weeks)
+Droncit Feline Cestocide Tablets (not for kittens <6 weeks)
+Droncit? Injectable Cestocide for dogs and cats (not for
+kittens <6 weeks)
+781
+Cat
+Copyright
+CAT
+NOTOEDRES CATI
+02005 Teton NewMedia
+Mange mite of cats acquired by direct contact.
+Dx: Mites in skin scrapings or fecal examinations. Mites (about
+200 to 250 μm long) have 8 legs and large stocky body spines.
+Terminal stalks on legs (l and Il of females, and I, Il, and IV of
+males; other legs
+terminate in setae)
+are long and
+unsegmented with
+sucker-like
+terminations. Egg
+about 200 μm long.
+Adult Habitat:
+Burrows in skin.
+Similar Species:
+None.
+Range: World.
+Clinical Signs:
+Pruritis, hyperker-
+atosis, alopecia, and
+self-inflicted trauma.
+Lesions typically
+begin on face
+or knees.
+Tx: Avermectins
+probably the drug of
+choice.Revolution at
+labeled dose
+probably very good for this infection:
+Ivomec? (ivermectin 1% injection formulation: 0.2 mg/kg,
+SQ or PO once, repeat in 2 weeks)
+Revolution TM
+791
+Cat
+Copyright @2005 Teton NewMedia
+CAT
+OTODECTES CYNOTIS
+Ear mite of cats acquired by direct contact.
+Dx: Mites in ear swabs or fecal examinations
+Mites (about 400 μm long) have 8 rather
+long legs on a round body. Terminal stalks
+on legs (l and Il of females, all legs of
+males; other legs terminate in setae) are
+short and unsegmented and end in
+sucker-like terminations. Eggs about
+200 μm long.
+Adult Habitat: Ear canal.
+Similar Species: None.
+Range: World.
+Clinical Signs: Otitis with head shaking.
+scratching at the ears, and production of
+cerumen. Can lead to severe secondary
+ear infections.
+Tx: Several approved products work well
+in cats:
+AcarexxTM
+Revolution TM
+Milbemite TM
+801
+Cat
+Copyright
+CAT
+PArAGoniMUS KELlICotTI
+02005 Teton I
+Lung fluke of the cat acquired by eating infected crayfish or
+rodent hosts.
+PPP= 5 to 7 weeks.
+Dx: Eggs (70 to 100 μm long) in feces or tracheal wash fluid are
+NewMedia
+brown with seated operculum and a
+small bump on other end. Chest
+radiographs may show air-filled
+cysts or tissue densities (up to
+1 cm) usually in the
+caudodorsal lung fields.
+Tracheal wash may contain
+eggs. Elevated eosinophil
+numbers.
+Adult Habitat: Cysts
+in lungs.
+Similar Species: A
+number of species
+reported from dogs and
+cats around the world.
+Eggs must be distin-
+guished from Spirometra
+and Diphyllobothrium.
+Range: P kellicotti in North
+America, but other species
+around the world.
+Clinical Signs: Usually
+asymptomatic. Main sign is
+coughing (mild to paroxysmal).
+Pneumothorax can occur if cysts
+rupture resulting in respiratory
+distress. Must differentiate from asthma,
+heartworm, cardiac disease, and
+Aefurostrongyfus infection.
+Tx: No approved drug. Praziquantel given at elevated dosages
+for several days is efficacious:
+Droncit? Feline Cestocide Tablets (praziquantel; 25 mg/kg,
+PO, q8h for 3 days). Not for kittens <6 weeks.
+81|
+Cat
+Copyright
+CAT
+PEARSoNEMA FELISCATI
+02005 Teton NewMedia
+Capillarid of feline bladder from ingesting eggs or possibly
+some undetermined paratenic host.
+PPP= 2 months.
+Dx: Egg in urine like Trichuris vulpis, but smaller (60 μm long)
+with large surface pits.
+Adult Habitat: Threaded through
+mucosa of urinary bladder wall.
+Similar Species: None.
+Range: World.
+Clinical Signs: Asymptomatic. Very
+rarely, cats may present with
+post-renal obstruction.
+Tx: No approved drug. After Tx,
+eggs may be passed in urine for
+several weeks after adults are
+killed. Potential therapy includes:
+Ivomec? (ivermectin 1%
+injection formulation:
+0.2 mg/kg, SQ or PO, repeat
+in 2 weeks)
+821
+Cat
+Copyright
+CAT
+PeNTATRICHOMOnAS
+t2005TetonNewMedia
+HOMINiS
+Trichomonad trophozoite of cats; fecal-oral transmission.
+PPP= About 1 week.
+Dx: Flagellated trophozoites (10 μm long) in saline fecal
+preparation (destroyed
+typically by flotation
+media). Move with a
+jerking forward motion.
+Can often visualize an
+undulating membrane on
+one caught in debris.
+Habitat: Lumen of cecum
+and colon.
+Similar Species: Need to
+distinguish trophozoite
+from that of Giardia.
+Range: World.
+Clinical Signs: Seen in cats
+with diarrhea; probably not
+typically the cause.
+Potential Zoonosis: Could
+be directly transmissible
+from feces to human
+caregivers. Routine
+precautions should be taken when handling feline fecal matter.
+Tx: No approved drug. Metronidazole has been used;
+Flagyl® oral tablets (metronidazole: 66 mg/kg, PO, q24h for
+5 days).
+831
+Cat
+CAT
+PHYSALOPTERA
+02005
+PRAEPUTIALIS
+Feline stomach worm. Adults attach to antrum of stomach and
+ Teton NewMedia
+proximal duodenum. Intermediate host: coprophagous beetles.
+PPP= 2 to 3 months.
+Dx: Egg (45 μm long) slightly
+shorter than hookworm eggs,
+very clear, with a relatively
+thick shell containing a
+larva. Found in feces or in
+gastric lavage fluid at
+endoscopy. Lesions may
+be seen with gastric
+endoscopy.
+Adult Habitat:
+Stomach and proximal
+small intestine.
+Similar Species:
+Physafoptera rara
+(adults have no
+preputial-like sheath
+on the posterior end;
+believed a parasite of
+coyotes). Other species
+occur in other canines,
+cats, foxes, skunks,
+and raccoons.
+Range: World.
+Clinical Signs: Vomiting.
+Tx: No approved drug. Heartworm
+preventatives do not prevent infection.
+Treatments appearing efficacious:
+Ivomec (ivermectin 1% injection formulation: 0.2 mg/kg, SQ
+or PO, repeat in 2 weeks)
+84|
+Cat
+CAT
+PHYSALOPTERA RARA
+t02005Teton
+Feline stomach worm. Adults attach to antrum of stomach and
+proximal duodenum. Intermediate host: coprophagous beetles
+PPP= 2 to 3 months.
+Dx: Egg (45 μm long) slightly shorter than hookworm eggs, very
+NewMedia
+clear, with a relatively thick shell
+containing a larva. Found in feces
+or gastric lavage fluid obtained
+during endoscopy.
+Adult Habitat: Stomach
+and proximal small
+intestine.
+Similar Species:
+Physaloptera
+praeputialis (adults
+have a preputial-like
+sheath on the
+posterior end). Other
+species occur in other
+canines, cats, foxes,
+skunks, and raccoons.
+Range: Mainly in the
+central United States.
+Clinical Signs: Vomiting.
+Tx: No approved drug.
+Heartworm preventatives do
+not prevent infection.
+Treatments appearing
+efficacious:
+Ivomec? (ivermectin 1% injection
+formulation: 0.2 mg/kg, SQ or PO, repeat in 2 weeks)
+Strongid?T (pyrantel pamoate 5 mg/kg, PO, 2 doses
+3 weeks apart)
+851
+Cat
+Copyright
+CAT
+PlatynOSoMuM COnCInnuM
+ 02005 Teton NewMedia
+PPP= 2 months.
+Dx: Eggs (about 40 μm long) in feces, small, dark, and
+operculate.
+Adult Habitat: Bile ducts and
+gall bladder.
+Similar Species: There are
+many flukes around the
+world that can occur in the
+bile ducts of cats.
+Range: Southeastern
+United States.
+Clinical Signs: Bile duct
+obstruction causing
+diarrhea,depression,
+anorexia, severe weight
+loss, various levels of
+jaundice (usually mild).
+Abdominal ultrasound
+reveals hepatic
+enlargement,dilated
+biliary tree, thickened bile
+ducts. Good images may
+show flukes within the
+bile ducts.
+Tx: No approved drug.
+Praziquantel may be efficacious.
+High doses (40 mg/kg) in a debilitated cat
+could be fatal.
+Droncit? Feline Cestocide Tablets (praziquantel; 20 mg/kg,
+PO, repeat in a month, and continue to check feces).
+Not forkittens<6weeks.
+861
+Cat
+Copyright
+CAT
+RHiPICEPhALUS SANGUINEUS
+t02005Teton
+Brown dog tick. Attach to skin from brush or scrub.
+Dx: Usually find adults, 3 to 7 mm, flat to bean
+shaped when engorged. Shades of brown.
+Have eyes on edges of scutum. No
+NewMedia
+preanal groove. Nymphs look like
+small females.
+Habitat: Skin.
+Similar Species: Dermacentor
+variabilis. fxodes scapufaris.
+Range: Southern US; cannot stand
+freezing temperatures but do well inside.
+Clinical Signs: Usually none; many can
+cause anemia. All stages (larva, nymph,
+and adult) feed on the dog. Can infest
+kennels and households. Probably want to
+consider protection of cats if area infested
+Potential Zoonosis: No direct transfer of
+pathogens without attachment.
+Tx: Removal - wash wound with alcohol.
+Spot Ons
+Hartz? Advanced Care " Brand
+Once-a-Month T" Flea and Tick
+Drops for cats and kittens
+(Phenothrin)
+Collars
+Adams 'm Dual Action Flea and Tick
+Collar for Cats (O-lsopropoxypheny)
+methylcarbamate,3-Phenooxybenzyl
+d-cis and trans 2,2,- dimethyl-3-
+(2-methylpropenyl) cyclopropaneca-
+boxylate, N-Octyl bicylcoheptene diacarboximide)
+Bansect? Flea and Tick Collars for cats (Naled)
+Hartz? 2 in 1? Flea and Tick Collar for cats and kittens
+(Tetrachlorvinphos)andLonglife? 90 Day '" Brand Collar for
+cats (Tetrachlorvinphos)
+Preventef? Flea and Tick Collars for cats (Diazinon)
+Scratchex? Flea and Tick Collar for cats (Chlorpyrifos)
+Vet-Kem? Breakaway? Plus Flea and Tick Collars for cats
+(Propoxur and (S)-Methoprene)
+871
+Cat
+CAT
+SArCoCYSTiS SPP
+02005
+Sporocysts in feces of cats that have ingested muscle tissue of
+vertebrate intermediate host.
+Teton
+PPP= 3 days to 3 weeks.
+Dx: Clear, sporulated, ellipsoid sporocyst in feces (9 to 17 μm
+NewMedia
+long), sometimes seen paired within thin
+oocyst wall; infectious when passed.
+Habitat: Small intestinal mucosa.
+Similar Species: This is a large genus
+with species infecting many different
+intermediate hosts. Sporocysts
+must be examined carefully to
+distinguish them from small
+oocysts and cysts of Giardia felis.
+Range: World.
+Clinical Signs: Asymptomatic.
+Potential Zoonosis: Disease has
+been reported in people ingesting
+sporocysts; infectious cat feces should
+be handled with routine caution.
+Tx: No approved drug.
+881
+Cat
+Copyright
+CAT
+SPIrOMETrA MaNSONSOIdES
+t 02005 Teton NewMedia
+Feline/canine tapeworm acquired by eating infected snakes,
+rodents, and other small vertebrates.
+PPP= As short as 10 days; patency can be maintained for
+several years.
+Dx: Eggs (60 μm long) in feces about the
+size of Ancylostoma caninum egg.
+brown, elongate, with a small
+operculum on one end containing
+cells of the developing larva.
+Adult Habitat: Small intestine.
+Similar Species: There are a
+number of species of
+Spirometra around the world.
+Egg very similar to that of
+Diphylfobothrium fatum.
+Range: United States.
+Clinical Signs: May have
+diarrhea,emaciation,and/or
+vomiting. Can produce non-
+regenerative anemia
+(sometimes severe).
+Tx: No approved drug. Treatment
+with albendazole unsuccessful.
+Some report success treating with
+the routine praziquantel (5 mg/kg),
+but others report the need for elevated
+doses. Epsiprantel (Cestex) may also
+be effective.
+Drontal Tablets (not for kittens <4 weeks or 1.5 Ibs)
+Cestex? (not for kittens <7 weeks)
+Droncit? Feline Cestocide Tablets (not for kittens <6 weeks)
+Droncit? Injectable Cestocide for Dogs and Cats (not for
+kittens <6 weeks)
+If treatment is unsuccessful, try
+Droncit? Feline Cestocide Tablets (praziquantel 7.5 mg/kg x
+2 days or 25 mg/kg x 2 days). Not for kittens <6 weeks.
+891
+Cat
+Copyright @2005 Teton NewMedia
+CAT
+TAENiA TAENiaEFOrMiS
+Rodent tapeworm. Cats acquire infection by eating
+rodent viscera.
+PPP= 1 to 2 months.
+Dx: Find segments (500 to 1000 μm long) or taeniid eggs (30 to
+35 μm long) in feces. Segment
+recognized by rectangular
+appearance with single lateral
+reproductive pore. Can
+tease apart segment to
+reveal typical eggs.
+Adult Habitat: Small
+intestine.
+Similar Species: Only
+Taenia of the domestic
+cat, but the eggs of
+Taenia are indistin-
+guishable from those
+of Echinococcus.
+Range: World.
+Clinical Signs:
+Asymptomatic.
+Tx: Very effective approved
+products:
+Drontal? Tablets (not for kittens
+<4 weeks or 1.5 Ibs)
+Cestex? (not for kittens <7
+weeks old)
+Droncit? Feline Cestocide Tablets
+(not for kittens <6 weeks old)
+Droncit? Injectable Cestocide for
+Dogs and Cats (not for kittens
+<6 weeks old)
+106
+e
+Copyright
+CAT
+TOXASCArIS LeoNiNA
+ 02005 Teton NewMedia
+Common roundworm of cats (and dogs). Typically not seen in
+kittens (no prenatal infection).
+PPP= 2 months.
+Dx: Egg (ovoid, 90 μm long) in feces has thick, smooth shell
+with the internal ovum appearing light in color. Eggs
+develop rapidly.
+Adult Habitat: Small
+intestine.
+Similar Species:
+Toxocara cati: similar
+size and shape, but
+has dimpled
+eggshell and a
+darker colored
+ovum.
+Range: World, but
+more common in
+cooler climates.
+Clinical Signs: Typically
+none. Only very rare
+reports of disease.
+Potential Zoonosis: Visceral
+larva migrans in children.
+Tx: Several OTC products also efficacious; products labeled for
+Toxocara cati are probably efficacious.
+Task? Tabs (not for kittens <10 days or 1 Ib)
+911
+Cat
+CAT
+ToxoCAra CatI
+ 02005 Teton NewMedia
+Common feline roundworm. Kittens can acquire worms in milk
+from queen.
+PPP= Kittens begin shedding eggs as early as 3 to 4 weeks
+after birth.
+Dx: Eggs (spheroid, 80 μm long) in feces of
+cats of all ages. Eggshell has a
+characteristic pitted surface.
+Adult Habitat: Small intestine.
+Similar Species: The egg of
+Toxascaris feonina is slightly
+larger but has a smooth
+shell, and the ovum tends
+to be lighter in color.
+Range: World.
+Clinical Signs: Typically
+asymptomatic. Kittens may
+be listless and inappetent.
+Potential Zoonosis: Visceral
+and ocular larva migrans
+in children.
+Tx: Several products used as per
+label instructions:
+Drontal Tablets (not for kittens <4 weeks or 1.5 Ibs)
+Revolution Tm (not for kittens <6 weeks)
+Task? Tabs (not for kittens <10 days or 1 Ib)
+Interceptor? Flavor Tabs (not for kittens <6 weeks
+or 1.5 Ibs)
+921
+Cat
+Copyright
+CAT
+ToXoPLASMA GoNdIl
+t02005TetonNewMedia
+Small-sized feline coccidian acquired by eating oocyst or
+infected meat of bird or mammal.
+PPP= 3 to 18 days; longer when infection via eating of oocyst.
+Dx: 0ocysts (11 to 13 μm long) in
+feces, clear, unsporulated spheroid
+Habitat: Small intestinal mucosa.
+Similar Species: Cannot
+distinguish oocyst from that of
+Hammondia hammondi.
+Range: World.
+Clinical Signs: Intestinal infection
+usually asymptomatic. Cats can develop
+severe generalized disease and ocular
+lesions; such disease not necessarily
+related to shedding of oocysts in feces.
+Potential Zoonosis: Oocysts not infectious when
+passed in feces, but sporulate rapidly (24 hours) under
+appropriate conditions. Thus, cats shedding oocysts
+morphologically consistent with Toxoplasma gondff
+should either be housed in clinic to protect client or
+started on treatment to try and reduce shedding.
+Tx: Once oocysts appear in feces, most of the
+damage from development in the mucosa has already
+occurred. Sulfonamides are the drugs of choice:
+sulfadiazine plus 5-10 mg trimethoprim/kg, P0, q12h for
+6 days; cats over 4 kg)
+Albon? (sulfadimethoxine; 50 mg/kg, PO, once, then
+27.5 mg/kg, P0, q24h until signs disappear)
+Primor? (sulfadimethoxine-ormetoprim; 55 mg sulfadlimethozine
+plus 11 mg ormethoprim/kg. P0, q24h for up to 23 days)
+Corid? 1.25% oral crumbles, 9.6% solution, 20% soluble
+powder (amprolium 300 to 400 mg/kg, P0, q24h for 5 days;
+110-220 mg/kg for 7-12 days; 20-40 mg/kg for 10 days)
+Antirobe? tablets or oral solution(clindamycin; oocysts in
+feces: 25-50 mg/kg, P0, q24h for 7-14 days. Systemic:
+8-16 mg/kg, 5Q or PO, q8h for 14-28 days, 0r
+12.5-25 mg/kg, 5Q or P0, q12h for 14 to 28 days)
+93|
+le
+ISBN189344159-8
+9781893441590

@@ -1,0 +1,4095 @@
+Copyrighted
+terial
+SMALLANIMALECGS
+anintroductoryguide
+SECOND EDITION
+Blackwell
+MikeMartin
+Publishing
+Small Animal ECGs
+小尾巴宠物健康中心http://iahc.laobao.com
+Dedication
+To my family: my wife Mary
+and our three sons, David, Dennis and Sean
+Small Animal ECGs
+An introductory guide
+Second Edition
+Mike Martin
+Blackwell
+Publishing
+ 2000, 2007 Mike Martin
+Second Edition published 2007 by Blackwell Publishing Ltd
+Blackwell Publishing editorial offices:
+Blackwell Publishing Ltd, 9600 Garsington Road,
+ISBN: 978-1-4051-4160-4
+Oxford OX4 2DQ, UK
+Tel: +44 (0)1865 776868
+Library of Congress Cataloging-in-Publication Data
+Blackwell Publishing Professional, 2121 State Avenue,
+Ames, Iowa 50014-8300, USA
+Martin, Mike W. S.
+Tel: +1 515 292 0140
+Small animal ECGs : an introductory guide / Mike Martin. - 2nd ed.
+Blackwell Publishing Asia Pty Ltd, 550 Swanston Street,
+: d
+Carlton, Victoria 3053, Australia
+Includes bibliographical references and index.
+Tel: +61 (0)3 8359 1011
+ISBN-13: 978-1-4051-4160-4 (pbk. : alk. paper)
+ISBN-10: 1-4051-4160-3 (pbk. : alk. paper)
+The right of the Author to be identifed as the Author of this Work has
+1. Veterinary electrocardiography. I. Title.
+been asserted in accordance with the Copyright, Designs and Patents
+[DNLM: 1. Electrocardiography-veterinary.
+2. Animals, Domestic.
+Act 1988.
+SF 811 M382s 2007]
+All rights reserved. No part of this publication may be reproduced
+A catalogue record for this title is available from the British Library
+stored in a retrieval system, or transmitted, in any form or by any
+Set in 10/12pt Minion
+means, electronic, mechanical, photocopying, recording or otherwise,
+except as permitted by the UK Copyright, Designs and Patents Act 1988,
+by aptara Inc., New Delhi, India
+Printed and bound in Singapore
+without the prior permission of the publisher.
+by Fabulous Printers Pte Ltd.
+Designations used by companies to distinguish their products are often
+The publisher's policy is to use permanent paper from mills that operate
+caimed as trademarks. All brand names and product names used in this
+book are trade names, service marks, trademarks or registered
+a sustainable forestrypolicy, and that has beenmanufactured from pulp
+processed using acid-free and elementary chlorine-free practices.
+trademarks of their respective owners. The Publisher is not associated
+ Furthermore, the publisher ensures that the text paper and cover board
+with any product or vendor mentioned in this book.
+used have met acceptable environmental accreditation standards.
+This publication is designed to provide accurate and authoritative
+For further information on Blackwell Publishing, visit our website:
+information in regard to the subject matter covered. It is sold on the
+wderstanding that the Publisher is not engaged jn rendering
+www.blackwellpublishing.com
+professional services. If professional advice or other expert assistance is
+required, the services of a competent professional should be sought.
+Lo
+Contents
+Preface to second edition
+X
+Preface to first edition
+xi
+About the author
+xii
+Acknowledgements
+xii
+Part 1:
+Understanding the electricity of the heart and how
+it produces an EcG complex
+1
+1
+What is an ECG?
+2
+The electricity of the heart
+4
+Formation of the normal P-QRS-T complex
+4
+Nomenclature of the QRS complex
+8
+3
+Rhythms of sinus origin
+9
+ Sinus rhythm
+9
+Sinus arrhythmia
+9
+Sinus tachycardia
+10
+Sinus bradycardia
+11
+Part 2:
+Abnormalelectricityof theheart
+13
+4
+Recognising and understanding ectopia
+15
+First identify the morphology of the normal QRS complex
+15
+The morphology of an ectopic ventricular depolarisation
+15
+The morphology of an ectopic supraventricular depolarisation
+18
+V
+ide
+5
+Arrhythmias associated with ectopia
+23
+n5
+Ventricular premature complexes
+23
+Supraventricular premature complexes
+30
+ictory
+Escape rhythms
+31
+AV dissociation
+34
+Introdue
+Fibrillation
+34
+Abnormalities in the conduction system
+40
+Sinus arrest and block
+40
+Sick sinus syndrome
+40
+Atrial standstill
+42
+EC
+Heart block
+43
+IAnimal
+Changes in the P-QRS-T morphology
+48
+Wandering pacemaker
+48
+Small
+Changes associated with chamber enlargement
+48
+Left atrial enlargement
+49
+Right atrial enlargement
+49
+ Left ventricular enlargement
+50
+Right ventricular enlargement
+50
+Abnormal mean electrical axis (MEA)
+50
+Low-voltage QRS complexes
+51
+Electrical alternans
+52
+Notching in the R wave
+52
+Q-T interval abnormalities
+53
+S-T segment abnormalities
+53
+Abnormalities of the T wave
+53
+Hyperkalaemia
+55
+vi
+Part 3:
+More advanced electrocardiography
+57
+Understanding the ECG limb lead systems
+59
+D
+The six ECG limb leads
+ents
+59
+9
+Mean electrical axis explained
+61
+How to calculate the mean electrical axis
+62
+10
+ Intraventricular conduction defects
+64
+Right bundle branch block
+64
+Left bundle branch block
+65
+Left anterior fascicular block
+67
+Intermittent ventricular aberrancy
+69
+11
+Some additional arrhythmias
+70
+Ventricular pre-excitation
+70
+Atrial flutter
+70
+Accelerated idioventricular rhythm
+71
+Part 4:
+Management and treatment ofarrhythmias
+73
+12
+Management of arrhythmias
+75
+Does the arrhythmia suggest the presence of an underlying condition?
+75
+Is the arrhythmia of primary clinical significance?
+76
+13
+Treatment of arrhythmias
+78
+Bradyarrhythmias
+78
+Tachyarrhythmias
+81
+vil
+ide
+14
+Pacemakers
+88
+ Indications
+88
+Contraindications
+88
+ictory
+Disadvantages
+88
+Complications
+88
+Introduc
+Prior diagnostics
+89
+Equipment
+89
+Types of permanent pacemakers
+89
+Techniques of implantation
+90
+Pacemaker follow-up
+90
+8
+Hazards
+06
+IAnimall
+Part 5:
+ Recording and interpreting ECGs
+91
+15
+Approach to interpretation of the ECG recording
+93
+Small
+To calculate the heart rate (given as beats per minute)
+93
+Determine the rhythm
+93
+Measure the complex amplitudes and intervals
+94
+16
+Artifacts
+96
+Electrical interference
+96
+ Muscle tremor artifact
+97
+Movement artifact
+97
+Incorrectly placed electrodes
+100
+17
+Recording an ECG
+102
+The connectors (electrodes)
+102
+Making the connection
+102
+Where to place the electrodes
+103
+Isolating the electrodes
+104
+How to position the ECG cables
+104
+Positioning the animal
+104
+Setting up and preparing the ECG machine
+109
+Recording an ECG - a suggested routine
+111
+vili
+18
+Choosing an ECG recorder
+114
+Quality
+114
+Continuous recording
+114
+ents
+Ease of use
+114
+Automatic labelling
+114
+Automatic vs. ma nual recording mode
+114
+Interpretative software
+115
+Multichannel vs. single channel
+116
+ Precordial chest leads
+117
+Calibration settings
+117
+Automatic centring vs. manual control
+117
+Internal battery
+117
+Jack plug lead fitting
+117
+Monitor screen
+118
+Thermal paper vs. ink paper
+118
+New vs. second-hand
+118
+ Summary of features to look for in an ECG recorder
+118
+Further reading
+119
+Index
+120
+ix
+Guide
+Preface to second edition
+ictory
+np
+An Introc
+This edition has been significantly changed and updated, I hope for
+This edition contains more than fifty new ECG tracings, gradually
+the better. It is still aimed at the beginner, be they a veterinary student
+gathered over the years. It is hoped that these will add greatly to the
+or graduate, veterinary nurse or technician. It is intended as an intro-
+book, providing illustrations to match the text. There are new chap-
+ECGs
+duction, providing a fairly easy book to read and learn about electro-
+cardiography, prior to embarking on the more established textbooks
+Animal
+an ECG recorder.
+listed in the Further Reading list.
+The positive feedback to the 1st edition was very gratifying and is
+In continuing to lecture widely on ECGs, I found that the sequence
+always a pleasure to receive. I hope that this new edition has at least
+Small,
+ a o o a  pn   sm n I m 
+e e no ysim I aq uaa Aadou oda po kena un
+edition). So in this 2nd edition, I have re-arranged the sequence to
+match my lecture course. I hope this works. I believe it should but,
+will continue to evolve with time and experience.
+importantly, it should make reading and learning about ECGs much
+easier and more logical. Hopefully, it will help the reader to overcome
+Mike Martin
+any psychological fear and apprehension about understanding, in-
+terpreting and making good use of ECGs, and spread the use of ECGs
+more widely.
+X
+Preface to first edition
+Preface to first edition
+The aim of this guide is to provide an introduction to electrocar-
+to read. I think that anyone who is new to ECGs will find reading it
+diography for anyone embarking on this subject. It has been written
+from the beginning the easiest way to grasp the concepts of electro-
+in such a way (I hope) that it is easy to understand. In part, it has
+cardiography. In trying to keep this book as an introductory guide, I
+been adapted and developed from frequent lecturing on this topic
+have (deliberately) not provided a comprehensive list ofarrhythmias.
+and feedback by audience interaction. This has resulted in a method
+ In doing so I have had to decide which rhythm disturbances to leave
+of teaching electrocardiography that appears to have succeeded in
+out and which to keep in. This has been a difficult task! On balance
+providing the basis for understanding. Whether this transfers to a
+I suspect even more rhythm disturbances and abnormalities should
+book remains to be seen, but I have deliberately used a number of
+have been left out, such as intraventricular conduction disturbances.
+diagrams to illustrate the points being made. Once this book has been
+However, as these are occasionally seen in practice, I have therefore
+read, the reader hopefully will be enthused and enlightened enough
+ included them, although at the very end of the book!
+to proceed to more advanced ECG textbooks - a further reading list
+ Having said all that, I hope you, the reader, will find this an enjoy-
+is given at the end. This book should not be used as a reference guide, able and easy read, whilst also educational.
+but simply a stepping stone to such texts.
+The book has been written in the expectation that the reader will
+Mike Martin
+xi
+ide
+n5
+About the author
+ictory
+Introdue
+Mike Martin qualified from University College Dublin in 1986. He
+ and well recognised cardiologist, having produced a number ofpubli-
+An
+worked for two years in mixed practice and four years at the Royal
+ cations and is a frequently invited speaker at meetings. He has been an
+(Dick) School of Veterinary Studies, University of Edinburgh, as
+examiner for the RCVS Certificate and Diploma, and he has been past
+S5
+a Housephysician and a Resident in Veterinary Cardiology, during
+Honorary Secretary and Chairman of the Veterinary Cardiovascular
+EC
+which time he gained the Certificate and Diploma in Veterinary Car-
+Society. He is a recipient of the BSAVA's Dunkin Award (1993) and
+Animal
+diology and then RCVS Specialist status in Veterinary Cardiology in
+Melton Award (2000). He is co-author ofthe book Notes on Cardiores-
+1995, which has been renewed every five years since.
+piratory Diseases of the Dog and Cat (2nd edition), also published by
+Mike runs his own private referral practice, the Veterinary Car-
+Blackwell Publishing.
+Small.
+diorespiratory Centre, in Kenilworth, Warwickshire. He is an active
+xii
+Acknowledgements
+Acknowledgements
+I would like to thank all those who have assisted in production of this
+book, from both those in the audience during lectures who provided
+feedback and my colleagues, peers and friends.
+xili
+PART 1
+Understanding the electricity of the heart and how it produces an
+ECG complex
+What is an ECG?
+1 . What is an EcG?
+An electrocardiograph (ECG), in its simplest form, is a voltmeter
+(or galvanometer) that records the changing electrical activity in the
+heart by means of positive and negative electrodes (Fig. 1.1). Elec-
+differences.
+While a positive (+ve) and negative ( -ve) electrode can be placed.
+almost anywhere on, or in, the body to record electrical changes, one
+ofthe most common and simplest methods is to place these electrodes
+on the limbs of the animal - referred to as a body surface limb
+on the chest (precordial chest ECG recording - commonly used in
+humans) or inside the cardiac chambers (used in electrophysiological
+studies). This book is confined to the limb ECG recording, which is 
+Figure l.1 An ECG records the “heart's electricity.
+the method most commonly used in veterinary medicine.
+3
+Guide
+2 · The electricity of the heart
+ctory
+Introdue
+For the heart to function efficiently as a ^circulatory pump' it must
+passes through the AV ring ( from the atria intothe ventricles) through
+An
+have a coordinated contraction, the two atria contracting and passing
+a narrow pathway called the bundle of His. This then divides in the
+blood intothe two ventricles, followed by contraction ofthe ventricles
+ventricular septum into left and right bundle branches ( going to the
+SD
+that push blood out of the heart and into the aorta and pulmonary
+left and right ventricles). The left bundle branch divides further into
+EC
+artery, i.e. there must be a coordinated atrioventricular contraction.
+anterior and posterior fascicles. The conduction tissue spreads into
+I Animal
+ In order for the cardiac muscle cells to contract, they must first receive
+the myocardium as very fine branches called Purkinje fibres.
+an electrical stimulus. It is this electrical activity that is detected by
+Small.
+an ECG.
+The electrical stimulus must first depolarise the two atria. Then,
+after an appropriate time interval, stimulate the two ventricles. The
+heart must then repolarise (and ^refill') in time for the next stimulus
+SA node
+and contraction. Additionally, it must repeatedly do so, increasing in
+RA
+LA
+rate with an increase in demand and conversely, slowing at rest.
+AVring
+AV node
+Bundle
+Left
+Formation of the normal P-QRs-T complex
+of His
+bundle
+branch
+All cells within the heart have the potential to generate their own
+Anterior
+electrical activity, however the sinoatrial (SA) node is the fastest part
+fascicle
+of the electrical circuit to do so and is therefore the ^rate controller,
+Right
+Posterior
+termed the pacemaker. The rate of the SA node is influenced by the
+bundle
+branch
+fascicle
+balance in autonomic tone, i.e. the sympathetic (increases rate) and
+parasympathetic (decreases rate) systems.
+Purkinje
+fibres
+The electrical discharge for each cardiac cycle (Fig. 2.1) starts in the
+SA node. Depolarisation spreads through the atrial muscle cels. The
+depolarisation wave then spreads through the atrioventricular (AV)
+Figure 2.1 Illustration of the heart's electrical circuit. SA - sinoatrial; AV - atrioven-
+4
+node, but it does so relatively slower, creating a delay. Conduction
+tricular; RA - right atrium; LA - left atrium.
+Formation of the P wave
+The SA node is therefore the start of the electrical depolarisation
+The electricity
+wave. This depolarisation wave spreads through the atria (somewhat
+like the ripples in water created by dropping a stone into it). As the
+parts of the atria nearest the SA node are depolarised (Fig. 2.2), this
+creates an electrical potential difference between depolarised atria
+ and parts not yet depolarised (i.e. still in a resting state).
+SAN
+ofthe
+If negative (—ve) and positive (+ve) electrodes were placed ap-
+LA
+proximately in line with those as shown on the diagram (Fig. 2.2),
+then this would result in the voltmeter (i.e. the ECG machine) de-
+heart
+AVN
+tecting the depolarisation wave travelling from the SA node, across
+the atria, in the general direction of the +ve electrode. On the ECG
+recording, all positive deflections are displayed as an upward (i.e.
+positive) deflection on the ECG paper, and negative deflections are
+displayed downwards. The atrial depolarisation wave therefore cre-
+RV
+LV
+ates an upward excursion of the stylus on the ECG paper.
+When the whole of the atria become depolarised then there is no
+to its idle position - referred to as the baseline. The brief upward
+deflection of the stylus on the ECG paper creates the P wave, rep-
+resenting atrial electrical activity (Fig. 2.3). The muscle mass of the
+atria is fairly small and thus the electrical changes associated with
+depolarisation are also small.
+The P-R interval
+During the course of atrial depolarisation, the depolarisation wave
+also depolarises the AV node. The speed with which the electrical
+Figure 2.2 Illustration of partial depolarisation of the atria and formation of the
+depolarisation wave travels through the AV node is deliberately slow
+P wave. The shaded area represents depolarised myocardial cells; the arrows repre-
+so that ventricular contraction will be correctly coordinated following
+sent the direction in which the depolarisation wave is travelling. RA - right atrium;
+atrial contraction. Once the depolarisation wave passes through the
+LA - left atrium; RV - right ventricle; LV - left ventricle; SAN - sinoatrial node;
+AV node, it travels very rapidly through the specialised conduction
+AVN-atrioventricular node.
+5
+n5
+ictory
+Introdu
+LA
+An
+ECGS
+Arimal
+SmallA
+Figure 2.3 Illustration of complete depolarisation of the atria and formation of the
+Figure 2.4 Illustration of depolarisation of the ventricular septum and formation of
+P wave. RA - right atrium; LA - left atrium; RV - right ventricle; LV - left ventricle.
+the Q wave. RA - right atrium; LA - left atrium; RV - right ventricle; LV - left ventricle.
+tissues ofthe ventricles, i.e. the bundle of His, the left and right bundle
+branches and Purkinje fibres.
+away from the+veelectrode (Fig. 2.4). This createsa small downward,
+or negative, deflection on the ECG paper - termed the Q wave.
+The formation of the QRS complex
+The R wave
+Then the bulk of the ventricular myocardium is depolarised. This
+The Q waves
+creates a depolarisation wave that travels towards the +ve electrode
+Initially the first part of the ventricles to depolarise is the ventricular
+(Fig. 2.5). As it is a large mass of muscle tissue, it usually creates a
+septum, with a small depolarisation wave that travels in a direction
+large deflection - this is termed the R wave.
+6
+N
+The electricity of the heart
+RA
+LA
+RA
+LA
+Figure 2.5 Illustration of depolarisation of the bulk of the ventricular myocardium
+S
+and formation of the R wave. RA - right atrium; LA - left atrium; RV - right ventricle;
+Figure 2.6 Illustration of depolarisation of the basilar portions of the ventricles and
+LV - left ventricle.
+formation of the S wave. RA - right atrium; LA - left atrium; RV - right ventricle; LV
+- left ventricle.
+The S wave
+ Following depolarisation of the majority of the ventricles, the only
+While the different parts of the QRS waveform can be identified,
+ e s s sd  ae sd an
+it is often easier to think of the whole ventricular depolarisation
+wave that travels away from the +ve electrode and is a small mass of
+waveform as the QRS complex. This will avoid any confusion over
+tissue (Fig. 2.6). Thus, this creates a small negative deflection on the
+the correct and proper naming of the different parts of the QRS
+ECG paper - the S wave.
+complex.
+ide
+n5
+Nomenclature of the QRS complex
+ctory
+The different parts of the QRS complex are strictly and arbitrarily
+labelled as follows.
+Introdue
+· The first downward deflection is called the Q wave; it always pre-
+RA
+LA
+cedes the R wave.
+An
+·Any upward deflection is called the R wave; it may or may not be
+preceded by a Q wave.
+ECGs
+· Any downward deflection after an R wave is called an S wave,
+regardless of whether there is a Q wave or not.
+Animal
+Having explained this, it is much easier to think of the ^QRS com-
+RV
+plex’ as a whole, rather than to try to recognise its individual
+Small.
+parts.
+The T wave
+Following complete depolarisation (and contraction) of the ventri-
+cles they then repolarise in time for the next stimulus. This phase
+of repolarisation creates a potential difference across the ventricular
+myocardium, until it is completely repolarised. This results in a de-
+flection from the baseline - termed the T wave (Fig. 2.7).
+The T wave in dogs and cats is very variable, it can be negative or
+ positive or even biphasic (i.e. a bit of both). This is because repolari-
+Figure 2.7 Illustration of complete depolarisation and repolarisation of the ventricles
+sation of the myocardium in small animals is a litle random, unlike
+and completion of the P-QRS-T complex. RA - right atrium; LA - left atrium; RV -
+right ventricle; LV - left ventricle.
+in humans, for example, in which repolarisation is very organised
+and always results in a positive T wave. Thus, the diagnostic value
+obtainable from abnormalities in the T wave of small animals is very
+The repolarisation wave of the atria (Ta) is rarely recognised on a
+limited, unlike the very useful features ofabnormal T waveforms seen
+surface ECG, as it is very small and is usually hidden within the QRS
+in humans.
+complex.
+8
+3
+Rhythms
+3 · Rhythms of sinus origin
+6
+f sinus
+The formation ofthe normal ECG complex has been explained in the
+Sinus arrhythmia
+preceding chapter; this normal complex is termed a sinus complex.
+The stimulus originates from the SA node, but the rate varies
+origin
+A sequence of beats originating from the SA node will form a sinus
+(increases and decreases) regularly. This is a normal and common
+rhythm. Four common sinus rhythms are described below
+rhythm in dogs. It is associated with an increase in parasympathetic
+activity (i.e. vagal tone) on the SA node. There is commonly a regular
+Sinus rhythm
+slows down) and it is therefore often called respiratory sinusarrhyth-
+The stimulus originates regularly at a constant rate from the SA node
+mia. Since sinus arrhythmia is an indicator of increased parasympa
+(dominant pacemaker) depolarising the atria and ventricles normally
+thetic tone, conversely, it is also an indicator of reduced sympathetic
+producing a coordinated atrioventricular contraction. This is a nor-
+tone. In dogs with heart failure one of the compensatory responses is
+mal rhythm.
+ an increase in sympathetic tone and therefore normal sinus arrhyth-
+mia is often lost and a sinus tachycardia develops. Sinus arrhythmia
+is uncommon in the cat and it might be seen in association with
+ECG characteristics
+dyspnoea.
+There is a normal P wave followed by normal QRS-T waves. The
+ n u um si a a pue (so) ran si 
+ECG characteristics
+and breed (Fig. 3.1).
+There is a normal P wave followed by normal QRS-T waves. The
+The size of the ECG complexes are typically small in cats (Fig. 3.2).
+rhythm varies in rate; this is often associated with respiration
+Obtaining an artifact-free tracing is therefore important (in cats) in
+(Fig. 3.3). The rhythm can sometimes be described as being regu-
+order to identify clearly the ECG complexes.
+larly irregular, i.e. the variation in rate is fairly regular. The rate is
+within normal for age and breed.
+Clinical findings
+Clinical findings
+There are regular heart sounds on auscultation (i.e. lubb dub) with
+paa1q ae og reou s! 1eui aiei e 1e pue jeaq leau yoea ioj ssnd e
+The heart rhythm varies with some regularity - increasing and de-
+and species.
+creasing in rate, and there is a pulse for every heart beat.
+6
+-An Introductory Guide
+Small Animal ECGs-
+125mm/s10mm/mV
+Figure 3.1 ECG from a dog showing a normal sinus rhythm at a rate of 140/min (25 mm/sec and 10 mm/mV).
+ORS
+Figure 3.2 ECG from a cat showing a normal sinus rhythm at a rate of 220/min (25 mm/sec and 10 mm/mV).
+Sinus tachycardia
+ECG characteristics
+The SA node generates an impulse and depolarisation at a rate that
+There is a normal sinus rhythm but at a faster rate than normal
+is faster than normal.
+(Fig. 3.4).
+10
+Rhythms of sinus origin
+Figure 3.3 ECG from a dog showing a normal respiratory sinus arrhythmia at a rate of 110/min (25 mm/sec and 10 mm/mV).
+Figure 3.4 ECG from 13-year-old Cavalier King Charles spaniel dog in heart failure due to mitral valve disease. There is a sinus tachycardia at 180/min (25 mm/sec and
+10 mm/mV).
+Clinical findings
+Sinus bradycardia
+The heart rate is faster than normal for age and breed with a pulse for
+The SA node generates an impulse and depolarisation slower than
+every heart beat (although with very fast rates the pulse may become
+normal. This can be a normal feature in some giant-breed dogs and
+weaker).
+in athletically fit dogs.
+11
+Small Animal ECGs- An Introductory Guide
+[a]
+Figure 3.5 (a) ECG from a dog showing a sinus bradycardia at 65/min (25 mm/sec and 10 mm/mV).
+(b)
+25mm
+HDM
+MA
+Figure 3.5 (b) ECG from a cat following sedation, showing a sinus bradycardia at 1l0/min (25 mm/sec and 10 mm/mV)
+ECGcharacteristics
+Clinicalfindings
+There is a normal sinus rhythm but at a slower rate than norma
+The heart rate is slower than normal for age and breed, with a pulse
+(Fig. 3.5).
+for every heart beat.
+12
+PART 2
+Abnormal electricity of the heart
+13
+4 · Recognising and understanding ectopia
+Recognising
+Arrhythmia and dysrhythmia are synonymous terms, meaning an
+abnormality. When the QRS-T complex is different from the normal
+and
+abnormal rhythm. Arrhythmias include abnormalities in rate, ab-
+sinus complex, depolarisation has (almost certainly) not arisen via the
+understanding
+normalities associated with ectopia and those associated with ab-
+AV node (which would have produced a normal QRS shape) but from
+normalities in conduction. Arrhythmias that are essentially slow are
+ an ectopic location in the ventricles. Additionally these ventricular
+referred to as bradyarrhythmias, and those that are fast as tachy-
+arrhythmias.
+by coincidence).
+From Fig. 4.la it can be seen that the direction of ventricular de-
+First identify the morphology of the normal QRS
+polarisation is different from the direction that would have occurred
+ectopia
+complex
+from depolarisation arising from the AV node (cf. Figs 2.4-2.6). In
+this example the ventricular ectopic depolarisation wave is away from
+Chapter 2 explained the formation of a normal sinus complex. It
+the +ve electrode and is therefore displayed on the ECG paper as
+is important when examining an ECG tracing to identify (from the
+below the baseline, i.e. the QRS complex is negative (Figs 4.1b, c).
+ECG recording) the normal sinus complex for that animal. Note
+Secondly, because conduction has not travelled through the normal
+the shape of the ventricular depolarisation and repolarisation waves,
+(therefore fast) electrical conduction tissue (it has depolarised the
+ie. the QRS complex and T wave. To produce this shape of QRS
+ventricular muscle ma ss from ^cell to cell') the time it takes to depo-
+and T, depolarisation of the ventricles has occurred by conduction
+larise the ventricles is prolonged. Thus, not only is the QRS complex
+from (or through) the AV node, i.e. ventricular depolarisation has
+of the ventricular ectopic different in shape, but it is also prolonged
+been initiated from the AV node (see Chapter 2). It is of paramount
+(it takes a longer time). Quite often the T wave following the QRS
+   e a an  a   i 
+ complex of a ventricular ectopic is large and opposite in direction to
+of QRS complexes, to determine which shape represents conduction
+the QRS.
+that has arisen (correctly) via the AV node.
+Ventricular ectopic complexes can arise from any part of the ven-
+tricles and thus the direction in which they depolarise the ventricles
+The morphology of an ectopicventricular
+is variable. To put it another way, since the direction in which the
+depolarisation
+depolarisation wave travels in relation to the +ve electrode is vari-
+Any QRS-T complex, therefore, that is of a different shape (from
+ able, the shape and magnitude of the QRS complex of a ventricular
+ complex will also be variable (Fig. 4.2a).
+15
+Guide
+(a)
+Key points
+ First identify the morphology of the normal QRS complex for
+ctorv
+the animal.
+The QRS of a ventricular ectopic complex is different from the
+AnIntrodu
+LA
+QRS complex of one that has arisen from the AV node.
+Ventricular ectopic complexes are not associated with a pre-
+ceding P wave (except by coincidence).
+ECGS
+Animal
+V
+SmallA
+QRS
+Ectopic
+focus
+Figure 4.l (a) Diagram illustrating an ectopic focus with the spreading out of the
+depolarisation wave (left), and the formation of a QRS-T complex (right) associated
+with the ventricular ectopic. RA - right atrium; LA - left atrium; RV - right ventricle;
+LV - left ventricle.
+The important point is that the QRS of a ventricular ectopic com-
+plex is different from the QRS complex of one that has arisen from
+the AV node and travelled normally down the electrical conducting
+tissue to the ventricles (Fig. 4.2b, c).
+A ventricular ectopic complex can occur quickly (or early) and
+is therefore termed a ventricular premature complex (VPC). If a
+Figure 4.1 (b, c) ECGs from dogs each showing one VPC in which the QRS morphol-
+ventricular ectopic occurs after a pause (or with delay) then it is
+ogy has a negative morphology with an opposite and positive T wave morphology
+referred to as a ventricular escape complex (Fig. 4.3).
+(25 mm/sec and 10 mm/mV).
+16
+Re
+ecognising
+1and
+understanding
+a
+QRS
+QRS
+ectopi
+QRS
+QRS
+Figure 4.2 (a) Illustration of a normal complex (frst complex), followed by four
+examples of QRS-T complexes with an abnormal morphology due to ventricular ec-
+topic depolarisations. It is paramount to identify the morphology of the QRS complex
+associated with a sinus complex (frst complex). Any QRS complexes of a different
+morphology (for that animal) must arise from an ectopic ventricular focus.
+25mm/s10mm/mV
+Figure 4.2 (b, c) ECGs from dogs each showing one VPC in which the QRS morphol-
+ogy is not negative (cf. Fig. 4.1), but of differing morphologies. The fact that they are
+different from the morphology of the normal sinus QRS complexes is important in 
+recognising that they are ventricular in origin, as well as being premature (25 mm/sec
+and 10 mm/mV).
+17
+Guide
+ictory
+Introdue
+An
+ECGs
+Premature
+Escape
+Small Animal
+Figure4.3 Illustration of (1) a ventricular premature complex (the double-headed arrow indicates the timing of when the next normal sinus complex would have occurred) and
+(2) a ventricular escape beat that occurred following a pause in the rhythm.
+Whether an ectopic arose from the atria (atrial premature com-
+The morphology of an ectopic supraventricular
+plex) or the AV node (referred to as a junctional or nodal premature
+depolarisation
+T sn s   d    x
+studying advanced ECGs. Additionally, in small animals it does not
+Any ectopic stimuli arising above the ventricles are referred to as
+ often affect the management or treatment in the vast majority of
+supraventricular (Fig. 4.4). These can be divided into two categories:
+cases. Therefore, distinguishing between atrial and junctional prema-
+(1) those occurring in atrial muscle mass (atrial ectopics) and (2)
+ture complexes will not be discussed in this book, but will be referred
+those arising from within the AV node (junctional or nodal ectopics).
+to by the broader term of supraventricular premature complexes
+No matter where supraventricular ectopics arise, they must travel
+(SVPCs).
+down the normal His-Purkinje tissue and depolarise the ventricles
+as normal. Thus, the morphology of the QRS complex associated
+Key points
+with a supraventricular ectopic is normal, i.e. the same as the QRS
+complex for a sinus complex. This means that the identification of
+ The morphology of the QRS complex associated with a
+ a supraventricular ectopic can be diffcult. In the vast majority of
+supraventricular ectopic is the same as a normal sinus complex.
+ It is primarily recognised by its premature timing.
+cases however, it occurs as a premature beat, and so it is primarily
+recognised by its premature timing (Fig. 4.5a, b).
+Terminology
+The electrocardiographic interpretation of arrhythmias due to ec-
+1 Except when there is aberrant conduction, see Chapter 10. However this is not
+topia requires an understanding of the terminology used. If this is
+18
+common.
+ accomplished, interpretation becomes relatively easy.
+ther: (a) atrial (originating in the atria) or (b) junctional or nodal
+(originating in the AV node or bundle of His).
+SAN
+Recognisi
+Supra-
+(2) Timing. Ectopic complexes that occur before the next normal
+RA
+LA
+ventricular
+complex would have been due are termed premature, and
+those that occur following a pause such as a period of sinus
+AVN
+JPC
+arrest or in complete heart block are termed escape complexes
+ing
+(Fig. 4.3).
+and
+(3)  Morphology. If all the ectopics in a tracing have a similar mor-
+pue on se on panai ane Aaun iao yoea on konod
+understandi
+those in which there are different shapes are termed multiform
+RV
+LV
+VPC
+VPC
+Ventricular
+(Fig. 4.6).
+(4) Number of ectopics. Premature ectopic complexes may occur
+singly, in pairs (Fig. 4.7), or in runs of three or more; the latter
+is referred to as a tachycardia. A tachycardia may be contin-
+uous, termed persistent or sustained, or intermittent, termed
+D
+VPC
+paroxysmal.
+(5) Frequency. The number of premature ectopic complexes in a
+Figure 4.4 Illustration of the origin of supraventricular and ventricular ectopic com-
+ tracing may vary from occasional to very frequent. When there
+plexes. SAN - sinoatrial node; AVN - atrioventricular node; APC - atrial premature
+complex; IPC - junctional premature complex; VPC - ventricular premature complex;
+is a set ratio such as one sinus complex to one ectopic complex
+RA - right atrium; LA - left atrium; RV - right ventricle; LV - left ventricle.
+it is termed bigeminy (Fig. 4.8) and one ectopic to two sinus
+complexes is termed trigeminy.
+The term ^beat' implies that there has been an actual contraction.
+In ‘ECG-speak' it is better to use the term complex or depolarisation
+to describe waveforms on the electrocardiograph.
+ Ectopic complexes may be classifed by the following:
+(1) Site of origin (Fig. 4.4). They are either ventricular or supraven-
+tricular. Supraventricular ectopics may be subclassified into ei-
+19
+Guide
+(a)
+AnIntroductory
+QRS
+QRS
+QRS
+QRS
+QRS
+QRS
+ECGs
+Figure 4.5 (a) Illustration of a supraventricular premature complex (fifth beat).
+AnimaE
+SmallA
+化
+125mm/=.10mm/m0
+Figure 4.5 (b) ECG from a dog showing a supraventricular premature complex (arrowed). Note that the recognition is by its prematurity, as its QRS and T morphology is the
+same as a normal sinus complex (25 mm/sec and 10 mm/mV).
+20
+Recognising and understanding ectopia
+I25mm/s10mm/mV
+Figure 4.6 ECG from a dog showing two VPCs of differing morphologies: the frst with a positive QRS and the second with a negative QRS. These VPCs are very likely to have
+arisen from different foci in the ventricles. This ECG tracing is described as having multimorphic VPCs (25 mm/sec and 10 mm/mV).
+Figure 4.7 ECG with ventricular premature complexes (arrows), singly and in pairs. From a German Shepherd dog with a splenic mass (25 mm/sec and 10 mm/mV)
+21
+Small Animal ECGs- An Introductory Guide
+Figure 4.8 (a) ECG with ventricular premature complexes that alternate with normal sinus complexes; this is termed ventricular bigeminy. From a 13-year-old Standard Poodle
+with mitral valve disease (25 mm/sec and 5 mm/m V)
+Figure 4.8 (b) ECG from a cat with hypertrophic cardiomyopathy showing a ventricular bigeminy (25 mm/sec and 10 mm/mV)
+22
+5 · Arrhythmias associated with ectopia
+Arrhythmias
+'Ectopia? literally means in an abnormal place? In reference to the
+ventricular myocardium. Depolarisation therefore occurs in an ab-
+associated
+heart this means outside the SA node, the dominant pacemaker. Ec-1
+normal direction through the myocardium and the impulse conducts
+topic beats arise as a result of various mechanisms due to a number
+from cell to cell (not within the conduction tissue) as described in
+of causes (see Chapter 12).
+the preceding chapter.
+with e
+Ventricular premature complexes
+ECG characteristics
+ectopia
+Ventricular premature complexes (VpCs) are a common finding in
+ The QRS complex morphology is abnormal, i.e. unlike a QRS that
+dogs and cats. VPCs arise from an ectopic focus or foci within the
+would have arisen via the AV node. It is usually:
+Figure 5.l ECG from a 10-year-old Springer spaniel showing a single VPC. Note the P wave within the ST segment (arrowed). However this normal sinus depolarisation arrived
+when the ventricles were still refractory (25 mm/sec and 10 mm/mV)
+23
+Guide
+ctorv
+AnIntrodu
+Figure 5.2 ECG from a 10-year-old Labrador dog with a single ventricular premature complex (25 mm/sec and 10 mm/mV).
+Small Animal ECGs
+·abnormal (bizarre) in shape;
+· the T wave of a VPC is often large and opposite in direction to the
+wide (prolonged), typically by ~50%;
+QRS.
+Figures 5.1-5.3 show examples of single VPCs in dogs and Fig. 5.4
+shows an example in a cat. Additionally a VPC is not associated with a
+preceding P wave (except by coincidence). Since a VPC occurs prema-
+turely, a normal atrial depolarisation (i.e. a P wave) arriving at the AV
+node will meet ventricles that are refractory (Figs 5.1 and 5.3), thus
+the P wave is usually hidden by the ventricular premature complex.
+Occasionally a normal sinus complex QRS will occur at the same
+time as an ectopic VPC, resulting in fusion of the two wavefronts.
+This is seen on an ECG as a change in QRS & T morphology from
+the normal sinus QRS & T and the QRS & T of the VPC. Usually the
+combination tends to neutralise the deflections and the QRS is much
+smaller in comparison (Figs 5.5a, b).
+When a VPC is so premature that it is superimposed on the T
+wave of the preceding complex (sinus or ectopic), i.e. the ventricles
+ preceding contraction, this is termed R-on-T (Fig. 5.6).
+A run of three or more VPCs is termed a ventricular tachy-
+Figure 5.3 ECG from a Boxer with right ventricular arrhythmogenic cardiomyopathy
+cardia (VT) (Figs 5.7a, b, c). In the vast majority of cases VT is
+showing a single VPC with a positive QRS morphology. (Note the P wave, arrowed, just
+preceding the QRS complex with a very short P-R interval. However the VPC occurred
+fairly uniform and regular, however occasionally it can be multiform
+before the normal sinus deplorisation.) (Leads 2 and 3, 25 mm/sec and 10 mm/mV)
+(Fig. 5.8).
+24
+Arrhythmias associated with ectopia
+a
+Figure 5.4 ECGs from two cats each showing a VPC, but of differing morphologies: (a) has a negative QRS morphology and (b) has two positive QRS morphology VPCs
+(25 mm/sec and 10 mm/mV).
+25
+Small Animal ECGs - An Introductory Gu ide
+/PC
+VPC
+of a normal QRS complex and a VPC - this is termed a fusion complex. (a) is from a German Shepherd dog with a splenic mass (Leads 2 and 3, 25 mm/sec and 10 mm/mV) and
+26
+(b) is from a 6-year-old domestic short-haired cat with hypertrophic cardiomyopathy (25 mm/sec and 20 mm/m V).
+5·
+Arrhythmias associated with ectopia
+R-On-T
+Figure 5.6 ECG from a dog showing a two ventricular premature complex (VPC) occurring very quickly, such that the QRS complex of the second is virtually superimposed on
+the T wave of the previous VPC (arrowed) - this is termed R-on-T (25 mm/sec and 10 mm/mV).
+27
+Small Animal ECGs-AnIntroductoryGuide
+(a)
+Figure 5.7 (a) ECG showing a paroxysmal ventricular tachycardia (arrows) (25 mm/sec and 10 mm/mV).
+QRS
+QRS
+QRS
+(b)
+Figure 5.7 (b) ECG showing a ventricular tachycardia (VT) at 200/min with a negative QRS morphology. There is one normal sinus complex (arrowed). From a 10-year-old
+28
+Labrador with liver neoplasia (25 mm/sec and 10 mm/m V).
+QRS
+QRS
+Arrhythmias
+associatedwithectopia
+7507
+T
+(c)
+Figure 5.7 (c) ECG from a dog showing the start of a sustained VT, with a positive QRS morphology, preceded by a sinus rhythm and a single VPC (25 mm/sec and 20 mm/mV)
+(Auu nl pue sasm ns) lA oydronu e hugmoys aan ssny yoef Pio-reak-l e oy og (e) s'g ana
+29
+Guide
+AnIntroductory
+ECGs
+Figure 5.8 (b) ECG from a 10 year old Labrador showing a multimorphic VT (25 mm/sec and 10 mm/mV).
+Small Animall
+Clinical findings
+normally producing a normal-shaped QRS complex with a normal
+duration.
+Occasional premature beats will sound like a tripping in the rhythm?.
+Depending upon how early the beat occurs - the ^extra’ premature
+beat may be heard or it might be ^silent' (and sound like a brief pause
+ECG characteristics
+in the rhythm). There will be little or no pulse associated with the
+premature beat (ie. a pulse deficit). If the premature beats are more
+QRS-T complexes, which have a normal morphology, are seen to
+frequent, the tripping in the rhythm will start to make the heart
+occur prematurely (Fig. 5.9). The ECG features are:
+rhythm sound more irregular. With very frequent premature beats,
+the heart rhythm can sound quite chaotic, and with a pulse deficit for
+each premature beat, the pulse rate will be much slower than the hearf
+rate. During a sustained ventricular tachycardia however, the heart
+rhythm will sound fairly regular - pulses will probably be palpable,
+but reduced in strength, becoming weaker with faster heart rates.
+Supraventricular premature complexes
+Supraventricular premature complexes (SVPCs) arise from an ec-
+Figure 5.9 (a) ECG showing a single supraventricular premature complex (arrowed)
+topic focus or foci above the ventricles, i.e. in either the atria, the
+ Note the premature timing and absence of an obvious P wave. An incidental fnding
+30
+AV node or bundle of His. The ventricles are then depolarised,
+, from a 9-year-old Newfoundland dog (25 mm/sec and 10 mm/mV)
+(b)
+Arrhythmias
+Figure 5.9 (b) ECG from a dog. Note the premature complex (arrowed) with a normal QRS-T morphology - this is a supraventricular premature complex (SVPC) (25 mm/sec
+and 10 mm/mV).
+iated
+· normal QRS morphology;'
+for each premature beat, the pulse rate will be much slower than the
+ith
+· QRS are seen to occur prematurely;
+heart rate. During a sustained supraventricular tachycardia however,
+·P waves may or may not be identified; and
+the heart rhythm will sound fairly regular - pulses will probably be
+ecto
+· if P waves are seen, they are usually of an abnormal morphology
+palpable, but reduced in strength, becoming weaker with faster heart
+opia
+(i.e. non-sinus) and the P-R interval will differ from a normal
+rates.
+sinus complex.
+A run ofthree or more SVPCs is termed a supraventricular tachycar-
+Escape rhythms
+dia (SVT); it is usually ata rate in excess of 200/min ( but can be as high
+as 400/min) and regular (Fig. 5.10). SVT needs to be distinguished
+When the dominant pacemaker tissue (usually the SA node) fails
+from a sinus tachycardia.
+to discharge for a long period, pacemaker tissue with a slower in-
+trinsic rate (junctional or ventricular) may then discharge, i.e. they
+Clinical findings
+escape' the control of the SA node. This is commonly seen in
+On auscultation it is not possible to distinguish ventricular premature
+beats from supraventricular premature beats (see p. 18). Occasional
+(c）
+ premature beats will sound like a tripping in the rhythm, with little or
+no pulse associated with the premature beat. If the premature beats are
+more frequent, the tripping in the rhythm will start to make the heart
+rhythm sound more irregular. With very frequent premature beats,
+the heart rhythm can sound quite chaotic, and with a pulse deficit
+1 Except when there is aberrant conduction, see Chapter 10.
+Figure 5.9 (c) ECG from a German Shepherd dog showing two SVPCs (arrowed).
+31
+-AnIntroductoryGuide
+SmallAnimal ECGs-
+Figure 5.10 (a) ECG showing a paroxysmal supraventricular tachycardia (arrowed) (25 mm/sec and 10 mm/mV).
+Figure 5.10 (b) ECG showing initially a supraventricular tachycardia at 280/min, which then breaks to a normal sinus rhythm at 90/min (the first sinus complex is arrowed)
+From a 6-year-old Irish Wolfhound with occult dilated cardiomyopathy (25 mm/sec and 10 mm/mV).
+32
+5 · Arrhythmias associated with ectopia
+Figure 5.10 (c) ECG showing a sustained supraventricular tachycardia at 320/min. From a 9-year-old Weimaraner with myocarditis (25 mm/sec and 5 mm/mV).
+Figure 5.10 (d) ECG from a 7-month-old Labrador with a sustained SVT at 350/min (25 mm/sec and 10 mm/mV)
+33
+Guide
+association with bradyarrhythmias (e.g. sinus bradycardia, sinus ar-
+ to an accelerated junctional or ventricular rhythm, disturbed AV
+rest, AV block). Escape complexes are sometimes referred to as rescue
+ conduction or depressed SA nodal function.
+beats, because if they did not occur death would be imminent. Since
+ictory
+they are rescue beats they should not be suppressed by any form
+ECG characteristics
+of treatment. Treatment should be directed towards the underlying
+The ECG shows a ventricular rate that is usually very slightly faster
+Introdu
+bradyarrhythmia.
+than the atrial rate. The P waves may occur before, during or after the
+If no escape rhythm has developed, i.e. there was no electrical
+QRS complex. The P waves and QRS complexes are independent of
+activity of any kind, then this is termed asystole. It would not be
+An
+each other with the QRS complexes appearing to ^catch up' on the P
+dissimilar to sustained sinus arrest if no escape rhythm developed.
+waves (Fig. 5.12). Complete AV block is one form of AV dissociation,
+ECGs
+This is a terminal event unless electrical activity returns. If there is
+but AV dissociation does not mean there is AV block.
+a failure of an escape rhythm during complete heart block, i.e. there
+IAnimal
+are P waves but no QRS complexes, then this is termed ventricular
+Clinical findings
+standstill. Again, if ventricular electrical activity does not return
+The heart rhythm will sound fairly normal and the pulse should
+death is imminent.
+Small,
+match the heart rate.
+   l      s r
+supraventricular ectopic), whereas ventricular escapes are abnor-
+mal and bizarre (the same as a ventricular ectopic): see Figs 5.11
+Fibrillation
+and 6.2. A continuous junctional escape rhythm occurs at a rate
+Fibrillation means rapid iregular small movements of fibres.
+of 60-70/min and a continuous ventricular escape rhythm occurs at
+a rate of less than 50/min. Either may be seen in complete AV block.
+Atrial fibrillation
+AV dissociation
+This is probably one of the most common arrhythmias seen in
+AV dissociation describes the situation when the atria and ventricles
+small animals. In atrial fibrillation (AF) depolarisation waves oc-
+34
+Figure 5.1l (a) ECG from a Springer spaniel with sinus arrest. Following the long flatline, there is a ventricular escape complex (arrowed) (25 mm/sec and 10 mm/mV).
+mias
+associated with ectopia
+Figure 5.1l (b) ECG from a 7-year-old cat with intermittent failure of AV nodal conduction through to the ventricles (non-conducted P waves), i.e. second degree heart block
+(see later). Following the consequential pauses in ventricular depolarisation, ventricular escape complexes occur (arrowed) (25 mm/sec and 20 mm/mV).
+Figure 5.12 (a) ECG showing AV dissociation. Note how the P waves (arrows) appear to drift in and out of the QRS complexes (the P-R interval is variable). Incidental finding
+from a 13-year-old Samoyed dog (25 mm/sec and 10 mm/m V).
+35
+Guide
+Introd
+An
+(Awyu ol pue sasu s) pamoue ane sanem d 'huipuy jeiuaprout ue sem styl uoneiossip Ay surmoys hop roperqeT Pio-eak-g e uoy 5og (a) zi'g aina
+ECGS
+above the ventricles, it could also be classified as a supraventricular
+· normal QRS morphology;2
+Small Animal
+arrhythmia.
+· the R-R interval is irregular and chaotic (this is easier to hear on
+auscultation);
+the QRS complexes often vary in amplitude;
+ECG characteristics
+· there are no recognisable P waves preceding the QRS complex;
+The QRS complexes have a normal morphology (similar to supraven-
+and
+normal to fast rate (Fig. 5.14). The ECG features are:
+2 Except when there is bundle branch block (see Chapter 10).
+79
+Figure 5.12 (c) ECG from a cat following sedation with medetomidine with a bradycardia (80/min) and AV dissociation. P waves are arrowed (Leads 1 and 2, 25 mm/sec and
+36
+10 mm/mV).
+Tip
+5
+As a guideline?: Supraventricular QRS morphology + Irregular (chaotic) R-R intervals + Absence of P waves = Atrial fibrillation
+A
+Clinical findings
+The heart rhythm sounds chaotic and the pulse rate is often half
+associ
+the heart rate, especially with fast atrial fibrillation. This is a very
+-se uo paiadsns aius aq u pue sop u eue un
+iated
+cultation by its chaotic rhythm and 50% pulse deficit. However, very
+with
+mimic it.
+ectopia
+Ventricular fibrillation (VF)
+This is nearly always a terminal event associated with cardiac arrest.
+The depolarisation waves occur randomly throughout the ventricles
+R
+(Fig. 5.15). There is therefore no significant coordinated contraction
+to produce any cardiac output. If the heart is visualised or palpated,
+fine irregular movements of the ventricles are evident - likened to a
+'can of worms. VF can often follow ventricular tachycardia.
+ECGcharacteristics
+The ECG shows coarse (larger) or fine (smaller) rapid, iregular and
+Figure 5.13 Diagram illustrating the wavelet theory for atrial fbrillation. Note the
+bizarre movement with no normal wave or complex (Fig. 5.16).
+multiple small wavelets that randomly depolarise small portions of the atria. This is
+easiest to sustain when the atria are large such as in giant-breed dogs or animals in
+Clinical findings
+which there is atrial dilation.
+No heart sounds are heard. No pulse is palpable.
+ sometimes fine irregular movements of the baseline are seen as a
+result of the atrial fibrillation waves - referred to as f' waves, how-
+ever these are frequently indistinguishable from baseline artifact
+(e.g. muscle tremor) in small animals.
+3Except when there is bundle branch block, see Chapter 10.
+37
+Guide
+-AnIntroductory
+SLNU
+Figure 5.14 (a) ECG showing atrial fibrillation with an average ventricular response rate of 180/min. The QRS complexes are chaotic - this is usually easier to hear on auscultation
+of the heart. There are no P waves discernible, although the fine undulations of the baseline may be fibrillation waves in this instance (25 mm/sec and 1U mm/m V).
+Small Animal ECGs -
+Figure 5.14 (b) ECG showing atrial fbrillation with an average ventricular response rate of 180/min. From a 10-year-old Whippet with mitral valve disease (25 mm/sec and
+10 mm/mV).
+Figure 5.14 (c) ECG showing atrial fibrillation with an average ventricular response rate of 280/min. Such a fast ventricular rate is usually seen when the dog is in congestive
+38
+heart failure. From a 7-year-old Dobermann with pulmonary oedema due to dilated cardiomyopathy (25 mm/sec and 5 mm/mV).
+L
+1
+LA
+imias
+associatedwithectopia
+Figure 5.15 Diagram ilustrating the wavelet theory for ventricular fibrillation ( VF).
+VF initially consists of large wavelets (coarse VF), that progress over a short period of
+time to a greater number of smaller wavelets (fine VF).
+Figure 5.16 ECG showing ventricular flutter/fibrillation. From an ll-year-old German Shepherd dog that died on arrival with advanced cardiac tamponade due to pericardial
+haemorrhage (25 mm/sec and 10 mm/mV).
+39
+Guide
+6 · Abnormalities in the conduction system
+Introdt
+Abnormalities in the conduction system are associated with faults in
+arrest (Fig. 6.1). Long periods of arrest or block are often followed
+An
+either the generation of the impulse from the SA node or abnormali-
+by ventricular ectopic escape complexes. Note: in comparison with
+fies in conduction through the specialised conduction tissue, i.e. the
+atrial standstill (see p. 42), sinus arrest produces a ^flatline' that is
+AV node, bundle of His and Purkinje system.
+intermittent, whereas atrial standstill results in a sustained absence
+ofPwaves.
+Animal
+Sinus arrest and block
+Chinical findings
+When there is a failure of the SA node to generate an impulse, i.e. the
+Small,
+SA node has temporarily arrested - it is referred to as sinus arrest.
+A pause in the heart rhythm will be heard on auscultation ( with no
+Sinus block (also referred to as sinoatrial exit block) is when the
+ palpable pulse); it will effectively sound as if the heart has briefly
+electrical impulse from the SA node to the atria is blocked. These
+stopped. With sinus block it will be a very short pause that can be
+bradyarrhythmias can result in bradycardia and/or asystole.
+arrhythmia. With sinus arrest the duration of the pause will depend
+ECG characteristics
+upon the duration of the period of sinus arrest and if this is occurring
+There is a pause in the rhythm with neither a P wave nor there-
+episodically or not.
+fore a QRS-T complex, i.e. the baseline is flat (except for movement
+artifact if present). If the pause is only twice the R-R interval (or
+Sicksinussyndrome
+multiples of), it suggests sinus block. However, if the pause is greater
+ This is a term for an abnormally functioning SA node and is prob-
+than two R-R intervals (but not exact multiples of) it suggests sinus  ably better termed sinus node dysfunction. This ‘umbrella? term
+40
+Figure 6.1 (a) ECG showing intermittent sinus arrest, from a 13-year-old West Highland White terrier with idiopathic pulmonary fibrosis (25 mm/sec and 10 mm/mV)
+9
+ Abnormalities
+ in the conduction
+Figure 6.1 (b) ECG from a Lakeland terier with sinus arrest - there is a 2-second pause (25 mm/sec and 10 mm/mV).
+refers to any abnormality of sinus node function including severe
+ECG characteristics
+ system
+sinus bradycardia and severe sinus arrest. In some situations the pro-
+The electrocardiographic features are therefore quite variable and
+found bradycardia alternates with a supraventricular tachycardia, this
+is termed the bradycardia-tachycardia syndrome? Sick sinus syn-
+include persistent sinus bradycardia or episodes of sinus arrest with-
+out escape beats. One feature of sick sinus syndrome is that during
+drome has been reported to occur most commonly in female minia-
+long periods of sinus arrest there is often a failure of rescue escape
+ture Schnauzers of at least 6 years of age and West Highland White
+and Cairn terriers. It has not been recorded in cats.
+bradycardia such as sinus arrest, alternating with a supraventricular
+Figure 6.2 ECG from a 10-year-old miniature Schnauzer with sick sinus syndrome. This tracing shows periods of sinus arrest alternating with supraventricular premature
+complexes. There is one ventricular escape present (arrowed) (25 mm/sec and 10 mm/mV).
+41
+Guide
+tachycardia (Fig. 6.2). The bradycardia may be unresponsive to an
+the atria are not depolarised and remain inactive. If this occurs due
+injection of atropine.
+to hyperkalaemia, the impulses are conducted from the SA node by
+internodal pathways to the AV node, thus there is a sinoventricu-
+ictory
+Clinical findings
+lar rhythm. If this occurs due to myocardial disease, the internodal
+pathways are also diseased and thus a nodal (or junctional) escape
+Introdu
+The findings on auscultation are very variable, from a markedly slow
+heart rate, to a variable rhythm, or with long pauses (associated with
+rhythm develops in these cases. Both ofthese rhythms look similar on
+ECG.
+An
+riods ofslow heart rate alternating with periods ofvery fast heart rate,
+ECG characteristics
+and not necessarily with any regularity. There may be pulse deficits
+ECGs
+during the tachycardic episodes and no pulse produced during the
+The electrocardiographic feature is of the absence of P waves, usually
+periods of arrest.
+with a slow (less than 60/min) escape rhythm (Fig. 6.3). The quality
+Small Animal 
+of the ECG has to be excellent (i.e. the baseline must be flat without
+any artifacts) to diagnose the absence of P waves confidently. The
+Atrial standstill
+QRS complexes are often of a relatively normal shape (junctional
+In atrial standstill there is an absence of any atrial activity, which
+escape), but sometimes with a slightly prolonged duration. In a few
+can be confirmed by fluoroscopy or echocardiography (there is no
+ cases the escape rhythm can be ventricular. Note: in comparison
+A wave on an M-mode of the mitral valve or no atrial contraction  with sinus arrest (see p. 40), atrial standstill results in a sustained
+inflow on Doppler studies). This occurs due to a failure of atrial absence of P waves, whereas sinus arrest produces an intermittent
+‘flatline'
+Figure 6.3 (a) ECG from a Cavalier King Charles spaniel with atrial standsti with a ventricular escape rhythm at 70/min. Note the absence of P waves. The absence of atrial
+42
+activity can be confirmed by echocardiography (50 mm/sec and 10 mm/m V).
+9
+ Abnormalities
+Figure 6.3 (b) ECG from a 7-year-old West Highland White terrier with atrial standstill(due to hyperkalaemia) with ajunctional rhythm at 40/min (25 mm/sec and 1 0 mm/mV).
+ the
+Clinical findings
+Clinical findings
+ conduction
+The normal heart sounds will be heard (and associated pulse felt) No abnormality will be appreciated on auscultation or palpation
+in association with ventricular depolarisation. The rate will vary in
+of the pulse, and it cannot be distinguished from a normal sinus
+each case, although generally it is slower than normal (often less than  rhythm.
+system
+contraction sounds are heard.
+Second degree AV block
+Heart block
+to pass through the AV node, i.e. there is atrial depolarisation that is
+This is the failure of the depolarisation wave to conduct normally
+not followed by ventricular depolarisation.
+through the AV node; the correct term is therefore AV block. Heart
+ block is often used as a synonymous term for AV block. AV block may
+ ) o  (o  s  sr d a
+ECGcharacteristics
+block).
+The P wave is normal, but there is either an occasional or frequent
+failure (depending on severity) of conduction through the AV node
+First degree AV block
+resulting in the absence of a QRS complex (Figs 5.9, p. 30, and
+6.5).
+First degree AV block occurs when there is a delay in conduction
+Second degree AV block can be classified further. When the P-R
+through the AV node and there is usually a sinus rhythm.
+interval increases prior to the block it is termed Mobitz type I (also
+known as Wenckebach's phenomenon). But when the P-R interval
+ECG characteristics
+remains constant prior to the block, this is termed Mobitz type II
+The P wave and QRS complexes are normal in configuration, but the
+and the frequency of the block is usually constant, i.e. 2:1, 3:1 and so
+PR interval is prolonged (Fig. 6.4).
+on.
+43
+ Small Animal ECGs- An Introductory Guide
+0.24secs
+Figure 6.4 (a) ECG from a dog showing a prolonged P-R interval, i.e. Ist degree AV block (50 mm/sec and 10 mm/mV).
+Complete (third degree) AV block
+Complete AV block occurs when there is a persistent failure of the
+depolarisation wave to be conducted through the AV node. A second
+pacemaker below the AV node (i.e. the block) discharges to control
+the ventricles. This second pacemaker may arise from:
+Figure 6.4 (b) ECG from a cat showing a prolonged P-R interval,ie. frst degree AV
+· lower AV node or bundle branches producing a normal QRS (i.e.
+(heart) block (50 mm/sec and 10 mm/mV).
+· Purkinje cells producing an abnormal QRS-T complex (i.e.
+ventricular escape complex) at approximately 30-40/min.
+Clinical findings
+ECG characteristics
+There will be occasional pauses in the rhythm associated with the ab-
+sence of ventricular depolarisation. On very careful auscultation the
+On the ECG, P waves can be seen at a regular and fast rate but the
+atrial contraction sounds (A' sound or S4) can often be appreciated
+QRS-T complexes are ata much slower rate, and usually fairly regular.
+44
+as a faint noise in association with atrial depolarisation.
+The P waves and QRS complexes occur independently of each other
+?
+Abnormalities
+s in the conduction system
+Figure 6.5 (a) ECG from a 7-year-old cat with intermittent failure of AV nodal conduction through the ventricles (non-conducted waves), i.e. second degree heart block.
+Following the consequential pauses in ventricular depolarisation, ventricular escape complexes occur (arrowed) (25 mm/sec and 20 mm/m V).
+1
+Figure 6.5 (c) ECG from an ll-year-old mixed breed dog with second degree AV block. The first few P waves are arrowed (25 mm/sec and 10 mm/mV).
+45
+Small AnimalECGs-An IntroductoryGuide
+用田用
+Figure 6.6 (a) ECG from an 8-year-old Labrador with third degree AV block (complete heart block) with a ventricular escape rhythm of 45/min (50 mm/sec and 10 mm/mV)
+QRS
+Figure 6.6 (b) ECG from a 10-year-old Collie dog with complete heart block with a slow ventricular escape rhythm at 30/min (25 mm/sec and 10 mm/mV).
+PPPPP
+QRSQRS
+Figure 6.6 (c) ECG from a 14-year-old Siamese with complete AV block. The frst few P waves are arrowed. Note that in the first half of the tracing, the T waves merge with some
+of the P waves, which makes this look like a sinus rhythm initially.
+46
+(Fig. 6.6). This is best demonstrated by plotting out each P wave and  slow. So a regular slow bradycardia is heard with normally a good
+each QRS complex on a piece of paper (Fig. 15.1 on page 98).
+ palpable pulse (sometimes the escape rhythm is not regular). On
+ Abnormalities 
+Clinicalfindings
+very careful auscultation (sometimes using the bell of the stetho-
+scope) the atrial contraction sounds (S4) can be faintly heard at a
+In many cases the ventricular escape rhythm associated with com-
+faster rate and not related to the normal lubb-dub of ventricular
+contraction.
+3
+ the
+conduction
+ system
+47
+Guide
+7 · Changes in the P-QRS-T morphology
+ctory
+Wandering pacemaker
+(   an  re  o a )  
+(Fig. 7.1).
+This occurs as a result of the dominant pacemaker shifting from the
+SA node to other pacemaker cells with a high intrinsic rate within the
+atria. This is sometimes referred to as a wandering atrial pacemaker.
+This is a normal variant and not uncommon in dogs. It is thought to
+Changes associated with chamber enlargement
+be associated with high vagal tone. Its significance is therefore similar
+The ECG should not be viewed as being a means to diagnose heart
+to sinus arrhythmia (see page 9).
+enlargement in small animals, but as an additional diagnostic test
+Small.
+that might help to support such a clinical suspicion. Chest radio
+ECG characteristics
+graphs are often considered a better indicator of heart enlargement.
+P waves can vary in morphology, i.e. there is a variation in ampli-
+ Echocardiography is the best means to assess chamber size and
+tude, varying from positive, negative or biphasic, or they can even 
+morphology.
+48
+Figure 7.1 ECG from a dog showing a wandering pacemaker. Note how the P wave morphology changes (arrows) (Lead I, 25 mm/sec and 10 mm/mV)
+Table 7.1. Guidelines on normal values for cats and dogs (Tilley 1992).
+Dog
+Changes
+e
+Heart rate
+Adult
+70-160
+120-240
+Puppy
+70-220
+Measurements
+3
+P wave duration
+<0.04 sec
+<0.04 sec
+the
+Giant breeds
+<0.05 sec
+ P wave amplitude
+<0.4 mV
+<0.2 mV
+-QRS-
+P-R interval
+0.06-0.13 sec
+0.05-0.09 sec
+QRS duration
+<0.05 sec
+<0.04 sec
+Giant breeds
+<0.06 sec
+morphology
+R wave amplitudes
+<2.0 mV
+<0.9 mV
+Giant breeds
+<2.5 mV
+S-T' segment
+Depression
+<0.2 mV
+No depression
+Elevation
+<0.15 mV
+No elevation
+T' wave
+<0.25 of normal R
+<0.3 MV
+wave amplitude
+Q-T' interval
+0.15-0.25 sec
+0.12-0.18 sec
+Figure 7.2 ECG illustrating prolonged (0.06 sec) and notched P waves; this is termed
++40° to +100°
+P-mitrale. From an 8-year-old Dobermann with dilated cardiomyopathy (50 mm/sec
+Mean electrical axis
+0° to + 160
+and 10 mm/mV).
+Note that in^ECG-speak'^enlargement’is commonly used to en-
+is often associated with mitral valve disease). The notching occurs as
+compass either hypertrophy or dilation, as these can rarely be distin-
+a result of asynchronous depolarisation of the atria, the dilated left
+guished reliably on an ECG.
+atrium depolarising fractionally later than the right atrium. Note:
+Table 7.1 lists normal values giving ECG complex durations and
+giant breeds often normally have slightly prolonged P waves.
+amplitudes. Measurements are usually measured in lead II at 50
+mm/sec, unfltered.
+Right atrial enlargement
+When there is right atrial (RA) enlargement (or dilation) the P wave
+Left atrial enlargement
+is increased in amplitude (Fig. 7.3). Such tall P waves are referred
+When there is left atrial (LA) enlargement (or dilation) the P wave is
+to as P-pulmonale (as RA enlargement may be associated with cor
+often prolonged and sometimes also notched (Fig. 7.2). A prolonged
+pulmonale). Note that P-pulmonale is commonly seen in breeds that
+and notched P wave is referred to as P-mitrale (as LA enlargement
+are predisposed to chronic airway disease.
+49
+Guide
+ctory
+Introdt
+An
+ECGs
+Animal
+Small.
+Figure7.3 ECGillustrating tall P waves (0.5 mV); this is termed P-pulmonale. There is
+Figure 7.4 ECG illustrating tall R waves (6.0 mV) and prolonged QRS complex
+fine muscle tremor artifact affecting the baseline. From a 1U-year-old Yorkshire terrier
+duration (0.06 sec), which is suggestive of left ventricular enlargement. From a
+with long-standing tracheal collapse (25 mm/sec and 10 mm/mV).
+l-year-old German Shepherd dog with a patent ductus arteriosus (50 mm/sec and
+5 mm/mV).
+Left ventricular enlargement
+largement are: prolongation of the QRS duration or a shift in the
+Tall R waves are suggestive of left ventricular (LV) enlargement
+MEA to the right.
+(Fig. 7.4). An R wave in lead I greater than leads II or aVF, may
+Abnormal mean electrical axis (MEA)
+be associated with hypertrophy. An increase in R waves in leads I,
+II and II may be associated with dilation. Other ECG features that
+ A right axis may suggest right ventricular enlargement (Fig. 7.5), but
+ may be due to displacement of the heart within the chest to the right
+duration, S-T segment sagging/coving (see page 53) or a shift in the
+side or might even be a normal-variation. A conduction disturbance
+mean electrical axis (MEA) to the leff.
+ sd ose (e ra as y q  n se s s
+right axis deviation.
+A left axis may be due to left ventricular enlargement, but may be
+Right ventricular enlargement
+due to displacement of the heart within the chest to the left or it may
+Deep S waves are suggestive of right ventricular (RV) enlargement
+ be a normal- variation. A conduction disturbance such as left anterior
+50
+(Fig. 7.5). Other ECG features that may be associated with RV en-
+fascicular block (see Chapter 10) also produces a left axis deviation.
+Low-voltage QRs complexes
+QRS complexes will be smaller the further the electrodes are from the
+Changes
+heart and depend on the resistance to electrical conduction between
+the heart and the electrodes. For example, the ECG complexes are
+in the 
+However, complexes can be small in limb leads in obese animals.
+Heavy filtering on the ECG machine can also reduce the amplitude
+:P-QRS-T
+of the ECG complexes significantly.
+Small complexes in dogs may be due to obesity, effusions ( pericar-
+dial, pleural, ascites), hypothyroidism, hyperkalaemia, pneumotho-
+rax, some respiratory diseases, hypovolaemia or it may be a normal-
+morphology
+variation.
+ECG characteristics
+An R wave amplitude less than 0.5 mV in the limbleads is considered
+siemoi ys sixe ue pue ii pue I speaT ut saaem s daap suesnl! Dog S'z ana
+small in dogs (Fig. 7.6). QRS complexes are usually small in normal
+aVR, i.e. to the right. From a 2-year-old West Highland White terrier with pulmonic
+cats.
+stenosis (25 mm/sec and 5 mm/mV).
+Figure 7.6 ECG illustrating small ECG complexes in a dog (25 mm/sec and 10 mm/mV)
+51
+-AnIntroductory Guide
+Small Animal ECGs-
+Figure 7.7 (a) ECG illustrating electrical alternans - note the alternating amplitude of the R waves. Froma Golden Retriever with pericardialeffusion due toidiopathic pericarditis
+(25 mm/sec and 10 mm/mV).
+Electrical alternans is associated with movement ofthe heart within
+pericardial effusion, which is evident on echocardiography where the
+heart can be seen to bounce′ from side to side within pericardial fluid
+ as it beats. This movement of the heart causes a slight alternating
+change in the cardiac axis and is seen on the ECG as an alternating
+variation in QRS amplitude. Note: this should not be confused with
+the more gradual variation in amplitude seen with respiration in some
+animals, nor the variation seen with a supraventricular tachycardia
+or atrial fibrillation.
+Aepuoas uoisna ieipieriad ym sop praydays ueua e uog a (a) Z'tauna
+Notching in the R wave
+toa right atrialhaemangiosarcomaillustrating electricalalternans.TheQRScomplexes
+are arrowed. Note the alternating amplitudes of the R waves, S waves and T waves in
+Although these abnormalities can be seen commonly in heart dis-
+this example (25 mm/sec and 10 mm/mV).
+ease in small animals, the significance of notches is debatable - it
+is the ‘heart disease’ that is of greater importance than trying to
+Electrical alternans
+analyse every minutia. Notches in the QRS complex are reported to
+Thisis an alternation in QRS amplitude that occurs nearly every othen
+occur with microscopic intramural myocardial infarction or are as-
+52
+beat (Fig. 7.7).
+sociated with areas of myocardial fibrosis (Fig. 7.8). Notches in the
+ Changes
+in the P-QRS-T
+morphology
+Figure 7.7 (c) ECG from a German Pointer with pericardial effusion. In addition to the electrical alternans, also note the rising S-T segment sometimes seen with pericardial
+disease (arrowed) (25 mm/sec and 10 mm/mV).
+QRS complex are also seen with intraventricular conduction defects
+·hypercalcaemia
+(see Chapter 10) and a slight notch is sometimes also seen with ven-
+·digitalis
+tricular pre-excitation in the upstroke of the R wave (see Chapter 11).
+·atropine
+Notches can also be produced artifactually in tracings in which there
+·beta-blockers and calcium channel antagonists.
+is excessive muscle tremor or electrical interference.
+S-T segment abnormalities
+Q-T interval abnormalities
+S-T elevation is seen in:
+The Q-T interval varies a little, inversely with heart rate, so it is
+difficult to accurately define what is exactly abnormal.
+·pericarditis (pericardial effusion) (Fig. 7.7c)
+· severe ischaemia/infarction, e.g. full wall thickness.
+ Prolonged Q-T intervals may be seen in:
+S-T depression is seen in (Fig. 7.9):
+· hypocalcaemia
+·endomyocardial ischaemia (e.g. cardiomyopathy, trauma)
+·hypokalaemia
+· potassium imbalance
+·
+ hypothermia
+·digitalis toxicity.
+·
+quinidine
+· ethylene glycol poisoning.
+Abnormalities of the Twave
+Shortened Q-T interval may be seen in:
+The morphology of T waves in small animals is very variable and
+the diagnostic value of T wave changes is very limited compared
+53
+·hyperkalaemia
+Small Animal ECGs- An Introductory Guide
+Figure 7.8 ECG illustrating notching in the QRS complex. From a
+it with dilated cardiomyopathy (50 mm/sec and 20 m/mV)
+54
+Figure 7.9 ECG illustrating depression of the S-T segment. From a 4-year-old Staffordshire Bull Terrier with mitral valve dysplasia (50 mm/sec and 10 mm/mV).
+Changes
+3
+the
+Figure 7.10 (a) ECG illustrating a bradycardia at 50/min, the absence of P waves (atrial standstill) and tall peaked T waves from a dog with hyperkalaemia (25 mm/sec and
+10 mm/mV)
+P-QRS-T
+with that of humans. A higher value might be placed on T wave
+Hyperkalaemia may be associated with Addison's disease, acute
+ s n   s e  n 
+renal shutdown (e.g. feline urethral obstruction syndrome), diabetic
+The most common abnormal change is the development of large T
+ketoacidosis and severe skeletal muscle damage.
+morphology
+below) or myocardial hypoxia.
+ECG characteristics
+The ECG changes vary with increasing severity of the hyperkalaemia
+as follows:
+Hyperkalaemia
+· there is a progressive bradycardia
+· increased amplitude of the T wave, appearing narrow and spiked
+Hyperkalaemia is a well known cause of ECG abnormalities
+(Fig. 7.10), but it must be remembered that a normal ECG would not
+· progressive decrease in amplitude of the R wave
+ progressive reduction in amplitude of the P wave
+ disappearance of the P wave, i.e. atrial standstill, with a slow junc-
+levels should always be measured (and an adrenocorticotrophic hor
+tional (nodal) rhythm
+mone test performed) if this is suspected.
+·finally, ventricular fibrillation or asystole
+Figure 7.10 (b) ECG from a young dog with Addison's disease and atrial standstill. Note that, unlike in Figure 7.10(a), the T waves are not tall and peaked. The absence of
+characteristic T wave morphology' on an ECG tracing does not exclude hyperkalaemia (25 mm/sec and 10 mm/mV).
+55
+PART 3
+More advanced electrocardiography
+57
+8
+8 · Understanding the EcG limb lead systems
+Understanding 
+An understanding of the ECG lead systems is necessary to under-
+Table 8.1. ECG cable colour coding.
+stand both the cardiac electrical axis and intraventricular conduction
+the
+defects, which follow this chapter.
+Labelling often on medical
+ECG
+Limb
+Standard
+American
+ECG machines
+ Right fore
+Red
+White
+RA (right arm)
+limb
+The six ECG limb leads
+Left fore
+Yellow
+Black
+LA (left arm)
+Left hind
+Green
+Red
+LL (left leg)
+lead
+In Chapters 2 and 3, the +ve and -ve electrodes, in the diagrams,
+Right hind (earth)
+Black
+Green
+RL(right leg)
+were placed so as to obtain a recording of the electricity of the heart.
+I systems
+This combination of a +ve and -ve electrode is termed a bipolar
+lead, simply meaning between two poles, i.e. a +ve and a -ve pole
+(electrodes). For example, lead 2 is formed by the right fore elec-
+trode being the negative pole and the left hind electrode the positive
+can provide a total combination of six ECG leads.! Thus the six limb
+leads look at' the heart in six different directions.
+pole. Leads 1, 2 and 3 are all bipolar leads (Figs 8.1 a, b, c). However,
+the term lead' can cause immense confusion, as an ECG cable or wire
+Occasionally, I receive ECGs from students with only the first four
+leads recorded (i.e. I, I, II and aVR). On enquiring as to why the
+is often also called an ECG lead in common parlance. This potential
+confusion should be avoided.
+other two leads (aVL and aVF) were not recorded I am told: ^because
+ there are only four leads on the ECG machine? That confusing term
+While there are usually four ECG cables or wires (I'll avoid the
+term “lead’ here!), one ofthese is an earth, each with an electrode clip
+again! There are four cables, one is an earth and the other three are
+(e.g. crocodile clip). The other three are the active cables to which the
+active, these three provide a combination of six ECG leads.
+-ve and +ve electrodes are connected. All cables are labelled and/or
+colour coded for identification (Table 8.1), to ensure correct place-
+ment on each of the limbs (although the colour codings of Europe
+1 A small portion of 'poetic licence’ is used in this statement. Correctly, leads 1, 2
+and America are not the same).
+and 3 are bipolar leads, however leads aVR, aVL and aVF are augmented unipolar
+leads. Unipolarleads measure the electrical potential between a positive electrode and
+When the ECG clips are then attached to the animal, switching
+a central terminal created electronically within the circuitry of the ECG machine by
+^channels' on the ECG machine can provide different leads as shown
+combining the electric currents obtained from the two other electrodes. The deflections
+below (Fig. 8.1). It can be seen how three ECG cables and electrodes
+are smaller than the bipolar leads and thus they are also augmented (1.5 times).
+59
+Small Animal ECGs-AnIntroductory Guide
+(a)
+Lead|
+(b)
+(c)
+LF
+RF
+ve
++ve
+-ve
+inactive
+inactive
+ve
+Lead ll
+Lead Ill
+inactive
+Earth
+Earth
+Fve
+Earth
+Fye
+RH
+LH
+RH
+LH
+RH
+LH
+(p)
+(e)
+f)
+Lead aVR
+Lead aVL 
+LF
+RF
++ye
++ve
+LeadavF
+ve
+-ve
+Earth
+Earth
+Earth
+RH
+LH
+RH
+LH
+RH
+LH
+Figure 8.1 These diagrams illustrate how the six limb leads are generated by switching the electrode connections.
+60
+6
+9 · Mean electrical axis (MEA) explained
+Mean
+electrical
+Although depolarisation waves spread through the heart in all direc-
+tions, the average direction and magnitude is represented by the QRS
+axis
+complex. Ifthe QRS is predominantly positive (upwards),the average
+Lead aVL
+RA
++ve
+(MEA)
+direction of the depolarisation waves is towards the +ve electrode.
+Lead aVR
+Conversely, if it is predominantly negative (downwards) then the
++ve
+ depolarisation wave is moving away from the +ve electrode. When
+I explai
+the QRS complex is equally positive and negative (and usually also
+Lead I
+i o se iu ie  si am uood  un (s
+ained
++ve electrode.
+The limb leads ^look at' the heart from six different directions. The
+average direction and magnitude of the depolarisation wave through
+the ventricles is termed the mean electrical axis (MEA) or the cardiac
+axis. As can be seen from Fig. 9.1, in which there is a normal axis,
+leads I, II, III and aVF have positive deflections and aVR and aVL are
++ve
++ve
+Lead III
++ve
+Lead II
+negative.
+Lead aVF
+Right axis deviation
+If the right ventricle becomes enlarged as illustrated (either with
+Figure 9.1 A normal mean electrical axis (large shaded arrow) and how this is 'seen'
+from the six limb leads. RA - right atrium; LA - left atrium; RV - right ventricle;
+hypertrophy or dilation), then the MEA swings to the right, because
+LV - left ventricle.
+the large increase in muscle mass on the right side creates a large
+electrical potential difference during depolarisation.
+Left axis deviation
+In Fig. 9.2, for example, leads IHI and aVR become large and posi-
+tive. Leads I, II and aVL become negative. Lead aVF is isoelectric in
+- p auoda  ral paea s a  a 
+this example. This is termed a right axis deviation.
+lation), then the MEA swings to the left, because the large increase
+61
+ide
+n5
+ctor
+aVL
+aVR
++ve
+aVL
+AnIntrodu
++ve
+aVR
++ve
++ve]
+S5
++ve1
+H
+Animal
+Small
++ve
++ve
++ve
+aVF
++ve
+avF
+Figure 9.2 The mean electrical axis (large shaded arrow) in an animal with right
+ventricular enlargement (RVE) and how this is 'seen' from the six limb leads.
+-un al yim jeue ue ut (moie papeys ahie) sixe jetioala ua ayl e'6 aina
+in muscle mass on the left side creates a large electrical potential
+tricular enlargement (LVE) and how this is 'seen from the six limb leads.
+difference during depolarisation.
+to assist in the assessment of ventricular enlargement and in the
+In Fig. 9.3, for example, lead I becomes taller than lead I1. LeadaVL
+recognition of intraventricular conduction defects.
+is also positive. Leads IHI and aVR are negative and aVF is isoelectric.
+The value in exactly measuring the MEA in every case is question-
+This is termed a left axis deviation.
+able; a rough estimate of whether it is right or left is usually sufficient.
+However, the understanding of how it is measured and how it varies
+How to calculate the mean electrical axis
+provides a better understanding of the ^electricity of the heart.
+This is of limited value in small animals, in part because the vector in
+How to estimate the MEA
+the frontal plane (which is the plane that is measured from limb
+leads) is less representative of the true direction of the vector in
+There are a few methods of measuring the MEA; two are described
+62
+three dimensions, compared with humans. The MEA is used mainly
+here.
+(1) Eyeballing the MEA
+6
+ Using this method provides a quick system and, with practice, the
+MEA can often be eyeballed' to see whether it is normal or abnormal.
+Mean
+Look again at the previous diagrams describing right and left axes,
+and how the amplitude of the QRS complex varies in leads I, II and
+electrical
+5mm
+III with these.
+(i) Using all six limb leads and the hexaxial lead system, find the
+lead in which the QRS complexes have the greatest (positive) net
+axis
+amplitude - the MEA is approximately in this direction.
+(MEA)
+(i) Similarly,find the most negative complexes, the MEA is opposite
+ in direction to this.
+(ii) Alternatively, find the lead in which the QRS complex is equally
+ explained
+positive and negative (and usually small) - this is called the
+(b)
+120
+isoelectric lead. The MEA will be perpendicular to this. Find
++aVR
+which of the six limb leads is perpendicular to the isoelectric
+av
+lead. If the perpendicular lead is positive, then the MEA is in
+that direction. If the perpendicular lead is negative, then the
+MEA is in the opposite direction to that lead.
+1B0
++180
+(2) Triangulation
+Using two leads from a good-quality tracing, commonly leads I and
+III are used to measure the net amplitude of the QRS complex in
+each lead. In other words, measure the amplitude of the QRS com-
++120
+plex that is positive and the amplitude that is negative. Subtract one
++ II
+06+
+Ⅱ+
+(the smaller) from the other - this is the net amplitude. Plot this,
++ avF
+to scale, on the hexaxial lead system shown below (Fig. 9.4). Draw
+Figure 9.4 Estimation of mean electrical axis. (a) Method 1. In this normal canine
+ perpendicular lines from each point. Where the two lines meet is the
+ECG, lead aVL is the most isoelectric lead. Perpendicular to this is lead II. Lead II
+direction of the MEA from the centre point.
+is positive and therefore the MEA is towards the positive pole of this line, i.e. +60°.
+ In fact, if the net amplitude in all six leads is calculated and plot-
+(b) Method 2. In the same ECG. The net amplitude in lead I is +6 (Q = 0 and
+ted on the hexaxial lead system, the lines that are drawn perpen-
+R = +6). Plot 6 points along lead I in the hexaxial lead system diagram and draw a
+perpendicular. The net amplitude in lead I is +6 (S = —2 and R = +8). Plot 6 points
+dicular from each point should all meet at approximately the same
+along lead IlI and draw a perpendicular. Draw an arrow from the centre to where the
+point.
+two perpendicular lines intersect. This is the direction of the MEA, i.e. +60°.
+63
+Guide
+10 . Intraventricular conduction defects
+Having understood the ECG leads and mean electrical axis, we can
+tricle occurs normally, but depolarisation of the right ventricular
+An
+now explain abnormalities due to intraventricular conduction defects
+ mass occurs through the myocardial cell tissue resulting in a very
+(aka ventricular aberrancy).
+prolonged complex.
+ECGs
+-dns sauq aunq iiu pue yat ou sapip si yo aunq a
+ECG characteristics
+Animal
+The left bundle branch further divides into anterior and posterior
+The QRS duration is prolonged (>0.07 seconds). The QRS complex
+fascicles. As well as conduction block occurring in the AV node (i.e.
+has deep and usually slurred S waves in leads I, I, II and aVF and is
+Small,
+heart block), a block can occur in conduction of the electrical im-
+ positive in aVR and aVL. The MEA is to the right (Fig. 10.la and b).
+pulse through one or more of these conduction pathways. The most
+Note that RBBB needs to be differentiated from a right ventricular
+commonly seen conduction defects seen are
+enlargement pattern.
+in dogs:
+(a)
+· right bundle branch block (RBBB)
+· left bundle branch block (LBBB)
+and in cats:
+· left anterior fascicular block (LAFB).
+These result in abnormal depolarisation patterns as there will be
+a delay in depolarisation of the part of the ventricles supplied by
+the affected conduction tissue. This is also referred to as aberrant
+QRSQRS'QRS
+ventricular conduction or ventricular aberrancy.
+Figure 10.1 (a) ECG (lead II) from a 10-year-old mixed breed dog with a normal sinus
+rhythm at 140/min, but conducted with aberrancy through the ventricles due to right
+Right bundle branch block
+bundle branch block. This was an incidental finding. Note the abnormal morphology
+of the QRS complexes, with deep (negative) Q waves and prolonged QRS duration.
+Right bundle branch block (RBBB) occurs due to failure/delay of 
+ There is a P for every QRS, indicating the sinus origin of the depolarisation (25 mm/sec
+64
+impulse conduction through the RBB. Depolarisation of the left ven-
+and 10 mm/mV).
+(b)
+/S1:10e1::2O:0Z
+Intraventi
+ricular
+LM
+defec
+Figure 10.1 (b) ECG from a mixed breed dog with RBBB showing allsix limbleads. The complexes are very prolonged and negative in leads 2, 3 and aVF and the most positive
+lead is aVR (50 mm/sec and 10 mm/mV).
+An animal with atrial fibrillation can concurrently have bundle
+(c)
+branch block (Fig. 10.1c); this is often a more challenging ECG
+interpretation!
+Clinical findings
+LNNNNNLNLLLN
+The heart sounds and rhythm will sound normal with associated
+palpable pulses. In some dogs, with very careful auscultation a split
+second heart sound (S2) may be heard, due to delayed closure of the
+pulmonic valve.
+Left bundlebranch block
+Figure 10.1 (c) ECG (lead I) from dog with atrial fibrillation (note the irregular R-R
+intervals and the fibrillation waves) and right bundle branch block (deep S waves and
+Left bundle branch block (LBBB) occurs due to failure of conduc-
+prolonged QRS durations) (25 mm/sec and 10 mm/mV).
+tion through the LBB. Depolarisation of the right ventricle occurs
+65
+An Introductory Guide
+ECGs
+Animal
+of the QRS complexes, yet related to the P waves, i.e. there is a P for every QRS, indicating the sinus origin of the depolarisations (50 mm/s and 10 mm/mV).
+Small.
+normally and depolarisation of the left ventricle is delayed and
+ECGcharacteristics
+occurs through the myocardial cell tissue resulting in a very pro-
+The QRS duration is very prolonged (>0.07 seconds). There are
+longed complex.
+positive complexes in leads I, I, III and aVF and negative in aVR and
+50
+Figure 10.2 (b) ECG from an 8-year-old Boxer dog with LBBB showing allsix limb leads. Note the very prolonged QRS complexes and leads 1, 2, 3 and aVF are positive wherea5
+66
+aVR and aVL are negative (50 mm/sec and 5 mm/mV)
+Clinical findings
+0
+The heart sounds and rhythm will sound normal with associated
+palpable pulses.
+Intraventi
+Left anterior fascicular block
+ricu
+Left anterior fascicular block (LAFB) occurs due to failure of conduc-
+lar
+tion through the anterior fascicle of the LBB. It is not an uncommon
+cond
+finding in cats but is rare in the dog.
+ECG characteristics
+The QRS complex is normal in duration but there are tall R waves in
+defec
+leads I and aVL, deep S waves ( >R wave) in leads II, III and aVF. The
+MEA is markedly to the left; approx. -60° in the cat (Fig. 10.3a).
+Figure 10.3 (a) ECG from acat with taurine-responsive dilated cardiomyopathy. There
+A cat with atrial fibrillation can also concurrently have fascicular
+is a normal sinus rhythm but aberrant ventricular conduction due to anterior fascicular
+block (Fig. 10.3b).
+block (see text) (25 mm/sec and 10 mm/mV)
+Clinical findings
+The heart sounds and rhythm will sound normal with associated
+aVL (Fig. 10.2). LBBB needs to be differentiated from a left ventricular
+enlargement pattern.
+palpable pulses.
+人人入人
+Figure 10.3 (b) ECG from a cat with atrial fibrillation and anterior fascicular block.
+67
+SmallAnimal ECGs-An IntroductoryGuide
+Figure 10.4 (a) ECG showing intermittent right bundle branch block. Note that there is a sinus rhythm throughout, with a P wave preceding every QRS complex, however there
+is a change in morphology with some (arrowed) (25 mm/sec and 10 mm/mV).
+Figure 10.4 (b) ECG from 4-year-old Golden Retriever with a broad complex tachycardia, which could be either a ventricular tachycardia or an SVT with aberrancy. Following
+cardioversion an underlying right bundle branch block was evident, confirming this to be an SVT (50 mm/sec and 10 mm/mV)
+68
+More terminology..... VPC morphology
+In Chapters 4 and 5 the morphology ofVPCs was described as having a -ve or +ve QRS complex. In ECG-speak however, the morphology
+Intraventi
+of the QRS complex is described as being of LBBB or RBBB morphology. It is not until ventricular aberrancy has been explained, that this
+terminology can be used. So for example in Figs 4.1, 4.8b and 5.5a the VPCs would be described as having RBBB morphology and in Figs
+4.2c, 5.3, 5.4b and 5.7c they would be described as having LBBB morphology.
+In Boxer dogs with arrhythmogenic right ventricular cardiomyopathy, in which the VPCs arise from the right ventricular outflow tract
+they are described as VPCs with LBBB morphology.
+CQ
+Intermittentventricular aberrancy
+ECG characteristics
+This is sometimes seen when a supraventricular premature depo-
+The QRS complex is bizarre and prolonged, often a right bundle
+larisation reaches the bundle branches before one or other has
+branch block morphology and is premature. It can be very diffcult
+det
+fully repolarised (usually the right bundle branch), ie. is still par-
+ to distinguish from a true VPC (Fig. 10.4a). If there is a preceding P
+tially depolarised, which results in a functional block. Because
+wave visible (and not hidden by the previous T wave) then this might
+the QRS complex is premature and bizarre in shape it mimics a
+help to confirm it was a supraventricular complex.
+VPC.
+An SVT with aberrancy will mimic a VT (Fig. 10.4b)
+If a supraventricular tachycardia (SVT) is associated with aber-
+rant ventricular conduction, this will mimic a ventricular tachycardia
+Clinical findings
+(VT). Thus the term a broad complex tachycardia is sometimes used
+ u  ssd e u m e q ad at sos 
+to describe this ECG finding.
+with aberrancy will simply produce a tachycardic sounding heart with
+weak pulses.
+69
+Guide
+11 · Some additional arrhythmias
+Introdu
+Ventricular pre-excitation
+ECG characteristics
+An
+ an ss ou  an  ssd an uam so s
+node through an accessory conduction pathway to the ventricles
+ complex itself. There is a short PR interval, a slur or notch (delta
+and therefore depolarises the ventricles prematurely. The impulse
+wave) in the upstroke of the R wave and a slight prolongation of the
+ QRS complex (Fig. 11.1). In WPW syndrome the supraventricular
+the ventricles with the rest of the ventricles being activated in the
+tachycardia is often in excess of 300/min.
+normal sequence through the AV node. There are believed to be
+Small
+three accessory pathways: bundles of Kent, James fibres and Mahaim
+fibres.
+Clinical findings
+The Wolff-Parkinson-White (WPW) syndrome consists of ven-
+ If examined during a period of tachycardia, this will be heard and
+weak femoral pulses appreciated. If there is not a tachycardia present,
+tachycardia.
+ The heart rhythm (except with WPW syndrome) is unaffected and
+the pre-excitation will not produce an audible difference from that
+of a normal sinus complex.
+is usually regular.
+Atrial flutter
+This is a rare arrhythmia in dogs and it has not been documented in
+cats.
+ECG characteristics
+The flutter waves (F waves) produce regular ^saw-toothed’ deflec-
+Figure 11.1 (a) ECG from a 3-year-old Labrador with pre-excitation. Note the abnor
+tions typically at a rate of 300-400/min, if seen. The ventricular
+70
+mally short PR interval (25 mm/sec and 10 mm/mV).
+response is typically to produce a supraventricular tachycardia (this
+10mm/mV25mm/sFi1
+ⅡⅢ
+Some
+additional arrhythmias
+Figure 1l.1 (b) ECG from a 4-year-old Boxer with pre-excitation. Note the short PR interval and the aberrant ventricular conduction with a right bundle branch morphology
+(25 mm/sec and 10 mm/mV).
+is thus another potential cause of SVT). At high rates there may be
+rate will be regular, however often the conduction can be variable,
+a functional AV block thus producing a 2:1 or 3:1 conduction ratio
+producing an irregular heart rate (similar to atrial fibrillation).
+Clinical findings
+The heart rate is typically very fast and can be regular or irregular.
+Accelerated idioventricular rhythm
+This is an ectopic ventricular rhythm that is often not particularly fast
+Figure ll.2 ECG from a I-year-old Boxer dog with atrial flutter. Note the flutter waves
+( <180/min) and thus sometimes is described as a slow ventricular
+and the variable capture rate, most of the time it is 2:1 (25 mm/sec and 10 mm/mV).
+tachycardia (VT).
+71
+AnIntroductoryGuide
+Small Animal ECGs.
+Figure 1l.3 ECG from an Old English Shepherd dog with pancreatitis and an idioventricular rhythm at 130/min (too slow to be considered a ventricular tachycardia, cf. Fig. 5.7,
+p. 28-29) (25 mm/sec and 10 mm/m V).
+ECG characteristics
+It looks like a slowVT (Fig.11.3).
+Clinical findings
+The heart rate is typically regular to match to the rate, however the
+rhythm may be irregular if not constant and intermingled with the
+underlying sinus rhythm.
+72
+PART 4
+Management and treatment of arrhythmias
+73
+12 · Management of arrhythmias
+Management
+Arrhythmias are a frequent finding in cardiac disease but are also
+particularly if there are congestive failure signs prior to considering
+often secondary to systemic diseases.
+specific antiarrhythmic drugs.
+f arrhythmias
+Before using specific antiarrhythmic drugs, which have the poten-
+A review of any concurrent antiarrhythmic drugs should also be
+tial to be proarrhythmic, two questions need to be answered.
+considered as a possible iatrogenic cause of arrhythmias. For example,
+sotalol may lead to AV block, pimobendan may exacerbate re-entrant
+(1) Does the arrhythmia suggest the presence of an underlying
+ arrhythmias, digoxin may trigger ventricular arrhythmias and the-
+condition?
+ophylline may result in supraventricular arrhythmias.
+(2) Is the arrhythmia of primary clinical significance?
+However there are some specific situations, i.e. Boxers and
+Dobermanns, with dilated cardiomyopathy: in addition to treatment
+for the heart failure, antiarrhythmic drugs are considered appropriate
+(1) Does the arrhythmia suggest the presence
+to reduce the likelihood of sudden death (see later).
+of an underlying condition?
+Possible underlying conditions can be broadly categorised into pri-
+Non-cardiacdiseases
+mary cardiac diseases and non-cardiac diseases.
+There is a very large list of medical conditions that can trigger effects
+on the heartleading toarrhythmias. These conditions mayrange from
+Primary cardiac diseases
+There is potential for any clinically significant cardiac disease to lead
+associated with splenic disease or gastric dilation, and from arrhyth-
+   q      ss  
+ on (ss Ards oi ap ia) erxodau A p s
+arrhythmias. Typically atrial dilation and stretch can lead to atrial ar-
+arrhythmia associated with intracranial disease. When presented
+rhythmias such as supraventricular premature complexes and atrial
+ with an animal in which diagnostics have not revealed the presence
+fibrillation. Ventricular dilation or hypertrophy can lead to ventric-
+of a primary cardiac condition, then the search needs to be widened
+ular premature complexes. In general practice mitral valve disease
+for a non-cardiac condition, by very thorough and comprehensive
+would be the most common cause of atrial dilation in dogs leading
+physical examination (and history) together with extensive blood
+to supraventricular arrhythmias and the cardiomyopathies would be
+ profles, urine analysis and radiography and/or ultrasonography to
+a common cause of ventricular arrhythmias in both dogs and cats.
+ screen for non-thoracic diseases. In the vast majority of situations in
+In such cases it is important to manage and treat the heart failure
+      s    
+75
+Guide
+arrhythmia, treatment directed towards the condition will lead to a
+and are able to walk into the clinic, however heart rates lower than
+resolution of the arrhythmia. Simple monitoring of the arrhythmia
+25/min tend to start producing weakness or recumbency. Dogs with
+may be all that is required in many cases, unless the arrhythmia is
+ a sinus arrest pause of 20 seconds at rest (i.e. low metabolic demand)
+actory
+of primary significance. Additionally monitoring of the arrhythmia
+may not necessarily faint, however the same pause at exercise would
+can often be a good means to assess response to treatment of the
+result in syncope.
+Introdue
+medical condition, e.g. resolution of atrial standstill in dogs with
+With tachyarrhythmias, as the heart rate increases there is less dia
+Addison's disease.
+stolic filling time, which consequently reduces the stroke volume and
+It may be that arrhythmias develop as a consequence of medical
+An
+thus the cardiac output. The degree of reduction in stroke volume
+drug therapy and a review of all concurrent medications should be
+ is greater with ventricular arrhythmias than with supraventricular
+ECGs-
+performed.
+arrhythmias. With a supraventricular arrhythmia, the depolarisa-
+tion, and thus the contraction, of the left ventricle sustain a normal
+IAnimal
+sequence, which is efficient. Whereas when there is a ventricular ar-
+(2) Is the arrhythmia of primary clinical significance?
+rhythmia, depolarisation and contraction is inefficient and ejection
+         
+of blood is not well coordinated, resulting in a greater reduction in
+Small.
+ in signs of haemodynamic compromise, has the potential to lead to
+stroke volume. Thus a supraventricular tachycardia may not result
+sudden death or could lead to heart failure, e.g. tachycardia-induced
+in signs of forward failure and weakness or collapse until it exceeds
+myocardial failure.
+ 300/min, whereas a ventricular tachycardia may produce haemody-
+namic compromise at rates as low as 200/min. The heart rate at
+Arrhythmiascausing haemodynamiccompromise
+which clinical signs of compromise occur will also be influenced by
+As a generalisation, animals with arrhythmias but no clinical signs
+the presence of concurrent disease.
+ In contrast, it should be understood that occasional or even fre-
+should not be medicated with antiarrhythmic drugs. Haemodynamic
+quent arrhythmias are not likely to result in haemodynamic compro.
+compromise, and thus clinical signs, will occur when an arrhythmia
+results in a significant reduction in cardiac output. This can result
+mise. As a generalisation there needs to be a sustained reduction in
+cardiac output to produce signs, which will usually mean a sustained
+due to either bradyarrhythmias or tachyarrhythmias.
+arrhythmia, or at least long periods of an arrhythmia.
+Cardiac output = Stroke volume × Heart rate
+The clinical signs of haemodynamic compromise are essentially
+those of forward failure, i.e. reduced mental status, weak/poor pulse
+When the heart rate slows, there is a natural compensatoryincrease in
+stroke volume to sustain cardiac output (Starling's Law of the heart)
+cold extremities. Blood pressure assessment is useful to check for
+and thus systemic blood pressure. However if a bradycardia were to
+hypotension, although it can often be diffcult to obtain a blood
+be profound, it would reach a point at which there is an inability  pressure recording accurately in hypotensive animals. Animals may
+to compensate for the reduction in heart rate. Typicall dogs with  also present with a history of syncope or pre-syncope, recumbency
+76
+complete AV block with a heart rate of 30-40/min remain conscious  or even sudden death. In animals with concurrent disease, whether
+cardiac or non-cardiac, it can sometimes be difficult to ascertain if
+Atrialfibrillation
+12
+the signs are necessarily due to the arrhythmia or the disease. This
+Atrial fibrillation is most commonly associated with dilation and
+requires clinical judgement and experience.
+Manager
+stretch of one or both atria, resulting in the inability to sustain the
+normal depolarisation sequence. In such cases, animals present in
+Life-threatening arrhythmias
+heart failure with a sympathetic drive resulting in a rapid ventricular
+ment
+As a general rule a sustained and rapid ventricular tachycardia is
+response rate and >50% pulse deficit. Control of the ventricular
+considered the most likely to progress into ventricular fibrillation
+response rate is then desirable, minimising the pulse deficit. In dogs
+with myocardial disease, digoxin is considered the drug of choice, but
+and result in death, and thus rapid i/v cardioversion is normally per-
+other options include calcium channel antagonists and beta blockers.
+arrhytl
+formed. Additionally very frequent and multimorphic ventricular
+arrhythmias are usually considered malignant and require drug sup-
+In contrast, in giant-breed dogs that present with lone AF, i.e. not
+pression. Profound bradyarrhythmias, such as sinus arrest (or sick
+in heart failure, it is debatable whether any treatment is required
+hmias
+sinus syndrome) or AV block with an inconsistent and slow ventric-
+or not.
+a a pe u l pipi ae u adesa 
+urgent pacemaker implantation.
+Treatment of arrhythmias
+Having made the decision that an arrhythmia is of primary signif-
+Tachycardia-inducedmyocardialfailure
+icance, then antiarrhythmic drugs need to be chosen. However it
+This occurs as a consequence of an incessant tachycardia sustained
+is still important to remember that antiarrhythmic drugs may have
+Over a period of days or weeks. In dogs, this is most likely to be seen in
+proarrhythmic effects and can complicate the arrhythmia, thus con-
+association with a sustained supraventricular tachycardia. Myocar-
+finual monitoring and re-assessment is necessary. The aims of treat-
+dial failure develops, leading to signs of congestive heart failure. And
+ment also need to be considered in advance. It is often unlikely that
+whilst they may not seem urgent in the first few days, if cardiover-
+animals with frequent ventricular arrhythmias will have a complete
+sion is not successful, the relentless progression into heart failure
+resolution ofthe arrhythmias following medication. Thus judgement
+makes this a challenging case to manage, thus prompt cardiover-
+of the response should not be based on ECG findings alone, but im-
+sp rn pasns aq u a rie au aeiaaid s uoiss
+ portantly by the clinical improvement in the animal with a reduction
+or weeks following cardioversion to sinus rhythm and thus mimic
+or resolution of the signs.
+ dilated cardiomyopathy on echocardiographic examination.
+77
+Guide
+13 · Treatment of arrhythmias
+ictory
+Introdue
+Bradyarrhythmias
+sinus arrest must be to result in syncope depends on the activity
+An
+q  d s e a  a go ( a )
+  s e an  n q   n
+ECGs
+Sinus bradycardia
+Pre-syncope occurs if the duration of the sinus arrest is not quite
+Clinical significance
+sufficient to result in collapse but does cause signs of weakness or
+Animal
+stumbling.
+There are several conditions that may be associated with
+hypothermia, elevated intracranial pressure (e.g. following cranial
+sinus arrest that overlap with causes of sinus bradycardia (see
+Small.
+trauma), systemic disease (e.g. renal failure) or drugs (tranquillisers
+or antiarrhythmic drugs) and, additionally in cats, feline dysautono-
+Chapter 3):
+mia. Cats sometimes present with a sinus bradycardia when in heart
+vagal stimulation associated with severe respiratory disease (it can
+be normal in dogs with brachycephalic upper airway syndrome,
+sponses to heart failure is an increase in sympathetic tone (i.e. a
+for example) or associated with a vasovagal response, e.g. with
+tachycardia would be expected).
+vomiting or tenesmus;
+Treatment
+ atrial disease such as dilation, fibrosis, cardiomyopathy or neopla-
+This should be aimed at the primary cause. Vagolytic or beta agonist
+sia (e.g. haemangiosarcoma and heart base tumours);
+metabolic or endocrine diseases such as an electrolyte imbalance
+drugs can be used to increase the heart rate if symptomatic, but this
+or hypothyroidism;
+is rarely necessary.
+drugs, either due to their effects or associated with toxicity, must
+Sinus arrest/block
+also be considered;
+ irritation of the vagus nerve by neoplasia in the cervical area (e.g.
+Clinical significance
+thyroid carcinoma) or in the thorax (e.g. aortic body tumour).
+s n nsn o  xo an m  
+Sinus arrest / block can be a normal finding in some brachycephali
+dogs (i.e. exaggerated respiratory sinus arrhythmia).
+arrest;
+· profound and regular sinus arrest can be a feature of sick sinus
+A long period of sinus arrest may result in syncope, as no blood
+flows to the brain and fainting occurs. How long the period of
+syndrome.
+78
+Treatment
+Atrial standstill
+3
+Treatment is usually only required in symptomatic cases. Pacemaker
+Clinical significance
+Treatment
+implantation is a treatment option in some cases.
+Atrial standstill can be classified into three types, based on the un-
+derlying condition.
+Sick sinus syndrome (sinus node dysfunction)
+ s  g e   s   (
+Clinical significance
+English Sheep Dogs and mixed breed dogs and the author has
+ arrhyth
+As for sinus arrest described previously, prolonged periods of no
+seen cases in Cavalier King Charles Spaniels. This type is referred
+to as persistent atrial standstill and is thought to be an atrial car
+diomyopathy. The clinical signs are usually of weakness, lethargy
+hmias
+sinus bradycardia may present with lethargy and exercise intoler-
+and syncope associated with the reduction in cardiac output and
+ance due to an inability to increase cardiac output on demand. In
+the bradycardia-tachycardia syndrome either the bradycardia or the
+inability to increase the heart rate during activity. Heart failure
+   n  do ss e d  
+usually ensues insidiously.
+(2)  Atrial standstilis described as temporary atrial standstill when
+sult in weakness or syncope. It is most commonly seen in West High-
+land White Terriers (with or without idiopathic pulmonary fibrosis);
+it occurs as a consequence of a reversible condition. This may
+be due to hyperkalaemia, which can be secondary to Addison's
+has not been recorded in cats.
+disease, diabetic ketoacidosis and oliguric renal failure. Iatro-
+genic causes include excessive potassium infusion, transfusion
+ of stored blood and potassum-sparing diuretics. Digitalis tox-
+Treatment
+icity is also a possible cause that can be established from the
+If atropine (see boxed text below) or exercise fail to increase the heart
+history and measurement of serum levels. The clinical signs are
+rate significantly, it would suggest that excessive vagal tone is not the
+similar to persistent atrial standstill, with the addition of the
+cause of the bradycardia. The treatment of choice for symptomatic
+signs related to the primary condition.
+cases is pacemaker implantation and possibly also the addition of
+(3) Atrial standstill can occur in association with a dying² heart and
+antiarrhythmic drugs. It is usually diffcult to obtain satisfactory rate
+is termed terminal atrial standstill.
+ control with medical treatment alone.
+Clinically signs include weakness, lethargy, syncope and congestive
+heart failure. The prognosis is often poor.
+Atropine response test
+Treatment
+Inject 40 μg/kg s/c (dog and cat) and re-assess heart rate response
+Atropine usually does not increase the heart rate significantly. Treat-
+(ECGs) in 30 to 40 minutes.
+ment is directed towards congestive failure if present. Persistent atrial
+79
+Guide
+standstill is poorly responsive to any medication, including atropine
+Treatment
+and also rarely responds to pacemaker implantation (in the author's
+See complete heart block below.
+experience).
+Actory
+Mobitz type I
+Introdue
+Av (heart) block
+Clinical significance
+First degree AV block
+An
+Clinical significance
+Second degree AV block (Mobitz type I) is sometimes seen in normal
+dogs with sinus arrhythmia, particularly brachycephalic breeds.
+ECGs-
+First degree block does not, in itself, cause any clinical problems. It
+may occur normally in an animal with a slow heart rate or in ageing
+Complete heart block
+ Animal
+animals due to degenerative changes in the AV node. Other causes
+K hn roood se yns sirp ro 1o An sni ani
+Clinical significance
+occur when there is an abnormal potassium level. Treatment should
+Small,
+The clinical signs may include weakness, lethargy, syncope or sudden
+be aimed at correcting the underlying cause.
+death, depending on how slow the ventricular rate is, and the sub-
+Second degree AV block
+rhythm is usually associated with more marked clinical signs, with
+the possibility of sudden death. It is common in chronic cases, with
+Mobitz type Il
+a slow ventricular response rate, to find a generalised cardiomegaly
+Clinical significance
+with or without evidence of congestive heart failure on thoracic ra-
+diography. On auscultation a characteristic finding is a very regu-
+Advanced cases of second degree AV block may present with weak-
+lar and steady, but slow heart beat together with the palpation of
+ness, lethargy or syncope; it depends on the severity ofthe heart block
+ n  a s s e sd   
+and the consequent reduction in cardiac output. Auscultation reveals
+contraction sounds may be faintly audible. Complete AV block can
+an intermittent pause in the cardiac rhythm. Second degree AV block
+be associated with cardiomyopathy, cardiac neoplasia, digitalis toxi-
+that is severe or advanced (meaning the block occurs frequently) is
+city, AV node fibrosis, endocarditis, electrolyte imbalance and Lyme
+do on ssaiod A se adi sin si h '1 adi zi Aens
+AV block. It has been reported in older dogs with AV nodal fibrosis
+disease.
+and hereditary stenosis ofthe bundlle of His in the Pug, however many
+Treatment
+cases are idiopathic. It may also occur with digitalis toxicity or other
+drugs, e.g. xylazine, detomidine, atropine and quinidine, or with a
+Treatment may be attempted with parasympatholytic drugs (at-
+potassium imbalance. The author is also aware of some anecdotal
+ropine, probantheline) or sympathomimetic drugs (clenbuterol,
+80
+ reports of heart block in hypothyroid dogs.
+terbutaline). Millophyline may be of some help in cats, or
+theophylline in dogs. Pimobendan might also be tried, as this is a
+Left bundle branch block
+3
+positive dromotrope.
+Clinical significance
+ s     s  n
+Treatment
+provided symptomatic relief and reduce the risk of sudden death.
+The left bundle branch is thick and therefore a larger lesion is re-
+quired to produce conduction block. LBBB is therefore rare in nor-
+mal healthy animals and when it does occur it is often associated
+Drug doses
+with pathology: congenital (e.g. subaortic stenosis) or acquired heart
+f arrhythmias
+Parasympatholytic drugs
+chaemia, cardiac neoplasia or trauma. In itself, it does not cause any
+significant haemodynamic problems.
+· Atropine: dog/cat: 20-60 μg/kg q6-8 hr per os
+·Probantheline: dog: 0.5-2 mg/kg q8-12 hr; cat: 7.5 mg q8-12
+Left anterior fascicular block
+hr per os
+Clinical significance
+Sympathomimetic drugs
+It is often considered a relatively specific indicator of left ventricular
+Clenbuterol: dog: 1-5 μg/kg q8-12 hr; cat 1 μg/kg q12-24 hr
+myocardial disease inthe cat and can be seen with many heart diseases.
+ Terbutaline: 1.25-5 mg per dog q8 hr; 1.25 mg per cat q8 hr
+and electrolyte imbalance such as hyperkalaemia.
+Tachyarrhythmias
+Bundle branch block
+Sinus tachycardia
+Right bundle branch block
+Clinical significance
+Clinical significance
+Sinus tachycardia is a non-specific rhythm disturbance. Although it
+The right bundle branch (RBB) is long and slender, thus vulner-
+is often seen in heart failure, caused by a compensatory sympathetic
+able to damage. RBBB is not uncommon in normal healthy dogs
+drive, it is often due to a physiological response such as stress, ex-
+ but can be associated with congenital or acquired heart disease,
+citement and fear. Thus, it is of paramount importance to evaluate
+cardiac neoplasia and trauma. RBBB, in itself, does not cause any
+the ^state' of the patient - which during an ECG recording may, of
+significant haemodynamic problems, however, if damage to the left
+course, cause a degree of stress and fear! Comparing the heart rate
+bundle branch were also to occur it would lead to complete heart
+obtained during physical examination, when the animal is relaxed,
+block.
+is therefore invaluable in assessing its significance. Sinus tachycardia
+81
+Guide
+can also be as a result of a disease process such as pyrexia, pain,
+VT, multiform VPCs and ventricular bigeminy are usually associated
+anaemia, shock, dehydration, haemorrhage, septicaemia, toxaemia
+with severe underlying heart disease or a systemic disorder. R-on-
+or hyperthyroidism. Current medication, sedatives or anaesthetics
+T is believed to lead potentially to the development of ventricular
+ictory
+should also be taken into consideration.
+fibrillation and sudden death. Therefore itis considered an important
+finding that would warrant mana gement of the associated ectopia.
+Introdue
+Treatment
+Treatment
+This should be aimed at the primary cause, usually negating the need
+An
+to use antiarrhythmic drugs. Note: in animals in congestive heart
+Treatment of the primary underlying cause (e.g. congestive heart
+failure,a sinus tachycardia is often a necessarycompensatory response
+failure) will often produce a significant reduction in VPCs, thus in
+IECGs-
+in an attempt to maintain cardiac output. Thus antiarrhythmic drugs
+ many cases institution of antiarrhythmic drugs should be postponed
+are generally not used to slow the heart rate - treatment is directed
+to see if this occurs.
+Small Animal
+towards the congestive failure following which the heart rate then
+A ventricular arrhythmia is considered significant when it causes
+slows as sympathetic drive reduces.
+haemodynamic compromise and thus signs such as: pallor, exercise
+ intolerance, systemic hypotension, weakness / recumbency, syncope.
+Ventricular arrhythmias
+True frequency of serious arrhythmias may only be detected by
+24 hour Holter monitoring.
+Clinical significance
+·<200 VPCs per 24 hours is considered a low frequency.
+ Infrequent VPCs do not generally compromise the cardiac output
+· > 1000 VPCs per 24 hours is considered a high frequency.
+and, therefore, often do not require treatment (treatment should
+be directed towards the underlying cause). However, with a rapid
+In Dobermanns, a sustained ventricular tachycardia (VT) >30
+VT there is a marked reduction in cardiac output and animals may
+seconds is considered a predictor of sudden death.
+present with exercise intolerance, lethargy or collapse.
+Indications for antiarrhythmic drug treatment of ventricular
+VPCs may:
+arrhythmias
+· occur due to primary heart disease such as cardiac neoplasia,
+Frequent multimorphic VPCs
+cardiomyopathy (particularly in Dobermanns and Boxers), myo-
+VPCs with a very short coupling interval, i.e. R-on-T
+carditis (e.g. traumatic myocarditis/contusion), endocarditis or
+VPCs frequently in pairs and triplets
+· be secondary to a systemic disorder (see also accelerated idioven-
+Rapid sustained VT (> 200/min)
+tricular rhythm) such as gastric dilation, pancreatitis, splenic
+Frequent VPCs or VT in Boxers and Dobermanns (with
+masses, electrolyte imbalance, uraemia, pyometra and low blood
+cardiomyopathy)
+VT with inherited ventricular arrhythmias of German Shep-
+failure or respiratory diseases). Drugs such as digitalis, anaesthet-
+herd dogs (less than 18 months of age).
+82
+ics, atropine and isoprenaline may also produce VPCs.
+The aims of antiarrhythmic drug treatment are to reduce the risk
+Following cardioversion of a ventricular arrhythmia with lido-
+3
+of sudden death and/or improve clinical signs. However some stud-
+caine, the options are as follows.
+ies have shown that antiarrhythmic drugs have the potential to cause
+Treatment
+sudden death (i.e. proarrhythmic), thus their use needs strong justi-
+·Wait and see if the arrhythmia does return (in which case repeat
+fication. In most circumstances institution of antiarrhythmics orally
+cardioversion is required).
+is satisfactory. IfVPCs are life threatening i/v lidocaine is the drug of
+· Administer i/v lidocaine as a constant rate infusion.
+choice (see boxed text below).
+Usual starting dose is 50 μg/kg/min.
+ arrhythmias
+Lidocaine (lignocaine)
+Note: steady state levels take 3 to 6 hours to reach and thus small
+boluses of lidocaine may be required in the interim.
+Drug of choice for the cardioversion of acute life-threatening
+ventricular tachycardia.
+· Medicate with an oral antiarrhythmic such as mexiletine (which
+· Its effects are nullified in the presence of hypokalaemia.
+seems a pragmatic approach).
+·Following i/v administration the half life is approximately 60-
+· If i/v lidocaine proves ineffective then alternative i/v options are
+90 minutes but antiarrhythmic effects wane after 10 minutes.
+esmolol and procainamide.
+Dosage
+· Dog: i/v dose at 2-3 mg/kg boluses, every three minutes, max.
+Oral medications
+of 9 mg/kg in 20 minutes
+Note: most antiarrhythmic drugs have a negative inotropic ef-
+·Cat: Slow i/v at 0.25- 0.75 mg/kg, may give a repeat i/v injection
+fect and should be used with caution in dogs with myocardial
+after 20 minutes.
+failure.
+Response to treatment can be assessed from Holter monitoring pre
+Toxicity
+Note: cats are very prone to toxicity (seizures and respiratory
+considered to be a reduction in VPCs by 75% when the VPCs are
+arrest).
+frequent.
+· Signs of toxicity are neurological (twitching, nystagmus)
+Mexiletine is one of the most common antiarrhythmics used in
+seizures), these are usually self limiting and gastrointestinal
+dogs. It is recommended for VT in the inherited ventricular arrhyth-
+(nausea, vomiting, salivation).
+mia of German Shepherd dogs ( +/ - atenolol or sotalol). It has similar
+·Airway obstruction and/or respiratory arrest in cats following
+properties to lidocaine, thus if lidocaine cardioverts an arrhythmia,
+seizures.
+mexiletine is often effective.
+However there are other drug options - see text box below. Beta
+ blockers are the drugs most commonly used to control ventricular
+few minutes to effect (max. 0.3 mg/kg) + elevate head.
+arrhythmias in cats.
+83
+Guide
+Oral ventricular antiarrhythmic drugs
+Treatment is therefore directed towards:
+Mexiletine - dog: 5-8 mg/kg q8 hr per os
+Introductory
+ the shock and maintenance of normal hydration status;
+Propranolol - dog: 0.2-2.0 mg/kg q8 hr; cat: 2.5 mg q8-12 hr
+correction of acid-base and electrolyte imbalances;
+Atenolol - dog: 0.5 mg/kg q12 hr; cat: 2 mg/kg q12-24 hr
+monitoring Na and K regularly in such cases is very useful as
+Sotalol - dog: 0.5-2.0 mg/kg q12 hr (often used in Boxers with
+hypokalaemia is a common problem (although measurement
+VT)
+of serum K may not reflect total body K).
+AnI
+Amiodarone (dogs)
+· reported to have significant side effects, so tends to be used
+IECGs-
+as a last resort
+Accelerated idioventricularrhythm
+· need to monitor liver and thyroid function regularly
+Small Animal
+· loading dose: 10 mg/kg q12 hr for 1 week
+Clinical significance
+■ maintenance dose: 5-10 mg/kg q24 hr
+This is most commonly not associated with primary heart disease,
+Magnesium amino chelate (200 mg tablets) at 10 mg/kg daily
+but non-cardiac medical reasons, such as: splenic disease / neopla-
+with food
+sia, gastric dilation or volvulus, pancreatitis, prostatitis, trauma or
+ neurological disease. Treatment is directed towards to non-cardiac
+Ventricular arrhythmias associated with GDV
+disease, and rarely if ever, are antiarrhythmics used to cardiovert the
+idioventricular rhythm.
+Approximately 40 to 50% of dogs with gastric dilation-volvulus
+(GDV) develop ventricular arrhythmias, 12 to 72 hours after the
+onset of GDV.
+Supraventricular arrhythmias
+It is caused by:
+Clinical significance
+Myocardial ischaemia (decreased coronary perfusion)
+Infrequent SVPCs do not generally compromise the cardiac out-
+Reperfusion injury
+Hypokalaemia ( can also make the arrhythmias resistant to anti
+be directed towards the underlying cause). However, with a rapid
+arrhythmic drugs)
+SVT there is a significant reduction in cardiac output and animals
+Acidosis
+may present with exercise intolerance, lethargy, episodic weakness or
+Hypoxia
+recumbency.
+Myocardial depressant factors
+SVPCs can be due to:
+ atrial disease, e.g. dilation/stretch secondary to AV valve regurgi-
+84
+tation (associated with congenital and acquired AV valve disease,
+cardiomyopathy, congenital cardiac shunts), right atrial haeman-
+In a dog with sustained SVT or collapse, i/v cardioversion is necessary
+3
+giosarcoma or
+-- see boxed text below.
+· be secondary to some systemic illness including hyperthyroidism
+Treatment :
+in cats, or a side effect of some drugs, e.g. digitalis toxicity or
+'stimulant'-type drugs.
+ Intravenous supraventricular antiarrhythmic drugs
+Clinical signs can be caused by very frequent SVPCs or sustained SVT,
+Verapamil - calcium channel antagonist (often the conven-
+tional first drug of choice)
+f arrhythmias
+Signs are more severe when there is underlying organic heart disease.
+ Dose in dog: 0.05 mg/kg i/v every five minutes to effect (max
+When an SVT is maintained at a high rate (>250/min) for days or
+0.15 mg/kg in 10-15 minutes)
+Esmolol - short acting beta blocker with a half life of 9 minutes
+congestive heart failure (this mimics dilated cardiomyopathy).
+· Dose in dog: 0.25-0.5 mg/kg i/v over 1 minute
+Treatment
+ Lidocaine - may have effects on some macroreentrant SVTs and
+Treatment should be directed to any underlying disease first, partic
+worth trying if other drugs fail (this is often the author's first
+ularly when there is organic heart disease.
+drug of choice for a re-entrant SVT and, if effective, mexiletine
+The aims of treatment are:
+then administered orally).
+· SVT - cardiovert to a normal sinus rhythm and maintain rate
+· 2-3mg/kg, repeated every 3 minutes to response, up to a max
+control;
+of 9 mg/kg
+· SVPCs - reduce frequency, if very frequent and necessary.
+ Procainamide - 2 mg/kg i/v, repeated to response, up to a max
+Vagal manoeuvres such as carotid sinus massage ( up and down mov-
+of 15 mg/kg in 20 minutes
+ing pressure applied behind the angle of the jaw for 10 seconds):
+·
+ may terminate an SVT;
+·  may slow an SVT and help identify the type of arrhythmia;
+Oral supraventricular antiarrhythmic drugs
+·
+ may be ineffectual when animals have a high sympathetic tone,
+Calcium antagonist
+such as when they are nervous or in heart failure;
+· Diltiazem - dog and cat: 1-3 mg/kg q8 hr
+may work better after administration of beta blockers or calcium
+channel antagonists.
+·Verapamil - dog: 1-3 mg/kg q8 hr
+Beta blockers
+A precordial thump to the leff apex beat may:
+· Atenolol - dog: 0.25-2 mg/kg q12 hr
+ produce a VPC and thus a break in the SVT, although it may some-
+· Propranolol - dog: 0.2-2 mg/kg q8 hr
+times be brief, it can help to determine the underlying rhythm.
+85
+Guide
+will depend on the extent of existing pathology. The causes are nu-
+Note: when stopping beta blockers, they need to be weaned off
+merous, but not dissimilar to those of VPCs and VT.
+slowly.
+Introductory
+Digoxin (drug of choice if there is ventricular myocardial fail-
+ure)
+Atrial fibrillation
+· Onset of action is too slow
+Clinical significance
+· Dose: see under Atrial fibrillation
+Do uan o san e se sno ansn uoy 
+-AnI
+Sotalol
+ pathology, i.e. dilation of one or both atria. Dilation and stretching
+· Dose in dog: 0.5-2 mg/kg q12 hr
+ of one or both atria is most commonly seen in medium- to large-
+IECGs-
+Amiodarone (dog)
+breed dogs with dilated cardiomyopathy. However, it can occur in
+· Reported to have significant side effects, so tends to be used
+any breed of dog associated with atrial stretch secondary to AV valve
+Small Animal 
+as a last resort
+incompetence, congenital cardiac shunts, heart base tumours and
+· Need to monitor liver and thyroid function regularly
+sometimes following rapid drainage of a pericardial effusion. It is
+· Loading dose: 10 mg/kg q12 hr for 7 days
+uncommon in the cat, but is sometimes seen when there is severe left
+■Maintenance dose: 5-10 mg/kg q24 hr
+fibrillation does not have major haemodynamic effects. The loss of
+the atrial contraction contribution to cardiac output is approximately
+10-20%, which is compensated for primarily by an increase in rate.
+Ventricular pre-excitation
+Atrial fibrillation is sometimes seen in giant-breed dogs with no
+Clinical significance
+gross cardiac pathology - referred to as lone' AF. Lone AF usually
+has a fairly normal ventricular rate (< 120 - 130/min), as there is no
+Ventricular pre-excitation itself is not haemodynamically significant,
+increase in sympathetic drive since the dogs are not in heart failure.
+however WPW syndrome may cause weakness or syncope, as the
+However, many giant-breed dogs with lone AF progress to dilated
+very rapid tachycardia is associated with marked reduction in cardiac
+cardiomyopathy and ultimately heart failure. Beta blockers may be
+ m ist n  se pd q a ain i
+useful to minimise tachycardia during periods of high sympathetic
+without organic heart disease.
+tones such as exercise or stress and may have long-term benefits
+Fibrillation and flutter
+( upregulation of beta receptors) in occult dilated cardiomyopathy.
+Ventricular fibrillation (VF)
+Ireatment
+Clinical significance
+Cardioversion ofatrial fibrillation to sinus rhythm is generally not at-
+Death usually ensues unless rapid electrical defibrillation with car-
+ tempted because there is usually cardiac pathology. The drug ofchoice
+86
+diopulmonary resuscitation is initiated. However, the success of this
+ for rate control of AF is usually digoxin, because of its mild positive
+Table 13.1. Digoxin starting dose in dogs.
+3
+Causes of a persistently high heart rate in dogs with atrial
+Body weight
+Tablet dose
+fibrillation receiving digoxin
+Tablet size
+Treatment
+1-5 kg
+62.5 μg (PG)
+q12 hr
+ Elevation of the heart rate in-clinic due to nervousness at the
+6-13 kg
+62.5 μg (PG)
+1 q12 hr
+time of examination- mayrequire 24 hour Holter to determine
+14-23 kg
+125μg
+1 q12 hr
+average heart rate at home
+24-36 kg
+125 μg
+1q12 hr
+Inadequate control ofthe congestive failure signs - sympathetic
+>37kg
+250μg
+1 q12 hr
+drive is still high
+f arrhythmias
+Dehydration / Hypotension due to over diuresis / vasodilation
+Note: Dobermann dose is 125 μg tablet l q12 hr.
+ Inadequate serum therapeutic levels of digoxin
+ Concurrent medical disease, e.g. renal failure
+inotropic properties. If there is good myocardial function, then cal-
+Advanced myocardial failure and end stage heart disease
+cium antagonists or beta blockers are alternative options - however
+Heart rate poorly responsive to digoxin (check with 24 hour
+these should be used with caution in dogs with myocardial failure.
+Holter) - may require additional antiarrhythmic drugs
+Use of digoxin for rate control of AF
+It is primarily used in dogs; indications for use in cats are rare.
+Bioaccumulation may occur with: an azotaemia, low serum albu-
+·Dose in dog = 0.22 mg/m? every 12 hours, however Table 13.1
+min, cachexia. Signs of overdosage are: depression, anorexia, vom-
+provides a simple guideline for a starting dose
+iting/diarrhoea, arrhythmias, in which case the drug should be
+Dose in cat: <4 kg - 0.0625 mg tablet 1/2 q48 hr and >4 kg
+stopped and re-introduced at a lower dose when signs have com-
+0.0625 mg tablet 1/2 q24 hr
+pletely resolved.
+Steady state levels are achieved in 5-7 days. Serum digoxin levels
+should be measured (approximately 6 hours post pill) to confirm the
+Atrial flutter
+dose is correct, as it varies between individual patients. Therapeutic
+Clinical significance
+dose range is 0.8-2.5 ng/ml; 1-2 ng/ml is a good target. Therapeutic
+aims are to reduce the heart rate (at rest and non-stressed) to less
+The consequence is the effects of a sustained SVT for which rate
+than 150-160/min in dogs and less than 240/min in cats. Assessment
+control is required. Cardioversion of atrial flutter can be difficult;
+of the heart rate in-clinic may result in falsely high heart rates, so
+i/v procainamide is considered a reasonable option in attempting to
+clinical judgement needs to be made or Holter monitoring consid-
+convert the atrial flutter. Atrial flutter can be associated with atrial
+ered. Causes of a persistent high heart rate are listed in the boxed text
+disease, such as dilation, or may be a primary reentrant tachyarrhyth-
+below.
+mia. Treatment with flecainide or amiodarone can be tried.
+87
+Guide
+14. Pacemakers
+ictory
+Introdue
+Pacemakers have become recognised as an effective and worth-
+Note: bradyarrhythmia can occasionally be an early sign ofcardiomy-
+An
+while treatment of many bradyarrhythmias in symptomatic ani-
+ opathy and the long-term prognosis is poor due to the underlying
+mals. Whilst the technique of implantation appears relatively simple,
+heart disease.
+S5
+studies have shown a significantly reduced complication rate when
+EC
+performed by experienced personnel, primarily in specialist centres.
+Disadvantages
+IAnimal
+However it is still important for practitioners to be aware of the in-
+The disadvantages are:
+dications and the pros and cons when discussing the possibility of a
+ pacemaker with their client.
+Small,
+· cost;
+Indications
+-xa dn-moy nemau ry lop aui q oi spau no a ·
+tions and programming checks;
+Symptomatic bradyarrhythmias such as:
+· there are potential risks (see below).
+· complete AV block;
+Complications
+· 2nd degree Mobitz type II, persistent or intermittent;
+· 2nd degree Mobitz type I, with symptoms;
+Complications are significantly less with cardiologists experienced in
+· profound sinus bradycardia, with symptoms;
+implantation ( >20 implants).
+· sinus arrest;
+· Major complications are:
+·‘tachy-brady’ sick sinus syndrome, when anti-tachyarrhythmia
+-lead dislodgement;
+drugs produce symptoms;
+-pacemaker failure, e.g. premature battery death;
+· AF or flutter with a slow ventricular response (ie. AV block) and
+-anaesthetic related death - reduced by preplacement of a tempo-
+symptoms (rare in dogs and cats);
+rary pacing lead, prior to induction of anaesthesia;
+· persistent atrial standstill.
+-infection of pulse generator/pouch;
+Contraindications
+-lead fracture;
+· Active infection
+-venous thrombosis and chylothorax in cats.
+· Dilated cardiomyopathy
+· Minor complications are:
+88
+· Cardiac neoplasia
+-seroma formation;
+-muscle twitch;
+· The lead position is guided by fluoroscopic image intensification.
+-induced arrhythmias;
+-pacemaker movement (twiddler's syndrome).
+mum amount of current required to stimulate the ventricle hence
+ Pacemakers
+indicating good electrode to endocardial contact.
+Prior diagnostics
+· Post-surgical protective bandages - these prevent the dog scratching
+out sutures and introducing potentially lethal infection.
+· Diagnostic ECG confirming cause of symptoms
+● Comprehensive blood profle: haematology and biochemistry with
+electrolytes and thyroid screen
+Types of permanent pacemakers
+· Chest radiographs and echocardiography to screen for organic
+heart disease (e.g. neoplasia or DCM)
+Pacemaker modes and identification
+-X-rays: check for congestive failure (pulmonary oedema), which
+These have been classified by a universal lettering code. There are
+may require treatment prior to anaesthesia
+fourth and fifth letters (programmability and anti-tachyarrhythmic
+ n a   nsid  a no
+functions) that are not currently relevant to veterinary use.
+lead placement is via left jugular)
+Table 14.1. Universal lettering code for pacemakers.
+Equipment
+First letter
+Second letter
+Third letter
+· Pacemaker
+-This contains electronic circuitry with lithium battery power
+Chamber paced
+ Chamber sensed
+ Pacing mode
+source; last 5-10 years. The unit is hermetically sealed in titanium
+V= ventricle
+V
+I = inhibited
+housing-
+A = atrium
+A
+T'= triggered
+· Leads: unipolar or bipolar leads
+D= dual
+D
+ D = atrial triggered and
+-Unipolar lead: the cathode (negative) is at the distal tip and the
+ventricular inhibited
+O=none
+0
+anode (positive) is the pacemaker.
+-Bipolar lead: the anode is 1 cm proximal to the cathode, in the form
+of a ring electrode. It is less sensitive to myopotential inhibition,
+and less prone to cause muscle twitch.
+Requiring oneventricularlead
+· Tined (passive) and screw-in (active) leads are available; there ap-
+· VVI, paces and senses only in ventricles; inhibited by intrinsic ven-
+pears to be few advantages of one over the other.
+tricular beats (demand pacemaker). This is the most commonly
+· Pacemaker system programmer/analyser - these are different for
+used type in animals.
+every manufacturer; thus the assistance of a local hospital ECG
+· VVIR - additionallyrate responsive (increased inrate) on detection
+technician is essential.
+of movement.
+89
+Guide
+· VVI and VVIR are the common modes used in animals, as it re-
+the pacing lead with fluoroscopic guidance, and placing the pulse
+quires only one lead.
+ generator subcutaneously in the dorsal neck. The jugular vein is
+· VDR - one lead, paces and senses the ventricle, but additionally
+normally occluded.
+ictory
+there are sensors at atrial level, thus one can track P waves (in AV
+block) and pace ventricles following each P wave, thus providing
+tricular apex, and thus surgical intervention (e.g. thoracotomy or
+Introdue
+atrioventricular synchrony and sinus node rate control. However
+laparotomy), but does not require fluoroscopy.
+ available human leads are only suitable for very large breed dogs.
+An
+Pacemaker follow-up
+ECGs
+Requiring dual chamberpacing
+· 10-14 days, sutures out, check pacemaker sites for infection/seroma
+· DDD = paces in either atrium or ventricle or both; senses in both;
+ and correct function.
+IAnimal
+response can be inhibition of either chamber, or stimulation of
+● 3-4 months following implantation, programming check and op-
+atrium (demand pacemaker).
+timise settings to minimise battery use.
+· Thereafter every 12 months, programming check to ensure func
+Small,
+Rate responsive pacemakers
+ tion and detect evidence of reducing batterylife by checking magnet
+· These are designed to increase in rate with the activity ofthe animal.
+rate.
+Thus they are suitable for working dogs. The side effects are an
+undesirable increase in rate with vehicle movement.
+Hazards
+· Other sensors under investigation include: oxygen saturation, pH,
+central body temperature, and respiratory rate (not suitable for
+·Pacemakers occasionally sense extrinsic electromagnetic interfer-
+dogs, due to the phenomenon of panting'!).
+ence (EMI), but with modern units this is minimised by pace-
+maker designs and shielding. However surgical cautery and MRI are
+problems.
+Techniques of implantation
+· Disposal of a carcass: before this can be done, the pulse generator
+● The transvenous (jugular) route is curently the preferred option.
+must be removed as cremation of the lithium battery results in
+This involves the exposure of an external jugular vein, insertion of
+explosion.
+90
+PART 5
+Recording and interpreting ECGs
+91
+15 · Approach to interpretation of the ECG recording
+Approach 
+to
+It is important to develop, and use, a routine when reading ECGs.
+the number of complexes and multiply by 10. If the P wave rate and
+ interpretation 
+Always read an ECG from its beginning, i.e. from left to right. When
+QRS-T complex rates differ, then record these separately.
+the ECG is difficult to read, start from the easiest part of the tracing
+that is recognisable, then continue reading (left to right) from that
+A method for the mathematician
+point.
+If there is not a 6-second strip or there is a short paroxysmal tachy-
+ It is important to not over-read or be too dependent on ECG
+cardia, then the heart rate can be calculated from the P-P or R-R
+findings. Since the ECG records onlythe electrical activity ofthe heart,
+of the
+ interval as follows. At a paper speed of 25 mm/sec there is 1500 mm
+it should be remembered that this limits the information that can be
+per minute. Measure the distance, with a ruler, between two com-
+gained from it. It is often poorly related to the mechanical function
+plexes (or count the number of small 1-mm boxes).
+ECG
+of the heart and does not provide information about aetiology or
+Heart rate (in beats per minute):
+severity of organic heart disease. A normal ECG does not necessarily
+recording
+infer that the heart is normal and, likewise, an abnormal ECG is
+1500
+HR(at 25 mm/sec) = :
+R - Rinterval (mm)
+not necessarily indicative ofheart disease. Additionally, if the ECG is
+abnormal, it is important to determine what the clinical significance
+At a paper speed of 50 mm/sec there is 3000 mm per minute, thus:
+is, and if treatment is indicated or not.
+3000
+There are essentially four steps in ECG interpretation: rate, rhythm,
+HR (at 50 mm/sec) =
+R - Rinterval (mm)
+complex measurement and mean electrical axis (see page 61).
+(2) Determine the rhythm
+Check if the complexes are complete, i.e. that there is a P wave for
+(1) To calculate the heart rate (given as beats
+every QRS-T complex, and a QRS-T complex for every P wave.
+per minute)
+This should be fairly easy, as you have already examined the animal
+identifying parts of the ECG complex
+and determined the heart rate on auscultation. (?)
+In some instances it can be difficult to identify P waves, or it can
+The simplest method of calculating the rate from an ECG is to
+ be difficult to determine which are the P waves and which are the T
+93
+Guide
+Tips
+· It is often useful to mark the position of each P wave and QRS-T complex This can be done by placing a piece of paper below the ECG
+AnIntroductory
+tracing and placing a mark for each P and QRS (Fig. 15.1). This can help to establish if there is a pattern, or if there are hidden complexes,
+and if a complex has occurred before or after it was due (or expected to occur).
+· Since the heart must always repolarise (to be depolarised again) there must always be a T wave following every QRS complex.
+· Using callipers, note the P-R interval and Q-T interval, for a run of beats, this will often reveal which deflection must be which - as the
+P-R and Q-T intervals will generally remain fairly constant. This method is most usefully performed on a stretch of ECG in which there
+is a variation in rate.
+ECGS
+Animal
+1 mm = 0.02 sec
+S-T segment
+Small.
+1 mm=
+0.1 mV
+Pwaves
+QRS complexes
+R wave
+amplitude
+Figure 15.1 ECG demonstrating how to mark out P waves and QRS complexes to help
+identify complexes. Note that the dotted lines represent hidden P waves - note how
+the frst one changes the shape of the ST segment compared with the others.
+P wave
+amplitude
+(3) Measure the complex amplitudes and intervals
+s o ie ds  l  e uo pd Ans si s
+(100 mm/sec on computer print-out units) and on an unfiltered
+P wave duration
+Q-T interval
+Baseline
+section. At 50 mm/sec, 1 mm box = 0.02 seconds. Note the
+P-R interval QRS duration
+calibration.
+Figure 15.2 A schematic P-QRS-T complex (lead II) from a normal dog, illustrating
+Record the following (Fig. 15.2):
+94
+the various amplitudes, durations and intervals (50 mm/sec and 10 mm/m V).
+· P wave amplitude and duration
+·Note T wave morphology
+· R wave amplitude and QRS duration
+·Note S-T segment elevation or depression
+· P-R interval - from start of P to start of QRS (strictly therefore a
+Approach :
+Use the table of normal values (Table 7.1, page 49) to check if the
+P-Q interval)
+measurements are within normal values or not.
+· Q-T interval - from start of QRS to end of T wave
+to
+ interpretation of the ECG recording
+95
+Guide
+16· Artifacts
+ictory
+Introdu
+Artifacts are abnormal deflections reproduced on an ECG recording
+waves) within the room in which the recording is being made. They
+An
+that are not associated with the electrical activity of the heart. They
+ can be transmitted by the person restraining the animal who acts as
+have the potential to either mask the ECG or mimic ECG activity:
+an aerial or through the power-line of the ECG machine. The fine
+producing an artifact- free tracing is of paramount importance.
+deflections usually occur at a rate of 50 per second (Hz) (60 per
+second in America).
+Anima
+Electricalinterference
+To correct this problem:
+Electrical interference produces fine, rapid and regular movements
+6·Ensure the clip-to-skin connections are good and are insulated
+Small,
+on the baseline of the ECG recording (Fig. 16.1). They are often
+(isolated), poor connections will permit electrical interference to
+associated with interference due to electrical cables (electromagnetic
+manifest.
+Filter on
+Figure l6.1 (a) ECG showing 50-cycle alternating current interference artifact (which masks the P waves in this example) that has then been removed by filtering (arrow)
+96
+(25 mm/sec and 5 mm/mV).
+0 un Aq n uus no bqa  a A pod aq
+16.
+record the ECG in a standing animal (Fig. 16.2). Purring in a cat
+(Fig. 16.3) will also result in baseline ^trembling"!
+ Artifacts
+To correct this problem:
+· Ensure the limbs are relaxed and supported.
+Figure 16.1 (b) ECG showing 50-cycle AC interference throughout the tracing (29
+· Find a position in which the animal will relax best, preferably not
+standing.
+mm/sec and 10 mm/m V)
+· Try holding the limbs to minimise the tremor.
+● Ensure the animal is insulated from the surface by placing a rug
+· To stop a cat purring: dab a little spirit on the cat's nose using cotton
+under it.
+wool.
+· Ensure the ECG machine is earthed (to the building), or try not to
+run on the mains supply but on battery.
+Movement artifact
+·Tryinsulating the handler from the dog by having them wear gloves.
+This is a more exaggerated form of tremor artifact, but in this case
+the deflections are not fine but variable and large. The stylus moves
+Muscle tremor artifact
+up and down the paper (Fig. 16.4a). It can be associated with respira-
+This can look a little similar to electrical interference, but the fine
+tory movement (Fig. 16.4b) or if the animal is moving or struggling
+deflections in this instance are not regular but fairly random. It can
+(Figs. 16.4c, d, e and 16.5).
+y ay usn uaym sapnde xao u uonar au an (m) no pay uay s yym (il d gii g ose aas oe roan anu umus a ti an
+(50 mm/sec and 10 mm/mV)
+97
+-An Introductory Guide
+Small Animal ECGs
+Figure 16.3 ECG from a cat with intermittent purring? artifact (brackets) (25 mm/sec and 10 mm/mV)
+NBOHOXNOHIN
+Figure 16.4 (a) ECG showing marked movement of
+ movement or an unstable electrode (25 mm/sec and 10 mm/m V).
+98
+Figure 16.4 (b) ECG showing movement artifact synchronised with panting in a dog, which then stops panting towards the end of the recording (25 mm/sec and 10 mm/mV).
+16.
+ Artifacts
+25nm/S8.85-35HzF581-1Z.2425nm/s0.e5-35HzF58AT12.84
+25mn=日.85-35HzF5日月一2.0
+Figure 16.4 (c) ECG from a cat showing intermittent limb movement that mimics VPCs in leads 1 and 2, but, note, not lead 3 (25 mm/sec and 10 mm/mV).
+Figure 16.4 (d) ECG from a dog with leg movement and muscle tremor that mimics atrial flutter/fibrillation and makes identification of P waves very diffcult (25 mm/sec and
+10 mm/mV)
+Figure 16.4 (e) ECG from a dog, in which the P-like movement artifacts create an effect that mimics heart block (50 mm/sec and 10 mm/m V).
+99
+/Guide
+Small Animal ECGs-An Introductory(
+Fgure 16.5 ECG from a three-channel recording in a cat (with left anterior fascicular block - see Chapter 10). Movement (bracketed) occurred in leads II and IIl, which can be
+deduced to be movement of the left hind leg or its electrode - this is the connection that is common to these two leads (25 mm/sec and 10 mm/mV).
+To correct this problem:
+in leads I and II, then the connection that is common to these leads
+is the right fore. Therefore, this connection needs to be checked and
+· Correction of this is similar to tremor artifact.
+the connection improved or the leg held still. If interference is seen
+· Try to get the animal to relax and remain still.
+in leads I and Ill, then the left fore needs to be checked. And if
+· Ensure the ECG cables are not moving with movement of the an-
+interference is seen in leads II and III (Fig. 16.5), then the left hind
+imal, e.g. respiratory movement (see Chapter 17), or because the
+ needs to be checked.
+clips are not stable and secure.
+Which leg moved?
+Incorrectly placed electrodes
+With the aid of Figs 8.1(a-c) one can determine which leg is moving
+ This may result in inverted complexes or a bizarre mean electrical
+100
+or causing connection problems. For example, if interference is seen axis (Fig. 16.6).
+16·Artifacts
+2mm
+Figure l6.6 ECG from a Border Collie in which lead 1 is inverted. Note the negative P waves (as well as the negative QRS complexes). This was because the red and yellov
+forelimb electrodes where placed back to front. This misplacement of the clip also swaps leads 2 and 3 in effect
+Tip
+P waves are nearly always positive in leads I, II and II1. Double check the position of the ECG cables, use the colour code chart in Table 8.1
+(page 59) if necessary.
+101
+Guide
+17 . Recording an ECG
+ictory
+Introdue
+The connectors (electrodes)
+There are small metal plate electrodes - paediatric limb electrodes
+An
+(Fig. 17.2a), that can be used instead of crocodile clips, but they need
+To connect the ECG cable to the animal's skin requires a connector
+ to be positioned on the limb by means of tape (Fig. 17.2b), bandage
+ECGs
+- this is called an electrode. Since animals have a coat of hair, the
+or Velcro tie.
+commonly used human sticky adhesive electrodes (Fig. 17.1) are not
+ The most commonly used electrode to connect the ECG cable to
+Animal
+convenient for everyday regular use. This is because a patch of hair
+the animal's skin is a crocodile clip (Fig. 17.3). While these provide an
+would have to be shaved, the adhesive electrode applied and it still
+excellent electrical connection, their bite can be painful to less stoical
+usually does not stick to animal skin! Therefore, it needs to be held
+Small,
+animals. To minimise the pain of crocodile clips the teeth can be filed
+in place by wrapping a bandage around the limb and electrode.
+down a little and the clips bent outwards (until they are atraumatic
+but still stay in place). Or a small conductive plate can be soldered
+into the tip of the teeth.
+Making the connection
+This is the single most important part of ECG recording to obtain
+commonly used form of electrodes, the following discussion will be
+based on these. But ifyou have decided to use an alternative electrode,
+then adapt the description accordingly.
+Using spirit
+It is often sufficient with crocodile clips to pick up a fold of skin
+between finger and thumb (rolling the skin to feel its edge through a
+hairy coat) and with the other hand open the crocodile clip maximally,
+part the hair and attach the clip to the skin (Fig. 17.4). To obtain good
+102
+Figure 17.l A selection of "human' adhesive electrodes.
+ conduction between skin and crocodile clip requires the addition of
+(a)
+17.
+Recording an ECG
+Figure 17.2 (a) 'Human' paediatric limb electrodes; (b) how an electrode can be attached with tape to the leg of an animal (the hair usually needs to be clipped to ensure good
+contact and gel used between the electrode and skin).
+a conducting medium - spirit is often adequate. Spray with a little
+cheap alternatives) on to the skin (Fig. 17.5) and then attach the
+crocodile clip as above; or (2) attach the crocodile clips then rub
+the hair to the skin.
+the gel on the clip and around it onto the skin (Fig. 17.6). This ^way
+ However, spirit evaporates after 5-10 min, so this method would
+round' is usually easier, as your fingers are not too slippery to open
+not suffice if the ECG recording takes longer than this (such as dur-
+the crocodile clips thereafter!
+ing anaesthetic monitoring). Additionally, if spirit does not produce
+a good-quality, artifact-free recording, then an alternative method
+Where to place the electrodes
+needs to be considered.
+In each animal you need to pinch the skin at various sites on the
+limbs, preferably with little hair, to find the best site.
+Using gel
+Forelegs
+Shave the site where the crocodile clip is to be placed. Either: (1)
+In the author's experience, the flexor angle of the elbow is a useful
+rub a little gel (ECG gel is ideal, but ultrasound gel or K-Y jelly are
+site (Fig. 17.7).
+103
+Guide
+Adhesive electrodes can also be placed on the central pad (of the
+paw) in small animals (Fig. 17.10) - this provides a satisfactory site
+of contact, although instability of the electrode can result in some
+AnIntroductory
+movement artifact. This can be a useful site in other domestic small
+and exotic animals seen by the veterinary practitioner.
+Isolating the electrodes
+Once all the electrodes have been attached it is essential to ensure
+ECGs
+that each electrode, the skin to which it is attached and the con-
+ducting medium (e.g. the spirit or gel), are not touching any other
+IAnimall
+part of the animal, the handler or the table. This has the poten-
+tial to cause electrical shorting and introduce artifacts into the ECG
+Figure 17.3 Crocodile clips commonly used in animals. The middle one has had its
+recording.
+Small,
+teeth fled down and the lower one also bent outwards- these are methods of softening
+the bite on this type of electrode.
+How to position the ECG cables
+An alternative site is caudal and just dorsal to the elbow. However,
+In addition to the above, it is prudent not to place the crocodile clips
+since this is close to the chest, respiratory movement can result in 
+such that the ECG cable runs over the animal, which can lead to
+movement of the cable and clip, thus the ECG recording may be
+ respiratory movement artifact (as mentioned above) or to then twist
+spoiled by movement artifact. Another site is halfway between the
+the cable and ultimately the clip and skin - even stoical animals may
+elbow and carpus, on the palmar aspect of the leg.
+not tolerate this. When applying the crocodile clip have the ECG cable
+positioned away from the animal (Fig. 17.11) and resting on the table
+Hind legs
+(or ground).
+In the author's experience, the flexor angle of the hock (or sometimes
+just above this) is a useful site (Fig. 17.8). Alternative sites are either
+above or below the knee, on the dorsal aspect of the limb.
+Positioning the animal
+To minimise the electrical activity of skeletal muscles the animal
+When using adhesive electrodes
+must be relaxed and resting. If the animal trembles, shakes, pants or
+Adhesive electrodes usually need to be held in place by a bandage,
+ purrs, then all this activity will be manifest on the ECG, resulting
+therefore shave sites on the forelegs above the carpus and on the hind
+      r     
+104  legs above or below the hock (Fig. 17.9).
+waves, especially in cats, or mimic ECG activity. Thus a good-quality
+17·Recording an ECG
+C）
+Figure 17.4 Placing a crocodile clip to the skin of a dog (flexor angle of hock in this instance). Pinch a good piece of skin (a), position the crocodile clip with its jaws fully open
+and over the skin as far as possible (b), so that the clips maintains a good bite of skin (c) and therefore good clip-skin contact.
+105
+Small Animal ECGs- An Introductory Guide
+Figure 17.5 Gel can be applied to the skin before placement of the crocodile clip.
+Figure 17.7 A useful site of attachment for the crocodile clips on the forelimbs is the
+skin at the flexor angle of the elbow.
+ECG will have minimal movement and there should be a nice steady
+baseline in between each ECG complex.
+ If the animal would be put at risk (e.g. if it was in respiratory
+distress) by making it adopt a position (as follows) that it would not
+Figure 17.6 Alternatively gel can be applied after the crocodile has been attached, over
+tolerate, then an ECG should be recorded in whatever position is
+106
+the clip and adjacent skin.
+achievable.
+17 · Recording an ECG
+Figure 17.8 A useful site of attachment for the crocodile clips on the hind legs is the
+skin at the flexor angle of the hock.
+Figure 17.9 Placing an adhesive electrode on a dog's leg with the aid of tape to hold it
+in place.
+Dogs
+good-quality tracing with minimal baseline movement artifact can
+be obtained.
+many dogs a recumbent position will reduce skeletal muscle electrical
+activity.Andthe normal values for the dog ECG have been determined
+based on this position. If measurement of amplitudes are not critical,
+Cats
+such as when examining primarily an arrhythmia, then recording an
+The normal values for cats have not been determined in a
+ECG while the dog lies, sits or even stands is acceptable, provided a
+lateral recumbent position, thus recumbent positioning is less
+107
+Small Animal ECGs- An Introductory Guide
+Figure 17.1l A dog having an ECG recording using crocodile clips
+Figure 17.10 An adhesive electrode on the central pad of a foot.
+important. Many cats will often sit in a hunched position quite
+still (Fig. 17.13) - but each individual cat is different and the vet-
+erinary surgeon must determine how each cat prefers to keep still.
+ In fractious cats (if the electrodes can be placedl) putting the cat
+back in a basket together with the electrodes attached and ECG ca-
+Figure 17.12 A dog having an ECG recording using paediatric limb electrodes
+108
+bles until it settles is a useful method. When, or if, the cat settles,
+the ECG can be recorded while the cat sits in the basket. How-
+17
+ever, this method should, of course, be aborted if the cat starts to
+·
+bite the ECG cables. Often cats do resent the crocodile clips, in
+Recording
+which case, shaving a patch of hair and bandaging in place adhe-
+sive electrodes or metal plates, although more time consuming, is
+easier!
+ an ECG
+Chemical restraint
+All sedative and tranquilliser drugs have a variable effect on the heart
+and/or autonomic tone. Drugs can therefore change the rate and
+rhythm of the heart directly or through effects on the autonomic tone.
+So, if you are performing an ECG to determine what the arrhythmia
+is that you heard, then there is a possibility that this will change if
+a chemical restraint is used. Ideally, therefore, any form of chemical
+restraint should be avoided prior to recording an ECG. If chemical
+restraint cannot be avoided then, based on physical examination,
+determine the rate and rhythm before and after using the drugs, and
+any differences should be taken into account when interpreting the
+ECG recording.
+Setting up and preparing the ECG machine
+This will vary a little between different ECG machines and adjust-
+ments to the following guidelines (which are based on a standard
+ECG machine) should be allowed.
+Paper speed
+Figure 17.13 A cat having an ECG recording using paediatric limb electrodes.
+Select the paper speed. Options are usually 25 or 50 mm/sec
+(Fig. 17.14), and sometimes 100 mm/sec. The paper speed selection
+is partly dependent on the animal's heart rate. As a guide: for
+  s  ie as a is so  s u r
+109
+Guide
+AnIntroductory
+ECGs
+Small Animal
+Figure 17.14 ECG showing the effect of paper speed.
+there is a fast heart rate (and routinely for cats) set the paper
+the filter will reduce the amplitude of the complexes by a variable,
+speed at 50 mm/sec. In ECG machines with a computer-type
+print-out that produces a steppiness in the lines (ie. pixel ef-
+and there is baseline artifact that cannot seem to be avoided, then
+fect), measurement of ECG complex durations is best achieved at
+filtering can reduce the baseline artifact and make reading of the
+100 mm/sec.
+ECG tracing easier (Figs 17.16 and 16.2, page 97).
+Calibration
+This is usually set at 1 cm/mV. However, if the complexes are very
+Positioning the stylus
+small this can be increased to 2 cm/mV and if the complexes are
+During the recording the stylus should be positioned (if this is
+very large it can be reduced to 0.5 cm/mV. The calibration should
+manually operated on the ECG machine) so that the whole of
+d  a  a aq ad     
+the ECG complex is within the graph lines' of the ECG paper.
+and pressing the 1 mV marker button (Fig. 17.15) - found on most
+ o uu i sx s ad sd  a 
+standard ECG recorders.
+sn (iaded no snis al jo s au apino io) raded yden,
+Filtersetting
+is referred to as clipping (Fig. 17.17). Remember then to move
+the stylus, up or down, so that the whole of the ECG tracing is
+Ideally, if good connections have been made, this can usually be left 
+within the graph paper (and not extending into the white mar-
+off, i.e. no flter. Additionally amplitude measurement should always
+ gins) or alternatively reduce the calibration - whichever is more
+110
+ be performed in an unfiltered tracing, as the dampening effect of :
+appropriate.
+ Recording an ECG
+Figure 17.15 ECG showing three 1-mV calibration marks at different sensitivity settings: 0.5, 1 and 2 cm/mV.
+Recording an ECG-a suggested routine
+tated an occasional abnormal beat, then the ECG rhythm strip will
+need to be run until that abnormal beat is repeated If lead II does not
+Ten seconds ofall six limb leads
+produce a good-quality tracing with satisfactorily large complexes,
+Run the ECG on each ofthe six bipolar leads, I, II, IHI, aVR, aVL and
+then run a rhythm strip on a lead that does. Or if you are searching
+aVF, each for approximately 10 seconds. In order to ensure that each
+for P waves (which can often be small and hard to see) then run the
+lead is well centred within the graph lines' of the ECG paper, briefly
+limb lead in which these are best shown.
+pause the ECG paper (with the stylus still moving) when switching
+the ECG machine from one lead to the next, until the stylus can be
+re-positioned as described above.
+Arepresentativerhythmstrip!
+If you auscultated what you thought was an arrhythmia, but it is not
+revealed on the ECG rhythm strip, then simultaneously auscultate
+Arhythmstrip
+the animal while continuing to run the ECG recording. It might be
+Switch back to lead II and record a long rhythm strip, 30-60 seconds,
+that the abnormality is only intermittently present, in which case you
+depending on each individual case requirement. If you have auscul-
+may have to continue to auscultate the animal until the arrhythmia is
+111
+-AnIntroductoryGuide
+Small Animal ECGs
+Filteron
+from an unfiltered tracing to avoid potential underestimation of amplitudes. But also note the reduction in muscle tremor artifact (25 mm/sec and 10 mm/mV).
+Figure 17.17 ECG showing the effect of clipping (arrows). If this went unnoticed, the R wave amplitude could mistakenly be measured as 1.8 mV when it should have measured
+2.4 mV - potentially a considerable underestimation (25 mm/sec and 10 mm/mV)
+112
+heard and hopefully captured on ECG. Maybe the arrhythmia is still
+colleagues within your practice to be able to examine the record-
+二
+audible on auscultation but not recognised on the ECG - in this case
+ing, or in case you need to submit the tracing to a cardiologist for
+·
+the ECGtracing should be sent to a cardiologist forinterpretation. Or,
+interpretation.
+Recording
+the abnormal heart sounds heard may not be an arrhythmia but, for
+ an ie asa Krs un os do e aq o 'aa
+Checklist
+examination.
+ State in which position the animal was restrained.
+I an
+ State if any chemical restraint was used.
+ECG
+· Note paper speed and if, and where, it was changed.
+Label the tracing
+· Note calibration and if, and where, it was changed.
+ Label filter level, and when, and where, it was used.
+Ensure the ECG recording is well labelled (unless the ECG machine
+· Label each lead at its beginning.
+does this automatically), either for future reference, or for other
+113
+Guide
+18· Choosing an EcG recorder
+In attempting to put down on paper some advice on choosing an
+will mean an ECG recorder with either paper in rolls or Z-fold paper.
+An
+ECG recorder - which is a question often asked of the author - I
+ Sometimes Z-fold paper can fail to adequately allow scribing of a
+can only describe my own personal preferences and opinions. Other
+deflection on the fold itself (Fig. 18.2); however Z-fold paper is easy
+ECGs
+cardiologists may have differing opinions.
+for storing, compared with paper rolls.
+An ECG machine required for diagnostic purposes is preferably a
+nal
+recorder rather than a monitor. In other words using an ECG mon
+IAnim
+itor (used in perianaesthetic or intensive care monitoring) is not
+Ease of use
+Small,
+  i ssa  l sr    a a
+The recorder is simple and intuitive to use, i.e. not so complex that a
+- a recorder for diagnostic electrocardiography and a monitor for
+detailed users' manual is required to understand it.
+anaesthesia.
+Quality
+Automatic labelling
+This is the most important factor for me. Recorders should produce
+It is very useful to purchase a machine that performs automatic la-
+ belling, on the paper trace, of the calibration, paper speed and fl-
+a good-quality high-resolution tracing such that no pixelation (step-
+ter level (Fig. 18.3). It is also best if any alteration to the settings
+ping) is evident. Older computerised recordings tended to produce
+ are labelled immediately following a change rather than at fixed
+a pixelated print-out (Figs 18.1a, b). Occasionally ECG recorders
+that print onto ECG tracing paper, yet the print-out is pixelated
+intervals.
+(Fig. 18.1c). Any pixelation in the tracing will affect the ability to
+recognise important small deflections, in particular when hunting
+Automatic vs. manual recording mode
+for P waves.
+My preference is manual mode. Automatic mode means that the
+recorder runs through each of the leads, recording a set duration for
+Continuousrecording
+each lead; however this is not a necessity. If automatic mode is used,
+The ability to record a continuous paper trace without interruption
+  q  n ds   o   e 
+ u o s op a m ao s i  n d   xa a issd nu s s d si a in u 
+114
+machines and computers that print out onto sheets of A4 paper. This  perform a continuous lead II rhythm strip.
+18 · Choosing an ECG recorder
+(a)
+C
+Figure 18.1 (a, b, c) Examples of the type of low-resolution pixelated tracings to avoid.
+These can make it difficult to identify the presence or absence of P waves (as in these
+ examples) particularly when there is a complex arrhythmia and may be compounded
+by baseline artifact.
+Figure 18.1
+Interpretative software
+This does not appear to work reliably in animals: primarily due to
+attempts at interpreting baseline artifacts, particularly movement
+Figure 18.1
+artifact. I have seen a number of owners referred on the basis of
+115
+Small Animal ECGs- An Introductory Guide
+0mm/mV25mm
+Figure 18.2 Z-fold paper, whilst permitting a continuous recording, can also prevent
+proper scribing of the deflections on the Z-fold as in this example, which masks the
+VPC in this instance (arrowed).
+Figure 18.3 Automatic labelling of the lead, paper speed and calibration is a useful
+feature.
+misleading or wrong computer interpretation, such that I would
+be of the opinion that this should be avoided, except in the
+hands of someone experienced (in which case, interpretation is not
+can mimic an ectopic (Fig. 16.4c and 16.5), but in a three-channel
+required!).
+recording, usually one lead will remain unaffected, and thus reveal
+the cardiac rhythm was normal.
+Paper width is important when opting for a multichannel recorder.
+Multichannel vs. single channel
+Some machines print out three (and sometimes four) leads on fairly
+Multichannel recorders permit the simultaneous recording of more
+ miserly paper width resulting in the top and bottoms of QRS com-
+than one lead at a time, most commonly three leads, for example,
+ plexes overlapping (Fig. 18.4). This can make interpretation challeng-
+116
+leads I, I and II1. If a leg moves during a recording, sometimes this  ing. Halving the sensitivity is less than an ideal way to get round this
+Calibrationsettings
+18
+The standard paper speed settings are 25 mm/sec and 50 mm/sec.
+Choosing
+Other speeds (5 mm/sec, 12.5 mm/sec or 100 mm/sec) are sometimes
+additionally available - these can occasionally be useful options, but
+are not essential.
+The standard amplitude sensitivity is 10 mm/mV. A double sen
+an
+sitivity of 20 mm/mV is useful when the complexes are quite small
+ECG
+such as with cats. A half sensitivity of 5 mm/mV is required when
+the QRS complexes are very tall in some dogs that might have
+recorder
+cardiomegaly.
+A filter is often required in animals to reduce baseline artifact noise
+from electrical interference of muscle tremor. One filter level is usually
+sufficient, although some machines provide two filter levels.
+F50AT-1
+09
+F50
+Figure 18.4 A three-lead multichannel recorder on 8-cm wide paper, its just a bit of
+Automatic centring vs.manual control
+a miserly squeeze and can make rhythm analysis diffcult, due to the overlap of the
+deflections.
+Control of the stylus can either be performed manually (usually in
+older recorders) or automatically. Both options are fine, and the au
+tomatic centring in new machines usually works well, despite animal
+problem on a regular basis. So if choosing a multichannel recorder
+movement.
+chose one with respectably wide paper, which I would suggest should
+be >8 cm.
+It is also preferable that the machine is set up so that there is not
+Internal battery
+a repeat of the lead II rhythm strip, creating a fourth channel and
+compromising space.
+This is a useful feature and in most machines comes as standard.
+Precordial chest leads
+Jack plug lead fitting
+These are generally not required for animal use. I occasionally use a
+Crocodile clips and paediatric limb plates are the two most common
+single precordial lead in search of small deflections, such as P waves. f
+ types of electrodes used in animals; these both require jack plug type
+But this is rarely required and the additional leads create an added
+fitting. The press stud fitings are oflimited use in animals; in huma ns
+storage problem.
+they are used for attaching to circular adhesive electrodes.
+117
+Guide
+Monitor screen
+have the machine serviced prior to use. If the machine comes without
+leads, there are companies that can make these up.
+This is a useful optional extra on some machines. It means the ECG
+ictory
+rhythm can be monitored for long periods without printing to paper
+(and thus wasting paper) Machines that have a memory function are
+Summary of features to look for in an EcG recorder
+Introdue
+useful in this seting, so that an arrhythmia seen on screen can then
+· High-resolution tracing with no pixelation
+be printed out for the records or posting for an expert interpretation.
+· Continuous real time recording (not separate sheets of paper)
+An
+·Ease of use
+Thermal paper vs. ink paper
+· Automatic (and immediate) labelling of: lead, speed, calibration
+S5
+Thermal sensitive paper is more practical than ink, avoiding the need
+and filter
+EC
+·Pre-set to manual mode
+ Animal
+turns black (rather than blue) usually provides the better contrast
+· Avoid interpretative software
+for photography or scanning. However some papers do not have a
+·● Multichannel recorder (3 leads) with paper width >8 cm (and no
+long-term retention (> 1year) ofthe image recorded, which gradually
+repeated lead II rhythm strip)
+Small,
+fades over time - something to watch for and try to avoid.
+· Precordial chest leads are not necessary
+· Calibration settings pre-set to 25 mm/sec, 10 mm/mV and filter
+off
+New vs. second-hand
+· Internal battery (can run off-mains)
+Whilst a new ECG recorder is the ideal, the cost of this can prevent
+● Jack plug fittings supplied with both crocodile clips and paediatric
+some practices from purchase of an ECG machine - which would
+limb electrodes
+be ‘the greater of two evils'! If cost is a limiting factor, then a second
+● Monitoring screen - can be useful
+hand machine can be a good option. In these cases it is important to
+· Records on thermal paper
+118
+Further
+Further reading
+reading
+As a general reference guide the following text is recommended:
+P. R. Fox, D. Sisson and N. S. Moise (1999) Textbook of Canine and
+L. P. Tilley ( 1992) Essentials ofCanine and Feline Electrocardiography:
+Feline Cardiology, WB Saunders.
+M. D. Kittleson and R. D. Kienle (1998) Small Animal Cardiovascular
+Interpretation and Treatment, 3rd edn, Lea & Febiger.
+Medicine, Mosby.
+For practising reading ECGs, which is strongly recommended:
+V. Luis-Fuentes and S. Swift (1998) Manual of Small Animal Car-
+L. P. Tilly and F. Smith (1993) Canine and Feline Cardiac Arrythmias:
+diorespiratory Medicine and Surgery, BSAVA, Cheltenham.
+Self Assessment, Lippincott, Williams & Wilkins.
+M W. S. Martin and B. Corcoran (2006) Notes on Cardiores-
+piratory Disease of the Dog and Cat, 2nd edn, Blackwell
+An audiotape or CD:
+Publishing.
+E. W. K.Smith, B. W. Keane and L. P. Tilley (2005) Rapid Interpretation
+L. P. Tilly and J-K. Goodwin (2000) Manual of Canine and Feline
+of Heart and Lung Sounds: A Guide to Cardiac and Respiratory
+Cardiology, Saunders.
+Auscultation in Dogs and Cats, Saunders.
+O. L. Nelson (2001) Small Animal Cardiology (The Practical Veteri-
+C. Kvart and J. Haggstrom (2002) Cardiac Auscultation and
+narian), Butterworth-Heinemann Ltd.
+Phonocardiography in Dogs, Horses and Cats, Clarence Kvart,
+T. Day (2005) ECG Interpretation in the Critically Ill Dog and Cat,
+Uppsala, Sweden.
+Iowa State University Press.
+B.W. Keane and R. Hamlin (1997) Small Animal Cardiology,
+Books on veterinary cardiology:
+Saunders.
+W. Ware (2007) A Colour Handbook of Small Animal Cardiology,
+P Darke, J. D. Bonagura and D. F. Kelly ( 1996) Color Atlasof Veterinary
+Mason Publishing.
+Cardiology, Mosby- Wolfe.
+119
+ide
+n5
+ictory
+np
+Intro
+accelerated idioventricular rhythm, 71-2, 84
+calcium antagonists, 85
+electrical interference, 96-7
+Addisonis disease, 55
+cardiac electrical activity, 4-8
+electrocardiograph (ECG),
+antiarrhythmic drugs, 82-4
+formation of normal P-QRS-T complex,
+defnitions and types, 3
+arrhythmias 23-39, 40-7
+4-7
+equipment choice considerations, 114-18
+ECC
+defined, 15
+nomenclature of QRS complex, 7-8
+ interpretation approaches, 93-5
+management, 75-7
+chamber enlargements, 48-51
+interpretative software, 115-16
+Animal
+treatment, 78-87
+left atrial, 49-50
+limb lead systems, 59-60
+artefacts, 96-101
+right ventricular, 50-1
+recording methods and procedures, 102-13
+asystole, 34
+clipping techniques, 110 
+electrode misplacements, 100-1
+atrial fbrillation, 34, 36-7, 38
+ conduction system abnormalities, 40-7
+electrode placements, 103-4
+management, 77
+atrial standstill, 42-3
+escape rhythms, 18, 19, 31, 345
+$
+treatment, 86-7
+heart block, 43-7
+atrial flutter, 70-1, 87
+sick sinus syndrome, 40-2
+‘f' waves, 37
+atrial standstill, 42-3, 79-80
+sinus arrest and block, 40, 41
+fibrillation, 34-9
+atropine response test, 79
+see also intraventricular conduction defects
+atrial, 34, 36-7, 868
+AV (atrioventricular) node, 4
+ventricular, 37-9, 86
+AV block,43-7
+digoxin, 87-8
+first degree AV block, 43, 44
+drug dosages, 81
+gastric dilation-volvulus (GDV), 84 
+second degree AV block, 434, 45
+drug indications, 82-4
+third degree AV block, 44-7
+dysrhythmia, see arrhythmias
+heart block, see AV block
+treatment, 80-1
+heart enlargements, 48-51
+AV dissociation, 34, 35, 36
+ectopia,15-22
+left atrial, 49-50
+assessment procedures, 15
+right ventricular, 50-1
+beta blockers, 85-6
+classifcation and terminology, 18-19
+heart rate,
+bradycardia,
+morphology of supraventricular depolarisation, 18,
+normal values, 49
+sinus origin, 10-11, 78
+19-20
+hyperkalaemia, 55
+bradycardia-tachycardia syndrome 41-2
+ morphology of ventricular depolarisation, 15-18,
+broad complex tachycardia, 69
+21-2
+intermittent ventricular aberrancy, 68, 69
+bundle branch block, 64-5, 65-7
+types of arrhythmias, 23-9, 70-2
+intraventricular conduction defects, 64-9
+treatment, 81
+electrical activity, see cardiac electrical activity
+intermittent ventricular aberrancy, 68, 69
+bundle of His, 4
+electrical alternans, 52-3
+left anterior fascicular block, 67
+120
+left bundle branch block, 65-7, 81
+abnormalities, 53
+sinus tachycardia, 10, 11
+nght bundle branch block, 64-5, 81
+normal duration values, 49
+treatments, 81-2
+QRS complex,
+sinus node dysfunction, see sick sinus syndrome
+left anterior fascicular block, 67
+electrical alternans, 52-3
+supraventricular ectopic complexes, 18, 20, 30-3,
+left atrial enlargement, 49-50
+formation, 6-7
+84-5
+left bundle branch block, 65-7
+general nomenclature, 8
+supraventricular premature complexes (SVPCs), 18, 20,
+treatment, 81
+low voltage complexes, 51-2
+30-3
+left ventricular enlargement, 50
+normal complexes, 15, 17
+treatments, 84-5
+lidocaine (lignocaine), 83
+normal duration values, 49
+sympathetic drugs, 81
+limb lead systems, 59-60
+ventricular ectopic abnormalities, 15-18
+T wave formations, 8
+mean electrical axis (MEA), 613
+R wave formation, 6-7
+abnormalities, 53, 55
+ abnormalities, 50-1
+ normal amplitude values, 49
+normal amplitude values, 49
+calculations, 62-3
+notches, 52-3, 54
+tachyarrhythmias, 10, 11
+normal values, 49
+R-on-T, 24, 27
+treatment, 81-2
+mexiletine, 83
+rescue beats, see escape rhythms
+Mobitz type I/II block, 43, 80
+respiratory sinus arrhythmia, 9, 11
+ventricular ectopic complexes, 15-18, 21-2, 23-30, 69,
+movement artefacts, 97-100
+night bundle branch block, 64-5
+824
+muscle tremor artefacts, 97, 98
+treatment, 81
+ventricular fibrillation (VF), 37-9
+right ventricular enlargement, 50-1
+treatment,86
+P wave formation, 5-6
+ventricular pre-excitation, 70, 86
+ normal values, 49
+S wave formation, 7
+ventricular premature complexes (VPCs), 23-30
+P-mitrale, 49
+S-T segment,
+morphology, 16-18, 21-2, 69
+P-pulmonale, 49-50
+abnormalities, 53, 54
+treatment, 82-3, 84
+P-QRS-T complex, 4-8
+ normal duration values, 49
+ventricular standstill, 34
+ morphological changes and associated conditions,
+sick sinus syndrome, 40-2
+ventricular tachycardia (VT), 24, 28-30
+48-55
+treatments,79
+VPCs, see ventricular premature complexes
+P-R interval, 5-6
+sinoatrial (SA) node, 4
+(VPCs)
+normal values, 49
+sinus arrest, 40, 41
+pacemakers, 88-90
+treatments, 78-9
+wandering atrial pacemaker, 48
+ parasympathetic drugs, 81
+sinus arrhythmia, 9, 11
+wavelet theory,
+positioning animals, 104-9
+sinus block, 40
+atrial fibrillation, 37
+Purkinje fibres, 4
+treatments, 78-9
+ventricular fibrillation,39
+sinus bradycardia, 1l-12
+Wenckebachis phenomenon, 43
+Q wave formation, 6
+treatments, 78
+Wolff-Parkinson-White syndrome, 70
+Q-T intervals,
+sinus rhythm, 9, 10
+121

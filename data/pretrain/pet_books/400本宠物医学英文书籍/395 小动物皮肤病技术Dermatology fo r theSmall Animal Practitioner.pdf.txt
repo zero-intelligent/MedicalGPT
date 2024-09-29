@@ -1,0 +1,5455 @@
+forthe
+SmallAnimal
+Practitioner
+RalfS.Mueller
+Dr. med.vet.,
+MACVSc,DipACVD,FACVS
+Made Easy Series
+Teton
+Newmedia
+Section
+'HoWTo"
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+In this section, I discuss key questions important in taking a der-
+matologic history and their implications, as well as specific der-
+matologic lesions and what they tell us. Furthermore, I introduce
+various tests important in veterinary dermatology, give their
+indications, explain necessary techniques in detail, and discuss
+the interpretation of the results.
+Dermatologic
+History
+Clinical signs for various skin diseases are very similar and the
+etiology of a patient's problem may not be apparent based solely
+on the findings of a clinical examination.
+A thoroughhistory
+will typically provide clues in regard to the cause of the skin dis.
+order and allow the veterinarian to prioritize time-consuming
+and frequently costly laboratory tests needed to confirm the diag-
+nosis. I prefer my clients to fill out a questionnaire in the waiting
+room which we then review together during the consultation.
+This decreases the time needed to extract a good history from
+the owner, helps ensure a complete history independent of stress
+levels and time constraints, and allows the client to think about
+her or his pet's skin problem for a little while without unneces-
+sarily delaying the appointment schedule. A sample of a derma
+tology questionnaire is enclosed in the Appendix. It is important
+to phrase questions appropriately, because many owners leave out
+pertinent facts either because they are not aware of their rele-
+vance or because they think these facts may not be well received
+by the veterinarian. Sometimes, it is necessary to ask the same
+question several times in different ways to obtain meaningful
+answers. I cannot overemphasize the importance of taking a good
+and efficient dermatologic history, which requires tremendous
+knowledge, experience, practice, and effective communication
+skills. To teach this is beyond the scope of this book. However, I
+do discuss some crucial questions and their implications in more
+detail.
+Question:What is the breed of the patient?
+Relevance
+V Some breeds are predisposed to certain skin diseases and it
+may be worthwhile to keep a list of such breed predispositions
+in easy reach.
+V A list of reported breed predisposition is given in the
+Appendix. But beware, breed predispositions may vary with
+geographiclocation!
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Question: How old was the patient when clinical signs were
+first recognized?
+Relevance
+V Very young animals (puppies and kittens) are more commonly
+presented with congenital and hereditary defects, ectopara-
+sites such as Sarcoptes scabiei, Otodectes cynotis, or
+Demodex canis, infections with bacteria (impetigo) or fungi
+(dermatophytosis) or, in dogs, canine juvenile sterile granulo-
+matous dermatitis and lymphadenitis.
+V Young adult dogs are more commonly affected by demodico-
+sis, atopic dermatitis, and flea-bite hypersensitivity, as well as
+idiopathic seborrhea and follicular dysplasia.
+V In middle age, hormonal diseases become a significant consid.
+eration, although allergies still occur in a significant number
+of animals, particularly in cats.
+Y Neoplastic diseases are more commonly seen in older animals.
+Question: How long has the disease been present and how did
+it progress?
+Relevance
+V Acute onset of severe pruritus is frequently associated with
+scabies. Food adverse reaction may also have an explosive
+onset.
+V If pruritus was the first initial sign and lesions occurred later,
+  o   o  o 
+with lesions that occur at approximately the same time may
+be due to a wide variety of causes.
+V Chronic nonlesional pruritus is typically due to atopic der-
+matitis or food adverse reaction, possibly complicated by sec-
+ondary infections. Scabies incognito may also cause nonles-
+ional pruritus.
+V If cutaneous signs have been present for years without the
+development of concurrent systemic signs, endocrine disor-
+ders are unlikely.
+V Nonpruritic alopecia for years without systemic signs points
+towards alopecia and follicular dysplasias or hereditary
+alopecia.
+V The presence of chronic wounds alone or assoc iated with
+draining tracts necessitates the search for an infectious
+organism.
+Copyright2000TetonNewMedia888-770-3165www.veterinarywire.com
+3
+Diagnostic procedures: Scabies treatment trial, skin scrapings
+elimination diet, cytology, bacterial culture, fungal culture, biopsy.
+Question: Where on the body did the problem start?
+Relevance Tables 1-1 and 1-2 outline typically affected sites of
+Certain diseases.
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Table 1-1
+Location of Lesions and/or Pruritus of
+Various Canine Skin Diseases
+LOCATION OF LESIONS
+COMMON UNDERLYING DISEASES
+AND/OR PRURITUS
+Otitis externa
+Atopy, food adverse reaction, parasites, polyps.
+Secondary infections are common
+and can also occur with primary endocrine
+disease!
+Pinnae
+Atopy, food adverse reaction, scabies,
+vasculitis, pemphigus foliaceus
+Head/face
+Demodicosis, atopy, food adverse reaction,
+dermatophytosis, insect allergies, scabies, is
+coid lupus erythematosus, pemphigus foliaceus
+Paws
+Demodicosis, atopy, food adverse reaction,
+Malassezia dermatitis, pemphigus foliaceus,
+metabolic epidermal necrosis.
+Claws
+Bacterial or fungal infection, trauma,
+immune-mediated skin diseases.
+Tail base
+Flea-bite hypersensitivity
+Table 1-2
+Location of Lesions or Pruritus of
+VariousFelineSkinDiseases
+LOCATION OF LESIONS
+COMMON UNDERLYING DISEASES
+AND/OR PRURITUS
+Otitis externa
+Atopy, food adverse reaction, parasites, polys.
+Secondary infections common?
+Pinnae
+Notoedres cati, vasculitis, pemphigus foliaceus
+Head/face
+Atopy,food adverse reaction, dermatophytosis,
+insect allergies, feline scabies, pemphigus foliaceus
+Paws
+Atopy, food adverse reaction, pemphigus
+foliaceus, trauma, plasmacytic pododermatitis
+Claws
+Bac terial infection, trauma, immune-mediated
+skin diseases
+Tail base
+Flea-bite hypersensitivity
+Question:  Is the animal itchy?
+Relevance
+Pruritus is sometimes difficult to identify. Owners often do not
+consider licking, rubbing, or biting as clinical signs indicative
+of pruritus (we all have heard the story of the dog who is con-
+stantly licking its feet because "it is a very clean dog ..."). Several
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+routine questions may be needed to identify pruritus in some
+patients: Are they licking or chewing their paws? Are they
+ ia ae rae o nos ae o ia a 
+they scratching their armpits?
+√ The presence of pruritus with skin lesions does not help much
+in discovering the etiology of the pruritus, given that many
+skin diseases cause pruritus. However, pruritus without lesions
+typically means either atopic dermatitis or food adverse reac-
+tion (possibly with secondary infections) or in rare instances
+scabies incognito.
+V The perceived severity of pruritus may vary with the owner.
+Some owners deny the presence of pruritus despite the
+patient's frantic scratching in the consultation room. Others
+insist on severe pruritus in a patient with no evidence of self
+trauma on clinical examination. Good communication skills
+and judgement are essential to form a realistic opinion for
+evaluation. If the pet's scratching wakes the owner up at
+night, the pruritus is severe irrespective of the presence of
+lesions.
+V If itch preceeds the occurrence of lesions, atopic dermatitis,
+food adverse reaction, and scabies incognito must again be
+considered.
+Diagnostic procedures: Trichogram in alopecic patients that
+are reportedly nonpruritic.
+Question: Is the disease seasonal?
+Relevance
+V Insect bite hypersensitivities (caused most commonly by fleas, but
+mosquitoes or other insects can also be involved) frequently cause
+disease that worsens in summer. Whether clinical signs are absent
+or milder in the colder season depends on specific environmental
+conditions.
+V Atopic dermatitis may also be seasonal in certain climates. In
+       s  
+mer and autumn because of weed pollens. Warmer climates such
+as those found in tropical or subtropical regions usually have an
+extended pollen season. Hypersensitivities to house dust mites are
+often nonseasonal, but may be seasonally worse in winter in some
+areas and patients.
+6
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+V Seasonal noninflammatory alopecia and hyperpigmentation
+may be due to cyclic follicular dysplasia.
+Diagnostic procedures: Insect bite trial, intradermal skin test-
+ing, serum testing for allergen-specific IgE, biopsy, keeping the
+animal inside to evaluate for mosquito-bite hypersensitivity.
+Question: Are there other clinical signs such as sneezing, coughing,
+or diarrhea?
+Relevance
+V Sneezing, coughing, wheezing, and conjunctivitis may be seen
+concurrently with atopic dermatitis and caused by airborne
+allergies.
+V Diarrhea may be associated with food adverse reaction.
+V Polydipsia and polyuria are common with iatrogenic and idio-
+pathic hyperadrenocorticism.
+xia, lethargy, and with gastrointestinal or respiratory symp-
+toms.
+Diagnostic procedures: Cytology of nasal exudate or conjunctiva,
+elimination diet, urine cortisol/creatinine ratio, low dose dexametha-
+sone suppression test, and adrenocorticotropic hormone (ACTH)
+stimulation test.
+Question:What is fed to the animal?Was a special diet used in the
+past?What was it and how long was it fed exclusively?
+Relevance
+V Knowing the diet will allow the clinician to determine possi-
+ble nutritional deficiencies.
+V It will also help in formulating an elimination diet if indicated
+(p. 46).
+V If a diet was fed in the past and it was not a true elimination
+diet (was not fed exclusively or not fed for an appropriate
+length of time) it may need to be repeated.
+ Contrary to the common belief, food adverse reactions typically
+do not occur immediately after a change in feeding habits. Most
+animals with food adverse reactions have been consuming the
+offending diet for years before showing clinical signs.
+ Remember to ask about treats and supplements, which are
+often forgotten, when food is discussed with the client.
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+f
+Question: Are there other animals in the household? Do they show
+cutaneous symptoms?
+Relevance
+V If other animals in the household are similarly affected, conta-
+V Other animals may serve as a reservoir for ectoparasites
+without showing clinical signs.
+Diagnostic procedures: If indicated, insect control trial, fungal
+cultures, or scabies treatment trials should include all animals in
+the household to identify and/or treat possible carrier animals to
+allow successful long-term remission for the patient.
+Question: Does any person in the household have skin disease?
+Relevance
+V Two zoonoses of major concern in veterinary dermatology are
+scabies and dermatophytosis (ringworm). However, even if
+owners are not affected, these diseases cannot be ruled out.
+V Canine scabies affecting humans occurs as an itchy papular
+     s      
+weeks after onset of pruritus in the pet.
+V Dermatophytosis is often characterized by scaling and ery-
+thema and may not be particularly pruritic, but occasionally
+can present as severely inflammatory and pruritic skin disease.
+Dermatophytosis may sometimes be misdiagnosed as eczema
+in humans.
+V Sporotrichosis and other mycoses have zoonotic potential and
+may occasionally cause disease in humans.
+V Don't forget that the skin disease of the owner may also be
+completely unrelated to the animal's skin disease.
+Diagnostic procedures: Wood's light, skin scrapings, fungal cul-
+ture, scabies trial treatment. In severe forms of suspected der-
+matophytosis, a biopsy and special fungal stains may prove useful
+for obtaining a quick diagnosis.
+Question: Was the disease treated before? If so, which drugs were
+used and how successfuf was treatment?
+Relevance Response to previous therapy can be of tremendous
+help in establishing or ruling out underlying causes for the skin
+disease.
+8
+Copyright2000TetonNewMedia888-770-3165www.veterinarywire.com
+V Initial response to recent glucocorticoid administration may
+not be helpful because many skin diseases improve for a short
+period with this symptomatic, nonspecific treatment.
+gests hypersensitivities (possibly complicated by Malassezia
+dermatitis caused by Malassezia pachydermatis).
+V Repeated response to antibiotics and glucocorticoids in
+combination is of little help
+V Repeated partial or total response to antibiotics indicates a
+pyoderma usually secondary to either atopic dermatitis, food
+adverse reaction, hormonal disease, or another less common
+addition to antibacterial treatment, the underlying problem
+needs to be identified and treated to prevent recurrences.
+ Ask specifically how much the pet improved while receiving
+medication because many owners tend to judge a treatment as
+not helpful if it did not cure the disease.
+Question: What is currently used to control fleas?
+Relevance
+V Flea-bite hypersensitivity is the most common hypersensi-
+tivity and an extremely common skin disease in most small
+animal practices. If flea-bite hypersensitivity is suspected, a
+flea control trial should be commenced.
+√ Details of the flea control for all animals in the household are
+important because in a severely allergic animal, clinical signs
+can be caused by a very small number of flea bites. Inconsi-
+stent or ineffective flea control can be discovered only
+through detailed questioning.
+ Many owners take questions about their flea control as an
+insult to their own cleanliness and hygiene. Good communica-
+tion skills are a great help. I own a flea-allergic dog and rou-
+tinely mention her as an example, which breaks the ice and
+increases the client's willingness to listen and follow my
+instructions.
+Question: When was the last medication given?
+Relevance
+V Recent administration of medication may affect the clinical
+presentation.
+Copyright @ 2000 Teton NewMedia 888-770-3165www.veterinarywire.com
+6
+V It may also affect various indicated diagnostic tests that may
+need to be postponed.
+V Long-term glucocorticoid therapy will affect the results of allergy
+tests - both intradermal skin testing and serum testing for
+allergen-specific IgE. It will also affect histopathologic findings
+and the results of many blood tests.
+V Antihistamines and short-term systemic and topical glucocor-
+ticoids (i.e.,< 4 weeks) may influence intradermal skin
+testing-
+V Some antibiotics, such as trimethoprim-sulfonamide combina-
+tions, will affect blood concentrations of thyroxin. Others
+such as cephalosporins may affect the glucose readings of
+some urine test strips.
+V Remember to ask specific questions regarding heartworm pre-
+vention, vitamin supplements, or deworming which are also
+forms of pharmacotherapy.
+Question: Does the animal get better with a change of enwironment
+(a weekend away or a day at the in-laws for example)?
+Relevance
+V The animal's improvement in another environment indicates
+involvement of an environmental allergen (airborne or con-
+tact) or irritant.
+V Lack of improvement does not rule out these allergies, in that
+airborne and contact allergens may be the same in different
+locations (house dust mites are found almost anywhere in the
+world).
+10
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Dermatologic
+Examination
+A good dermatologic examination requires adequate lighting, a
+systematic and thorough approach, and should always include a
+general physical examination. Observation from a distance should
+be followed by close inspection of skin and mucous membranes. I
+start at the head, look at the lips, mouth, ears, run my hands
+through the coat of the trunk, lift up the tail to inspect the peri-
+anal area, and then examine the legs and feet with pads and claws.
+Next, the patient is rolled on his back - reluctant small pets are
+made to sit up in the lap of the owner; with larger dogs the front
+paws are lifted up for a short moment, which gives me the oppor
+tunity to examine the animal's ventral aspects from the axillae to
+the groin.
+General Observation
+Localized or Generalized Problem
+V Localized problems may be due to infectious organisms that gained
+entry at a certain site and spread only locally such as atypical
+mycobacterial or fungal infections.
+V Neoplastic disease is commonly localized, at least initially.
+/ Generalized disorders are more commonly due to hypersensitivities
+Or systemic conditions such as endocrine disorders and immune-medi-
+ated or metabolic skin diseases.
+Symmetry
+V Bilaterally symmetric lesions are typically caused by internal
+disease such as hypothyroidism, hyperadrenocorticism, or pemphi-
+gus foliaceus. Allergies may also present with bilaterally symmetric
+symptoms.
+V Asymmetric lesions more commonly have external causes such as
+ectoparasites (e.g., demodicosis) or fungi (e.g., dermatophytosis).
+Haircoat Quality, Color, and Shine
+V Is the haircoat dull or shiny? A dull haircoat may be due to meta-
+bolic or hormonal diseases, nutritional deficiencies, or chronic skin
+disease.
+V Are there color abnormalities or changes and if so, did they occur
+Copyright  2000 TetonNewMedia 888-770-3165www.veterinarywire.com
+11
+before or concurrent with the onset of skin disease or as a conse-
+quence of the disease. Hair color changes may be associated with
+hormonal disease or follicular dysplasia.
+V Changes in the hair quality (either to a coarse coat or to a
+fine puppy coat) may again point to hormonal disease or follicu-
+lar dysplasia.
+Close inspection of the skin and mucous membranes follows the
+general observation. Pay special attention to any individual
+lesions. Primary lesions are initial eruptions that are caused
+directly by the underlying disease process. Secondary lesions
+evolve from primary le
+lesions or are caused by the patient (self.
+trauma) or environment (medications). It is important that the
+clinician be able both to differentiate between primary and sec.
+ondary lesions and to understand the underlying pathomech-
+anism because this helps in the formulation of a relevant list of
+differential diagnoses. I next discuss the individual lesions and
+their implications and give the most common differential diag-
+noses for each lesion.
+Primary Lesions
+Macule
+Figure 1-1A
+Figure 1-1B
+Macule
+Macule
+Definition: A focal, circumscribed,
+Differential diagnoses-depigmenta-
+nonpalpable change in color <1 cm
+tion: Vitiligo, discoid lupus erythemato-
+(when it is larger, it is termed a
+sus, uveodermatologic syndrome, mucocu-
+patch). Pathogenesis: Pigmentation
+taneous pyoderma.
+Differential diagnoses-hyperpigmen-
+change due to decreased or increased
+melanin production, erythema due to
+tation: Lentigo, hormonal diseases or
+inflammation or local hemorrhage
+post-inflammatory with a multitude of
+caused by trauma or vasculitis.
+possible underlying causes lentigo.
+Differential diagnosis-erythema:
+Inflammation due to a variety of underly.
+ing diseases or hemorrhage due to vascu-
+lopathies or coagulopathies.
+12
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Papule
+Figure 1-2A
+Figure 1-2B
+Papule
+Papule
+Definition: A solid elevation of up to
+Differential diagnoses: Bacterial
+1 cm in diameter. Larger lesions are
+folliculitis, demodicosis, fungal folli-
+called plaques. Pathogenesis: Influx of
+culitis, flea-bite and mosquito-bite
+inflammatory cells into the dermis,
+hypersensitivity, scabies, contact aller-
+focal epidermal hyperplasia, early
+gy, autoimmune skin disease, drug
+neoplastic lesions.
+eruption.
+Pustule
+Figure 1-3A
+Figure 1-3B
+Pustule
+Pustule
+Definition: A small circumscribed
+Differential diagnoses-
+area within the epidermis filled with
+neutrophils: Bacterial infection, fun
+pus. Pathogenesis: Most pustules are
+gal infection, autoimmune skin disease.
+filled with neutrophils, but eosino-
+Differential diagnoses-eosinophils:
+philic pustules may also be seen.
+Insect or contact hypersensitivity, para-
+Aspiration cytology and biopsy are
+sites, immune-mediated skin disease
+indicated. (Courtesy of Dr. Thierry
+Olivry.)
+13
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Vesicle
+Figure 1-4A
+Figure 1-4B
+Vesicle
+Vesicle
+Definition: A small circumscribed
+Differential diagnoses: Immune-
+area within or below the epidermis
+mediated and congenital skin
+filled with clear fluid. Larger vesicles
+diseases, viral diseases, or iritant
+are called bullae. Vesicles are very
+dematitis.
+fragile and thus transient.
+Pathogenesis: Spongiosis and extra-
+cellular fluid collection due to inflam-
+mation and loss of cohesion.
+(Courtesy of Dr. Thierry Olivry)
+Wheal
+Figure 1-5A
+Figure 1-5B
+Wheal
+Wheal
+ Definition: A sharply circumscribed,
+Differential diagnoses: Urticaria,
+raised, edematous lesion that appears
+ insect bites, other hypersensitivities,
+and disappears within minutes to
+drug eruption.
+hours. Pathogenesis: Subcutaneous
+edema.
+14
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Nodule
+Figure 1-6A
+Figure1-6B
+Nodule
+Nodule
+Definition: A circumscribed, solid
+Differential diagnoses: Sterile gran-
+elevation more than 1 cm in diame
+ulomatous diseases, bacterial or fungal
+ter that extends into deeper layers of
+infections, neoplastic diseases, calci-
+the skin. Pathogenesis: Massive infil
+nosis cutis
+tration of inflammatory or neoplastic
+cells into the dermis and subcutis or
+deposition of fibrin and crystalline
+material.
+Tumor
+Figure 1-7A
+Figure 1-7B
+Tumor
+Tu mor
+Definition: A large mass involving
+Differential diagnoses: Sterile gran-
+skin or subcutaneous tissue.
+ulomatous diseases, bacterial or fungal
+Pathogenesis: Massive influx of
+infections, neoplastic diseases.
+ inflammatory or neoplastic cells.
+15
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Primary or Secondary Lesions
+Alopecia
+Figure 1-8
+Alopecia
+Definition: Partial to complete loss of hair.
+Pathogenesis: Self-trauma, damage to the hair
+or hair follicle due to dysplasia, inflammation
+and/or infection, lack of hair regrowth often
+due to hormonal disease.
+Differential diagnoses: Primary lesion in
+follicular dysplasias, endocrine disorders, telo
+gen efluvium, anagen defluxion. Secondary
+lesion in pruritic skin diseases, bacterial or
+fungal folliculitis, demodicosis.
+Scale
+Figure 1-9A
+Figure 1-9B
+Scale
+Scale
+Definition: An accumulation of loose
+Differential diagnoses: Primary
+fragments of the horny layer of the
+lesion in follicular dysplasias, idiopathic
+skin. Pathogenesis: Increased produc-
+seborrheas and ichthyosis. Secondary
+tion of keratinocytes (often associat-
+lesion in diseases associated with chronic
+ed with abnormalities of the kera-
+skin inflammation.
+tinization process) or increased reten
+tion of corneocytes.
+16
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Crust
+Figure 1-10A
+Figure 1-10B
+Crust
+Crust
+Definition: Adherence of dried
+Differential diagnoses: Primary
+exudate, serum, pus, blood, scales,
+lesion in idiopathic seborrhea, zinc-
+or medications to the skin surface.
+responsive dermatitis, metabolic epi-
+dermal necrosis. Secondary lesion in a
+variety of skin diseases.
+Follicular Cast
+Figure 1-11A
+Figure 1-11B
+Follicular cast
+Follicular cast
+ Definition: An accumulation of ker-
+Differential diagnoses: Primary
+atin and follicular material to the hair
+lesion in vitamin A-responsive der
+shaft.
+matosis, idiopathic seborrhea, and
+sebaceous adenitis. Secondary lesion
+in dematophytosis and demodicosis.
+17
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Pigmentary Abnormalities
+Hyperpigmentation
+Figure 1-12A
+Figure 1-12B
+Hyperpigmentation
+Hyperpigmentation
+Definition: Increased epidermal
+Differential diagnoses: Primary
+and/or dermal melanin. Pathogenesis:
+lesion in endocrine dermatoses, sec-
+Increased production, size, or mela
+ondary postinflammatory change due
+nization of melanosomes or increased
+to a variety of skin diseases.
+number of melanosomes due to a
+variety of intrinsic or extrinsic fac
+tors. Most common cause: Chronic
+inflammation
+Comedo
+Figure 1-13A
+Figure 1-13B
+Comedones
+Comedones
+Definition: A dilated hair follicle
+Differential diagnoses: Primary
+filled with corneocytes and sebaceous
+lesion in feline acne, some idiopathic
+material. Pathogenesis: Primary kera-
+seborrheas, Schnauzer comedo syn-
+tinization defects or hyperkeratosis
+drome, endocrine diseases. Secondary
+due to hormonal abnormalities or
+lesion in demodicosis, and less com-
+inflammation.
+monly dermatophytosis.
+18
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Secondary Lesions
+Epidermal Collarette
+Figure 1-14A
+Figure 1-14B
+Epidermal collarette
+Epidermal collarette 
+Definition: Scale of loose keratin
+Differential diagnoses: Most likely
+flakes or "peeling" keratin arranged in
+bacterial infection, less commonly fun.
+a circle. Pathogenesis: Remnant of a
+gal infection, immune-mediated skin
+ pustule or vesicle after the top part
+disease, insect-bite reaction, or contact
+(the "roof") has been lost, or caused
+hypersensitivity.
+by a point source of inflammation,
+such as a papule.
+Erosion
+Figure 1-15A
+Figure 1-15B
+Erosion
+Erosion
+Definition: A shallow epidermal defect
+Differential diagnoses: Various
+that does not penetrate the basal mem-
+skin diseases associated with self trau-
+brane. Pathogenesis: Trauma or inflam-
+ma such as infections or allergies.
+mation leads to rapid death and/or loss
+ofkeratinocytes
+19
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Ulcer
+Figure 1-16A
+Figure 1-16B
+Ulcer
+Ulcer
+Definition: Focal loss of epidermis
+Differential diagnoses: Various skin
+with exposure of underlying dermis
+diseases associated with trauma such as
+ Pathogenesis: Severe trauma and/or
+infections and allergies, also immune-
+deep and severe inflammation
+mediated diseases.
+Lichenification
+Figure 1-17A
+Figure 1-17B
+Lichenification
+Lichenification
+Definition: Thickening and harden-
+Differential diagnoses: All chronic
+ing of skin characterized by exagger-
+ and pruritic skin diseases.
+ated superficial skin markings.
+Pathogenesis: Chronic trauma such as
+friction or rubbing.
+20
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Specific Tests in Small
+Animal Dermatology
+Cytology
+Indications
+Any pruritic, scaly, odoriferous, or alopecic animal should be
+evaluated for evidence of bacterial or fungal infection. Thus.
+cytology is indicated for almost all patients presented with skin
+disease. Skin scrapings, aspirations, impressions, ear swabs and
+tape preparations are different techniques to obtain cytologic
+samples.
+V A superficial skin scraping is used in areas such as the inter-
+digital skin where impression smears may be difficult to obtain.
+It is also used when the skin is normal, slightly moist, or greasy.
+V An aspirated sample is useful in the evaluation of pustule
+content and intracutaneous or subcutaneous nodules.
+/ An impression smear is used when moist or oily skin with
+oozing or discharging lesions is evaluated.
+Y Ear swabs are used to evaluate ear canals.
+V Dry scaly skin maybe evaluated by tape preparations. This
+technique is also frequently used in the interdigital area where
+impression smears may be difficult to obtain.
+Technique
+1. Skin scraping for cytology
+V Affected skin is exposed and the surface of the skin scraped
+very gently and superficially with a scalpel blade in the direction
+of hair growth.
+V The debris collected on the blade is applied to a slide and spread
+with the blade in a “"buttering the bread" motion (Figure 1-18).
+2.  Aspiration of nodules
+V Aspiration from nodules or abscesses is undertaken with a
+12-ml syringe and a 22-ga needle.
+21
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+V The nodule is firmly grasped and the needle is then inserted
+(Figure 1-19), aspirated several times (up to the 10-ml mark if
+possible), the pressure released, and the syringe with needle still
+attached is withdrawn.
+V It is important to release the pressure before withdrawal of the
+needle or else the aspirate can be sucked back into the barrel of
+the syringe - from which it may not be retrieved.
+V The needle is detached, the plunger pulled back, and the
+needle reattached.
+V Cells are then blown onto a slide. The smear is air dried.
+3. Impression Smears
+V Cotton swabs are used to obtain samples from ear canals by
+inserting them into the canal, rotating, and withdrawing them
+They are then rolled gently onto a slide. I hold ear slides uni-
+formly on the left side with my left hand, the cotton swab from
+the left ear is rolled onto the mid-section of the slide and the cot-
+ton swab from the right ear onto the right third of the same slide
+V In patients with dry skin, a cotton swap may be moistened
+with saline solution and rubbed on the surface of affected skin
+before it is rolled onto a slide.
+V In patients with moist or greasy skin, the slide can be rubbed
+or impressed directly onto affected skin (Figure 1-20).
+4. Tape Preparation
+V A direct impression technique uses clear sticky tape to collect
+debris from the surface of the skin. Although quick, this method
+does take practice to establish what is "normal."
+V The tape is pressed sticky side down onto the skin (Figure 1-21).
+V Next, it is pressed (also sticky side down) onto a drop of meth-
+ylene blue or the blue stain of DiffQuick on a slide (Figure 1-22).
+/ The tape serves as a cover slip: the sample can be evaluated
+even under oil immersion (with a small droplet of oil placed
+directly on top of the tape).
+V This technique is especially useful for Malassezia evaluation.
+Other items of interest that can be identified include inflamma-
+tory cells such as neutrophils (which may have passed through
+the epidermis in response to a superficial infection), nucleated
+epithelial cells (which are not normal and reflect a keratinization
+abnormality), cocci, rods, macrophages, short-bodied demodex
+mites, Cheyletiella, and occasionally Sarcoptes mites.
+22
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Figure 1-18
+ Debris collected with a superficial skin
+ scraping is spread onto a slide with a
+"butter the bread" motion.
+Figure 1-19
+Aspiration of a small nodule.
+Figure 1-20
+Impression smears are obtained by gently
+pressing a slide onto affected skin.
+Figure 1-21
+The tape is pressed sticky-side down onto
+affected skin.
+23
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Stain
+V A modified Wright's stain (e.g., DiffQuick) can be used to stain
+the air-dried slides. It is much faster and easier than Gram's stain
+and sufficient to evaluate nearly all skin cytology samples. But
+Gram's stain is also suitable.
+Interpretation
+V Yeast organisms are most often M. pachydermatis (Figure 1-23),
+although Candida spp. may occasionally be involved.
+V Cocci are most often Staphylococcus intermedius (Figure 1-24).
+S. aureus or Streptococci may be found in some patients.
+V Rod-shaped organisms are found mostly in the ear canal and are
+most often Pseudomonas aeruginosa or Proteus mirabilis (Figure 1-25).
+0 The number of organisms is important. Occasional cocci or
+yeast are probably not relevant. On the skin, I consider one or
+more yeast organisms per high-power field (HPF) relevant; cocci
+should be seen in high numbers. In the infected ear, yeast and
+  so  iq t   i 
+abnormal. Don't mistake exogenous bacterial contaminants for
+infection.
+V Inflammatory cells with intracellular organisms are pathogno-
+monic for a clinically relevant infection (Figure 1-26).
+V Eosinophils typically indicate allergic or parasitic skin disease.
+% Neoplastic cells may be difficult to recognize so that the help
+of a clinical pathologist is typically needed. Even with high skill
+levels, neoplastic skin disease should not be diagnosed exclusively
+by cytology (with the exception of mast cell tumors); a biopsy
+should always confirm any suspicions raised clinically and cyto-
+logically.
+V If mast cells are found cytologically (Figure 1-27), the diagnosis
+of mast cell tumor is confirmed, but complete surgical excision
+should still be confirmed by histopathology. In some patients with
+mast cell tumors, mast cell granules do not stain with routine
+DiffQuick and thus a negative cytologic result can not rule out mas-
+tocytosis.
+V Acantholytic cells are keratinocytes that have lost their intercellu-
+lar connections (desmosomes) and present as round cells with a pur-
+ple cytoplasm and a central dark purple nucleus (Figure 1-28). These
+cells suggest pemphigus foliaceus or erythematosus but can also be
+seen on cytologic samples of severe pyodermas. A biopsy is indicated
+to confirm the diagnosis.
+24
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Figure 1-22
+Tape is then pressed sticky-side down
+onto a drop of methylene blue on a slide.
+Figure 1-23
+Malassezia pachydermatis on a tape
+preparation stained with blue stain of
+DiffQuick (original magnification x400).
+Figure 1-24
+Cocci on an impression smear stained
+with DiffQuick (original magnification
+x1000).
+Figure 1-25
+Rods on an impression smear obtained
+from otitis externa and stained with
+DiffQuick (original magnification
+x1000).
+25
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+ Remember, that bacterial and yeast infections are usually
+secondary to other diseases, which need to be identified and
+treated to prevent recurrence of the infection.
+@ Cytologic re-evaluation at the end of antimicrobial therapy
+is crucial because organisms may change during treatment. For
+instance, a dog initially presented with bacterial infection may
+develop a yeast infection during successful antibacterial treat-
+ment, preventing clinical improvement and vice versa.
+Treatment of bacterial infections and antifungal therapy are
+discussed in Section 3.
+Superficial skin Scrapings
+Indications
+Any pruritic or scaly dog and cat may be infested with
+Cheyletiella spp., Otodectes cynotis, Scabies scabiei, or Notoedres-
+cati and should be scraped.
+Technique
+V If scabies is suspected, preferred areas for scrapings are the
+elbows, hocks, and ventrum. Ear margins should be scraped
+thoroughly if any pruritus or scaling is observed in this area.
+Sometimes scaling is subtle and only becomes evident on close
+examination.
+V Sites are gently clipped with #40 clipper blades. Mites may be
+difficult to find (especially canine scabies mites), so that the big-
+ger the surface area scraped, the greater will be the chance of a
+positive skin scraping.
+ Several drops of mineral oil are applied directly to the
+clipped skin and distributed evenly in the area.
+V The oil is scraped off with a #11 scalpel blade (Figure 1-29)
+and transferred to one or more glass slide(s). Scrape 10 to 15
+times especially when canine scabies is suspected.
+V A cover slip is used to allow rapid yet thorough evaluation of
+collected debris (Figure 1-3O) and the slide(s) is (are) evaluated
+under low power (x40 or xl00) systematically from the left upper
+corner to the right lower corner.
+26
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Figure 1-26
+Neutrophils with intracellular cocci
+(arrow) pathognomonic for bacterial
+infection stained with DiffQuick (origi-
+nal magnification x1000).
+Figure 1-27
+Mast cells on an aspirate from a feline
+mast cell tumor stained with
+DiffQuick (original magnification
+x1000).
+Figure 1-28
+Acantholytic cells on an aspirate of an
+intact pustule from a dog with pemphigus
+foliaceus stained with DiffQuick (original
+magnification x1000).
+Figure 1-29
+A scalpel blade is used to scrape applied
+ oil off the affected and clipped skin.
+27
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Interpretation
+A finding of one mite or egg of Sarcoptes spp., Notoedres cati,
+Cheyletiella spp. or Otodectes cynotis (Figures 1-31, 1-32, and
+1-33) is diagnostic for the cause of the skin disease. Negative scrap-
+ings do not rule out the presence of mites and clinical disease par-
+ticularly in canine scabies. Cheyletiella spp. and Otodectes cynotis may
+also be missed by superficial skin scrapings. The next step would be
+a therapeutic trial (p. 49), possibly in conjunction with other diag-
+nostic tests such as an elimination diet (p. 46) to evaluate other
+causes of pruritus.
+Deep skin Scrapings
+Indication
+Any dog or cat with possible demodicosis must be scraped. Thus,
+every alopecic patient and every patient with papules, pustules,
+crusting, and particularly interdigital pododermatitis must be
+scraped for the presence of demodicosis. Effective deep skin scrap-
+ings of paws may require sedation or general anesthesia.
+Technique
+ Because Demodex canis and felis mites live deep in the hair folli-
+cle, it is useful to squeeze the skin as hard as the patient can tolerate
+before scraping in an attempt to push mites out from the depths of
+the follicles.
+? A blade covered with mineral oil should be used in the direc-
+tion of hair growth until capillary bleeding is observed (Figure 1-34).
+ Feet and faces are hard to scrape, so that it may be worthwhile to
+scrape erythematous areas adjacent to papules and crusts interdigital-
+ly to maximize the yield and to minimize bleeding associated with
+scraping. Hair plucks may be useful for those areas, the plucked hair
+is placed in a drop of mineral oil on a slide, with a cover slip and
+evaluated microscopically for the presence of mites (p. 38).
+V Negative scrapings or hair plucks of interdigital areas do not rule
+out pododemodicosis; a biopsy may be needed to confirm or rule out
+the diagnosis.
+V Old English Sheepdogs, Scottish Terriers and especially Shar-peis
+may produce negative results on scrapings and may have to be biop-
+sied for diagnosis. Although not documented, it is thought that
+these breeds have more tortuous and deeper hair follicles.
+28
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Figure 1-30
+..and the oil and gathered debris are
+transferred to a slide.
+Figure 1-31
+Sarcoptes scabiei mites and eggs
+obtained with a superficial skin scrap-
+ing from a dog with scabies (original
+magnification x40).
+Figure 1-32
+Cheyletiellaparasitivorax(original
+magnification x40).
+Figure 1-33
+ Otodectes cynotis mites and eggs (original
+magnification x40).(Courtesy of Dr.
+Peter Ihrke.)
+29
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+V The finding of more than one mite should be considered diagnostic.
+Interpretation
+V It is important to assess the relative numbers of adults (both
+live and dead), larvae/nymphs and eggs (Figure 1-35) per low
+power field (LPF) and to record the site of scraping. During sub.
+sequent visits, assessment of response to therapy relies on the
+comparison of such numbers, so we routinely repeat scrapes at
+the same sites monthly when monitoring cases with demodicosis.
+Treatment for demodicosis is outlined in Section 3.
+Wood's Lamp Examination
+Indication
+Any dog or cat with possible Microsporum canis infection should
+be examined with a Wood's lamp. Any patient with alopecia,
+papules, pustules, and/or crusts may benefit from the procedure.
+Technique
+V The Wood's lamp should be warmed up for 5 minutes before use
+because the stability of the light's wavelength and intensity
+depends on temperature.
+V The animal is examined under the lamp in a dark room.
+ Hairs invaded by M. canis may show a yellow-green fluores-
+cence. This fluorescence runs along the hair shafts (Figure 1-36)
+rather than fluorescing on discrete, individual, occasional scales, as
+may be seen in normal animals and humans.
+V Some drugs, soaps, and bacteria such as Pseudomonas aeruginosa
+may also cause fluorescence but are usually not associated with hair
+shafts.
+Interpretation
+V In approximately 50% of all infections with M. canis, greenish
+fluorescence of tryptophan metabolites is seen under ultraviolet
+light at 253.7 nm.
+V Positive fluorescence is diagnostic for dermatophytosis and by
+far the most common fluorescing dermatophyte in veterinary medi-
+cine is M. canis. Some other dermatophytes may show fluorescence,
+but these are not relevant in veterinary dermatology.
+30
+Copyright @ 2000 Teton NewMedia 888-770-3165www.veterinarywire.com
+Figure 1-34
+To evaluate a patient for demodicosis,
+scrapings must be deep, until capillary
+bleeding is observed. The skin should be
+squeezed to maximize the yield.
+Figure 1-35
+Demodex canis (A) mite and (B) egg
+(original magnification xl00).
+Figure 1-36
+Green fluorescent hair shafts under
+Wood's lamp examination in a cat
+infected with M. canis.
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+31
+ A lack of fluorescence does not rule out dermatophytosis. Fungal
+culture and/or biopsy are the next steps.
+Treatment of dermatophytosis is outlined in Section 3.
+Fungal Culture
+Indication
+A fungal culture may be indicated in any dog or cat with possible fun-
+gal infection and thus in any patient with alopecia, papules, pustules,
+and/or crusts.
+Technique
+V Hairs and scale from the edge of a lesion (preferably the ones fluor-
+escing under the Wood's lamp) should be taken (Figure 1-37).
+V If lesions are not well circumscribed or if asymptomatic carriers are
+suspected, I recommend the McKenzie tooth brush method. In this
+technique, the hair is brushed with a sterile toothbrush (any new
+ as i s  s    
+Scales and loose hairs caught in the tooth brush are gently imprinted
+onto the agar (Figure 1-38).
+V Sabouraud's agar is the most common medium for fungal cultures.
+In practice dermatophyte test medium (DTM) is frequently used.
+DTM is essentially a Sabouraud agar with a color indicator and added
+ingredients to inhibit overgrowth with saprophytes and bacteria.
+ After being innoculated, the culture jars should be incubated at
+between 25° and 30° C at 30% humidity, or in a warm dark corner
+with the lids not screwed down tightly.
+V Cultures should be incubated for 2 to 3 weeks and must be evaluat-
+ed daily.
+Interpretation
+ A pH change (and subsequent color change) that occurs as the
+colony grows indicates dermatophytes (Figure 1-39). These fungi use
+protein and produce alkaline metabolites which cause the pH and
+color change. It is imperative that the color change is observed coinci-
+dentally with the development of the colony. Color changes also occur
+in association with mature (i.e., large) saprophyte colonies. Saprophytes
+initially utilize carbohydrates. Once all carbohydrates have been used
+and the colony is already grown (Figure 1-40), they turn to the proteins
+and rapidly change the color and pH with the subsequent
+32
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Figure 1-37
+Hairs and scales from the edge of skin
+lesions are chosen for fungal culture.
+Figure 1-38
+Contents of a tooth brush are transferred
+to a fungal culture medium after using
+the McKenzie toothbrush technique.
+Figure 1-39
+A dermatophyte culture changes the
+color of the dermatophyte test medium
+in early stages of growth.
+Figure 1-40
+A large saprophyte colony prior to color
+change.
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+alkaline metabolites (Figure 1-41). It may be impossible to distinguish
+on gross appearance whether a mature colony with significant red pig
+mentation to the underlying and surrounding agar is a pathogenic or
+saprophytic fungus.
+V Always check the colony microscopically for characteristic macro-
+conidia. Clear sticky tape is impressed gently onto the culture (sticky
+side down), then laid onto a drop of methylene blue or the blue stain
+of DiffQuick (also sticky side down) on a microscope slide and evalu-
+ated under the microscope. The surface of the sticky tape acts as its
+own cover slip. If required, microscope oil can be placed directly onto
+the surface of the tape.
+V Microsporum canis grows in a white, wooly colony with a yellowish
+reverse pigment (which maybe difficult to assess if grown on DTM).
+Abundant spindle-shaped macroconidia with knobs at the terminal
+ends and typically more than six internal compartments are seen
+microscopically (Figure 1 -42).
+ M. canis is a zoophilic fungus and patients typically were
+infected by another animal or human. Humans and other ani-
+mals in contact with the patient are at risk to develop the infec-
+tion or may be asymptomatic carriers and need to be carefully
+evaluated and possibly treated as well.
+V M. gypseum grows in a granular beige culture with yellowish
+reverse pigment and has thin-walled echinulate macroconidia with
+fewer than six internal compartments (Figure 1-43). M. gypseum is
+soil and thus has a limited zoonotic potential.
+V Trichophyton mentagrophytes grow in colonies of variable
+texture and color that characteristically have a few cigar-shaped
+macroconidia and globous microconidia (Figure 1-44). Typical
+        
+are usually associated with exposure to these hosts or their
+immediateenvironment.
+See Section 3 for treatment of dermatophytosis
+34
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Figure 1-41
+Saprophyte colony of Figure 1-40
+24 hours later.
+Figure 1-42
+Hyphae and macroconidia of
+Microsporum canis.
+Figure 1-43
+Hyphae and macroconidia of
+Microsporum gypseum.
+Figure 1-44
+Hyphae and microconidia of Trichophyton
+mentagrophytes.
+35
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Trichogram
+Indication
+Trichograms may be useful in any alopecic animal as well as in
+animals with suspected dermatophytosis and associated papules,
+pustules, or crusting.
+Technigue
+V A forceps is used to forcefully pluck hairs from affected skin
+(Figure 1-45).
+V The hairs are then placed onto a slide and evaluated under
+low power. I generally use mineral oil and a cover slip to prevent
+the hair sample from blowing all over the table rather than
+remaining under the microscope (Figure 1-46).
+Interpretation
+A trichogram is taken for several reasons:
+V To determine how many hairs are in telogen (or resting) versus
+anagen (or growing) phase (in shedding or suspected endocrine
+problems). This requires practice! Anagen-phase bulbs are rounded,
+smooth, shiny, glistening and soft so the root may bend (Figure 1-47).
+Telogen bulbs are club- or spear-shaped with a rough surface
+(Figure 1-48). A sample with exclusively or mostly telogen hairs
+points to an endocrine disorder or follicular arrest.
+V To determine if a cat or dog creates hair loss by licking or rub.
+bing, or if the hair falls out for another reason. If the animal is pru-
+ritic and licks the hair off, the tips of the hairs are broken off
+(Figure 1-49). Any trauma to the hair shaft, such as occurs in der-
+matophytosis or anagen defluxion, may also cause hair with broken
+ends. If the hair falls out for other reasons, the tips are tapered
+(Figure 1-50)
+V Trichograms are used routinely in human dermatology to evalu-
+ate alopecias, but their usefulness in veterinary dermatology has
+not been explored in any great detail and is hampered by the
+marked variations in breed characteristics.
+ A trichogram is most useful to determine ifbald cats that
+present with a history of "nonpruritic" alopecia are really so-called
+"closet lickers" or "hidden groomers" (in which case the hair-shaft
+ends will be fractured) or if the hair falls out due to telogen effluvi-
+um or, very rarely, for hormonal reasons.
+36
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Figure 1-45
+A forceps is used to pull hairs from affected skin
+for a trichogram.
+Figure 1-46
+The hairs are placed in oil onto a slide
+under a cover slip.
+Figure 1-47
+Anagen bulbs in a trichogram of
+a normal dog (original magnification
+x100).
+Figure 1-48
+Telogen bulb in a trichogram of a dog
+with hyperadrenocorticism (original
+magnification x100).
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+37
+0 Trichograms may also be used to diagnose canine demodicosis.
+If mites are found microscopically, the diagnosis is confirmed.
+However, if no mites are present, demodicosis cannot be ruled out!
+: Trichograms can also help to diagnose color-diluent alopecia.
+In this disease the melanin in the hair shaft is present in big
+clumps rather than finely dispersed as in normal pigmented hair.
+Biopsy
+Indication
+V Any skin that appears unusual to the clinician should be biopsied.
+V A biopsy should also be considered if lesions fail to respond to
+appropriate empiric therapy.
+V Nodules are possibly neoplastic and should be biopsied.
+V The presence of any suspected disease for which treatment is
+expensive and/or life-threatening should be confirmed histopatho.
+logically.
+V One of the major reasons to perform a skin biopsy is to rule out
+other diagnoses ("I think this is an allergy but... "). In such a situa-
+ s  ,   d a 
+mononuclear perivascular infiltrate" has at least ruled out common
+infectious agents and unusual dermatoses. A supportive pathologic
+diagnosis interpreted in conjunction with the clinical impressions
+may be just as useful as a confirmatory diagnosis.
+Technigue
+Selection of the Site
+V Selection of the site requires careful examination of the entire ani-
+mal for the most representative samples, identification of the primary
+and secondary lesions present, and the formation of a list of differen-
+tial diagnoses before biopsy.
+ With the exception of a solitary nodule, we recommend taking
+multiple tissue samples. These should include primary lesions if pres-
+ent, contain a representative range of lesions, and above all, should
+be taken and handled carefully. A normal sample of haired skin
+should also be included.
+V Depigmenting lesions should be biopsied in an area of active
+depigmentation (gray color) rather than the final stage (white or
+pink color).
+V Alopecia should be biopsied in the center of the worst area as well
+as in junctional and normal areas.
+38
+Copyright @ 2000 Teton NewMedia 888-770-3165www.veterinarywire.com
+Figure 1-49
+Hair tips are broken off in an alopecic
+cat with atopic dermatitis (original
+magnification x100).
+Figure 1-50
+Tapered hair tips from an alopecic area
+of a dog with hyperadrenocorticism
+(original magnification x1 00).
+V Ulcers and erosions should not be biopsied. Do not expect a
+pathologist to be able to describe more specifically than "an ulcer"
+if an ulcer is biopsied or "a crusted erosion" if an excoriated area
+is selected.
+Preparation of the Site
+V With the exception of excision biopsies of nodules, no surgical
+preparation of the site should be employed. Even topical application
+of alcohol and air drying may alter the epidermis.
+ If crusts are present, these should be left on the skin. If they
+are accidentally dislodged they should still be placed in the for-
+malin and a note "please cut in crusts" should be added to the
+request form. Crusts may contain microorganisms or acantholytic
+cells that will help to obtain a diagnosis. Infection as a result of
+lack of surgical preparation does not seem to be a problem.
+Wedge versus Punch Biopsy
+V There are two commonly employed biopsy techniques in veter-
+inary medicine-the punch biopsy and the wedge biopsy. The lat-
+ter is commonly employed as an excisional technique when
+removing solitary nodules. It is also indicated with vesicles
+    s    i  
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+39
+Out rupturing), suspected cases of panniculitis (in which suffi-
+cient depth of biopsy may not be achieved with a punch) and
+when biopsying the edge of a lesion in a spindle shape (which
+allows correct orientation of the lesion in the laboratory where
+spindle-shaped lesions are always cut in longitudinally).
+V The punch biopsy is quick, relatively atraumatic, and usually
+employed with suspected infectious, inflammatory, and endocrine der
+matoses. Disposable biopsy punches are readily available in various
+sizes. They can be cold-sterilized and reused.
+ With the exception of face and foot biopsies, 8 mm punches
+should be used! Smaller punches with a diameter of 4 or 6 mm are
+employed to biopsy face and feet. Very small punches (i.e., 2 to 3 mm)
+are not useful in small animal practice with the exception of eyelid
+biopsies.
+V The overlying hair is clipped and gently removed and the biopsy
+site is marked with a water-proof marker pen (Figure 1-51). If crusts
+are present, using scissors may be less traumatic.
+ General anesthesia is indicated for nasal or footpad biopsies.
+I use a combination of ketamine at 5 mg/kg bodyweight and diazepam
+at O.25 mg/kg body weight given intravenously in one syringe. No fur-
+n paad aq on si asdnq a f ssau s ad r
+manual restraint or with sedation (I use xylazine at O.4 mg/kg or
+medetomidine at 10 mcg/kg intravenously), then a subcutaneous
+injection of 1ml xylocaine (or the less stinging prilocaine) without
+adrenaline will usually provide adequate local anesthesia (Figure 1-52).
+If the agent is administered subcutaneously with the needle entry
+point outside the proposed biopsy area, there should be no disruption
+to the biopsy.
+% Don't overdose small animals with lignocaine (> 1ml / 5 kg), since
+this can cause cardiac arrhythmias.
+ Allow 3 to 5 minutes for the local anesthetic to have effect.
+V If a punch is used, it is held at right angles to the surface of the skin
+and gently placed over the selected lesion (Figure 1-53). Firm continu-
+ous pressure is applied and the punch is rotated in one direction (note
+carefully!) until a sufficient depth has been reached to free the dermis
+from its underlying attachment. The punch is removed and any blood
+should be carefully blotted.
+V The section of tissue is grasped at the base-which should be the
+panniculus-and subcutaneous attachments severed (Figure 1-54).
+Under no circumstances should the dermis or epidermis be grasped
+with forceps because this leads to a "crush artifact." Crushed tissue
+may be misinterpreted as scarring at best, and at worst renders the
+sample worthless. The tissue is rolled on gauze to gently blot the blood
+40
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Figure 1-51
+The biopsy site is gently clipped and
+marked with a water-proof marker pen.
+Figure 1-52
+Local anaesthetic is injected subcuta-
+neously.
+Figure1-53
+The punch is placed vertically onto the surface and
+rotated in only one direction.
+Figure 1-54
+The sample is removed by grasping its
+base with a forceps and cutting it.
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+41
+from its surface. A thin sample should then be placed with the pan-
+niculus face down-onto a rigid piece of cardboard or broken tongue
+depressor (Figure 1-55). This prevents the tissue from curling when
+placed in the formalin optimizing the interpretation by the patholo.
+gist. Thick samples may be placed in formalin without such support.
+V The unit of tissue and cardboard is placed in 10% formalin
+(tissue side down) and allowed to fix for several hours before sec-
+tioning. The volume of formalin required is at least 1O times the
+volume of the sample. Nodules should be sectioned into 1 cm
+thick pieces to allow adequate penetration of the formalin into
+the center of the lesion.
+Submission of Biopsy Samples
+ Careful completion of the appropriate skin biopsy request
+form, including history and physical examination, will greatly
+improve the chances of a diagnostic report.
+W A list of differential diagnoses is important with any clinical
+case but is essential with dermatologic patients. Seborrhea or
+draining tracts can be the result of a wide range of disease
+processes. This list is important for the clinician to ensure that
+he or she has considered all options and obtained as much infor
+mation as possible from both pet and owner as necessary before
+taking the biopsy. It is also important for the pathologist and
+may aid in choosing special stains to rule out or confirm unusual
+diseases.
+Serum Testing for
+Allergen-specific lgE
+Indication
+Useful if the owner of an atopic dog or cat diagnosed by history,
+clinical examination, and ruling out of differential diagnoses, is
+either curious about what causes the problem or is interested in
+allergen-specific immunotherapy.
+Interpretation
+V Different serum tests are available. Laboratory techniques
+have improved over the years and serum testing has become an
+alternative to intradermal skin testing for many small animal
+practitioners. However, tests vary in their sensitivity and speci-
+ficity so that careful selection of an appropriate test is important.
+42
+Copyright @ 2000 TetonNewMedia 888-770-3165www.veterinarywire.com
+Figure 1-55
+paoeld s! i! 'uui s uaunoads Asdoq auijl
+onto a cardboard or tongue depressor
+before placing it into formalin.
+V Testing for individual allergens rather than allergen groups is
+prudent to avoid immunotherapy with inappropriate allergens. It
+is impossible to tell which of the allergens in a particular react-
+ing group are involved in the disease process.
+√ Results need to be interpreted in light of the clinical history of a
+patient. A dog with positive reactions to grass pollens only and a clin
+ical history of nonseasonal pruritus for years in a temperate environ
+ment such as in England or Canada will most likely not benefit from
+allergen-specific immunotherapy.
+V I still consider intradermal skin testing my first choice for the
+identification of offending allergens in atopic dermatitis for several
+reasons: 1) more individual allergens are used in skin testing than in
+serum testing; 2) the skin is the affected organ and thus it seems
+logical to test the organ affected; and 3) the input of a veterinary
+dermatologist in regards to the interpretation of test results and man-
+agement of patients on allergen-specific immunotherapy is invalu-
+able for practitioners with limited experience in this particular field.
+Bacterial Culture
+Bacterial cultures are used infrequently in veterinary dermatology. Most
+bacterial skin infections are caused by Staphylococcus intermedius. If cocci
+are identified on cytology, empiric antibiotic therapy is sufficient in
+almost all patients.
+Indication
+V Empiric therapy at appropriate doses for an appropriate time has
+failed to resolve the pyoderma (lesiors are still present and cytology
+still reveals cocci).
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+43
+V Numerous rod-shaped bacteria are identified on cytology samples
+from ear canals. These organisms may also rarely play a role in cuta
+neous infections of patients clinically not responding to empiric therapy.
+Procedure
+/ Swabs are taken from ear canals as described for cytology samples.
+V Aspirates from intact pustules are useful in patients with
+superficial pyoderma.
+ Swabs from the skin surface to culture organisms from
+patients with deep pyoderma are not suitable. Samples are taken
+in a similar manner to that used in biopsies under aseptic condi-
+tions (scrub the skin surface and use sterile instruments and
+gloves). The upper half of the tissue sample with the epidermis
+and hair is cut off and the lower half is submitted in a sterile
+container placed on a sterile gauze pad soaked in a sterile saline
+solution for maceration culture. This prevents overgrowth of the
+culture by surface bacteria not relevant to the deep infection.
+ Each sample for culture and sensitivity should be accompa-
+nied by cytologic examination, and culture results must be inter-
+preted in relationship to cytologic findings.
+Patch Testing
+This is the test of choice to confirm contact allergy. In classic patch
+testing, the test substance is applied onto intact skin (clipping is rec-
+ommended 24 hours earlier, to minimize any confusion due to clipper
+rash in a sensitive individual), covered with an impermeable sub-
+stance, and fixed. Human test kits are available (Figure 1-56).
+Alternatively, an area may be clipped and tape applied in a checker-
+board pattern to leave two, four, or six spaces of bare skin surrounded
+by areas covered by tape (Figure 1-57). Then individual antigens are
+placed on to the bare patches and fixed with a tape. Fresh material
+may need to be cut up in small pieces and applied to the skin with
+  p i  d o      d 
+whole trunk bandage is applied (and fixed around the neck as well) to
+avoid movement of the bandage and the allergens (Figure 1-58).
+After 2 days, the patch is removed and reactions are observed. After
+removing the bandage and allergens, the individual areas are marked
+with a permanent marker pen (to make possible a second evaluation
+24 hours later). No reaction is graded as O; erythema as 1+; erythema
+and edema or induration as 2+; and erythema and vesiculation as 3+.
+44
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+The latter two reactions are considered significant. The bandage
+should then be reapplied (without taping and allergens) to avoid self-
+trauma and removed 24 hours later for a second evaluation. True con-
+tact allergy is characterized by a delayed-type reaction persisting or
+increasing during these 24 hours without the allergen on the skin.
+Figure 1-56
+Human test kit on a dog. (Courtesy of
+Dr. Thierry Olivry.)
+甲
+Figure 1-57
+Patch test using tape.
+Figure 1-58
+Trunkal bandage covering the patch
+test site.
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+45
+If neither erythema nor vesiculation is present, the reaction on
+the previous day was probably caused by an irritant rather than
+allergic dermatitis. Topical or systemic steroids must be with-
+drawn for 3 to 6 weeks before testing.
+In open-patch testing, the allergen is rubbed into a marked test
+site of normal skin and then examined daily over a 5-day period.
+The reactions similarly consist of mild erythema and edema. The
+technique is suitable only for liquid or plant allergens (in which
+crushed leaves are used). An already sparsely haired clinically
+unaffected area, such as the medial thigh or the inner pinna, is
+commonly used.
+Diagnostic
+Trials
+Diagnostic trials are well accepted tests in veterinary dermatology.
+They are performed when a certain problem is suspected and the
+trial is either the only or the best way to diagnose the possible
+underlying disease. A response to the trial confirms the diagnosis
+in some instances (such as the scabies treatment trial), but in
+other instances a relapse after discontinuing the trial with subse-
+quent resolution on restarting the trial is diagnostic (such as in
+elimination diets). If there is no response to a well-conducted
+diagnostic trial, the suspected disease is extremely unlikely
+(which helps veterinarian, owner, and patient, and needs to be
+emphasized to clients frustrated by the lack of response).
+Elimination Diet
+Indication
+An elimination diet is used to evaluate food adverse reaction
+which can occur with any food fed over a period of time. As a
+general rule food adverse reactions present infrequently. Any dog
+with nonseasonal pruritus (particularly if the face, feet, or ears
+are affected) or recurrent pyoderma, or any cat with miliary der-
+matitis, noninflammatory alopecia, eosinophilic granuloma com-
+plex, or head and neck pruritus could possibly have an underly.
+ing food adverse reaction.
+46
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Procedure
+g An elimination diet for dogs consists of one protein source
+and one carbohydrate source previously not fed! This means
+that the elimination diet for a particular patient is determined
+by the diet fed so far to this animal. Cats are fed only one pro-
+tein without the carbohydrate source to enhance compliance.
+V Possible options for proteins are chicken, turkey, duck, veni-
+son, mutton, beef, horse, buffalo, rabbit, hare, kangaroo, emu,
+various sorts of fish, among others. Carbohydrates may consist of
+rice, potatoes, sweet potatoes, beans, or others.
+V The diet chosen needs to be fed exclusively! Concurrent
+heart-worm prophylaxis or supplements must not contain food
+flavor extracts.
+V It may take 6 to 8 weeks before a response becomes evident.
+ After initial improvement, a rechallenge with the normal
+diet previously fed is essential because improvement may result
+from other factors such as seasonal or environmental changes or
+concurrent medication. If a relapse occurs within 2 weeks and
+clinical signs resolve again after reinstitution of the elimination
+diet, the diagnosis is confirmed.
+Tips to increase compliance
+V Warming the food may improve patient compliance.
+V Spices such as garlic or salt (in small amounts) may also be
+beneficial to improve palatibility.
+ If the animal (and owner) is used to treats, the habit should be
+continued in a modified fashion to prevent feeding of inappropri-
+ate proteins. Little pieces of the selected meat protein can be fried
+and kept in the fridge for use as treats. The selected meat can be
+dried (in the oven or microwave) and given as treats. If an animal
+is receiving potatoes in the diet, then fried pieces of potato may be
+used (so long as they are not fried in butter, but in a plant-derived
+oil). If rice is chosen, rice cakes may be an additional option.
+V If bones are part of the normal diet, bones of the meat selected
+for the elimination diet may be fed if available.
+V Good client communication is essential. It must be made clear
+that an occasional slip in feeding habits (as little as once or twice
+weekly of a very small amount of a different protein) may destroy
+all the effort.
+V It may be worthwhile to advise neighbors about the diet as well.
+Copyright @ 2000 Teton NewMedia 888-770-3165www.veterinarywire.com
+47
+V If a home-cooked diet is not an option, a commercial diet
+consisting exclusively of a protein source and a carbohydrate
+source not previously fed may be considered. The same principles
+apply to commercial as to home-cooked elimination diets.
+However, some animals with food adverse reactions may be
+missed when using commercial diets.
+After a diagnosis of food adverse reaction is confirmed, the
+client has two options: 1. To continue a commercial elimination
+diet forever-the more convenient option; 2. A home-cooked
+diet. It should be properly balanced (the help of a veterinary
+nutritionist may be indicated).
+V Identifying of the offending allergen allows a more varied diet
+and is achieved through a sequential rechallenge with proteins
+formerly fed. Beef, lamb, chicken, or cheese and milk products
+are added to the elimination diet one at a time for 2 weeks each
+If a relapse occurs within the first 2 weeks (many patients show
+symptoms within the first 2 days), the protein is discontinued
+until the patient's condition settles.  Ihat particular protein is
+avoided in the future. After Z weeks of a given protein without
+clinical symptoms, a reaction to this protein is ruled out and it
+may be fed in the future. Some dogs will tolerate any home-
+cooked diet, but relapse on commercial diets may be caused by a
+reaction to additives or preservatives.
+Insect Control Trial
+Indication
+An insect control trial may be used in any patient with suspect
+ed insect-bite hypersensitivities. Most animals with insect-bite
+hypersensitivities will be allergic to fleas. Clients generally
+accept these trials more readily when they are labeled “insect
+control trials" because many do not believe fleas cause the prob.
+lem, whereas most will accept ants or mosquitoes as a possible
+cause. Any dog with pruritus, alopecia, and/or a papular or
+crusty rash in the tailbase or inguinal area, and any cat with mil-
+iary dermatitis, noninflammatory alopecia, or eosinophilic granu
+loma complex may benefit from an insect control trial.
+Mosquito bite hypersensitivity in the cat is characterized by
+papules and crusts on the nose, pinnae, and foot pads. A trial
+using insect repellents may be beneficial to these animals.
+48
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Procedure
+V The patient should be treated regularly with an insecticide. In
+a diagnostic trial, I often increase the frequency of administration
+above the manufacturer's recommendations. Fipronil spray, imida-
+cloprid, permethrin, and selamectin spot-ons are administered
+every 2 weeks. Pyrethroid sprays are administered daily depending
+on the product. Nitenpyram tablets are given either daily or every
+other day. Which products to use depends on the individual cir-
+cumstances. More details are provided on page 138.
+V At the start of the trial, treat the animal's environment with
+an insect-development inhibitor such as methoprene, fenoxycarb.
+Or pyriproxifen. More details are provided on page 138.
+V Contact animals (either living in the same household or those
+that visit on a regular basis) must be treated as well, although
+the frequency between adulticide applications may be increased
+to the manufacturers' recommendations.
+V At the start of the trial, I often prescribe 5 to 7 days of pred.
+nisolone at 1 mg/kg bodyweight daily to hasten clinical response.
+is present and insect control may be tapered to the minimum
+required.
+ Remember that the required minimum treatment typically
+varies seasonally, as does the insect load.
+Scabies Treatment Trial
+Indication
+Any pruritic dog or cat could possibly be infested with Sarcoptes
+scabiei or Notoedres cati, respectively, particularly if the pruritus
+was of sudden onset or if pinnae, ventrum, and elbows are pruri-
+tic. With spot-ons used for flea control, I have seen patients with
+pruritus and lesions limited to ventrum and lower legs. Negative
+superficial skin scrapings do not rule out scabies (p. 26) so trial
+treatment is indicated in any patient with suspected scabies irre-
+spective of negative skin scraping results. In as much as
+Cheyletiella spp. and Otodectes cynotis are sensitive to the same
+antiparasitic agents, a scabies treatment trial will be useful for
+these parasites as well.
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+49
+Procedure
+V Several treatments for scabies are available but many of them
+are not labeled for this use.
+√ Topical treatments include ivermectin, lime sulfur dips, ami-
+traz, and other antiparasitic rinses. They are used weekly for 4
+weeks. More details are given on page 133.
+V Systemic therapy may be undertaken with selamectin, iver-
+mectin or milbemycin. Treatment details are outlined on page 133.
+V All animals in contact with the patient need to be treated as well!
+V Initial deterioration during the first days of treatment may
+ 1 1  t n    9o i 1 
+body weight.
+V Remission should be achieved within 4 weeks although some
+patients may need extended treatment for up to 8 weeks.
+50
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+2
+Section
+The Approach
+to common
+Dermatologic
+Presentations
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+51
+In this section, I offer an approach to various common presenta
+tions in veterinary dermatology. I begin each topic in this sec-
+tion with general comments followed by tables containing the
+most common differential diagnoses, their clinical features, diag?
+nostic procedures of choice, treatment, and prognosis. I have
+attempted to list diseases in order of prevalence. Diseases
+marked with an (*) and a colored screen are potentially difficult
+to diagnose or their management often requires considerable
+experience to achieve the best possible outcome. You may con-
+if you do not feel comfortable diagnosing or treating this disease.
+This is not a textbook of veterinary dermatology so these tables
+do not contain all possible details but rather a concise overview
+concentrating on the most important features. Similarly, the
+flow charts at the end of each topic are concise and simplified to
+maximize the benefit for the busy small animal practitioner.
+They will be useful in most instances, but remember that some of
+your clients may not have read the textbooks. Even though this
+information is aimed at helping you as competent veterinarians
+to reach a diagnosis and formulate a treatment plan, your critical
+acumen, examination, and communication skills remain the
+most crucial instruments for success in your daily practice.
+52
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+The Pruritic Dog
+Key Questions
+vant for a pruritic patient.
+Differential Diagnoses
+If lesions are present, see page 58, The Dog with Papules,
+Pustules and Crusts. If no lesions are present, differential diag-
+noses are listed in Table 2-1.
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+53
+continued, sometimes
+if offending
+Good for well-being
+ment; guarded out-
+continued manage-
+(are)
+PROGNOSIS
+look for cure
+Excellent
+Excellent,
+cure
+6
+s amitraz, lime sulfur, iver-
+lucocorticoids
+Antiparasitic agents such
+mectin, or milbemycin
+Allergen-specific
+P.
+antihistamines
+TREATMENT
+Diagnosis based on history,
+skin test
+Superficial skin scrapings
+s
+offendi ng allergens and
+ DIAGNOSTIC TEsTS 
+low formulation of
+(17 d) 40
+immunotherapy
+ Elimination diet
+Table
+26),
+COMMONLYAFFECTEDSITES
+Face, feet, axillae, ears,
+Face, feet, axillae, ears,
+infection with Malassezia
+ic, commonly a reaction
+endocrine
+against a protein, rarely
+causedby
+ pollens, house dust
+1 additive, clinically
+10
+DISEASE
+allergi
+problems)
+atopy)
+6
+54
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Golden Retriever with
+Pododermatitis in a
+female Akita with
+Figure 2-3
+Figure 2-4
+scabies.
+atopy.
+6
+alopecia in a 5-year-old
+with atopic dermatitis.
+Facial erythema and
+,female toy
+Perianal alopecia,
+Figure 2-1
+Figure 2-2
+Z-year-old,
+Poodle.
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+55
+Figure 2-5
+Ventral erythema, alopecia, and papules
+in the dog seen in Figure 2-4.
+Figure 2-6
+Hyperpigmentation and alopecia in a
+ 2-year-old, spayed German Shepherd
+with Malassezia canis. (Courtesy of Dr.
+Thiery Olivry.)
+Figure 2-7
+Malassezia-related dermatitis in a 9-year-
+old, male British Bulldog (Courtesy of
+Dr. Michael Shipstone.)
+Figure 2-8
+Pedal salivary staining in an 8-year-old,
+spayed Schnauzer with food-adverse
+reaction. (Courtesy of Dr. Peter Ihrke.)
+56
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Figure 2-9
+The Nonlesional Pruritic Dog
+Cytology
+(p.21)
+Scabies, Atopy, Adverse food reaction
+Malassezia dermatitis
+Scabies treatment trial (p. 49)
+Antifungal therapy
+Elimination diet (p. 46)
+No response
+Good response
+Atopy
+Food rechallenge
+Relapse
+No relapse
+Adversefoodreaction
+Scabies, Atopy out of season
+Monitoring
+Sequential rechallenge
+Relapse
+Remission
+for >12 months
+Avoidance
+Skin test
+Scabies
+Atopy
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+57
+The Dog with Papules,
+Pustules, and Crusts
+Key Questions
+ What is the breed of this patient? (p. 2)
+/ How old was this patient when clinical signs were first
+recognized? (p. 3)
+/ How long has the disease been present and how did it
+progress?(p. 3)
+/ On which part of the body did the problem start? (p. 4)
+V Is the animal itchy? (p. 5)
+/ Is the disease seasonal? (p. 6)
+V Are there other clinical signs, such as sneezing, coughing,
+or diarrhea? (p. 7)
+/ What do you feed the animal? Was a special diet used in
+the past? (p. 7)
+V Are there any other animals in the household? (p. 8)
+V Does anybody in the household have skin disease?
+(p.8)
+/ Was the disease treated before? If so, which drugs were used
+and how successful was treatment? (p. 8)
+/ What is used for flea control currently? (p. 9)
+/ When was the last medication given? (p. 9)
+Differential Diagnoses
+Papules may develop into pustules and crusts, and any dog with an
+acute papular rash may eventually show pustules or crusts. Some dis
+eases are characterized by papules that do not typically develop fur-
+ther into pustules (such as flea-bite hypersensitivity); other diseases
+typically show crusting as their predominant symptom (such as zinc-
+ential diagnoses for dogs with papules, pustules, and crusts. Lesions
+may be follicular or nonfollicular (Figure 2-10). Follicular papules
+ and pustules indicate a pathologic process concentrating on the hair
+follicle, most commonly bacterial folliculitis, demodicosis, or dermato-
+58
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+phytosis. Nonfollicular lesions may indicate pathologic processes
+concentrating on the epidermis, dermis, or dermo-epidermal junction,
+such as superficial spreading pyoderma, flea-bite, contact hypersensi-
+tivity, or immune-mediated skin diseases. Be aware that some nonfol.
+licular processes may occasionally involve hair follicles as well.
+Nonfollicularpapule and pustule
+Follicular papule and pustule
+Figure2-10
+59
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+depending on climate
+and owner commit-
+Good, if underlying
+if this is not
+Fair to excellent
+PROGNOSIS
+Recommended Diagnostic Tests,
+ment
+likely, i
+Fair
+5
+Antibacterial treatment
+ neglect or antimi-
+ds
+ Flea control (p. 136),
+treatment
+TREATMENT
+二
+fes
+ delayed hypersen-
+I hypersensitivity,
+biopsy
+ DIAGNOSTIC TesTS 
+8
+vide negative results 
+2-2
+serum tests, p. 42.)
+Table 
+with
+01
+Dest,
+COMMONLY AFFECTED SITES
+Erythema, scaling, seborrhea,
+2-17)
+alopecia, papules, pustules,
+erythe-
+Dorsal lumbosacral area,.
+ either focal or
+s and crusts
+ involved
+form:
+Focal
+face
+Differential Diagnoses.
+1 the
+eneralized
+are
+-14)
+uO
+crusts,
+and
+2-12)
+2-138
+2
+and
+ma,
+Bacterial infection (typi-
+Demodicosis (probably a
+canine
+ada pue sn
+leads to a further parasite-
+induced immunosuppres-
+. Adult-onset demodi
+to anunderly.
+reaction in sensitized
+cally by Staphylococcus
+古
+commensal mite
+chemotherapy.)
+ing disease)
+DISEASE
+secondary 1
+(saop
+skin,
+sion.
+8
+60
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Excellent with identi-
+cation on the tail base of
+medical management
+Alopecia and lichenifi-
+of allergen, fair with
+hypersensitivity.
+Excellent
+Figure 2-12
+Guarded
+Good
+Antiparasitic agents (p. 133)
+griseofulvin or ketoconazole
+Avoidance, whole-body suits,
+contamination of environ-
+water injection, glucocorti-
+decrease
+shampoos may (
+Py, radiation.
+Sarcoptes treatment
+Superficial skin scrapings
+Asdeg ( 1z d) a80
+(6b d) re!.n
+(92.)
+(86 d)
+Alopecia, lichenifica-
+tion, focal ulceration,
+ailbase in an 11-year-
+Retriever mixed breed
+and crusting of the
+with flea-bite hyper-
+Figure 2-11
+sensitivity.
+Pinnae, elbows, ventrum,
+interdigital sk in, ventral
+and hocks
+reaction to environmental
+Scabies (a highly conta-
+Dermatophytosis (der.
+matophytes are trans-
+Contact hypersensitivity
+hypersensitivity
+Mast cell tumor*
+(delayed h
+61
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Labrador Retriever with
+Rottweiler withgeneral-
+Severe pododermatitis
+Crusted papules in a
+bacterial pyoderma.
+ized demodicosis.
+Figure 2-14
+Figure 2-16
+generalized demodicosis.
+Papules, plaques, and
+epidermal collarettes
+crusts in a 4-year-old
+Border Collie with
+Figure 2-13
+Figure 2-15
+pyoderma.
+62
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+sharp demarcation between
+mentagrophytes. Note the 
+affected and nonaffected
+skin frequently seen with
+Severe crusting on the
+caused by Trichophyton
+Trichophyton infections.
+Mast-cell tumor in a
+Labrador Retriever.
+Figure 2-18
+Figure 2-20
+in a 4-year-old, spayed
+Veimaraner. (Courtesy
+Dr. Sonya Bettenay.)
+resulting from contact
+Abdominal papules
+Papules and plaques
+Figure 2-17
+Figure 2-19
+demodicosis.
+古
+4
+63
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Footpad hyperkeratosis
+in a 13-year-old, spayed
+depending on climate
+ikely,
+Good, if underlying
+Fair to excellent.
+.Relapse 1
+PROGNOSIS
+Figure 2-22
+ment
+aceus.
+Fair
+neglect or antimicrobial
+treatment only, p. 131).
+antipruritic therapy
+ TREATMENT
+(p.123)
+(only diagnostic in presence
+ delayed hypersen-
+testing
+ DIAGNOSTIC TEsTS 
+8
+vide negative results 
+serum orskin
+serum tests (p. 123)
+2-3
+Table 
+old, castrated Labrador
+with severe pemphigus
+crusting in a 6-year-
+COMMONLY AFFECTED SITES
+Figure 2-21
+ domedial thighs, inguinal area,
+Dorsal lumbosacral area, cau-
+Erythema, scaling, seborrhea,
+foliaceus.
+and crusts,either focal or
+Figures
+erythe-
+2-15)
+Localized form: Focal e
+commonly on the face (
+and
+3
+bite cause an allergic reac
+Flea-bite hypersensitivity
+tion in sensitized dogs)
+-aapun ue ci Aiepuonas
+Demodex canis, a normal
+mal proliferation of
+ing disease)
+DISEASE
+64
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Fair with appropriate
+cure (except drug-trig-
+Foot-pad hyperkeratosis
+and crusting in a 9-year-
+ic epidermal necrosis
+gered pemphigus)
+Michael Shipstone).
+(Courtesy of Dr.
+Figure 2-24
+ment for secondary infection
+Generalized form: Amitraz,
+ivermectin, milbemycin
+Immunosuppression
+(p. 118)
+( ))
+alopecia, and crusting
+Periocular erythema,
+a 4-year-old, female
+2-year-old, castrated
+Large pustules in a
+Chow Chow with
+pemphigus foliaceus
+(Courtesy of Dr.
+Figure 2-23
+Figure 2-25
+(Figures 2-15,2-16, and 2-17)
+ Planum nasale, periocular
+Bettenay).
+plaques, pustules and crusts
+areas, or paws are involved
+6
+claw folds, :
+leads to a further parasite.
+sion. Adult-onset demodi-
+intraepidermal pustule for-
+ snayduad oi anp uoieu
+antibodies against antigens
+plasia, steroids, or other
+(immune-mediated skin
+in the intercellular con-
+Pemphigus foliaceus*
+nections. May be idio-
+pathic drug-induced or
+chemotherapy.)
+paraneoplastic)
+65
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Fair with appropriate
+and owner commit-
+treatment, poor for
+Fair to excellent
+gered pemphigus)
+PROGNOSIS
+Excellent
+ment
+Fair
+Localized form: 95% resolve
+ secondary infection
+spontaneously, thus benign
+Generalized form: Amitraz,
+Flea control (p. 136),
+therapy (p. 123)
+TREATMENT
+Insect control trial (p. 48),
+biopsy
+古
+Superficial skin scrapings
+DIAGNOSTIC TESTS
+-4
+2
+Table 
+(92)
+d) [
+WW
+COMMONLY AFFECTED SITES
+Dorsal lumbosacral area, cau-
+area, ventrum, periumbilical
+  e a
+Localized form: Focal erythe-
+elbows, ventrum,
+ites). Generalized form:
+Differential Diagnoses, 
+igures
+7.2
+nodi
+Scabies (a highly conta-
+(antigens in flea saliva
+sion. Adult-onset demg
+induced
+disease characterized 
+mal proliferation 
+or paraneoplastic)
+chemotherapy.)
+DISEASE
+leads to
+8
+66
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Good to guarded for
+well-being, poor for
+ after l year of age.
+Good
+Varies
+Poor
+cure.
+ment, high-quality protein,
+iu/day),
+environ-
+mg/kg
+Antiseborrheic shampoos
+mg/kg q
+Antimicrobial treatment,
+intravenous amino acids
+shampoos may decrease
+increase zinc absorption
+8
+: flares
+1008-002)
+contamination 
+E
+Vitamin
+ment.
+-m 
+Biopsy (p. 38)
+(8e d) Asdeg
+Biopsy (p. 38)
+Muzzle, mucocutaneous junc.
+pads,
+iocular, perioral, pinnae,
+Otitis externa, digital hyper-
+I crusting in face (paricu-
+keratosis, dry flaky skin, or
+hema, scaling alopecia,
+-op
+ventral neck, and ventral
+severe cases, megasophagus
+2-26)
+paws
+igure 2-24)
+abdomen
+sale,
+ dermatitis
+ especially in
+seba-
+-Oscine)
+(pathogenesis unclear)
+decreased
+Collies
+Metabolic epidermal
+trans-
+8
+keratinization
+ autosomal rece
+renewal
+tion, endocrine disease,
+(i 
+due
+Idiopathic seborrhea*
+ of epidermis,
+matophytes are 
+lar infundibulum.
+Dermatomyositis
+arctic breeds)
+cell
+time and thus
+zinc,
+(primary
+eration
+puppies)
+6
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+67
+Figure2-26
+Crusted papules and plaques caused by
+idiopathic seborrhea in an 8-year-old,
+male castrated Cocker Spaniel.
+Figure 2-27
+The Dog with Papules, Pustules, or Crusts
+Cytology (p.21)
+Skin Scrapings (p.26)
+Cytology
+Cytology 
+Cytology/
+Skin scrapings 
+Skin scrapings 
+Skin scrapings 
+Wood's lamp (p.30)
+Pyoderma
+Demodicosis or scabies with
+Fungal culture (p.32)
+or without secondary infection
+Antibiotics
+(p.119)
+Dermatophytosis
+Insufficient
+Lessions resolve,
+Remission
+Antifungal
+response
+itch persists
+therapy(p.130)
+Searchforunderlying
+causes (allergies,
+endocrine diseases)
+See approach to nonlesional,
+pruritic dog (p.57)
+Depending on clinical signs
+Insect bite
+Scabies trial
+trial (p.48)
+(p.49)
+Remission
+No response
+No response
+Remission
+Insect bite hypersensitivity
+Scabies
+Biopsy
+(p.38)
+68
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+The Dog with Alopecia
+Many diseases are associated with alopecia in conjunction with
+pruritus and other lesions. Here we discuss dogs with clinically
+noninflammatory alopecias.
+Key Questions
+V What breed is the patient? (p. 2)
+V How old was this patient when clinical signs were first recognized?
+(p.3)
+V How long has the disease been present and how did it progress?
+(p.3)
+V On which part of the body did the problem start? (p. 4)
+V Is the animal itchy? (p. 5)
+√ Is the disease seasonal? (p. 6)
+V Are there other animals in the household? (p. 5)
+V Does anybody in the household have skin disease? (p. 8)
+V Was the disease treated before? If so, which drugs were used and
+how successful was treatment? (p. 8).
+If the alopecic dog is pruritic but lacks other lesions, the approach is
+different from that used in a bald dog without pruritus. Many alope-
+cias are characterized by dry skin and mild scaling, which may or may
+not be pruritic. The use of moisturizers will help the dryness and may
+address concurrent pruritus. If pruritus persists, then the approach is
+the same as for the dog with pruritus without lesions (p. 54).
+Differential diagnoses for noninflammatory and nonpruritic alopecias
+are outlined later in this section.
+69
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Approximately 60%
+tumors were reported
+nou yonoue po
+complete and con-
+others only days.
+stant remission
+despite adequate
+supplementation
+PROGNOSIS
+with
+erative
+mas.
+8
+latrogenic form: Cautiously
+dependent hyperadrenocor.
+ adrenocortical neoplasia
+lucocorticoid administra-
+removal of affected gland
+keto-
+conazole for pituitary-
+ Serum biochemistry (Serum
+eosinopenia), urinalysis
+ adrenal glands), low dose
+thyroid
+, ala-
+neutrophilia, lymphopenia,
+[adrenal
+equilib.
+DIAGNOSTIC TESTS
+V
+Affected
+lation test
+lesterol
+pue
+chole
+tests
+tal
+test)
+der infections, exercise intol.
+atro-
+alcinosis cutis
+rowth, coat color change,
+orrhea, neuromuscular symp-
+recurrent
+,hypotri-
+muscle
+areas, flanks, trunk, face),
+itary macroadenoma)
+Differential Diagnoses, 
+toms, infertility
+[presumably autoimmune]
+Hyperadrenocorticism*
+noma or macroadenoma
+tion of glucocorticoids
+pituitary-dependent
+or idiopathic thyroid
+necrosis which may b
+plasms in 15%)
+DISEASE
+thyroiditis)
+due 
+的
+70
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+treatment usually only
+general
+ir for
+with treatment
+hair regrowth
+for
+remission
+poog
+moistur-
+acid
+5
+  m
+cated males, estrogen in
+ Retinoids, melatonin 
+Melatonin (p. 144)
+essential
+supplementation (p.
+ Retinoids, e
+(p. 144)
+corticism,
+ed
+6
+Aeds
+口
+口
+tion with ruling out other
+S1
+skin
+biopsy
+古
+38), lack 
+equivocal cases.
+Biopsy (p. 38)
+2
+ichogram
+Cytology
+38).
+changes.
+P
+vith initially
+ postauric-
+trunk
+scali-
+thighs, 1
+and
+6
+ often with :
+necl
+blue
+and
+lopecia of pinnae,
+ventral
+ dilute
+iguresZ-33
+2-31)
+areas,
+lopecia of 
+(often the :
+ 
+and
+changes, 
+igure
+资
+neck
+8
+Color dilution alopecia
+hair
+01
+the hair shaft and bulb)
+sive dermatosis, estrogen-
+color with pigmentary
+mone imbalance, testos-
+ these syndromes that
+dtogether
+tration-responsive der.
+Follicular dysplasia
+(unknown etiology)
+Pattern baldness
+terone-responsive 
+follicular
+related
+Cyelic
+sure)
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+71
+Excellent if causative
+metastases, guarded
+with metastases or
+aplastic anemia
+PROGNOSIS
+Excellent
+Excellent
+ Addressing the underlying
+ Not needed, if stress was a
+Ovariohysterectomy
+one-time event
+TREATMENT
+Castration
+cause
+History, trichogram (p. 36)
+(9e d) ueauu Aieis!H
+ultrasonography,
+DIAGNOSTIC TESTS
+↑, skin
+testes
+6
+COMMONLY AFFECTED SITES
+Bilaterally symmetric alope-
+1 as col
+genital area, gynecomas-
+estrogen-induced bone mar-
+ilaterally symmetric alope-
+ Focal to generalized alopecia
+prostatomegaly, prostatitis,
+ Alopecia of sudden onset
+ of wear areas such
+row suppression
+of sudden onset
+ abnormalities
+cia
+and
+ear
+6
+ 2-5continued
+Anagen defluxion (severe
+(severe stress [e.g, shock,
+rowth and switching to
+ diseases or anti.
+ many follicles, which
+(most common in cryp-
+hair breaks off suddenly)
+tional ovarian tumors)
+itotic drugs interfere
+fever, surgery] causes
+levels of estrogen)
+Telogen efluvium
+Hyperestrogenism
+DISEASE
+Table
+58
+72
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Alopecia due to follicular
+(Courtesy of Dr. Peter
+Figure 2-29
+Figure 2-31
+ Excellent
+Retriever
+Ihrke.)
+in 6-24months
+ment, history, and presence
+Diagnosis based on signal.
+of noninflammatory alope-
+cia in clipped areas only.
+Papules and crusts in an
+Alopecia and hyperpig.
+8-year-old, male cas-
+calcinosis cutis due to
+pituitary-dependent
+with cyclic follicular
+Figure 2-28
+Figure 2-30
+Clipped areas
+breeds fail to regrow hair
+in clipped areas; cause is
+ Post-clipping Alopecia
+(arctic or plushcoated
+unknown)
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+73
+responsive demmatosis in
+Growth hormone-
+Figure 2-33
+Keeshond.
+Color dilution alopecia
+Courtesy of Dr. Thierry
+Castration-responsive
+Courtesy of Dr. Sonya
+old male Keeshond.
+Figure 2-32
+Figure 2-34
+Bettenay.)
+74
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+ Evidence of systemic signs
+Urine and blood tests
+Dermatophytosis
+as indicated
+Inconclusive
+ Everything
+ is possible
+result
+Fungal culture
+(p.32)
+color dilution alopecia
+Fdlicular dysplasia,
+Figure 2-35
+Biopsy
+(8E:d)
+History
+(p.2)
+No evidence of hypothyroidism
+Hormonal disease,
+telogen effluvium 
+(9E'd)
+Talrgere enis s
+Anagen defluxion
+Skin scraping
+(p.26)
+ Demodicosis
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+75
+The Dog with Nodules
+Key Questions
+V How old was this patient when clinical signs were first recognized?
+(p.3）
+V How long has the disease been present and how did it progress?
+(p.3)
+V Are there any other animals in the household? (p. 8)
+V Does anybody in the household have skin disease? (p. 8)
+V Was the disease treated before? If so, which drugs were used and
+how successful was treatment? (p. 8)
+Differential Diagnoses
+The differential diagnoses are predicted primarily based on two sep-
+arate features: (1) Is there only one lesion (which increases the like-
+lyhood of neoplasia or a kerion) or are there multiple lesions (which
+may be due to sterile inflammatory diseases, more aggressive neo-
+plastic disease or severe infection); and (2) Are draining tracts
+absent or present (increasing the likelihood of foreign bodies, severe
+bacterial or fungal infection, or sterile inflammatory disease)?
+and clinical examination are followed by microscopical evalua-
+tion of impression smears (if draining tracts are present) and
+aspirates in any dog with nodules (p. 21). In some patients,
+cytology will reveal an infectious organism or classic neoplastic
+cells and thus a diagnosis. In most patients, cytologic examina-
+tion will further narrow the list of differential diagnoses, but a
+biopsy (p. 38) will be necessary to reach a diagnosis. With nodu
+lar lesions, complete excision of one or more nodules should be
+performed. If draining tracts are present and/or cytology indi-
+cates possible infection, a culture may be useful as well. Deep
+tissue should be submitted rather than a culture swab (p. 28).
+76
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Fair with appropriate
+ Poor to excellent
+ depending on the
+individual tumor
+ Fair to guarded
+PROGNOSIS
+management
+management
+Good
+Surgical drainage, antibac-
+Ars iop uisixa ieaing
+systemic glucocorticoids for
+ 1o/pue uoisioxa jesja1ng
+lesions; vitamin E or
+antimicrobial therapy
+systemic disease
+TREATMENT
+(p. 131).
+(P.
+Cytology (p. Z1), biopsy.
+DIAGNOSTIC TESTS
+Table 2-6.
+(12 d) A0
+Biopsy (p. 38)
+COMMONLYAFFECTEDSITES
+lethargy, Pyrex-
+Nonhealing ulcerated nodules
+Varies with individual neo.
+ Firm, painless, nonpruritic
+dermal papules, plaques and
+ lesions with concur.
+ of head,
+commonly around neck,
+ lesion over chest,
+shoulders and tailbase
+with draining tracts.
+ Diagnoses,
+nodules typically 
+2-38)
+and 2-37)
+Solitary
+neck
+Differential
+(unknown pathogenesis)
+-oed umouyun Asou)
+ lupus erythematosus)
+pathogenic organisms, e.g..
+smegmatis
+atic implantation into sub-
+(caused by bite wounds
+(ubiquitous, facultatively
+cause lesions after traum-
+Sterile granulomatous
+Mycobacteria fortuitum,
+or foreign bodies)
+cutaneous tissue)
+chelomei, M.
+Abscesses
+Neoplasia*
+DISEASE
+M.
+8
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+77
+Fair with complete
+PROGNOSIS
+Good
+Fair
+Fair
+Complete surgical excision,
+Antimycotic and concur-
+rent antibacterial therapy
+combination with keto.
+conazole or itraconazole
+TREATMENT
+(p. 131)
+ DIAGNOSTIC TESTS 
+serologic testing
+COMMONLY AFFECTED SITES
+Upper respiratory, cutaneous,
+signs. Papules, nodules, ulcers
+draining tracts (Figure 2-40)
+Multiple nodules or ulcerated
+Firm nodules with draining
+plaques on the head, pinnae,
+and trunk.
+affected.
+Table 2-6 continued
+matophytes
+Bacterial pseudomycetoma
+rounded by pyogranuloma-
+and secondary bacterial
+Cry ptococcus neoformans)
+phyte Sporothrix schenkit
+(nonbranching bacteria,
+canine sporotrichosis is
+with ubiquitous, sapro-
+(caused by ubiquitous
+that infects wounds)
+tous inflammation)
+causedbyder
+during trauma,
+DISEASE
+infection)
+78
+Copyright @ 20o0 Teton NewMedia 
+888-770-3165www.veterinarywire.com
+depending on surgical
+ poor for vision, if
+Guarded to poor, if
+central nervous sys.
+Guarded (reported
+bone involvement)
+ Fair to guarded
+excision.
+Guarded
+Guarded
+Guarded
+and
+y antimycotic thera-
+fol-
+131) based on in
+antibacterial therapy
+Antimycotic therapy
+therapy (p. 118)
+(p. 118)
+(p. 131)
+ 21), biopsy
+biopsy
+21),
+Cytology (p.
+shnen suuep yim sampon
+head, mouth, and limbs that
+discharge thick pus with soft,
+ neous abscesses with draining
+and scar tissue. Grains vary
+subcutaneous
+loss, coughing, dyspnea, ocu-
+ nodules, abscesses,
+infected bones. Concurrent
+anorexia, weight loss, cough
+ Papules, nodules, subcuta-
+nodules on ex tremities.
+ and draining tracts over
+yellow sulfur granules
+icts on face and feet.
+granules.
+disease
+Papules, I
+yellow
+through wound contami-
+Actinobacillus ligneriesii is
+traumatically implanted,
+(rare infection with dimor-
+(traumatic implantation
+ punom yono.q) sisouooz
+(wound contamination
+ or wound contamin-
+ation with filamentous,
+(amoq pue aliaes jeno
+fungus
+(ubiqui tous soil sapro-
+fungi with pigmented
+(rare infection by the
+dermatitides) Possible
+Actinobacillosis*
+often through bite
+fungus Blastomyces
+contamination)
+(spunom
+nation)
+hyphae)
+古
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+79
+ Fair to good for dogs
+ Guarded to poor
+PROGNOSIS
+ ated disease
+Guarded
+Poor
+ Combination antimicrobial
+based on in vitro suscepti-
+Wide surgical excision
+Antimycotic agents
+health concerns
+(p. 131)
+Cytology (p. Z1), biopsy
+ DIAGNOSTIC TESTS
+ fungal culture
+38
+32)
+COMMONLY AFFECTED SITES
+fever, coughing, dyspnea, gas.
+ trointestinal and ocular disease
+Ulcerated nodules of the face
+on head, neck, and limbs that 
+Papules, nodules, ulcers, and
+ tracts, on the limbs and feet
+oncurrent
+anorexia, weight loss and
+ Ulcerated nodules and
+ with unpleasant smell
+draining tracts.
+ draining tracts
+Table 2-6 continued
+fungi by exposure of dam-
+aged skin to infected stag-
+respiratory and digestive
+with dimorphic, sapro.
+seminated infections)
+animals caused by
+sis, bovis and rarely
+Histoplasmosis*
+Tuberculosis*
+Pythiosis*
+nant water)
+DISEASE
+lesions)
+80
+Copyright @ 20o0 Teton NewMedia 
+888-770-3165www.veterinarywire.com
+Sebaceouscysts inacas-
+Sterile panniculitis with
+ulcers and nodules in a
+English Springer Spaniel
+ 9-year-old castrated
+Figure 2-37
+Figure 2-39
+granulomatous disease.
+Maltese with sterile
+Histiocytoma in a
+Jack Russell mixed
+Figure 2-36
+Figure 2-38
+breed.
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+81
+Figure 2-40
+Dermatophyte kerion.
+(Courtesy of Dr. Sonya Bettenay.)
+Figure 2-41
+The Dog with Nodules
+Cytology
+(p. 21)
+No microorganisms,
+Diagnostic result
+Neutrophils and cocci,
+otherwise inconclusive
+otherwwise inconclusive
+Biopsy (p. 38), culture (p. 32)
+Antibacterial treatment
+(p.118)
+No resolution
+Resolution
+Bacterial infection
+Biopsy (p. 38), culture (p. 32)
+(48 hours post antibacterial
+treatment)
+82
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+The Dog with
+Nasal Dermatitis
+Key Questions
+V How old was this patient when clinical signs were first recognized?
+(p.3)
+V How long has the disease been present and how did it progress?
+(p.3)
+V Is the disease seasonal? (p. 6)
+V Are there any other animals in the household? (p. 8)
+V Does anybody in the household have skin disease? (p. 8)
+√ Was the disease treated before? If so, which drugs were used and
+how successful was treatment? (p. 8)
+V When was the last medication given? (p. 9)
+Differential Diagnoses
+Differential diagnoses are listed in Table 2-7. If lesions are present on
+the haired dorsal muzzle and the planum nasale, it is important to
+find out whether the first changes occurred on the planum nasale
+(possibly just as depigmentation) or in the haired skin. First changes
+in the haired skin indicate follicular diseases such as bacterial folli-
+culitis, demodicosis, and dermatophytosis are more likely. If the
+planum nasale is affected first, immune-mediated skin diseases such as
+discoid lupus erythematosus or pemphigus foliaceus are higher on the
+list of possible conditions to be ruled out. If initial in-house tests such
+as skin scrapings (p. 26) and cytology (p. 21) are negative or nondiag.
+nostic, biopsy (p. 38) is the next step.
+Copyright2000TetonNewMedia888-770-3165www.veterinarywire.com
+83
+Good, if underlying.
+if this is not possible
+PROGNOSIS
+Fair
+Fair
+ resolve
+immuno-
+spontaneously, thus benign
+Generalized form: Amitraz,
+neglect or antimicrobial
+118).
+1 %6  p
+treatment only (P. 
+namide (p.
+(p. 141)
+tion (p.
+Iddns
+28),
+Deep skin scrapings (p. 
+ DIAGNOSTIC TESTS
+ Commonly Affected
+Biopsy (p. 38)
+Biopsy (p. 38)
+46)
+lanum nasale, periocular area,
+(Figures
+swith atopy (Figure 2-44)
+ muzzle, pin-
+erythema,
+, most com-
+Depigmentation of planum
+les and crusts where large
+areas, more than 5 areas, 0
+Figures
+(in cats)
+Focal
+Differential Diagnoses,.
+alopecia and scaling, 
+AFFECTED SITES
+involved
+Localizedf
+alopecia,
+刊
+Bacterial infection (typi-
+Demodicosis (probably a
+defect that permits abnor-
+of canine
+Discoid lupus erythem.
+intermedinus and typically
+normal
+inducedimmunosuppres
+cally by Staphylococcus
+Pemphigus foliaceus
+Demodexcanis,
+ing disease)
+DISEASE
+7
+8
+84
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Good
+Fair
+Fair
+e yns s aa
+contamination of environ-
+Antimycotic therapy with
+Antimycotic therapy with
+shampoos may decrease
+combination with keto.
+ 32), serologic testing
+ fungal culture
+spayed Australian Shepherd
+and ulcers in a 3-year-old
+38),
+mixed breed with discoid
+lupus erythematosus.
+Multiple nodules or ulcerated
+signs, Papules, nodules, ulcers
+Figure 2-42
+plaques on the head, pinnae,
+Upper respiratory, cutaneous,
+Face, pinnae, paws
+(Figure 2-18)
+and trunk.
+affected.
+Dermatophytosis (der-
+canine sporotrichosis is
+caused by ubiquitous
+fungus Cryptococcus neo-
+feline sporotrichosis
+im munocompromized
+although
+Zoonosis,
+(sunu.of
+85
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Bull Terrier. Note that
+nasal pyoderma in a
+Dr. Sonya Bettenay.)
+Bacterial facial and
+Figure 2-44
+Antifungal treatment
+Fungal culture ±
+(p.130)
+Cytology (p. 21), skin scrapings (p. 26), fungal culture (p. 32)
+Antiparasitic treatment
+Skin scraping
+The Dog with Nasal Dermatitis
+(p.133)
+Figure 2-45
+Pemphigus foliaceus
+with depigmentation,
+erosions, and crusting
+Golden Retriever.
+(8e d) Asdo!g
+Figure 2-43
+Antimicrobial treatment
+ Bacterial infection
+Cytology ±
+(p.118)
+86
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+The Cat with
+Miliary Dermatitis
+Key Questions
+V How old was this patient when clinical signs were first recognized?
+(p. 3)
+V How long has the disease been present and how did it progress?
+(p.3)
+V On which part of the body did the problem start? (p. 4)
+V Is the disease seasonal? (p. 6)
+V Are there other clinical signs such as sneezing, coughing, or
+diarrhea?(p. 7)
+V What do you feed the animal? Was a special diet used in the past?
+(p. 7)
+V Are there any other animals in the household? (p. 8)
+√ Does anybody in the household have skin disease? (p. 8)
+V Was the disease treated before? If so, which drugs were used and
+how successful was treatment? (p. 8)
+VWhat is used for flea control now? (p. 9)
+/ When was the last medication given? (p. 9)
+Differential Diagnoses
+Classic lesions of miliary dermatitis are focal or generalized small
+papules and crusts (Figures 2-46 and 2-47). Miliary dermatitis is
+not a diagnosis but rather a descriptive term for a feline cutaneous
+reaction pattern with many possible causes. Most cats suffer from
+an underlying flea-bite hypersensitivity. The differential diagnoses
+for feline miliary dermatitis are listed in Table 2-8.
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+87
+offending
+ and avoided.
+ment; guarded for cure
+the patient with con-
+Good for well-being
+uapl rou si aseasi
+patientwith
+guarded for cure
+[are)
+Good, but relapse
+fied and treated
+PROGNOSIS
+计
+Recommended Diagnostic Tests,
+Excellent,
+Hentified
+continued
+Good f
+the
+ued
+古
+136), gluco-
+129), antihista-
+ essential fatty acids
+）), essential fatty acids
+Avoidance, antihistamines
+),glucocorticoids
+),glucocorticoids
+Indoor confinement (at
+dawn), insect repellents
+least during dusk and
+Antibacterial agents
+ 
+TREATMENT
+corticoids (p.
+mines (p.
+129).
+129).
+(p.119)
+Flea control trial (p. 48)
+physical examination and
+skin test
+ Elimination diet (p. 46)
+ DIAGNOSTIC TesTs
+o sioopui iee sudeay
+c
+Intradermal s
+2
+Table 
+COMMONLY AFFECTED SITES
+Dorsal lumbosacral area, cau-
+ Head and neck or generalized
+Cranial half of the body or
+Papules and crusts on dorsal
+ of pin-
+ muzzle, lateral aspects 
+generalized disease
+disease.
+Flea-bite hypersensitivity
+(may or may not be aller-
+Mosquito-bite hypersensi-
+ Staphylococci and second
+ pollens,
+Bacterial superficial folli-
+ary to other diseases)
+culitis (caused by
+DISEASE
+spores)
+88
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Guarded for cure in
+catteries and Persian
+Excellent
+Excellent
+Excellent
+Fair
+Fair
+Immunosuppression
+Antifungal agents
+(p. 141)
+(p.130)
+,fungal culture
+Superficial skin scrapings
+and microscopically evalu-
+ating debris covered with
+mineral oil in a Petri dish
+Superficial skin scrapings
+neck, thighs,tail,and tailbase
+Yellowish to brownish crusts
+ for the typi-
+Papular form may occasional.
+Otitis externa, pinnae, face,
+on the dorsum, but occasion-
+ Pinnae,face, neck, general.
+be mistaken for miliary
+sical miliary dermatitis
+claw beds, nipples
+ Focal or generalized
+may be mistaken
+dermatitis
+ized disease.
+mati tis
+tion (may cause more than
+rare to common conta-
+Otodectes cynotis infesta
+gious disease caused by
+ease caused by Notoedres
+ Pemphigus foliaceus*
+just otitis externa)
+Dermatophytosis
+ Mast cell tumor*
+Cheyletiellosis
+Feline scabies
+89
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Crusting on the edges of
+Miliary dermatitis in a
+Dr. Sonya Bettenay.)
+domestic shorthair cat
+the footpads due to
+Figure 2-47
+Figure 2-49
+(DSH).
+Nasal dermatitis in a
+5-year-old castrated
+-Onbsou yim SH
+bite hypersensitivity.
+Erosions and crusted
+papules in a cat with
+miliary dermatitis.
+Figure 2-46
+Figure 2-48
+90
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Figure 2-50
+The Cat with Miliary Dermatitis
+Cytology (p. 21), skin scrapings (p. 26)
+Cytology±
+Scrapings
+Scrapings
+Scrapings
+Scrapings(）
+Ectoparasite infestation with
+or without infection
+ Insect control trial (p. 48) with or without antimicrobial treatment (p. 118)
+厂
+No improvement
+Complete resolution
+Depending on patient, owner and finances
+Insect bite hypersensitivity
+Elimination diet
+Fungal culture
+(p.46)
+(p. 32)
+Response
+No response
+Dermatophytosis
+Rechallenge
+Biopsy
+(p.38)
+Antifungaltherapy
+(p.130)
+Relapse
+No relapse
+Chronic
+Diagnostic
+/
+dermatitis
+Monitoring
+Foodadverse
+reaction
+Relapse
+Skin testing
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+91
+The Cat with
+Noninflammatory
+Alopecia
+Key Questions:
+V How old was this patient when clinical signs were first recognized? (p.3)
+V How long has the disease been present and how did it progress? (p.3)
+V On which part of the body did the problem start? (p. 4)
+V Is the disease seasonal? (p. 6)
+V Are there other clinical signs such as sneezing, coughing or diarrhea?
+(p. 7)
+√ What do you feed the animal? Was a special diet used in the past? (p. 7)
+V Are there any other animals in the household? (p. 8)
+V Does anybody in the household have skin disease? (p. 8)
+V Was the disease treated before? If so, which drugs were used and how
+successful was treatment? (p. 8)
+V What is used for flea control now? (p. 9)
+/ When was the last medication given? (p. 9)
+Differential Diagnoses
+Noninflammatory alopecia is a feline cutaneous reaction pattern that
+may have various causes. Hormonal alopecia is extremely rare in the
+feline and typically affected cats show other severe signs. Psychogenic
+alopecia in the cat is greatly overdiagnosed. The disease usually affects
+pure-bred cats with a nervous disposition. Environmental changes such
+as a new partner, baby, pet, or a move to a new house precede clinical
+signs. Most cats with noninflammatory alopecia are pruritic as a result
+of allergies and may be closet groomers. Many cats previously diagnosed
+with hormonal alopecia and treated successfully with medroxyprogesteron
+acetate or megestrol acetate have responded because the anti-inflam-
+matory action of these medications have controlled their pruritus
+caused by allergies, not because of a correction of their hormonal
+imbalance. The differential diagnoses for feline noninflammatory
+alopecia are listed in Table 2-9.
+92
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Good for well-being of
+offending
+ and avoided.
+ for catteries and
+good other-
+ment; guarded for
+(are)
+ement,if
+cure.
+PROGNOSIS
+.9
+for
+Excellent,
+otein(s)
+Fair with 
+not ident
+Guarded
+crsians,
+cure.
+Poor f
+the 
+wise.
+Fair
+128),
+Antifungal agents (p. 131)
+Environmental changes, glu-
+136),glu-
+:123),
+glucocorticoids (p. 129)
+125
+essential fatty acids (
+( d) gpnos eal 
+Allergen-specific
+antihistamines (p.
+histamines (p.
+(71 d) spie
+olytic drugs.
+Intradermal skin test allows
+formulation of immunother-
+. 36), elimina-
+ Diagnosis based on history,
+physical examination, tri-
+DIAGNOSTIC TESTS
+apy
+COMMONLYAFFECTEDSITES
+Dorsal lumbosacral area, cau
+-uaa apoq ay jo jeu ieuen
+Cranial halfof the body, ven-
+ abdomen, inguinal region.
+Medial forelegs, caudal
+Focal or generalized
+ alized disease
+disease
+Flea-bite hypersensitivity
+house dust mites, or mold
+(may or may not be aller-
+ic, commonly reaction to
+pollens,
+ing caused by psychologi-
+indistin-
+pically
+canis)
+lergens such as 
+tosis
+DISEASE
+caused by
+Atopy*
+spores)
+5
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+93
+ Excellent if causative
+factor is removed
+PROGNOSIS
+ Excellent
+Poor
+ Addressing the underlying
+Not needed, if stress was a
+Metyrapone, o,p'-DDD,
+TREATMENT
+singular event
+cause
+used
+Ultrasonography, ACTH
+stimulation test, low-dose
+History, trichogram (p. 36)
+dexamethasone suppres-
+ DIAGNOSTIC TESTS 
+sion test
+COMMONLY AFFECTED SITES
+Figure 2-51
+Polydipsia, polyuria, weight
+ Focal to generalized alopecia
+loss, anorex ia, polyphagia,
+entire trunk), fragile skin
+ Alopecia of sudden onset
+Table 2-9 continued
+(severe diseases or antimi-
+totic drugs interfere with
+hair growth, resulting in
+which causes hair to break
+shock,fever, surgery caus
+es abrupt cessation of hail
+Hyperadrenocorticism*
+catagen and then telogen
+which are all shed simul
+1 to 3 months
+severe stress, such as
+after the insult)
+off suddenly)
+DISEASE
+6
+Copyright @ 20o0 Teton NewMedia 
+888-770-3165www.veterinarywire.com
+Figure 2-52
+The Cat with Noninflammatory Alopecia
+Trichogram (p.36)
+Broken off
+Fungal
+Tapered
+hair shafts
+spores
+hair shafts
+History
+Fungal
+culture (p.32)
+Telogen
+Biopsy
+Blood
+effluvium
+tests
+Dermatophytosis
+Insect control
+trial (p. 48)
+Remission
+No response
+History
+ Insect bite
+Eliminationdiet(p.46)
+hypersensitivity
+No response
+Remission
+Rechallenge
+Symptomatic
+treatment (p.123)
+No relapse
+Relapse
+Monitoring
+Food adverse
+Relapse lateron
+reaction
+Skin testing
+Psychogenic
+alopecia
+Atopy
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+95
+The Cat with Lesions
+of the Eosinophilic
+Granuloma Complex
+Key Questions
+V How old was this patient when clinical signs were first recognized?
+(p. 3)
+V Is the disease seasonal? (p. 6)
+V Are there other clinical signs such as sneezing, coughing, or diar
+rhea?(p. 7)
+V What do you feed the animal? Was a special diet used in the past?
+(p.7)
+V Was the disease treated before? If so, which drugs were used and
+how successful was treatment? (p. 8)
+VWhat is used for flea control now? (p. 9)
+√ When was the last medication given? (p. 9)
+Differential Diagnoses
+All subsets of the eosinophilic granuloma are mucocutaneous
+reaction patterns in the cat.
+V Indolent (or eosinophilic or rodent) ulcer commonly affects
+the upper lip unilaterally or bilaterally (Figure 2-53), but may
+occur in the oral cavity or elsewhere on the body (Figure 2-54).
+The well-circumscribed ulcers with raised borders are rarely
+painful or pruritic; frequently the owner is more bothered by the
+lesions than the cat. The differential diagnoses of the feline
+eosinophilic ulcer are neoplastic diseases such as squamous cell
+carcinoma and infectious ulcers (eosinophilic ulcers are often
+secondarily infected as well). Diagnosis is confirmed by biopsy
+(p. 38). Prior antimicrobial treatment (p. 118) is recommended
+if cytology (p. 21) is indicative of infection.
+96
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+V Eosinophilic plaques occur typically on the abdomen or medial
+thighs, are well-circumscribed, and severely pruritic (Figure 2-55).
+V Eosinophilic (linear) granulomas are nonpruritic, raised, firm,
+yellowish, and clearly linear plaques and occur most commonly
+on the caudal thighs (Figure 2-56).
+Differential diagnoses of both eosinophilic plaques and granulo.
+mas include neoplasias and bacterial and fungal granulomas
+(Table 2-10). Diagnostic procedures of choice are cytology (p. 21)
+and biopsy (p. 38). After the diagnosis has been confirmed, the
+underlying cause needs to be identified, if possible, and treated.
+Figure 2-53
+Indolent ulcer in a 2-year-old female
+DSH.
+Figure 2-54
+Indolent ulcer of the nipple in a 4-year
+old female DSH.
+Figure 2-55
+Eosinophilic plaques in the inguinal
+area of a DSH. (Courtesy of Dr. Sonya
+Bettenay.)
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+97
+Figure 2-56
+Linear granuloma in a male &-year-old
+DSH.
+Table 2-10
+Underlying Causes and Recommended Diagnostic Tests
+in a Cat with Lesions of the Eosinophilic Granuloma Complex
+DISEASE
+DIAGNOSTIC TESTS
+TREATMENT
+Flea-bite hypersensi tivity
+Flea control trial
+Flea control (p. 136),
+(p. 136)
+glucocorticoids
+(p. 129), antihistamines
+(p. 125), essential fatty
+acids (p. 128)
+Atopy
+Diagnosis based on history,
+Allergen-specific
+(hypersensitivity to aero-
+physical examination and
+immunotherapy (p. 123),
+allergens such as pollens,
+ruling out differential diag-
+antihistamines (p. 125),
+house dust mites, or mold
+moses. Intradermal skin test
+essential fatty acids (p.1 28),
+spores)
+allows formulation of
+glucocorticoids (p.129)
+immunotherapy.
+Food adverse reaction
+Elimination diet
+Avoidance, antihistamines
+(may or may not be aller-
+(p. 46)
+(p. 125), essential fatty
+gic, commonly reaction to
+acids (p. 128),
+a protein, rarely an addi
+glucocorticoids (p.129)
+tive, clinically indistin-
+guishable from atopy)
+Idiopathic eosinophilic
+Ruling out possible hypersen-
+Glucocorticoids (p. 129),
+granuloma (most likely
+sitivities
+antibiotics (p. 119)
+genetic basis)
+98
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Figure 2-57
+The Catwith Lesions of the Eosinophilic
+Granuloma Complex
+Cytology
+(p.21)
+Insect control (p. 48) with or without antimicrobial treatment (p.118)
+Remission
+Noimprovement
+Insect bite
+Elimination diet
+hypersensitivity
+(p. 46)
+No change
+Remission
+Rechallenge
+No relapse
+Relapse
+Skin testing
+Relapse
+Monitoring
+later on
+Adverse food
+reaction
+Atopic
+Idiopathic
+dermatitis
+disease
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+99
+The Cat with Nodules
+Key Questions
+V How old was this patient when clinical signs were first recognized?
+(p. 3)
+Y How long has the disease been present and how did it progress? (p.
+3
+V Are there other clinical signs such as sneezing, coughing, or diar-
+rhea? (p. 7)
+√ Was the disease treated before? If so, which drugs were used and
+how successful was treatment? (p. 8)
+Differential Diagnoses
+The differential diagnoses depend primarily on two features: the
+number of lesions and whether draining tracts are present or not.
+Is there only one lesion? This increases the likelihood of neopla-
+sia or a kerion. Or are there multiple lesions? These may be due
+to sterile inflammatory diseases, more aggressive neoplastic dis-
+ease, or severe infection. The presence of draining tracts
+increases the likelihood of foreign bodies, severe bacterial or fun-
+galinfection,orsterileinflammatorydisease.
+In a cat with nodules, history taking and clinical examination
+are followed by microscopic evaluation of impression smears (if
+draining tracts are present) and aspirates (in any cat with nod-
+ules) (p. 21). In some patients, cytology will reveal an infectious
+organism or classic neoplastic cells and thus a diagnosis. In most
+patients, cytology will aid in further limiting the list of differen-
+tial diagnoses, but a biopsy (p. 38) will be necessary to reach a
+diagnosis. With nodular lesions, a complete excision of one or
+more nodules should be performed. If draining tracts are present
+and/or cytology indicates possible infection, a tissue culture may
+be useful as well (p. 43).
+The differential diagnoses for feline nodules are listed in Table 2-11.
+100
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Poor to excellent depending on the
+Fair with complete excision; guarded,
+ains aededde m e
+individual tumor.
+PROGNOSIS
+Good
+Fair
+antibacterial
+Complete surgical excision, post-
+and/or amphotericin B
+ a Cat with Nodules
+specific therapy
+TREATMENT
+Table 2-11
+draining tracts. Nose, lips, and claw
+Firm nodules with draining fistulae
+Varies with individual neoplastic
+COMMONLY AFFECTED SITES
+monly around neck, shoulders,
+ Nonhealing ulcerated nodules
+in
+beds maybe affected.
+and tailbase
+(Figure Z-61)
+diseases
+L
+infection* (ubiquitous, faculta-
+ snosueinqns cun uoeueidi
+such as Mycobacteria fortuitum,
+trauma form grains of compact
+(nonbranching bacteria such
+granulomatous inflammation;
+cause lesions after traumatic
+Bacterial pseudomycetoma
+colonies surrounded by pyo-
+(uncommon infection of
+coagulase-positive
+Neoplasia*
+eign bodies)
+rare disease)
+DISEASE
+Abscesses
+(anss
+Copyright @ 20o0 Teton NewMedia 
+888-770-3165 www.veterinarywire.com
+101
+ns uo supuadap papien oi lie
+Guarded to grave
+PROGNOSIS
+ cal excision.
+Guarded
+Guarded
+Fair
+Aq pamonoy uosioxa jesisins api
+Antimycotic therapy with azoles,
+therapy based on in vitro suscepti.
+anti mycotic therapy (p. 1
+amphotericin B (p. 131)
+TREATMENT
+(p. 118, 121)
+testing.
+102
+ Single or multiple, nonpainful and
+Papules, nodules, ulcers, and drain.
+ pue sien suuep ym sanpen
+COMMONLY AFFECTED SITES
+Grains vary in size,
+Thick-walled abscesses of the
+uapqe ienusa pue squl
+and ocular disease
+scar tissue.
+granules.
+ing
+o culture through bite wounds
+very rare disease in veterinary
+Table 2-11 continued 
+saiaydoides (os snoinbign]
+punoM
+-ne si
+m  u
+cutaneous, or disseminated
+veterinary dermatology)
+Eumycotic mycetoma
+Actinobacillus ligneriesii
+nary dermatology)
+Actinobacillosis*
+Feline Leprosy*
+Histoplasmosis
+dermatology)
+DISEASE
+8.
+102
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+ Fair,if recognized and treated
+Guarded
+promptly.
+poog
+Fair
+Fair
+ Antimycotic therapy with iodides
+131
+Alqudaosns ounla ul uo pas
+bscesses, antibacterial therapy
+or chloramphenicol (p. 118)
+or azoles (p. 131)
+ Surgical excision
+ spontaneously
+testing.
+E
+ Often solitary subcutaneous nod.
+ules on nose, trunk, or extremities
+-dh sanpou pue 'sanberd 'sa nnded
+ Solitary nodules on ventral rump
+High fever, depression, anorexia,
+Multiple nodules or ulcerated
+cally on head and pinnae
+possible concurrently
+also exist.
+Firm,
+pestis by
+through wound contamination
+caused by ubiquitous dimor-
+u aseasip towuesun rspunom
+humans through contact with
+pres-
+rodents, or direct infection?
+oonosis: Transmission to
+Sterile granulomatous and
+eterinary dermatology)
+(unknown pathogenesis)
+mission of infected fleas,
+(unknown pathogenesis)
+(infection with Yersinia 
+dermatology)
+ Phaeohyphomycosis*
+wound
+ Sterile panniculitis
+easily possible!
+matology
+veterinary
+6
+万
+Copyright @ 20o0 Teton NewMedia 
+888-770-3165www.veterinarywire.com
+103
+Nasal swelling caused by
+cryptococcosis in a 6-year-
+in a 3-year-old castrated
+Draining tracts due to
+atypical mycobacteria
+Thierry Olivry.)
+Figure 2-59
+Figure 2-60
+DSH.
+PROGNOSIS
+Combi nation anti microbial
+TREATMENT
+COMMONLYAFFECTEDSITES
+A 5-year-old castrated
+DSH with nodules and
+draining tracts resulting
+from atypical mycobac-
+unpleasant odor.
+Figure 2-58
+(very rare in small animal der.
+Table 2-11 continued
+ratory and digestive lesions)
+Tuberculosis*
+DISEASE
+104
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+2-year-old castrated DSH
+Nasal ulceration in a
+Feline leprosy in a
+Dr. Peter Ihrke.)
+Figure 2-62A
+Figure 2-63
+Pseudomycetoma in a
+(Courtesy
+of Dr. Peter Ihrke.)
+Dr. Peter Ihrke.)
+Figure 2-62B
+Figure 2-61
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+105
+Figure 2-64
+The Cat with Nodules
+Cytology
+(p.21)
+No microorganisms,
+Diagnostic result
+Neutrophils and cocci.
+otherwise inconclusive
+otherwise inconclusive
+Biopsy (p. 38), culture (p.32)
+Antibacterial treatment
+(p.118)
+No resolution
+Resolution
+Bacterial infection
+Biopsy (p.38), culture (p. 32)
+(48 hours post antibacterial
+treatment)
+106
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+The Patient with
+Otitis Externa
+Otitis externa may be seen with many diseases in conjunction
+with other clinical signs, which are helpful in the formulation of
+a list of differential diagnoses. This discussion is the approach to
+the dog with otitis externa and no other symptoms.
+and perpetuating factors in the pathogenesis of otitis externa.
+Predisposing factors are independent from the underlying disease
+and alone will not cause disease, but will facilitate the patholog
+ic process. Conformation, including dense hair in the ear canal.
+a long and narrow ear canal, pendulous ears, and climate-related
+seasonal factors such as increased temperature and humidity are
+examples of predisposing factors.
+ Complicating factors occur
+only after the primary pathologic process has begun, but contin-
+ue to be a problem after the primary disease has been successfully
+identified and treated. Examples are otitis media, bacterial or
+fungal infections, and chronic proliferative changes due to
+inflammation. These complicating factors need to be treated
+independently. The most common primary factors are listed in
+Table 2-12.
+Key Questions
+V How old was this patient when clinical signs were first recognized?
+(p.3)
+√ Is the disease seasonal? (p. 3)
+/ What do you feed the animal? Was a special diet used in the past?
+(p.7)
+V Are there any other animals in the household? (p. 8)
+√ Was the disease treated before? If so, which drugs were used and
+how successful was treatment? (p. 8)
+V When was the last medication given? (p. 9)
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+107
+Good for well-being of
+Excellent, if offending
+pi (aie) si (uid
+tinued management,
+erwise fair with contin-
+PROGNOSIS
+chance of cure.
+Excellent
+Excellent
+Excellent
+respond to top-
+Allergen-specific immuno.
+Avoidance, antihistamines
+: topical glucocorti-
+ topical glucocorticoids.
+cally, although many
+ical miticidal therapy
+TREATMENT
+123)
+histamines (p. 1
+ivermectin (p.
+therapy(P.
+patients will
+fatty acids
+Removal
+coids.
+Diagnosis based on history,
+pended in mineral oil; miti-
+ 26), sarcoptes treatment
+or serum test for allergen-
+offending allergens and
+Otoscopic examination.
+ Otoscopic examination
+ Elimination diet (p. 46)
+DIAGNOSTIC TESTS
+Table 2-12
+immunotherapy.
+49).
+noses.
+(p. 49)
+pinnae affected as well as (or
+In some patients a seasonal
+Jo pue eaeun aleida
+ex terna may be caused by
+Unilateral otitis externa
+debris in the ear canals
+worse than) the canal
+adverse reactions
+Differential Diagnoses: !
+COMMENTS
+acute onset
+atopy
+u Ap e
+(hypersensitivity to aero-
+allergens such as pollens,
+tion (very common cause,
+(may or may not be aller-
+Otodectes cynotis infesta-
+ highly contagious dis
+scabiei var. canis in dogs
+Food adverse reaction
+mals and cats)
+Foreign body
+DISEASE
+Atopy*
+108
+to survive adrenalecto-
+adenocarcinomas have
+tumors were reported
+and others only days.
+Fair with appropriate
+longer than 10 years
+induced pemphigus)
+Good, if completely
+ months. Adrenal
+treatment, poor for
+anp idaxa) an
+excised and no
+adenomas.
+ metastases
+Iatrogenic form: discontinue
+of affected gland for adreno.
+ Surgical excision (vertical
+glucocorticoid administra-
+Immunosuppression
+ cortical neoplasia
+zole for PDH
+(p. 141)
+ear canal)
+leutrophilia, lymphopenia
+), radi-
+ographs (hepatomegaly,
+(adrenal
+ adrenal glands), low-
+Otoscopic examination
+(specific gravity 
+SAP
+6
+ Subtle clinical signs may be
+Inner surface of pinnae typi.
+ Unilateral, older animals
+mation due to pemphigus
+antibodies against antigens
+induced or paraneoplastic)
+(ceruminous gland adeno-
+ glucocorticoids either
+the former more common
+Hyperadrenocorticism*
+tical neoplasms in 15%)
+(immune-mediated skin
+disease characterized by
+the intercellular con-
+mas-both types in cats,
+Pemphigus foliaceus*
+Neoplasia*
+(saop u!
+古
+.5
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+109
+all patients stay in
+complete and con-
+stant remission
+PROGNOSIS
+plementation.
+for cure
+ corticosteroids
+ DIAGNOSTIC TESTS
+Biopsy (p. 38)
+ulation test)
+free
+COMMONLY AFFECTED SITES
+therapy of secondary ear
+with topical medication.
+infection
+Table 2-12 continued
+time and thus hyperprolif.
+seba-
+re trait with decreased
+ and follicu-
+nutritional deficiencies)
+Idiopathic seborrhea*
+ to inflammation, 
+ceous glands,,
+DISEASE
+ary
+110
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Figure 2-66
+Bettenay).
+Figure 2-67
+Pinnal erythema, scaling, and ero-
+Dr. Sonya Bettenay).
+Figure 2-65
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+111
+Figure 2-68
+Identification of the Primary Disease in the Patient
+with Otitis Externa
+Otoscopic examination
+Mass or
+Inflammation
+foreign body
+and debris
+Young animal
+Older animal
+Surgical or
+manual remova
+Thyroid testing. urine
+cortisol creatinine ratio
+postantimicrobial
+Depending on
+treatment (p. 118)
+patient and owner
+Nondiagnostic
+Diagnostic
+Biopsy (p.38)
+Elimination diet
+(p.46)and antimicrobial
+ Further testing
+treatment (p. 118)
+or treatment as
+indicated
+Remission
+Rechallenge
+Relapse
+No change
+Relapse
+Intradermal skin
+Adverse food
+Monitoring
+lateron
+testing, serum IgE
+reaction
+testing (p. 42)
+Atopy
+112
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Cytology is essential in any dog or cat with otitis externa; exami-
+nation must be separate in the left and right ear canals as infec-
+tive microorganisms may be different from one ear to the other.
+standing otitis externa and concurrent otitis media, organisms in
+the middle ear may differ from the those isolated in the external
+ear. Antimicrobial treatment in the ear canal is most effective
+topically and determined by cytology (p. 21) and in vitro suscep-
+tibility (p. 42 and 46). Repeat cytology examinations during
+treatment is essential and changes in the otic flora may necessi-
+tate changing medications.
+Otitis media is best treated with systemic medication. Many dogs
+with chronic otitis externa and otitis media may not respond to
+treatment because of severe accumulation of purulent or waxy
+material in the ear canals. An ear flush under anesthesia may be
+needed followed by a new attempt of topical and concurrent sys-
+temic therapy. The tympanum may rupture prior to flushing or
+during flushing because in an inflamed ear the tympanum is
+much more fragile than normal. Frequently there are few alter-
+natives for antimicrobial treatment in these patients. Sometimes
+they may have to receive potentially ototoxic topical medica
+tion. Be sure to discuss this possibility with owners before begin-
+ning therapy. Regular cytologic examinations are a precondition
+for successful management of patients with otitis externa. They
+are not specifically mentioned in Figure 2-68. Therapeutic trials
+and tests for primary diseases may be influenced by concurrent
+topical medication and thus must be planned, executed, and
+interpreted with care. Chronic long-standing otitis externa is
+extremely frustrating for patients, clients, and veterinarians, and
+patients may benefit from referral to a veterinary dermatologist.
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+113
+3
+Section
+Treatments
+114
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+In this section, I will summarize the most common treatment
+modalities, their formulations (which may vary in different parts
+of the world), indications, and doses. Given that detailed discus-
+sion of individual drugs, their mechanisms of action, pharmaco-
+kinetics, and protocols is beyond the scope of this text, further
+reading may be required. See Recommended Readings.
+Drugs marked with an (*) and a colored screen are potentially
+dangerous and the clinician inexperienced with these medications
+may consider offering referral to a veterinary specialist or seeking
+further advice from a colleague with more knowledge about that
+particular agent.
+Shampoo Therapy
+of Various Skin
+Conditions
+Shampoo therapy can provide effective management of dermatoses
+with both medical and cosmetic presenting complaints (Table 3-1).
+There are few adverse effects associated with shampoo therapy,
+although they are recognized. However, shampoo therapy is sympto-
+matic treatment;it rarely"
+"cures"a dermatosis
+Prescribing a shampoo involves selecting the proper shampoo for both
+the dermatosis and the client. Shampoo manufacturers have under
+taken considerable research and development in order to produce for-
+mulations, which lather well, have an appealing smell, offer little irri-
+tation, and serve their intended purposes.
+In addition to selecting the appropriate shampoo, the veterinarian's
+instructions will have a significant impact on the efficacy. The fre-
+quency of bathing and duration of skin contact time will influence
+the obtained result. A 1O-minute contact time is generally recom-
+mended. This is a long time for the owner of a fidgety, shivering dog
+to wait and it will frequently be cut short! Techniques to improve
+contact time include:
+V Take a clock into the bathing area and time 10 minutes accurately.
+V Use the time for patting and bonding.
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+115
+V Massage the skin for the full 1O minutes; it will usually be enjoy-
+able for the dog and occupy both pet and owner.
+√ Take the dog outside to play ball or go for a walk with the
+soap still on (if climate permits).
+V Rinse the shampoo off thoroughly for at least 5 to 10 minutes.
+The frequency of shampooing will vary with severity and type of
+the disease process. In general, the more severe the disease, the
+more frequently bathing is indicated.
+The major reasons for failure of shampoo therapy are
+1. lack of client compliance (frequency and/or duration
+of application)
+2. incorrect selection of shampoo for the disease process
+3. shampoo irritation
+116
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+ FREQUENCY OF ADMINISTRATION
+q 1-14 days
+q 7-14 days
+q7-14 days
+q 7-14 days
+q 3-14 days
+q3-14 days
+q3-14days
+q2-14 days
+Selected Shampoo Types for the Treatment of Skin Disease
+Bacterial infections, sebaceous adeni.
+ Seborrheic dermatitis, seborrhea oleosa
+ Seborrhea sicca, seborrheic dermatitis
+environmental contamination in
+patients with fungal infection
+Pruritic skin disease, dry skin
+ Superficial pyoderma
+Bacterial infections.
+with fungal infection
+tis, demodicosis
+INDICATIONS
+3-1
+Table
+or drying, may be used in dogs and cats
+    
+Keratolytic, mildly anti-inflammatory,
+Ap uim seop ui suiseaiap pue a
+Antibacterial, antifungal, not inacti-
+Degreasing (and thus drying), kera-
+turizer must be used after the sham-
+Antifungal, antibacterial, virucidal,
+lowed with a moisturizer. Not to be
+Hydrates the stratum corneum
+terial and mildly antifungal.
+and potentially irritating!
+in different studies
+COMMENTS
+used in cats!
+SHAMPOO TYPE
+Colloidal oatmeal
+ Benzoyl peroxide
+Chlorhex idi ne
+Ethyl lactate
+Salicylic acid
+lodine
+Sulfur
+Copyright @ 20o0 Teton NewMedia 
+888-770-3165www.veterinarywire.com
+117
+Treatment of Bacterial
+Infection
+V Antibiotics are frequently used in veterinary dermatology,
+because many conditions are associated with secondary bacterial
+infection. Dogs with chronic allergies, immune-mediated der
+matoses, or endocrinopathies frequently develop secondary pyo.
+dermas that exacerbate these conditions and necessitate antibac-
+terial treatment (Table 3-2).
+/ Not all available antibiotics are useful for skin infections so
+that spectrum of activity as well as pharmacology of the different
+antibacterial drugs has to be considered.
+ The overwhelming majority of skin infections in the dog
+and cat is caused by Staphylococcus intermedius. Mixed infections
+can involve organisms such as Escherichia coli or Pseudomonas
+aeruginosa, which usually develop concurrently with most
+patients' primary agent, S. intermedius.
+ Proper dosage and proper duration are important for the suc-
+cess of antibacterial therapy. Antibiotics should be given for at
+least 3 weeks or longer or until at least 1 week after resolution of
+clinical signs. Relapses are common in patients on short courses
+of pharmacotherapy or those receiving medications at low
+dosages! Deep infections may take 6 to 12 weeks to resolve.
+/ Pyodermas can, at least initially, be treated empirically. If appro.
+priate therapy does not resolve the condition, taking a culture is
+indicated(p.32).
+V Each sample for culture and sensitivity should be accompanied
+of the cytology, as growth of different microorganisms does not
+indicate necessarily that they are present in significant numbers
+in vivo.
+118
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+mg/kg q 12 h
+h
+y gbay/u
+0
+100-07
+rganisms of the family
+Many
+Infections with gram-
+Bacterial superficial
+ Infections with most
+positive bacteria.
+bacteria.
+INDICATIONS
+Nocardia and
+aeruginosa).
+Infections 
+the
+pyoderma
+Small Animal Dermatology
+positive
+ram
+mosa).
+OS
+not
+polyarthritis, bone mar-
+common than with
+polyarthritis, bone mar-
+row suppression), hepa-
+toxic, gastrointestinal
+ADVERSE EFFECTS
+Keratoconjunctivitis
+sicca, drug reactions
+Keratoconjunctivitis
+sicca, drug reactions
+hypothyroidism with
+Vomiting, diarrhea,
+Vomiting, diarrhea
+fever,
+ex tended use
+erythromycin)
+symptoms,
+nausea
+2
+3
+pattern varies,
+1.n
+s relatively quick-
+hamsters, and guinea pigs!
+5
+high in
+esistance
+Antibioticsi
+Not for Doberman
+ Doberman
+6
+Give without food.
+Give without food.
+tates,
+nexpensive! Re
+COMMENTS
+ketaconazole
+istance
+Australia
+United :
+lot forl
+5
+.5
+Selected
+MO
+5
+以
+0mg tablets,
+tablets,
+120
+ml,
+FORMULATION
+mg/40
+/820
+syrup.
+tablets,&
+syrup.
+and
+sulfamethox azole
+Erythromycin
+sulfadiazine
+Lincomycin
+DRUG
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+119
+2mg/kg q 8 h
+48 b 8y/8u
+q 8-12h (D, C)
+ 20.30 mg/kg
+20
+chetes and gram-posi-
+tive and gram-negative
+produce penicillinase.
+Iand deep
+pyodermas
+pyodermas
+Infections with 
+sensitive cocci
+INDICATIONS
+ Superficial :
+bacterial
+bacterial 
+cocci,
+.9
+with oral acdministration,
+hypersensitivity reactions
+Vomiting, diarrhea, aller-
+Vomiting and diarrhea,
+very rarely tachypnea or
+diarrhea;
+Gastrointestinal signs
+ADVERSE EFFECTS
+blood
+allergic reactions
+gic reactions
+pue
+10
+Vomiting
+scrasias.
+ sensitivity in vitro
+Used commonly in veteri-
+ u! pasn Ajuouuos noN 
+resistant to
+Not commonly used i
+vitro resistance of
+results in vivo. May 
+more efficacious with
+h administration.
+gram-positive cocci
+nary dermatology
+hoststrainsof
+COMMENTS
+amoxycillin.
+penicillin
+but:
+strai
+MO
+8b
+Z
+tablets, 25 mg/ml and 50
+ mg/ml oral suspension.
+ 62.5/250
+751
+125, 250, 500 mg
+FORMULATION
+50 mg/ml syrup
+15257800
+1000 1
+Table 3-2 continued
+12.5/50 1
+500 mg,
+syrup.
+tablets,
+009
+1000
+ Penicillin V
+Amoxycillin
+amox ycillin
+Cloxacillin
+Cephalexin
+Cefadroxil
+DRUG
+120
+Copyright @2000TetonNewMedia 888-770-3165www.veterinarywire.com
+/animal
+combina-
+for immune
+250
+mg/kg q 24 h (C)
+忆
+with
+8b
+/kgq
+combined
+0
+8.
+uy
+with
+ouu
+hediated
+0
+pasn
+250-50
+12h (
+6
+nami
+5
+8
+5
+的
+一
+口
+q
+ the
+iscoid
+organisms,
+Actinomyces
+staphy-
+mycobacteria,
+staphy-
+nematosus,
+I superficial
+oSus.
+ gram-negative
+-negative
+at
+Au
+erythemz
+with
+cocci,
+with
+eryth
+oderma,
+fections
+acterial:
+naerobic
+Nocardia,
+Infections
+organisms
+fections
+positive 
+organisms
+lococci, 1
+5
+3
+6
+ discol-
+puppies
+discol-
+hepatotoxicity
+pup-
+ occur in
+may occur in
+ phototoxic
+,vomiting,
+could
+.5
+vomiting and 
+animals
+erosionsi
+dehydrated animals
+Cartilage erosions i
+ of teeth 
+ suois
+occur.
+Aeu
+reactlons
+kittens,
+Skin rashes, 
+otentially 
+Crystalluria
+dehydrated
+otentially
+Crystalluria I
+古
+reactions,
+ausea,
+diarrhea.
+ausea,
+artilage
+toxic
+and
+6a
+pue
+6a
+2
+N
+concurrently
+sup-
+f che irmrmune systern and
+ainstanaero-
+immature animal
+istance
+8
+uou!
+ oral
+particularly
+6
+cytokine production
+dermatology used 
+losporin,i
+and
+“10
+agents.
+Corganisms.
+give
+Ineffective :
+(1n220
+abetic
+8
+250 mg, 500 mg capsules
+mg
+mg,
+mg/ml, 
+suspension
+1
+粥
+5
+ Clindamycin
+Enrofloxacin
+Ciprofloxacin
+Tetracycline
+Doxycyline
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+121
+Apply to affected
+10
+1for
+0
+licking area 
+minutes (D,(
+Infections with staphy.
+lococci, mycobacteria,
+most gram-negative
+Localized superficial
+bacterial infections,
+INDICATIONS
+feline acne.
+organisms
+ADVERSE EFFECTS
+potentially occur.
+Not in immature animals!
+obe organisms. Resistance
+Effective against gram-
+COMMENTS
+FORMULATION
+ 2% ointment
+Table 3-2 continued
+tablets
+Marbofloxacin
+Mupirocin
+DRUG
+122
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Treatment of Pruritus
+Allergen-specific
+Immunotherapy
+the196Os. Since then several studies have been undertaken to
+evaluate the efficacy of allergy shots in dogs and cats. Despite the
+use of different allergens (aqueous versus aluminum-precipitated)
+and different protocols, the overall success rate was comparable
+and varied from 45% to 60% in studies with a follow-up of 1 year
+or longer to 70% to 100% in studies with a shorter duration.
+antigens to which it has shown an allergic reaction. This exposure
+starts at low concentrations that are increased gradually over time
+and after reaching a maintenance dose, are either continued indef-
+initely or slowly tapered.
+Considerations before Beginning
+Allergen-specific Immunotherapy
+Clinically and relevant to daily practice, several key issues need
+to be discussed with owners before they consider allergen-specific
+immunotherapy or "allergy shots"
+V The success rate: About 20% of the patients will do extremely
+well and thrive with no additional therapy; 4o% of the patients
+do well, even though occasional additional treatments such as
+antihistamines, fatty acids and/or antibiotics are needed. Owners
+are happy with the improvement achieved and consider the
+allergy shots worthwhile, even though therapy may be lifelong.
+Another 20% of patients improve, but the degree of improve-
+ment is unsatisfactory. And in 20% of the patients therapy has
+no influence on the disease process.
+V The cost: This may vary depending on the country of practice,
+the dog's allergies, the vaccines used, and the dose rates needed.
+Veterinary dermatologists are a good source of information for
+approximate expense.
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+123
+V The time to improvement: First improvement may be seen as
+early as 4 weeks into therapy and as late as 12 months after start-
+ing the allergy shots. On average, improvement is expected after
+between 4 and 6 months.
+V The duration of treatment: A minority of owners may discon-
+tinue their dogs' immunotherapy after 2 years, with their pets
+being permanently cured and symptom free. Other dogs, however,
+will require lifelong therapy!
+V The involvement: Atopic dogs are "high maintenance" and as
+such need constant care, most likely at least initially regular
+rechecks and concurrent medication. Allergy shots are not an
+easy way out but at this point the best of many available treat-
+ments, all of which involve long-term administration of medica-
+tions of some sort.
+Points to Remember if You
+Have Patients on Immunotherapy
+ Glucocorticoids may be given on an occasional basis at anti-
+inflammatory dosage levels without interfering with therapy.
+V Antihistamines, fatty acids, and antimicrobials do not inter-
+fere with immunotherapy so that they may be, and often are,
+usedconcurrently.
+deteriorates, always evaluate for infection. Yeast and bacteria are
+common complicating factors secondary to these allergies, which
+can cause dramatic increases in pruritus. Cytology (p. 21) will
+identify cocci, rods, yeasts and inflammatory cells and thereby
+guide antimicrobial therapy.
+V If no infection is detected, antihistamines or glucocorticoids
+can be used to regulate the patient's pruritus.
+V If there is a regular increase in pruritus after the injection, the
+dose and frequency may need to be adjusted. Decreased doses
+may be helpful.
+V If there is a regular increase in pruritus before the injection
+that is greatly improved by the injection of allergen extract, the
+time interval between the injections is probably too long and
+needs to be shortened. The dose may also be decreased in some
+of these patients without decreased efficacy.
+124
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+V If there is no response to allergen-specific immunotherapy
+after 4 to 6 months, I recommend that you contact your nearest
+veterinary dermatologist for advice while there is still sufficient
+vaccine left to change the dose and frequency of the injections
+by adjusting them to the needs of that particular patient. Many
+patients need an approach suiting their particular requirements
+and the help of a veterinarian experienced in immunotherapy
+may be of great benefit.
+I sincerely believe that allergen-specific immunotherapy is cur-
+rently the best available treatment for canine atopic dermatitis.
+but it will only be successful in most atopic animals if owners
+and veterinarians have realistic expectations and are prepared to
+put in significant effort over the period that sometimes extends
+over many months. Only then will maximal benefit be achieved!
+In as much as the first months on immunotherapy may be drain-
+ing for owner and veterinarian, consider offering referral to a
+veterinary dermatologist, particularly if you are not experienced
+in this therapy.
+Antihistamines
+V Antihistamines are useful adjunctive agents in the manage-
+ment of pruritic patients. The classical antihistamines act by
+blocking H1 -receptors. First-generation antihistamines also have
+an anticholinergic, sedative, and local anaesthetic effect.
+Second-generation antihistamines penetrate less through the
+blood brain barrier or have a low affinity for the brain compared
+with the action on peripheral Hl-receptors. Thus they are effec-
+tive yet produce less sedation (Table 3-3).
+adverse effects. Drowsiness is the most common finding and may
+decrease after 2 to 3 days of therapy. Thus, it may be worthwhile
+continuing treatment for several days before final evaluation.
+Less common are gastrointestinal signs. Acute poisoning follow
+to the anticholinergic properties of terfenadine and cyprohepta-
+dine, these drugs should not be used in patients with severe car-
+diovascular disease, since they may cause hypertension.
+V The necessity of frequent administration (two to three times
+daily) and the high cost of some antihistamines limit their long
+term use in many patients, especially larger dogs.
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+125
+V A further shortcoming in dogs is the relatively low success
+rate, which varies between 5% and 30%, depending on dosage
+and drug used.
+f Cats are much more likely to respond to antihistamines
+than dogs. However, administering oral medication on a long
+term basis may be challenging in this species.
+/ If a patient responds to antihistamine therapy and the owner
+is willing to maintain the animal on it, antihistamines represent
+safe long-term treatment that is preferable to glucocorticoids!
+V Antihistamines in humans are not used to treat present symp-
+toms but to prevent onset of symptoms. Thus, administration
+should not be intermittent assuming the same holds true in ani-
+mals.
+ The potential success rate can be increased by trying several
+different antihistamines sequentially because patients may be
+responsive to one antihistamine but not to another.
+ Antihistamines have been reported to be effective in lower-
+ing the corticosteroid dose, even if they did not help the animal
+as a single therapeutic agent.
+V Because the withdrawal time of antihistamines before an
+intradermal skin test is much shorter than that of glucocorti-
+coids, they can be used to relieve pruritus during the preparation
+time where the latter are contraindicated.
+126
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+1-2 mg/kg q 12 h (D,C)
+mg/kg q 8-12 h (D, C)
+5-20 mg 9.12-24h (D)
+0.25 mg/kg q 24 h (D, C)
+mg/kg q 12 h (D, C)
+2.5-10 mg q 8-12 h (D)
+30.60 mg q 12 h (D)
+30-120 mg q 12 h (D)
+(@) 4 zlg b au g-
+-4 mg q 12 h (C)
+0.5-1 mg q 12 h (D)
+2
+2
+2
+3
+Do not administer concurrently with ketoconazol, itraconazol,
+Do not administer concurrently with ketoconazol, itraconazol,
+ Inhibits exocytosis of eosinophils in humans
+ Cyclosporine, erythromycin, or terfenadine.
+erythromycin, cyclosporine, or terfenadine
+lnexpensive, potentially sedating
+Inexpensive, potentially sedating
+Inexpensive, potentially sedating
+increase serum levels significantly.
+Table 3-3
+COMMENTS
+Sedating
+1 mg tablets, 0.05 mg/ml syrup
+, 120 mg tablets, 6 mg/ml
+-uadsns [u/su z 'saqen Su 0]
+ mg tablets, 0.5 mg/5 ml syrup
+10 mg coated tablets, 1 mg/ml
+10 mg, 25 mg coated tablets
+10 mg tablet, 1 mg/ml syrup 
+ Z mg tablets, 6 mg tablets 
+10 mg, 25 mg tablets 
+2.5 mg, 5 mg tablets
+FORMULATION
+4 mg tablets
+4 mg tablets
+suspension
+09
+syrup
+LOIS
+Dexchlorpheniramine
+Chlorpheniramine
+Cyproheptadine
+Promethazine
+Amitryptilline
+Trimeprazine
+Foxofenachin
+Hydroxyzine
+Clemastine
+Terfenadine
+Loratidine
+Cetirizine
+Astemizol
+Azatidine
+DRUG
+Copyright @ 2oo0 Teton NewMedia
+888-770-3165
+www.veterinarywire.com
+127
+Essential Fatty Acids
+V Essential fatty acids (EFAs) are important for epidermal barrier
+function, as components of cell membranes, and as the precursors
+of inflammatory mediators.
+V Supplementation with specific EFAs, especially linoleic acid
+(in sunflower and safflower oil), gamma-linolenic acid (in
+evening primrose oil) and eicosapentanoic acid (in cold water
+marine fish oil), can have anti-inflammatory effects. Linoleic
+acid is needed for maintenance of stratum corneum barrier func-
+tion, limits transepidermal water loss and is thus better suited for
+the treatment of scaling (Table 3-4).
+         h   s
+V It may take several weeks of supplementation until clinical
+effects become evident.
+V In essence, EFA supplementation decreases production of
+inflammatory prostaglandins and leukotrienes in favor of an
+increased production of noninflammatory or antiinflammatory
+prostaglandins and leukotrienes.
+VAdjunctive therapy with essential fatty acids can be beneficial
+in a patient with allergies.
+ Fatty acids have been reported to be effective in lowering the
+corticosteroid dose, even if they did not help the animal as a sin-
+gle therapeutic agent.
+ Start with a small dose to avoid possible diarrhea and gradu-
+ally increase the dose.
+V Ideal doses and w-6/w-3 ratios are a subject of continuing
+active research.
+Table 3-4
+Essential Fatty Acids and Their Doses
+ESSENTIAL FATTY ACID
+DosE
+Eicosapentaenoic acid
+20 mg/kg q 24 h
+Linoleic acid
+20-50 mg/kg q 24 h
+128
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+Glucocorticoids
+V Glucocorticoids are very commonly used in the treatment of
+skin conditions (Table 3-5).
+V At anti-inflammatory dosage, they decrease inflammatory cell
+activity and migration.
+V Corticosteroids are effective in most patients with atopic disease
+and resolve the symptoms at least initially on reasonably low
+dosages. Flea-allergic animals will also often respond to these drugs,
+although typically at slightly higher dosages.
+V Glucocorticosteroids can be considered the treatment of choice
+in animals with a mild seasonal pruritus of 1 to 2 months duration
+that is controlled with anti-inflammatory dosages (<l mg/kg) of
+prednisolone every other day
+V Every other day therapy is definitively preferred over daily drug
+administration because as it is thought to lower the chances of
+iatrogenichyperadrenocorticism.
+/ I use prednisolone at anti-inflammatory doses for severely affect
+ed dogs after skin testing and short term to break the itch-scratch
+cycle. However, the need to increase the dosage over time to con-
+trol the clinical signs in most of these patients, combined with the
+potentially severe long-term side effects make glucocorticoids a
+poor long-term choice for atopic patients.
+V Adverse effects include polyuria, polydipsia, polyphagia,
+increased susceptibility to infection, and other well-known symp-
+toms of iatrogenic hyperadrenocorticism. The most commonly
+encountered infections affect the urinary tract, skin, and lungs.
+V Drugs should always be tapered to the lowest effective dose.
+ Frequently, the dose necessary to control clinical signs can be
+decreased when adjunctive therapy is used. Fatty acids and antihis-
+tamines have been reported to be effective in lowering the corti-
+costeroid dose, even if they did not help the animal as a single
+therapeutic agent. Regular topical therapy (e.g., shampoos) may be
+another means of decreasing the need for systemic glucocorticoids.
+ I recommend to the owners of my atopic patients treated with
+glucocorticoids the lowest possible dose, on which the animal is
+mildly itchy but not uncomfortable. If no pruritus is present, the
+dose used is too high.
+ The glucocorticoid dose needed with individual patients often
+varies seasonally
+Copyright2000TetonNewMedia888-770-3165www.veterinarywire.com
+129
+(  
+0.4-0.8 mg/kg q 24-48 h orally
+0.05-0.1 mg/kg q 48-72 h orally
+(D), 0.2-0.5 mg/ intramuscularly
+0.05-0.1 mg/kg q 48-72 h orally
+(D); 0.1-0.2 mg/kg IM or subcu-
+0.5-1 mg/kg q 24-48 h (D)
+1.-2 mg/kg q 24-48 h (C)
+0.5-1 mg/kg q 24-48 h (D)
+1-2 mg/kg q 24-48 h (C)
+(D); 0.1-0.25 mg/(C),
+ Selected Glucocorticoids and Their Dosage
+(D), intramuscularly
+taneously SC (D,C)
+100 mg tablets, 20 mg/ml, 40
+ 3 mg/ml, 10 mg/ml, 40 mg/ml 
+Table 3-5
+1 mg, 5 mg, 20 mg, 25 mg,
+Z mg, 4 mg, 8 mg tablets,
+ mg/ml Met. acetate
+0.5, 1.5, 4 mg tablets,
+1 mg, 5 mg, 20 mg,
+ 2 mg/ml, 4 mg/ml
+FORMULATION
+ 50 mg tablets
+50 mg tablets
+Methylprednisolone
+ Dex amethasone
+Triamcinolone
+Prednisolone
+resolution.
+Prednisone
+DRUG
+130
+Copyright @ 2000 Teton NewMedia 8
+888-770-3165www.veterinarywire.com
+mg/kg q 12 h (D,C)
+1 71 b y/01-5
+for Malasseria infec-
+2.5-10
+for
+h
+Gris-PEG
+I0
+2
+Teratogenic! Vomiting,
+bone marrow suppres-
+vascular failure in cats;
+scaling and dry
+vomiting, diarrhea,
+Vomiting, diarrhea,
+ocular and nasal dis-
+cholangiohepati tis
+Anorexia, nausea
+Anorexia, nausea,
+(quite common),
+ SIDE EFFECTS
+hepatotoxicity
+depression,
+sion
+Malassezia-related infec-
+sporotrichosis, nocardio-
+Malasseria and Candida
+, dermatophy.
+toses, systemic mycoses
+SystemicAntimycotic Agents
+Dermatophytosis
+INDICATIONS
+ Sporotrichosis
+infections,
+Table 3-6
+Administered with fatty
+ketoconazoleserumlevels.
+slow increase over several
+amines, phenytoin, or oral
+ifampin may decrease
+Administer with food! If
+decrease itraconazole
+days may minimize
+adverse effects.
+COMMENTS
+Give with food
+serum levels.
+meal
+R
+125 mg and 500 mg
+FORMULATION
+ 200 mg tablet
+100 mg capsule
+tablets
+ Potassium iodide
+Griseofulvin
+Ketoconazole
+Itraconazole
+DRUG
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+131
+(a) syam z 1og
+ dex trose every
+meous administra-
+ mg/kg IV in
+400 ml of 0.45%
+cumulative dose
+f 10-25 mg/kg.
+mg/kg q 12 h (
+5
+q
+ nausea, hepatotoxicity
+Nephrotoxicity, ane.
+Vomiting, diarrhea,
+SDE EFFECTS
+hypokalemia
+Vomiting
+Blastomycosis, histoplas-
+ketoconazole for blasto.
+mycosis, histoplasmosis,
+mosis, cryptococcosis,
+In combination with
+Dermatophytosis
+oral candidiasis
+ INDICATIONS
+sidered. Incompatible with
+limited promising infor-
+(SND) 
+5
+ phenytoin
+ ag  u p
+Fairly new and costly
+ be decreased
+erum levels. Increases
+Relatively toxic, thus 
+Penetrates into
+nervous system
+COMMENTS
+other drugs
+needs to 
+atients
+B
+FORMULATION
+ substance/bottle
+250 mg tablet
+ 50-mg dry,
+Table 3-6 continued 
+ Ampotericin B*
+Terbinafine
+Fluconazole
+DRUG
+132
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+at 6 μg/kg monthly. Oral
+administrations l week
+possibly with Cheyletiella. Contact animals must be treated for all ectoparasites except Demodex and chig-
+administration (with
+0 
+weeks after the first
+cattle administered
+gers, but, if dogs are affected with scabies, cats may not have to be treated and vice versa (Table 3-7)
+scabies.
+dem
+coma,respiratory arrest
+SIDE EFFECTS
+administration: Canine
+ INDICATIONS
+Canine scabies
+Table 3-7
+Idiosyncratic toxicities
+on day 5 to identify
+from 50 μg/kg on day
+efore severe adverse
+most common in
+COMMENTS
+effects occur.
+(often given orally to
+small animals),10
+mg/ml equine oral
+FORMULATION
+solution
+ Ivermectin
+DRUG
+133
+after the first negative
+parts water, apply as
+1 part to 32
+negative scraping.
+0
+10-15 mg/kg 
+Dilute 1
+every
+7
++
+4
+glycemia, hypotension
+hypothermia, hyper.
+ SIDE EFFECTS
+Very safe drug
+Very safe drug
+Very safe drug
+Heartworm prevention,
+scabies, demodicosis
+cheyletiellosis,scabies
+andOtodectes cynotis
+Cheyletiellosis, sca-
+festation.Feline
+Flea infestation
+INDICATIONS
+demodicosis
+infestation
+All household animals
+lufenuron for effective
+cycle, no significant
+Animal must not get
+Animals should not
+be rinsed when wet.
+ Safe for even puppies
+adulticidal activity.
+people
+COMMENTS
+Fairly costly
+Asthmatic 
+and kittens
+the rinse.
+135mg,
+97.8% sulfurated lime
+FORMULATION
+tablets (dogs), 
+10.6 ml, 50 ml
+2.3 mg, 5.75 1
+concentrate
+Table 3-7 continued
+solution
+tablets
+(cats).
+一
+Milbemycin
+Lufenuron
+Lyme sulfur
+Amitraz
+DRUG
+oxime
+134
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+:4-6 ml/kg q 2-12
+Apply once
+Use q 24.72 h (D, C)
+() skep OI-e b asn 
+45
+4
+9.
+1025
+6-12 mg/kg 
+(D)
+4 ml (D) >
+:U0-10d
+monthly
+pray:
+u
+8
+the 1
+4.
+08
+一
+2
+peraes-
+ntraindicated in
+Ptyalism, tremors,
+ataxia, vomiting,
+ataxia, vomiting,
+Focal alopecia
+dyspnea
+Ptyalism, 1
+dyspnea
+rabbits
+Tem
+hypersensitivi-
+lea-bite hypersensitiv.
+heartwormprevention,
+roundworm, and hook-
+lea-bite hypersensi-
+ Flea-bite hypersensi-
+infestation,scabies,
+Canine flea-bite
+Flea-bite h
+tivity
+tivity
+E
+Cosmetically appealing,
+ toxici-
+ salivation
+toxicity
+but
+ou sop ranem ci as
+interfere with efficacy.
+rat time of writing
+may discolor
+pray more effective
+furniture.
+requent shampoo
+SE
+before application, 
+well：
+well
+6
+的
+LO
+adulticide.
+Ivent
+lanba
+tion,
+ther
+.5
+.5
+3！
+Y
+R
+ 100 and
+I powders at
+9.7%
+ml,
+tubes.
+ml tubes)
+ml,
+6.8
+一
+06
+4
+Imidacloprid
+Selamectin
+Permethrin
+Pyrethrin
+Fipronil
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+135
+Insect Control Trials and
+Individual Management
+of Patients with Flea-bite
+Hypersensitivity
+Flea control trials
+V Treatment recommendations will vary significantly with indi-
+vidual situations. Confirmed flea-bite hypersensitivity, suspected
+    s     
+but have some fleas, are treated very differently.
+V Reasonably safe and effective products are available
+(Table 3-7). As veterinarians, we are in the best position to
+advise clients on a flea-control program tailored to their specific
+needs that considers their personality and life style as well as
+their pet's little peculiarities.
+ A major reason for failure of flea control programs is owner
+compliance. They are either unwilling, not educated properly,
+too careless, or simply not physically able to do what we ask
+them to do for whatever reason. Choosing the right protocol and
+educating owners properly, taking the time and possibly using
+nursing staff, brochures, and message boards will greatly increase
+your chance of success.
+W With all topical products, the first application should be
+administered in the clinic by the veterinarian or the veterinary
+technician/nurse to demonstrate the correct procedure to the
+owner.
+uct, the question is thus not if, but rather when. In essence, we
+speed up evolution and create resistant fleas by putting pressure
+on the population when using products for flea control.
+However, there are ways to delay this development of resistance.
+The first possibility is to combine different flea products, as it is
+much less likely that an individual flea gets resistant to two drugs
+at the same time. This approach is called integrated flea control
+and is becoming more popular all over the world. The second
+possibility is to switch products quickly when signs of resistance
+occur and kill the resistant flea with another effective product
+before it has time to multiply in big numbers.
+136
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+V Suspected flea-bite hypersensitivity: Aggressive flea control is
+needed for 4 to 6 weeks. If there is no improvement, we most
+likely do not deal with flea-bite hypersensitivity. With signifi
+cant improvement or remission, we established a diagnosis and
+    i ss   
+such a trial, we usually recommend the frequent use of an adulti.
+cide in combination with an insect growth regulator in the envi-
+ronment to quickly lower the flea pressure (Tables 3-8 and 3-9).
+V Confirmed flea-bite hypersensitivity: Ideally, we recommend
+an insect growth regulator/insect development inhibitor on a
+permanent basis (systemically, topically or in the environment)
+and an adulticide as needed (Tables 3-8 and 3-9). The second
+option is an adulticide only, in which case we need to switch
+products very quickly at the first sign of resistance. However, as
+adulticides are tapered slowly to identify the longest possible
+interval in between applications, recurrences may indicate insuf.
+ficient frequency of application rather than resistance.
+V No flea-bite hypersensitivity present: In these cases, we do
+not recommend flea control because permanent flea exposure
+may be less likely to induce flea-bite hypersensitivity than off.
+and-on flea control by an owner who is not pressed into compli.
+ance by an itchy pet. If the client does want to start some sort of
+flea control, insect growth regulators or development inhibitors
+arerecommended.
+Mosquito-bite trial
+The safest and most thorough mosquito-bite trial in cats with
+papules and crusted papules on nose, pinnae or foot pads is to
+keep the patient indoors for 2 weeks. When there is no expo-
+sure to mosquitoes, the disease regresses rapidly. However, in
+cats used to outdoors this option may not be viable.
+Alternatively, exposure is decreased when outdoor activities are
+limited and cats are trained to come in before dawn by feeding
+them in the late afternoon. In addition, a mosquito repellent
+q patde aq  ads ad s q si ui as r s
+wetting a cloth and wiping the feet and head daily before the
+cat goes out.
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com 137
+corners
+s and furniture, but areas
+most important. Indicated with frequent vis-
+The insecti-
+intensive, but insecticide is deposited only
+intensive, but insecticide is deposited only
+pet
+are
+pet
+and
+at the start of an insect-control trial.
+the start of an insect control trial.
+,Advantages, and Disadvantages of Selected Flea Control Products
+cover more than Z rooms/can.
+cover more than Z rooms/can.
+de stays on shelves
+COMMENTS
+derneath
+control.
+DISADVANTAGES
+Work-intensive
+Table
+Comparatively safe and
+effective, rapid onset of 
+Comparatively safe and
+effective, rapid onset of
+ADVANTAGES
+Insect growth regulators/development inhibitors
+Convenient,
+action
+action.
+ment of allergic pet's
+ dry environments.
+Administration,
+ ADMINISTRATION
+Indoor spray q 6 m
+q6 m (C).
+.5
+Methoprene
+Lufenuron
+DRUG
+138
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+weather
+dde mau aiaq sip z aue coduus
+ effecs.
+tration in animals on lufenuron directly
+not recommended.
+mals, viable egg produc-
+. depending on prod.
+No repelling action,
+effec tive for less than
+Not water proof, no
+monthly application
+bite
+Vork-intensive,
+possible.
+1oi speau 
+one day
+tion
+lea
+ties,
+Z
+E
+convenient, because used
+Convenient, rapid onset
+Water-proof (but not
+only every Z-4 weeks
+weeks, easy to apply
+used only every 2-4
+safe
+action,
+knock-out
+古
+2-8 week, spot-on
+mg/kg as a spray distrib.
+sq 1-2 d or as
+100 mg/ml
+Tablets
+needed
+口
+Adulticides
+Imidacloprid
+ Nitenpyram
+Pyrethrin
+Fipronil
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+139
+Soak animal with sprays (pressure pump
+Too new to comment at time of writing.
+Varying depending on individual product up to q
+* In any flea control trial adulticides are combined with an insect growth regulator used in the environment at the beginning
+ SUSPECTED FLEA-BITE HYPERSENSITIVITY
+ Not used for insect control trials 
+ Not used for insect control trials 
+COMMENTS
+haired dogs).
+q 7-14 d for 4-6 weeks*
+q 7-14 d for 4-6 weeks*
+q 1-2 d for 4-6 weeks*
+2-3 d for 4-6 weeks*
+q 14 d for 4-6 weels*
+-pord uo supuadap 'sa
+Too new to comment at
+monthly application
+DISADVANTAGES
+Work-intensive,
+time of writing
+CONFIRMED FLEA-BITE HYPERSENSITIVITY*
+Table 3-9
+Varying depending on individual product up to
+ 0n dn ienpod penpaipu ue Supuadap suie 
+ ainsodxa paieadsns aiopeq no suais 1ea
+ Repelling action, quick
+Easy to use, cosmetically
+ADVANTAGES
+knock-out.
+q4-12 weeks
+q4weeks
+q4 weeks
+744 mg in 1 ml as a spot
+q7-14d
+7-14 d
+q4week
+ADMINISTRATON
+Imidacloprid spot-on 
+Permethrin spot-on
+Table 3-8 continued
+Permethrin spray
+u0-10ds
+Fipronil spray
+Pyrethrin spray
+ Nitenpyram
+Selamectin
+of the trial.
+DRUG
+Permethrin
+ Selamectin
+DRUG
+140
+Immunosuppressive
+Therapy
+% Before you think about immunosuppressive therapy you must
+be sure about your diagnosis. It can be very dangerous for your
+patient to start immunosuppressive drugs based only on history
+and clinical examination as a confirmation of the diagnosis of
+immune-mediated skin disease. If the animal has an infectious
+disease (fungal, bacterial, or parasitic), it can rapidly deteriorate
+and even die. There is no place for trial therapy in immune
+mediated disease (except in the case of a patient facing
+euthanasia otherwise)
+ Patients with immune-mediated skin disease commonly have
+secondary infections that need to be identified and treated. In
+patients with mild-to-moderate disease, I start antimicrobial
+therapy 3 weeks before immunosuppressive therapy to evaluate
+how many of the clinical signs are due to the infection and how
+many are due to the immune-mediated disease. In cases of severe
+clinical disease, however, treatment of infection and of the
+immune-mediated disease should be started concurrently.
+for immunosuppression. Every dog or cat reacts differently to
+each of the drugs mentioned later in this section and you have
+to individualize treatment for each patient. Immunosuppression
+is a technique requiring instinct, sensitivity, and experience as
+well as theoretic knowledge that is beyond the scope of this text.
+There are, however, certain generalizations as well as certain
+starting dosages and ranges.
+/ Probably the best way is to start using one preferred drug,
+then, if your approach fails, refer the patient and learn from the
+way the specialist treats it. After you are familiar with that new
+drug, you add another one to your repertoire and use both of
+them and so on.
+V The doses mentioned in Table 3-10 are starting doses that are
+tapered as soon as possible to the smallest effective dose.
+Copyright @ 2000 Teton NewMedia 888-770-3165www.veterinarywire.com
+141
+V Taper the drug once the patient is in clinical remission or if
+adverse effects are intolerable. In a patient with severe adverse
+effects and concurrent clinical signs of active disease, new drugs
+need to be added at the same time.
+% Monitoring, as described in Table 3-10, is essential. I only
+compromise on monitoring standards because of financial con-
+siderations in patients facing euthanasia otherwise!
+V Some dogs will have seasonal relapses. This mechanism is
+currently not understood. If a well-controlled patient suddenly
+seems to relapse, always check for demodicosis and fungal or bac-
+terial infections first. Rather than a flare-up of the immune-medi-
+ated disease you may be encountering a problem secondary to
+your treatment. These patients are immunosuppressed and thus
+easily may be affected by infectious diseases! Increasing the dose
+of the immunosuppressive drug may not always be a good idea.
+142
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+currently, particu-
+counts and urinaly-
+6 mo, possibly
+stimulation tests
+Complete blood
+larly during the
+Complete blood
+,2,4,8,
+Serum biochem-
+tially, then every
+?
+MONITORING
+Urinalysis and
+urine cultures
+3.6
+first 1-2 mo.
+counts at 0, 1
+山
+6-12 mo
+ at O,
+ every
+3.6 mo.
+L21
+中
+4山
+82
+一
+1 mg/kg q 7 d IM (D,C)
+18 388 588
+ remission achieved
+DoSE
+2
+infections, muscle wasting,
+divided into Z daily doses),
+Vomiting, diarrhea, bone
+uoissaddns moeu auog
+Vomiting, diarrhea (less
+Bone marrow suppres-
+marrow suppression.
+sion, occasional cuta-
+polyphagia, lethargy,
+neous eruptions and
+ADVERSE EFFECTS
+Polyuria, polydipsia,
+proteinuria
+Table 3-10
+weeks in dogs. Should not
+ recommended
+Rapid onset of action,
+complete remission and
+Lag period of several
+high rate of adverse
+recommended before
+Long lag period (6.12
+before using this drug.
+using this drug.
+COMMENTS
+effects
+8
+ 50 mg/ml suspension 
+Z mg, 5 mg tablets 
+FORMULATION
+Aurothioglucose*
+Chlorambucil*
+Prednisolone
+ Azathioprine*
+ Prednisone/
+DRUG
+Copyright @ 2000 Teton NewMedia 888-770-3165 www.veterinarywire.com
+143
+Dysplasia (Table 3-11)
+Estrus induction, bone marrow sup-
+Abscess formation with injection of
+Polydipsia, polyuria, nervousness,
+pression, hepatotoxicity, pyometra,
+ Anaphylaxis, acromegaly, diabetes
+due to Hormonal
+ Selected Drugs Used in the Treatment of Endocrine Disorders with Cutaneous Symptoms
+with hypoadrenocorticism
+ADVERSE EFFECTS
+spontaneous abortion
+repository capsules.
+anorexia.
+mellitus
+1) auejequl auouoq xas jeuaipe
+ is recommended prior to using
+Estrogen-responsive dermatosis
+ment with this drug).
+this latter disease)
+ Hypothyroidism
+INDICATIONS
+Follicular [
+Alopecia 
+Table 3-11
+same dose q 12 h on 2 con-
+secutive days of each week as main-
+then l wk off,
+deter-
+20 μg/kg q 12 h. If patient condi-
+tion is well controlled, medication
+to once daily at
+3-6 mg q 12-24 h for Z-3 mo (D)
+TLaR
+0.1 IU/kg q 56 h for 6 wk (D)
+6 38 8
+may be changed
+Treatment of
+Diseases and
+DosE
+o,p′-DDD* (mitotane)
+Growth hormone*
+Levothyroxine
+Testosterone
+Melatonin
+Estrogen
+DRUG
+144

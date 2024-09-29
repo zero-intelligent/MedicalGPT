@@ -1,0 +1,8707 @@
+小动物解剖彩色图谱
+COLOR ATLAS OF SMALLANIMALANATOMYTHE ESSENTIALS
+Thomas O.McCracken
+and Robert A.Kainer
+withDavid Carlson
+WILEY-BLACKWELL
+小尾巴宠物健康中心译制
+Color Atlas of
+Small Animal Anatomy:
+The Essentials
+Color Atlas of
+Small Animal Anatomy:
+The Essentials
+Thomas O. McCracken, MS, PhD (Hon)
+Professor Anatomy
+University of Medicine and Heatth Sciences/
+Internationat University of Nursing
+Basseterre, St. Kitts
+West Indies
+Robert A. Kainer, DVM, MS
+Professor Emeritus of Anatomy
+Cotlege of Veterinary Medicine and Biomedicat Sciences
+Cotorado State University
+Fort Cotlins, Cotorado
+David Carlson, Illustrator
+President/Creative Director
+BioGraphix, LLC
+Windsor, Cotorado
+Blackwell
+Publishing
+@ 2008 Blackwell Publishing
+All rights reserved
+Blackwell Publishing Professional
+2121 State Avenue, Ames, lowa 50014, USA
+Orders:
+1-800-862-6657
+Office:
+1-515-292-0140
+Fax:
+1-515-292-3348
+Web site:
+www.blackwellprofessional.com
+Blackwell Publishing Ltd
+9600 Garsington Road, Oxford OX4 2DQ, UK
+Tel.: +44 (0)1865 776868
+Blackwell Publishing Asia
+550 Swanston Street, Carlton, Victoria 3053, Australia
+Tel.: +61 (0)3 8359 1011
+Authorization to photocopy items for internal or personal use, or the internal or personal use of specific clients, is granted by
+ Blackwell Publishing, provided that the base fee is paid directly to the Copyright Clearance Center, 22 Rosewood Drive,
+ Danvers, MA 01923. For those organizations that have been granted a photocopy license by CCC, a separate system of pay-
+ments has been arranged. The fee codes for users of the Transactional Reporting Service are ISBN-13: 978-0-7817-4391-4/2008.
+First edition, 2008
+Library of Congress Cataloging-in-Publication Data
+McCracken, Thomas.
+Color atlas of small animal anatomy : the essentials / Thomas O. McCracken, Robert A. Kainer.
+p. ; cm.
+Includes index.
+ISBN-13: 978-0-7817-4391-4 (alk. paper)
+ISBN-10: 0-7817-4391-5 (alk. paper)
+1. Veterinary anatomy—Atlases. 2. Cats—Anatomy—Atlases. 3. Dogs—Anatomy—Atlases. 1. Kainer, Robert A. Il. Title.
+ [DNLM: 1. Anatomy, Veterinary—Atlases. 2. Cats—anatomy & histology—-Atlases. 3. Dogs—anatomy & histology-
+Atlases. 4. Guinea Pigs—anatomy & histology—Atlases. 5. Rabbits—anatomy & histology—Atlases. 6. Rats—anatomy &
+histology—Atlases. SF 761 M478c 2008]
+SF751.M33 2008
+636.089'1—dc22
+2007029634
+The last digit is the print number: 9 8 7 6 5 4 3 2 1
+前言
+谱看重于展示动物各个器官和组织的分布关系和生理联系。不同于其他解
+部学书籍，通常注重于整体解部或者局部解部，强调特定部位。该图谱重
+点则是表现各个组织和器官彼此的分布关系，器官和组织在整个身体中的
+分布情况。相对于实体解部，更直观反映活体动物的器官分布状况。
+本书适用于兽医专业师生和兽医外科医生使用，同时也适合小动物饲养
+训练人员，动物实验室工作者，它能快速，直观的展现动物解剖结构，用
+于兽医师和宠物主人交流，也是不可多得的辅助工具。
+译者的话
+翻译工作是需要很多耐心和时间的，翻译过程中我尽量忠于原著，但
+译者水平有限，书中错误在所难免，尽请读者批评指正。我将在再版中修
+复错误，并发给您，如果有任何问题也欢迎通过邮件联系我。
+邮箱地址：ttahc123@163.com
+网址:http://ttahc.taobao.com
+小尾巴宠物健康中心
+2013年8月
+致谢
+感谢作者花费大量时间和精力编写该书藉，为
+广大兽医提供了宝贵的学习资料。
+小尾巴宠物健康中心译制作
+目录
+前言
+IV
+命名规则和解部学体位
+.IX
+身体平面.
+.XI
+体腔和浆膜
+XII
+犬.
+1
+猫。
+.33
+兔....
+.61
+大鼠
+77
+豚鼠
+93
+INDEX
+.107
+命名规则和解部学体位
+通用术语
+该图谱术语遵循《兽医解剖学名称》（NAV），但是部分组织的命名会有例外，可能会沿用
+传统的拉丁名标，特别是对于肌肉的命名。对于符合NAV命名规则的组织和器官，所有
+物种命名都是一致的。本图谱中常见的缩略语包括：a，动脉；b，骨骼；j，关节；lig.，韧带；
+In.，淋巴结：m，肌肉：n，神经：v，静脉。双字母则表示复数，例如：AA表示动脉的复数。
+位置和方向
+以下术语将以犬的图示说明。背侧和腹侧是相反的方向，分别朝向背部和腹部。靠近头
+部方向为头侧，靠近尾部为尾侧。前颅侧表示鼻子到头顶部位。近端表示靠近身体中轴
+的方位，远端表示远离身体中轴方位。
+前颅侧
+Rostral
+Cranial 头侧
+尾侧Caudal
+Dorsal 背侧
+近端 Proximal
+Ventral
+Caudal
+尾侧
+腹侧
+Cranial 
+Cranial
+头侧
+Caudal
+头侧
+尾侧
+Dorsal
+Dorsal
+ Plantar
+背侧
+后肢趾侧
+背侧
+远端
+Distal
+Palmar
+前肢的掌侧
+xvii
+身体平面
+以犬为参考，展现动物的身体平面。正中矢状面沿着中心轴将
+犬分为左右对称两部位，正中矢状面两侧与正中矢状面平行的称为
+矢状面。靠近正中矢状面的为内侧，远离矢状面的胃外侧。与动物
+背部平行的切面称为水平面，与脊柱垂直的切面称为横断面。
+B
+Median plane
+正中矢状面
+Transverse plane
+横断面
+正中矢
+状面
+Dorsal plane水平面/
+Median
+plane 
+Sagittal plane
+矢状面
+Medial
+内侧
+Lateral
+外侧
+xix
+体腔和浆膜
+以母犬为参考，展现动物的体腔（胸腔，腹腔，盆腔）和浆膜（腹膜，胸膜
+心包膜）内部脏器的分布。
+膈胸膜
+镰状韧带
+Diaphragmatic
+Mesocolon 结肠系膜
+Falciform ligament
+壁层胸膜
+pleura
+Mesentery肠系膜
+Pancreas胰腺
+Parietal pleura
+Visceral pleura
+Small intestine
+脏层胸膜
+Rectum
+小肠
+直肠
+Vagina
+大网膜
+阴道
+Greater
+ Left lung
+omentum
+左肺
+Stomach
+Bladder
+膀胱
+Parietal peritoneum腹膜壁膜
+Heart
+Liver
+心脏
+Viscerat
+肝脏
+ pericardium
+Visceral peritoneum 腹膜脏层
+心包脏层
+Parietal
+Lesser omentum 小网膜
+ pericardium
+心包壁层
+xxi
+第一章
+犬
+1.1
+雄性比格犬右侧视图
+1.2
+雌性切萨皮克湾猎犬左侧视图
+1.3
+解剖学分区
+1.4
+骨架
+1.5
+大型犬的表层肌肉和筋膜
+1.6
+母犬的表层肌肉
+1.7
+犬的深层肌肉
+1.8
+颈部，背部，主要关节部位的深部肌肉和母犬内脏
+1.9
+前肢的表层及中层的解剖
+1.10前肢和后肢解剖
+1.11头部解剖
+1.12眼部解剖
+1.13鼻骨解剖
+1.14耳部解剖
+1.15口腔，舌，
+食道解剖
+1.16腹部解部
+1.17大肠，肛门和肛门囊
+1.18体腔内脏和浆膜
+1.19公犬胸腔，腹腔，
+盆腔的脏器和骨髓
+1.20犬胸腔，腹腔，盆腔的脏器和骨骼
+1.21骨盆和髓关节
+1.22主要内分泌器官
+1.23公犬生殖系统解剖
+1.24母犬生殖系统解剖
+1.25 犬的主要静脉
+1.26犬的主要动脉
+1.27淋巴结和血管解剖
+1.28中央和周围神经系统
+1.29植物性神经：交感神经，副交感神经
+1.30脑部解剖
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+Tail尾部
+耳廓
+冠部
+Pinna
+Crown
+腰部
+颈部
+背部
+肩部
+Neck
+眼眶
+尾根
+Loin
+胸部
+Shoulder
+Back
+Orbit
+Set of tail
+Thorax
+Stop凹点
+Nose鼻
+髋结点Paint of hip~
+Muzzle鼻口部
+Throatlatch 咽部
+大腿 Thigh 
+Pointof shoulder肩结节
+膝关节
+Stifle~
+(knee)
+小腿 Leg
+Flank
+腹侧
+Prepuce
+Elbow
+(tarsus)
+Forearm
+肘关节
+前臂
+阴茎包皮
+Abdomen
+Carpus 腕
+腹部
+跖Metatarsus
+Metacarpus掌
+>Digits指
+Hindfoot后足
+前足 Forefoot
+Footpad
+指垫
+PLATE 1.1 Right lateral view of a male Beagle dog.
+1.1雄性比格犬右侧视图
+小尾巴宠物健康中心译制
+眼眶
+Orbit冠部
+耳廓
+http://ttahc.taobao.com
+凹点 stop
+Crown
+Pinna
+枕骨部
+鼻Nose
+Occiput
+Crest 颈脊部
+肩隆
+鼻口部Muzzle
+Withers
+胸部
+背部
+腰部
+Thorax
+Back
+/Loin
+臀部
+唇Flew
+Croup
+髋结点
+Point of hip
+咽部 Throatlatch ‘
+Set of tail尾根
+颈部Neck
+肩部shoulder
+肩结点
+Point of
+shoulder
+胸部Chest
+Tail 尾部
+Thigh大腿
+Flank
+臂部Arm
+Abdomen
+腹侧
+一Stifle(knee)膝关节
+腹部
+Elbow
+前臂Forearm~
+肘部
+Leg 小腿
+Hock
+关节
+(tarsus)
+腕Carpus
+-Dewclaws
+掌Metacarpus
+上爪
+Metatarsus 跖
+指Digits
+后爪/足
+前爪/足Forefoot
+Hindfoot
+PLATE 1.2 Left lateral view of a female Chesapeake Bay Retriever.
+1.2雌性切萨皮克湾猎犬左侧视图
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+前腹部/季肋部
+Cranial abdominal
+中腹部
+胸椎区
+Middle abdominal 
+颈背侧区
+Thoracic
+尾侧区
+腰部
+肋部
+Dorsal cervical
+Caudal
+Lumbar
+Costal
+Head 颅区
+髋结节区
+肩胛间区
+Coxal tuber
+Sacral
+荐骨区
+Scapular
+臀区Gluteal
+髋关节区Trochanteric～
+Ventral cervical颈腹侧区
+股部Femoral-
+膝关节区Genual-
+腿部Crural -
+剑状软骨区
+Caudal
+poudx
+Antebrachial 前臂部
+abdominal
+部 Tarsal-
+后腹部
+Sternal
+Umbilical
+胸骨区
+脐区
+Carpal 腕部
+跖部Metatarsal-
+Metacarpal掌部
+Digital
+趾部
+Digital指部
+PLATE 1.3 Body regions.
+1.3 解剖学分区
+小尾巴宠物健康中心译制
+颧骨弓
+额骨
+http://ttahc.taobao.com
+鼻骨
+Zygomatic bone
+顶骨
+Frontal bone
+Parietal bone
+Nasal bone,
+Occpital bone 枕骨
+Atlas寰椎
+bone
+上颌骨Maxila
+Axis枢椎
+下颌骨Mandible
+第7颈椎第1胸椎
+肋骨
+第7腰椎
+第13胸椎
+骼骨
+Hyoid apparatus
+C7
+T1
+L1第1腰椎
+L7
+Ribs
+T13
+舌骨体
+Ilium
+荐骨
+Sacrum
+尾椎骨
+肩胛骨scapula
+Rib 13
+Caudal vertebrae
+第13肋骨
+Pubis
+耻骨
+锁骨clavicle
+Penile
+bone
+lschium
+阴茎骨
+坐骨
+肱骨Humerus
+-Femur股骨
+Patella
+骨
+胸骨Sternum
+Fabella籽骨（腓肠肌内侧腓肠豆）
+Costal cartilages
+肋软骨
+-Tibia胫骨
+烧骨Radius
+Fibula排骨
+尺骨Una
+腕骨Carpal bones
+Tarsal:
+骨
+跖骨
+bones
+掌骨
+Metacarpal bones
+Metatarsal bones
+Dorsal sesamoid bones
+Proximalsesamoidbones
+背侧籽骨
+近端籽骨
+PLATF 1.4 Skeleton; C = Cervical vertebrae,T = Thoracic vertebrae, L= Lumbar vertebrae.
+1.4骨架
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+颈扩肌
+颈浅筋膜
+Platysma m.
+胸腰筋膜
+Superficial fascia of neck
+Thoracolumbar fascia
+躯干皮肌
+Cutaneous trunk m.
+Superficial gluteal -
+fascia
+浅臀肌筋膜
+Cutaneous neck m.
+颈浅括约肌
+Fascia lata
+Omobrachial fascia
+阔筋膜
+肩臂筋膜
+Crural fascia
+小腿筋膜
+Preputial m.
+Antebrachial fascia
+包皮肌
+前臂筋膜
+PLATE 1.5 Cutaneous muscles and major fasciae of the dog.
+1.5大型犬的表层肌肉和筋膜
+颞肌
+小尾巴宠物健康中心译制
+眼轮匝肌
+,Temporal
+Ocular orbicular
+http://ttahc.taobao.com
+-Frontal额肌
+Elevatorof
+腮耳肌
+Parotidomandibular
+背阔肌
+Masseter咬肌
+Dorsal latissimus
+腹外斜肌
+Stermocephalic胸头肌
+; External abdominal oblique
+Internal abdominal oblique腹内斜肌
+Cleidocervical 锁颈肌
+Trapezius (cervical
+Dorsal sacrocaudal 背侧斜角肌
+and thoracic)
+Middle gluteal 臀中肌
+斜方肌
+Major teres
+大圆肌
+口轮匝肌 Oral orbicular
+Tensor of fascia lata 阔筋膜张肌
+觀肌Zygomatic
+Superficial gluteal臀浅肌
+颊肌Buccinator
+Caudal intertransverse
+尾背侧横突间肌
+胸骨舌骨肌Sternohyoid
+肩横突肌Omotransverse
+锁臂肌Cleidobrachial 
+Ventral intertransverse尾腹侧横突间肌
+三角肌Deltoid
+Semimembranous 半腱肌
+臂三头肌 Brachial triceps
+Sartorial
+缝匠肌
+Femoral biceps
+Deep pectoral
+股
+二头肌
+胸深肌
+臂肌Brachial
+PLATE 1.6 Superficial muscles of the bitch.
+1.6母犬的表层肌肉
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+颈菱形肌
+荐尾背外侧肌
+前背侧锯肌
+Cervical rhomboid
+/Dorsal sacrocaudal
+Dorsocranial
+冈上肌
+脊半棘肌
+serrated
+Capital rhomboid头菱形肌
+Supraspinate
+Spinal and semispinal
+Ventral sacrocaudal
+胸菱形肌
+/Splenius夹肌
+荐尾腹内侧肌
+Thoracic rhomboid
+Ventralcervical
+Longest thoracic and lumbar
+Infraspinate
+serrated
+胸腰最长肌\
+颈腹侧锯肌
+胸客肋肌Thoraciciliocostal
+冈下肌
+Lumbar lliocostal
+Sartorial
+腰骼肋肌
+尾骨肌Coccygeal
+缝匠肌
+臀中肌Middlegluteal
+臀浅肌Superficialgluteal
+阔筋膜张肌Tensoroffascialata
+Sternothyroid胸甲状舌骨肌
+股四头肌Femoralquadriceps
+Sternocephalic胸头肌
+股方肌Femoral quadrate
+Cleidobrachial锁臂肌
+Omotransverse肩胛横突肌
+内收肌Adductor
+~Deltoid三角肌
+半腱肌Semitendinous
+Brachialtriceps臂三头肌
+半膜肌Semimembranous
+Brachial臂肌
+Anconeal肘后肌
+排肠肌Gastrocnemius
+腹横肌
+Carpal&digitalextensors腕/指伸肌
+Ventral
+Transverse
+flexor
+External
+thoracic
+abdominal
+Common digital extensor
+指总伸肌
+serrated
+intercostal
+胸腹侧锯肌
+Radialcarpalextensor腕烧侧伸肌
+腹直肌
+Major teres
+Ulnarcarpalflexor腕尺侧屈肌
+Cranial tibial
+大圆肌
+Long fibular
+胫骨前肌
+Longabductorpollex拇长展肌
+排骨长肌
+Long digital
+flexor
+趾长屈肌
+PLATE 1.7 Deep muscles of the dog.
+1.7犬的深层肌肉
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+头半棘肌（复肌）
+脊半棘肌
+Complex m.
+头半棘肌
+Spinal and semispinal m.
+Semispinal capital m.
+胸最长肌
+Longest thoracic m.
+Ventral cranial
+serrated m.
+ lliocostal thoracic m.胸客肋肌
+颈腹侧锯肌
+Kidney
+Ovary
+lliocostallumbarm.腰骼肋肌
+肾脏
+卵巢
+头长肌 Long capital m.
+Ureter输尿管
+头最长肌 Longest capital m.
+Left uterine horn 左子宫角
+Uterine body子宫体
+Femoral quadrate m.股方肌
+肩胛横突肌Omotransversem.
+Femoraladductorm.股内收肌
+大圆肌 Major teres m.--
+小圆饥 Minor teres m.
+臂三头肌 Brachialtriceps(accessory
+(副头)
+head)
+Straightfemoralm.股直肌
+臂二头肌 Brachial biceps m:
+IntermediateVast m.股中间肌
+臂肌Brachial m.
+Spleen
+Heart
+Lungs
+心脏
+肘后肌Anconeal m.
+肝脏
+胃
+PLATE 1.8 Deep cervical and back muscles (m.), major joints, and in situ viscera of the bitch.
+1.8颈部，背部，主要关节部位的深部肌肉，和母犬内脏
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+B.
+3rd metacarpal bone 第3掌骨
+Proximal dorsal sesamoidbone背侧籽骨
+Proximalphalanx近节指骨
+Common digital extensor tendon
+指总伸肌腱
+指深屈肌腱Deep digital flexor tendon
+指浅屈肌腱 Superficial digital flexor tendon
+Middle phalanx中节指骨
+掌环状韧带 Palmar anularligament 
+Dorsal elastic ligament 背侧弹性韧带
+A
+近侧籽骨Medial proximal sesamoid bone
+Distal phalanx
+远节指骨
+(ungual process)
+掌垫Metacarpal pad
+近侧指环状韧带Proximaldigital anular ligament
+Dermis真皮
+指浅屈肌腱Superficial digital flexor tendon
+指深屈肌腱Deep digital flexor tendon
+远侧指环状韧带 Distal digital anular ligament
+3rd digit 第3指
+Distal palmar sesamoid bone
+Claw
+掌远侧籽骨
+Digital pad
+爪
+指垫
+Claws 
+掌垫Metacarpal pad
+2nd digit
+第2指
+PLATE 1.9 Forepaw: A. Medial superficial view, B. Medial deep view.
+1.9前肢的表层及中层的解剖
+小尾巴宠物健康中心译制
+A.
+C
+http://ttahc.taobao.com
+Carpal pad
+腕骨垫
+1st digit
+第1指
+趾浅屈肌腱
+Metacarpal pad
+Superficial digital
+B.
+掌骨垫
+Metacarpal pad
+flexor tendon (cut)
+D.
+跖骨垫
+5th digit
+2nd digit
+第5指
+第2指
+5th digit
+第5趾
+第2趾
+4th digit
+第4指
+3rd digit
+Branching tendons
+Digitalpads趾垫
+of superficial digital
+第3指
+flexor m.
+3rddigit第3趾
+指浅屈肌腱
+4th digit
+digital pads
+第4趾
+Branching tendons
+指垫
+of deep digital
+Interosous mm.
+flexor m.
+骨间肌
+趾深屈肌腱
+Interosseusmm.
+骨间肌
+PLATE 1.10 A. Palmar view of the forepaw; B. Palmar view of superficial dissection of forepaw;
+C. Plantar view of hindpaw; D. Plantar view of superficial dissection of hindpaw.
+1.10前肢（A,B）和后肢（C,D）解剖
+中间块
+额窦
+Intermediate mass
+大脑
+小尾巴宠物健康中心译制
+A
+Cerebrum
+Frontal sinus
+咽鼓管口
+Cranium
+/Auditory tube opening
+头骨
+http://ttahc.taobao.com
+Endoturbinates筛鼻甲
+Dorsal meatus上鼻道
+小脑Cerebellum
+Dorsal nasal concha背鼻甲
+颈二腹肌Biventerneckm.
+Middle meatus中鼻甲
+头直肌Straight capital m.
+Ventral nasal concha 腹鼻甲
+项韧带Nuchal ligament
+Ventral meatus下鼻道
+寰椎Atlas·
+Alar fold翼褶
+Vestibule前庭
+脑干 Brainstem 
+脊髓 Spinal cord
+Canine teeth 犬齿
+Tongue
+枢椎Axis
+头长肌 Long capital m.
+Mandible 下颌骨
+颈长肌 Long neck m.
+咽喉 Laryngopharynx
+软聘
+Geniohyoidm.颜舌骨肌
+轮状软骨cricoidcartilage
+Soft palate
+Genioglossalm.颜舌肌
+Basihyoid bone
+食道Esophagus
+Oropharynx口咽
+颧骨
+B.
+Zygomatic bone
+鼻骨
+Thyroidcartilage甲状软骨
+Nasal bone
+声Vocal fold
+Laryngeal ventricle喉室
+Trachea
+Frontal bone
+Incisivebone
+额骨
+上颌骨
+气管
+Sternohyoidm.胸骨舌骨肌
+切齿骨
+Maxilla
+顶骨
+Parietal bone
+枕骨
+Occipital bone
+M3
+Occipital condyle 
+枕踝
+Temporal bone
+颞骨
+Mandible
+下颌骨
+1.11头部解剖（M-日齿，I-切齿，C-犬齿，P-前日齿）
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+结膜穹窿
+A
+Relextion of
+Lacrimal gland
+conjunctiva
+泪腺
+C
+背侧直肌
+-Pupil 瞳孔
+Dorsal straight m.
+外此
+Lateral
+Iris虹膜
+commissure.
+3rd eyelid第三眼脸
+睫状体
+Sclera巩膜
+Choroid - contains tapetum
+Sclera
+脉络膜
+巩膜
+Lacrimal canaliculi泪小管
+玻璃体
+Optic retina
+Lacrimal sac泪囊
+Vitreous body
+视网膜
+Zonular
+openings
+fibers
+小带纤维
+第三眼脸 3rd eyelid
+Optic disk视神经乳头
+Nasolacrimal
+Pupil-
+Optic nerve 视神经
+Lens
+第三眼脸腺Gland of 3rd eyelid
+duct
+瞳孔
+晶状体
+鼻泪管
+角膜Cormea
+B.
+泪小管
+/Lacrimal canaliculi
+虹膜Iris一
+Blood vessels
+Lacrimal sac
+to retina视网膜血管丛
+泪囊
+Anterior
+Retinal blood
+vessels
+视网膜血管
+Ciliary
+Ventral straight m.
+process
+腹侧直肌
+睫状突
+Nasolacrimal
+duct
+鼻泪管
+PLATE 1.12 A. The eye and adnexal ocular structures. B. Nasolacrimal duct. C. Median section of eye.
+1.12眼部解剖：A.眼部和附属器官；B.鼻泪管;C.眼球
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+背侧鼻甲骨
+B.
+Dorsolateral
+nasal cartilage
+鼻中隔软骨
+Cartlaginous
+septum
+鼻副软骨
+Accessory
+cartilage
+Ventrolateral
+A
+nasal cartilage
+腹侧鼻甲骨
+Nostril鼻孔
+一Philtrum人中
+前额窦
+C.
+Frontal sinus
+筛骨神经
+Ethmoidal nerve
+鼻骨
+Nasal bone
+鼻中隔
+Nasal septum
+鼻软骨
+Right olfactory bulb of brain-
+Nasal cartilage
+大脑右嗅球
+Cribiformplateof ethmoid bone
+筛板
+Olfactorynervefibers
+Palatine process
+Vomeronasal
+Vomeronasal
+嗅神经纤维
+of maxilla
+nerves
+上颌骨突
+犁鼻神经
+organ
+犁鼻骨器官
+Incisive duct
+切牙管
+PLATE 1.13 Rt. nasal fossa. A. External nares. B. Nasal cartilages. C. Medial sagittal section of the muzzle.
+1.13鼻骨解剖
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+Pinna耳廓
+耳廓外缘
+Lateral
+B.
+border
+半规管
+砧骨
+垂直耳道
+骨
+Semicircular canals
+Incus
+/Vertical earcanal
+Stapes
+前庭
+Vestibule
+1管
+水平耳道
+bone
+Hoizontal ear canal
+耳蜗
+Cochlea
+Temporal muscle
+耳缘皮肤褶
+Cutaneous
+marginal pouch
+大脑
+Brain
+Auditory
+耳廓软骨Auricularcartilage
+ossicles
+锤骨
+Malleus-
+听小骨
+Manubrium
+环状软骨 Anular cartilage 
+Cochlea
+of malleus
+锌
+耳蜗
+External
+圆窗
+腮腺 Parotid gland
+耳道
+acoustic
+Round window
+ meatus
+颌下腺Mandibulargland
+Oval window
+卵圆窗
+(eardrum)
+Middle ear
+中耳
+鼓膜（耳膜)
+中耳鼓室
+Tympanic membrane
+Tympanic cavity of
+(eardrum)
+middle ear
+Auditory tube
+咽鼓管
+Tympanic bulla
+鼓泡
+PLATE 1.14 The ear. A. Coronal section of the head and external ear. B. Middle and inner ear.
+1.14 耳部解剖
+小尾巴宠物健康中心译制
+Nasal planum
+httnyoittahe差甲状腺腺中m
+鼻面
+Esophagus食道
+B
+-Philtrum
+Trachea气管
+人中
+Laryngoharynx咽喉
+Hard palate
+硬
+Laryngeal entrance喉口
+Epiglotis会厌
+Palatine tonsils
+Conical papila圆锥乳头
+扁桃体
+Left palatine tonsil左侧扁桃体
+Soft palate
+软
+舌根
+Vallate papillae 轮廓乳头
+Epiglottis
+会厌
+Base of tongue
+Folate papilae 叶状乳头
+菌状乳头
+Fungiform papillae
+C.
+中央沟
+Median groove
+丝状乳头
+Filiform papillae
+(indistinct)
+舌尖
+Apex of tongue
+Marginal papillae
+(puppy's tongue)
+PLATE 1.15 Oral cavity, tonguc, and csophagus
+边侧乳头(幼犬)
+1.15口腔，舌，食道解剖
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+肝脏
+Liver
+胃
+Stomach
+切掉大网膜的边缘
+Cut edge of
+greateromentum
+Duodenum
+Spleen
+Spleen
+十二指肠
+Duodenum
+脾脏
+脾脏
+二指肠
+Coils of
+Greater
+jejunum
+omentum
+空肠
+大网膜
+Urinary bladder
+膀胱
+PLATE 1.16 A. Ventral view of dog abdomen with abdominal wall removed. B. View with greater omentum removed.
+1.16 腹部解剖
+小尾巴宠物健康中心译制
+直肠尾骨肌ttahc.taobao.com
+ Coccygeal m.
+Anal levator m.肛提肌
+Extermalanalsphincterm.肛门外括约肌
+B.
+/Right anal sac 右肛门囊
+横结肠
+Superficial gluteal m.臀浅肌
+A
+回结肠孔
+Transverse colon
+Internal
+闭孔内肌
+lleocolic orifice
+obturator m.
+盲结肠口
+Cecocolic
+orifice
+Ascending colan
+升结肠
+Femoral
+股
+头肌
+biceps m.
+Cecum
+盲肠
+Semimembranousm.
+半膜肌
+坐骨海绵体肌
+Descending colon
+Semitendinous m.
+半腱肌
+Ischiocavernous m.
+降结肠
+球海绵体肌Bulbospongious m.
+Retractor penis m.
+阴茎缩肌
+Cecum
+盲肠
+C.
+Rectum直肠
+Narrow part of rectum
+直肠狭部
+Ampulla of rectum
+Coccygeal m.尾骨肌
+直肠壶腹
+肛门内括约肌
+Anal levator m.
+肛提肌
+Internal anal
+sphincter m.
+External anal
+肛门外括约肌
+sphincter m.
+Right anal sac右肛门囊
+左肛门腺
+Left anal sac
+肛周腺
+Circumanal glands
+Anal sac duct
+Anal canal肛管
+肛门囊管
+Anus 肛门
+PLATE 1.17 A. Large intestine. B. Superficial view of anus and anal sacs. C. Dorsal section of rectum, anus, and anal sacs.
+1.17大肠（A），肛门和肛门囊（B）：直肠和肛门囊（C）解剖
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+小网膜
+结肠系膜
+Lesseromentum胰腺
+Mesocolon
+壁层胸膜
+横膈膜
+Pancreas
+Mesentery肠系膜
+Parietal pleura
+Diaphragm
+Visceral pleura
+Parietal peritoneum
+脏层胸膜
+腹膜壁层
+ Smallintestine 小肠
+吉肠Q
+腹膜脏层
+Left lung
+Visceral peritoneum
+左肺
+Urinary
+Stomach
+胃
+bladder
+Greater omentum
+膀胱
+大网膜
+Heart
+心脏
+Liver
+肝脏
+Pericardium
+心包膜
+Pericardial
+pleura
+心包胸膜
+PLATE 1.18 Body cavities and serous membranes.
+1.18体腔内脏和浆膜
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+输尿管
+肾脏
+胰腺
+Ureter
+Kidney
+Pancreas
+后肺叶
+Caudal lobe lung
+降结肠Descendingcolon
+前列腺Prostate
+直肠 Rectum,
+尿道 Urethra
+睾丸,Testis
+精索Spermaticord
+Jejunum
+Spleen
+Urinary
+Penis
+空肠
+脾脏
+阴茎
+Cranial lobe lung
+bladder
+Liver
+前肺叶
+膀胱
+肝脏
+Middle lobe lung
+Heart
+肺中叶
+心脏
+PLATE 1.19 Thoracic, abdominal, and pelvie viscera related to the skeleton of the dog. Right lateral view.
+1.19公犬胸腔，腹腔，盆腔的脏器和骨骼（右侧视图）
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+卵巢
+输尿管
+左肺
+肾脏
+脾脏
+Ovary
+Ureter
+左子宫角
+Left lung
+胃
+Kidney
+Spleen
+Left horn uterus
+Stomach
+降结肠
+Descending colon
+Rectum直肠
+Vagina阴道
+尿道
+Urethra
+Body of
+uterus
+Urinary bladder
+子宫体
+膀胱
+Cranial part of
+cranial lobe lung
+前肺叶前部
+Jejunum
+空肠
+Liver 肝脏
+Caudal lobe
+of lung
+Caudalpartof
+cranial lobe lung
+Heart
+肺后叶
+前肺叶后部
+心脏
+PLATE 1.20 Thoracic, abdominal, and pelvic viscera related to the skeleton of the bitch. Left lateral view.
+1.20犬胸腔，腹腔，盆腔的脏器和骨骼（左侧视图）
+小尾巴宠物健康中心译制
+A
+B
+http://ttahc.taobao.com
+Cranial dorsal
+荐骼关节
+髂骨峭
+iliacspine
+Sacroiliacjoints
+头背侧骨棘
+Crestofilium
+Sacral
+Cranial ventral
+tuber
+iliacspine
+荐结节
+头腹侧骼骨棘
+llium
+骼骨
+Tubercoxae
+L7
+髋骨结节
+Caudal dorsal
+Sacrum
+iliacspine
+荐骨
+尾背侧骼骨棘
+Alar spine翼棘
+耻骨
+Ventral sacroiliac
+lliopubiceminence
+Pubis
+ligament
+髂耻隆起
+荐骼腹侧韧带
+Sacrotuberous
+股骨头韧带
+ligament
+Ligamentof
+荐结节韧带
+thefemoralhead
+髋关节
+Ischiatic tuber
+Ischium
+坐骨
+Hipjoints
+坐骨结节
+Pubis
+耻骨
+Obturator
+Transverseacetabular
+foramen
+ligament
+闭孔
+髋白横韧带
+Femurl
+股骨
+Ischiatic tuber
+Ischium
+坐骨结节
+坐骨
+Pubic
+symphysis
+耻骨联合
+PLATE 1.21 Pelvis and hip joint: A. Dorsal view, B. Ventral view.
+1.21骨盆和髋关节
+小尾巴宠物健康中心译制
+松果体
+http://ttahc.taobao.com
+Pineal gland
+肾脏
+卵巢
+肾上腺
+Kidney
+Ovary
+Adrenal gland
+胎盘（雌性）
+Placenta (female)
+副甲状腺 Parathyroid glands
+甲状腺 Thyroid gland
+心脏 Heart
+Small
+Testis (male)
+Pancreas
+胰腺
+intestine
+睾丸（雄性）
+Stomach
+小肠
+島
+PLATE 1.22 Location of major endocrine organs.
+1.22主要内分泌器官
+A
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+尿道
+前列腺
+直肠
+Urethra
+Prostate
+Rectum
+Pubic symphysis
+耻骨联合
+输尿管
+ Penile retractor m.
+阴茎缩肌
+Ureter
+膀胱
+Bulbospongious m.球海绵体肌
+Urinary bladder
+Deferent duct
+输精管
+Corpusspongiosum(spongybody）阴茎海绵体
+Corpuscavernosum(cavernous bodyy尿道海绵体
+睾丸动脉/静脉
+附睾
+Testicular A.&V.
+睾丸动脉/静脉
+Testicular A.&V.
+Epididymis
+阴茎头球
+B
+Vaginal tunic
+Bulb of the penile glans s
+辜丸
+(reflected)
+Long part of penile glans
+睾丸精索鞘膜
+龟头延长部
+Deferent duct输精管
+阴囊Scrotum
+精索
+Testicular
+睾丸网
+Spermatic cord
+rete
+Ligament of tail ot?
+附睾尾韧带
+epididymis
+Urethra
+附睾管
+尿道
+Epididymal duct -
+Prepuce
+Penilebone
+阴茎包皮
+阴茎骨
+附辜体 Body of epididymis
+附睾头 Head of epididymis 
+输出小管
+Efferent ductules
+曲精小管Seminiferous tubules
+直精小管Straight tubules
+阴囊Scrotum
+epididymis
+Tunica albuginea
+附睾尾韧带
+白膜
+PLATE 1.23 Relations of the reproductive organs of the dog: A. Left sagittal view, B. Testis, epididymis and deferent duct.
+1.23公犬生殖系统解剖：A.正中矢面左视图，B.睾丸，附辜，输送组织。
+小尾巴宠物健康中心译制
+A.
+http://ttahc.taobao.com
+子宫外口Extemaluterineostium
+肛门
+Rectum直肠
+Anus
+子宫内口Intermaluterineostium
+子宫体Uterine body
+B.
+阴道
+Uterine cervix
+子宫颈
+子宫颈
+Vagina
+Vaginal part
+ofcervix
+膀胱
+Urinary
+Urinary bladder
+bladder
+膀胱
+尿道Urethra
+尿道结节Urethral tubercle
+阴道前庭Vaginal vestibule
+阴道
+阴蒂clitoris
+Vagina
+阴蒂窝Clitoral fossa
+/Vulva阴户
+C.
+肛门
+Anus
+尿道
+Urethra
+阴道前庭
+尿道口
+Vaginal
+Urethral opening
+会阴
+vestibule
+Perineum
+阴门缩肌
+Vulvarconstrictor
+muscle
+阴户
+Vulva
+Vestibularbulb
+前庭球
+Clitoris
+Clitoral fossa
+阴蒂
+阴蒂窝
+Labia阴唇
+PLATE 1.24 Relations of the reproductive organs of the bitch: A. Sagittal section of uterine cervix, vagina and vulva, B. Dorsal view
+of female genitalia, C. Caudal view of a female.
+1.24母犬生殖系统解部：A.子宫，阴道矢状面视图，B.生殖系统背面视图，C.母犬尾侧视图
+背侧矢状窦 Dorsal sagittal sinus
+rangle眼角静脉
+儿锋制
+眼丛Ophthalmicplexus
+Qao.com
+耳后静脉Caudalauricular
+肋间静脉
+椎静脉
+旋骼深静脉
+后腔静脉
+Intercostal
+Vertebral
+Deep circumflex iliac
+椎间静脉
+Caudal vena cava
+前腔静脉
+骼总静脉Common iliac
+Internal vertebral 
+Cranial vena cava,
+Inferior labial下唇静脉
+Right azygous
+Facial面静脉
+右侧骼内静脉 Right intermal iac
+右侧奇静脉
+Lingual舌静脉
+臀侧静脉 Lateral gluteal
+Linguofacial舌面静脉
+臀后静脉 Caudal gluteal
+Maxillary上颌静脉
+External jugular颈外静脉
+Right external iliac
+右侧骼外静脉
+Internal jugular颈内静脉
+Omobrachial肩胛臂静脉
+Axillary腋静脉
+Cephalic头静脉
+股深静脉Deep femoral
+股静脉Femoral
+Thoracodorsai胸背静脉
+隐中静脉Medial saphenous
+Axillobrachial腋臂静脉
+Renal
+外侧隐静脉Lateral saphenous
+肾静脉
+Brachial 臂静脉
+Testicular/
+Ovarian
+胫前静脉Cranial tibial
+Hepatic
+睾丸/卵巢静脉
+肝静脉
+Intermal thoracic胸廓内静脉
+Cephalic头静脉
+Median正中静脉
+Caudal branch
+Cranial branch
+lateral saphenous
+lateral saphenous
+外侧隐静脉后支
+外侧隐静脉前支
+Ulnar尺静脉
+Accessorycephalic副头静脉
+ Dorsal common digifal
+趾背侧总静脉
+Dorsalcommondigital指背侧总静脉
+PLATE 1.25 Major veins.
+1.25 犬的主要静脉
+Superficial temporal 浅动脉
+面动脉
+小尾巴宠物健康中心译制
+Facial<
+http://ttahc.taobao.com
+Maxillary
+上颌动脉
+Occipital
+枕动脉
+Vertebral
+肋间背侧动脉
+舌动脉
+椎动脉
+ Dorsal intercostal
+肠系膜后动脉
+Cranial mesenteric 肾动脉
+肠系膜前动脉
+Lingual-
+主动脉
+Celiac
+Caudal mesenteric
+颈外动脉
+,Aorta
+腹腔动脉
+Renal
+/Intermal iliac 骼内动脉
+External carotid
+颈浅动脉
+Umbilical脐动脉
+Superficial cervical
+髂内动脉脏支
+左侧颈总动脉
+Visceral br. internal iliac
+Left common carotid
+肋颈动脉干
+Caudalgluteal 臀后动脉
+Costocervical trunk
+Extermaliiac髂外动脉
+椎动脉Vertebral
+Deep femoral
+腋动脉 Axilary
+股深动脉
+左侧锁骨下动脉 Left subclavian
+头臂动脉干Brachiocephalictrunk
+Caudal epigastric腹壁后动脉
+臂动脉Brachial 
+Femoral股动脉
+尺侧副动脉 Collateral ulnar
+Saphenous 隐动脉
+Median
+Intercostal
+正中动脉
+肋间动脉
+Distal caudal femoral
+Internal thoracic
+股后动脉末梢
+胸内动脉
+Cranial abdominal
+国动脉
+Cranial superficial
+腹前动脉
+Popliteal
+腔前动脉
+antebrachial
+Cranial interosseous
+Cranial tibial-
+前臂前浅动脉
+前骨间动脉
+隐动脉前支
+Cranial br.
+Caudal interosseous
+saphenous
+烧动脉
+后骨间动脉
+胫前动脉浅支
+Radial-
+隐动脉后支
+Superficial br.
+前臂前浅动脉
+Unar尺动脉
+cranial tibial
+Caudal br. saphenous
+Cranial superficial antebrachial
+足背动脉 Dorsal pedal
+Median正中动脉
+Dorsal common digital 
+趾跖侧总动脉
+Dorsal common digitah
+指背侧总动脉
+Palmar cammon digital 掌侧总动脉
+Plantarcommon
+趾背侧第总动脉
+digital
+PLATE 1.26 Major arteries.
+1.26犬的主要动脉
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+咽后外侧淋巴结
+Lateral retropharyngeal In.
+腮腺淋巴结
+咽后内侧淋巴结Medial retropharyngealInn.
+ParotidIn.
+肠淋巴干
+Superficial cervical In.
+Cistema chyli
+腰部淋巴干
+Intestinaltrunks
+颈淋巴结
+乳糜池
+Dorsal thoracicInn.
+Lumbartrunks
+腰淋巴结
+胸背淋巴结
+LumbarIn.
+Thoracic duct
+Iliosacral Inn,
+胸淋巴干
+荐髂淋巴结
+Aorta
+主动脉
+骼股淋巴结
+Iliofemoral In.
+股淋巴结
+MandibularInn.下颌淋巴结
+Femoral Inn.
+腹股沟浅淋巴结
+Righttracheal trunk右侧气管淋巴干
+Superficial inguinal Inn.
+Deepcervicaln.颈深淋巴结
+胭淋巴结
+Leftrachealtrunk左侧气管淋巴干
+Popliteal In.
+Cranialcavalvein前腔静脉
+Mediastinalln.纵隔淋巴结
+CeliacInn.
+腹腔淋巴结
+Axilary In.腋淋巴结
+Cranial mesenteric Inn.
+头侧肠系膜
+Mediastinal Inn.
+Ventral
+纵隔淋巴结
+thoracicInn.
+Diaphragm
+胸腹淋巴结
+横隔膜
+PLATE1.27 Lymphnodes(lnn.)andvessels.
+1.27淋巴结和血管解剖
+大脑
+视神经
+Cerebrum
+小尾巴宠物健康中心译制
+Optic~
+小脑
+http://ttahc.taobao.com
+Dorsal brs. cervical
+nerves
+Dorsal brs. of thoracic nerves
+臂神经丛
+胸神经背侧支
+Brachial
+髂腹后神经
+plexus
+骼腹前神经
+Caudal ilioepigastric
+Cranial ilioepigastric
+腰荐神经丛
+Trigeminal
+Lumbosacral plexus
+三叉神经
+Femoral股间神经
+Vagus
+迷走神经
+Sciatic坐骨神经
+Suprascapular
+Caudal cutaneous gluteal
+肩脾上神经
+臀后皮神经
+Subscapular
+肩胛下神经
+Obturator
+闭孔神经
+Brachiocephalic
+臂头神经
+肌皮神经
+腋神经 Aaxilay 
+Saphenous隐神经
+桡神经Radial
+Lateral femoral
+cutaneous
+小腿后皮神经
+股外侧皮神经
+Lateral
+正中神经Median
+Caudal cutaneous sural
+cutaneous
+Genitofemoral
+Tibial 胫神经
+尺神经UInar
+Lateral
+thoracic
+Common peroneal
+Medial cutaneous antebrachial
+胸外侧神经
+排总神经
+前臂内侧皮神经
+Superficial peroneal
+排浅神经
+桡浅神经 Superficial radial-
+Deepperoneal
+排深神经
+前臂内侧皮神经Medial cutaneous antebrachial-
+腓浅神经
+Medial plantar
+Superficial peroneal
+足底内侧神经
+尺神经背侧支Dorsal branch ulnar
+Lateral plantar
+指背侧总神经Dorsal common digital-
+足底外侧神经
+Dorsal common digital
+趾背侧总神经
+Plantar common
+Palmar common digital
+digital
+掌指总神经
+趾跖总神经
+PLATE 1.28 Central and peripheral nervous systems.
+1.28中央和周围神经系统
+Cranial outflow(parasympathefic)
+颅部副交感神经
+尾巴宠物
+健康中心译制
+http:/ttahc.taobao.com
+颈前交感神经节
+椎前交感神经节
+Cranial cervical ganglian
+Prevertebral sympathetic ganglia
+胸腰交感神经
+荐部副交感神经
+Thoracolumbarouflow(sympathetic)
+Sacral outflow (parasympathetic)
+骨盆副交感神经
+Pelvic nerve
+颈部迷走交感干
+Vagosympathetic trunk
+盆腔脏器交感神经
+Vertebral nerve椎交感神经
+Sympathetic nerves to
+pelvic organs
+Middle cervical ganglion
+颈中交感神经节
+Cervicothoracic ganglion
+颈胸交感神经节
+腹腔脏器交感神经
+Sympathetic vertebral ganglia
+Sympathetic nerves to
+脊椎交感神经节
+abdominal organs
+Vagal (parasympathetic) nerve
+abdominal & thoracic branches
+胸腹部副交感神经支
+PLATE 1.29 Autonomic nervous system: Sym. = Sympathetic division and Para. = Parasympathetic division.
+1.29植物性神经：交感神经，副交感神经
+A.
+B.
+Olfactory bulb 嗅球
+巴宠物健康中心译制
+嗅觉神经1
+Longitudinal fssure 纵裂
+嗅球
+//ttanic.taobao.com
+Cruciate sulcus交叉沟
+视神经
+-Optic chiasm
+右大脑半球
+视交叉
+动眼神经~
+Right cerebral
+Sulci
+hemisphere
+脑沟
+滑车神经V
+三叉神经V~
+Gyri
+脑回
+Pons
+脑桥
+面神经VI~
+前庭蜗神经VI
+外展神经VI
+舌咽神经IX
+Medulla oblongata
+迷走神经X
+延髓
+XI1~
+C
+舌下神经
+Cerebellum
+Cerebellum
+小脑
+小脑
+脑回
+副神经
+Gyri
+Corpus callosum
+肼眠体
+Spinal cord
+小脑叶
+脊髓
+>Folia of cerebellum
+Septum pellucidum-
+透明隔
+Thalamus
+丘脑
+脑桥
+Pons
+ Medula cblongata 延髓
+Olfactory bulb-
+嗅球
+Hypothalamus下丘脑
+视交叉chiasm
+Optic
+Pituitarygland(hypophysiscerebri脑垂体
+右视神经Rightopticnerve
+PLATE 1.30 Brain: A. Dorsal, B, Ventral (cranial nerves I-XII), and C. Midsagittal views. I-olfactory. II-optic, II-oculomotor, IV-trochlear,
+V-trigeminal,VI-abducens.VII-facial, VIII-vestibulocochlear, IX-glossopharyngeal, X-vagus, XI-accessory, XII-hypoglossal nerves.
+31
+1.30脑部解剖：A.背侧视图，B.复侧视图（脑神经I-I-XII），C.正中矢状面视图。
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+第二章
+猫
+2.1
+雄性短毛猫侧面视图
+2.2
+雌性猫侧面视圈, 方位指引图
+2.3
+解剖学分区
+2.4
+骨架
+2.5
+雄猫的表层肌肉和筋膜
+2.6
+雌猫表层肌肉
+2.7
+雄猫的中层肌肉
+2.8
+母猫左侧深部肌肉和内脏解剖
+2.9
+头部解剖
+2.10口腔
+2.11猫耳部
+2. 12 猫眼部解剖
+2.13 胃和肠道
+2.14直肠和肛门部
+2.15前肢
+2. 16 前掌和后跖解剖
+2. 17 公猫胸腔， 腹腔， 盆腔的脏器和骨骼
+2.18 猫胸腔， 腹腔， 盆腔的脏器和骨骼
+2.19公猫生殖系统解部
+2.20母猫生殖系统解剖
+2.21 猫的主要静脉
+2.22猫主要动脉
+2.23 内分泌器官和淋巴结
+2.24猫神经系统分布
+2.25 植物性神经
+2.26猫大脑解剖
+小居宠物健康中心译制
+httpinna/ttahc.tad
+冠部
+gtrowo.com
+脊部
+眼眶
+Crest -
+Orbit
+肩部
+腰部
+背部
+髋结点
+Shoulder
+/Stop
+Point of hip
+Loin
+Back
+凹点
+鼻口部
+Muzzle
+鼻
+Flew
+唇
+Neck
+Tactile hairs
+尾部Tail～
+颈部
+触须
+Point of shoulder
+肩关节
+Chest
+Thigh
+胸
+股部
+胸部
+Arm
+Leg -
+Flank
+臂部
+腿部
+腹侧
+Thorax/
+Abdomen
+Stifle
+腹部
+Elbow
+Forearm
+(knee)
+肘关节
+前臂
+膝关节
+snde 
+Hock
+(tarsus)
+悬蹄
+关节
+Metacarpus掌
+Dewclaw-
+Metatarsus
+~Digits
+跖
+指
+Hindfoot后足
+Forefoot前足
+Footpad
+指垫
+PLATE 2.1 Lateral view of the male cat (Domestic Shorthair).
+2.1雄性短毛猫侧面视图
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+DORSAL
+背侧
+头侧
+ROSTRAL
+CRANIAL
+前颅侧
+CAUDAL
+尾侧
+PROXIMAL
+DISTAL
+1近端
+远端
+腹侧
+VENTRAL
+背侧
+背侧
+DORSAL
+DORSAL
+PALMAR
+PLANTAR
+前肢掌侧
+后肢趾侧
+PLATE 2.2 Lateral view of the female cat, directional terms.
+2.2雌性猫侧面视图，方位指引图
+小尾巴宠物健康中心译制
+颈背侧区http://ttahic.taob
+颅区
+前腹部/季肋部
+Cranial abdominal
+肋部
+中腹部?
+Dorsal cervical
+肩胛部
+髋结节区
+胸椎部
+Costal
+Middle abdominal
+肩胛间区
+Scapular
+Coxal tuber
+腰部
+Thoracic
+Interscapular
+荐骨区
+Lumbar
+Sacral
+髋关节区
+Trochanteric
+尾侧区
+Caudal
+臀区
+Gluteal
+Ventral cervical
+颈腹侧区
+股部
+Femoral
+膝关节区
+Brachial
+Genual
+臂部
+小腿部
+Caudal
+Crural
+Xiphoid
+abdominal
+剑状软骨区
+后腹部
+Antebrachial
+Umbilical
+Sternal
+Tarsal
+前臂部
+部
+脐区
+胸骨区
+腕部
+Carpal
+掌部
+Metatarsal
+跖部
+Metacarpal
+趾部
+Digital
+Digital ~
+指部
+PLATE 2.3 Body rcgions.
+2.3 解剖学分区
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+鼻骨
+Nasal bone
+额骨
+颧骨弓
+Frontal bone
+/Zygomatic bone
+上颌骨
+Maxilla
+Occpital bone 枕骨
+第13胸椎
+第1腰椎
+寰椎
+Cervical7第7颈椎
+Thoracic 13
+jLumbar 1
+第1胸椎
+Thoracic 1
+/Axis
+第7腰椎
+A
+Lumbar7
+第3荐椎
+Temporal
+Bone颞骨
+Sacral3
+Mandible
+Rib13
+尾椎骨
+下颌骨
+第13肋骨
+肩胛骨scapula
+Caudal vertebrae
+Ilium
+Costal
+肋软骨
+cartilages
+骼骨
+Hamateprocess
+坐骨
+Xiphoid process
+钩突
+of sternum
+Ischium
+第3肋骨Rib3
+Body of sternum
+胸骨剑突
+胸骨体
+Pubis
+肱骨
+Patella
+耻骨
+Humerus
+骨
+Femur
+侥骨
+股骨
+Radius
+Tibia
+胫骨
+尺骨
+UIna
+Fibula
+腕骨
+腓骨
+Carpal bones
+掌骨
+Tarsal
+Metacarpal bones 
+指骨
+Metatarsal bones
+Phalanges
+跖骨
+Phalanges
+趾骨
+PLATE 2.4 Skeleton.
+2.4骨骼
+小尾巴宠物健康中心译制
+颈扩肌
+http://ttab
+bao.com
+Platysma m.
+胸椎筋膜
+躯干皮肌
+Thoracolumbar fascia
+Cutaneous trunk m.
+臀肌膜
+Gluteal fascia
+Cutaneous neck m.
+颈浅括约肌
+Omobrachial fascia
+肩臂筋膜
+Lateral femoral
+fascia
+阔筋膜
+Crural fascia
+Antebrachial
+fascia
+小腿筋膜
+前臂筋膜
+PLATE 2.5 Cutaneous muscles and major fasciae of the male.
+2.5雄猫的表层肌肉和筋膜
+小尾巴宠物健康中心译制
+颞肌
+额肌
+http://ttahc.taobao.com
+Temporal
+腮耳肌
+Frontal
+Parotidomandibular
+眼轮匝肌
+腹内斜肌
+Ocular
+Sternocephalic胸头肌
+orbicular
+背阔肌
+缝匠肌
+; Internal abdominal oblique
+Cleidocervical 锁颈肌
+阔筋膜张肌
+Dorsal latissimus
+Sartorial
+Tensor of fascia lata
+Trapezius 斜方肌
+External abdominal
+Middlegluteal 臀中肌
+(cervical & thoracic)
+oblique、腹外斜肌
+Superficial gluteal臀浅肌
+Caudalfemorai股后肌
+Dorsolateral
+sacrocaudal
+背侧外斜角肌
+二腹肌Digastric
+咬肌Masseter
+Ventrolateral
+sacrocaudal
+胸骨舌骨肌Stermchyoid/
+背侧外斜角肌
+肩胛横突肌Omotransverse
+Semitendinous
+半腱肌
+冈下肌 Infraspinate
+Femoral biceps
+三角肌Deltid
+股二头肌
+胸深肌
+锁臂肌Cleidobrachial
+Deep pectoral
+腕尺侧屈肌
+Uinar carpal flexor
+胫骨前肌
+Cranial
+臂肌Brachioradial
+ Ulnar carpal
+tibial
+extensor腕尺侧伸肌
+趾长屈肌
+Lateral digital
+Long digital /
+腕挠侧伸肌 Radial carpal 
+extensor
+指外侧伸肌
+extensor
+exfensor
+腓骨长肌 Long fibular
+指总肌
+Common digital
+extensor
+比目鱼肌 Soleus
+Gastrocnemius
+lateral head
+胖肠肌外侧头
+Long digital extensor
+拇长伸肌
+趾长屈肌
+Short fibular
+Long abductor
+啡骨短肌
+of pollex
+PLATE 2.6 Supcrficial musclcs (mm) of thc femalc.
+2.6雌猫表层肌肉
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+胸最长肌
+夹肌
+Long thoracic
+Splenius
+背棘肌
+头最长肌Longest capital
+脊半棘肌 Spinal and semispinal
+Dorsal spinal
+菱形肌Rhomboids
+股外肌 Lateral vast
+Ventral serrated
+thoracic
+冈下肌Infraspinate 
+臀深肌Deep gluteal
+胸侧锯肌
+犁状肌 Piriform
+Major teres
+大圆肌
+上子肌 superior gemellus
+尾骨肌Coccygeal
+闭子孔内肌 Intermal obturator、
+下子子肌 Inferior gemellus.
+Semimembranous
+Mylohyoid下颌舌骨肌
+半膜肌
+Stermohyoid胸甲状舌骨肌
+Stermothyroid胸甲状肌
+股内收肌
+Esophagus食道
+Femoral
+Cleidomastid锁臂肌
+adductor
+Ventralscapularelevator腹肩用提肌
+Supraspinate 冈上肌
+Deltoid三角肌
+Plantaris
+趾肌
+Brachial ticepsaccessoryhead臂三头肌副头
+Straight abdominal m.
+腹直肌肋间外肌
+Brachial biceps 臂三头肌
+Soleus-
+腹横肌
+Extemal intercostal
+Brachial 臂肌
+比目鱼肌
+Transverse abdominal
+Lateral ulnar
+Brachioradial 臂挠肌
+Long digital
+尺外侧肌
+extensor
+Radial carpal extensor
+腕挠侧伸肌
+Long
+fibular
+趾长伸肌
+Supinator旋后肌
+腓骨长肌
+Ulnar carpal flexor
+腕尺侧屈肌
+Long abductor pollex拇长展肌
+PLATE 2.7 Middle layer of muscles and in situ viscera of the male.
+2.7雄猫的中层肌肉
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+Long capital 头长肌
+Complexm.头半棘肌（复肌）
+脊横肌
+Skull头骨
+Semispinal capital m. 头半棘肌
+Transversespinal m.
+胸最长肌
+/ Longest lumbar m.
+输卵管
+Ventral cranial serrated m.颈腹侧锯肌
+Kidney,
+Ovarian duct
+Spinal and semispinal m.
+Ovary
+肾脏
+/llicostallumbarm.腰客肋肌
+棘半棘肌
+卵巢
+Ureter输尿管
+降结肠
+Descending colon
+Left uterine horn
+左子宫角
+颜舌骨肌Geniohyoid m.
+骼小肌
+Capsular m.
+舌骨舌肌 Hyoglossal m.
+ Small intestine
+肩胛横突肌Omotransverse
+(jejunum)小胶
+股内肌
+Brachial triceps m.
+Medial vast m.
+Femoral adductor m.
+股内收肌
+Brachial m.
+臂肌
+肺脏
+Lungs
+Heart
+Anconeal m.
+Liver
+胃
+心脏
+肝脏stomach
+肘后肌
+Spleen'
+Long extensor of
+脾脏
+ pollex m.
+指长伸肌
+Supinator m.
+旋后肌
+Interosseous
+Deep digital
+ligament
+flexor m.
+骨间韧带
+Long abductor of
+趾深屈肌
+Long flexor of
+pollex m.
+halluxm.
+拇长展肌
+拇长屈肌
+PLATE 2.8 Left lateral view deep muscles and in situ viscera of the female.
+2.8母猫左侧深部肌肉和内脏解剖
+小尾巴宠物健康中心译制
+中间块
+大脑半球
+头骨
+Intermediate mass;
+Cerebral hemisphere
+http://ttahc.taobao.com
+A
+Cranium
+头前斜肌
+Corpus callosum阱体
+Cranial oblique
+capital m,
+Pituitary(hypophysis）脑垂体
+寰椎Atlas
+Frontal sinus额窦
+夹肌Splenius m.
+Cerebellum
+Ethmoidal concha
+筛鼻甲
+Nasal concha
+鼻甲
+脑干
+Vestibule 前庭
+Biventor
+Brainstem
+颈
+腹肌ofneck
+软领
+Hard palate 硬颚
+Soft palate
+枢椎Axis
+Phyarynx
+Sphenoid sinus
+蝶窦
+Aucditory tube opening咽鼓管口
+B.
+Long
+Frenulum
+舌系带
+额骨
+食道Esophagus
+Frontal bone
+顶骨
+会厌
+气管Trachea
+Parietal bone
+Epiglottis
+下颌舌骨肌
+Cricoid cartilage
+Mylohyoid m.
+颞骨
+轮状软骨
+Vocal cord
+Basihyoid bone
+Mandible
+Genioglossal m.
+Temporal
+舌骨体
+声鬟
+Thyroid carilage
+下颚骨
+bone
+颜舌肌
+甲状软骨
+枕骨
+Occipital bone
+上颌骨
+Maxilla
+枕踝
+Occipital condyle
+鼓泡
+日齿
+Tympanic bulla
+,Molar
+犬齿
+Zygomatic bone
+Premolar Canine
+歡骨
+前白齿
+Incisor
+切齿
+Mandible
+下颚骨
+PLATE 2.9 A. Median section of the head. B. Skull and dentition
+2.9A.头部解剖.B.头骨和牙齿解剖
+小尾巴宠物健康中心译制
+A.
+B
+/ttahc.taobao.com
+左叶(甲状腺)
+Left lobe
+(thyroid gland)
+-Esophagus食道
+ Nasal planum 鼻平面
+Trachea气管
+Laryngopharynx咽喉
+喉口
+Laryngeal
+entrance
+Philtrum人中
+扁桃体
+Sott palate 软
+Palatine
+会厌
+tonsils
+聘咽弓
+Epigloftis
+Palatopharyngeal arch
+喉口
+Soft palate
+扁桃体
+'Laryngeal entrance
+软
+Palatine
+会厌
+tonsil
+Epiglottis
+Root of
+叶状乳头
+Foliate papillae
+Vallate papillae
+轮廓乳头
+Body of tongue
+舌
+菌状乳头
+Fungifarm papillae
+Filiform papillae
+丝状乳头
+舌尖
+Apex
+PLATE 2.10 Oral cavity: A. View (in situ) of pharynx, tonsils, and epiglottis, B. View (in vivo) tongue, tonsils, pharynx, and epiglottis.
+2.10口腔：A.咽，扁桃体，会厌，B.舌，扁桃体，咽，会厌
+小尾巴宠物健康中心译制
+半规管
+http://ttahc.taobao.com
+Pinna耳廓
+B.
+Semicircular canals
+Utricle椭圆囊
+前庭
+耳廓软骨
+Vestibule
+Auricular cartilage
+砧骨Incus
+耳蜗
+Malleus
+Cochlea
+锤骨
+颞骨岩部
+Petrous
+Extermal
+auditory
+Stapes
+temporal
+骨
+bone
+meatus
+外耳道
+颞肌
+Temporal m.
+外耳道(垂直部)
+鼓膜（耳膜）
+External ear canal
+颞骨
+(vertical part)
+Eardrum
+Temporal bone
+听小骨
+耳廓软骨
+Auditory ossicles
+Auditory
+Auricular cartilage
+耳蜗
+tube.
+Cochlea
+咽鼓管
+外耳道(水平部)
+External ear canal
+中耳鼓室
+1Tympanic bulla
+(horizontal part)
+Tympanic cavity
+鼓泡
+of middle ear
+Auditorytube咽鼓管
+Tympanic bulla鼓泡
+Anular cartilage
+环状软骨
+Tympanicmembrane（eardrum）鼓膜（耳膜）
+PLATE 2.11 Cat ear: A. The external, middle, and inner ear, B. Middle and inner ear.
+2.11猫耳部：A.外耳，中耳，内耳，B.中耳和内耳
+小尾巴宠物健康中心译制
+泪腺
+http://ttahc.taobao.com
+Lacrimal gland
+外毗
+Pupil瞳孔
+Lateral commissure
+Third eyelid
+巩膜 Sclera
+第三眼
+Lacrimalcanaliculus泪小管
+结膜Conjunctiva-
+Iris
+Lacrimal caruncle泪阜
+Medialcommissure内脸连合
+脸板腺导管
+Lacrimal sac泪囊
+C.
+Tarsal gland
+背侧直肌
+openings
+鼻泪管
+/Dorsal straight m.
+Zonular fibers
+Nasolacrimal
+小带韧带
+第三眼脸Thirdeyelid
+duct
+睫状体
+Sclera巩膜
+Ciliary body
+外毗
+Lacrimal
+punctum
+Posterior
+chamber
+脉络膜
+Gland of third eyelid-
+后房
+Choroid/contains
+第三眼脸腺
+Iris-
+tapetum
+虹膜
+B.
+视网膜
+Cornea.
+Optic retina
+角膜
+泪小管
+视神经乳头
+Lacrimal
+Vitreous body
+Optic disc
+Lens
+canaliculi
+Opticnerve
+Pupil
+视神经
+瞳孔
+泪囊 Lacrimal sac
+Anterior
+鼻泪管Nasolacrimal duct
+chamber
+前房
+Blood vessles to retina
+视网膜血管丛
+下鼻点Nasalpunctum
+腹侧直肌
+Ventral straight m.
+PLATE 2.12 The feline eye: A. Superficial anatomy and accessory structures, B. Nasolacramal apparatus, C. Sagittal section of eyeball.
+2.12猫眼部解剖：A.浅层结构和附属器官；B.鼻泪管；C.眼球
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+Esophagus食道
+B.
+胃小弯
+Lesser curvature
+Cardia责门
+贲门腺区
+食道区
+Cardiac gland
+Fundus
+Esophageal
+region
+胃底
+胆管
+幽门括约肌
+region
+Greater
+Bile duct
+Pyloric sphincter
+Body
+curvature
+胃体
+幽门腺区
+Pyloric gland
+Pylorus
+十二指肠大乳头
+region
+幽门
+Major duodenal
+papilla
+升结肠
+Duodenum
+Ascending colon
+十二指肠小乳头
+十
+二指肠
+Minorduodenal~
+papilla
+Pancreatic
+ducts
+Cecum
+空肠
+胰腺管
+盲肠
+Proper gastric
+Jejunum/
+gland region
+胃腺区
+lleum'
+回肠
+PLATE 2.13 A. Isolated stomach and intestines. B. Sagittal section of stomach and portion of duodenum.
+2.13A.胃和肠道；B.胃和十二指肠矢状面
+小尾巴宠物健康中心译制
+横结肠
+B.
+Transverse colon
+http://ttahc.taobao.com
+C.
+升结肠
+Ascending
+降结肠
+colon
+Descending
+colon
+lleum
+盲肠
+回肠
+Cecum
+A
+腹膜
+Peritoneum
+升结肠
+降结肠
+Ascending
+Descending
+直肠
+colon
+colon
+Rectum
+脂肪组织
+回肠乳头
+直肠环状肌
+Adipose
+ lleal papilla
+Circular muscle
+ tissue
+of rectum
+回肠
+肛门柱状区
+肛直肠线
+/ Columnar zone 
+lleum
+ of anus 
+Anorectal line
+肛门腺管口
+Opening of duct
+of anal sac
+Left anal sac
+-Right anal
+左肛门腺
+sac右肛门腺
+D.
+Internal anal
+Anal canal
+Rectum
+External anal
+Cecum
+直肠
+sphincter m.
+肛管
+Anus
+盲肠
+肛门内括约肌
+sphincter m.
+肛门
+肛门外括约肌
+Cutaneous
+zone of anus
+肛门皮肤区
+Cutaneous zone
+肛门皮肤区
+Duct of anal sac
+肛门腺管
+Anal sac
+肛门腺
+2.14A.回盲联合部；B.结肠：C.直肠和肛门腺；D.肛门腺外部
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+A
+B.
+腕骨垫
+第2掌骨
+Carpal pad
+ 2nd metacarpal bone
+腕骨垫
+Carpal pad
+指总伸肌腱
+指浅屈肌腱
+Comman digital extensortendon
+Superficial digital
+flexor tendon
+籽骨
+指深屈肌腱
+Sesamoid bone
+第1指
+骨间肌伸肌带
+第3指
+Deep digital
+flexor tendon
+Extensorband of interosseousmm.
+Dew claw 1st digit
+/ 3rd digit
+(retracted)
+Combined digital
+近节指骨
+extensor tendons
+指伸肌腱联合
+Proximal phalanx-
+爪
+Claw
+第2指
+近侧环状韧带
+Dorsal
+Proximal anular.
+elastic lig.
+ 2nd digit 
+ligament
+背侧弹性韧带
+近侧指环状韧带
+Proximal digital
+Claws爪
+anular ligament
+掌垫
+Distal digital anular
+远节指骨
+Metacarpal pad
+Digital pads
+Distal phalanx
+ligament
+指垫
+远侧指环状韧带
+Deep digital
+2nd digit
+flexor tendon
+第2指
+Middle phalanx
+指深屈肌腱
+中节指骨
+PLATE 2.15 Forepaw: A. Medial superficial view. B. Medial deep view.
+2.15前肢：A.浅层：B.深层
+小尾巴宠物健康中心译制
+C.
+http://ttahc.taobao.com
+腕骨垫
+第1指
+1st digit
+跖骨垫
+Metatarsal
+掌骨垫
+pad
+Metacarpal
+第5趾
+ped
+B.
+5th digit
+D.
+趾垫
+第2趾
+2nd digit
+Digital
+第2指
+pads 
+2nd digit
+5th digit
+拇短外展肌
+第5指
+指垫
+Deep digital
+Minimal digital /
+Digital
+flexor m.
+abductor m.
+pads
+指深屈肌
+4th digit
+趾短屈肌
+副腕骨
+第4指
+3rd digit
+Short digital
+3rd digit
+Accessory
+/4th digit
+flexor m.
+第3指
+carpal bone
+第4趾
+第3趾
+蚓状肌
+Tendons of deep
+Short digital
+第5指内收肌shdgt
+Adductor of
+digital flexor m.
+Lumbrical mm.
+flexor tendons
+指深屈肌腱
+趾短屈肌腱
+Lumbrical mm.
+蚓状肌
+Cut ends of
+superficial flexorm.
+浅屈肌
+Digital
+anular ligs.
+Plantar anular ligs.
+趾环状韧带
+掌环状韧带
+PLATE 2.16 Cat paw: A. Palmar view forepaw, B. Palmar view of deep dissection of forepaw.
+C. Plantar view of hindpaw, D. Plantar view of superficial dissection of hindpaw.
+2.16前掌（A，B)和后跖解剖
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+十二指肠
+肝尾叶
+Duodenum
+右肾
+肺右后叶
+Caudal lobe of liver
+输尿管
+肝右叶
+Right kidney
+Right caudal
+降结肠
+Right lateral lobe of liver
+lobe of lung
+Ureter
+Descending colon
+尿道
+Prostate
+Right cranial
+Urethra
+lobe of lung
+前列腺
+肺右前叶
+直肠 Rectum
+Bulbourethral gland
+尿道球腺
+膀胱
+Urinary bladder
+肺右中叶
+Testis
+/Deferent duct
+Right middle
+睾丸
+输精管
+lobe of lung
+Penis
+阴茎
+Heart
+心脏
+Small intestine
+Right middle
+aleh
+(jejunum)
+lobe of liver
+小肠
+Quadrate lobe
+肝右中叶
+of liver
+肝方形叶
+PLATE 2.17 Right lateral view of thoracic, abdominal, and pelvic viscera related to the skeleton of the male.
+2.17公猫胸腔，腹腔，盆腔的脏器和骨骼（右侧视图）
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+脾
+胃
+Spleen
+左肾
+左卵巢
+输卵管
+左肺后叶
+Stomach
+Left kidney
+Left ovary
+Uterine tube
+Left lung caudal lobe
+Ureter输尿管
+Descending colon降结肠
+Leftuterine horn子宫角
+Rectum直肠
+尿道
+Vagina
+IUrethra
+阴道
+Urinary bladder
+膀胱
+肺前叶前部
+Heart
+Small intestine
+Cranial part of
+心脏
+(jejunum)
+cranial lobe of
+Left lateral
+小肠
+Buni
+lobe of liver
+Caudal part of
+Left medial
+肝左叶
+cranial lobe of lung
+lobe of liver
+肺前叶后部
+肝左中叶
+PLATE 2.18 Left lateral view of thoracic, abdominal and pelvic viscera related to the skeleton of the female.
+2.18猫胸腔，腹腔，盆腔的脏器和骨骼（左侧视图）
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+前列腺
+直肠
+Prostate
+Rectum
+尿道肌
+尿道球腺
+Urethral m.
+Bulbourethral gland
+肛门内括约肌
+External anal sphincter m.
+Ureter
+输尿管
+Rectococcygeous m.
+直肠尾骨肌
+Testiculara.&v睾丸动脉/静脉
+~Descending colon
+球海绵体肌Bulbospongiousm.
+降结肠
+阴茎缩肌Retractor penis m.
+膀胱
+ Urinary bladder
+阴囊Scrotum
+睾丸Testis
+penis
+Left gracilis m
+Glans penis
+左股薄肌
+龟头
+Deferent duct
+Prepuce
+盆膈
+输精管
+Ventral abdominal wall
+阴茎包皮
+Floor of pelvis
+Spermatic cord
+Neck of bladder
+腹壁
+(pubic & ischial bones)
+精索
+膀胱颈
+PLATE 2.19 Relations of the reproductive organs of the male.
+2.19公猫生殖系统解剖
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+输尿管
+Ureter
+肛门囊
+Anal sac
+左子宫角
+Left uterine
+horn
+Rectum
+直肠 
+External anal
+肛门内括约肌
+sphincter
+Vagina 阴道
+阴道前庭
+Anus 肛门
+Vestibule
+Right uterine
+右子宫角
+horn
+Vulva阴门
+Symphysial tendon
+子宫体 Bodyofuterus
+联合腱
+vulva
+膀胱Urinary bladder
+Floor of the pelvis
+盆膈
+(pubic symphysis)
+Superficial inguinal Inn
+腹股沟浅淋巴结
+Urethra
+Gracilis
+尿道
+股薄肌
+Cut edge of skin
+皮肤
+PLATE 2.20 Left lateral view of the relations of the reproductve organs of the female.
+2.20母猫生殖系统解剖
+小尾居物健康中心译制
+Superficial
+翼丛
+睾丸/卵巢静脉
+上颌静脉Maxilary
+Pterygoid
+后腔静脉
+plexus
+Testicular/ovarian
+椎静脉Vertebral
+Caudal vena cava
+腰静脉Lumbar
+面深静脉
+肾静脉yRenal
+颈内静脉Internal jugular
+Deep
+旋深静脉Deepcircumflexiliac
+肋间静脉
+Brachiocephalic
+lntercostal
+facial
+头臂静脉
+左侧骼总静脉Rightcommoniliac
+Cranial vena cava
+肝静脉
+前腔静脉
+臀前静脉Cranial gluteal
+Hepatic
+荐正中静脉Mediansacral
+面静脉
+骼内静脉Internal iliac
+Facial
+Lingual舌静脉
+阴部内静脉Internalpudendal
+Linguofacial舌面静脉
+臀后静脉
+Externaljugular颈外静脉
+Caudal gluteal
+Cephalic头静脉
+External iliac
+Costocervicaltrunk肋颈静脉干
+骼外静脉
+一Subscapular肩胛下静脉
+阴部外静脉
+Axilary腋静脉
+External
+—Internal thoracic胸廓内静脉
+pudendal
+Brachial臂静脉
+股静脉Femoral
+尺侧副静脉
+External thoracic
+Caudal
+Collateral
+胸廓外静脉
+荐正中静脉
+epigastric
+ulnar
+Median
+腹壁后静脉
+sacral
+Medial
+Cephalic头静脉
+saphenous
+Cranial-
+隐中静脉
+interosseous
+骨间静脉
+Cranial br.of
+medial saphenous
+Median
+隐中静脉前支
+正中静脉
+Lateral
+UInar
+saphenous
+Cranial tibial
+尺静脉
+外侧隐静脉
+胫前静脉
+Caudal br.of
+Accessory cephalic
+medial saphenous
+副头静脉
+隐中静脉后支
+PLATE 2.21 Major veins.
+2.21猫的主要静脉
+小尾巴宠物健康中心译制
+眼脸动脉
+耳后动脉
+Palpebral
+Caudalauricular颗浅动脉
+http://ttahc.taobao.com
+/Superficial temporal
+腹前动脉
+动脉网
+Occipital枕动脉
+肋间背侧动脉
+Cranialabdominal
+Rete mirabile
+Commoncarotid颈总动脉
+Dorsal intercostal
+腹腔动脉
+Lumbar腰动脉
+上颌动脉
+Vertebral椎动脉
+Celiac
+肠系膜后动脉
+Testicular/ovarian睾丸/卵巢动脉
+Maxillary
+/Superficialcervical颈浅动脉
+Cranial mesenteric
+Costocervical肋颈动脉
+Caudalmesenteric肠系膜前动脉
+Renal
+Subclavian
+Aorta
+肾动脉
+主动脉
+Deepcircumflexiliac旋骼深动脉
+锁骨下动脉
+Commoniliac总动脉
+Cranialgluteal臀前动脉
+面动脉Facial
+Internaliliac骼内动脉
+Externaliliac骼外动脉
+舌动脉Lingual
+颈外动脉 External carotid /
+Mediansacral荐正中动脉
+腋动脉Axillary
+Caudalgluteal臀后动脉
+肋间浅动脉Superiorintercostal
+Middlerectal直肠中动脉
+胸外动脉Extermal thoracic
+Deepfemoral股深动脉
+旋肱动脉Circumflexhumeral
+Femoral股动脉
+Saphenous隐动脉
+Internal thoracic
+胸内动脉
+Collateral
+Distal caudal
+ulnar
+Caudal
+臂动脉Brachial
+femoral
+尺侧副动脉
+epigastric
+股后动脉末梢
+腹壁后动脉
+Medial saphenous
+臂浅动脉
+Cranial
+隐中动脉
+ Superficial brachial
+Popliteal
+interosseous
+胆动脉
+前骨间动脉
+Cranial tibial
+Ulnar
+胫前动脉
+尺动脉
+隐中动脉前支
+Cranial
+Median
+Cranial br.medial
+隐中动脉后支
+superficial
+正中动脉
+saphenous
+Caudal br.medial
+antebrachial
+saphenous
+前臂前浅动脉
+烧动脉
+Radial
+PLATE 2.22 Major arteries.
+2.22猫主要动脉
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+脑垂体
+/Pituitary
+咽后外侧淋巴结
+Lateral retropharyngeal In
+腰淋巴结
+腮腺淋巴结
+咽后内侧淋巴结
+Medial retropharyngeal In
+肾上腺
+Parotid In
+Aortic lumbar Inn
+气管支气管淋巴结
+Adrenal gland
+Ovary卵巢
+,Tracheobronchial Inn
+Dorsal thoracic Inn
+胸背淋巴结
+SacrallInn荐淋巴结
+背侧/腹侧颈淋巴结
+Dorsal & ventral
+肾脏
+superficial cervical Inn
+腹股沟浅淋巴结
+下颌淋巴结Mandibular Inn
+Kidney
+Superficial inguinal In
+外部甲状旁腺
+External parathyroid
+Pancreas
+坐骨淋巴结
+胰腺
+甲状腺Thyroid gland/
+Ischiatic In
+00
+颈深淋巴结Deep cervical lIn
+Celiac Inn
+腹腔淋巴结
+Testis睾丸
+腋淋巴结 Axilary In
+心脏Heart
+Accessory
+axillary In
+Caudal /
+副腋淋巴结
+epigastric Inn
+腹壁后淋巴结
+Popliteal In
+胭淋巴结
+PLATE 2.23 Endocrine organs and peripheral lymph nodes.
+2.23内分泌器官和淋巴结
+小尾巴宠物健康中心译制
+大脑
+Cerebrum
+http://ttahc.taobao.com
+/Vi前庭蜗神经
+嗅球
+XI舌下神经
+Olfactory bulb
+颈神经
+外侧皮神经
+脊椎神经
+Cervical
+胸背神经
+Lateral cutaneaus
+臂神经丛
+Spinal cord
+Dorsal thoracic
+Brachial plexus
+Lumbosacral plexus
+腰荐神经丛
+X
+迷走神经
+臀前神经
+三叉神经V
+外展神经VI
+Cranial gluteal
+面神经VIl
+IX
+Pudendal阴部神经
+舌咽神经
+XII
+副神经
+肩胛下神经Subscapular
+Caudal cutaneous
+肩上神经Suprascapular
+femoral 臀后皮神经
+肌皮神经Musculocutaneous
+Obturator闭孔神经
+腋神经Axillary
+Sciatic坐骨神经
+桡神经Radial
+Caudal cutaneous
+sural 小腿后皮神经
+正中神经Median
+Genitofemoral
+生殖股神经
+Femoral
+尺神经Unar
+股神经
+Lateral cutaneous
+sural 小腿外侧皮神经
+Deep peroneal
+腓深神经
+Superficial peroneal
+排浅神经
+Tibial
+腔神经
+Dorsal common digital
+趾总神经
+Medial and
+Dorsal
+掌指总神经
+lateral plantar
+common
+足底内侧/
+digital
+Palmarcommon
+外侧神经
+指背侧总神经
+digital
+VII-facial, VIIl-vestibulocochlear, IX-glossopharyngeal, X-vagus, XI-hypoglossal, XII-accessory nerves.
+2.24猫神经系统分布
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+颅部副交感神经
+Cranial outflow (para.)
+Cranial cervical ganglion(sym.）颈前交感神经节
+颈部迷走交感干
+胸腰交感神经
+Vagosympathetic
+Thoracolumbar outflow (sym.)
+trunk
+肠系膜后交感神经节
+Caudal mesenteric
+ganglion (sym.)
+Sacral outflow (para)
+荐部副交感神经
+椎交感神经
+Pelvicnerve
+Vagus nerve (para.)
+骨盆副交感神经
+颈中交感神经节
+Middle cervical
+ganglion (sym.)
+Cervicothoracic
+ganglion (sym.)
+颈胸交感神经节
+Vertebral sympathetic
+ganglia
+脊椎交感神经节
+肠系膜前交感神经节
+Cranial mesenteric ganglion(sym.)
+Celiac ganglion (sym.)
+腹腔交神经节
+Sympathetic nerves to
+Vagus nerve: abdominal
+pelvic organs
+ and thoracic parasympathetic
+盆腔脏器交感神经
+branches
+胸腹部副交感神经支
+2.25植物性神经：交感神经，副交感神经
+嗅球
+巴物健康中心译制
+A
+B.
+外侧嗅束
+嗅球
+ah嗅神经bao.com
+Lateral olfactory tract
+Olfactory bulb
+视交叉
+Optic chiasm
+梨状叶
+视神经
+Piriform lobe
+右脑
+灰结节
+Right cerebrum
+Tuber cinereum-
+IV滑车神经
+动眼神经川
+纵裂
+Sylvian
+薛氏回
+Longitudinal
+gyrus
+fissure
+三叉神经V
+-VI外展神经
+脑桥Pons
+-Trapezoid
+斜方体
+body
+面神经VIl
+前庭蜗神经VII
+Cerebellum小脑
+舌咽神经X
+迷走神经×
+Pyramids锥体
+C
+Medulla -
+舌下神经
+小脑
+oblongata Xl
+Cerebellum
+延髓
+副神经
+1st cervical n.
+第1颈神经
+Spinal cord 脊髓
+嗅球
+Olfactory bulb
+嗅神经
+副神经×
+Lateralolfactorytract外侧嗅束
+~Piriformlobe梨状叶
+脊髓
+VIIr
+Spinal cord 
+前庭蜗神经
+面神经
+VL
+Trapezoidbody斜方体
+外展神经
+VII-facial, VIII-vestibulocochlear, IX-glossopharyngeal, X-vagus, XI-accessory, XII-hypoglossal nerves.
+2.26猫大脑解剖
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+第三章
+兔
+3.1
+公兔右侧视图
+3.2
+解部学分区
+3.3
+骨架
+3.4
+内分泌器官和淋巴结
+3.5
+公兔浅层肌肉
+3.6
+母兔深层肌肉
+3.7
+头部解剖
+3.8
+口腔解剖
+3.9
+公兔胸腔，腹腔和盆腔脏器
+3.10母兔胸腔，腹腔，盆腔的脏器
+3.11公兔生殖器官
+3.12母兔生殖器官
+3.13中央和周围神经系统
+3.14大脑
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+Pinna耳廓
+Crown冠部
+/ Orbit眼眶
+Face面部
+背部Back
+肩部
+髋结点
+Loin腰部
+Nostril鼻孔
+Shoulder,
+Point of hip
+臀部Rump
+Muzzle
+鼻口部
+股部Thigh
+Neck颈部
+Dewlap颈部垂肉
+Point of shoulder
+肩结节
+Abdomen
+Arm臂部
+尾Tail~
+Flank腹侧
+Stifle(kne)膝关节
+Thorax
+胸部
+Elbow
+肘部
+Forearm前臂
+Leg腿部
+Digits 趾
+腕部Carpus
+Digits指
+关节
+Hock
+(tarsus)
+Metatarsus
+Metacarpus
+跖部
+Hindfoot/
+掌部
+Forefoot前足
+后足
+62
+Plate 3.1 Lateral view of the male rabbit (Dalmatian Rex).
+3.1公兔右侧视图（蝶耳兔）
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+颅区
+Head
+胸椎区
+前腹部/季肋部
+肩脾间区
+Cranial abdominal
+Thoracic
+Interscapular
+Lumbar腰部
+Dorsal cervical
+颈背侧区
+Coxal tuber
+髋结节区
+Sacral荐骨区
+Ventral cervical
+Trochanteric
+颈腹侧区
+髋关节区
+Scapular
+Middle
+股部
+Femoral
+Gluteal臀区
+肩脾部
+Costal
+abdominal
+肋部
+中腹部
+臂部Brachial
+尾侧区
+Caudal
+Genual
+膝关节区
+前臂部Antebrachial
+Umbilical
+Caudal
+Sternal/
+Crural
+胸骨区
+Xiphoid
+脐区
+小腿部
+后腹部
+剑状软骨区
+Tarsal部
+Carpal腕部
+Digital
+指部
+Metacarpal掌部
+趾部Digital
+Metatarsal
+跖部
+Plate 3.2 Body regions.
+63
+3.2解剖学分区
+小尾巴宠物健康中心译制
+顶骨ttp://ttahctaobao.com
+额骨
+Parietal bone
+Frontal bone
+枕骨
+Occipital bone
+Zygomaticbone歡骨弓
+颢骨
+/Maxilla上颌骨
+寰椎Atlas
+Temporal bone
+C1
+第13胸椎
+枢椎Axis
+第1腰椎L1
+T13
+肩胛骨Scapula
+第7腰椎L7
+下颌骨
+荐骨
+Mandible
+Incisive
+Sacrum
+切齿骨
+bone
+C6第6颈椎
+第13肋骨Rib13
+尾椎骨
+Caudal
+vertebrae
+Manubrium of sternum胸骨柄
+lum髂骨
+Clavicle锁骨
+Hamate process钩状突
+胸骨体
+Body of
+Suprahamate process钩上突
+Pubus
+sternum
+耻骨
+Femur
+股骨
+Patella
+Humerus
+Xiphoid process
+骨
+ofsternum
+肱骨
+lschium
+胸骨剑突
+坐骨
+Fibula骨
+UIna
+尺骨
+Tibia胫骨
+Radius-
+Phalanges
+桡骨
+趾骨
+Phalanges
+Tarsal bones
+Carpal bones
+指骨
+骨
+Metatarsal bones
+腕骨
+/Metacarpal bones
+跖骨
+掌骨
+4
+Plate 3.3 Skeleton; C = Cervical vertebrae, T = Thoracic vertebrae, L = Lumbar vertebrae.
+3.3骨架
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+大脑
+Brain
+脑垂体
+Hypophysis
+肾脏
+胰腺
+Kidney
+;Pancreas
+胰腺淋巴结
+ Cranial mediastinal In
+巴铺
+Pancreatic In
+卵巢
+纵隔前淋巴结
+Aorticothoracic Inn
+Ovary(female)
+胸主动脉淋巴结
+腮腺淋巴结Parotid In~
+下颌淋巴结Mandibular In
+ Caudal mesenteric Inn
+甲状腺Thyroid gland
+肠系膜后淋巴结
+Caudal deep cervical Inn
+腹股沟浅淋巴结
+颈后深淋巴结
+Superficial inguinal In 
+坐骨淋巴结
+Axillary In
+Ischiatic In
+腋淋巴结
+Anorectal In-
+Caudal epigastric Inn -
+肛肠淋巴结
+心脏Heart
+腹壁后淋巴结
+Accessory axillary In
+Popliteal In
+副腋淋巴结
+胭淋巴结
+Testis
+辜丸
+(male)
+Plate 3.4 Endocrine organs and lymph nodes.
+65
+3.4内分泌器官和淋巴结
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+额盾肌
+额肌
+Frontal眼轮匝肌
+Frontoscutular
+Ocular orbicular
+Nasolabial levator
+鼻唇提肌
+腹内斜肌
+背阔肌
+Trapezius
+斜方肌（cevical&
+Internal abdominal
+Dorsal latissimus
+thoracic)
+Palpebral
+阔筋膜张肌
+oblique
+depressor
+Infraspinate
+Zygomatic
+眼眶降肌
+Tensor of fascia lata
+冈下肌
+颧肌
+臀中肌
+Medial gluteal
+Canine犬齿肌
+臀浅肌Superficil
+口轮匝肌
+gluteal
+Oral orbicular
+Buccinator颊肌
+Mental颜肌
+股二头肌
+Zygomaticomandibular 颧弓
+Femoral
+Masseter咬肌
+biceps
+Sternohyoid胸骨舌骨肌
+Sternothyroid胸甲状肌
+Omotransverse肩脾横突肌
+Cleidomastoid胸锁乳突肌
+Cleidobasilar锁骨基底肌
+Superficialpectoral胸浅肌
+胸深肌
+Deltoid (scapular&clavicular)三角肌
+Deep pectoral
+External abdominal
+Thoracic ventral
+oblique
+Brachial triceps
+serrated
+腹外斜肌
+臂三头肌
+胸腹侧锯肌
+半腱肌
+Semitendinous
+Gastrocnemius排肠肌
+66
+Plate 3.5 Superficial muscles of the male.
+3.5公兔浅层肌肉
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+夹肌
+Splenius
+前背侧锯肌
+Cranial dorsal serrated
+,Extermal intercostal肋间外肌
+菱形肌
+Spinal thoracic
+胸最长肌
+Rhomboid
+Longesf thoracic
+胸棘肌
+腰最长肌
+Infraspinate
+ Longest lumbar
+冈下肌
+臀中肌
+Medial glufeal
+肩脾提肌Scapularlevator
+Cranial
+胸锁乳突肌Sternomastoid
+腹横肌
+前展肌
+Transverse abdominal
+锁头肌Cleidocephalic
+肩朋横突肌Omotransverse
+冈上肌Supraspinate
+大圆肌Major teres
+三角肌Deltoid
+臂二头肌Brachial biceps
+臂三头肌Brachialtriceps
+腹直肌
+臂肌Brachial
+股外肌Lateral vast 拇长屈肌
+Straight abdominal/
+腕侧伸肌Radial carpal extensor
+Cammondigital extensor指总伸肌
+Long flexor of pollex
+拇长展肌Long abductor of pollex
+Lateralcarpalflexor腕外侧屈肌
+胫前肌Cranial tibial
+骨长肌Long peroneal
+Lateralcarpal extensor腕外侧伸肌
+Lateral digital extensor指外侧伸肌
+半膜肌
+趾长伸肌 Long digital extensor
+Semimembranous
+排肠肌Gastrocnemius
+Semitendinous
+半腱肌
+Platc 3.6 Dccp musclcs of thc fcmalc.
+67
+3.6母兔深层肌肉
+顶骨
+Parietal bone
+Frontal bone
+C音
+B.
+/Upper premolars
+上颌骨
+枕骨
+Maxillary
+Occipital bone
+Nasal bone鼻骨
+题骨Temporalbone
+中间块
+Incisive
+门齿骨
+大脑
+Zygomatic bone
+bone
+Intermediate mass
+Cerebrum
+颧骨
+中脑顶盖
+Hypophysis
+A
+嗅球
+Tectum
+小脑
+上鼻道
+Cerebellum
+Mandible
+ Dorsal nasal meatus
+头最长直肌
+下颌骨
+Endoturbinate筛鼻甲
+Longest straight
+背鼻甲
+capital m.
+Dorsal nasal concha
+Upper incisors
+斜方肌
+Middle nasal
+Lower molars
+上门齿
+Trapezius
+concha
+下白齿
+中鼻甲
+'Lower
+上颌骨聘突
+premolars
+Lower incisor
+Splenius
+Palatine process
+下前磨牙
+下门齿
+夹肌
+maxilla
+中鼻道
+内鼻孔Choana
+Middle nasal meatus
+Ventral nasal concha
+Pharynx
+腹鼻甲
+Oral cavity
+Hard palate
+口腔
+硬聘
+cord-
+颜舌肌
+Genioglossal m.
+上唇
+Long
+Upper lip
+食道
+Esophagus
+Upper incisors
+Cricoid cartilage
+上门齿
+轮状软骨
+Trachea
+气管
+Mandible
+Lower lip
+甲状软骨Thyroid carilage
+Soft palate
+软聘
+下颌骨
+下唇
+会厌Epiglottis
+Auditory tube opening
+Lowerincisor
+Hyoid bone
+Mandibular Inn咽鼓管口
+Mylohyoid m.
+下门齿
+舌骨
+下颌淋巴结
+下颌舌骨肌
+68
+Plate 3.7 A. Median section of the head. B. Skull and dentition.
+3.7A.头部解剖；B.头骨和牙齿
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+A
+B
+Trachea气管
+Esophagus食道
+-Leff lobe of
+左甲状腺腺叶
+鼻面
+thyroid gland
+Naris鼻孔
+Nasal planum
+Arytenoid cartilages
+勺状软骨
+Phitrum人中
+舌根
+Glottis
+Root of
+声门
+上门齿
+tongue ~
+- Upper incisors
+Epiglottis
+会厌
+Tongue舌
+Palatine
+扁桃体
+tonsil
+Sof palate软
+Foliate papillae
+叶状乳头
+Vallatepapillae
+Body of
+tongue
+轮廓乳头
+舌体
+Lower incisors
+Filiform papillae
+下门齿
+丝状乳头
+Fungiform papillae
+菌状乳头
+舌尖 Apex of
+tongue
+Plate 3.8 Oral cavity: A. Teeth and nose, B. Tongue, pharynx, and esophagus.
+69
+3.8口腔解剖：A.牙齿和鼻部；B.舌，咽，食道
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+降结肠
+输尿管
+十二指肠升部
+Descending colon
+,Ureter
+胰腺
+;Ascending
+升结肠 Ascending colon 
+duodenum
+/Pancreas
+肾脏
+肝尾突
+Kidney
+右肺后叶
+Caudate process
+空肠Jejunum\
+/liver
+Caudal lobe
+right lung
+右肺前叶
+精囊腺
+Cranial lobe
+Vesicular gland
+right lung
+前列腺Prostate,
+尿道球腺
+Bulbourethral
+gland
+直肠Rectum
+pues
+Urinary
+bladder
+膀胱
+心脏Heart
+Urethra
+Middle lobe
+尿道
+right lung
+Loop of
+右肺中叶
+wnueponp
+十二指肠弯
+IRight lobe liver
+阴茎Penis
+Deferent
+肝右叶
+duct
+Testis
+输精管
+睾丸
+Descending
+Stomach
+duodenum
+Jejunum
+1st gyrus
+胃
+十二指肠降部
+空肠
+of cecum
+Cecum
+第1盲肠回
+2nd gyrus
+盲肠
+of cecum
+Ascending
+第2盲肠回
+colon
+升结肠
+Plate 3.9 Thoracic, abdominal and pelvic viscera (in situ) of the male. Right lateral view.
+70
+3.9公兔胸腔，腹腔和盆腔脏器（右侧视图）
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+肾上腺
+肾脏
+脾脏
+降结肠
+Adrenal
+左肺后叶
+Kidney
+胃
+Spleen
+gland,
+Descending
+Caudallobe left lung 
+Ureter输尿管
+肝脏
+colon
+Stomach
+Liver 
+Ovary
+十二指肠横向部分
+Cranial lobe left lung
+左肺前叶
+卵巢
+Transverse part
+of duodenum
+Rectum直肠
+/Anus肛门
+Vaginal
+vestibule
+阴道前庭
+Vaginal
+orifice
+阴道口
+Heart
+心脏
+阴核
+Clitoris/
+Vagina阴道
+Urinarybladder
+Left uterus
+膀胱
+左侧子宫
+Mammary glands
+乳腺
+Ascending colon
+Jejunum
+3rd gyrus of cecum
+升结肠
+空肠
+1st gyrus of cecum
+第3盲肠回
+第1盲肠回
+Plate 3.10 Thoracic, abdominal, and pelvic viscera (in situ) of the female. Left lateral view.
+3.10母兔胸腔，腹腔，盆腔的脏器（左侧视图）
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+精囊腺
+阴茎缩肌
+Vesicular gland
+Retractor penis m.
+肛门外括约肌
+Extermal anal sphincter m.
+第7腰椎
+Sacrum
+L7
+荐椎
+Ureter输尿管
+肛门Anus
+Rectum直肠
+包皮腺
+Testicular
+Preputial gland
+artery&vein
+龟头 Gians penis
+睾丸动脉/静脉
+降结肠
+Body of penis
+Descending
+Prepuce
+阴茎包皮
+阴茎体
+ colon
+Urinary bladder
+ 膀胱
+睾丸Testis
+附辜Epididymis
+Bulbourethral gland
+提睾肌Cremaster m.
+尿道球腺
+Pubic bone
+Urethral m.
+耻骨
+Spermatic cord
+尿道肌
+Deferent duct
+精索
+Prostate
+输精管
+前列腺
+External abdominal
+Oblique m.
+腹外斜肌
+Plate 3.11 Relations of the reproductive organs of the male.
+3.11公兔生殖器官(左侧视图）
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+直肠尾骨肌
+Rectococcygeal m.
+第1尾椎
+第7腰椎
+荐椎
+L7
+Sacrum
+1st caudal vertebra
+输尿管Ureter~
+直肠括约肌
+Sphincter of anus
+直肠 Rectum
+Ampula of rectum
+阴道 Vagina
+阴道前庭 Vaginal 
+Anus
+vestibule
+肛门
+Left ovary
+左侧卵巢
+阴道口
+降结肠
+Vaginal orifice
+Descending colon
+Clitoris
+Urethra
+阴核
+Right uterus.
+尿道
+右侧子宫
+Caudal ramus of pubic bone
+耻骨后支
+Left uterus
+右侧子宫
+Superficial inguinal Inn
+Urinary bladder
+腹股沟浅淋巴结
+膀胱
+Straight abdominal m.
+腹直肌
+Plate 3.12 Relations of the reproductive organs of' the female.
+3.12母兔生殖器官（左侧视图)
+小尾色宠物健康中心译制
+http://ttahc.taobao.com
+小脑
+大脑
+Cerebellum
+Cerebrum
+嗅球
+Offactory bulb
+胸背侧神经
+外侧皮神经
+XI
+Dorsal thoracic
+生殖股神经
+Lateral cutaneousA
+膈神经
+Genitofemoral
+Phrenic
+Brachial plexus
+臂神经丛
+VI
+腰荐神经丛
+XII
+VI & VIlI
+Lumbosacral plexus
+股神经
+Femoral
+肌皮神经
+闭孔神经
+Musculocutaneous
+Obturator
+Axilary腋神经
+Sciatic
+坐骨神经
+Lateral thoracic胸外侧神经
+Radial 神经
+Median正中神经
+Pudendal
+阴部神经
+UInar
+Common peroneal排总神经
+尺神经
+指背侧总神经
+Deep peroneal啡深神经
+Dorsal common digital
+后皮神经Caudal-
+Supericial peroneal排浅神经
+cutaneous
+Dorsal common digital
+胫神经Tibial
+趾背侧总神经
+掌指总升级
+Medial&lateralplantar
+Palmar common digital
+足底外侧/内侧神经
+Plate 3.13 Central and peripheral nervous system. I-olfactory. II-optic, II-oculomotor, IV-trochlear, V-trigeminal. VI-abducens,
+VII-facial, VIII-vestibulocochlear, IX-glossopharyngeal, X-vagus, XI-hypoglossal, XII-accessory nerves.
+3.13中央和周围神经系统
+（I-噢神经，II-视神经，II-动眼神经，IV-滑车神经，V-三叉神经，VI-外展神经，VII-面神经，VII-前庭蜗神经，IX-舌咽神经，X-迷走神经，XI-舌下神经，XII-副神经）
+小尾巴宠物健康中心译制
+A.
+B
+Olfactorybulb嗅球
+ttp://ttahc.taobao.com
+Rostralpole吻侧柱
+嗅神经束
+Olfactory fract -
+纵裂
+- Longitudinal fissure
+大脑半球
+Cerebral hemispheres
+脑垂体
+Hypophysis
+乳头体
+中脑顶盖
+Mammillary body
+Mesencephalictectum
+尾侧柱
+-
+IV
+Caudal pole
+-Pineal gland 松果体
+脑桥Pons
+小脑
+V
+7Cerebellum
+Cerebellum
+VII&VIII
+小脑
+C.
+IX
+延髓
+Spinal medulla
+Xll
+Medulla oblongata
+脊髓
+XIl
+Dorsal median
+XI
+sulcus
+Vermis
+延髓背侧正中沟
+小脑蚓体
+Cerebral
+Cerebellum<
+hemisphere
+Spinal cord
+大脑半球
+脊髓
+小脑
+Olfactory lobe
+嗅球
+Olfactory tract
+XI
+XIl
+XIX
+嗅神经束
+Vll & VIlI
+VI
+Plate 3.14 Brain: A. dorsal view. B. ventral view, C. lateral view. I-olfactory. II-optic, II-oculomotor, IV-trochlear, V-trigeminal,VI-abducens,
+VII-facial, VII-vestibulocochlear, IX-glossopharyngeal, X-vagus, XI-hypoglossal, XII-accessory nerves.
+3.14大脑：A.背侧视图：B.腹侧视图
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+第四章
+大鼠
+雄性大鼠右侧视图
+4.1
+骨架
+4.2
+4.3
+雄性大鼠浅层肌肉
+4.4
+雌性大鼠深部肌肉
+4.5
+头部解剖
+4.6
+消化系统解剖
+4.7
+雄性大鼠骨架以及胸腔，腹腔，盆腔脏器
+4.8
+雌性大鼠骨架以及胸腔，腹腔，
+盆腔脏器
+雄性大鼠生殖系统
+4.10雌性大鼠生殖系统
+4.11大鼠中枢神经和周围神经
+4.12 植物性神经
+4.13大脑
+4.14大脑垂体
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+背部
+膝关节
+Stifle
+胸部
+肩部
+(knee)
+Shoulder
+Pinna
+Neck
+耳廓
+颈部
+外耳道
+ Extermal ear canal
+Orbit眼眶
+Rump
+臀部
+Muzzle鼻口部
+尾基部
+Base of tail 
+Nose
+鼻
+Cheek
+阴囊
+面颊
+ Scrotum
+Point of shoulder
+Arm
+肩结节
+股部Thigh
+臂部
+腿部 Leg (crus)
+Abdomen
+肘部
+Flank
+Forearm
+腹侧
+腹部
+Elbow/
+肘关节Hock（tarsus)
+前臂
+Metatarsus
+sndie
+跖部
+腕部
+后足Hindfoot
+Digits 趾
+Digits指
+Metacarpus
+掌部
+Forefoot
+前足
+Plate 4.1 Lateral view. of male rat (Hlooded)
+4.1雄性大鼠右侧视图
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+第13胸椎
+第1腰椎
+枕骨
+Lumbar 1
+肩肿骨
+Thoracic 13
+第7腰椎
+Occipital bone
+寰椎
+Scapula
+Lumbar 7
+顶骨
+Atlas
+第7颈椎
+Cervical 7
+第1荐椎
+额骨
+Parietal bone
+Axis
+枢椎
+Sacral 1
+Frontal bone 
+切齿骨 Incisive bone
+lium骼骨
+Rib13
+第13肋骨
+Caudal1第1尾椎
+bone
+颞骨
+Femur
+股骨
+Temporal
+Patella
+vertebrae
+bone
+Rib 2
+骨
+第2肋骨
+Fibula
+锁骨
+排骨
+Maxilla
+胸骨剑突
+上颌骨
+Manidible
+Clavicle
+Xiphoid process
+下颌骨
+Tibia
+Pubis
+Ischium
+Manubrium of sternum
+(sternum)
+胫骨
+耻骨
+胸骨柄
+坐骨
+Humerus
+肱骨
+Radius
+桡骨
+UIna尺骨
+Tarsal bones
+骨
+Carpal bones
+腕骨
+Metatarsal bones
+爪骨
+Metacarpal bones
+跖骨
+Unguicular bones
+Phalanges趾骨
+掌骨
+Phalanges
+指骨
+Plate 4.2 Skeleton.
+6
+4.2骨架
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+臂三头肌
+Brachial triceps
+Scapular deltoid肩肿三角肌
+背侧锯肌
+腹侧锯肌
+Cervical trapezius颈斜方肌
+胸腰筋膜
+Thoracolumbar fascia
+Dorsal serratus
+Ventral serrated
+Capitalrhomboid头菱形肌
+Cervicoauricular颈耳肌
+Tensorof the
+/Frontocutular额盾肌
+Temporal题肌
+Thoracic frapezius
+胸斜方肌
+Ocular orbicular眼轮匝肌
+臀浅肌
+Zygomatic额肌
+Dorsal latissimus
+Superficial gluteal 
+Canine犬齿肌
+背阔肌
+Nasal鼻提肌
+股二头肌
+levator
+Femoralbiceps
+腹外斜肌
+External
+abdominal
+oblique
+胸骨舌骨肌
+Buccinator颊肌
+Masseter咬肌
+Cleidomastoid胸锁乳突肌
+Semitendinous
+半腱肌
+Omatransverse肩胛横突肌
+Deltoid（clavicular&acromial parts）三角肌
+Gastrocnemius
+尺腕屈肌
+Cranial tibial
+Ulnar carpal flexor
+Brachial biceps (long & short head)臂二头肌
+腓肠肌
+胫前肌
+腕伸肌
+Radial carpal long extensor 腕挠侧长伸肌
+Long peroneal
+Ulnar carpal extensor
+指外侧伸肌
+Radialcarpal shortextensor腕烧侧短伸肌
+排长肌
+Lateral digital extensor
+Common digital
+extensor指总伸肌
+80
+Plate 4.3 Right lateral view of' superficial muscles of the male.
+4.3雄性大鼠浅层肌肉（右侧视图）
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+冈下肌
+颈菱形肌
+前背侧锯肌
+Infraspinatus
+Cervical rhomboid
+,Cranial dorsal serrated
+后背侧锯肌
+头菱形肌Capital rhomboid
+Major teres
+/ Long thoracic
+大圆肌
+ Dorsal caudal serrated
+胸长肌
+夹肌Splenius
+/Long lumbar腰长肌
+颞肌Temporal
+股四头肌外侧头
+口轮匝肌Ocularorbicular
+Femoral quadricepslateral head
+颊肌Buccinator
+Middlegluteal臀中肌
+Oral
+Large adductor大收肌
+腹内斜肌
+Intermal abdominal oblique
+Femoral biceps
+caudal part
+股二头肌尾端
+masseter
+茎突咽肌Stylohyoid
+半腱肌
+头长肌Longcapital
+肩胛横突肌
+Semitendinous
+胸骨舌骨肌Stemohyoid
+Omotransverse
+肩胖上肌Suprascapular
+Gastrocnemius排肠肌
+Brachial triceps
+背侧斜角肌Dorsal scalene
+medial head
+Straight abdominal
+Soleus比目鱼肌
+臂二头肌中端
+腹直肌
+Brachial biceps
+Lateral digital extensor
+long head
+short head
+趾外侧伸肌
+臂二头肌短头
+Plate 4.4 Left lateral view of middle and deep muscles of the female.
+81
+4.4雌性大鼠深部肌肉（左侧视图）
+小尾巴宠物健康中心译制
+四迭体
+Intermediate mass
+嗅球
+http://ttahc.taobao.com
+中间块
+视交叉
+A
+Corpora
+Olfactorylobe
+筛骨筛板
+Optic chiasma
+quadrigemina
+/ Cribriform plate of ethmoid bone
+Endoturbinates（middle conchae）内鼻甲
+头肌和颈肌
+Skull 颅骨
+Dorsal nasal concha
+Head &neck
+背鼻甲
+腹鼻甲
+muscles
+Cerebrum
+Ventral nasal concha
+大肥
+Naris鼻孔
+脑垂体
+lum
+Hypophysi
+后鼻孔Choana
+Vestibule
+Pharynx
+前庭
+脑干Brainstem
+Hard palate
+硬聘
+上唇
+脊椎Spinal cord
+Upper lip
+轮状软骨Cricoidcartilage
+颜舌肌
+左上门齿
+Genioglossal m.
+食道Esophagus
+Upper left incisor
+左下门齿
+气管 Trachea
+舌骨肌
+Lower left incisor
+Geniohyoid m.
+胸舌骨肌
+Mandible
+额骨歡骨突
+Sternohyoid
+下颌苦骨肌
+额骨
+Thyroid cartilage
+Mylohyoid m.
+下颌骨
+Zygomatic process
+甲状软骨
+Lower lip
+Frontal bone
+frontal bone
+yNasal bone鼻骨
+Soft palate软
+下唇
+歡骨Zygomatic bone
+Epiglottis
+Hyoidbone舌骨
+Premaxilla前颌骨
+会厌
+B.
+Opening of auditory
+tube咽鼓管口
+间顶骨
+Temporal bone
+Interparietal bone 
+颞骨
+枕骨Occipital bone
+颌骨
+枕骨突Occipital condyle
+第3上日齿
+乳突 Mastoid process 
+3right upper molars
+-3right lower molars
+Upper
+外耳道Extermalauditorymeatus
+第3下白齿
+right incisor
+下颌骨
+右上门齿骨
+鼓泡Tympanicbulla
+Mandible
+Lower
+颞骨颜骨突Zygomatic process/
+temporal bone
+right incisor
+右下门齿骨
+82
+Plate 4.5 A. Median section of head. B. Skull and teeth.
+4.5A.头部解剖；B.头骨
+食道
+小尾食道宠物健康中心译制
+Esophagus
+http:opratanhc.taobao.com
+胃
+十二指肠近端
+Stomach
+Stomach
+Proximal limb
+胃
+Spleen
+十二指肠近端
+duodenum
+脾脏
+Proximal limb
+duodenum
+十二指肠远端
+Pancreas胰腺
+ Distal limb
+Cutedgegreateromentum
+duodenum
+大网膜剪切缘
+二指肠远端
+Jejunum
+duodenum
+空肠
+ Transverse colon
+横结肠
+回肠lleum
+横结肠
+Transverse
+Cecum
+回盲肠
+回肠
+colon
+盲肠
+lleocecal junction
+lleum
+Cecocolic junction 
+盲结肠
+Jejunum
+Descendingcolon
+空肠
+降结肠
+盲肠体
+Base of cecum
+Bodyofcecum
+盲肠基部
+回盲肠
+Ascending colon
+~lleocecal junction
+升结肠
+升结肠\
+Cecocolic junction
+Appendix
+Ascending colon
+盲结肠
+阑尾
+Appendix
+直肠Rectum
+阑尾
+直肠
+Rectum
+肛门Anus
+Plate 4.6 A. Ventral view of abdominal digestive organs. B. Diagram of abdominal
+肛门
+digestive organs.
+Anus
+4.6A.消化系统解剖；B,消化系统示意图
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+肝尾突
+肾脏
+ Caudal process liver
+第13肋骨
+Kidney,
+/Right lateral lobe liver肝右外叶
+肠系膜
+13th rib
+Mesentery
+Caudal lobe right lung 肺右后叶
+输尿管
+Ureter,
+Middle lobe right lung 肺右中叶
+降结肠
+/ Cranial lobe right lung 肺右前叶
+Descending colon
+凝固腺
+Coagulation gland
+精囊腺Vesicular gland
+Dorsal lobe of
+前列腺背叶
+prostate
+尿道肌Urethralm
+2nd rib
+直肠Rectum
+第2肋骨
+肛门Anus
+附睾尾
+Tail of ~
+Thymus胸腺
+epididymis
+Heart心脏
+右辜丸
+Right testis
+Left lung 左肺
+epididymis
+膀胱
+Left lateral lobe liver 肝左外叶
+Extemal opening
+TUrinary bladder
+of prepuce
+阴茎
+IVentral lobe prostate
+ Right medial lobe liver 肝右中叶
+阴茎包皮外开口Penis
+前列腺腹叶
+Descending part of duodenum
+Ascending colon
+Jejunum
+Pubic symphysis
+TesticularA.&V.睾丸动脉/静脉
+空肠
+十二指肠降部
+升结肠
+耻骨联合
+Deferentduct输精管
+'Adipose tissue in
+spermatic cord
+精索脂肪组织
+84
+Plate 4.7 Right latcral vicw of thoracic, abdominal, and pclvic visccra of thc malc rclatcd to thc skclcton.
+4.7雄性大鼠骨架以及胸腔，腹腔，盆腔脏器（右侧视图）
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+左肾
+回肠
+左侧卵巢
+脾脏
+输卵管
+Left kidney
+ lleum
+/Left ovary
+/Uterine tube
+Spleen
+Cecum盲肠
+胃Stomach
+Ureter
+左子宫角
+输尿管Lefthorn of uterus
+左肺
+Left lung
+升结肠
+Ascending colon
+降结肠
+Descending colon
+子宫体
+Uterine body
+Rectum直肠
+Anus肛门
+阴道前庭
+Vestibule
+of vagina
+Urethral
+Thymus
+尿道口
+胸腺
+膀胱
+orifice
+心脏 Heart
+Vagina阴道
+Urinary bladder
+Liver 肝脏
+Pubic symphysis!
+Urethra尿道
+耻骨联合
+空肠Jejunum
+Plate 4.8 Left lateral view of thoracic,abdominal, and pelvic viscera of the female related to skeleton.
+85
+4.8雌性大鼠骨架以及胸腔，腹腔，盆腔脏器（左侧视图）
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+输尿管
+Ureter
+荐骨
+Sacrum
+降结肠
+升结肠
+Descending colon
+Ascending colon
+前列腺背外侧叶
+Dorsolateral lobe prostate 
+尿道肌Urethralm.
+精囊
+Seminal vesicle
+直肠Rectum
+凝固腺
+肛门Anus
+Coagulation gland
+附睾头 Head of epididymis
+升结肠
+尿道球腺Bulbourethralgland
+Pubic bone
+Ascending colon
+附辜体Bodyofepididymis
+睾丸动脉
+Testicular/静脉
+右辜丸Right testis
+A.&V.
+Urinary bladder 膀胱
+阴茎包皮Prepuce~
+Deferent duct输精管
+Gland of deferent duct
+尿道外口
+External opening of -
+Ventral lobeprostate
+输精管腺
+urethra
+前列腺腹叶
+龟头Glans penis/
+Preputial gland
+Body ofpenis
+包皮腺
+阴茎体
+86
+Plate 4.9 Relations of the male reproductive organs.
+4.9雄性大鼠生殖系统
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+第6腰椎
+Lumbar6
+左子宫角
+Left horn of uterus
+Left ureter左输尿管
+Descending colon降结肠
+左卵巢 Left ovary 
+Right horn of uterus右输尿管
+Left uterine tube
+左输卵管
+ Sacrum
+Body of uterus子宫体
+荐椎
+盲肠Cecum
+Rectum直肠
+Anus
+肛门
+Vestibule阴道前庭
+Urinary bladder
+Urethralopening尿道口
+膀胱
+Vagina阴道
+Urethra尿道
+Pubic symphysis耻骨联合
+Jejunum
+/Mammary glands
+空肠
+lleum
+乳腺
+回肠
+Plate 4.10 Relations of the reproductive organs of the female.
+87
+4.10雌性大鼠生殖系统
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+胸段脊髓
+Thoracic spinal cord
+膈神经
+颈段脊髓
+外侧皮神经 Lateral cutaneous nn.
+Phrenic n.
+臂神经丛
+Cervical spinal cord
+腰荐神经丛
+Brachial plexus
+小脑
+Lumbosacral plexus
+Cerebellum
+Cerebrum大脑
+/Olfactory lobe
+坐骨神经
+嗅球
+Sciatic n.
+阴部神经
+Perineal n.
+Genitofemoral n.
+生殖股神经
+迷走神经
+Trigeminal n.
+Tibial n.
+Femoraln、股神经
+Vagus n.
+三叉神经
+胫神经
+股后皮神经
+Peronealn.
+Scapulartrunk肩胛神经干
+Caudal femoral
+排神经
+Axillary n.腋神经
+cutaneous n.
+Musculocutaneous n.
+Ulnar n.
+肌皮神经
+Muscular branch
+尺神经
+sciatic n.
+坐骨神经肌支
+Radialn.烧神经
+Median n.
+正中神经
+88
+Platc 4.11 Central ncrvous systcm and pcriphcral ncrvcs.
+4.11大鼠中枢神经和周围神经
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+颈胸交感神经节
+Cervicothoracic ganglion (sym.)
+颈中交感神经节
+胸腰交感神经传出神经
+Thoracolumbar outflow (sym.)
+Middle cervical ganglion (sym.)
+Vertebral sympathetic
+Cranial cervical ganglion (sym.)
+ganglia脊椎交感神经节
+颈前交感神经节
+肠系膜后交感神经节
+Cranial outflow parasympathetic
+(lI, VIll, X, and IX)
+Caudal mesenteric ganglion (sym.)
+颅部副交感神经传出神经
+Sacral outflow (para.)
+荐部副交感神经传出神经
+椎交感神经Vagusnerve（x)
+Pelvicnerve
+Vagosympathetic trunk (sym.)
+腹腔交感神经节
+骨盆副交感神经
+颈部迷走交感干
+Celiac ganglion (sym.)
+Cranial mesenteric ganglion (sym.)
+前肠系膜交感神经节
+Sympatheticnerves topelvis
+Vagus nerve: abdominal and
+盆腔脏器交感神经
+thoracic parasympathetic
+branches
+胸腹部副交感神经支
+89
+4.12植物性神经：交感神经，副交感神经
+（I-噢神经，II-视神经，III-动眼神经，IV-滑车神经，V-三叉神经，VI-外展神经，VII-面神经，VILI-前庭蜗神经，IX-舌咽神经，X-迷走神经，XI-副神经，XII-舌下神经）
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+A.
+B
+嗅球
+Olfactorylobe
+嗅球olfactory bulb~
+外侧嗅束Lateralolfactorytract
+Cerebral
+hemisphere
+大脑半球
+大脑半球Cerebral hemisphere
+下丘脑Hypothalamus
+垂体茎Hypophyseal stalk
+松果体
+脑桥Pons
+Pineal gland
+下丘
+Inferior colliculus
+小脑Cerebellum
+VII
+VII
+小脑
+嗅球
+锥体Pyramid
+C.
+X
+Cerebellum
+Olfactory bulb
+Medulla
+oblongata
+X1
+延髓
+Medulla
+XII
+延髓
+oblongata~
+Cerebral hemisphere
+小脑
+大脑半球
+Cerebellum-
+脊髓
+Spinal cord
+延髓Medulla
+oblongata
+Lateral olfactory tract
+外侧嗅束
+VIlL
+Pons
+Xl
+Plate 4.13 Brain: A. Dorsal view, B. Ventral view, C. Lateral view. I-olfactory, II-optic, I1l-oculomotor, V-trigeminal.VI-abducens.
+q0
+VII-facial, VIlI-vestibulocochlear, IX-glossopharyngeal, X-vagus, XI-accessory, XIl-hypoglossal nerves.
+4.13大脑：A.背侧视图；B.腹侧视图；C.侧面视图
+小尾巴宠物健康中心译制
+穹窿
+http://ttahc.taobao.com
+上丘脑
+透明隔
+Fornix
+Epithalamus
+Septum pellucidum
+上丘
+Corpus callosum朕体
+A
+Superior colliculus
+下丘 Inferior colliculus
+Cerebral hemisphere
+大脑半球
+小脑皮质
+Olfactory lobe
+Cerebellar cortex
+嗅球
+小脑活树 Arbar vitaeof 
+cerebellum
+Fourth ventricle
+第四脑室
+脑桥Pons
+Intermediate mass 中间体
+Medulla oblongata
+延髓
+Optic chiasm视交叉
+Thirdventricle第三脑室
+Hypophysis
+cerebri
+脑下垂体
+第三脑室
+Pons脑桥
+Third ventricle
+Inframammillary recess
+乳头体下隐窝
+视交叉
+Optic chiasm
+脑垂体后叶
+Posterior pituitary
+垂体中间部
+Pars intermedia
+Infundibular recess
+Pars distalis
+漏斗隐窝
+垂体远侧部
+Hypophyseal cleft/
+Anterior pituitary
+垂体裂
+垂体前叶
+Plate 4.14 Brain: A. Midsagittal section, B. Detail of hypophysis.
+91
+4.14大脑：A.正中矢状面视图；B.脑下垂体
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+第五章
+豚鼠
+5.1
+豚鼠右侧视图
+骨架
+5.2
+5.3
+雄性浅层肌肉
+5.4
+雌性深层肌肉
+5.5
+头部
+5.6
+腹腔脏器
+5.7
+雄性骨架以及胸腔，腹腔，盆腔脏器
+5.8
+雌性骨架以及胸腔，腹腔，盆腔脏器
+5.9
+雄性生殖系统
+5.10雌性生殖系统
+5.11 中枢神经和周围神经
+5.12大脑
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+背部
+Back
+肩部
+腰部Loin
+Shoulder,
+颈部
+Neck
+耳廓
+外耳道
+Pinna1
+External auditory
+meatus
+Rump
+臀部
+眼脸
+Eyelid
+泪阜
+Caruncle
+鼻孔
+股部Thigh
+腿部 Leg
+Arm
+膝关节
+'Stifle
+腹侧
+臂部
+肘部EIlbow
+(saI)
+Labia
+(knee)
+Flank
+Abdomen
+Tactile hairs
+Forearm
+腹部
+触须
+肘关节Hock
+前臂
+(tarsus)
+腕部Carpus
+Digits
+Hindfoot!
+Metacarpus
+Metatarsus
+跖部
+后足
+趾
+掌部
+Forefoot
+前足
+94
+Plate 5.1 Latcral vicw surfacc fcaturcs.
+5.1豚鼠右侧视图
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+第13胸椎
+第1腰椎
+外耳道
+Thoracic 13
+Lumbar 1
+External
+枕骨
+auditory meatus
+Occipital
+第6腰椎
+肩胛骨
+bone
+Scapula
+Lumbar6
+顶骨
+Parietal
+第7颈椎
+bone
+寰椎
+Cervical 7
+Sacrum荐椎
+Atlas
+/Axis
+bone
+枢椎
+Caudal
+髂骨llium
+尾椎
+bone
+Rib 13
+vertebrae
+眼窝Orbit
+第13肋骨
+股骨Femur
+Clavicle
+Nasal
+Patella
+鼻骨
+锁骨
+骨
+bone
+Zygomatic bone
+歡骨
+Costal cartilage
+Ma情
+肋软骨
+Humerus
+肱骨
+啡骨Fibula
+Fabella
+Mandible下颌骨
+腓肠豆
+Ischium
+坐骨
+切齿骨Incisive l
+Body of
+Tibia
+bone
+sternum
+Xiphoid process
+胫骨
+UIna尺骨
+胸骨体
+of sternum
+胸骨剑突
+Radius烧骨
+Carpal bones
+腕骨
+趾骨 Phalanges
+Tarsal bones
+指骨Phalange
+Metacarpal bones掌骨
+骨
+Metatarsal bones
+跖骨
+Plate 5.2 Skeleton.
+95
+5.2骨架
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+腹外斜肌肋下部
+竖脊肌
+背侧锯肌
+Spinal erector
+Subcostal part
+external abdominal oblique
+/Dorsal serrated
+股直肌
+Straight femoral 
+锁骨头肌
+ Sartorial
+股外肌Lateral vast\
+缝匠肌
+肩脾横突肌
+Cleidocephalicj
+Omotransverse
+臀中肌Middlegluteal
+Temporal颞肌
+臀浅肌 Supeficial gluteal
+半腱肌Semitendinous
+Trapezius
+Frontal额肌
+(thoracic)
+背阔肌
+Trapezius/
+胸斜方肌
+Ocular orbicular眼轮匝肌
+ Dorsal latissimus
+(cervical)
+颈斜方肌
+Malaris觀肌
+Levator of
+上唇提肌
+upper lip
+Nasolabial
+levator鼻唇提肌
+腹外斜肌
+股二
+External abdominal 
+Canine犬齿肌
+Femoral biceps
+三角肌
+oblique
+Masseter
+ Deltoid
+咬肌
+ Cleidocervical
+锁颈肌
+ Brachial biceps
+头肌
+臂三头肌
+腹侧锯肌
+Brachial triceps
+臂肌
+颊肌
+Gastrocnemius
+Ventral serrated
+Brachial'
+Buccinator
+Mystical pad
+排肠肌
+腕侧短伸肌
+Ascending pectoral
+Short radial carpal extensor
+Deep depressor of lip
+Oral orbicular口轮匝肌
+胸升肌
+指总伸肌Commondigitalextensor
+下唇深降肌
+Zygomatic颧肌
+第3/4指伸肌 Digital extensor (Ill &IV)
+尺腕伸肌Ulnar carpal extensor
+尺腕屈肌Ulnarcarpal flexor
+96
+Plate 5.3 Lateral view of superficial muscles of the male.
+5.3 雄性浅层肌肉(右侧视图)
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+肩脚锁骨肌
+Scapuloclavicular
+胸长肌
+Supraspinatus 冈上肌
+Long thoracic
+ Infraspinatus 冈下肌
+Extermal intercostal
+颈长肌
+髂肋肌
+Major teres
+肋间外肌
+夹肌
+Long cervical
+头半棘肌
+Iliocostal
+大圆肌
+腰部髂肋肌
+Splenius 
+Complex
+/lliocostal lumbar
+摄肌
+/Lateralvast股外肌
+Temporal \
+spina
+Middle gluteal
+臀中肌
+深咬肌
+Deep masseter
+Transverse abdominal
+腹横肌
+展肌
+Abductor
+三角肌
+股二头肌
+Deltoid
+啡肠肌
+Femoral biceps
+臂二头肌
+Middle head of
+Gastrocnemius
+浅咬肌Superficial masseter
+Superficial pectoral
+比目鱼肌Soleus
+Semimembranous
+Brachial biceps胸浅肌
+臂二头肌中端
+气管Trachea
+半膜肌
+Deep digital flexor 指深屈肌
+Straight abdominal
+腹侧斜角肌Ventralscalene
+腹直肌
+胸骨舌骨肌Stermohyoid
+1stmetacarpal extensor第1掌伸肌
+Plate 5.4 Lateral view of deep muscles of the female.
+97
+5.4雌性深层肌肉（左侧视图）
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+中间块
+A
+小脑
+Cerebellum,
+/Auditory tube opening
+Sphenoid bone蝶骨
+枕骨Occipital bone
+/Soft palate 软
+/ Ofactory lobe 嗅叶
+斜方肌Trapeziusm.
+Cerebrum
+Endoturbinate bone内鼻甲
+夹肌Splenius m.
+大脑
+背鼻甲
+Hypophysis
+Dorsal nasal concha
+脑下垂体
+脑干
+Ventral nasal concha
+Brainstem
+腹鼻甲
+Pharynx
+/内鼻孔choana
+Naris鼻孔
+烟
+Body of
+犁骨
+Vomer
+门齿骨
+硬聘
+maxilla
+Body of tongue
+Body of incisivebone
+脊髓Spinal
+Upper incisor 上门齿
+Upperlip上唇
+头长肌 Long capital m.
+Lower incisor下门齿
+食道Esophagus
+B.
+气管Trachea
+顶骨
+额骨
+颠舌肌
+Lower lip
+Mandible
+Parietal bone
+Frontal bone
+胸骨舌骨肌Sternohyoidm.
+会厌
+眼窝
+Genioglossal m.
+下颌骨
+下唇
+颞骨
+Orbit
+第3上白齿
+Epiglottis
+胸骨甲状肌Sternothyroidm.
+Geniohyoid m.
+Temporal bone
+Upper molar teeth (3)
+Hyoid bone
+颜舌骨肌
+舌骨
+Mylohyoid m.
+枕骨Occipital bone-
+Nasal bone
+下颌舌骨肌
+鼻骨
+External auditory
+外耳道
+meatus
+门齿骨
+Incisor bone
+鼓泡Temporal bulla
+Mandible
+Upperpremolar
+颜骨Zygomaticbone
+下颌骨
+tooth (1)
+第1上前日齿
+incisor
+Lowermolar
+teeth (3)
+第3下日齿
+Inferiorincisor
+Lowerpremolar
+下门齿
+tooth (1)
+第1下前日齿
+98
+Plate 5.5 Head: A. Medial sagittal scction, B. Skull and dentition.
+5.5头部：A.头部解剖，B.头骨
+小尾巴宠物健康中心译制
+A
+B.
+http://ttahc.taobao.com
+食道
+Esophagus
+Right lobe pancreas
+胰腺右叶
+Spleen脾脏
+Duodenum
+升结肠螺旋
+胃
+胰腺左叶
+胃
+十二指肠
+ Stomach
+Spiral ascending
+Leff lobe of
+Stomach
+colon|
+pancreas
+Jejunum-
+空肠
+Transverse colon
+横结肠
+Duodenum十二指肠
+lleum回肠
+空肠
+Transversecolon
+/Jejunum
+横结肠
+Descending
+回肠lleum 
+colon
+降结肠
+降结肠
+Descending
+盲肠尖
+colon
+Apex of
+cecum
+Spiral ascending
+Descending colon
+colon
+降结肠
+升结肠螺旋
+Cecocolic
+Cecocolic
+升结肠Ascending
+junction
+Cecum
+junction
+colon
+盲结肠
+盲肠
+lleum
+盲结肠
+回肠
+Rectum
+回盲肠 Ileocecal junction 
+直肠
+lleocecal
+junction
+一Rectum直肠
+回盲肠
+Ascending
+cecum
+colon
+升结肠
+Anus 肛门
+-Anus 肛门
+Plate 5.6 Abdominal organs: A. Ventral view of abdominal organs (in situ), B. Diagram of digestive system.
+66
+5.6腹腔脏器：A.腹腔脏器腹侧视图；B.消化系统示意图
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+输尿管
+盲肠
+右肾
+升结肠螺旋
+Body ofRight
+肝后叶
+,Ureter
+cecum
+/kidney
+Caudalprocess
+Spiral ascending
+of liver
+colon
+肝右外叶
+降结肠
+Descending
+/ Right lateral
+肺右后叶
+lobe of liver
+colon
+/Right caudal
+lobe of lung
+精囊
+肺右中叶
+Seminal vesicle
+Right medial
+lobe of lung
+肺右前叶
+Right cranial
+直肠
+lobe of lung
+Rectum
+右心房
+Right atrium
+肛门Anus
+of heart
+Right ventricle
+肛门囊Anal sac
+urinary
+of heart
+bladder
+肝左中叶
+右心室
+膀胱
+Cecum
+肝右中叶
+Left medial
+睾丸Testis
+盲肠
+空肠
+Right medial
+lobe of liver
+Jejunum?
+胃
+lStomach
+lobe of liver
+阴茎Penis
+Ascending
+Duodenum'
+Right lobe
+Gall bladder
+Deferent duct
+colon
+升结肠
+ofpancreas
+胆囊
+输精管
+胰腺右叶
+100
+Plate 5.7 Right latcral vicw of thc thoracic, abdominal and pclvic visccra rclated to the skclcton of the malc.
+5.7雄性骨架以及胸腔，腹腔，盆腔脏器(右侧视图)
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+降结肠
+左侧卵巢
+肺左后叶
+左肾
+Descending colon
+胰腺左叶
+Left kidney
+Left ovary
+Left cranial lobe
+脾脏
+盲肠尖
+肺左前叶后端
+of lung
+Left lobe
+Cecal apex
+Spleen
+pancreas
+左子宫角
+Caudalpartof
+Left horn of uterus
+升结肠
+left cranial lobe
+of lung
+Ascending colon
+降结肠
+ Descending colon
+ Cranial part of
+left cranial lobe
+Ureter输尿管
+of lung
+肺左前叶前端
+Uterine
+子宫颈
+cervix
+直肠
+Rectum
+/Anus 肛门
+Stomach
+膀胱
+Urinary bladder
+Mammary gland
+乳腺
+阴道Vagina
+sac
+Urethra
+尿道
+Vagina
+右心室
+opening
+Body of cecum
+Right auricle
+Right
+阴道口
+盲肠
+of heart
+ventricle
+右心房
+of heart
+Left lateral
+lobe of liver
+Left medial lobe
+Jejunum
+肝左外叶
+of liver
+空肠
+肝左中叶
+Plate 5.8 I eft lateral view of the thoracic, abdominal and pelvic viscera related to the skeleton of the female.
+101
+5.8雌性骨架以及胸腔，腹腔，盆腔脏器（左侧视图）
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+荐椎
+前列腺背叶
+Sacrum
+Dorsal lobe of prostate 
+降结肠
+-Descending colon
+Ventral lobe of prostate 
+前列腺腹叶
+Ureter输尿管
+Right coagulation gland右侧凝固腺
+坐骨Part of ischiatic bone
+尿道球腺Bulbourethral gland
+直肠Rectum<
+Right seminal vesicle 右侧精囊
+Sphincter of
+肛门括约肌
+anus
+Testicular artery &vein 睾丸动脉/静脉
+肛门口 Opening of anus
+Urinary bladder 膀胱
+肛门囊Anal sac
+~Right deferent duct 右侧输精管
+阴茎脚 Crus of penis
+Bulbocavermousm.球海绵体肌
+包皮口Preputial opening
+Penile retractor m.阴茎缩肌
+阴茎包皮Prepuce
+Adiposebodyof testis睾丸脂肪组织
+龟头Glans penis
+Penis阴茎
+Head of epididymis 附睾头
+附睾尾Tail ofepididymis
+Body of epididymis
+Testis
+附睾体
+睾丸
+102
+Plate 5.9 Relations of the reproductive organs of the male.
+5.9雄性生殖系统
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+升结肠
+卵巢
+Ascending colon
+Ovary
+降结肠
+输卵管漏斗
+;Descending colon
+Infundibulum of
+uterine tube~
+输卵管
+Uterine tube
+Sacrum荐椎
+Ureter输尿管
+盲肠尖
+Cervix子宫颈
+Apex of cecum
+左侧子宫角
+Left horn of uterus
+/Rectum直肠
+Sphincter of anus
+肛门括约肌
+阴道
+Urinary bladder
+Vagina
+膀胱
+肛门和肛门囊口
+Mammary gland
+Opening of anus and
+Body of cecum
+乳腺
+Pubic symphysis 
+anal sac
+盲肠
+耻骨联合
+Anal sac肛门囊
+Urethra'
+Vaginal orifice阴道口
+尿道
+Urethral orifice
+尿道口
+Plate 5.10 Left lateral view of the relations of the reproductive organs of the female.
+103
+5.10雌性生殖系统（左侧视图）
+小尾巴宠物健康中心译制
+http://ttahc.taobao.com
+外侧皮神经
+膈神经
+髂腹下神经
+,Lateral cutaneous nn.
+臂神经丛
+,Phrenic n.
+lliohypogastric n.
+腰神经丛
+Brachial plexus
+Lumbar plexus
+阴部神经
+小脑
+, Perineal n.
+Cerebellum
+Caudal
+cutaneous股后皮神经
+大脑
+femoral n.
+Cerebrum
+嗅球
+Olfactory bulb
+Femoraln.
+股神经
+迷走神经
+Vagus n.
+Scapular trunk
+肩胛神经干
+Axillary n.
+Optic n.
+腋神经
+视神经
+坐骨神经肌支
+Muscular
+Radialn.烧神经
+br. of sciatic n.
+Musculocutaneous n.
+Peroneal n.
+排神经
+Sciatic n.坐骨神经
+肌皮神经
+UInarn.尺神经
+Mediann.
+Tibial n.胫神经
+正中神经
+Plate 5.11 Central and peripheral nervous systems.
+104
+5.11中枢神经和周围神经
+(I-嗅神经，II-视神经，II-动眼神经，IV-滑车神经，V-三叉神经，VI-外展神经，VII-面神经，VIII-前庭蜗神经，IX-舌咽神经，X-迷走神经，XI-舌下神经，XII-副神经）
+小尾巴宠物健康中心译制
+嗅球
+B.
+A.
+Olfactory lobe
+ttp://ttahc.taobao.com
+嗅球Olfactory bulb
+Longitudinal cerebral fissure
+大脑纵裂
+大脑纵裂
+嗅结节
+Longitudinal fissure
+Olfactory tuberculum
+外侧嗅束 Lateral olfactory tract
+大脑侧裂
+Tuber cinereum
+Opticchiasm
+视交叉
+Sylvian fissure
+灰质结节
+Pirifom lobe梨状叶
+乳头体
+Posterior rhinal
+-Temporal area of
+fissure 鼻后裂
+Mammillary body
+cerebral cortex
+题区大脑皮质
+大脑脚 Cerebral peduncle-
+脑桥Pons
+IV
+小脑
+VI-
+√
+Cerebellum
+斜方体区
+Trapizoid area
+VII
+VIII
+Medulla
+延髓
+oblongata
+IX
+橄榄体Olive
+延髓Medullaoblongata-
+XI
+枕区大脑皮层
+C.
+Occipital area of
+脊髓Spinal cord-
+Vermis of
+cerebral cortex
+额区大脑皮层
+cerebellum
+Frontal area of
+Spinalcord脊髓
+小脑蚓部
+cerebral cortex
+Cerebellum
+嗅球
+小脑
+题区大脑皮质
+Olfactory lobe
+Temporal area
+IX
+of cerebral cortex
+X
+XI
+Olfactorytuberculum嗅结节
+IV
+Piriform lobe
+VIIIVII
+Lateral olfactory tract外侧嗅束
+XII
+Olive橄榄体
+梨状叶
+Plate 5.12 Brain: A. Dorsal view, B. Ventral view, C. Lateral view. I-olfactory. II-optic, III-oculomotor, IV-trochlear, V-trigeminal, VI-abducens,
+VII-facial, VIII-vestibulocochlear, IX-glossopharyngeal, X-vagus, XI-hypoglossal, XII-accessory nerves.
+105
+5.12大脑：A.背侧视图；B.腹侧视图；C.侧面视图
+INDEX
+digital, cat, 49
+Abbreviations, xvi
+femoral, guinea pig, 97
+Abdomen
+Accessory axillary lymph nodes
+cat, 34, 50, 51
+cat, 56
+dog,3,17,19, 20, 21, 23
+rabbit, 65
+guinea pig, 94, 99, 100, 101
+Accessory carpal bone, cat, 49
+rabbit, 62, 70
+ Accessory cephalic vein
+rat, 78, 83, 84, 85
+cat, 54
+Abdominal arteries
+dog, 26
+cat, 55
+Acetabular ligament, dog, 22
+dog, 27
+Adductors
+Abdominal cavity, xx, xxi
+5th digit, cat, 49
+Abdominal muscles
+femoral
+obliques
+cat, 40, 41
+cat, 39
+dog.8, 9
+dog. 7
+rat, 81
+ guinea pig. 96
+Adenohypophysis, rat, 91
+rabbit, 66, 72
+Adrenal gland
+rat, 80, 81
+cat, 56
+rectus
+dog,23
+cat, 40
+rabbit, 65, 71
+dog,8
+Alar fold, dog, 12
+ guinea pig, 97
+ Alar spine, dog, 22
+rabbit, 67,73
+Alexandrine rat, xiv
+rat, 81
+Anal canal, cat, 47
+transverse
+Anal levator muscle, dog, 18
+dog. 8
+Anal sacs
+ guinea pig, 97
+cat, 47, 53
+rabbit, 67
+dog, 18
+Abdominal region
+guinea pig, 100, 101, 102, 103
+cat, 36
+Anal sphincter muscle
+dog, 4
+cat, 47, 52
+rabbit, 63
+dog, 18
+Abductors
+guinea pig, 102, 103
+cranial, rabbit, 66, 67
+rabbit, 72
+107
+Anconeal muscle
+Arteries
+cat, 41
+cat, 55
+dog,8, 9
+dog, 27
+Anorectal line, cat, 47
+Arytenoid cartilage, rabbit, 69
+Anorectal lymph node, rabbit, 65
+Atlas
+ Antebrachial artery
+cat, 37,42
+cat, 55
+dog, 5, 12
+dog, 27
+ guinea pig, 95
+Antebrachial fascia
+rat, 79
+cat, 38
+ Auditory meatus, external
+dog. 6
+cat, 44
+Antebrachial nerve, dog, 29
+dog, 15
+Antebrachial region
+guinea pig,94,95,98
+cat, 36
+rat, 82
+dog, 4
+Auditory ossicles, dog, 15
+rabbit, 63
+Auditory tube
+Anular cartilage
+cat, 42, 44
+cat, 44
+dog, 12, 15
+dog, 15
+guinea pig,98
+Anular ligaments
+rabbit, 68
+digital
+rat, 82
+cat, 48, 49
+Auricular artery, cat, 55
+dog, 10
+Auricular cartilage
+palmar, dog, 10
+cat, 44
+plantar, cat, 49
+dog, 15
+Anus
+Auricular vein
+cat, 47, 53
+cat, 54
+dog, 18, 25
+dog, 26
+guinea pig, 99, 100, 101
+Autonomic nervous system
+rabbit, 71, 72, 73
+cat, 58
+rat, 83,84, 85, 86, 87
+dog, 30
+Aorta
+rat, 89
+cat, 55
+Axillary artery
+dog, 27, 28
+cat, 55
+Aortic lumbar lymph nodes, cat, 56
+dog, 27
+Aortic thoracic lymph nodes, rabbit, 65
+ Axillary lymph nodes
+Appendix, rat, 83
+cat, 56
+Arbor vitae of cerebellum, 91
+dog, 28
+Arm
+rabbit, 65
+cat, 34
+ Axillary nerve
+dog, 2, 3
+cat, 57
+rabbit, 62
+dog, 29
+rat, 78
+ guinea pig, 104
+rabbit, 74
+108
+rat, 88
+Axillary vein
+guinea pig, 96,97
+cat, 54
+rabbit, 67
+dog, 26
+rat, 80, 81
+Axillobrachial vein, dog, 26
+Brachial muscles
+Axis
+cat, 40, 41
+cat, 37, 42
+dog, 7,9
+dog, 5, 12
+ guinea pig, 96
+ guinea pig, 95
+rabbit, 67
+rat, 79
+Brachial plexus
+Azygous vein, dog, 26
+cat, 57
+dog. 29
+ guinea pig, 104
+B
+rabbit, 74
+Back
+rat, 88
+cat, 34
+Brachial region
+dog, 3, 9
+cat, 36
+ guinea pig, 94
+dog, 4
+rabbit, 62
+rabbit, 63
+rat, 78
+Brachial triceps
+ Basihyoid bone
+cat, 40, 41
+cat, 42
+dog, 7,8, 9
+dog, 12
+ guinea pig, 96, 97
+ Biceps femoris
+rabbit, 66
+cat, 39
+rat, 80, 81
+dog, 7, 18
+Brachial vein
+ guinea pig, 97
+cat, 54
+rabbit, 66
+dog, 26
+rat, 80, 81
+Brachiocephalic nerve, dog, 29
+Bile duct, cat, 46
+Brachiocephalic trunk, dog, 27
+Biventer neck muscle, dog, 12
+Brachiocephalic vein, cat, 54
+Black rat, xiv
+Brachioradial muscle, cat, 39, 40
+Body cavities, xx, xxi
+Brain
+dog, 19
+cat, 42, 59
+Body planes, xvii, xix
+dog, 29, 31
+ Body regions
+guinea pig, 98, 104, 105
+cat, 36
+rabbit, 65, 75
+dog, 4
+rat, 82, 88, 90, 91
+rabbit, 63
+Brainstem
+ Brachial artery
+cat, 42
+cat, 55
+dog, 12
+dog, 27
+ guinea pig, 98
+Brachial biceps
+rat, 82
+cat, 40
+Brown rat, xiv
+dog, 9
+109
+Buccinator
+dog,5
+dog. 7
+ guinea pig, 95
+guinea pig, 96
+rabbit, 64
+rabbit, 66
+rat, 79
+rat, 80
+Carpal extensors
+ Bulbocavernous muscle, guinea pig, 102
+dog, 8
+Bulbospongious muscle
+rabbit, 67
+cat, 52
+Carpal flexors, rabbit, 67
+dog, 18, 24 
+ Carpal pads 
+ Bulbourethral gland
+cat, 48, 49
+cat, 50, 52
+dog, 11
+ guinea pig, 102
+ Carpal region
+rabbit, 70, 72
+cat, 36
+rat, 86
+dog, 4
+rabbit, 63
+Carpus
+C
+cat, 34
+Canine muscle
+dog, 2,3
+ guinea pig, 96
+guinea pig, 94
+rabbit, 66
+rabbit, 62
+rat, 80
+Caruncle, guinea pig. 94
+ Canine teeth
+Cat, xili-xiv
+cat, 42
+abdomen, 34, 50, 51
+dog, 12
+arteries, 55
+ Capital muscles
+autonomic nervous system, 58
+cranial oblique, cat, 42
+body regions, 36
+long
+brain, 42, 59
+cat, 42
+central nervous system, 42, 57, 59
+dog, 9, 12
+cervical nerves, 59
+guinea pig.98
+dentition, 42
+rabbit, 68
+digits, 48, 49
+rat, 81
+ear, 44
+longest
+ endocrine organs, 56
+dog. 9
+eye, 45
+rabbit, 68
+fasciae, 38
+rhomboid
+female
+dog, 8
+genitourinary system, 41, 51, 53
+rat, 80, 81
+lateral view, 35, 50
+Capsular muscle, cat, 41
+viscera, 41
+ Carotid artery
+forepaw, 48, 49
+cat, 55
+ gastrointestinal system, 46, 47, 50, 51
+dog, 27
+head, 40, 42
+ Carpal bones
+hindpaw, 49
+110
+cat, 37
+kidney, 41, 50
+lymph nodes, 53, 56
+guinea pig, 104
+male
+rabbit, 74
+genitourinary system, 50, 52
+rat, 88
+lateral view, 34, 50
+Cephalic vein
+muscles
+cat, 54
+cutaneous, 38
+dog, 26
+deep, 41
+Cerebellum
+middle layer, 40
+cat, 42, 59
+superficial, 39
+dog, 12, 29, 31
+ oral cavity, 43
+guinea pig, 98, 104, 105
+pelvis, 50, 51, 53
+rabbit, 68, 74, 75
+peripheral nervous system, 57
+rat, 88,90,91
+skeleton, 37
+ Cerebral peduncle, guinea pig, 105 
+skull, 41,42
+Cerebrum
+thorax, 50,51
+cat, 59
+veins, 54
+dog, 12, 29
+Caudal, xvi, xvii, 35
+guinea pig, 98, 104, 105
+Caudal cutaneous nerve, rabbit, 74
+rabbit, 68, 74, 75
+Caudal region
+rat, 82, 88,90, 91
+cat, 36
+Cervical arteries
+rabbit, 63
+cat, 55
+Caudal vertebrae
+dog, 27
+cat, 37
+Cervical ganglion
+dog.5
+cat, 58
+rat, 79
+dog, 30
+Cecal apex, guinea pig, 101
+rat, 89
+Cecocolic junction, rat, 83
+Cervical lymph nodes
+Cecocolic orifice, dog, 18
+cat, 56
+Cecum
+dog, 28
+cat, 46, 47
+rabbit, 65
+dog, 18
+Cervical muscles
+guinea pig, 99, 100, 101, 103
+dog, 9
+rabbit, 70, 71
+guinea pig, 97
+rat, 83, 85,87
+Cervical nerves
+ Celiac artery, dog, 27
+cat, 57, 59
+ Celiac ganglion
+dog, 29
+cat, 58
+ Cervical region
+rat, 89
+cat, 36
+Celiac lymph nodes
+dog, 4
+cat, 56
+rabbit, 63
+dog, 28
+Cervical rhomboid muscle
+Central nervous system
+dog. 8
+cat, 57
+rat, 81
+dog, 29
+111
+Cervical vertebrae
+dog, 7,8
+cat, 37
+ guinea pig, 96
+dog.5
+Cleidocephalic muscle, rabbit, 67
+rabbit, 64
+Cleidocervical muscle
+rat, 79
+cat, 39
+Cervicoauricular muscle, rat, 80
+dog. 7
+ Cervicothoracic ganglion
+Cleidomastoid muscle
+cat, 58
+cat, 40
+dog, 30
+rabbit, 66
+rat, 89
+rat, 80
+Cervix
+Clitoris
+dog, 25
+dog, 25
+ guinea pig, 103
+rabbit, 71, 73
+Cheek, rat, 78
+Coagulation gland
+Chest
+ guinea pig, 102
+cat, 34
+rat, 84, 86
+dog.3
+ Coccygeal muscle
+Choana
+cat, 40
+guinea pig,98
+dog. 8, 18
+rat, 82
+Cochlea
+Choroid
+cat, 44
+cat, 45
+dog, 15
+dog, 13
+Colliculus, superior/inferior, rat, 91
+Ciliary body
+Colon
+cat, 45
+cat, 41,46,47,50,51
+dog, 13
+dog, 18, 19, 20, 21
+Ciliary process, dog, 13
+guinea pig, 99, 100, 101, 102, 103
+Circular muscle of rectum, cat, 47
+rabbit, 70, 71, 72, 73
+Circumanal glands, dog, 18
+rat, 83,84,85,86,87
+Circumflex humeral artery, cat, 55
+Commissure of lips, dog, 3
+Circumflex iliac artery, cat, 55
+Complex muscle
+ Circumflex iliac vein, dog. 26
+cat, 41
+Cisterna chyli, dog, 28
+dog. 9
+Clavicle
+guinea pig, 97
+dog. 5
+Conjunctiva
+guinea pig. 95
+cat eye, 45
+rabbit, 64
+dog eye, 13
+rat, 79
+Connecting peritoneum, xx, xxi
+Claws
+Cornea
+cat, 38
+cat eye, 45
+dog, 10
+dog eye, 13
+ Cleidobasilar muscle, rabbit, 66
+Corpus callosum
+Cleidobrachial muscle
+cat, 42
+112
+cat, 39
+dog, 31
+rat, 91
+Corpus cavernosum, dog, 24
+Crown
+ Corpus spongiosum, dog, 24
+cat, 34
+ Costal cartilage
+dog, 2,3
+dog.5
+rabbit, 62
+ guinea pig, 95
+Cruciate sulcus, dog, 31
+Costal region, dog, 4
+Crural fascia
+Costocervical artery, cat, 55
+cat, 38
+Costocervical trunk
+dog, 6
+cat, 54
+Crural region
+dog, 27
+cat, 36
+Coxal tuber region
+dog, 4
+cat, 36
+rabbit, 63
+dog, 4
+Crus, rat, 78
+rabbit, 63
+Cranial, xvi, xvii, 35
+ Cranial abdominal region
+D
+dog, 4
+Deferent duct
+rabbit, 63
+cat, 50, 52
+Cranial caval vein, dog. 28
+dog, 24
+Cranial nerves
+guinea pig, 100, 102
+cat,57
+rabbit, 70, 72
+dog, 31
+rat, 84, 86
+guinea pig, 105
+Deltoid muscle
+rabbit, 74, 75
+cat, 39, 40
+rat, 89, 90
+dog. 7, 8
+Cranial oblique capital muscle, cat, 42
+ guinea pig, 96, 97
+Cranial outflow, 89
+rabbit, 66, 67
+cat, 58
+rat, 80
+dog, 30
+Dentition
+Cranium
+cat, 42
+cat, 42
+dog, 12
+dog, 12
+ guinea pig, 98
+Cremaster muscle, rabbit, 72
+rabbit, 68, 69
+Crest
+rat, 82
+cat, 34
+Dewclaws
+dog.3
+cat, 34, 48
+Cribriform plate of ethmoid bone, rat, 82
+dog, 3, 10
+ Cricoid cartilage
+Dewlap, 62
+cat, 42
+Diaphragm, xx, xxi
+dog, 12
+dog, 19, 28
+rabbit, 68
+Digastric muscle, cat, 39
+rat, 82
+Digital abductors, cat, 49
+Croup, dog, 3
+ Digital anular ligaments 
+cat, 48, 49
+113
+dog, 10
+Digital artery, dog, 27
+autonomic nervous system, 30
+Digital extensors
+body cavities, 19
+cat, 39, 40, 48
+body regions, 4
+dog, 8, 10
+brain, 29, 31
+ guinea pig, 96
+central nervous system, 29, 31
+rabbit, 67
+cranial nerves, 31
+rat, 80, 81
+dentition, 12
+tendons of
+digits, 2, 3, 10, 11
+cat, 48
+ear, 15
+dog, 10
+ endocrine organs, 23
+ Digital flexors
+esophagus, 16
+cat, 41, 48, 49
+eye, 13
+dog, 8, 10, 11
+fasciae, 6
+guinea pig, 97
+female
+tendons of
+genitourinary system, 21, 23, 25
+cat, 48, 49
+lateral view, 3
+dog, 10, 11
+viscera, 9
+Digital nerves
+forepaw, 10, 11
+cat, 57
+ gastrointestinal system, 17, 18, 19, 20, 21, 22
+dog, 29
+head, 12, 15
+rabbit, 74
+hindpaw, 11
+ Digital pads
+hip, 22
+cat, 48, 49
+ large intestine, 18
+dog, 10, 11
+lateral view, 2, 3, 20, 21
+Digital region
+lymph nodes, 28
+cat, 36
+male
+dog. 4
+ genitourinary system, 18, 20, 23, 24
+rabbit, 63
+lateral view, 2
+Digital vein, dog, 26
+mouth, 16
+Digits
+muscles
+cat, 34, 48, 49
+cutaneous, 6
+muscles of, 49
+deep,8
+tendons/ligaments of, 48, 49
+ deep cervical, 9
+dog, 2,3
+ superficial, 7
+muscles of, 10, 11
+nose, 14
+tendons/ligaments of, 10, 11
+pelvis, 22
+ guinea pig, 94
+phalanges, 10
+rabbit, 62, 64
+serous membranes, 19
+rat, 78
+skeleton, 5
+Directional terms, xvi, 35
+skull, 12 
+Distal, xvi, xvii, 35
+tongue, 16
+Dog, xii
+veins, 26
+abdomen, 3, 17, 19, 20, 21, 23
+viscera, 20, 21
+114
+arteries, 27
+Dorsal, xvi, xvii, 35
+Dorsal cervical region, dog, 4
+rabbit, 68
+ Dorsal elastic ligament, dog, 10
+rat, 82
+ Dorsal latissimus muscle
+Epicardium, xx, xxi
+cat, 39
+Epididymal duct, dog, 24
+dog. 7
+Epididymis
+ guinea pig, 96
+dog, 24
+rabbit, 66
+ guinea pig, 102
+rat, 80
+rabbit, 72
+ Dorsal median sulcus, rabbit, 75
+rat, 84, 86
+Dorsal plane, xvii, xix
+Epigastric arteries, cat, 55
+ Dorsal sagittal sinus, dog, 26
+Epigastric lymph nodes
+Duodenum
+cat, 56
+cat, 46, 50
+rabbit, 65
+dog, 17
+Epigastric vein, cat, 54
+ guinea pig, 99, 100
+Epiglottis
+rabbit, 70, 71
+cat, 42, 43
+rat, 83, 84
+dog, 12, 16
+guinea pig. 98
+rabbit, 68, 69
+E
+rat, 82
+Ear
+Epithalamus, rat, 91
+cat, 44
+Esophagus
+dog, 15
+cat, 40,42, 43,46
+Ear canal 
+dog, 12, 16
+cat, 44
+guinea pig, 98, 99
+dog, 15
+rabbit, 68, 69
+rat, 78
+rat, 82, 83
+Eardrum, cat, 44
+Ethmoidal concha, cat, 42
+Efferent ductules, dog, 24
+Ethmoidal nerve, dog, 14
+Elastic ligament, cat, 48
+Ethmoid bone
+Elbow
+dog, 14
+cat, 34
+rat, 82
+dog, 2,3
+Ethmoturbinates, dog, 14
+guinea pig, 94
+Eye
+rabbit, 62
+cat, 45
+rat, 78
+dog, 13
+ Endocrine organs
+guinea pig. 94
+cat, 56
+rabbit, 62
+dog, 23
+rat, 78
+rabbit, 65
+Endoturbinates
+dog, 12
+F
+guinea pig,98
+Fabella
+dog. 5
+115
+ guinea pig, 95
+Facial artery
+dog, 4
+cat, 55
+rabbit, 63
+dog,27
+ Femoral vein
+Facial vein
+cat, 54
+cat, 54
+dog, 26
+dog, 26
+Femur
+ Falciform ligament, dog, 19
+dog, 5, 22
+Fasciae
+ guinea pig, 95
+cat, 38,39
+rabbit, 64
+dog, 6, 7, 8
+rat, 79
+rabbit, 66
+Fibula
+rat, 80
+cat, 37
+Femoral abductors, guinea pig, 97
+dog. 5
+Femoral adductors
+guinea pig,95
+cat, 40, 41
+rabbit, 64
+dog. 8, 9
+rat, 79
+rat, 81
+Fibular muscles, cat, 39, 40
+Femoral artery
+Flank
+cat, 55
+cat, 34
+dog,27
+dog,2,3
+ Femoral biceps
+guinea pig,94
+cat, 39
+rabbit, 62
+dog, 7, 18
+rat, 78
+ guinea pig, 97
+Flew
+rabbit, 66
+cat, 34
+rat, 80, 81
+dog,3
+Femoral fascia, cat, 38
+Footpad, dog. 2
+Femoral head, dog, 22
+Forearm
+ Femoral lymph nodes, dog, 28
+cat, 34
+ Femoral muscles
+dog, 2, 3
+cat, 39
+ guinea pig, 94
+dog, 8, 9
+rabbit, 62
+guinea pig, 96
+rat, 78
+Femoral nerve
+Forefoot
+cat, 57
+ guinea pig. 94
+dog, 29
+rabbit, 62
+guinea pig, 104
+Forepaw
+rabbit, 74
+cat, 35, 48,49
+rat, 88
+dog, 10, 11
+Femoral quadriceps
+Fornix, rat, 91
+dog. 8, 9
+Frenulum, cat, 42
+rat, 81
+ Frontal bone
+ Femoral region
+cat, 37, 42
+116
+cat, 36
+dog, 5,12
+guinea pig,95,98
+dog, 12
+rabbit, 64, 68
+ guinea pig, 98
+rat, 79, 82
+rat, 82
+Frontal muscle
+Genitofemoral nerve
+cat, 39
+cat, 57
+dog. 7
+dog, 29
+ guinea pig, 96
+rabbit, 74
+rabbit, 66
+rat, 88
+ Frontal plane, xvili
+Genitourinary system
+ Frontal sinus
+cat
+cat, 42
+female, 41, 51, 53
+dog, 12
+male, 50, 52
+ Frontoscutular muscle
+dog
+rabbit, 66
+female, 21, 23, 25
+rat, 80
+male, 18, 20, 23, 24
+guinea pig
+female, 103
+G
+male, 102
+Gall bladder, guinea pig, 100
+rabbit
+Ganglia
+female, 71, 73
+cat, 58
+male, 70,72
+dog, 30
+rat
+rat, 89
+female, 87
+Gastric lymph nodes, rabbit, 65
+male, 84, 86
+Gastrocnemius
+Genual region
+cat, 39
+cat, 36
+dog.8
+dog. 4
+ guinea pig, 96
+rabbit, 63
+rabbit, 66, 67
+Glands
+rat, 80, 81
+adrenal
+ Gastrointestinal system
+cat, 56
+cat, 46,47,50,51
+dog, 23
+dog, 17,18, 19, 20, 21, 22
+rabbit, 65, 71
+guinea pig, 99, 100, 101
+bulbourethral
+rabbit, 70, 71
+cat, 50, 52
+rat, 83, 85
+guinea pig, 102
+Gemellus muscles, cat, 40
+rabbit, 70, 72
+Genioglossal muscle
+rat, 86
+cat, 42
+circumanal, dog, 18
+dog, 12
+coagulation
+ guinea pig. 98
+guinea pig, 102
+rat, 82
+rat, 84, 86
+ Geniohyoid muscle
+deferent duct, rat, 86
+cat, 41
+lacrimal
+117
+Glands (continued)
+Gluteal fasciae
+cat, 45
+cat, 38
+dog. 13
+dog. 6
+mammary
+Gluteal muscles
+guinea pig, 101, 103
+cat, 39, 40
+rabbit, 71
+dog, 7, 8, 18
+rat, 87
+ guinea pig, 96, 97
+mandibular, dog, 15
+rabbit, 66, 67
+parathyroid
+rat, 80, 81
+cat, 56
+Gluteal nerves
+dog. 23
+cat, 57
+parotid, dog, 15
+dog. 29
+pineal
+Gluteal region
+dog, 23
+cat, 36
+rabbit, 75
+dog, 4
+rat, 90
+rabbit, 63
+pituitary
+Gluteal vein
+cat, 42, 56
+cat, 54
+dog, 23, 31
+dog, 26
+guinea pig,98
+Gracilis muscle, cat, 53
+rabbit, 65, 68, 75
+Guinea pig, xiv-xv
+rat, 82, 90, 91
+abdomen, 94, 99, 100, 101
+ preputial, rabbit, 70, 72
+brain, 98, 104, 105
+stomach, cat, 46
+central nervous system, 98, 104, 105
+tarsal
+cranial nerves, 105
+cat, 45
+dentition, 98
+dog. 13
+female
+thyroid
+ genitourinary system, 103
+cat, 43, 56
+viscera, 101
+dog, 16,23
+ gastrointestinal system, 99, 100, 101
+rabbit, 65, 69
+head, 98, 104, 105
+vesicular
+lateral view, 94
+ rabbit, 70, 72
+male
+rat, 84
+ genitourinary system, 102
+ Glans penis
+viscera, 100
+cat, 52
+muscles
+dog, 24
+deep,97
+guinea pig, 102
+superficial, 96
+rabbit, 72
+ pelvis, 100, 101
+rat, 86
+ peripheral nervous system, 104
+Gluteal artery
+skeleton, 95
+cat, 55
+skull, 98
+dog, 27
+thorax, 100, 101
+118
+viscera, 100, 101
+Gyri
+Humerus
+cat, 59
+cat, 37
+dog. 31
+dog,5
+guinea pig.95
+rabbit, 64
+H
+rat, 79
+ Hamate process, 64
+ Hyoglossal muscle, cat, 41
+Hard palate
+Hyoid apparatus, dog, 5
+cat, 42
+Hyoid bone
+dog, 16
+ guinea pig, 98
+rabbit, 68
+rabbit, 68
+rat, 82
+rat, 82
+Head
+Hypophyseal cleft, rat, 91
+cat, 36,40,41,42
+Hypophyseal stalk, rat, 90
+dog, 4, 12, 15
+Hypophysis
+ guinea pig, 97, 104, 105
+cat, 42, 56
+rabbit, 63, 68
+dog, 23, 31
+rat, 82
+guinea pig.98
+Heart
+rabbit, 65, 68, 75
+cat, 41, 50,51,56
+rat, 82, 90, 91
+dog, 9, 19,20, 21, 23
+Hypothalamus
+ guinea pig, 100, 101
+dog,31
+rabbit, 65, 70, 71
+rat, 90
+rat, 84, 85
+Hepatic vein
+cat, 54
+dog, 26
+ lleocecal junction
+Hindfoot
+guinea pig. 99
+guinea pig.94
+rat, 83
+rabbit, 62
+Ileocolic orifice, dog, 18
+Hindpaw
+lleum
+cat, 35, 49
+cat, 46, 47
+dog, 11
+guinea pig, 99
+Hip
+rat, 83
+cat, 34
+lliac artery
+dog, 2,3, 22
+cat, 55
+rabbit, 64
+dog, 27
+Hock
+Iliac vein
+cat, 34
+cat, 54
+dog, 2,3
+dog, 26
+guinea pig, 94
+liocostal lumbar muscles
+rabbit, 62
+cat, 41
+rat, 78
+ guinea pig, 97
+House rat, xiv
+119
+lliocostal thoracic muscles
+8 8op
+dog, 8, 9
+ guinea pig, 97
+guinea pig, 97
+rabbit, 67
+lioepigastric nerve, dog, 29
+ Intercostal vein
+lliofemoral lymph nodes, dog, 28
+cat, 54
+ liohypogastric nerve, guinea pig, 104
+dog, 26
+lliopubic eminence, dog, 22
+ Intermediate mass
+ lliosacral lymph nodes, dog, 28
+cat, 42
+ llium
+ guinea pig, 98
+cat, 37
+rat, 91
+dog, 5, 22
+ Interosseous artery
+rat, 79
+cat, 55
+Incisive bone
+dog, 27
+dog, 5, 12
+Interosseous ligament, cat, 41
+ guinea pig, 95, 98
+ Interosseous muscles
+rabbit, 64, 68
+cat, 48
+rat, 79
+dog, 11
+ Incisive duct, dog, 14
+Interosseous vein, cat, 54
+Incisors
+Interparietal bone, rat, 82
+cat, 42
+ Interscapular region
+dog, 12
+cat, 36
+ guinea pig, 98
+dog, 4
+rabbit, 68, 69
+rabbit, 63
+rat, 82
+ Interthalamic adhesion, rabbit, 68
+Incus
+Intertransverse muscles, dog. 7
+cat, 44
+Intestinal lymphatic trunk, dog, 28
+dog, 15
+Iris
+ Inframammillary recess, rat, 91
+cat eye, 45
+ Infraspinate muscle
+dog eye, 13
+cat, 39, 40
+Ischiatic lymph nodes, cat, 56
+dog. 8
+Ischiatic tuber, dog, 22
+ guinea pig, 97
+ Ischiocavernous muscle, dog, 18
+rabbit, 66, 67
+Ischium
+rat, 81
+cat, 37, 52
+Infundibular recess, rat, 91
+dog,5, 22
+ Inguinal lymph nodes
+guinea pig, 102
+cat, 53, 56
+rat, 79
+dog, 28
+rabbit, 65, 73
+ Intercostal artery
+cat, 55
+Jejunum
+dog, 27
+cat, 46, 50, 51
+ Intercostal muscles
+dog, 17, 20, 21
+120
+cat, 40
+guinea pig, 99, 101
+rabbit, 70, 71
+Lateral, xvii, xix
+rat, 83,84,85,87
+Lateral commissure
+Joints
+cat eye, 45
+cat, 37
+dog eye, 13
+dog. 9
+Lateral cutaneous nerve
+ Jugular vein
+cat, 57
+cat, 54
+ guinea pig, 104
+dog, 26
+rabbit, 74
+rat, 88
+Leg
+K
+cat, 34
+Kidney
+dog.2,3
+cat, 41, 50,51,56
+ guinea pig, 94
+dog, 20, 21, 23
+rabbit, 62
+ guinea pig, 100, 101
+rat, 78
+rabbit, 65, 70, 71
+Lens
+rat, 84, 85
+cat eye, 45
+Knee
+dog eye, 13
+guinea pig, 94
+Ligaments, digital
+rabbit, 62
+cat, 48, 49
+rat, 78
+dog, 10, 11
+Lingual artery
+cat, 55
+dog, 27
+Labia, dog, 25
+Lingual vein
+Labial vein, dog, 26
+cat, 54
+ Lacrimal canaliculi
+dog, 26
+cat, 45
+Linguofacial vein
+dog, 13
+cat, 54
+Lacrimal caruncle
+dog, 26
+cat, 45
+Lip
+dog, 13
+dog, 3, 7
+ Lacrimal gland
+guinea pig, 94, 96, 98
+cat, 45
+rabbit, 68
+dog,13
+rat, 82
+Lacrimal sac
+Liver
+cat, 45
+cat, 41, 50, 51
+dog, 13
+dog, 9, 17, 19, 20, 21
+Laryngeal ventricle, dog, 12
+ guinea pig, 100, 101
+Laryngopharynx
+rabbit, 70, 71
+cat, 43
+rat, 84, 85
+dog, 12, 16
+Loin
+Larynx
+cat, 34
+cat, 43
+dog,3
+121
+dog, 16
+Loin (continued)
+dog,5, 22
+ guinea pig, 94
+ guinea pig, 95
+rabbit, 62
+rabbit, 64
+Long abductor of pollex
+rat, 79
+cat, 39, 40, 41
+Lumbosacral plexus
+dog, 8
+cat, 57
+rabbit, 67
+dog, 29
+Long capital muscle
+rabbit, 74
+cat, 42
+rat, 88
+dog, 9, 12
+Lumbrical muscles, cat, 49
+guinea pig. 98
+Lung
+rabbit, 68
+cat, 41, 50, 51
+rat, 81
+dog, 19, 20, 21
+Long cervical muscle, guinea pig, 97
+guinea pig, 100, 101
+Long digital flexor, dog, 8
+rabbit, 70, 71
+ Longest capital muscle
+rat, 84, 85
+6 8op
+Lymph nodes
+rabbit, 68
+cat, 53, 56
+ Longest lumbar muscle
+dog, 28
+ guinea pig, 97
+rabbit, 65, 68
+rabbit, 67
+ Longest thoracic muscle, rabbit, 67
+ Long extensor of pollux, cat, 41
+M
+Long fibular muscle, dog. 8
+Major teres
+Long flexor of hallux, cat, 41
+cat, 40
+Long flexor of pollex, rabbit, 67
+dog, 7,8, 9
+ Long neck muscle, dog. 12
+ guinea pig, 97
+ Lumbar arteries, cat, 55
+rabbit, 67
+Lumbar lymphatic trunk, dog, 28
+rat, 81
+Lumbar lymph nodes, dog, 28
+ Malaris muscle, guinea pig, 96
+Lumbar muscles
+Malleus
+cat, 41
+cat, 44
+dog,8, 9
+dog. 15
+guinea pig, 97
+ Mammary glands
+rabbit, 67
+guinea pig, 101, 103
+rat, 81
+rabbit, 71
+Lumbar plexus, guinea pig, 104
+rat, 87
+Lumbar region
+Mammillary body, guinea pig, 105
+cat, 36
+Mandible
+dog, 4
+cat, 37,42
+rabbit, 63
+dog, 5, 12
+Lumbar vein, cat, 54
+guinea pig, 95, 98
+Lumbar vertebrae
+rabbit, 64, 68
+122
+cat, 37
+rat, 79, 82
+Mandibular gland, dog, 15
+Mediastinal lymph nodes
+ Mandibular lymph nodes
+dog, 28
+cat, 56
+rabbit, 65
+dog, 28
+Mediastinal pleura, xx, xxi
+rabbit, 65, 68
+ Mediastinum, xx, xxi
+Manubrium, cat, 37
+Medulla oblongata
+Manus
+dog, 31
+cat, 35
+ guinea pig, 105
+dog, 2
+rabbit, 75
+Masseter muscle
+rat, 90, 91
+cat, 39
+Mental muscle, rabbit, 66
+dog. 7
+Mesencephalic tectum, rabbit, 75
+ guinea pig, 96, 97
+Mesenteric arteries
+rabbit, 66
+cat, 55
+rat, 80, 81
+dog, 27
+ Mastoid process, rat, 82
+ Mesenteric ganglion
+Maxilla
+cat, 58
+cat, 37
+rat, 89
+dog, 5, 12, 14
+Mesenteric lymph nodes
+guinea pig,95
+dog, 28
+rabbit, 64, 68
+rabbit, 65
+rat, 79, 82
+Mesentery, xx, xxi
+Maxillary artery
+dog, 19
+cat, 55
+rat, 84
+dog. 27
+Metacarpal bones
+ Maxillary vein
+cat, 37
+cat, 54
+dog, 5, 10
+dog, 26
+ guinea pig, 95
+Medial, xvii, xix
+rabbit, 64
+Medial commissure, cat, 45
+rat, 79
+Median artery
+ Metacarpal extensor, guinea pig. 97
+cat, 55
+Metacarpal pads
+dog, 27
+cat, 48, 49
+ Median groove, tongue, dog. 16
+dog, 10, 11
+ Median nerve
+Metacarpal region
+cat, 57
+cat, 36
+dog, 29
+dog, 4
+guinea pig, 104
+rabbit, 63
+rabbit, 74
+Metacarpus
+rat, 88
+cat, 34
+ Median plane, xvi, xix
+dog, 2, 3
+Median vein
+guinea pig. 94
+cat, 54
+rabbit, 62
+dog, 26
+rat, 78
+123
+ Metatarsal bones
+cat, 39
+cat, 37
+dog, 7
+dog.5
+guinea pig, 96
+ guinea pig, 95
+rabbit, 66
+rabbit, 64
+rat, 80
+rat, 79
+Musculocutaneous nerve
+Metatarsal pads, cat, 49
+cat, 57
+ Metatarsal region
+dog, 29
+cat, 36
+rabbit, 74
+dog. 4
+rat, 88
+rabbit, 63
+Muzzle
+Metatarsus
+cat, 34
+cat, 34
+dog, 2,3, 14
+dog,3
+rabbit, 62
+ guinea pig, 94
+rat, 78
+rabbit, 62
+Mylohyoid muscle
+rat, 78
+cat, 40, 42
+ Minor teres, dog. 9
+ guinea pig, 98
+Molars
+rabbit, 68
+cat, 42
+rat, 82
+dog, 12
+Mystical pad, 96
+ guinea pig, 98
+rabbit, 68
+rat, 82
+N
+Mouth
+Nares/naris
+cat, 42, 43
+cat, 42, 45
+dog, 12, 16
+dog, 14
+ guinea pig, 98
+guinea pig, 94, 98
+rabbit, 68, 69
+rabbit, 62, 69
+rat, 82
+rat, 78, 82
+Muscles
+Nasal bone
+cutaneous
+dog, 5, 12, 14
+cat, 38
+guinea pig, 95, 98
+dog. 6
+rabbit, 64, 68
+deep
+rat, 79, 82
+cat, 41
+ Nasal cartilage, dog. 14
+dog, 8, 9
+Nasal cavity, dog, 12
+guinea pig.97
+Nasal conchae
+rabbit, 67
+cat, 42
+rat, 81
+dog, 12
+ middle layer
+ guinea pig. 98
+cat, 40
+rabbit, 68
+rat, 81
+rat, 82
+124
+ superficial
+Nasal levator, rat, 80
+Nasal meatus
+dog, 5, 12
+dog, 12
+guinea pig, 95, 98
+rabbit, 68
+rabbit, 64, 68
+Nasal planum
+rat, 79, 82
+cat, 43
+Occipital condyle
+rabbit, 69
+cat, 42
+Nasal punctum, cat, 45
+rat, 82
+Nasal septum, dog, 14
+ Occiput, dog, 3
+Nasolabial levator
+ Ocular angle, dog, 26
+ guinea pig. 96
+ Ocular orbicular muscle
+rabbit, 66
+cat, 39
+Nasolacrimal duct
+dog. 7
+cat, 45
+ guinea pig, 96
+dog, 13
+rabbit, 66
+Neck
+rat, 80
+cat, 34
+ Olfactory bulb
+muscles of, 38, 39, 40, 41, 42
+cat, 57, 59
+dog, 2,3
+dog, 14, 31
+muscles of, 6, 8, 9, 12
+guinea pig, 104
+superficial fascia, 6
+rabbit, 68, 74, 75
+guinea pig,94
+rat, 90
+rabbit, 62
+Olfactory lobe
+rat, 78, 82
+guinea pig, 98, 105
+Neurohypophysis, rat, 91
+rabbit, 75
+Norway rat, xiv
+rat, 82, 88, 91
+Nose
+Olfactory nerves, dog, 14
+cat, 34
+Olfactory tract
+dog,2,3,7,14
+cat, 59
+Nuchal ligament, dog, 12
+guinea pig, 105
+rabbit, 75
+rat, 90
+0
+Olfactory tuberculum, guinea pig, 105
+ Obturator foramen, dog. 22
+ Olive, guinea pig, 105
+ Obturator muscles
+Omentum
+cat, 40
+dog, 17, 19
+dog, 18
+rat, 83
+ Obturator nerve
+ Omobrachial fascia, cat, 38
+cat, 57
+Omobrachial vein, dog, 26
+dog, 29
+Omotransverse muscle
+rabbit, 74
+cat, 39
+ Occipital artery
+dog, 7,8, 9
+cat, 55
+rabbit, 66, 67
+dog, 27
+rat, 80, 81
+ Occipital bone
+Ophthalmic plexus, dog, 26
+125
+cat, 37, 42
+Optic chiasm
+Pancreas
+cat, 59
+cat, 56
+dog,31
+dog, 19,20, 23
+guinea pig, 105
+guinea pig,99, 100, 101
+rat, 82, 91
+rabbit, 65, 70
+Optic nerve
+rat, 83
+cat, 45
+Pancreatic duct, cat, 46
+dog, 31
+ Pancreatic lymph nodes, rabbit, 65
+ guinea pig, 104
+Papillae
+Optic retina, cat, 45
+duodenal, cat, 46, 47
+ Oral cavity
+tongue
+cat, 43
+cat, 43
+rabbit, 68
+dog, 16
+ Oral orbicular muscle
+rabbit, 69
+cat, 39
+ Parasympathetic nerves
+dog. 7
+cat, 58
+ guinea pig, 96
+dog, 30
+rabbit, 66
+rat, 89
+rat, 81
+ Parathyroid gland
+Orbit
+cat, 56
+dog, 2
+dog, 23
+guinea pig, 95, 98
+Parietal bone
+rabbit, 62
+cat, 37,42
+Oropharynx, dog, 12
+dog, 5, 12
+Os coxae, guinea pig, 95
+guinea pig, 95, 98
+Ovarian artery /vein, cat, 55
+rabbit, 64, 68
+Ovarian duct, cat, 41
+rat, 79
+Ovary
+ Parietal pericardium, xx, xxi
+cat, 41, 51, 56
+dog, 19
+dog, 9, 21, 23
+ Parietal peritoneum, xx, xxi
+ guinea pig, 101, 103
+dog, 19
+rabbit, 65, 71, 73
+Parietal pleura, xx, xxi
+rat, 85, 87
+dog, 19
+Parotid gland, dog, 15
+ Parotid lymph nodes
+cat, 56
+ Palatine process
+dog, 28
+dog, 14
+rabbit, 65
+rabbit, 68
+Parotidoauricular muscle, dog. 7
+ Palatopharyngeal arch, cat, 43
+Parotidomandibular muscle, cat, 39
+Palmar, xvi, xvii, 35
+Pars distalis, rat, 91
+ Palmar anular ligament, dog, 10
+Pars intermedia, rat, 91
+Palpebral artery, cat, 55
+Pastern, cat, 34
+126
+Palpebral depressor, rabbit, 66
+Patella
+ Peroneal muscles 
+cat, 37
+rabbit, 67
+dog.5
+rat, 80
+guinea pig, 95
+ Peroneal nerve
+rabbit, 64
+cat, 57
+rat, 79
+dog, 29
+Paw, rat, 78
+ guinea pig, 104
+ Pectoral muscles
+rabbit, 74
+cat, 39
+rat, 88
+dog, 7
+Phalanges
+ guinea pig, 96, 97
+cat, 37, 48
+rabbit, 66
+dog, 5, 10
+Pedal artery, dog, 27
+guinea pig, 95
+Pelvic nerve
+rat, 79
+cat, 58
+ Pharynx
+dog, 30
+cat, 42
+rat, 89
+guinea pig. 98
+Pelvis
+rabbit, 68, 69
+cat, 50,51,52,53
+rat, 82
+dog, 22
+ Philtrum
+guinea pig, 100, 101
+cat, 43
+rabbit, 70
+dog, 14
+rat, 84, 85
+rabbit, 69
+Penile bone, dog, 5, 24
+ Phrenic nerve
+Penile retractor
+ guinea pig, 104
+dog, 24
+rabbit, 74
+guinea pig, 102
+rat, 88
+Penis
+ Pineal gland
+cat, 50, 52
+dog,23
+dog, 5, 20, 24
+rabbit, 75
+ guinea pig, 100, 102
+rat, 90
+rabbit, 70, 72
+Pinna
+rat, 84, 86
+cat, 34
+ Pericardial cavity, xx, xxi
+dog, 2, 3, 15
+ Pericardium, xx, xxi
+ guinea pig, 94
+ Peripheral nervous system
+rabbit, 62
+cat, 57
+rat, 78
+guinea pig, 104
+Piriform lobe
+rabbit, 74
+cat, 59
+rat, 88
+ guinea pig, 105
+ Peritoneal cavity, xx, xxi
+Piriform muscle, cat, 40
+Peritoneal ligaments, xx, xxi
+ Pituitary gland
+Peritoneum, xx, xxi
+cat, 42, 56
+cat, 47
+dog, 23, 31
+127
+Pituitary gland (continued)
+Prostate
+ guinea pig, 98
+cat, 50, 52
+rabbit, 65, 68, 75
+dog, 20, 24
+rat, 82
+guinea pig, 102
+Placenta, dog, 23
+rabbit, 72
+ Plantar, xvi, xvii
+rat, 84, 86
+Plantar anular ligaments, cat, 49
+Proximal, xvi, xvi, 35
+Plantaris muscle, cat, 40
+ Pterygoid vein, cat, 54
+Plantar nerves
+ Pubic symphysis
+dog, 29
+cat, 53
+rabbit, 74
+dog, 22, 24
+ Platysma muscle
+guinea pig, 102, 103
+cat, 38
+rat, 84, 85, 87
+dog. 6
+Pubis
+ Pleura, xx, xxi
+cat, 37, 52
+Pleural cavity, xx, xxi
+dog, 5, 22
+Pons
+rabbit, 72, 73
+cat, 59
+rat, 79
+dog, 31
+Pudendal nerve, cat, 57
+ guinea pig, 105
+Pudendal veins, cat, 54
+rabbit, 68, 75
+Pupil
+rat, 90, 91
+cat eye, 45
+ Popliteal artery
+dog eye, 13
+cat, 55
+Pyramids
+dog, 27
+cat, 59
+ Popliteal lymph nodes
+rat, 90
+dog, 28
+ Pyriform lobe, guinea pig, 105
+rabbit, 65
+ Positional terms, xvi
+ Premaxilla, rat, 82
+R
+Premolars
+Rabbit, xiv
+cat, 42
+abdomen, 62, 70
+dog, 12
+body regions, 63
+guinea pig. 98
+brain, 75
+rabbit,68
+central nervous system, 74, 75
+ Prepuce
+cranial nerves, 74, 75
+cat,52
+dentition, 68, 69
+dog, 2, 24
+endocrine organs, 65
+ guinea pig, 102
+face, 62
+rabbit, 72
+female
+rat, 84, 86
+ genitourinary system, 71, 73
+ Preputial gland, rabbit, 70, 72
+viscera, 71
+Preputial muscle, dog. 6
+ gastrointestinal system, 70, 71
+128
+head, 68
+lymph nodes, 65
+gastrointestinal tract, 83, 85
+male
+head, 82
+genitourinary system, 70, 72
+male
+lateral view, 62
+genitourinary system, 84, 86
+viscera, 70
+lateral view, 78
+muscles
+viscera, 84
+deep, 67
+muscles
+superficial, 66
+deep,81
+pelvis, 70
+middle layer, 81
+ peripheral nervous system, 74
+neck/head, 82
+skeleton, 64
+superficial, 80
+skull, 68
+pelvis, 84, 85
+thorax, 62, 70
+ peripheral nervous system, 88
+viscera, 70, 71
+skeleton, 79
+Radial artery
+skull, 82
+cat, 55
+teeth, 82
+dog, 27
+thorax, 84, 85
+ Radial carpal extensor
+viscera, 84, 85
+cat, 39, 40
+Rectal arteries, cat, 55
+dog, 8
+Rectococcygeous
+guinea pig,96
+cat, 52
+rabbit, 67
+rabbit, 73
+rat, 80
+Rectum
+ Radial nerve
+cat,47,50,51,52,53
+cat, 57
+dog, 18, 19, 20, 21, 24, 25
+dog, 29
+guinea pig, 99, 100, 101, 102
+ guinea pig, 104
+rabbit, 70, 71, 72, 73
+rabbit, 74
+rat, 83,84, 85,86,87
+rat, 88
+ Rectus muscles
+Radius
+cat eye, 45
+cat, 37
+dog eye, 13
+dog.5
+ Renal artery
+ guinea pig, 95
+cat, 55
+rabbit, 64
+dog, 27
+rat, 79
+Renal vein
+Rat, xiv
+cat, 54
+abdomen, 78, 83, 84, 85
+dog, 26
+autonomic nervous system, 89
+ Reproductive organs
+brain, 82, 88, 90, 91
+cat
+ central nervous system, 82, 88, 90, 91
+female, 41, 51, 53
+cranial nerves, 89, 90
+male, 50, 52
+female
+dog
+ genitourinary system, 87
+female, 21, 23, 25
+viscera, 85
+male, 18, 20, 23, 24
+129
+Reproductive organs (continued)
+ guinea pig
+Sacral arteries, cat, 55
+female, 103
+Sacral lymph nodes, cat, 56
+male, 102
+Sacral outflow
+rabbit
+cat, 58
+female, 73
+dog, 30
+male, 72
+rat, 89
+rat
+Sacral region
+female, 85, 87
+cat, 36
+male, 84, 86
+dog.4
+Rete mirabile, cat, 55
+rabbit, 63
+ Retina
+Sacral tuber, dog, 22
+cat eye, 45
+Sacral veins, cat, 54
+dog eye, 13
+Sacral vertebrae
+ Retractor penis
+cat, 37
+cat, 52
+rat, 79
+dog, 18
+Sacrocaudal muscles
+rabbit, 72
+cat, 39
+Retropharyngeal lymph nodes
+dog, 7,8
+cat, 56
+ Sacroiliac joints, dog, 22
+dog, 28
+Sacroiliac ligament, dog, 22
+ Rhomboid muscles
+Sacrotuberous ligament, dog, 22
+capital
+Sacrum
+dog. 8
+dog, 22
+rat, 80, 81
+ guinea pig, 95
+cervical
+rabbit, 64
+cat, 40
+rat, 86,87
+dog.8
+Sagittal plane, xvi, xix
+rabbit, 67
+ Saphenous artery
+rat, 81
+cat, 55
+Ribs
+dog, 27
+cat, 37
+Saphenous nerve, dog, 29
+dog.5
+Saphenous vein
+guinea pig. 95
+cat, 54
+rabbit, 64
+dog, 26
+rat, 79, 84
+Sartorius muscle
+Roof rat, xiv
+cat, 39
+Rostral, xvi, xvii, 35
+dog. 7,8
+Rump
+guinea pig, 96
+ guinea pig. 94
+Scalene muscles
+rabbit, 62
+guinea pig,97
+rat, 78
+rat, 81
+Scapula
+130
+cat, 37
+dog.5
+dog, 8, 18
+ guinea pig, 95
+ guinea pig, 96
+rabbit, 64
+rabbit, 66, 67
+rat, 79
+rat, 80, 81
+Scapular deltoid muscle, rat, 80
+Septum pellucidum
+Scapular levator
+dog, 31
+cat, 40
+rat, 91
+rabbit, 67
+Serous cavities, xx, xxi
+ Scapular region
+Serous membranes, dog. 19
+cat, 36
+Serrated muscles
+dog, 4
+cat, 40, 41
+rabbit, 63
+dog. 8, 9
+Scapular trunk
+ guinea pig, 96
+ guinea pig, 104
+rabbit, 66, 67
+rat, 88
+rat, 80, 81
+ Scapuloclavicular muscle, guinea pig. 97
+Sesamoid bones
+Sciatic nerve
+cat, 48
+cat, 57
+dog,5, 10
+dog, 29
+Shoulder
+guinea pig, 104
+cat, 34
+rabbit, 74
+dog.3
+rat, 88
+rabbit, 62
+Sclera
+rat, 78
+cat eye, 45
+Skeleton
+dog eye, 13
+cat, 37
+Scrotum
+dog.5
+cat, 52
+ guinea pig, 95
+dog, 24
+rabbit, 64
+rat, 78
+rat, 79
+Semicircular canals, dog, 15
+Skull
+Semicircular ducts, cat, 44
+cat, 41, 42
+Semimembranous muscle
+dog, 12
+cat, 40
+ guinea pig, 98
+dog, 7,8, 9, 18
+rabbit, 68
+ guinea pig. 97
+rat, 82
+rabbit, 67
+Small intestine
+Seminal vesicle
+cat, 50, 51
+guinea pig, 100, 102
+dog, 19, 23
+rat, 86
+Soft palate
+Seminiferous tubules, dog, 24
+cat, 42, 43
+Semispinal muscles
+dog, 12, 16
+cat, 40, 41
+guinea pig. 98
+dog,8,9
+rabbit, 68, 69
+Semitendinous muscle
+rat, 82
+131
+cat, 39
+Soleus
+Sternohyoid muscle
+cat, 39,40
+cat, 39, 40
+guinea pig, 97
+dog, 7, 12
+rat, 81
+guinea pig, 97
+ Somatic nervous system, dog, 29
+rabbit, 66
+ Spermatic cord
+rat, 80, 81,82
+cat, 52
+Sternomastoid muscle
+dog, 20
+rabbit, 67
+rabbit, 72
+rat, 80
+rat, 84
+ Sternothyroid muscle
+ Sphenoid bone, guinea pig. 98
+cat, 40
+Sphenoid sinus, cat, 42
+dog, 3
+Spinal cord
+guinea pig,98
+cat, 57, 59
+rabbit, 66
+dog, 12, 31
+Sternum
+guinea pig, 98, 105
+cat, 37
+rabbit, 68
+dog. 5
+rat, 82,88,90
+guinea pig, 95
+Spinal erector, guinea pig, 96
+rabbit, 64
+Spinal medulla, rabbit, 75
+rat, 79
+Spinal muscles
+Stifle
+cat, 40, 41
+cat, 34
+dog, 8, 9
+dog, 2, 3
+ guinea pig, 97
+rabbit, 62
+rabbit, 67
+Stomach
+Spleen
+cat, 41, 46,51
+cat, 41, 51
+dog, 9, 17, 19,21,23
+dog, 9, 17,20, 21
+guinea pig, 99, 100
+guinea pig, 101
+rabbit, 70, 71
+rabbit, 71
+rat, 83, 85
+rat, 83, 85
+Stop
+Splenius
+cat, 34
+cat, 40, 42
+dog. 3
+dog.8
+Stylohyoid muscle, rat, 81
+guinea pig, 97, 98
+Subclavian artery
+rabbit,67,68
+cat, 55
+rat, 81
+dog, 27
+Stapes, dog, 15
+ Subscapular nerves
+ Sternal region
+cat, 57
+cat, 36
+dog, 29
+dog. 4
+ Subscapular vein, cat, 54
+rabbit, 63
+Sulci, dog, 31
+ Sternocephalic muscle
+Supinator muscle, cat, 40, 41
+cat, 39
+132
+Suprahamate process, 64
+dog. 7,8
+Suprascapular muscle, rat, 81
+ Suprascapular nerves
+guinea pig.94
+cat, 57
+rabbit, 62
+dog, 29
+rat, 78
+Supraspinatus muscle
+Tectum, rabbit, 68
+cat, 40
+Teeth
+dog. 8
+cat, 42
+ guinea pig, 97
+dog, 12
+rabbit, 67
+ guinea pig, 98
+Sural nerves
+rabbit, 68, 69
+cat, 57
+rat, 82
+dog, 29
+ Temporal artery
+ Sylvian fissure, guinea pig, 105
+cat, 55
+Sylvian gyrus, cat, 59
+dog. 27
+Sympathetic nerves
+Temporal bone
+cat, 58
+cat, 37,42,44
+dog, 30
+dog, 5, 12, 15
+rat, 89
+guinea pig, 95
+Symphysial tendon, cat, 53
+rabbit, 64, 68
+rat, 79, 82
+ Temporal bulla, guinea pig. 98
+T
+ Temporal muscle
+Tactile hairs
+cat, 39, 44
+cat, 34
+dog, 15
+ guinea pig, 94
+guinea pig, 96, 97
+Tail
+rat, 80, 81
+cat, 34
+Temporal vein, cat, 54
+dog, 2,3
+Tensor of fascia lata
+rabbit, 62
+cat, 39
+rat, 78
+dog. 7, 8
+Tarsal bones
+rabbit, 66
+cat, 37
+rat, 80
+dog.5
+Testicular artery/vein
+ guinea pig, 95
+cat, 54, 55
+rabbit, 64
+dog, 24, 26
+rat, 79
+ guinea pig, 102
+Tarsal gland
+rat, 84, 86
+cat, 45
+Testicular rete, dog. 24
+dog, 13
+Testis
+ Tarsal region
+cat, 50, 52,56
+cat, 36
+dog, 20, 23, 24
+rabbit, 63
+ guinea pig, 100, 102
+Tarsus
+rabbit, 65, 70, 72
+cat, 34
+rat, 84, 86
+dog,3
+Thalamus, dog, 31
+133
+Thigh
+Thoracolumbar fasciae
+cat, 34
+dog, 6
+dog,2,3
+rat, 80
+guinea pig, 94
+Thoracolumbar outflow
+rabbit, 62
+cat, 58
+rat, 78
+dog, 30
+Third digit
+rat, 89
+cat, 48, 49
+Thorax
+dog, 10, 11
+cat, 34, 50, 51
+Third eyelid
+dog, 3, 4, 20, 21
+cat, 45
+ guinea pig, 100, 101
+dog, 13
+rabbit, 62, 70
+ Thoracic arteries
+rat, 78, 84, 85
+cat, 55
+Throatlatch, dog. 2, 3
+dog,27
+Thymus, rat, 84, 85
+Thoracic cavity, xx, xxi
+ Thyroid cartilage
+Thoracic duct, dog, 28
+cat, 42
+ Thoracic lymph nodes
+dog, 12
+cat, 56
+rabbit, 68
+dog, 28
+rat, 82
+Thoracic muscles
+Thyroid gland
+cat, 40
+cat, 43, 56
+dog, 8, 9
+dog, 16, 23
+rabbit, 67
+rabbit, 65, 69
+rat, 81
+Tibia
+Thoracic nerves
+cat, 37
+cat, 57
+dog.5
+dog,29
+guinea pig,95
+rabbit, 74
+rabbit, 64
+Thoracic region
+rat, 79
+cat, 36
+Tibial artery
+dog, 4
+cat, 55
+rabbit, 63
+dog, 27
+Thoracic veins
+Tibial muscle
+cat, 54
+cat, 39
+dog, 26
+dog.8
+ Thoracic vertebrae
+rabbit, 67
+cat, 37
+rat, 80
+dog.5
+Tibial nerve
+ guinea pig, 95
+cat, 57
+rabbit, 64
+dog. 29
+rat, 79
+ guinea pig, 104
+Thoracodorsal vein, dog, 26
+rat, 88
+134
+Tibial vein, cat, 54
+Tongue
+Tympanic cavity
+cat,43
+cat, 44
+dog, 16
+dog, 15
+rabbit, 69
+Tympanic membrane
+Tonsils
+cat, 44
+cat, 43
+dog, 15
+dog, 16
+rabbit, 69
+Trachea
+U
+cat, 42, 43
+Ulna
+dog, 12, 16
+cat, 37
+guinea pig, 97, 98
+dog. 5
+rabbit, 69
+ guinea pig, 95
+rat, 82
+rabbit, 64
+Tracheal lymphatic trunk, dog, 28
+rat, 79
+Trachiobronchial lymph nodes, cat, 56
+ Ulnar arteries
+Transverse plane, xvi, xix
+cat, 55
+Transversospinal muscle, cat, 41
+dog, 27
+ Trapezius muscle
+Ulnar carpal extensor
+cat, 39
+ guinea pig, 96
+dog. 7
+rat, 80
+ guinea pig, 96, 98
+Ulnar carpal flexor
+rabbit, 66, 68
+cat, 39,40
+rat, 80
+dog, 8
+Trapezoid area, guinea pig, 105
+ guinea pig, 96
+Trapezoid body, cat, 59
+rat, 80
+Trigeminal nerve, rat, 88, 90
+Ulnar muscles, cat, 39, 40
+ Trochanteric region
+Ulnar nerve
+cat, 36
+cat, 57
+dog, 4
+dog, 29
+rabbit, 63
+ guinea pig, 104
+Trunk muscle, cutaneous
+rabbit, 74
+cat, 38
+rat, 88
+dog. 6
+Ulnar vein
+Tuber cinereum
+cat, 54
+cat, 59
+dog, 26
+guinea pig, 105
+ Umbilical artery, dog, 27
+Tuber coxae, dog, 22
+ Umbilical region
+Tunica albuginea, dog, 24
+cat, 36
+Tympanic bulla
+dog, 4
+cat, 42, 44
+rabbit, 63
+dog, 15
+Ungual process, dog, 10
+rat, 82
+Unguicular bones, rat, 79
+135
+Ureter
+Vagus nerve
+cat, 41,50,51,53
+cat, 58
+dog, 9, 20, 21, 24
+dog, 29, 30
+guinea pig, 100, 101, 102
+guinea pig, 104
+rabbit, 70, 71, 72,73
+rat, 88, 89
+rat, 84, 85,86,87
+Vast muscles
+Urethra
+ intermediate, dog, 9
+cat, 50, 51, 53
+lateral
+dog, 20,21,24, 25
+cat, 40
+guinea pig, 101, 103
+ guinea pig, 96, 97
+rabbit, 70, 73
+rabbit, 67
+rat, 85,86,87
+medial, cat, 41
+ Urethral muscle
+Veins
+cat, 52
+cat, 54
+rabbit, 72
+dog, 26
+rat, 84, 86
+Vena cava
+Urinary bladder
+cat, 54
+cat, 50, 51,52,53
+dog, 26
+dog, 17,19, 20, 21, 24, 25
+Ventral, xvi, xvii, 35
+guinea pig, 100, 101, 102, 103
+Ventral cervical region, dog, 4
+rabbit, 72, 73
+Vermis, rabbit, 75
+rat, 84, 85, 86, 87
+Vertebral artery
+Uterus
+cat, 55
+cat, 41, 51, 53
+dog, 27
+dog, 9, 21, 25
+Vertebral sympathetic ganglia
+guinea pig, 101, 103
+cat, 58
+rabbit, 71, 73
+rat, 89
+rat, 85, 87
+Vertebral vein
+Utricle
+cat, 54
+cat, 44
+dog, 26
+dog, 15
+Vesicular gland
+rabbit, 70, 72
+rat, 84
+Vestibular bulb, dog, 25
+Vagina
+Vestibule
+cat, 42, 51, 53
+rat nose, 82
+dog, 12, 19, 21,25
+vaginal
+guinea pig, 101, 103
+cat, 42, 44, 53
+rabbit, 71, 73
+dog, 12
+rat, 85, 87
+rabbit, 71
+Vaginal tunic, dog, 24
+rat, 85, 87
+Vagosympathetic trunk, 89
+Viscera, xx, xxi
+cat, 58
+cat
+136
+dog, 30
+female, 41, 51
+male, 50
+dog
+female, 9, 21
+Xiphoid process
+male, 20
+cat, 37
+ guinea pig
+ guinea pig, 95
+female, 101
+rabbit, 64
+male, 100
+rat, 79
+rabbit
+ Xiphoid region
+female, 71
+cat, 36
+male, 70
+dog, 4
+rat
+rabbit, 63
+female, 85
+male, 84
+Visceral pericardium, xx, xxi
+Z
+dog, 19
+Zonular fibers, dog, 13
+Visceral peritoneum, xx, xxi
+Zygomatic bone
+dog, 19
+cat,37,42
+Visceral pleura, xx, xxi
+dog, 5, 12
+dog, 19
+guinea pig, 95, 98
+Vitreous body, cat, 45
+rabbit, 64, 68
+Vitreous chamber, dog, 13
+rat, 82
+Vocal cords, cat, 42
+Zygomatic muscle
+Vocal fold, dog, 12
+dog. 7
+Vomer, guinea pig. 98
+ guinea pig, 96
+Vomeronasal nerves, dog, 14
+rabbit, 66
+Vomeronasal organ, dog, 14 
+rat, 80
+Vulva
+ Zygomaticomandibular muscle, rabbit, 66
+cat, 53
+Zygomatic process, rat, 82
+dog, 25
+Vulvar constrictor muscle
+cat, 53
+dog,25
+137
+小动物解部彩色图谱
+小尾巴宠物健康中心译制

@@ -1,0 +1,578 @@
+Leptospirosis - reevaluation
+of a zoonotic disease
+钩端螺旋体病---一种人畜共患
+病的重新评估
+Janine Huebner
+LABOKLIN
+Leptospira
+钩端螺旋体病
+Aetiology病因学
+L. weili
+2
+borgpetersenii
+Leptospires are gram-negative
+bacteria in the group of
+.L. santarosai
+spirochetes. They.are very thin
+. noguchii
+flexible helicoidally bacteria with a
+100
+. kirschneri
+spiky end. Leptospires are actively
+interrogans
+moving.
+钩端螺旋体是螺旋体科的一种革兰氏阴性
+0D
+ L. kmetyi
+细菌。菌体纤细，螺旋状，两端弯由皇钩
+licerasiae
+状。钩端螺旋体能活泼运动。
+. L. wofi
+100
+Within the genus Leptospira
+L. fainei
+interrogans sensu lato are
+L.inadai
+69
+different pathogenic and
+L L. broomi
+saprophytic types and
+L. genomospecies 3
+differentiation is made not
+100
+_. biflexa
+morphologically, but only serologic
+84L. wolbachii
+or genetically.'Since 1989,over are
+described and currently 250
+genomospecies 5
+serovars distinguished in 24
+.. meyeri
+ Leptonema ilini
+serogroups.
+在钩端螺旋体问号螺旋体属中有许多不同
+0.006
+的致病菌和腐生菌，其鉴别不是通过形态
+而是通过血清或基因型。首1989年室今，
+已发现24个血清群的250多种血清型
+commonly tested Serovars
+经常检测到的血清型
+L.bratislava布拉迪斯拉发型
+L.saxkoebing萨可斯可宾型
+L.canicola犬型
+L.australis澳洲型
+L.Icterohaemorrhagiae
+黄痘出血群型
+L.sejroe赛罗型
+L.autumnalis秋季型
+Epidemiology
+流行病学
+transmission传播
+directly through urine or blood of infected animals
+通过尿液或感染动物的血液直接传播
+indirectly through vectors such as contaminated water sources,
+food and bedding or living vectors like rodents
+通过污染的水源、食物以及铺盖等介质或是活的媒介如鼠类间接传播
+Leptospires survive in moist environment at temperatures of 0-25
+C
+钩端螺旋体可在0-25°C的潮湿环境中存活
+months prior to diagnosis and the number of cases could be
+identified
+有记录显示该病的发病率与发病前三个月的平均降水量有密切关系
+more cases can be expected after intense rainfall and/or floods,
+especially in the warm season
+若降水密集/或洪水的发生，特别是在较温暖的季节，该病的病例量上升
+Epidemiology
+病因学
+Dogs 4 to 10 years of age seem to be
+more affected than juveniles under a
+year
+4-10岁之间的犬比一岁以下的犬更易感染
+rural environment and animals that
+have contact with livestock or hunt are
+at a greater risk of developing
+leptospirosis than dogs mainly staying
+in homes
+在乡村以及接触家畜或猎物的犬比主要待
+在家中的犬更易感染钩端螺旋体病
+Pathogenesis
+发病机理
+Leptospires infect their host by
+through skin lesions or the intact
+mucosa of the digestive or genital
+tract.
+钩端螺旋体感染宿主是通过皮肤损伤或消化道或生殖道
+黏膜
+The incubation period is about seven
+days
+s depending on the virulence or
+the immune response of the affected
+animal.
+潜伏期大概为7天，根据其毒力或被感染
+动物的免疫应答情况而定
+Clinical Signs
+临床症状
+·PeracuteInfection特急性感染
+associated with massive leptospiremia
+与泛发性的钩体血症有关
+death may occur rapidly with few
+clinical signs
+可能在无明显临床症状而发生急性死亡
+Clinical Signs
+临床症状
+Subacute Infections 亚急性感染
+characterized by:特点为:
+Fever发热
+anorexia厌食
+vomiting 呕吐
+Dehydration脱水
+interstitial Nephritis
+hyperesthesia 感觉过敏（强迫症）
+renalinflammation肾脏感染
+petechial and ecchymotic hemorrhages
+出血斑或出血点
+progressive deterioration in renal function is
+manifested by oliguria or anuria
+肾功能渐进性衰退，表现为少尿或无尿
+Clinical Signs
+临床症状
+AcuteInfections急性感染
+pyrexia发烧
+Vomiting呕吐
+rapid dehydration and peripheral vascular collapse
+急性脱水以及外周血管塌陷
+coagulationdefects凝血障碍
+Melena黑粪
+epistaxis and petechiae.鼻出血及淤点
+icterus 黄痘
+hepatic inflammation and fibrosis
+肝脏感染及纤维化
+kidneyfailure肾脏衰竭
+oliguriaoranuria少尿或无尿
+multifocal hepatic necrosis
+Clinical
+Signs
+临床症状
+chronic/subclinical
+infections慢性/亚
+临床感染
+typical features of
+Suspected when:
+eptospiral uveitis:
+钩端体葡萄膜炎的典型
+当出现下述情况怀疑此种类
+症状：
+型：
+· congested
+fever of unknown
+conjunctival blood
+origin不明原因的发热
+vessels结膜血管充血
+unexplained renal or
+infiltrating cells浸润
+hepatic disease无法
+的细胞
+辨明原因的肾脏或肝脏
+疾病
+anterior uveitis
+前葡萄膜炎
+Laboratory Diagnostics
+实验室诊断
+increased levels of urea, creatinine, phosphate and bilirubin
+AST.ALT.APandLDH尿素、肌酐、磷酸盐以及胆红素水平升
+高。谷草转氨酶，谷丙转氨酶，碱性磷酸酶，乳酸脱氢酶
+serovars, like L. canicola, bratislava and grippotyphosa show
+rather renal dysfunction and less liver involvement血清型,
+如犬型，布拉迪斯拉发型以及流感伤寒群型出现肾脏功能不足，
+较少见到肝脏疾病
+L. icterohaemorrhagiae and L. pomona cause hepatopathy
+黄疱出血群型和波蒙纳型可引起肝病
+in young animals, there seems to be a tropism for liver tissue
+年轻动物，有嗜肝组织特性
+in peracute cases renal dysfunction is the major sign
+在特急性病例中，肾脏功能不足是主要症状
+Serology血清学
+detection via micro agglutination (MA) test: 通过微
+量凝集试验检测：
+positive antibodies (> 1:100) initially only confirm
+pathogencontac+初始阳性抗体(>1:10o)只能确定接
+触过病原
+many animals are seropositive without clinical signs
+许多动物经检测血清阳性却没有临床症状
+generally titres of > 1:400 or a three-fold titre
+increase in a confirmatory test is the diagnosis
+preferred
+总之滴度大于1：400或在确认试验中滴度有3倍的增
+高，可进行确诊
+micro c
+agglutination微量凝集
+negative阴性
+positive 1:100 阳性1: 100
+Problemlist问题列表
+"diagnostic gap" between incubation period
+and the immune response of the body:潜伏期
+与机体免疫应答之间的“诊断缺口
+severe and especially perakut diseased
+animals show only low or even negative
+antibodytitres对于病情严重特别是特急性发
+病的动物，抗体滴度非常低甚至为阴性
+animals treated with antibiotics in an early
+phase of infection may not develop high
+titres or showa titre increase在感染早期使
+用抗生素对动物进行治疗并不能见到很高的滴
+度或是出现滴度的增加
+Canine Leptospirosis，United States，2002-2004犬钩端螺旋体病，美国
+George E. Moore,* Lynn F. Guptill,* Nita W. Glickman,* Richard J.
+Caldanaro,* David Aucoin,t and Lawrence T. Glickman*
+*Purdue University, West Lafayette, Indiana, USA; and tVCA Antech, Los
+Angeles, California, USA
+60
+≥400
+50
+≥800
+≥1,1600
+%positivetests
+40
+30
+20
+10
+0
+Canicola
+Ictero.
+utumn
+Bratisl.
+Grippo.
+Hardjo
+Serovar
+Serovartypes
+Germany
+in 2002
+and
+in
+2007
+血清型，德国2002年和2007年
+SerovarvergleichLeptospirenHundderJahre2002und2007
+%
+50
+46,7
+45
+40
+35
+30
+23,3
+25
+22,2
+19,5
+20
+13,
+14,5
+15
+13,2
+9,1
+9,08,1
+10
+6,3
+5,1
+5
+3,3
+1,52,1
+2,4
+0,0
+0
+0
+Jrippotyphosa
+L.australis
+L.bratislava
+L.canicola
+L.pomona
+L.autumnalis
+L.sejroe
+g
+2002
+2007
+NCBI
+PubMed: Leptospirosis in China
+钩端螺旋体病在中国
+Animal reservoir of leptospirosis in Hainan Island
+海南岛钩端螺旋体病的动物宿主
+Zhonghua Yu Fang Yi Xue Za Zhi. 1982
+May:16(3): 160-2
+- [Article in Chinese] Pan ZA
+Recombinant multiepitope protein for diagnosis of
+leptospirosis.重组多表位蛋白进行钩端螺旋体的诊断
+Lin X, Chen Y, Yan J.
+Clin Vaccine Immunol. 2008 Nov;15(11):1711-4
+Epub 2008 Sep 30.
+PCRtesting聚合酶链式反应检测
+urine or kidney tissue
+330pb
+尿液或肾脏组织
+Figure 1. PCR technique used in clinical samples: 1- 100 pb
+Positive control Leptospira interrogans serovar canicola);6
+Negativecontrol.
+Leptospirosis Spirochete
+inKidneyTissue
+especially in acute infected and pre-treated animals of use
+since bacterial growth can be impaired or antibodies are not
+yetdetectable特别用于急性感染以及已接受治疗的动物，由于
+细菌的生长可受到影响或抗体仍未被检测到
+interesting tool for multi-dog-households/ breeders or animal
+sheltersespeciallyunderzoonoticaspects.对于有几只犬的家庭或育
+种者或犬只收容所；特别是在人畜混杂的环境是用于诊断的有利工具
+Problemshere...在这的问题
+. healthy dogs can excrete leptospires over
+a period of months健康犬在数月内都可排出
+钩端螺旋体
+"disadvantage" of PCR is that it is not
+possible to distinguish between serovars or
+only by using more elaborate molecular
+biological methods
+PCR的劣势在于不能分辨血清型，或只能通过
+更复杂的分子生物学方法进行鉴别
+Treatment治疗
+symptomatic therapy with antiemetics and infusion对
+症治疗进行镇吐及输液
+aim is to reassure a sufficient urine production
+urine output should be >2ml/kg/h.目的是保证充分
+尿量的产生，产生的尿量应该大于2ml/kg/h
+antibiotic therapy should take place in two stages:抗
+生素治疗应分两步进行：
+1st critical stage: Ampicillin or Amoxicillin 20-25
+mg / kg i.v. bid 第一，
+、关键步：氨苄西林或阿莫西林
+20-25mg/kg 静脉，一日两次
+2nd stage: Doyxcyclin 10 mg / kg sid/bid for at
+least three weeks to prevent urinary excretion
+第二步：强力霉素10mg/kg每日一次/两次至少治
+疗3周防止从尿液中排出
+(Source: F. Gaschen WSAVA
+2008)
+Prognosis预后
+the prognosis varies according to different
+studies by 50-90% recovery after about
+10days
+不同研究中的预后率有差别，在50-90%之间
+，大概需要10天
+oliguria / anuria with renal failure is a
+strong negative prognostic factor发生肾衰
+伴有少尿/无尿是预后不良的表现
+Prevention予预防
+most important aspect: regular vaccination.重点是
+：经常进行疫苗免疫
+unfortunately not clear to what extent a cross-
+protective immunity between the serovar of L.
+canicola / grippotyphosa and other serovars exists
+但目前对于犬型/流感伤寒群型以及其他存在的血清型
+之间交叉免疫保护的程度并不清楚
+during humid and warm weather the owners should
+prevent that the dog drinks from ponds or
+standing puddles在天气潮湿温暖时，主人应防止动
+物喝池塘或死水坑里面的水
+Zoonotic potential
+人畜共患的可能性
+ Leptospirosis in human and livestock is a
+notifiable disease in many European
+countries在许多欧洲国家，人及家畜的钩端螺
+旋体病都需向当局有关部门汇报
+people get infected during agricultural
+work but also in leisure activities or water
+sports.人可能会在田间劳作以及休闲活动或
+水中运动时感染该病
+vets and owners of infected animais should
+take care of specific hygiene and should
+waregloves已被感染动物的主人及兽医应特
+别注意卫生，需戴手套
+CASE 1: Dusty, a 6-year-old
+female Golden Retriever
+病例1：Dusty.6岁雌性金毛
+Dusty presented with a haematuria of two
+days duration in the winter. Dusty在冬天
+出现过两天的血尿
+There were no signs of polyuria,
+polydypsia, or straining and she
+remainedcontinent.没有多尿、多饮或尿
+淋漓的症状，仍能自主排尿
+Dusty had received her annua!
+vaccination boosters (no leptospirosis
+vaccine) three months prior to the onset
+ofhaematuria.Dusty在出现血尿前3个月
+曾接受过每年都进行的疫苗加强针的免疫（
+无钩端螺旋体疫苗）
+CASE 1:Dusty 病例1： Dusty
+Her physical exam was unremarkable. 体格检查
+无明显变化。
+urinalysis confirmed the presence of
+erythrocytes, protein, small numbers of
+bacteria and 3+ struvite crystaluria.
+Considering that her clinical signs were mild
+and given fhat bladder infections are common
+in female dogs, her vet placed Dusty.on
+antibiotic therapyfor cystitis.尿检有红细胞，
+蛋白，少量细菌，3+鸟粪石结晶。鉴于其临床症
+状轻微，其膀胱感染在母狗也属正常，兽医就其膀
+痰进行抗生治疗
+However, the haematuria did not resolve over
+the next months．但之后一个月血尿再次出现
+A follow-up at three months revealed no
+abnormal findings on physical examination. 第三
+个月随访进行体格检查腹腔无异常
+A urinalysis now showed elevated creatinine,
+and 3+haematuria.此时尿检肌酐水平升高，3+
+血尿
+CASE 1: Dusty病例1:
+Dusty
+The differential diagnoses were now:需
+进行鉴别诊断的项目：
+endothelial damage内皮损伤
+clottingdisorders凝血障碍
+neoplasia.肿瘤
+Blood chemistry indicated elevated
+liver enzymes, urea and creatinine with
+depressed levels of glucose and thyroid
+hormone.血液生化检查显示肝脏酶，尿素
+肌酐升高，血糖和甲状腺激素水平较低
+CASE 1:Dusty病例1： Dusty
+Only now was leptospirosis
+considered as a possible diagnosis.现
+在诊断仅剩一种可能，钩端螺旋体病
+MAT titres confirmed leptospirosis
+caused by L. pomona with a titre of
+1:400 while all other serovars were
+<1:100.微量凝集试验证实是由波蒙纳钩端
+螺旋体引起，滴度为1：400，而与其他血清
+型的滴度小于1：100
+Dusty was treated with
+doxycycline and fully recovered
+four months after initial
+presentation.Dusty经强力霉素治疗
+后在首次发病后的第四个月痊愈
+CASE 1： Dusty 病例1： Dusty
+Case Note: This case provides an example
+in which leptospirosis was not included in
+the initial rule-out list in the diagnostic
+workup.病例摘要：该病例说明钩端螺旋体病可
+能不会出现在最初诊断排查的疾病列表中
+The delay in treatment coupled with
+shedding of leptospiral organisms provide
+adequate opportunity for the pathogens to
+spread to others, including Dusty's owners.
+children and other pets in the household
+治疗的延迟以及钩端螺旋体的排出可能都给病原
+传播给Dusty的主人，孩子以及家里的其他宠物
+提供了机会
+Signs of kidney disease should alert
+veterinarians to the possibility of
+leptospirosisinfection.肾脏症状的出现也会使
+兽医们对于钩端螺旋体感染造成的可能病变有了
+新的认识
+CASE 2: Mikey. an 8-year-old
+male
+Jack Russell, neutered病例2: 8
+岁，雄性，杰克罗素梗，已去势
+had been vaccinated routinely
+including a leptospirosis vaccine
+(L. canicola, L. icterohemorrhagiae)
+疫苗常规免疫，包括钩端螺旋体疫苗（犬型，
+黄痘出血群型）
+CASE 2:Mikey病例2: Mikey
+He presented three months after
+vaccinationwith：注射疫苗3个月后表现为：
+vomiting呕吐
+diarrhea腹泻
+anorexia厌食
+lethargy嗜睡
+jaundicedmucousmembranes黏膜黄染
+CASE 2: Mikey 病例2: Mikey
+serology confirmed leptospirosis as the cause of
+Mikey'sillness.血清学检查确诊Mikey的病因为钩端螺旋体病
+Titres:滴度：
+L.grippotyphosawere1:1600流感伤寒群型1：1600
+L.pomona1:400波蒙纳型1：400
+L. canicola 1:400 犬型1: 400
+L.bratislava1:200布拉迪斯拉发型1：200
+L.icterohemorrhagiae<1:100黄疽出血群型小于1：100
+Thus L. grippotyphosa was likely the infecting serovar.流
+感伤寒群型很可能就是所感染的血清型
+CASE 2:Mikey 病例2:Mikey
+later, Mikey had brightened.
+Mikey使用青霉素及静脉输液治疗，24小时后，Mikey黏膜颜色
+恢复正常。
+However, hypoproteinemia and anaemia had worsened with no
+change in ALT and total bilirubin.
+但是，低蛋白血症和贫血更严重，谷丙转氨酶和总胆红素未发生
+改变
+At the owners' request, Mikey was discharqed home with
+amoxicillin and prednisone but died one week later.
+在主人的要求下，Mikey出院在家用阿莫西林和泼尼松治疗，但
+一周后死亡
+CASE 2:Mikey 病例2:Mikey
+Case note：病例摘要：
+leptospirosis can cause liver disease, not just renal
+disease 钩端螺旋体可引l起肝脏的疾病，不仅只是肾脏疾病
+leptospirosis vaccines do not provide cross-protection
+to mostotherserovars钩端螺旋体疫苗并不能在大多数血
+清型之间形成交叉保护
+a booster two to four weeks later is required
+2到4周后需免加强针
+infection can be fatal, even with appropriate
+(amoxicillin and IV fluid) therapy
+即使能及时适当治疗 (阿莫西林配合静脉输液)感染也可能
+是致命的
+CASE 3: Sam, a 6-year-old male
+Boston terrier
+病例3：Sam.6岁雄性波士顿梗
+Sam had been a happy, playful dog until shortly
+before presenting with a fever (40.2 ° C),
+progressive anorexia with vomiting, polyuria and
+polydipsia and discolored urine. Sam一直是一只活泼
+好动的狗，近来出现发烧，渐进性厌食伴有呕吐，多
+尿多饮，尿色异常
+He had been previously well-vaccinated including
+leptospiralvaccines.他一直常规进行免疫，包括钩端
+螺旋体的免疫
+CASE 3:Sam 病例3: Sam
+bloodtestsindicated：血液学检查显示：
+elevated urea and creatinine尿素和肌酐升高
+neutrophilia with a left shift.中性粒细胞增多伴有核左移
+Pyuria,脓尿
+Proteinuria蛋白尿
+haematuria and bacteruria 血尿及细菌尿
+The vet considered a urinary tract infection or renal disease
+asdifferentialdiagnoses.兽医认为需就尿道感染或肾脏疾病进行
+鉴别诊断
+Sam was hospitalized and treated with I/V fluids and
+enrofloxacin. His fever resolved, however, bloody diarrhea
+developed, his urea continued to climb and urine output
+decreased.Sam进行住院治疗，静脉输液配合恩诺沙星。发热消退
+，但是出现了血样腹泻，尿素水平一直升高，尿量减少
+CASE 3: Sam 病例3: Sam
+Sam was transferred to a referral institution
+and received aggressive therapy. Sam转院接受
+进一步治疗。
+Despite therapy, Sam developed aspiration
+pneumonia andwaseuthanized.尽管进行了治疗
+，Sam仍发展为吸入性肺炎最终被安乐死。
+serology testing indicated a titre for
+L.grippotyphosaof1:2oo血清学测试显示流感伤
+寒群型滴度为1：200
+post mortem revealed kidney failure and PcR of
+tissue came backleptospira positive死后尸检见
+到肾脏衰竭，组织进行PCR检查显示钩端螺旋体阳
+CASE 3:Sam 病例3: Sam
+CaseNote：病例摘要：
+Sam presented with clinical signs highly suggestive of kidney
+disease rather than cystitis (which normally does not result in
+elevatedureaandcreatinine).Sam出现的临床症状表明为肾脏疾病
+而不是膀胱炎（膀胱炎通常不会引起尿素和肌酐的升高）
+Leptospirosis should be very high on a list of differential
+diagnosesfor.allcasesofacuterenal failure.在所有发生急性肾
+衰的病例中，钩端螺旋体病应该是列在鉴别诊断列表的前面的。
+Amoxicillin, ampicillin and doxycycline are the antibiotics of
+choice for treating leptospirosis whereas fluoroquinolones (a
+reasonable choice for cystitis) are not considered useful.阿莫西
+林，氨苄西林以及强力霉素是治疗钩端螺旋体可选用的抗生素，而氟喹
+诺酮类药物（膀胱炎常用药）效果不明显
+This case also demonstrates that in acute leptospirosis antibody
+titrescanstilbelow.该病例也表明，在钩端螺旋体的急性病例中，
+抗体的滴度可能仍非常低。
+Thanks for your attention!谢谢关注！

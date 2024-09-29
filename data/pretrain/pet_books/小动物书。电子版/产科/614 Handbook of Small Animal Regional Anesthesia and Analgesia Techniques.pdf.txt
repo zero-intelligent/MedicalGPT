@@ -1,0 +1,2456 @@
+Handbookof
+SmallAnimal
+RegionalAnesthesia
+andAnalgesia
+Techniques
+Phillip Lerche
+Turi Aarnes
+Gwen Covey-Crump
+Fernando MartinezTaboada
+WILEYBlackwell
+Handbook of Small Animal Regional
+Anesthesia and Analgesia Techniques
+Handbook of Small
+Animal Regional
+Anesthesia and
+Analgesia
+ Techniques
+Phillip Lerche BVSc PhD DipAcVAA
+Associate Professor - Clinical
+Anesthesiology and Pain Management
+Department of Veterinary Clinical Science s
+The Ohio State University
+College of Veterinary Medicine
+Columbus, Ohio, USA
+Turi K. Aarnes Dvm Ms DipAcvAA
+Associate Professor - Clinical
+Anesthesiology and Pain Management
+Department of Veterinary Clinical Sciences
+The Ohio State University
+College of Veterinary Medicine
+Columbus. Ohio, USA
+Gwen CoVey-Crump BVetMed CertvA DipECvAA MRCvs
+Specialist in Veterinary Anaesthesia and Analgesia
+Clinical Teacher
+Langford Veterinary Service s
+University of Bristol
+Bristol, UK
+Fernando Martinez Taboada Lv CertvA DipEcvAA
+MRCVS
+Specialist in Veterinary Anaesthesia and Analgesia
+The Veterinary Teaching Hospital
+Faculty of Veterinary Science
+The University of Sydney
+Sydney. Australia
+This edition first published 2016 @ 2016 by John Wiley & Sons, Ltd
+Regsteredoffice:
+John Wiley & Sons, Ltd, The Atrium, Southern Gate, Chichester,
+West Sussex, PO19 8SQ. UK
+Editorial offces:
+9600 Garsington Road. Oxford. OX4 2DQ. UK
+The Atrium, Southern Gate, Chichester, West Sussex, PO19 8SQ. UK
+1606 Golden Aspen Drive, Suites 103 and 104, Ames. Iowa 50010. USA
+For details of our global editorial offices. for customer services and for information about
+how to apply for permission to reuse the copyright material in this book please see our
+website at www.wiley.corm/wiley-blackwell
+The right of the author to be identified as the author of this work has been asserted in
+accordance with the UK Copyright. Designs and Patents Act 1988
+All rights reserved. No part of this publication may be reproduced, stored in a
+retrieval system, or transmitted. in any form or by any means, electronic, me chanical,
+and Patents Act I988. without the prior permission of the publisher.
+Designations used by companies to distinguish their products are often claimed as
+trademarks. All brand names and product names used in this book are trade names.
+service marks, trademarks or registered tradermarks of their respe ctive owmers. The
+publisher is not associated with any pro duct or vendor mentioned in this book. It is
+services. If professional advice or other expert assistance is required, the services of a
+competent professional should be sought.
+The contents of this work are intended to further general scientific research.
+understanding. and discussion only and are not intended and should not be relied
+health science practitioners for any particular patient. The publisher and the author
+of the contents of this work and specifically disclaim all warranties, inclucing without
+limmitation any irmplied warranties of fitness for a particular purp ose. In view of ongoing
+research. equipment modifications. changes in governmental regulations, and the
+constant flow of information relating to the use of me dicines, equipment, and devices,
+the reader is urged to review and evaluate the information provided in the package
+insert or instructions for each medicine, equipment., or device for, among other things.
+any changes in the instructions or indication of usage and for added warnings and
+pre cautions. Readers should consult with a specialist where appropriate. The fact that
+source of further inforrmation does not mean that the author or the publisher endorses
+the information the organization or Website may provide or recommendations it may
+make. Further, readers should be aware that Intermet Websites listed in this work may
+have changed or disappeared between when this work was written and when it is read.
+No warranty may be created or extended by any promotional statemments for this work.
+A catalogue record for this book is available from the Library of Congress and the
+British Library.
+ISBN: 9781118741825
+Wiley also publishes its books in a variety of electronic formats. Somme content that
+appears in print may not be available in electronic books.
+Main cover image: with permission from The Ohio State University
+Set in 9/ 12pt Mieridien LT Std by Aptara Inc.. New Delhi, India
+12016
+Contents
+1  Introduction, 1
+Reasons to provide regional anesthesia, 2
+History of regional anesthesia/analgesia, 3
+Principles of the major techniques, 3
+Local anesthetic drugs. 4
+Additives to local anesthetics, 6
+Equipment, 7
+Syringes. 7
+Needles. 7
+Epidural catheter kits, 8
+Nerve locators, 8
+Differential pressure transducer, 9
+Acoustic device, 9
+Complications and contraindica tions, 9
+Local, 10
+Systemic,10
+Species differences and considerations, 10
+Safe practice, 11
+Gaining confidence, 1l
+Making a plan, 11
+References, 1l
+Further reading. 12
+2 Cutaneous Innervation Index, 13
+Cutaneous innervation index, 14
+Canine dermatomes
+Body. 14
+Head,15
+Thoracic limb, 16
+Pelvic limb, 18
+vi
+Contents
+3 Infltration Blocks, 21
+Infiltration for mass removal, 22
+Line and ring blocks, 22
+Inverted "L" block, 24
+Block of the surgical incision, 26
+Single injection of the surgical incision , 26
+Diffusion catheter/"soaker” catheter/"pain buster", 28
+Intercostal blocks, 30
+ Interpleural block (also known as intrapleural or pleural),. 32
+Intraperitoneal block, 34
+References. 35
+4 Blocks of the Head, 37
+Retrobulbar, 38
+Maxillary, 40
+Infraorbital, 42
+Mandibular (or inferior alveolar). 44
+Mental (or middle mental}. 46
+Auriculotemporal and great auricular, 48
+References, 52
+5 Regional Anesthetic Blocks of the Limbs, 53
+Thoracic limb regional anesthetic blocks, 54
+Brachial plexus, 56
+Paravertebral: C6-Tl, 58
+RUMM (radial/ulnar/median/musculocutaneous), 60
+Bier block (intravenous regional anesthesia). 62
+Pelvic limb, 64
+Femoral/saphenous nerve block, 66
+Sciatic nerve block, 70
+References, 74
+6 Epidurals and Spinals, 75
+Lumbosacral epidural and spinal in dogs. 76
+Lumbosacral epidural in cats, 78
+Caudal epidural in dogs and cats, 80
+References, 82
+7 Emergency Procedures, 83
+Complications associated with local anesthetic techniques, 84
+Bleeding.84
+84
+Contents
+vii
+Complications associated with local anesthetic drugs. 84
+Allergic reactions to local anesthetic drugs. 84
+Methemoglobinemia, 85
+Systemic toxicity of local anesthetics, 85
+Cardiovascular toxicity. 85
+References. 88
+Further reading. 88
+Index, 89
+CHAPTER 1
+Introduction
+PhillipLerche
+Handbookof Small Animal Regiona?Anesthesia αnd Anaigesia Techniques, First Edition.
+By Phillip Lerche. Turi K. Aarnes, Gwen Covey-Crump and Fernando Martinez Taboada.
+@ 20l6 John Wiley & Sons. Ltd. Published 20l6 by John Wiley & Sons. Ltd.
+ Handbook of Small Animal Regional Anesthesia and Analgesia
+Reasons to provide regional anesthesia
+management has gained acceptance and popularity in small animal
+practice over the past few decades. Reasons for this include the fact
+that many of the regional blocks are straightforward to perforrm,
+requiring moderate technical skill given familiarity with patient anat-
+omy: they can be conducted relatively safely given an understanding
+of local anesthetic drug pharmacology, complications and side effects;
+and they contribute to the two major tenets of treating pain: pre-
+emptive and multimodal analgesia.
+Providing pre-emptive analgesia by performing regional anes-
+thesia prior to surgery leads to a drastic reduction in intraoperative
+nociceptive (pain} stimulation. This results in a decrease in anes-
+thetic maintenance drug as well as intra- and postoperative analgesic
+during surgery. and improving postoperative patient comfort as well
+as duration of pain relief. Some techniques can be continued postop-
+once the patient has recovered from anesthesia, e.g. instilling local
+anesthetic into a chest tube after thoracotomy. or injecting local
+anesthetic into an epidural or spinal catheter after pelvic limb or
+abdominal surgery.
+The experience of pain, a sensory process involving the nocicep-
+tive pathway. is complex, and involves several steps. Noxious stimuli
+involving mechanical, chemical or thermal injury to tissue are first
+receptors}. These electrical irmpulses are then transmitted to the spi-
+ h a  s   a  a o l
+   a    an    a jo
+increased (amplified} or decreased (suppressed). Finally, the nocice-
+ptive signals are projected via lateral nerve fibers to the brain where
+they are perceived.
+rotransmitters released in the nociceptive pathway. drugs used t0
+provide regional anesthesia block sodium channels in neurons. This
+cord to the brain in the case of epidural or spinal analgesia, thus pro.
+viding effective pain relief for the duration of the block. Using regional
+anesthetic techniques in conjunction with other analgesic drugs that
+act in different ways on the nociceptive fibers (e.g. with opioids.
+alpha-2 agonists, ketamine} results in multimodal analgesia, contrib-
+Introduction
+the pain pathway both during and after surgery. This approach allows
+for the lowest effective dose of each drug to be used, which decreases
+side effects and enhances patient safety.
+History of regional anesthesia/analgesia
+The use of a local anesthetic drug was first demonstrated in l884
+when cocaine was used to desensitize the eye prior to surgery. Due
+'      n   o
+well as the emergence of techniques allowing artificial synthesis
+of chemical compounds in the 19o0s, non-toxic, non-addictive
+local anesthetics were sought, discovered, and manufactured. Ini-
+tially, amino ester-type compounds were produced, until in 1943
+lidocaine, an amino amide drug. was developed. Amide-type local
+ n    n  a si n
+and several compounds in this group were discovered in the latter
+half of the 2oth century. including mepivacaine, bupivacaine, and
+ropivacaine.
+Principles of the major techniques
+Topical application
+Local anesthetic drops, e.g. proparacaine, can be directly applied to
+the eye for immediate relief of keratoconjunctival pain, although
+prolonged use delays corneal healing and is not recommended.
+Local anesthetic can also be directly applied to exposed tissue.
+Drug is directly deposited into the surgical field by dripping from a
+syringe, or soaking surgical sponges in local anesthetic and applying
+them to the tissue. Local anesthetic can also be instilled into the
+chest via a thoracostomy tube to desensitize the pleura following
+chest surgery, and into the abdominal cavity to treat pain following
+incision of the peritoneum. Local anesthetic cream is available as
+a mixture of lidocaine and prilocaine, which is used to desensitize
+skin for intravenous catheter placement. Lidocaine is also available
+as a transdermal patch.
+Regionafinfitration
+regional analgesic techniques. The catheter is then attached to an
+infusion pump or an elastomeric bulb which delivers a set rate of local
+anesthetic over a specified period of time
+intravenous regional analgesia
+ Handbook of Small Animal Regional Anesthesia and Analgesia
+Intra-articufarinjection
+Local anesthetics injected into joints have a long duration of action
+due to slow systemic uptake. There is in vifro evidence that local anes-
+thetics may be detrimental to chondrocyte health, with preservative
+free formulations being preferred. However, in vivo, this has not been
+shown to be definitively the case (Chu et al, 2o08}.
+Perpheraf nerve bfockade
+Individual or groups of sensory nerves supplying a specific region are
+located by palpation, electrophysiology. ultrasound or varying combi-
+nations of two or three of these techniques. Local anesthetic is then
+deposited adjacent to, but not into, the nerves. Nerves are typically
+blocked at sites proximal and distant to the site of surgery.
+Epidurafandspinafinjection
+Using specific epidural/spinal needles, local anesthetic is deposited
+either into the extradural space (epidural injection) or into the suba
+rachnoid space (spinal or intrathecal injection). This provides longer
+lasting. more intense analgesia and muscle relaxation, while minimiz-
+ing systemic side effects. Preservative-free formulations of drug are
+recommended for epidural or spinal injection whenever possible
+Local anesthetic drugs
+Mechanism of action
+Local anesthetics mainly act by blocking sodium (Nat} channels,
+which prevents depolarization of the neuronal cell membrane, and
+thus generation of an electrical impulse does not occur in response to
+noxious stimuli. There is evidence to suggest that local anesthetics can
+reuptake of the inhibitory neurotransmitter GABA, thus enhancing
+its effect.
+Physicochemical properties
+Local anesthetic drugs have an aromatic ring and an amine group sep-
+arated by a hydrocarbon chain. The amine group can be ester or amide
+linked. Esters are typically shorter acting than amides as they can be
+hydrolyzed by plasma cholinesterases. Esters are therefore not reliant
+bility and pKa, i.e. the pH at which the drug exists in equal amounts
+of charged and non-charged molecules. Duration of effect increases as
+lipid solubility increases, and decreases as the rate of systemic absorp-
+tion increases. Drugs that cause vasodilation, like lidocaine, have a
+Imtroduction
+Table 1.1 Clinical pharmacology of local anesthetic agents in cats and dogs
+Lidocaine
+Mepivacaine
+ Bupivacaine
+Ropivacaine
+Onset
+5-10
+5-10
+20-30
+20-30
+(minutes)
+Duration
+1-3
+1.5-3
+3-8
+3-8
+(hours)
+Clinical dose
+0.5-2.0 dog
+Up to 3.0 dog
+1.0-1.5 dog
+Up to 3.0 dog*
+(mg/kg)
+0.5-1.5 cat
+Up to 1.5 cat
+1.0 cat
+Toxic dose
+6.0 dog
+6.0 dog
+bop 0'E
+*6op 0'5
+(6xy/6w)
+3.0 cat
+3.0 cat
+2.0 cat
+*Toxic dose not established in cats. Recommend not exceeding 2 mg/kg total dose.
+Specific drugs
+ Amide-type local anesthetic drugs are preferred in current veterinary
+practice for their longer duration of action compared to ester-type
+drugs. See Table l.1 for summary information.
+Lidocaine
+Lidocaine has a short onset due to its low pK。 of 7.9. Duration of
+action is short, lasting up to 2 h. This is due to its relatively low level
+of protein binding (7o%). and the fact that it is a potent vasodila-
+ tor. Lidocaine formulated with epinephrine has a longer duration of
+action due to the vasoconstriction epinephrine causes. Lidocaine is
+(IV}. and can be administered IV to treat pain systemically. as well as
+to treat ventricular dysrhythmias.
+Mepivacaine
+Mepivacaine has a low pK。 of 7.6. and therefore a rapid onset of
+action. It is highly protein bound (95%), resulting in a duration of
+action of 6-8 h.
+Bupivacaine
+Bupivacaine has a pK, of 8.l and is highly protein bound (95%),
+resulting in a longer duration of action (6-8 h). The margin of safety
+is the lowest when compared to lidocaine, mepivacaine, and ropiv-
+acaine.
+Ropivacaine
+Ropivacaine has physicochemical properties similar to bupivacaine, and
+therefore has a similar onset and duration of action. Other local anes-
+thetics are synthesized as racemic mixtures, whereas ropivacaine is a
+6Handbook of Small Animal Regional Anesthesia and Analgesia
+Combination of drugs
+Lidocaine and bupivacaine can be mixed in a l:l ratio to take advan-
+tage of lidocaine's shorter onset and bupivacaine's longer duration of
+action.
+Additives to local anesthetics
+Other drugs can be added to local anesthetics to enhance or extend
+Opioids
+Opioids, particularly preservative-free morphine, are commonly
+administered with local anesthetics for epidural or spinal analgesia
+This produces additive or synergistic multimodal analgesic effects,
+with analgesia lasting up to 24 h, far longer than with individual
+drug therapy. Complications of adding opioids include respiratory
+depression, particularly if high doses or volumes are used, urinary
+retention, vomiting (in conscious dogs), and pruritus. Myoclonus.
+hindlimb paresis, altered proprioception, and hyperesthesia are rare
+complications.
+Aipha-2 adrenoceptor agonists
+Agonism of pre- and postsynaptic alpha-2 receptors in the pain
+pathway results in analgesia. Xylazine (0.25 mg/kg) and medeto-
+midine (15 μg/kg) have been used epidurally in dogs, with medetomidine
+dia and hypertension. Dexmedetomidine produces analgesia in a
+dose-dependent manner when given intrathecally and epidurally
+in dogs.
+Ketamine
+Ketamine most likely produces its analgesic effects when adminis-
+ered epidurally by blocking NMDA channels. Ketamine also blocks
+some sodium and potassium channels, thus decreasing propagation of
+nociceptive signals. Effective doses are 1-3 mg/kg. Side effects include
+increased heart rate, blood pressure, and myocardial work.
+Epinephrine(adrenaline)
+Epinephrine can be added to local anesthetic at a concentration of
+5 μg/mL. Deposition of the combination results in local vasocon-
+striction, which leads to decreased systemic uptalke and prolongation
+effects due to decreased plasma concentration of local anesthetic. Epi-
+nephrine should not be used when performing a Bier block or a ring
+block, as nerve ischemia may occur.
+Introduction
+Sodiumbicarbonate
+Addition of sodium bicarbonate at l mEq per l0 mL of local anes-
+thetic increases the amount of active (non-ionized) drug present,
+increasing diffusion across the cell membranes of neurons. This may
+lead to a shorter onset and longer duration of blockade. Pain experi-
+enced on injection of local anesthetic in the conscious patient is also
+decreased by addition of sodium bicarbonate.Sodium bicarbonate
+should not be added to bupivacaine or ropivacaine as precipitation
+will occur.
+Hyafuronidase
+Hyaluronidase improves permeability of tissue by depolymerizing
+be added at 3.75 IU per mL of local anesthetic to enhance the qual-
+ity of blockade. Due to the enhanced permeability. duration may be
+decreased and toxicity increased due to increased systemic absorption.
+Equipment
+Syringes
+Due to the variety of sizes of dogs, a variety of sizes of syringes ranging
+from 1 mL to 20 mL should be available. Glass syringes, or specially
+made low-resistance plastic syringes, are useful when performing
+epidural techniques to check for loss of resistance. A specific type of
+an alternative to glass syringes when performing epidural anesthesia.
+This syringe features a compression spring. which supplies a constant
+pressure when attached to a needle. The operator can advance the
+needle using both hands, rather than one hand, allowing for steadier
+needle advancement and a visual sign that the epidural space has been
+entered (Riley & Carvalho, 2007}.
+Needles
+Hypodermic needles ranging from 25 Ga to 20 Ga and 2-5 cm are used
+to perform many local nerve blocks.
+Epidural/spinal needles are used when performing epidural or
+spinal analgesia. These needles have a sharp bevel and incorporate a
+space. These needles are available in a range of gauges (18, 20, and
+22 Ga) and lengths (3.8, 6.3, and 9.0 cm).
+A modified spinal needle, or Tuohy needle, is slightly curved at the
+tip. which facilitates advancement of the catheter when placing it in
+8
+Handbook of Small Animal Regional Anesthesia and Analgesia
+the epidural space. This type of needle is usually marlked in increments
+the catheter. Tuohy needles are typically of larger gauge (l6 and 18
+Ga) than standard epidural needles in order to place the catheter more
+easily. although this may hinder placement in small patients.
+Epidural catheter kits
+Sterilized kits for placing epidural catheters are available commercially.
+They typically include a Tuohy needle, a loss of resistance syringe. a
+radiopaque catheter with guidewire, a connector, and an antibacterial
+filter. Some kits also include a sterile pen, which is used to mark on
+the catheter the distance it should be advanced through the Tuohy
+needle.
+Nerve locators
+Nerve locators are used to improve accuracy of local anesthetic dep-
+osition, decrease local anesthetic dose required, and limit side effects.
+Peripheral nerve stimulators
+Peripheral nerve stimulators (PNS) are used in conjunction with
+to locate nerves using an electrical current (Figure l.l). The Teflon
+coating ensures that only the tip of the needle transmits the electri-
+           
+advised to refer to the instruction leaflet enclosed with the peripheral
+nerve stimulator.
+of a sticky electrode (ECG pad) and the negative lead (cathode) is con-
+nected to the needle. Anatomical landmarks are palpated and the nee-
+dle is inserted through the skin. The needle is advanced until it is in
+close proximity to the nerve. The operator then turns the nerve stim-
+ulator on, setting a current of 1.0-2.0 mA, pulse frequency 1-2 Hz and
+Figure 1.1 A, Peripheral
+nerve stimulator. B, Teflon-
+coated needle. C, Positive
+lead (anode) and sticky
+electrode {ECG pad). D,
+Negative lead (cathode).
+E, Syringe, injection port,
+and tubing. Reproduced with
+permission from The Ohio
+Introduction
+duration 0.l-0.3 msec. This generates an electrical field adjacent to
+the nerve, resulting in depolarization and muscle contraction, or
+twitches. The current required to elicit a twitch increases exponen-
+tially as the distance between the nerve and the needle increases.
+The current is reduced to the lowest possible setting required to
+elicit a twitch, and this is done whilst carefully redirecting the nee-
+dle so that it is in close proximity to the nerve. The useful cur-
+rent is not a painful stimulus, and can be lsed in a sedated patient.
+Once the lowest possible current required to elicit a twitch has been
+determined, local anesthetic is injected through the needle via tub-
+ing. Injection of local anesthetic pushes the needle a little further
+away from the nerve, so twitches are usually diminished or lost
+immediately after injection.
+Uitrasound
+Ultrasound probes can be used to visualize nerves directly both prior
+t0 and during needle placement and anesthetic drug deposition.
+which allows for improved accuracy of blockade. This technique is
+often combined with a nerve stimulator to confirm nerve location,
+allowing drug deposition close to, but not into, the nerve.
+Differential pressure transducer
+The likelihood of injury to nerves during local anesthetic injection is
+of an in-line pressure transducer allows consistent force to be applied
+during injection.
+Acoustic device
+Identification of needle entry into, or puncture of, the epidural space
+can be difficult using the conventional loss of resistance technique.
+Acoustic amplification has been used to detect puncture more accu-
+rately. An in-line pressure transducer is attached to a pressure ampli-
+fier, which in turn is attached to a loudspeaker. The sound of the
+resistance of the ligamentum flavum can be appreciated audibly
+(Lechner et al, 2002).
+Complications and contraindications
+In general safe practice, knowing when a local anesthetic technique
+is contraindicated is essential, as is an understanding of the compli-
+cations of local anesthetic administration and how to treat them.
+Complications can be broadly categorized as local or systemic
+10 Handbook of Small Animal Regional Anesthesia and Analgesia
+Local
+Skin
+ a a     i  o
+overlying the site of injection is inflamed, infected, or clearly neoplas-
+isms or neoplastic cells into adjacent tissue.
+Nerve
+Direct trauma to nerves from the needle or high-pressure injection
+may result in loss of sensation, pain, discomfort and/or motor weak-
+ness that may be temporary. lasting days to years, or permanent.
+Damage to blood vessels close to nerves, particularly those with poor
+blood supply, may lead to ischemia. Finally, local anesthetic drugs or
+additives may be directly toxic to nervous tissue.
+Systemic
+Centralnervoussystem
+Excessive systemic uptalke of local anesthetic can cause seizures. This
+occurs because inhibitory neurons are more sensitive to Na+ channel
+blockade, and if they are blocked then excitation results.
+Cardiovascular
+Local anesthetic techniques should be performed with caution or
+drug administration into a vein or unexpected rapid systemic drug
+absorption may lead to cardiovascular collapse.
+Coagulopathy
+Techniques in which hemorrhage is a possible complication, e.g. epi-
+dural block, should not be performed in patients where coagulopathy
+has been demonstrated or is suspected. Laceration of a blood vessel
+may lead to bleeding that will be hard to control. If uncontrolled hem-
+orrhage occurs in a closed space, it may lead to pressure necrosis of
+adjacent tissules.
+Species differences and considerations
+As a species, cats are generally less amenable to being restrained for
+to dogs in which some techniques can be performed with light seda-
+tion. It can also be more challenging to accurately weigh cats, which
+Imtroduction
+11
+accurate dosing will lead to fewer complications. Inhalant anesthe-
+sia with isoflurane or sevoflurane decreases metabolism of lidocaine
+low inhalant doses, whereas this is not the case in dogs (Thomasy et
+al, 2o05). Rapid inadvertent intravenous injection of lidocaine, while
+Safe practice
+Gaining confidence
+Local anesthetic techniques vary in their level of difficulty to per-
+form, effectiveness of block, and complexity of equipment required.
+way of extra equipment, and have been reported to have high sulccess
+rates, is recommended. Once comfortable with simple techniques, the
+education seminars and courses on local anesthetic techniques, par-
+mended. We also believe that using this book will be an asset when
+it comes to performing techniques where the practitioner has little or
+no experience.
+Making a plan
+cations that might occur and is able to develop a plan to treat them
+(see Chapter 7). The person performing the block should also have
+in mind an alternative plan for providing analgesia should the block
+prove impossible to perform, or in cases where continuing with the
+block is contraindicated (e.g. severe drop in blood pressure during epi-
+ent after clipping)
+References
+Chu, C.R., Izzo, N.J., Coyle, C.H., et al. {2008) The in vitro effects of bupiv
+acaine on articular chondrocytes. J Bone Joinr Surg 90: 814820.
+Lechner, T.J.M., van Wijk, M.G.F & Maas, J.J. (2002) Clinical results with a
+mew acoustic device to identify the epidural space. Anaesthεia 57: 768-772.
+12 Handbook of Small Animal Regional Anesthesia and Analgesia
+Riley, E.T. & Carvalho, B. (2007) The Episure syringe: a novel loss of resistance
+syringe for locating the epidural space. Anesrh Analg 105: 1l64 1 l66.
+Thomasy, S.M., Pypendop, B.H., 1lkiw, J.E. & Stanley, S.D. (2005) Pharma-
+cokinetics of lidocaine and its active metabolite, monoethylglycinexylidide,
+after intravenous administration of lidocaine to awake and isoflurane-
+anesthetized cats. Am J Ver Res 66: 1162-1166.
+Further reading
+Campoy. L. & Read, M.R. (2013) Small Animal Regional Anesthesia and Analgesid
+Ames, IA: Wiley-Blackwell.
+Shelby, A.M. & McKune, C.M. (20l4) Small Animal Anesrhesia Technigues. Ames,
+IA: Wiley-Blackwell.
+Tranquilli, W.J., Thurmon, J.C. S Grimm, K.A. (20o7) Lumb  Jones Vererinary
+Anesthesia, 4th edn. Ames, IA: Wiley-Blackwell
+CHAPTER 2
+Cutaneous
+Innervation Index
+GwenCovey-Cruinp
+Handbookof Small Animal Regiona? Anesthesia αnd Anaigesia Techniques, First Edition.
+By Phillip Lerche. Turi K. Aarnes, Gwen Covey-Crump and Fernando Martinez Taboada.
+@ 20l6 John Wiley & Sons. Ltd. Published 20l6 by John Wiley & Sons. Ltd.
+14
+Handbool of Small Animal Regional Anesthesia and Analgesia
+Cutaneous innervation index
+Use this chapter as an aid to choosing an appropriate regional anesthetic
+technique for the planned procedure.
+Canine dermatomes - Body
+C4
+C5
+L1L2
+113
+L4
+L5S1S2
+10
+C
+T2T3T4T5T6
+Figure 2.1 Canine dermatome map. Cutaneous innervation according to spinal
+and variation between animals exist. Redrawn from Oliver, J.E. & Lorenz,
+M.D. (eds) {l983) Veterinary Neurologic Diagrosis. Philadelphia: W.B.Saunders Co
+Reproduced with permission from The Ohio State University
+Cutaneous Innervation Index
+15
+Head
+Maxillarynerve
+Ophthalmicnerve
+Mandibularnerve
+Facialnerve
+VentralcutaneousbranchC2
+DorsalcutaneousbranchC2
+DorsalcutaneousbranchC3
+Figure 2.2 Cutaneous innervation of the canine head. Autonomous sensory
+regions are shown. Some overlap and variation between zones and animals
+exist. Reproduced with permission from The Ohio State University.
+16
+Handbool of Small Animal Regional Anesthesia and Analgesia
+Thoracic limb
+Cranial
+Lateral
+Caudal
+Medial
+Brachiocephalic
+LCB-T2
+Musculocutaneous
+UInar
+Radial
+Figure 2.3 Cutaneous innervation of the canine thoracic limb. Autonomous
+sensory regions are shown. Some overlap and variation between zones and
+animals exist. LCB-T, lateral cutaneous brachial nerve-thoracic 2. Reproduced
+with permission from The Ohio State University.
+Gutaneous Innervation Index
+17
+Table 2.1 Sensory innervation of the canine thoracic limb
+Region
+Nerve
+Techniques
+C6-7
+Lateral shoulder and joint
+ Suprascapular
+CP
+Subscapular
+CP
+C7-8
+Craniomedial antebrachium
+Musculocutaneous
+CP, BP, RUMM
+c8
+Caudal shoulder joint,
+Axillary
+CP, BP
+lateral brachium 
+C7-T1
+ Lateral elbow joint.
+Radial
+CP, BP, RUMM
+craniol ateral antebra chium,
+carpus and digits
+C8-T1
+Medial elbow joint
+Median
+CP, BP, RUMM
+C8-T2
+Caudal elbow joint.
+Ulnar
+CP, BP, RUMM
+caudolateral antebrachium,
+carpus and digits
+BP, brachial plexus; CP, cervical paravertebral; RUvIM, radial, ulnar, median, musculocutaneous.
+18
+Handbool of Small Animal Regional Anesthesia and Analgesia
+Pelvic limb
+Cranial
+Lateral
+Caudal
+Medial
+oloolo
+LCFN
+CCFN
+GN
+Saphenous Sciatic
+Tibial
+Peroneal
+Figure 2.4 Cutaneous innervation of the canine pelvic limb. Autonomous
+sensory regions are shown. Some overlap and variation between zones and
+animals exist. Reproduced with permission from The Ohio State University.
+Gutaneous Innervation Index
+19
+Table 2.2 Sensory innervation ofthe canine pelvic limb
+Region
+Techniques
+L4
+Hemipelvis (excl. skin
+Femoral
+Saphenous
+Inguinal
+Overlying hip joint, medial
+Preiliac
+L5
+thigh, stifle, leg. hock
+Ps0a5
+L6
+compartment
+L7
+ Entire limb 
+Dorsolateral
+Sciatic
+Peroneal
+Lateral
+distal to
+ distal limb
+Parasacral
+51, S2
+stifle (excl.
+Laterocaudal
+Tibial
+Transgluteal
+medial strip)
+ distal limb
+CHAPTER 3
+Infiltration Blocks
+Fernando Martinez Taboada
+Handbookof Small Animal Regiona?Anesthesia αnd Anaigesia Techniques, First Edition.
+By Phillip Lerche. Turi K. Aarnes, Gwen Covey-Crump and Fernando Martinez Taboada
+@ 20l6 John Wiley & Sons. Ltd. Published 20l6 by John Wiley & Sons. Ltd.
+22  Handbook of Small Animal Regional Anesthesia and Analgesia
+Infiltration for mass removal
+Line and ring blocks
+indications
+Target nerves
+Cutaneous nerves of the affected area
+Region anesthetized
+and, in the case of performing a ring block, area circumscribed by it
+Landmarks
+Surrounding tissue around the area of interest. It is fundamental that
+the subcutaneous tissue is clearly identified
+Needle
+    a      
+small in size needle (e.g. 23 Ga 2.5-3.8 crm)
+Depth
+Subcutaneous injection of local anesthetic
+Technique
+1 Identify the area of interest. If a mass is being resected, the total
+contour of it and the margins must be taken into account
+2 The line and ring blocks are the easiest blocks to perform, as they
+do not require specific knowledge of neuroanatomy
+3 Introduce a long hypodermic needle to its whole length in the sub-
+cutaneous tissue
+4 Aspirate to prevent accidental intravenous administration and
+deposit some local anesthetic (e.g. 0.2 mL bupivacaine)
+5 Withdraw the needle approximately 5 mm (the distance can vary
+depending on the volume injected in each point. The bigger the
+volume, the longer the distance can be), aspirate again and inject
+a bit more local anesthetic
+6 Repeat the sequence until the area of interest is circumscribed
+7 When performing ring or curve line blocks, it is recommended to
+withdraw the needle almost totally before redirecting it in a differ-
+Cautions
+Accidental intravenous injection of local anesthetic. This type of block
+substitutes for accuracy by using a large volume of local anesthetic.
+Overdose of local anesthetic is a serious hazard if the total dose is not
+Infiltration Blocks
+23
+Figure 3.1 Line block. Reproduced with permission from The Ohio State University.
+lmlmlimhmhn
+Figure 3.2 Ring block. Performed as a combination of line blocks to avoid needle
+bending. Reproduced with permission from The Ohio State University.
+24
+Handbook of Small Animal Regional Anesthesia and Analgesia
+Inverted "L" block
+indications
+Surgical resection of cutaneous or superficial masses, surgical closure
+of lacerations
+Target nerves
+Cutaneous nerves originating in the dorsal spinal nerves
+Region anesthetized
+The area of interest usually is located within the trunk of the animal.
+Classically, this technique has been used to desensitize the flank
+Landmarks
+Surrounding tissue around the area of interest. It is fundamental to
+identify the subcutaneous tissue and the muscular layers, if there is an
+involvement of these structures
+Needle
+Hypodermic needle. It is recommended to use a longer length but
+small in size needle (e.g. 23 Ga 2.5-3.8 cm)
+Depth
+Subcutaneous injection of local anesthetic
+Technique
+1 Identify the area of interest. If a mass is being resected, the total
+contour of it and the margins must be taken into account
+2 Following the steps described in the previous block, two line blocks
+must be performed (forming the inverted "L")
+3 Perform a line block between the mass (or area of interest) and the
+patient's spine
+4 Add another line block cranial to the area of interest
+5 If there is involvement of muscular layers, it is necessary to block
+the subcutaneous tissue (for blocking the cutaneous branches of
+the nerves), but also to perform a deep block to block the muscular
+branches. The injection of local anesthetic in the muscle is very
+stimulating. so the subcutaneous block is advisable before attempt-
+ing the deeper block
+Cautions
+Accidental intravenous injection of local anesthetic. Overdose of local
+anesthetic is a serious hazard as a great volume of local anesthetic
+Infiltration Blocks
+25
+Figure 3.3 Inverted "L" block {blue arrows) for the resection of mast cell tumor
+(red arrow).
+26
+Handbook of Small Animal Regional Anesthesia and Analgesia
+Block of the surgical incision
+This block can be achieved by a single injection at the time of closure
+or via a diffusion catheter placed in the deep layers of the surgical inci-
+sion allowing continuous administration of local anesthetics.
+Single injection of the surgical incision
+Indications
+Analgesia of wounds or surgical incisions
+Target nerves
+Cutaneous nerves of the affected area
+Region anesthetized
+Surgical incision edges
+Landmarks
+Subcutaneous tissue around the incision
+Needle
+23-25 Ga 1.6-1.9 cm hypodermic needle
+Depth
+Skin to subcutaneous tissue
+Technigue
+1 Probably the oldest and easiest nerve block to perform
+2 The injection of local anesthetic in the subcutaneous tissue exposed
+in the surgical wound is more effective than a simple splash of the
+drug in the incision
+3 Injection of local anesthetic should be done in the same way as the
+line block (see previous description in this chapter)
+  a       
+performed before the first incision than when it was performed before
+suturing.
+Cautions
+Overdose of local anesthetic is a serious hazard as a great volume of
+local anesthetic may be necessary to desensitize a large area of the
+body. Dilution of the local anesthetic with sterile saline may be an
+option to achieve the desired volume
+Infiltration Blocks
+27
+Figure 3.4 Single injection incisional block. Reproduced with permission from
+The Ohio State University.
+28  Handbook of Small Animal Regional Anesthesia and Analgesia
+Diffusion catheter'"soaker" catheter"pain buster"
+indications
+Analgesia of wounds or surgical incisions
+Target nerves
+Cutaneous nerves of the affected area
+Region anesthetized
+Surgical incision from deep layers to skin edges
+Landmarks
+Surgical incision
+Needle
+None. The catheter is a flexible polyurethane tube of small diameter
+with multiple pores for even distribution of the local anesthetic. The
+catheter is placed during the surgical closure of the incision
+Depth
+Skin to the deepest layers of the surgical wound
+Technique
+a few centimeters from the incision edge (so it does not interfere
+with healing)
+2 Place the catheter in the deeper layers of the incision
+3 Make sure the length of tube with pores is completely in the inci-
+sion and that it is long enough for the size of the incision
+4 Close the soft tissue above the catheter
+5 Secure the catheter externally to the skin to prevent its movement
+6 The analgesia can be achieved by the intermittent administration
+of bupivacaine 2 mg/kg every 6 h (some overlapping between
+      n  s
+administration). A constant infusion avoids an analgesia "gap’
+between doses. Constant infusion dose of lidocaine: dogs 2-3 mg/
+kg/h, cats 1-1.5 mg/kg/h
+Hansen et al (20l3) demonstrated no difference between commer-
+cial catheters and handmade ones. They also found that very slow
+infusion rates produce an erratic distribution of the drug.
+Cautions
+The total volume to be used is dependent on the incision length and
+not the size of the patient. Always double-check the total dose to be
+injected and dilute it with sterile saline, if the volume is not sufficient.
+Infiltration Blocks
+29
+Figure 3.5 Placement of a soaking catheter in the deep layers of the incision
+before closure. Reproduced with permission from The Ohio State University.
+Figure 3.6 Soaking catheter used in a cat for pain management after an injection
+sitesarcorma.
+30
+Handboolk of Small Animal Regional Anesthesia and Analgesia
+Intercostal blocks
+Indications
+Lateral thoracotomy. analgesia for rib fractures, analgesia for chest
+drain placement
+Target nerves
+Intercostal nerves
+Region anesthetized
+Intercostal space distal to the injection
+Landmarks
+Needle
+23 Ga 1.9-2.5 cm
+Depth
+Caudal edge of the rib. Caution: introducing the needle further may
+penetrate the pleura. Directing the tip of the needle underneath the
+rib may damage the intercostal vein and/or artery
+Technique
+1 Palpate the caudal edge of the rib and follow it towards the spine
+ 2 Introduce the needle perpendicular to the skin and direct its tip
+towards the caudal edge of the rib
+3 Aspirate to prevent intravascular injection
+4 Administer 0.3-1 mL bupivacaine
+5 Repeat the previous steps in at least two intercostal spaces cranial
+and caudal to the area of interest (Thompson & Johnson, 199l).
+Although desensitizing three spaces, the results are better
+when respiratory function was assessed in patients after lateral thora-
+cotomy (Berg & Orton, 1986).
+Cautions
+Hematoma,hemothorax, intravascular injection, nerve damage
+Infiltration Blocks
+31
+Figure 3.7 Intercostal nerve block. Palpate the rib and then slide the needle over
+the caudal edge. Reproduced with permission frorn The Ohio State University.
+Figure 3.8 An effective intercostal block requires three intercostal spaces on
+either side of the area of interest. Reproduced with permission from The Ohio
+State University.
+32 Handbook of Small Animal Regional Anesthesia and Analgesia
+Interpleural block (also known as intrapleural
+or pleural)
+Indications
+a lateral thoracotomy or a sternotomy. as it produces less respiratory
+depression than opioids alone (Berj & Orton, 1986; Conzemius et al,
+1994). In human medicine, it is indicated for other conditions, e.g. bra-
+chial plexus tumor (Dionne, 1992), cholecystectomy (VadeBoncouer
+Targetnerves
+The mechanism of action is unknown. It is speculated that the technique
+the splanchnic nerves, and /or blockage of the ipsilateral brachial plexus.
+Region anesthetized
+Thoracic cavity, cranial abdominal cavity
+Landmarks
+Interpleural cavity in an intercostal space
+Needle
+Over-the-needle catheter (14-18 Ga 4.8-3.2 crm). It is advisable to use
+ a  ad ad i s aq i s
+Depth
+Skin to interpleural cavity
+Technique
+For repeatable block, it is advisable to place an indwelling thoracic
+drain or diffusion catheter although the technique may be performed
+by single injection.
+and advance the tip of the needle, tunneling in the subcutaneous
+tissue to the following intercostal space
+2 Penetrate the thoracic wall at the intercostal space. avoiding the
+caudal edge of the rib where the nerve, artery, and vein are located
+3 Introduce the catheter at a shallow angle to decrease the chance of
+damaging the lung
+4 Analgesia can be provided with bupivacaine 2 mg/kg every 5-6 h
+Cautions
+Pneumothorax, hemothorax, overdose of local anesthetic. Complica-
+tions are rare if the catheter/chest drain is manipulated carefully. The
+cardiopulmonary effects of the local anesthetics in the interpleural
+spaceareverytransientandnotclinicallysignificant,evenafter peri
+Infiltration Blocks
+33
+Figure 3.9 Interpleural block. The needle is introduced closer to the cranial edge
+of the rib to avoid the intercostal vessels. Reproduced with permission from The
+OhioState University.
+34
+Handboolk of Small Animal Regional Anesthesia and Analgesia
+Intraperitoneal block
+indications
+Analgesia of the abdominal cavity. This block has become a common
+postoperative analgesic technique for laparotomies and laparoscopies
+in human medicine
+Target nerves
+Splanchnic nerves responsible for the visceral component of the
+abdominal pain
+Region anesthetized
+Abdominal cavity (exclusively the visceral component)
+Landmarks
+Abdominal cavity (specifically the area of interest, e.g. ovary, kidney.
+gallbladder ...)
+Needle
+No needle is required, it is applied in the abdomen before closing the
+linea alba
+Depth
+Abdominal cavity
+Technique
+1  Use 1-2 mg/kg bupivacaine
+2 Dilute with sterile saline if the area of interest is too large for the
+calculated volume
+3 Splash the local anesthetic over the area of interest, for instance
+the ovarian pedicle
+4 Alternatively, splash the volume into the cavity. trying to achieve
+a uniform distribution
+5 Close linea alba
+Some authors recommend infiltration of the surgical incision to
+minimize parietal or somatic pain (Carpenter et al, 2004).
+Cautions
+The total volume to be used is dependent on the abdominal cavity or
+the size of the area of interest and not so much on the length and size
+of the patient. Always double-check the total dose to be injected and
+dilute it with sterile saline, if the volume is not sufficient.
+Infltration Blocks
+35
+References
+Berg. R.J. & Orton, E.C. {1986) Pulmonary function in dogs after intercostal
+thoracotomy: comparison of morphine, oxymorphone, and selective inter-
+costal nerve block. Am J Ver Res 47: 471-474.
+Bernard, F, Kudnig, S.T. & Monnet, E. (2006) Hemodynamic effects of inter-
+pleural lidocaine and bupivacaine combination in anesthetized dogs with
+and without and open pericardium. Ver Surg 35: 252-258.
+Carpenter, R.E., Wilson, D.V. & Evans, A.T. (2004) Evaluation of intraperito-
+neal and incisional lidocaine or bupivacaine for analgesia following ovari-
+ohysterectomyin the dog. Ver Anaesth Analg 3l: 46-52.
+Conzemius, M.G., Brockman, D.J., King, L.G., et al. (1994) Analgesia in
+dogs after intercostals thoracotomy: clinical trial comparing intravenous
+buprenorphine and interpleural bupivacaine. Ver Surg 23: 291-298.
+Dionne, C. (l992) Tumour invasion of the brachial plexus: management of
+pain with interplural analgesia. Can J Araesth 39: 520-521.
+Hansen, B., Lascelles, B.D., Thomson, A., et al. {20l3) Variability of perfor-
+mance of wound infusion catheters. Ver Anαesrh Anag 40(3): 308-315.
+Savvas, I., Papazoglou, L.G., Kazakos, G., et al. (2oo8) Incisional block with
+44(2): 60-66.
+Thompson, S.E. & Johnson, JM. {l99l) Analgesia in dogs after intercosta]
+thoracotomy. A comparison of morphine, selective intercostals nerve block,
+and interpleural regional analgesia with bupivacaine. Ver Surg 20: 73-77.
+VadeBoncouer, T.R., Riegler, FX., Gautt, R.S., et al. {1989) A randomized, dou-
+ble blind comparison of the effects of interpleural bupivacaine and saline
+tomy. Anesthesio/ogy 71: 339-343.
+CHAPTER 4
+Blocks of the Head
+Fernando Martinez Taboada
+Handbookof Small Animal Regiona?Anesthesia αnd Anaigesia Techniques, First Edition.
+By Phillip Lerche. Turi K. Aarnes, Gwen Covey-Crump and Fernando Martinez Taboada
+@ 20l6 John Wiley & Sons. Ltd. Published 20l6 by John Wiley & Sons. Ltd.
+381
+ Handbook of Small Animal Regional Anesthesia and Analgesia
+Retrobulbar
+Indications
+Surgical procedures involving the eye and/or procedures requiring
+alinesia of the eye
+Target nerves
+Ophthalmic division of the trigeminal nerve (V) (sensory perception).
+also within the ocular cone, cranial nerves optic (II), oculomotor (IIl) and
+abducens (VI) (motor function of the extraocular muscles). The trochlear
+nerve (IV) is outside the ocular cone, but is frequently blocked by diffu-
+sion of the anesthetic drugs and contributes to the akinesia of the eye
+Region anesthetized
+Eye including conjunctiva, cornea, and uvea
+Landmarks
+Eye globe, orbit of the eye, Zygomatic arch, vertical ramus of the mandible
+Needle
+22 Ga 2.5 cm (up to 3.8 cm, depending on animal size)
+Depth
+Skin to ocular cone
+Technique
+1 Locate the depression limited by the caudal aspect of the maxilla,
+the ventral edge of the zygomatic arch and the vertical ramus of
+the mandible
+2 Introduce the needle perpendicular to the long axis of the head
+3 As soon as the needle tip is in the subcutaneous tissue, direct the nee-
+pressure of the needle against the extraocular muscles produce a
+ventrodorsal movement of the globe
+5 Aspirate to prevent intravascular injection
+6 Inject 1-2 mL of anesthetic solution or combination (e.g. 0.25-
+0.5% bupivacaine)
+Cautions
+age is rare, although intraconal hematomas can cause blindness. The
+traditional approach for this block, curving a spinal needle (20 Ga
+7.5 cm}. has been associated with failure of the technique and risk
+of direct subarachnoid injection. For this reason, this alternative
+approach is presented here, although further research comparing dif-
+Blocks of the Head
+6E
+(a)
+(C)
+Figure 4.1 (a) Insertion of the needle in the ocular cone produces ventrodorsal
+movement of the globe. (b-c) Retrobulbar block (subzygomatic approach).
+Parts (a) and (c) reproduced with permission frorm The Ohio State University.
+40
+Handbook of Small Animal Regional Anesthesia and Analgesia
+Maxillary
+Indications
+Surgical procedures involving the maxilla, upper lip and/or palate.
+bilaterally) (Cremer et al, 2013)
+Targetnerves
+tine nerves)
+Region anesthetized
+Dorsal head and muzzle approximately up to midline. Maxilla and
+maxillary teeth, hard and soft palate (if major palatine nerve is blocked
+with the technique). nares, upper labium and rostral part of the nasal
+cavity
+Landmarks
+Zygomatic arch, caudal part of the maxilla, and vertical ramus of the
+mandible
+Needle
+22 Ga 2.5 cm non-insulated needle
+Depth
+Skin to pterygoid fossa
+Technique
+1 Identify the depression formed by the caudal aspect of the maxilla.
+the ventral edge of the zygomatic arch, and vertical ramus of the
+mandible. This depression is located ventral to the lateral canthus
+of the eye
+2 Introduce the needle perpendicular to the maxilla
+3 Direct the tip of the needle perpendicular to the sagittal plane of
+the skull
+4 If the tip of the needle hits bone, withdraw approximately 1-2 mm
+before performing the injection
+5 Aspirate to prevent intravascular injection
+6 Inject 0.3-1 mL of anesthetic solution or combination (e.g. 0.25-
+0.5% bupivacaine or ropivacaine)
+Cautions
+Hematoma, intrava scular injection, nerve damage
+Blocks of the Head
+41
+(a)
+D
+Figure 4.2 (a) Maxillary nerve block. Needle is directed perpendicular to the
+pterygoid fossa to also block the nasal and palatal nerve branches. (b) Maxillary
+nerve block. Part (a) reproduced with permission from The Ohio State
+University.
+42
+Handbook of Small Animal Regional Anesthesia and Analgesia
+Infraorbital
+Indications
+procedures may require bilateral block)
+Target nerves
+Infraorbital nerve
+Region anesthetized
+Rostral part of the muzzle including skin, maxilla, maxillary teeth, and
+palate. Rostral upper lip and nasal cavity
+Landmarks
+Infraorbital foramen, premolar tooth P3
+Needle
+25 Ga 1.5 or 2.5 cm hypodermic needle
+Depth
+Skin to the interior of the infraorbital foramen
+Technique
+1 Percutaneously or lifting the upper lip. locate the infraorbital fora-
+men (dorsal to the tooth P3)
+2 Introduce the needle at a shallow angle towards the entrance of
+the foramen
+3 Advance the needle into the foramen as far as possible (within a
+safety margin, a few millimetres is sufficient)
+4 Aspirate to avoid intravascular injection
+5 Inject 0.3-0.5 mL of anesthetic solution or combination (e.g. 0.25-
+0.5% bupivacaine)
+6 The effectiveness of the block and the size of the area desensitized
+depend on whether the injection is performed inside the foramen
+(anesthetizing up to the first molar; Gross et al, 1997) or only at
+the entrance (blocking only the area rostral to the canine teeth)
+Cautions
+Hematoma, intravascular injection, nerve damage
+Blocks of the Head
+43
+(a)
+(q)
+(C]
+Figure 4.3 (a) Nerve branches exiting the infraorbital foramen. (b) Infraorbital
+block (note the insertion of the needle tip within the canal). (e) Infraorbital
+block. Parts {a) and (b) reproduced with permission from The Ohio State
+University.
+4
+Handbook of Small Animal Regional Anesthesia and Analgesia
+Mandibular (or inferior alveolar)
+Indications
+extractions (Aguiar et al, 2015)
+Target nerves
+Inferior alveolar nerve (at the mandibular foramen)
+Region anesthetized
+Hemi-mandible up to the chin.The tissues between the mandibles
+should not be anesthetized if the technique is performed correctly. On
+some occasions, the most rostral part of the chin is not desensitized (in
+some animals the innervation is by the mylohyoid nerve)
+Landmarks
+Mandible, angular process, mandibular foramen
+Needle
+22 Ga 1.6 or 2.5 cm
+Depth
+Skin rostral to the angular process of the mandible to the mandibular
+foramen
+Technique
+1 Palpate the angular process of the mandible, then open the mouth
+and palpate the mandibular foramen. This foramen is located
+approximately halfway between the last molar tooth and the con-
+dylar process
+2 Introduce the needle percutaneously immediately rostral to the
+angular process and directed dorsally along the medial aspect of
+the mandible
+3 Direct the tip of the needle towards the foramen. It is very difficult
+to advance the needle into the foramen, but the block can be effec-
+tive as long as the anesthetic solution is delivered at the entrance
+of the foramen
+4 Aspirate to prevent intravascular injection
+5 Inject 0.2-l mL of anesthetic solution or combination (e.g. 0.25-
+0.5% bupivacaine)
+Cautions
+Hematoma, intravascular injection, nerve damage. Desensitization of
+the tongue can occur if a bilateral block is performed with large vol-
+umes and/or poor technique (difficulty locating and injecting within
+the foramen or as close as possible to it). This desensitization may lead
+Blocks of the Head
+45
+(a]
+(b]
+(C)
+Figure 4.4 (a) Innervation of the mandible and the tongue.(b)Percutaneous
+approach to the mandibular nerve (note the needle tip close to the foramen).
+(c) Percutaneous approach for the mandibular nerve block. Parts (a) and (b)
+reproduced with permission from The Ohio State University.
+46
+Handbook of Small Animal Regional Anesthesia and Analgesia
+Mental (or middle mental)
+indications
+Surgical procedures involving the rostral mandible, teeth associated
+with the area, and rostral lower lip
+Target nerves
+nerve)
+Region anesthetized
+Chin when performed bilaterally. up to premolar tooth P4 if injection
+is performed inside the foramen (Gross et al, 2000)
+Landmarks
+Mental foramen, lower lip. premolar tooth P2
+Needle
+25 Ga 1.6 mm
+Depth
+Gum mucosa to foramen
+Technique
+1 Palpate the foramen ventral to the tooth P2 from the inside of the
+lower lip
+2 Introduce the needle just rostral to that point, at a shallow angle,
+towards the foramen
+3 Advance the needle into the foramen as far as possible (without
+forcing it in)
+4 Aspirate to prevent intravascular injection
+5 Inject 0.2-0.6 mL of anesthetic solution or combination (e.g. 0.25-
+0.5% bupivacaine)
+Cautions
+Hematoma, intravascular injection, nerve damage. In some instances,
+the most rostral part of the chin is not desensitized (in some animals
+the innervation is by the mylohyoid nerve)
+Blocks of the Head
+47
+(a)
+(b)
+Figure 4.5 {a) Mental block (note the insertion of the needle tip within the
+nerve canal). (b) Mental block for rostral hemimandibulectomy. Part (a)
+reproduced with permission from The Ohio State University.
+48
+Handbook of Small Animal Regional Anesthesia and Analgesia
+Auriculotemporal and great auricular
+Indications
+Analgesia in severe cases of otitis externa, perioperative analgesia for
+surgical interventions affecting the external ear canal and the auricu-
+lar pinna (postoperative analgesia can also be achieved by local infil-
+tration at the time of closure, but the lse of this block would provide
+intraoperative analgesia as well)
+Target nerves
+Auriculotemporal (branch of the mandibular nerve) and great auricul-
+lar (formed by the union of the ventral roots of Cl and C2)
+Region anesthetized
+External ear canal and pinna
+Landmarks
+Zygomatic arch, external ear canal, vertebral atlas transverse process
+(also known as wings)
+Needle
+22 Ga 2.5 cm (or longer in big dogs)
+Depth
+Skin to mid-distance between skin and temporomandibular joint
+(auriculotemporal nerve) and skin to subcutaneous tissue (great
+auricular nerve)
+Blocks of the Head
+49
+(a]
+(b)
+Figure 4.6 (a) Innervation of the ear and pinna. (b) Identification of the
+anatomical landmarks for the desensitization of the auriculotemporal nerve.
+50
+Handbook of Small Animal Regional Anesthesia and Analgesia
+Technique
+Auriculotemporal nerve block
+1 Palpate the external ear canal (it is conical in shape and very hard
+when inflamed}
+2 Locate the caudal aspect of the zygomatic arch
+3 Introduce the needle perpendicular to the skin in the palpable
+depression between the zygomatic arch and the external ear canal
+(the temporomandibular joint)
+5 Knowing the total depth of the tissues, withdraw the needle
+approximately halfway
+ 6 Aspirate to prevent intravascular injection
+7 Inject 0.5-1.5 mL of anesthetic solution or combination (e.g. 0.25-
+0.5% bupivacaine)
+Great auricular nerve
+1 Palpate the external ear canal
+ l 5  e l  l  
+vertebra
+3 Introduce the needle parallel to the transverse process
+4 Direct the tip of the needle ventral to the most cranial part of the
+process
+5 The nerve is very superficial and it is better to maintain the needle
+at a very shallow angle to the skin
+6 Aspirate to prevent intravascular injection
+0.5% bupivacaine)
+Cautions
+Hematoma, intravascular injection, nerve damage. Temporary paraly-
+sis of the facial and/or temporopalpebral nerves preventing the animal
+from blinking (recommended to lubricate the eye every 2-4 h)
+Blocks of the Head
+51
+(c)
+(d)
+Figure 4.6
+(continued)
+(c) Innervation in relation to anatomical landmarks. (d) Great auricular nerve
+block. Parts (a) and (c) reproduced with permission from The Ohio State
+University.
+52  Handbook of Small Animal Regional Anesthesia and Analgesia
+References
+Aguiar, J., Chebroux, A., Martinez-Taboada, F, et al. (20l5) Analgesic effects
+of maxillary and inferior alveolar nerve blocks in cats undergoing dental
+extractions. J Feline Med Surg 17: 1l0-1l6.
+Cremer, J., Sum, S.O., Braun, C., et al. (20l3) Assessment of maxillary and
+infraorbital nerve blockade for rhinoscopy in sevoflurane anesthetized
+dogs. Ver Anaesth Analg 40: 432-439.
+Gross, M.E., Pope, E.R., O'Brien, D., et al. {l997) Regional anesthesia of the
+infraorbital and inferior alveolar nerves during noninvasive tooth pulp
+stimulation in halothane-anesthetized dogs. J Am Ver Med Assoc 21l:
+1403-1405.
+Gross, M.E., Pope, E.R., Jarboe, JM., et al. (2000) Regional amesthesia of the
+stimulation in halothane-anesthetized cats. Am J Ver Res 61: 1245-1 247.
+CHAPTER 5
+Regional Anesthetic
+Blocks of the Limbs
+GwenCovey-Cruinp
+Handbookof Small Animal Regiona? Anesthesia αnd Anaigesia Techniques, First Edition.
+By Phillip Lerche. Turi K. Aarnes, Gwen Covey-Crump and Fernando Martinez Taboada.
+@ 20l6 John Wiley & Sons. Ltd. Published 20l6 by John Wiley & Sons. Ltd.
+54
+Handboolk of Small Animal Regional Anesthesia and Analgesia
+Thoracic limb regional anesthetic blocks
+Regional Anesthetic Blocks of the Limbs
+55
+Local anesthetic here should
+diffuse over most of brachial
+Injection very caudal may not 
+ Cranial aspect of technique 
+Middle aspect of technique 
+reach more cranial nerves 
+ Direct muscle stimulation
+ Too ventral/caudal
+Comment
+Cranial
+plexus
+Accept
+Musculocutaneous 
+Suprascapular
+Median, ulnar 
+Subscapular
+Nerves
+Phrenic 
+Axillary
+Median
+Radial
+le!pey 
+Carpal/digital extensors 
+Triceps, carpal/digital
+Carpal/digital flexors
+Carpal/digital flexors 
+Carpal/digital flexors
+Teres major/minor.
+ Biceps brachialis
+Supraspinatus,
+infraspinatus
+Diaphragm
+deltoideus 
+extensors
+Muscle
+Triceps/biceps contraction 
+Rotate shoulder in, flex 
+Pronate antebra.chium.
+Flex shoulder, extend
+Extend elbow/carpus 
+carpal/palmar flexion 
+Motor response
+scapula/shoulder
+Palmar extension
+Adduct, rotate
+elbow/carpus
+Palmar flexion 
+Palmar flexion
+Hiccup
+elbow
+ Cervical paravertebral 
+ bra.chial plexus 
+Technique
+ RUMM 
+56
+Handbook of Small Animal Regional Anesthesia and Analgesia
+Brachial plexus
+Indications
+Unilateral surgical procedures of distal humerus. elbow, antebra-
+chium, carpus
+Targetnerves
+Musculocutaneous, axillary, radial, median and ulnar
+Region anesthetized
+Thoracic limb distal to mid humerus
+Landmarks
+Acromion, trachea, jugular vein, 1" rib
+Needle
+21 Ga 5.0-10.0 cm insulated needle
+Depth
+Acromion to 1s rib
+Technique (Campoy et al, 2008; Mahler & Adogwa, 2008)
+1 Identify 1 rib by axillary palpation. Premeasure needle depth to a
+point where a line extending the course of the jugular vein crosses
+the 1s rib. The brachial plexus is just cranial to this point
+2 Insert needle craniomedial to the acromion in a caudoventral
+direction parallel to the jugular vein and in a strictly sagittal plane
+3 With nerve stimulator at 2 mA and gradually reducing. observe
+responses to nerve stimulation (Table 5.1) (reducing to 0.2 mA t0
+avoid intrafascicular injection prior to injection}
+4 At point of radial nerve stimulation (and no further than premeas-
+lred depth), aspirate to avoid intravascular (blood) or interpleural
+(air) injection
+5 Inject 0.1 mL/kg 0.5% bupivacaine or 0.75% ropivacaine
+6 Withdraw needle 0.5-1 cm, aspirate, then inject further 0.1 mL/kg
+7 Repeat step 6, injectinga final 0.1 mL/kg beneath the point of the
+shoulder
+Cautions
+Intravascular, interpleural injection, hematoma. Nerve damage
+Regional Anesthetic Blocks of the Limbs
+57
+C6
+Cervicaln.6-
+Cervicaln.7
+Cervicaln.8
+Thoracicn.1
+Jugularv.
+Musculocutaneousn.
+Axillaryn.
+Radialn.
+Axillarya.
+Mediann.
+UInarn.
+(a)
+[b]
+Figure 5.1 Brachial plexus block.(a) Anatomy,(b) approach.Part (a) reproduced
+58  Handbook of Small Animal Regional Anesthesia and Analgesia
+Paravertebral: C6-T1
+Indications
+Unilateral surgical procedures of the scapula, shoulder, and brachium,
+including forequarter amputation
+Target nerves
+Spinal nerves of C6, C7, C8, Tl
+Region anesthetized
+Entire thoracic limb, except skin over upper shoulder region
+Landmarks
+Transverse process C6, head of rib 1
+Needle
+()     
+Technique (Campoy & Read, 2013; Lemke & Creighton, 2008)
+Advanced technique to be undertaken with due caution only in patients
+1 With patient in lateral recumbency and limb to be blocked upper-
+most, retract scapula caudally
+2 Palpate transverse process of C6, maintain digital pressure on lat-
+eral aspect
+3 From dorsolateral approach, advance needle in caudal direction t0
+meet transverse process. Walk needle off cranial border
+4 With nerve stimulator at 2 mA and gradually reducing. observe
+responses to nerve stimulation of ventral branches of spinal
+nerves C6 and C7, suprascapular, subscapular, musculocutaneous
+(Table 5.l} (reducing to 0.2 mA to avoid intrafascicular injection
+prior to injection)
+injection
+6 Inject 0.1 mL/kg 0.5% bupivacaine or 0.75% ropivacaine
+7 Repeat steps 3-6, walking needle off caudal border of transverse
+process
+8 Palpate axillary artery at 1s rib costochondral junction and thor-
+   i        
+dorsal to costochondral junction
+9 Observe elbow/carpus/digit extension (C8) and carpus/digit flex-
+ion (T1)
+10 Aspirate to avoid intravascular (blood) or interpleural (air) injection
+11 Inject 0.1 mL/kg 0.5% bupivacaine or 0.75% ropivacaine
+Cautions
+Intravascular epidural or interpleural injection, hematoma. Nerve injury.
+Phrenic nerve paralysis (common}. Do not perform technique bilaterally
+Regional Anesthetic Blocks of the Limbs
+59
+C6
+Cervical n.6
+Cervical n.7
+Cervicaln.8
+Thoracicn.1
+Jugularv.
+Musculocutaneousn.
+Axillaryn.
+Radialn.
+Axillarya.
+Mediann.
+UInarn.
+(a)
+b
+Figure 5.2 Paravertebral block. (a) Anatomy, (b) approach. Part (a) reproduced
+with permission from The Ohio State University.
+60
+ Handbook of Small Animal Regional Anesthesia and Analgesia
+RUMM (radial/ulnar/median/musculocutaneous)
+Indications
+Anesthesia for surgical procedures of the thoracic limb distal to and
+including the carpus
+Target nerves
+Radial (R}. ulnar (U}, median (Me}, musculocutaneous (Mus} nerves
+Region anesthetized
+Carpus, metacarpus, and digits
+Landmarks
+Lateral and medial epicondyles, greater tubercle of humerus. Lat-
+eral and medial head of triceps, biceps and biceps brachialis muscles.
+Brachial artery
+Needle
+21 Ga 5.0 cm insulated/20-22 Ga 2.0-4.0 cm non-insulated
+Depth
+10-20 mm
+Technique (Lamont & Lemke, 2008; Trumpatori et al, 2009)
+1 Begin with patient in lateral recumbency, limb to treat uppermost,
+elbow flexed 90°
+2 Grasp humerus from cranial aspect, place thumb on caudal humerus
+two-thirds distance from greater tubercle to lateral epicondyle.
+Retract brachialis muscle cranially. Insert needle from caudal aspect,
+perpendicular to long axis of humerus at 45° angle. Puncture long
+heads of triceps to contact humerus, withdraw slightly
+3 If using nerve stimulator, with nerve stimulator at 2 mA and
+gradually reducing. observe responses to radial nerve stimulation
+(Table 5.1) (reducing to 0.2 mA to avoid intrafascicular injection
+prior to injection
+4 Aspirate to avoid intra-arterial injection
+5 Inject 0.1 mL/kg 0.5% bupivacaine or 0.75% ropivacaine
+6 Turn patient into opposite lateral recumbency. have assistant
+retract upper limb caudally (limb to treat is lowest and flexed 90°)
+7 Palpate brachial artery at point mid humerus. With digital pressure
+on humerus, retract biceps brachialis muscle and brachial artery cra-
+nially. Insert needle from caudal aspect perpendicular to long axis of
+humerus and at 45° angle to contact humerus, withdraw slightly
+8 Observe responses to median/ulnar nerve stimulation if using
+(Table 5.1)
+9 Aspirate to avoid intra-arterial injection
+10 Inject half of 0.15 mL/kg 0.5% bupivacaine or 0.75% ropivacaine
+deeply and remaining half as needle is withdrawn
+Regional Anesthetic Blocks of the Limbs
+61
+Triceps,
+lateralhead
+Cephalicv.
+Lateral
+Brachialis m.
+Collateralradiala.
+Radial nerve:
+Deepramus
+Sup.ramus,med
+Sup.ramus,lat
+Musculocutaneousn.
+Bicepsbrachiim.
+Brachiala.
+Median.n.
+Medial
+Caud.cutaneous
+antebrachialn.
+UInarn.
+Brachialv.
+(a)
+[b]
+Figure 5.3 Radius, ulnar, median, musculocutaneous (RUMM) block.
+The Ohio State University.
+62
+Handbook of Small Animal Regional Anesthesia and Analgesia
+Bier block (intravenous regional anesthesia)
+(Staffieri, 2013)
+Indications
+Surgical procedures of <90 min duration of the distal limb, especially
+when a bloodless surgical field is advantageous
+Target nerves
+Local anesthetic effect by spread to peripheral nerve endings
+Region anesthetized
+Thoracic limb distal to elbow and pelvic limb distal to tarsus
+Important anatomy
+· Suitable distal vein
+· Palpable peripheral artery
+Equipment
+● Tourniquet - preferably pneumatic with pressure gauge
+● Esmarch or elastic bandage
+● Doppler probe (optional)
++ Catheter 22-25 Ga 25-33 mm
+Technique (Webb et al, 1999)
+1 Clip surgical and catheter placement sites (plus tourniquet site if
+heavily coated)
+2 Place intravenous catheter as distally as possible
+3 Find a palpable artery and mark with pen
+4 Apply tourniquet and identify lower occlusion pressure (LOP)
+(pressure at which palpable pulse is absent)
+5 Release tourniquet, apply esmarch or elastic bandage tightly
+6 Apply tourniquet to 50-100 mmHg above LOP, record time
+7 Release esmarch bandage
+8 Confirm absence of peripheral pulse
+9 Infuse lidocaine 0.5% 0.6 mL/kg over 2-3 min, observe patient for
+toxicity
+10 Remove catheter
+above systolic arterial pressure
+12 At end of surgery, remove tourniquet slowly, observing for signs of
+toxicity and to ensure hemostasis
+Cautions
+Avoid cuff pressures in excess of 400 mmHg. Use only lidocaine. Risk
+of systemic toxicity.ischemic injury.limb engorgement,tourniquet
+Regional Anesthetic Blocks of the Limbs
+63
+Figure 5.4 Bier block. (a) Find lower occlusion pressure {LOP), (b) apply
+esmarch bandage, (c) apply tourniquet 50-100 mrmHg above LOP and remove
+esmarch, (d) check pulse absent, infuse lidocaine.
+64
+Handboolk of Small Animal Regional Anesthesia and Analgesia
+Pelvic limb
+Regional Anesthetic Blocks of the Limbs
+65
+Direct muscle stimulation
+ May block with femoral
+ Direct muscle stimulation
+Too superficial 
+Too superficial 
+Comment
+Too caudal
+Accept
+Direct muscle stimulation 
+Femoral/ saphenous
+Motor branches only
+Peroneal/fibul ar 
+ Perone al/fibul ar 
+Nerves
+Femoral 
+Sciatic
+Tibi al 
+Sciatic
+29!1
+Psoas stimulation
+Gracilis, pectineus,
+adductor femoris.
+obturator externus
+ Biceps femoris
+Gastrocnemius
+Biceps femoris
+Gastrocnemius
+Quadriceps
+Quadniceps 
+Sartorius
+Muscle
+able 5.2 Elicited motor responses to nerve stimulation - pelvic limb
+Stifle extension, patellar twitch 
+Biceps twitch at 1 mA
+Semimembranosus/
+Motor response
+tendinosus twitch
+Patellar twitch
+Anterior thigh
+Hip adduction
+Stifle flexion 
+Plantarflexion
+Dorsiflexion 
+ Gluteal twitch
+Stifle flexion 
+Plantarflexion
+Hip flexion 
+Dorsiflexion
+approach (caudal lumbar plexus)
+Femoral - inguinal approach 
+ Sciatic - parasacral approach 
+Femoral - lateral preiliac 
+ Sciatic - lateral approach 
+Technique
+66
+Handbook of Small Animal Regional Anesthesia and Analgesia
+Femoral/saphenous nerve block
+inguinal approach
+Indications
+Surgery of distal femur, stifle and distal limb in combination with sci-
+atic nerve block
+Target nerves
+Femoral and/or its branch: saphenolus
+Region anesthetized
+Medial aspect of hindlimb - mid femur to lst digit
+Landmarks
+Femoral artery: femoral triangle (enclosed dorsally by rectus femoris
+cranially by caudal belly of sartorius muscle, proximally (deep) by ili
+opsoas muscle
+Needle
+21 Ga 5.0 cm insulated/20-22 Ga 2.0-4.0 cm non-insulated
+Depth
+5-15 mm
+Technique
+1 With patient in lateral recumbency. hindlimb to treat uppermost
+2 Abduct limb caudally, palpate femoral artery
+3 Direct needle dorsomedially towards nerve which lies cranial to
+femoral artery
+4 With nerve stimulator at 2 mA and gradually reducing. observe
+responses to nerve stimulation including quadriceps twitch, patellar
+twitch,stifle extension(Table 5.2)(reducing to 0.2 mA to avoid
+intrafascicularinjection prior to injection} (sartorius twitch = needle
+too superficial}
+5 Aspirate to avoid intra-arterial injection
+6 Inject 0.2 mL/kg 0.5% bupivacaine or 0.75% ropivacaine
+Cautions
+Hematoma, intravascular injection, nerve damage
+Regional Anesthetic Blocks of the Limbs
+67
+Femoralv,a.,n.
+Pectineusm.
+Adductorm.
+Sartoniusm.
+Gracilis m.
+(a)
+[b]
+Figure 5.5 Femoral nerve block - inguinal approach. (a) Anatomy, (b) approach.
+Part (a) reproduced with permission from The Ohio State University.
+68
+Handbook of Small Animal Regional Anesthesia and Analgesia
+Lateral preiliac approach (caudal lumbar plexus)
+(Portela et af, 2013)
+Target nerves
+Femoral (may also block obturator)
+Region anesthetized
+Hemipelvis, femur, medial femorotibial joint, skin of dorsomedial tar-
+sus, lst digit. May not anesthetize skin overlying coxofemoral joint
+Landmarks
+Cranial dorsal iliac crest (CDIC). L6
+Needle
+Small dogs 22 Ga 5.0 cm, large dogs 22 Ga 7.5 cm insulated
+Depth
+Use depth of iliopsoas muscle as reference
+Technique
+1 With patient in lateral recumbency, hindlimb to treat uppermost
+2 Draw a line dorsoventral from L6, bisect with line parallel to spine
+originating from most cranial aspect of iliac crest
+3 Puncture site at bisection, advance needle caudomedially with
+30-45° intent through iliocostalis lumborum muscle
+4 With nerve stimulator at l mA and gradually reducing. observe
+responses to nerve stimulation - quadriceps contraction (Table 5.2)
+injection)
+5 Aspirate to avoid intra-arterial injection
+6 Inject 0.1 mL/kg 0.5% bupivacaine or 0.75% ropivacaine
+Cautions
+Low risk of epidural migration, vessel puncture
+iliocostalis
+lumborumm.
+L5
+iliocostalis
+lumborumm.
+L6
+Spinaln.L5
+quadratuslumborumm.:
+Obturatorn.
+quadratus
+Femoraln.
+External iliaca&v
+iliopsoasm.
+iliopsoasm.
+Femoraln.
+Externaliliaca&v
+(a)
+Internaliliaca&v
+Regional Anesthetic Blocks of the Limbs
+69
+_6
+CDIC
+CDIC
+Figure 5.6 Femoral nerve block - lateral preiliac approach. (b) Anatomy,
+{c) approach. Part (a) reproduced with permission from The Ohio State
+University.
+70
+Handbook of Small Animal Regional Anesthesia and Analgesia
+Sciatic nerve block
+Indications
+Surgery of distal femur, stifle and distal limb in combination with fem-
+oral nerve block
+Target nerves
+Sciatic (ischiatic) nerve gives off branches: common peroneal, tibial
+nerves
+Region anesthetized
+Lateral, dorsal, caudal aspects of hindlimb - caudolateral stifle to
+digits 2-5
+Lateral approach (Campoy et al, 2008)
+Landmarks
+Greater trochanter of femur (GT}. ischial tuberosity (IT)
+Needle
+21 Ga 5.0 cm insulated or 22 Ga 2.0-4.0 cm non-insulated
+Depth
+5-10 mm
+Technique
+1 With patient in lateral recumbency, hindlimb to treat uppermost
+on a line between GT and IT, puncture site is 1/3 distance from GT
+2 Direct needle perpendicular to skin
+3 With nerve stimulator at 2 mA and gradually reducing. observe
+responses to nerve stimulation - dorsiflexion of tarsus (peroneal
+nerve), plantarflexion (tibial nerve) (Table 5.2) (reducing to 0.2 mA
+to avoid intrafascicular injection prior to injection}
+4 Aspirate to avoid intra-arterial injection
+5 Inject 0.05-0.1 mL/kg 0.25-0.5% bupivacaine or 0.75% ropivacaine
+Cautions
+Risk of intravascular injection, nerve damage
+Regional Anesthetic Blocks of the Limbs
+71
+Caudalgluteal
+vein&artery
+GT
+Sciaticn.
+(a)
+(b)
+Figure 5.7 Sciatic nerve block -lateral approach. (a) Anatomy, (b) approach.
+Part {a) reproduced with permission from The Ohio State University.
+72
+Handbook of Small Animal Regional Anesthesia and Analgesia
+Parasacral approach (sacral plexus block) (Portela et al, 2010)
+Landmarks
+Cranial dorsal iliac crest (CDIC), ischial tuberosity (IT), dorsal spinous
+processes (DSP)
+Needle
+21 Ga 5.0 cm insulated
+Depth
+15-30 mm
+Technique
+1 With patient in lateral recumbency, hindlimb to treat uppermost,
+on a line between CDIC and IT, puncture site is l/3 distance from
+CDIC
+2 Direct needle sagitally
+3 With nerve stimulator at 2 mA and gradually reducing. observe
+responses to nerve stimulation - gastrocnemius twitch, digital/
+in tra fascicular injection prior to injection}
+4 Aspirate to avoid intra-arterial injection
+5 Inject 0.1 mL/kg 0.5% bupivacaine or 0.75% ropivacaine
+Cautions
+bowel puncture
+Regional Anesthetic Blocks of the Limbs
+EL
+Lumbarn.7
+Lumbarn.6
+Sciaticn
+Caudal
+glutealv&a
+(a)
+(b)
+Figure 5.8 Sciatic nerve block - parasacral approach. (a) Anatomy. (b) approach.
+Reproduced with permission from The Ohio State University.
+74 Handbook of Small Animal Regional Anesthesia and Analgesia
+References
+Campoy. L & Read, M.R. (2013) The thoracic limb. In: Sma!l Anima! Regiona!
+Anesrhesia αnd Analgesia. Ames, IA: Wiley-Blackwell, pp. 146-147.
+Campoy, L. Looney, A.L. Ludders, JW. & Gleed, R.D. (2008) Distribution of
+a Lidocaine-methylene blue solution staining in brachial plexus, lumbar
+plexus and sciatic nerve blocks in the dog. Ver Anaesth Anaig 35: 348-354.
+Lamont, LA. & Lemke, K.A. (2008) The effects of medetomidine on radia]
+nerve blockade with mepivacaine in dogs. Ver Anaesth Analg 35: 62-68.
+Lemke, K.A. & Creighton, C.M. (2008) Paravertebral blockade of the brachial
+plexus in dogs. Ver Clin Small Anim 38: 1231-1241
+Mahler, S.P & Adogwa, A.O. (2008) Anatomical and experimental studies of
+brachial plexus, sciatic, and femoral nerve-location using peripheral nerve
+stimulation in the dog. Ver Anaesth Analg 35: 80-89.
+Portela, D.A., Otero, PE. Tarragona, L., Briganti, A., Breghi, G. S Melanie, P
+{201O) Combined paravertebral plexus block and parasacral sciatic block in
+healthy dogs. Ver Anαesth Analg 37: 531-541.
+Portela, D.A., Otero, PE., Briganti, A., et al. (20l3) Femoral nerve block: a
+Anαg 40: 194204.
+Staffieri, F (2013) Intravenous regional anesthesia. In: Campoy. L. & Read,
+M.R. (eds) Small Animal Regional Anesthesia and Analgesia. Ames, IA: Wiley-
+Blackwell pp. 261-271.
+Trumpatori, B.J., Carter, JE., Hash, J., et al. (2009) Evaluation of a mid-
+humeral block of the radial, ulnar, mu sculocutaneous and median (RUMM
+block) nerves for analgesia of the distal aspect of the thoracic limb in dogs.
+Ver Surg 39: 785-796.
+Webb, A.A., Cantwell, S.L., Duke, T, et al. (1999) Intravenous regional anes
+thesia (Bier block) in a dog. Can Ver J 40: 419-421.
+CHAPTER6
+Epidurals and
+Spinals
+Turi K.Aarnes
+Handbookof Small Animal Regiona? Anesthesia αnd Anaigesia Techniques, First Edition.
+By Phillip Lerche. Turi K. Aarnes, Gwen Covey-Crump and Fernando Martinez Taboada
+@ 20l6 John Wiley & Sons. Ltd. Published 20l6 by John Wiley & Sons. Ltd.
+76  Handbook of Small Animal Regional Anesthesia and Analgesia
+Lumbosacral epidural and spinal in dogs
+Indications
+Abdominal pain, thoracic pain, hindlimb pain, perineum/tail
+Target nerves
+Nerves caudal to the spread of local anesthetic
+Regionofanesthesia/anafgesia
+Using 0.2 mL/kg of injectate (local anesthetic or morphine at appropri-
+ate dose diluted to appropriate volume), anesthesia/analgesia should
+occur from T13 spinal space and extend caudally. Larger volumes may
+be used if cranial spread is desired.
+Landmarks
+Place the thumb and middle finger on the craniodorsal aspects of the
+wings of the ilium and place the index finger at the lumbosacral space
+(L7-Sl) for epidural administration (Figure 6.1). When performing a
+spinal, place the thumb and middle finger on the craniodorsal aspects
+of the wings of the ilium, and the index finger at the space between
+L5 and L6.
+Needle
+A spinal needle with stilette (e.g. Tuohy needle for epidural, Quincke
+needle for spinal), depending on the size of the dog - typically a 20 Ga,
+5.1 cm needle for a 15-40 kg dog.
+Technique (Skarda & Tranquilli, 2007a; Troncy et al, 2002)
+  e i aaa a a l  od,  
+spinal fluid should be observed when performing an epidural. Fluid
+will most likely be observed flowing from the needle when the sti-
+lette is removed when performing a spinal, though it is possible to be
+in the subarachnoid space with no fluid flowing ("dry tap"). Loss of
+resistance technique may be utilized by injecting approximately 1 mL
+plunger should be felt. The "hanging drop technique" may also be
+used by placing saline into the needle to fill the hub. The drop should
+tion should be felt during drug administration.
+Advantages
+Advantages of epidural anesthesia include good muscle relaxation,
+postoperative analgesia, minimal effects on the body, low cost
+Epidurals and Spinals
+VETERINARY
+TECHNICIAN
+Figure 6.1 Palpation of the lumbosacral space in a dog. Place the thumb and
+middle fnger on the craniodorsal aspects of the wings of the ilium and place the
+index finger at the lumbosacral space.
+Figure 6.2 Lumbosacral epidural technique in a dog. A distinct "pop" is felt
+when the needle is advanced through the interarcuate ligament {ligamentum
+78 Handbook of Small Animal Regional Anesthesia and Analgesia
+Complications
+Inadequate anesthesia due to faulty technique, if the animal is awake
+during surgery (might move); hypotension (if using local anesthetic).
+respiratory depression (local anesthetic epidurals and spinals), or apne?
+after excessive blockade (epidurals and spinals); accidental administra
+Contraindications
+Hypovolemia and hypotension (when using local anesthetics), bleed-
+ing disorder, skin infection
+Lumbosacral epidural in cats
+indications
+Abdominal pain, thoracic pain, hindlimb pain, perineum/tail
+Target nerves
+Nerves caudal to the spread of local anesthetic
+Region of anesthesia/anaigesia
+ate dose diluted to appropriate volume), anesthesia/analgesia should
+occur from Tl3 spinal space and extend caudally. Local anesthetic for
+lumbosacral epidural should be used with caution in cats due to toxic-
+Landmarks
+Place the thumb and middle finger on the craniodorsal aspects of the
+wings of the ilium and place the index finger at the lumbosacral space
+(Figure 6.3).
+Needle
+A 22 Ga 2.5 cm straight needle
+Technigue (Skarda & Tranquilli, 2007b;Troncy et al, 2002)
+A 22 Ga needle is placed at the midline of the lumbosacral space (L7-S1)
+       r  
+should be observed. Minimal resistance to injection should be felt.
+Complications
+Inadequate anesthesia due to faulty technique, if the animal is awake
+during surgery (might move); hypotension, respiratory depression, or
+apnea after excessive blockade; accidental administration into the sub-
+arachnoid space. Due to anatomical differences from dogs, more likely
+to perform a spinal rather than an epidural (spinal cord ends at L6-
+Epidurals and Spinals
+79
+Contraindications
+Hypovolemia and hypotension (when using local anesthetics). bleed-
+ing disorder, skin infection. Reduce dose by 50% if performing spinal
+rather than epidural.
+Figure 6.3 Palpation of the lumbosacral space in a cat. Place the thumb and
+middle fnger on the craniodorsal aspects of the wings of the ilium and place the
+index finger at the lumbosacral space.
+Figure 6.4 Lumbosacral epidural and spinal technique in a cat. A 22 Ga needle
+is placed at the midline of the lumbosacral (L7-Sl) space. Reproduced with
+80
+Handboolk of Small Animal Regional Anesthesia and Analgesia
+Caudal epidural in dogs and cats
+Indications
+Described for use in cats with urethral obstruction. Other possibilities:
+dystocia, tail amputation, perineal procedures
+Target nerves
+Nerves caudal to the spread of local anesthetic
+Region of anesthesia/analgesia
+Perineum, tail, sacrum
+Landmarks
+A coccygeal epidural can be performed at either the sacrococcygeal
+interspace or Col-Co2. First moveable vertebrae between the sacrum
+and tail, or first coccygeal interspace, on midline
+Needle
+25 Ga 1.5 cm straight needle
+Technigue (o'Hearn & Wright, 2011)
+Palpate the space between sacrum and Col or Col andCo2. Insert 25 Ga
+needle on midline, direct at a 30-45° angle, and advance through the
+ligamentum flavum (Figure 6.5). Aspirate through the needle to check
+for blood (if blood is aspirated, start over). Infuse 0.1-0.2 mL/kg of
+lidocaine 2%.
+Complications
+Bleeding, incomplete blockade
+Contraindications
+Hypovolemia and hypotension (when using local anesthetics), bleed-
+ing disorder, skin infection
+Epidurals and Spinals
+81
+S3
+Co1
+Co2
+Figure 6.5 Coccygeal epidural technique in a cat. Insert a 25 Ga needle on the
+midline, directed at a 3045° angle, and advance through the ligamentum
+flavum. Reproduced with permission from The Ohio State University.
+82  Handbook of Small Animal Regional Anesthesia and Analgesia
+References
+O'Hearm, A.K. & Wright, B.D. (201l) Coccygeal epidural with local anesthetic
+for catherization and pain management in the treatment of feline urethral
+obstruction. J Ver Emerg Crit Care 21: 50-52.
+Skarda, R.T. & Tranquilli, W.J. (2007a) Local and regional anesthetic and anal-
+(eds) Lumb e Jones'Veterinary Anesthesia and Analgesia,4th edn. Ames.IA:
+Wiley-Blackwell, pp.561-5 94,
+Skarda, R.T. & Tranquilli, W.J. (2007b) Local and regional anesthetic and anal-
+gesic techniques: cats. In: Tranquilli, WJ., Thurmon, JC. & Grimm, K.A.
+(eds)Lumb e Jones’Vererinary Anesthesia and Analgesia, 4th edn. Ames,IA:
+Wiley-Blackwell, pp.595-603.
+Troncy, E., Junot, S., Keroack, S., et al. (2002) Results of preemptive epidura]
+administration of morphine with or without bupivacaine in dogs and cats
+undergoing surgery: 265 cases (1997-1999). J Am Ver Med Assoc 221: 666-672.
+CHAPTER 7
+Emergency
+Procedures
+Turi K.Aarnes
+Handbookof Small Animal Regiona? Anesthesia αnd Anaigesia Techniques, First Edition.
+By Phillip Lerche. Turi K. Aarnes, Gwen Covey-Crump and Fernando Martinez Taboada.
+@ 20l6 John Wiley & Sons. Ltd. Published 20l6 by John Wiley & Sons. Ltd.
+ Handbook of Small Animal Regional Anesthesia and Analgesia
+Complications associated with local
+anesthetic techniques
+Bleeding
+Bleeding is a potential complication of all nerve blocks. Caution should
+be exercised in patients with bleeding/clotting disorders and patients
+that have been heparinized. Epidurals and spinals are contraindicated
+in these patients.
+Clinicalsigns
+Visible hemorrhage. hypotension
+Treatment
+Monitor systemic blood pressure, apply pressure to area of hemor-
+rhage, cold compress to reduce blood flow, in extreme cases ligation of
+blood vessels (e.g. accidental laceration of an artery)
+Nerve trauma
+Injection of local anesthetic directly into nerve or nerve trauma may
+result from local anesthetic techniques. Return to normal function
+may occur over time.
+Clinical signs
+Pain, motor or sensory deficits, urinary or fecal incontinence
+Treatment
+Supportive care, systemic analgesics for pain, systemic anti-
+inflammatories
+Complications associated with local
+anesthetic drugs
+Allergic reactions to local anesthetic drugs
+True allergic reactions to local anesthetics are rare. Reported with use
+of aminoesters (e.g. procaine, tetracaine). Signs develop 12-24 h after
+exposure (Lin & Liu, 2013}
+Clinical signs
+Hypersensitivity reaction; contact dermatitis including erythema, pru-
+ritus, papules, vesicles
+Emergency Proce dures
+85
+Treatment
+Stop administration of local anesthetic, airway maintenance, epineph-
+rine, intravenous fluids, diphenhydramine
+Methemoglobinemia
+More likely with benzocaine or prilocaine but also reported with pro-
+caine and lidocaine. Also more lilkely in cats than dogs.
+Clinical signs
+Hypoxia, cyanosis, death, blood that looks brown in color, dyspnea,
+nausea, tachycardia
+Treatment
+Intravenous administration of l% methylene blue; intubation and
+Hillier, 2006).
+Systemic toxicity of Tocal anesthetics
+Systemic toxicity of local anesthetics is usually associated with
+diac arrest. Monitoring patients and preparation for performing CPCR
+are necessary.
+Cardiovascular toxicity (Table 7.1)
+Cardiovascular (CV) toxicity is increased with bupivacaine compared
+with lidocaine or ropivacaine, accidental intravenous administration
+of bupivacaine or ropivacaine, and in patients with decreased hepatic
+function. Large doses of high-potency local anesthetics are more likely
+Separately. CV toxicity may result from CNS toxicity due to decreased
+activity of the nucleus tractus solitarii resulting in decreased auto-
+nomic control of the CV system (Salinas et al, 2004).
+CNS toxicity(Table7.2)
+cause CNS depression, high concentrations can result in excitation
+due to inhibition of inhibitory neurons. High potency and high lipid
+solubility can result in increased CNS toxicity (Lin & Liu, 2ol3}.
+86
+Handboolk of Small Animal Regional Anesthesia and Analgesia
+Stop administration of local anesthetic, continuous
+ Stop administration of local anesthetic, continuous 
+monitoring of invasive blood pressure, administer 
+ Stop administration of local anesthetic, continuous
+ephedrine, phenylephrine), inotropes (dopamine.
+monitoring of invasive blood pressure, continuous
+IV fluids, vasopressors (vasopressin, epinephrine.
+IV fluids, vasopressors (vasopressin, epinephrine.
+ephedrine, phenylephrine), inotropes (dopamine.
+(Weinberg et al, 2003), antidysrhythmics, oxygen 
+monitoring of ECG, intravenous lipid emulsion,
+dobutamine), intravenous lipid emulsion
+ antidysrhythmics, oxygen supplementation
+dobutamine), intravenous lipid emulsion
+supplementation 
+Treatment
+ Clinical presentation/clinical sign 
+ Hypotension, collapse, tachycardia
+premature contractions, ventricular
+ P-R interval, prolongation of QRS 
+ ta.chycardia, ventricular fibrillation 
+ECG changes: prolongation of 
+interval., AV block, ventricular
+ECG changes, hypotension
+Excessive plasma concentration, also related 
+drug diffuses to conducting tissue of heart.
+Excessive plasma concentration, unbound 
+also related to potency of local anesthetic
+tissue of heart, inhibition of depolarization
+accidental IV administration of bupivacaine
+ Unbound drug diffuses to conducting 
+rate of cardiac action potential due to
+Epinephrine and phenylephrine may
+increase bupivacaine toxicity to cAMP
+to potency of local anesthetic drug 
+Mechanism
+inhibition 
+able 7.1 Cardiovascular toxicity
+bnup
+ Myocardial depression 
+ and cardiac toxicity
+Com plication
+ Dysrhythmias 
+Emergency Proce dures
+8
+supplementation, epinephrine, intravenous
+ supportive care, systemic analgesics for pain
+Stop administration of local anesthetic.
+anticonvulsants: midazolam or diazepam
+0.5 mg/kg IV; intravenous lipid emulsion:
+Stop administration of local anesthetic.
+continuous monitoring of ECG, monitor
+Stop administration of local anesthetic.
+ntubation and oxygen supplementation,
+Stop administration of local anesthetic.
+/entilation, intravenous lipid emulsion 
+luids, intravenous lipid emulsion
+oxygen administration
+Treatment
+ Clinical presentation/clinical sign
+Nystagmus, myoclonus, seizures 
+ Pain, motor or sensory deficits.
+ urinary or fecal incontinence 
+Unconsciousness, coma 
+ Respiratory arrest
+Rare complication. Direct exposure of nerves to
+ocal anesthetics can result in toxicity of neural
+dependent), also related to potency of local 
+dependent), also related to potency of local 
+lesol jo Aoualod ol patelal osle (tuapuadap
+fibers, leading to concentration- dependent 
+ poog leunau paseaisap pue abewep aaal
+low. More likely to see neurotoxicity with
+eou ot wnay 'sjeunpida pue sieuids
+Excessive plasma concentration (dose 
+Excessive plasma concentration (dose 
+Excessive plasma concentration (dose
+function may occur over time 
+anesthetic drug 
+anesthetic drug
+anesthetic drug 
+Mechanism
+ CNS depresson/toxicity
+able 7.2 CNS toxicity
+Complication
+ Neurotoxicity
+881
+Handbook of Small Animal Regional Anesthesia and Analgesia
+References
+Lin, Y. & Liu, S.S. {20l3) Local anesthetics. In: Barasch, PG., Cullen, B.F,
+Sotelting. R.K.,et al.(eds) Cfinical Anesthesia, 7th edn. Philadelphia:
+Lippincott Williams & Wilkins, pp.561-577.
+Salinas, EV., Liu, S.L. & Scholz, A.M. (2004) Analgesics: ion channel ligands/
+sodium channel blockers/local anesthetics. In: Evers, A.S. & Maze, M. (eds)
+Anestheric Pharmacology: Physiologic Principles and Clinical Practice. Philadel-
+phia: Churchill Livingstone, pp.507-533.
+Stoelting. R.K. & Hillier, S.C. (2006) Local anesthetics. In: Stoelting. R.K. S
+Hillier, S.C. (eds) Pharmacology e Physiology in Anesrheric Practice, 4th edn.
+Philadelphia: Lippincott Williams & Wilkins, pp. 1 79-207.
+Weinberg, G., Ripper, R., Feinstein, D.L., et al. (2003) Lipid emulsion infusion
+Med 28: 198-202.
+Further reading
+Martin-Flores, M. (2013) Clinical pharmacology and toxicology of local anes-
+thetic and adjuncts. In: Campoy. L. & Read, M.R. (eds) Small Anima!
+Regiona! Anestheia and Analgesia. Ames, IA: Wiley-Blackwell, pp.25-38.
+Skarda, R.T. & Tranquilli, WJ. (20o7) Local anesthetics. In: Tranquilli, W.J.,
+Thurmon, JC.& Grimm, K.A. (eds) Lumb e Jones'Vererinary Anesthesia and
+Analgesia, 4th edn. Ames, IA: Wiley-Blackwell, pp.395-418.
+acromion, 56
+mental, 46-47
+additives, 6. 10
+paravertebral C6-T1, 58-59
+adrenaline, 6
+radial, ulnar, median,
+allergic reactions, 84-85
+musculocutaneous
+alpha-2 adrenoceptor
+(RUMM},17,60-61
+agonists,2,6
+retrobulbar, 38-39
+amino amide, 3
+ring block, 22-24
+amino ester, 3, 84
+sacral plexus block, 72-73
+amputation, 58
+sciaticblock, 70-71
+antebrachium, 55-56
+blood vessels
+alriculotemporal nerve
+axillary a., 59
+block, 48-50
+brachial a., 60-61
+ear, 48-50
+brachial v., 61
+ear canal, 48, 50
+caudal gluteal a. v., 71
+otitis, 48
+cephalic v., 61
+pinna, 48-49
+external iliac a. v., 68
+Zygomatic arch, 38-40, 48. 50
+femoral a. v., 66-67
+internal iliac a. v., 68
+Bier block, 6,62-63
+jugular v., 56, 59
+block
+brachial plexus, 17.55-57
+auriculotemporal,48-50
+bupivacaine, 3, 5-7
+Bier block, 62-63
+brachial plexus, 56-57
+carpus, 55-56,58,60
+diffusion, 28
+caudal epidural, 80
+femoral/saphenous, 66-69
+coxofemoral joint, 68
+great auricular, 48-50
+cranial dorsal iliac crest, 72-73
+incisional, 26
+infraorbital, 42-43
+dexmedetomidine,6
+intercostal, 30-32
+diaphragm, 55
+interpleural, 32-33
+diffusion catheter, 28-29
+intraperitoneal, 34
+catheter, 28-29
+inverted "L",24-25
+pain buster, 29
+line, 22-24
+soaker, 28-29
+mandibular, 44-45
+soaker catheter, 28-29
+maxillary. 40-41
+digit, 6,58,60, 66. 68.70
+90
+Index
+diphenhydramine, 85
+laceration, 22-28
+dorsal spinous process, 72
+lidocaine, 3-6, 11, 80
+line block, 22-23, 27-28
+elbow, 55-56. 58, 60.62
+lumbosacral epidural, 76
+epidural, 7
+epidural catheter, 8
+mandibular nerve block, 44-45
+epinephrine, 5-6,85
+dental, 44
+esmarch bandage, 62-63
+mandibulectomy. 44-47
+mass removal, 22,24,26
+femoral triangle, 66
+maxillary nerve block, 40-41
+femorotibialjoint, 68-69
+dental, 40
+forequarter, 58
+pterygoid fossa, 40
+rhinoscopy. 40
+great auricular nerve
+zygomatic arch, 40
+block, 48,50
+mechanism of action,4
+ear, 48-50
+medetomidine, 6
+ear canal, 48, 50
+mental nerve block, 46-47
+otitis, 48
+chin, 46-47
+pinna, 48-49
+dental, 46-47
+greater trochanter, 70-71
+mepivacaine, 3. 5
+metabolism, 4, 11
+humerus, 56. 60
+metacarpus, 60
+hyaluronidase. 7
+methemoglobinemia, 85
+methylene blue, 85
+iliac crest, 68. 72
+morphine. 6
+infiltration of surgical incision,
+muscle
+22-34
+adductor femoris m., 65. 67
+infraorbital nerve block, 42-43
+biceps brachii m., 55, 60-61
+dental, 40-44
+biceps femoris m., 65
+muzzle,40,42
+brachialis m., 60-61
+nares, 40
+carpal extensors, 55
+intercostal block, 30-33
+carpal flexors, 55
+chest wall, 30-33
+deltoideus m., 55
+intercostal, 30-33
+digital extensors, 55
+rib, 30-33
+digital flexors, 55
+interpleural block, 32-33
+gastrocnemius m., 65. 72
+chest drain, 32-33
+gracilis m., 65. 67
+intraperitoneal
+iliopsoas m., 66-69
+abdominal cavity. 34
+obturator externus m., 65
+laparoscopy. 34
+pectineus m., 65. 67
+laparotomy. 34
+psoas m., 65
+inverted "L"block, 25-28
+quadriceps m., 65-66, 68
+ischial tuberosity.70-72
+rectus femoris m., 66-67
+sartorius m., 65-67
+xap
+91
+semitendinosus m., 65
+supraspinatus n., 55
+teres major m., 55
+thoracic n., 1, 57. 59
+teres minor m., 55
+tibial n., 16, 19,65.70
+triceps, 55, 60
+ulnar n., 15. 17. 55-56, 60-61
+nerve locator
+N-methyl-D-aspartate (NMDA}
+acoustic device. 9
+channel, 6
+peripheral nerve stimulator. 8
+needles
+pressure transducer, 9
+hypodermic. 7
+ultrasound, 9
+Quincke, 76
+nociception, 2, 6
+spinal, 7
+Tuohy. 7-8.76
+opioids, 2. 6
+nerve
+auriculotemporal, 48-50
+patellar twitch, 65-66
+axillary n., 17. 55-57
+pelvic limb
+brachiocephalic n., 15
+femoral/saphenous nerve
+cervical n., 6-8, 17. 57
+block, 65-69
+common peroneal n., 70
+inguinal approach, 65-67
+cutaneous
+lateral pre-iliac approach
+C2, 14
+(caudal lumbar plexus).
+C3, 14
+65. 68-69
+LCB-T2.15
+parasacral approach (sacral
+facial n., 14
+plexus block}.65. 72-73
+femoral n., 19. 65-69
+sciatic nerve block, 65-66,
+great auricular, 48-50
+70-73
+infraorbital n., 42-43
+pKa, 4-5
+infraspinatus n., 55
+preemptive analgesia, 2
+ischiatic n., 70
+prilocaine,3
+lumbar plexus, 65. 68
+proparacaine,3
+mandibular n., 14, 44-45
+maxillary n., 14, 40-41
+retrobulbar block, 38-39
+median n., 17. 55-57.60-61
+eye, 38-39
+musculocutaneous n., 15, 17.
+ocular, 38-39
+55-57. 60-61
+zygomatic arch, 38-40.
+obturator n., 65.68
+48. 50
+ophthalmic n., 14, 38
+rib, 58
+peroneal n., 16, 19, 65. 70
+ring block, 6
+phrenic n., 55. 58
+ropivacaine, 3, 5. 7
+radial n.,15.17.55-57.60-61
+route of administration
+sacral plexus, 72-73
+epidural, 4, 6-11, 76-81
+saphenous n., 16, 19, 65-66
+intra-articular, 4
+sciatic n.,16,19, 65,70-73
+intravenous regional, 3. 5
+spinal nerves, 58
+peripheral nerve block, 4
+subscapular n., 17. 55. 58
+regional infiltration, 3
+92
+Index
+route of administration (Continned)
+tarsus,62, 68-70
+topical
+tourniquet,62-63
+corneal, 3
+toxicity
+intrapleural, 3
+cardiovascular, 85
+transdermal, 3
+CNS (central nervous
+system). 85
+scapula, 55. 58
+transverse process, 58
+shoulder, 55-56. 58
+sodium bicarbonate, 7
+xylazine.6
+spinal, 76-77
+spine, 76-81
+zygomatic arch, 38-40,
+stifle,65-66.70
+48, 50
+syringes, 3. 7-8

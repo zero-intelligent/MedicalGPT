@@ -1,0 +1,9194 @@
+国解小勤物疾病检
+簡慶源·王焖辰编舞
+沈永韶校闲
+华香园出服社
+31
+臨床病理學指南
+Clinicopathologic Guide
+albumin, serum
+血清白蛋白
+增加
+increased
+ehrlichiosis
+艾利希病
+95
+ethylene glycol poisoning
+乙烯乙二醇中毒
+99
+decreased
+减少
+Fanconi syndrome
+泛可尼氏症候群
+101
+hepatitis
+肝炎
+81,117,119
+systemic lupus erythematosus
+全身性紅斑性狼
+149
+intestinal lymphangiectasis
+腸淋巴管廣张
+151
+pancreatic exocrine deficiency
+胰外分泌不足
+183
+albumin, urine
+尿蛋白
+increased
+增加
+renal amyloidosis
+肾殿粉樣發性病
+51
+Fanconi syndrome
+101
+泛可尼氏症候群
+glomerulonephritis
+臀小體性炎
+109
+nephrotoxicity
+肾毒症
+167
+pyelonephritis
+臀盂臂炎
+205
+alkaline phosphatase, serum
+血清性磷酸鹽酶
+increased
+增加
+aflatoxicosis
+黄毒素中毒
+49
+bile duct obstruction
+胆管阻塞
+69
+cholangiohepatitis
+胆管性肝炎
+81
+hepatoencephalopathy
+121
+肝因性腦病
+chronic active hepatitis
+慢性活動性肝炎
+117
+aylase, serum
+血清殿粉酶
+目
+次
+Table of Contents
+贵验结果的臨床意義
+血清化学
+血清酶
+10
+11
+血清蛋白質
+12
+血清内分泌
+血像的意義
+12
+15
+尿液分析的意義
+验室
+23
+特殊試
+26
+如何使用本書
+30
+临床病理学指南
+31
+疾病輪廓英名中对照表
+43
+48
+疾病輪廓
+附錄一、正常值
+225
+附錄二、普通疾病之主要症状，探樣物及其检查目的
+239
+247
+附錄三、疾病的實診结果
+附錄四、疾病的症状别
+253
+259
+病名索引
+实結果的臨床意義
+SIGNIFICANCE OF TEST RESULTS
+對於开業獸醫師可利用的诊方法而言，臨床化學試驗對局部病理状
+诊方法不能立即出病名的狀熊下，臨床化學試驗可以使臨床医師下
+定正確的診。如使用適當的實室試驗可以使臨床醫師出疾病的部位
+及正確地處理該疾病。但若使用了不當的試驗，原本有用的實驗室試
+的效果會變的極有限而發不出效用。漫無計劃盲目地試驗不但妨了臨
+要有效率且有價值的應用臨床化學試驗通常均以群組的方式進行，一
+群或一粗的試驗結果能提供臨床医師在病畜的估上有更寬廣的資料基
+些未料想到的饼存病症的疏忽。
+會於一種特定疾病形成一種輪廓型式。當透過群組的試驗結果之每一試
+結果之常的高低值及正常值均會有其臨床意義。
+表一歸納了不正常實結果值的臨床意義。
+血清化學
+Serum Chemistry
+血中尿素氮（Blood UredNitrogen，BUN）：
+率或增加蛋白質代的狀熊，均會增加血中尿素氮值。前性氮血症（
+azotemia）乃表示血中物（包括BUN）上升，而這些物通常可由肾排
+疾病、低臀上腺皮質功能症和休克。於恢復的灌流後可以重新建立
+的正常功能。當有臀後的疾病如尿道阻塞和輸尿管、膀胱及尿道的破裂時
+，可因无尿及乏尿而造成血中尿素氮的上升。正臀方面的疾病，如由
+小體，臀小管和間質的功能障者，当70%的臀單位失去功能後才會有
+血中尿素氮值的上昇。
+氮值的上昇但其尿液比重會超過1.025，而有正常的尿細胞成分。
+肌酸酐（Creatinine）：
+肌酸酐是一種肌肉代後的非蛋白質氮的物。血清肌酸不像尿素
+然有些臨床医師為血清肌酸于值比血中尿素氮值在臀疾病方面的诊或
+定上會有同等的用处。就如血中尿素氮一樣，血清肌酸酐值也會於任有可
+降低臀小體過速率狀况時上昇，只是其上升程度较血中尿素氮慢一些市
+已。
+葡萄糖（Glucose）：
+血中葡萄糖濃度受飲食、肝生物和末梢排除速率所影。高血糖主
+的原因有糖尿病、抽、暴露於冷的狀熊下和飲食等。低血糖症可由
+瘤、饥、低臀上腺皮質功能症，低垂腺功能症以及重的衰弱等所致
+。也可因血液試料的操作不當，造成人為的偏低。
+胆固醇（Cholesterol）：
+蛋白質失性臀小體性臀病所致，肝細胞的疾病如糖尿病，會因降目国
+醇的製造而降低了血清胆固醇值。血清胆固醇值也受飲食和動的影誓
+胆紅素（Bilirubin）：
+非結合型兩種型熊存在，血清中的結合型胆紅素量可用范登堡的直接反
+（Van denBergh）测定，非洁合型胆紅素郎用范登堡間接反鹰测定，直
+接（結合）型胆紅素值少於血清胆紅素量時被是溶血性疾病所致。
+胆管阻塞性疾病時直接型胆紅素值會上升得更高。
+钙（Calcium，Ca）:
+血钙值受饮食，内因性内泌素值和血清蛋白質量的影響·乎所有
+在血中的钙都以和蛋白質键結或以離子化來键結的型熊存在，因為大牛
+的血中钙都是以蛋白質键結的型熊存在，所以血清钙值可以反映出全部
+血浆總蛋白質濃度的化。副甲狀腺素可促進腸管之飲食中钙的吸收和臀
+男值的减少會於死性胰炎，低蛋白血症和產後穆等時降低。
+磷（Phosphorus,P）:
+红血球中，故血液樣本的溶血會造成人為的磷值上升。副甲狀腺素會降低
+爱性高副甲状腺功能症、臀功能衰竭及臀性發性高副甲狀腺功能症等時
+上升。於高副甲狀腺功能症和假性高副甲狀腺功能症合使血清磷值降低，
+值與肌酸酐值均上升即顯示有長時間而重的臀疾病。
+断
+纳（Sodium,Na）:
+此一陽離子存在於細胞外液及骨中，血清濃度受留素（aldoster-
+one）的控制，留素會促進臀的納的排泄。臀小管對的重吸收需要氢
+和離子的補價性分泌。低血清值（低血症）可能導因於食太少
+、下痢、吐、臀疾病、糖尿病及低臀上腺皮質功能症。高血症不常
+發生，但在有脱水症时可能出现。
+钾（Potassium，K）：
+此一陽離子存在於細胞內液中，它受留素的影響而由排出。每一
+子與氢離子在臀小管的分泌中抗作為離子重吸收的交換。由於在
+該於。血清值的上升（高血症）導因於暨功能衰竭，尿道阻塞，
+水症和低臀上腺皮質功能症等，也可能因為心跳停止所致。低血清钾值
+等，也可能引起衰弱。
+血清酶梅
+Serum Enzymes
+胺酸丙酮酸轉胺酶（Glutamicpyruvic Transaminase；SGPT）
+液中，所以SGPT上升可能由於肝壤死、肝睡瘤、肝脂肪性病鬟、血和
+肝炎所致。這種SGPT值會在肝受損後持一星期以上的上升現象。
+精胺酸酶（Arginase）：
+精胺酸酶也是存在於肝細胞内的酵素，血清精胺酸酶就像SGPT值一
+樣會因肝疾病而上升，但在受损後3～4天就恢復到正常值。若血清中
+的SGPT值和精胺酸酶值同時有上升現象，可能表示該肝死一直在行
+中。如果單是SGPT的上升表示肝坏死可能没有在進行中，若二者均下
+降到正常值，肝病變可能已在消退中。
+粉酶（Amylase）：
+死成胰管阻塞會使粉酶漏入腹，而血清中粉酶值即會在24～48
+小時内上到正常值的2～3倍，血清粉酶值的上升也可能由於上段腰管
+的炎症，因而增加了吸收，或於臀病而减少排泄所致。
+脂酶（Lipase）：
+血清脂酶是胰外分泌系所分泌，它能水解長的脂肪酸成育短美的
+脂肪酸及胆固醇。胰壤死時會於24~48小時内使血清脂医值上升到
+正常值的2～7倍。胰的受损使血清脂酶上升情形比激粉酶的上升荐
+较久。同樣的，血清脂酶的上升也可由於上段腸管的發炎而增加吸收及白
+於臀疾病而降低了排泄所致。
+魅胺草酸醋酸轉胺酶（Glutamic Oxaloacetic Transaminase ；SGoT
+也叫做天門冬酸胺基轉化酶，SGOT存在於身體的許多組慧内，而以
+肝、心肌和骨骼肌内较多。SGOT值的上升可由於心肌梗塞，骨骼肌死
+和肝細胞死等所引起因SGOT不能特的指出肌肉或肝細胞的死，
+所以要進一步了解是何種部所有的損傷，即须再實施其他较具特昊性的
+沉荫
+验。
+性磷酸酶（Alkalinephosphatase）：
+此酶大量存在於肝和骨中，於骨的修補時會使血清（性磷酸酶）
+酸酶有上升但血清胆紅素值正常的話，可能是由於肝充血或大所致。
+性磷酸酶上升。
+血清肌酸磷激酶（Creatinphosphokinase，CPK）：
+然此酶也存在於肝，但在中福神經系統、心肌和骨骼肌中有较高的
+度。心肌梗塞及骨骼肌死是较常見的使CPK值上升的原因，但偶而中
+福神經系的损傷也可由CPK的上升來診。
+血清蛋白質
+Serum Proteins
+白蛋白（Albumin）：
+白蛋白是影渗透壓的血清蛋白質，可結合許多藥物和轉運脂肪酸。
+由於、寄生病、慢性吸收不良症，慢性肝疾病和急性臀小體性臀炎
+巴比安酸之麻醉時間延長。
+球蛋白（Globulins）：
+球蛋白可分為α、β及三種，α—球蛋白可運脂肪，β—球蛋白
+蛋白值很少發生改變，但免疫球蛋白會受種種不同的狀况而有所改變。血
+而上升，而在免疫力不足時會减少。
+維蛋白元（Fibrinogen）：
+蛋白元是在肝合成而與凝血和炎症有關、血清蛋白元會因炎
+情况下减少。
+12
+維蛋白元（Fibrinogen）：
+維蛋白元是在肝合成而與凝血和炎症有，血清蛋白元會因炎
+症和化而增加，而在肝疾病、瘤、大外科手和散怖性血管内豪目等
+情况下减少。
+總蛋白量（TotalProteiu）：
+蛋白量的改變没有特巽性，蛋白量低可見於腎疾病、肝疾病、
+量會上升。
+血清内泌素
+Serum Hormones
+甲状腺素（ThyroidHormones）：
+血清中的三碘甲狀腺素（T：）和四碘甲狀腺素（T4值）可以示
+甲狀腺的功能狀熊。T4在血清中的量往往较低，所以測定以前常须先注
+射甲狀腺刺激素（thyroid-stimulatinghormone，TSH）·若注射了甲默
+腺刺激素而T4没有上升3倍量以上，可是低甲狀腺功能症。T：戴
+少有上升的現象，若有上升是在高甲狀腺功能症的表微。
+臀上腺皮質素（Cortisol）：
+住醫等迫而有上升，所以注射ACTH的反應狀熊可以用來估肾上腺的
+功能和區别到底是腦垂腺的疾病或是臀上腺的疾病。
+血像的意義
+Significance of the Hemogram
+一個完整的血像包括白血球、白血球分類、紅血球、有核缸血、血
+小板及織網球的计算。紅血球指數（平均紅血球容，平均缸血球血工素
+通常可反映出動物的健康狀况，因此由血像獲得的资料在、治豪和预
+後的判定上是一重要的指南（表1、2）。
+白血球總敷（Total WBCCount）：
+13
+白血球總數包括啫中性球、淋巴球、啫酸性球、單核球和啫性球的
+數。雕然因為只有某一類的白血球增加可使白血球數上升（白血球增
+多症），但通常啫中性球的增加（嗜中性球增多症）被為是白血球增多
+的主要原因。白血球總數的降低（白血球减少症）也可能因為一種或各
+部白血球的降低所致。
+白血球分類計數（DifferentialWBCCount）：
+乘以各種白血球之百分比得之。
+中性球（Neutrophils）：
+中性球的作用是在炎症反應中扮演吞噬外來物和消細菌的角色
+·造成中性球增加的原因有運動（生理性的白血球增多症），全身性、
+特藥物。左轉現象是指循環血液中增加了未成熟的啫中性球（帶狀球）的
+是指带狀球數分葉核啫中性球數的10%以上，但其白血球總數却正
+常或以下。
+淋巴球（Lymphocytes）：
+（淋巴球增多症）见於慢性炎症、急性感染症的恢復期，淋巴球性白血病
+和低上腺皮質功能症等降低（淋巴球减少症）的原因有迫和注射了
+上腺皮質素或免疫抑制藥。
+單核球（Monocytes）：
+單核球的主要作用是吞噬外來物和細胞碎片、循環血液中的單核球
+增加（單核球增多症）见於慢性徽菌感染、單核球性白血病，繁迫以及
+注射了上腺皮質素或高上腺皮質功能症、循環血液中單核球的數目减
+嗜酸性球（Eosinophils）：
+嗜酸性球可分解抗原一抗體反應中造成之粗織胺，啫酸性球敷增加（
+（嗜酸性球减少症）見於高臀上腺功能症，迫或注射了肾上腺皮素。
+嗜性球（Basophils）：
+嗜性球含有粗織胺的粒和肝素，在粗織受損後引起炎症反·在
+病和高臀上腺皮質功能症時可能出現。
+紅血球（RBC）：
+低血液氧分壓之反應所分泌的紅血球形成素控制下，在脊髓形成，缺少
+血球或血紅素（血）的原因有失血寄生病、臀功能衰竭、化學物置，
+慢性炎症性疾病、造血器官的急性瘤及缺乏鐵、鋼和維生素B2·缸二
+球數的增加（多血症）较少见，但在眞性紅血球增多症，脱水的情况下
+可以見到。
+網織球（Reticulocytes）：
+網織球是未成熟的紅血球。当用新甲基藍染色時可以見到由細胞核物
+質織成的細網狀結構。網織球较成熟的紅血球大。在狗與猫正常的循
+血液中可见到少量。循環血液中之網織球增加（網織球增多症）见於慢性
+慢性血時表示骨髓功能已被抑制。
+有核紅血球（Nacleated RBC）
+有核紅血球比網織球和成熟的紅血球來得大也较不成熟。在正常有美
+量的有核紅血球出現示著不正常的紅血球生成。
+紅血球指數（EythrocyteIndices）：
+平均紅血球容积（MCV ），平均紅血球血紅素量（MCH)平均缸血录
+指數可將血分小球性·正球性及大球性以及低色性或是正色性等型。
+MCV上升示有活動性紅血球製造及循環血液中出现大量未成熟缸血球。
+15
+血小板（栓球）（Thrombocytes，platelets）：
+血小板由骨髓的互核細胞所分化而來，其功能與血液凝固有關，循環
+中的血小板减少（血小板减少症）见於散怖性血管内凝血，骨髓的抑制，
+自體免役性病血性血，全身性紅斑性狼和重性出血等。
+尿液分析的意義
+Significance of the Urinalysis
+尿液由種種代谢過程產生，而經由尿液分析出來的特性可反映出多種
+肾前、臀及臀後的疾病。
+氢離子濃度，pH 值（HydragenIon Concentration）：
+正常狗及猫的尿液是酸性。因們的飲食來源大部分是動物性也。
+尿路阻塞和代谢性中毒等。
+比重（Specific Gravity）：
+子宫蓄等。尿比重增加见於酸燒、幅吐、脱水、下痫、糖尿病和重出
+血等。
+白蛋白（Albumin）：
+通常在尿液中不含白蛋白，但在濃縮尿，激烈的運動後，取多量蛋
+白或發情動物的尿中可能出現。病理性的由蛋白尿可在稀的尿液中被
+測出，其發生的原因有病變、炎、孟臀炎及生殖道或下尿道的感染
+炎症或瘤。
+葡萄糖（Glucose）：
+葡萄糖一般也不會在尿中出現，但在興套、上腺皮質素的服用或攝
+取太多的碳水化合物等时，會有少量出現·病理性的葡萄糖尿见於糖尿病
+·急性炎、胃小管功能缺陷，高甲狀腺功能症，高臀上腺皮質功能症，
+急性胰炎和一些腦有损傷的疾病。
+體（KetoneBodies）：
+酮體不是正常尿液的成分，它們的出現在尿液中表示碳水化合物代
+16
+現。
+胆紅素（Bilirubin）：
+然少量的胆紅素會在一些正常動物的尿液中出現，但是胆红素尿通
+常指出有黄胆现象，而其原因有胆管阻基、肝死、肝炎、肝睡瘤和钧端
+螺旋體病等。
+尿胆素元（Urobilinogen）：
+尿胆素元是腸内細菌對胆紅素作用後所形成。它被攝入門服系蔬中，
+血（OccultBlood）：
+尿中的潜血是肉眼不易見到的，但可由血紅素的測定證實。然於正
+常的尿液池渣，高倍鏡可能看到少量紅血球，但以尿中潜血查試的
+結果不會有潜血存在。由於阳性反應，不能分别出是血尿、肌球蛋自尿
+現包括許多種尿路與泌尿生殖系統的疾病、溶血、强力的运動，不道當的
+輸血及發情期均可能引起陽性反性。
+紅血球（Erythrocytes，RBC）：
+只有在高倍視野中才可在正常的動物尿液中見到少數紅血球，而尿中
+出现血球（血尿症）可因泌尿生殖道出血所引起。只在开始排出的尿中才
+有血球表示是尿道與生殖道的傷害。而只在末了的排出的尿中才有血球表
+傷害。
+白血球（Leukocytes，WBC）:
+正常的動物尿液有少數白血球存在。若有大量的白血球存在尿中
+（尿）表示在泌尿生殖道的炎症。此時须小心地以導尿管或着胱穿刺法
+探取尿液以區别此尿是由生殖道或尿道所引起。
+上皮細胞（Epithelial Cells）：
+在正常尿液可见到扁平上皮、變形上皮及小管上皮細胞。然正
+17
+的尿中有少量的上皮細胞存在，但如果有大量出現時，不其為正常或非
+美型的知胞，均表示臀小管或遠端尿道有刺激或瘤。
+尿柱（Casts）：
+尿圆柱是圆柱狀的蛋白質堆。它可沈於遠端臀小管及集尿管中再
+炎，激粉樣燮性病及臀。
+秸晶物（Crystals）：
+尿中出現結晶物在臨床上无重大意義，但於有結石時有意義。結晶
+三磷酸、非晶形硫酸、磷酸二钙等結晶。酸性尿中则可能有非晶形尿
+酸、尿酸、胱氨酸結晶等。
+細菌（Bacteria）：
+以膀胱穿刺或小心的導尿所收集的尿液通常是无菌的。若有細菌出现
+，可能有膀胱炎、孟臀炎或他種尿路的感染。
+18
+表一試驗結果的意義
+A。血液化學
+武#
+化
+讀
+诊
+計
+验
+判
+断
+劃
+白蛋白
+高蛋白血症
+查脱水状熊
+白蛋白
+低白蛋白血症
+排除管養不良外，肝疾病與自冀
+尿中流失
+愉性磷酸酶
+道病，骨的再生
+检查黄疽及肝壤死；排除阻塞性或
+成
+充血性的肝病；及炎之病因，如
+阻塞；尿毒症或感染症
+急性胰炎，消化道
+排除腸炎之病因，如阻塞，尿毒症
+渺粉酶
+↑
+發炎
+或感染症
+精胺酸酶
+肝瞒壤死
+排除創傷，感染症，寄生病，充
+血，睡瘤
+直接型胆紅素
+黄痘，肝病
+查血清麸胺丙酮酸轉胺酶，精胺
+酸酶，性磷酸酶，尿胆素元；排
+除胆管阻塞
+總胆紅素
+黄谊，肝病或溶血
+检查直接型胆紅素量：血清麸胺丙
+酮酸轉胺酶，精胺酸酶；排除肝病
+，溶血
+血中尿毒氮
+尿毒症或氮質血症
+排除臀前性病因，如脱水；臀本身
+的疾病（作尿检）；臀後性病因，
+如尿道阻塞
+高血钙症
+查血清蛋白質量有無增加；排除
+215
+↑
+過多的钙或維生素D的摄取，副甲
+状腺、骨、細胞或淋巴結的睡瘤
+钙
+低血钙症
+查血清蛋白質量有无减少，排除
+發性高副甲状腺功能症
+代谢性疾病
+排除低甲状腺功能症，攝取過多的
+胆固醇
+胆固醇，件有胰島素或皮質脂酮過
+多的代谢性疾病
+胆固醇
+管養不長
+排除管養不長，吸收不長
+胆酯酶
+副交感神經興
+排除曝露到有机磷劑之可能性
+肌酸磷酸 激酶
+骨骼肌或心肌死
+比较血清麸胺草醋酸轉胺酶；排除
+↑
+19
+心肌，骨骼肌或中福神經系統疾病
+引起者
+肌酸酐
+尿毒症
+排除肾前性病因，如脱水；肾本身
+的活動性疾病（作尿）；肾後性
+病因·如尿道阻塞
+高球蛋白血症
+球蛋白
+排除肝病；免疫系统的亢進
+↑
+低球蛋白血症
+球蛋白
+↑
+排除免疫不全病；由冀的流失
+葡萄糖
+高血糖症
+↑
+查酮尿及糖尿；排除聚迫，典
+，糖尿病
+葡萄糖
+低血糖症
+比较臨床病微，如衰弱；排除重
+的全身性疾病如瘤；胰島素過多
+劑量，實驗室的差
+脂肪酶
+上段消化道發炎
+排除腸道用發炎，如阻塞，尿毒症
+↑
+·感染症
+脂肪酶
+急性胰炎
+查粉酶
+高磷酸血症
+排除肾衰竭，取過多的磷
+低磷酸血症
+↑
+排除管眷不長，吸收不長，胰島素
+過多劑量
+高钾血症
+↑
+排除水，酸中毒，肾病，低肾上
+腺皮質功能症
+低钾血症
+排除因幅吐、下痢、利尿的损耗
+↓
+德蛋白質
+高蛋白血症
+↑
+排除水；比较球蛋白量；再测一
+次血容比（查贫血）
+蛋白質
+低蛋白血症
+查蛋白由尿中與粪中的损耗；
+↑
+排除肾病，管養不良，寄生病
+血清麸胺草醋酸轉
+肝壤死或肌肉壤死
+查血清麸胺丙酮酸轉胺酶及精胺
+酸酶以確定肝病；检查有無跋行或
+鞍酶
+心蕨疾病
+血清麸胺丙酮酸轉
+肝壤死
+排除創傷；感染症，寄生病，充
+血，睡瘤
+麦酶
+高血症
+排除脱水，心疾病，過多的钠攝
+取
+低钠血症
+排除因下痢或利尿的損耗
+20
+B.血像
+劃
+化
+判
+讀
+诊
+断
+赞
+試
+驗
+白血球增多症
+查白血球的分類
+白血球
+白血球减少症
+查白血球的分類
+白血球
+若分业核嗜中性血球總數有增加而
+带状核嗜中性血球
+↑
+带状核者估百分之十以内爲再生性
+的反應；若分葉嗜中性血球數减
+少但帶狀核者估百分之十以上则
+退行性的反
+嗜中性球增多症
+排除聚迫，炎症，細菌感染症，組
+分业核嗜中性血球
+↑
+織死，皮質酮過多
+嗜中性球减少症
+排除毒血症，病毒感染症
+分叶核嗜中性血球
+淋巴球增多症
+排除免疫系統的刺激，淋巴肉瘤，
+淋巴球
+低臀上腺皮質功能症
+淋巴球减少症
+排除免疫功能不全，迫
+淋巴球
+單球增多症
+排除重或慢性感染症，白血病
+單核球
+↑
+嗜酸性球增多症
+排除過敏症，寄生病，低臀上腺
+嗜酸性球
+↑
+皮質功能症，組織死
+嗜酸性球减少症
+排除聚迫，皮質酮過多
+嗜酸性球
+↑
+嗜性球增多症
+排除心病；骨髓的睡瘤，慢性
+嗜性球
+↑
+呼吸道疾病
+紅血球增多症
+排除脱水，血濃縮，红血球過多
+紅血球
+紅血球
+血
+检查總胆紅素量與直接型胆紅素量
+，網織球，有核紅血球；排除骨髓
+受抑制，寄生病，管養不良，溶
+血
+網織球增多症
+血的正常反
+網織球
+↑
+見於有血時表示骨髓功能受抑制
+網織球
+↑
+極度的骨髓反應
+排除最重的血液失；骨髓的睡瘤
+有核紅血球
+↑
+血小板
+血小板减少症
+排除脾功能亢進；多發性骨髓瘤
+，骨髓功能受抑制
+21
+C.尿分析
+試
+驗
+變
+化
+判
+讀
+诊
+断
+計
+劃
+酸度
+检查食物是否以植物性主；排除
+尿路的感染，臀小管的缺陷
+重
+↑
+检查水化狀熊
+重
+↑
+若在1.010以下则限制水後再測
+数次；排除尿崩症，臀疾病
+白蛋白
+蛋白尿
+查臀疾病
+↑
+葡萄糖
++
+糖
+尿
+排除肾疾病，糖尿病，撬取過多
+的糖分
+體
++
+酮
+尿
+排除糖尿病性酮酸中毒
+尿胆素元
+無
+表示黄疽動物有胆管阻塞
+血
++
+血
+尿
+检查出血的地方；排除尿路的感染
+症，創傷，結石，瘤
+杠血球
+↑
+血
+尿
+查出血的地方；排除尿路的感染
+，創傷，結石，睡瘤
+白血球
+尿
+作尿培養；排除尿路感染症，創傷
+↑
+，結石，睡瘤
+上皮細胞
+大量的出現表示有尿路的刺激
+尿柱
+检查活動性肾疾病
+#
+母
++
+無意義
+结晶物
+結晶尿
+少有意義
+菌
+↑
+菌尿症
+排除尿路的感染症的膀胱穿刺術探
+尿作細菌培養
+表
+各種情沉下的血液學模式
+情
+况
+骨髓成份的比例
+循
+環
+血
+液
+中
+的
+血
+球
+數
+目
+带状核
+分
+葉核
+酸
+嗜
+白血球
+紅血球類
+骨髓球類
+淋巴球
+單核球
+紅血球
+嗜中性球
+嗜中性球
+性
+球
+性
+球
+總數
+生理性白血球增多症
+↑
+↑
+T
+迫
+↑
+克
+休
+1 
+↓
+免
+疫采統亢進
+免
+疫
+不
+全
+化
+性
+炎
+症
+↑
+↑
+↑↑
+1
+急
+性
+炎症
+↑
+↑
+慢
+性
+炎
+症
+↑
+↑
+性感染症
+菌
+↑
+T
+性核左轉
+病
+毒
+性感
+染症
+反
+性
+行
+血
+内
+寄
+生
+鼎
+症
+放
+症
+低肾上腺皮置功能宜
+情
+三
+制
+革蘭氏险性苗取血症
+23
+實驗室
+THE LABORATORY
+如何遇一所商業性實驗室
+Choosing a Commercial Laboratory
+如果想要維持一高管业水的业務，在内疾病方面的診就须使
+會想到群粗試驗為補助診，此時就要依賴商業性臨床病理實驗室了。
+應該如何遇選一所商業性實室？又對於大動物及小動物應如何挑遇
+必要的試驗？
+大多數的臨床獸医師會實驗室送检他們的臨床材料，不是所有
+結果出來所的時間等有所不同。
+若以人用的實驗室來做試驗通常會比较便宜，但因為是專用於測人類
+的病材，所以用來動物的病材時，其結果通常较不確。測人類樣材
+就不正確，某些獸医師想做的試，在人用實室裡很少做到或者根本不
+做，同時因默醫方面的試驗所店比例太少，在人用的實室就不將試驗
+的過程修改某些步，以使結果趣於確。故動物的病材送到人用實驗室
+管其收費低，但其結果可能不正確或不完整。
+就收费與品質的關連言，大多數獸醫實驗室可在一個合理的收费下
+以深入的臨床病理試步提供正確的检驗結果。
+許多臨床獸醫師感到奇怪，為什在人医實驗室所做的動物血液生化
+反也不同。因此，在人醫實驗室裡所做的血液化學群粗检驗，不應該用
+检查動物（例如SMA-12就是一個例子），需另組检驗项目。
+作為人血清化學之群粗检驗，SMA-12已被標化：而以此做動物的
+24
+某些血清化學检驗會有不正確的結果。在人用驗室裡很少看到分析
+物血清而作病材的特殊處理及試驗過程的修正。譬如，球蛋白，自蛋白，
+粉酶、乳酸脱氢酶及血糖等的检結果，如於人医驗室測定時，通言
+等，即很少在人医驗项目中。甚至有些以放射性免疫測定法做的，
+如測T時，若以人的血清做成的基，即其結果會錯且毫無用處·
+在小動物臨床上，CBC及BUN、SGPT、血糖、脂肪酶及穗蛋白置
+况，如臀衰竭、肝疾病、胰腻炎、糖尿病、脱水、管養不良、猫傅染住
+腹膜炎以及其他許多疾病等等。一個完整的小動物實室群粗检驗项目
+該包括下述敷项：
+1脂肪酶、粉酶一—胰炎。
+2.血中尿素氮、肌酸酐—一臀衰竭。
+3.葡萄糖——糖尿病、胰島素過多症。
+4.钙及磷值一——磺物質代谢的改變。
+5.磷酶一一肝及骨骼肌疾病。
+6.總量及直接型胆紅素一一—肝病、血。
+7.總蛋白質量———脱水。
+8.球蛋白、白蛋白一—兔疫病、水、蛋白質流失等。
+9.CBC——感染症、血。
+其他尚有一些有用但非必要的試驗如SGOT、CPK、NaP值等·某
+些特殊試如FeLV、FIP、T等则可能须要送到更完善的检室才可
+做了。
+如何選医院内驗室系統
+Choosing an In-Hospital Laboratory System
+經常利用商業性的检所，因此設立一個良好的醫院内检室系蔬可得到
+更大的好处。有急诊的医院常在商業性室没有开門（管業）時仍要
+25
+美的·大動物的臨床醫師通常無法將試材立即送到附近的臨床病理學實驗
+检。同時，有許多獸醫師，特别是才开業的或正在成長中的，都希
+以蒙低的花费設立簡易的驗系統來提高其利潤。
+一個良好的医院内驗室系統可給臨床默医師很多好处，例如其花费
+，立刻有結果且可進行特别的等。因為不必等待外面驗室的結
+系統，此種费用可抵銷所得税呢！
+當一位默醫師华備買進自已醫院内的驗室系統設備時，可能馬上就
+的設備都知道的很清楚，因此他們可能買進一些不適合他們需要的設備。
+，現有職員可使用在能快速的驗出確又經濟的結果。
+信不其試驗是由職的家畜醫院技員或專任的驗員未操作，都應該
+以能產生最確的結果其要點。若是用貴昂的設備及雜護费，此驗
+最起碼的設備應包括可做血清化學群粗者如：光譜光度计（
+長的光譜光度計。又加熱板應該隔開，以免使用不當時影響其他設備，
+二使整個驗都必须停止使用。
+26
+特殊試驗
+SPECIAL TESTS
+下述步是要做特殊試驗時的取材步。這些試驗將取得的材料
+與凝送之臨床病理學實驗室取得连繁得到特别的指示以便在試材的拿
+備或存上不致出錯。
+ACTH反應：肾上腺皮質素功能試驗的一種。
+1°用microdot試探集血液樣品。
+2肌肉注射ACTH，每公斤體重2.2IU。
+3°ACTH注射後2小時用microdot探集血液。
+4将上述microdot到實驗室委測定皮質素量。
+判讀：
+正常犬在ACTH注射後，其血皮質素量應有2～4倍的上昇·若其
+臀上腺皮質的增生時有5～10倍的上昇，若有臀上腺睡瘤時其血素
+皮質素量不見增加。
+ADH反應：腦下垂體功能試的一種。
+1°試驗期間禁食禁水。
+2先測其尿比重。
+3°肌肉注射3一5單位的單寧酸血管加压素（Vasopressintamnate）
+油液。
+5°ADH注射後9、12、24小时各探一次尿测其比重。
+镀：
+犬若有脑下垂體功能不全時，其尿比重在ADH注射後會在1.020以上
+，若有臀功能不全時其尿比重於ADH注射後仍低於1.020。
+27
+BSP留試驗：肝功能試驗的一種。
+r将犬體重以磅單位除以22，则可定出其所用BSP的量（m）
+也可以每公斤體重注射5mgBSP
+2援慢的將計得之BSP劑量做静胀注射。
+抗劑的試管裡。
+4将上述血液送到實驗室測定BSP含量與残留曲線比较。
+睛：
+30分鐘後BSP残留量應少於5%，但某些正常犬也可能達到10%
+活動性肝炎、肝腦病等。
+Dexamethasone 抑制試驗：上腺皮質功能試驗的一種。
+1°用microdt試探集血液。
+2每公斤體重静服注射Dexamethasone0.1mg。
+4°將上述血液樣品到實驗室測定皮質素量。
+中
+請：
+注射後3小時在正常犬的血中應為很低到無皮質素的程度·抑制
+/或8小時後之量低於試前的一半。犬若有上腺皮質部瘤其血
+之皮質素值不見减少。
+脂肪吸收試驗：吸收與胰外分泌功能試驗。
+1°動物禁食12小時。
+2先行探血置於肝素抗凝劑試管中。將其離心：看其血部分為透明
+或混渴。
+3食少許食物，其内渗入玉米油（ornoil），其加入量每公斤體
+重3m。
+28
+4°用同2步探血（食後2小時），離心之與食前所心之
+品比较其血部分之混度。
+判讀：
+食後正常動物之血應混，若透明表示此動物之吸收不良
+或胰外分泌不足。若要别此二種原因则可於脂肪的食物中加胰醇素（
+足所致。
+G lucagon耐性試驗：胰内分泌功能試驗的一種。
+1°動物禁食24小時。
+2探血置於氟化抗凝試管中。
+3°每公斤體重肌肉注射0.03mg的glucagon
+4°注射glucagon後5、15、30、
+45、60、120分鐘各探血-
+次，如步2。
+5將上述血液樣品送往實驗室測定其葡萄糖量。
+判
+讀：
+正常犬的血糖值會超過150mg/dl，然後恢復到正常。若犬有属
+蘭氏小島細胞（pancreaticislet-cell）睡瘤時·血糖值不會超语150
+mg/de，且注射Glucagon後60分鐘内就恢復到正常值以下。
+静服注射葡萄糖耐性試驗：蘭氏小島功能試的一種。
+1°動物禁食24小時。
+2探血置於氟化抗凝劑試管中。
+3每公斤體重静服注射1m的50%葡萄糖。
+4°每隔30分鐘探血一次，如步2，連續3小時。
+5°血液樣品送到實驗室測定其葡萄糖量。
+判
+讀：
+高血糖的原因可能有糖尿病，高臀上腺皮質功能症，重的肝疾病等。
+29
+口服有萄糖耐性实驗：腸吸收試驗的一種。
+r動物禁食16小時。
+2探血置於氟化納抗凝試管中。
+以胃管投予。
+4於葡萄糖投予後30、60、90、120、180分鐘各探血一次（
+如步骤2）。
+5將血液樣品逸到實驗室測定其葡萄糖值。
+利
+睛：
+葡萄糖投予後30～60分鐘，血糖值應超過160mg/d，3小時後
+恢復到正常值。若犬有腸吸收不良測其血糖的升高度比正常犬低，且很
+快就恢復到正常值。
+TSH反應：甲狀腺功能試驗的一種。
+1°以凝血用試管收集血液樣品（或取一滴全血置於microdot試）。
+2静服注射10IU的TSH。
+3°TSH注射後4小時探血，如步1。
+4°血液樣品送請實驗室测定其T4值。
+镜：
+正常大於TSH注射後其血清T4值比注射前有2～4倍的上升。若
+大有原發性低甲状腺功能症時，其血清T值於TSH注射後不见上升。
+若犬有發於給予皮質酮、phenylbutazone、phenytoin或phenobabital等
+後低甲狀腺功能症，其血清T4值會與正常犬注射TSH後一樣的上升。
+30
+如何使用本書
+HOW TO USE THIS MANUAL
+這本書所编列的内容非診断疾病时唯一的依據，当我們判請验室
+检的結果时，應該同时考病歷、臨床症状和其他检查的結果·我們
+該取得足量的血液及尿液以進行起碼的血液生化检（包括血液尿氨值、葡
+萄糖、SGPT、磷酶、道接及總胆紅素、總蛋白質、白蛋白、球蛋白
+、脂肪酶、激粉酶等的測定），血球计算及尿检。
+疾病的讨乃依照英文字母的排列。所有的疾病病名索引在第259
+，臨床病理指南在第31，其中列出了每個检結果不正常時的原性
+原因。临床医師在臨床上應該依據病压、臨床症状及其他發現，来配合到
+於臨床病理指南内的不正常检结果。
+對於疾病的诊有重要的决定性的實室检果，我們用深黑色来
+表示，至於那些对诊疾病较不重要的检結果，我們以灰色来表示。
+必须强调的是，列于各疾病检的各種症状非任一特殊疾病的病素
+皆可發現。但應該使用一般的（而非精密的）實室检，以協助。
+32
+increased
+增加
+十二指腸炎
+93
+duodenitis
+pancreatic adenocarcinoma
+胰腺癌
+181
+急性胰炎
+185
+acute pancreatitis
+arginase, serum
+血清精胺酸酶
+increased
+增加
+bile duct obstruction
+69
+胆管阻塞
+cholangiohepatitis
+胆管性肝炎
+81
+hepatitis
+肝炎
+117,119
+hepatoencephalopathy
+肝因性腦病
+121
+band cells, circulating
+带狀核嗜中性球，循環血液中
+increased
+增加
+胆管性肝炎
+81
+cholangiohepatitis
+出血性胃炎
+105
+hemorrhagic gastroenteritis
+急性子宫炎
+155
+acute metritis
+bile peritonitis
+胆汁性腹膜炎
+191
+子宫蓄症
+207
+pyometra
+basophils, circulating
+嗜性球，循環血液中
+increased
+增加
+heartworm disease
+心释蛊病
+113
+bicarbonate, serum
+血中重碳酸
+decreased
+减少
+45，47
+renal tubular acidosis
+肾小管性酸中毒
+99
+ethylene glycol poisoning
+乙烯乙二醇中毒
+Fanconi syndrome
+泛可尼氏症候群
+101
+renal osteodystrophy
+175
+肾因性骨發育不全
+bilirubin, serum direct
+血清直接型胆紅素
+increased
+增加
+aflatoxicosis
+49
+黄魏毒素中毒
+33
+69
+bile duct obstruction
+胆管阻塞
+81
+胆管性肝炎
+cholangiohepatitis
+117
+chronic active hepatitis
+慢性活動性肝炎
+胆汁性腹膜炎
+191
+bile peritonitis
+bilirubin, serum total
+血清總胆紅素
+增加
+increased
+贫血
+53, 55,57,115
+anemia
+胆管阻塞
+69
+bile duct obstruction
+胆管性肝炎
+81
+cholangiohepatitis
+血中尿素氮
+BUN
+增加
+increased
+51
+肾殿粉樣梦性病
+renal amyloidosis
+99
+ethylene glycol poisoning
+乙烯乙二醇中毒
+163
+慢性間質性炎
+chronic interstitial nephritis
+165
+calcium nephropathy
+钙因性肾病
+肾因性骨發育不全
+175
+renal osteodystrophy
+减少
+decreased
+49
+黄魏毒素中毒
+aflatoxicosis
+121
+hepatoencephalopathy
+肝因性脑病
+117
+chronic active hepatitis
+慢性活動性肝炎
+123
+hepatoma
+肝癌
+133
+高氨血症
+hyperammonemia
+血钙
+calcium, serum
+增加
+increased
+73
+diffuse metastatic bone tumor
+性轉移性骨瘤
+153
+淋巴肉瘤
+lymphosarcoma
+159
+multiple myeloma
+多發性骨髓瘤
+165!
+calcium nephropathy
+钙因性肾病
+减少
+decreased
+34
+renal tubular acidosis
+肾小管性酸中毒
+45，47
+泛可尼氏症候群
+101
+Fanconi syndrome
+營飬性高副甲状腺功能症
+135
+nutritional hyperparathyroidism
+肾因性骨發育不全
+175
+renal osteodystrophy
+低血钙症性摩
+213
+hypocalcemic tetany
+casts, urine
+尿圆柱
+present
+有
+aflatoxicosis
+黄魏毒素中毒
+49
+钩端螺旋體病
+147
+leptospirosis
+钙因性臀病
+165
+calcium nephropathy
+肾毒症
+167
+nephrotoxicity
+肾盂臀炎
+205
+pyelonephritis
+cholesterol, serum
+血中胆固醇
+increased
+增加
+低甲狀腺功能症
+139
+hypothyroidism
+减少
+decreased
+pancreatic exocrine deficiency
+胰外分泌不足
+183
+cholinesterase, serum
+胆脂酶，血清
+减少
+decreased
+anticholinesterase poisoning
+抗胆脂酶性殺药中毒
+59
+CPK,serum
+肌酸磷酸鹽激酶，血清
+increased
+增加
+钩端螺旋體病
+147
+leptospirosis
+polymyositis
+多發性肌炎
+201
+蛇中毒
+215
+thallium
+217,219
+toxoplasmosis
+弓病
+creatinine, serum
+血肌酸酐
+increased
+增加
+renal amyloidosis
+肾渺粉樣變性病
+35
+99
+ethylene glycol poisoning
+乙烯乙二醇中毒
+163
+慢性間質性肾炎
+chronic interstitial nephritis
+175
+肾因性骨發育不全
+renal osteodystrophy
+205
+臀孟臀炎
+pyelonephritis
+尿中結晶物
+crystals, urine
+有
+present
+99
+乙烯乙二醇中毒
+ethylene glycol poisoning
+嗜酸性球，循環血液中
+eosinophils, circulating
+increased
+增加
+103
+eosinophilic gastroenteritis
+嗜酸性球性胃腸炎
+113
+心显病
+heartworm disease
+189
+eosinophilic panosteitis
+嗜酸性球性泛骨炎
+201
+polymyositis
+多發性肌炎
+decreased
+减少
+95
+ehrlichiosis
+艾利希病
+127,129,131
+高臀上腺皮質功能症
+hyperadrenocorticism
+141
+胰島癌
+insulinoma
+169
+牧羊犬的调期性嗜中性球减少症
+cyclic neutropenia of Collies
+213
+低血钙症性擎
+hypocalcemic tetany
+epithelial cells, urine
+尿中上皮細胞
+增加
+increased
+45
+遠端肾小管性酸中毒
+distal renal tubular acidosis
+203
+chronic prostatitis
+慢性前列腺炎
+血中維素元
+fibrinogen,serum
+增加
+increased
+177
+細菌性骨髓炎
+bacterial osteomyelitis
+减少
+decreased
+49
+黄魏毒素中毒
+aflatoxicosis
+81,117,119
+肝炎
+hepatitis
+36
+globulin,serum
+血清球蛋白
+增加
+increased
+肾小體性肾炎
+glomerulonephritis
+109
+肝炎
+81,117,119
+hepatitis
+腸粗菌症
+125
+enteric histoplasmosis
+多發性骨髓瘤
+159
+multiple myeloma
+feline infectious peritonitis
+猫传染性腹膜炎
+193
+减少
+decreased
+hyperadrenocorticism
+高肾上腺皮質功能症
+127,129,131
+intestinal lymphangiectasis
+腸淋巴管张症
+151
+glucose,serum
+血糖
+increased
+增加
+diabetes mellitus
+糖尿病
+89
+hyperadrenocorticism
+高肾上腺皮功能症
+127,131
+decreased
+减少
+hepatoma
+肝癌
+123
+insulinoma
+胰島癌
+141
+glucose, urine
+尿中葡萄糖
+present
+有
+diabetes mellitus
+糖尿病
+89
+Fanconi syndrome
+泛可尼氏症候群
+101
+lead poisoning
+铅中毒
+145
+ketones, urine
+尿酮
+present
+有
+diabetes melliltus
+糖尿病
+89
+lipase, serum
+血清脂肪酶
+increased
+增加
+duodenitis
+十二指腸炎
+93
+pancreatic adenocarcinoma
+胰腺癌
+181
+37
+acute pancreatitis
+急性胰炎
+185
+lymphocytes,circulating
+淋巴球，循環血液中
+increased
+增加
+total hypoadrenocorticism
+總低肾上腺皮質功能症
+137
+chronic prostatitis
+慢性前列腺炎
+203
+子宫蓄症
+pyometra
+207
+decreased
+减少
+ehrlichiosis
+艾利希病
+95
+hyperadrenocorticism
+高臀上腺皮質功能症
+127,129,131
+insulinoma
+胰島癌
+141
+feline panleukopenia
+猫泛白血球减少症
+187.
+parvoviral gastroenteritis
+犬小病毒性胃腸炎
+107
+mean corpuscular volume
+紅血球平均容
+increased
+增加
+贫血
+anemia
+53，55,57,115
+babesiosis
+焦显病
+67
+hemobartonellosis
+115
+血巴東原病
+monocytes, circulating
+單核球，循環血液中
+increased
+增加
+chronic prostatitis
+慢性前列腺炎
+203
+子宫蓄症
+207
+pyometra
+decreased
+减少
+艾利希病
+95
+ehrlichiosis
+nucleated RBC, circulating
+有核紅血球，循環血液中
+increased
+增加
+anemia
+贫血
+53,55,57,115
+hemobartonellosis
+血巴东原病
+115
+lead poisoning
+铅中毒
+145
+erythremic myelosis
+紅血球性骨髓增殖症
+161
+38
+occult blood,urine
+尿潜血
+present
+有
+45
+distal renal tubular acidosis
+遠端肾小管性酸中毒
+55
+海因滋小體性贫血
+Heinz-body anemia
+钙因性病
+165
+calcium nephropathy
+血鳞
+phosphorus, serum
+增加
+increased
+營養性高副甲状腺功能症
+135
+nutritional hyperparathyroidism
+163
+chronic interstitial nephritis
+慢性間質性肾炎
+165
+calcium nephropathy
+钙因性肾病
+167
+nephrotoxicity
+臀毒症
+175
+renal osteodystrophy
+肾因性骨發育不全
+decreased
+减少
+45，47
+肾小管性酸中毒
+renal tubular acidosis
+101
+Fanconi syndrome
+泛可尼氏症候群
+pH,urine
+尿酸度
+增加
+increased
+遠端肾小管性酸中毒
+45
+distal renal tubular acidosis
+·83
+膀胱炎
+cystitis
+血小板
+platelets,circulating
+decreased
+减少
+67
+babesiosis
+焦病
+95
+艾利希病
+ehrlichiosis
+全身性紅斑性狼
+149
+systemic lupus erythematosus
+159
+multiple myeloma
+多發性骨髓瘤
+potassium, serum
+血钾
+增加
+increased
+137
+total hypoadrenocorticism
+低肾上腺皮質功能症
+减少
+decreased
+39
+distal renal tubular acidosis
+遠端臀小管性酸中毒
+45
+泛可尼氏症候群
+101
+Fanconi syndrome
+RBC,circulating
+紅血球，循環血液中
+增加
+increased
+肾因性尿崩症
+85
+nephrogenic diabetes insipidus
+糖尿病
+89
+diabetes mellitus
+hemorrhagic gastroenteritis
+出血性胃炎
+105
+肾毒症
+167
+nephrotoxicity
+真性紅血球增多症
+polycythemia vera
+197
+减少
+decreased
+贫血
+53,55,57,115
+anemia
+網状内皮增殖病
+209
+reticuloendotheliosis
+阿斯匹靈中毒
+211
+aspirin toxicity
+尿中紅血球
+RBC,urine
+增加
+increased
+distal renal tubular acidosis
+遠端小管性酸中毒
+45
+膀胱炎
+83
+cystitis
+calcium nephropathy
+钙因性臀病
+165
+慢性前列腺炎
+203
+chronic prostatitis
+肾孟臂炎
+205
+pyelonephritis
+reticulocytes, circulating
+網織球，循環血液中
+增加
+increased
+53, 55, 57,115
+anemia
+血巴东原病
+115
+hemobartonellosis
+眞性紅血球增多症
+197
+polycythemia vera
+decreased
+减少
+161
+紅血球性骨髓增殖症
+erythremic myelosis
+segmented neutrophils, circulating
+分葉核嗜中性球，循環血液中
+增加
+increased
+40
+155
+急性子宫炎
+acute metritis
+177
+細菌性骨髓炎
+bacterial osteomyelitis
+103
+慢性前列腺炎
+chronic prostatitis
+205
+肾孟臀炎
+pyelonephritis
+207
+子宫蓄濃症
+pyometra
+减少
+decreased
+95
+艾利希病
+ehrlichiosis
+169
+牧羊犬的调期性嗜中性球减少症
+cyclic neutropenia of Collies
+187
+猫泛白血球减少症
+feline panleukopenia
+107
+犬小病毒性胃腸炎
+parvoviral gastroenteritis
+217,219
+弓蛊病
+toxoplasmosis
+血清麸胺草酸醋酸轉胺酶
+SGCT
+增加
+increased
+97
+細菌性心内膜炎
+bacterial endocarditis
+147
+钓端螺旋體病
+leptospirosis
+201
+多發性肌炎
+polymyositis
+217,219
+弓蛊症
+toxoplasmosis
+221
+創傷
+trauma
+SGPT
+血清麸胺丙酮酸轉胺酶
+increased
+增加
+69
+胆管阻塞
+bile duct .obstruction
+81
+cholangiohepatitis
+胆管性肝炎
+121
+hepatoencephalopathy
+肝因性脑病
+81,117,119.
+hepatitis
+肝炎
+211
+salicylate toxicity
+水杨酸中毒
+血纳
+sodium, serum
+减少
+decreased
+137
+低肾上腺皮質功能症
+total hypoadrenocorticism
+199
+psychogenic polydipsia
+心理性渴
+41
+尿比重
+specific gravity, urine
+增加
+increased
+近端肾小管性酸中毒
+47
+proximal renal tubular acidosis
+糖尿病
+89
+diabetes mellitus
+泛可尼氏症候群
+101
+Fanconi syndrome
+總低肾上腺皮質功能症
+137
+total hypoadrenocorticism
+猫泌尿常症候群
+223
+feline urologic syndrome
+减少
+decreased
+遠端肾小管性酸中毒
+45
+distal renal tubular acidosis
+尿崩症
+85，87
+diabetes insipidus
+慢性間質性臀炎
+163
+chronic interstitial nephritis
+心理性渴
+199
+psychogenic polydipsia
+血中總蛋白質
+total protein,serum
+增加
+increased
+尿崩症
+85, 87
+diabetes insipidus
+艾利希病
+95
+ehrlichiosis
+臀毒症
+167
+nephrotoxicity
+减少
+decreased
+101
+泛可尼氏症候群
+Fanconi syndrome
+胃腸炎
+103,105,107
+gastroenteritis.
+犬傅染性肝炎
+119
+infectious canine hepatitis
+血中T
+T4, serum
+减少
+decreased
+高臀上腺皮質功能症
+127,129,131
+hyperadrenocorticism
+低甲状腺功能症
+139.
+hypothyroidism
+尿胆紅素元
+urobilinogen, urine
+增加
+increased
+119
+犬傅染性肝炎
+infectious canine hepatitis
+149
+systemic lupus erythematosus
+全身性紅斑性狼
+42
+thallium poisoning
+蛇中毒
+215
+none
+無
+bile duct obstruction
+胆管阻塞
+69
+cholangiohepatitis
+胆管性肝炎
+81
+胰腺癌
+pancreatic adenocarcinoma
+181
+WBC,circulating
+白血球，循環血液中
+increased
+增加
+bacterial endocarditis
+細菌性心内膜炎
+97
+enteric histoplasmosis
+腸粗織菌病
+125
+钩端螺旋體病
+147
+leptospirosis
+肾盂肾炎
+205
+pyelonephritis
+reticuloendotheliosis
+網状内皮增殖病
+209
+减少
+decreased
+infectious canine hepatitis
+119
+犬传染性肝炎
+ cyclic neutorpenia of Collies
+牧羊犬的调期性嗜中性球减少症
+169
+feline panleukopenia
+猫泛白血球减少症
+187
+parvoviral gastroenteritis
+犬小病毒性胃腸炎
+107
+toxoplasmosis
+弓蛊病
+217,219
+WBC,urine
+尿中白血球
+increased
+增加
+distal renal tubular acidosis
+遠端肾小管性酸中毒
+45
+cystitis
+膀胱炎
+83
+钩端螺旋體病
+147
+leptospirosis
+chronic prostatitis
+慢性前列腺炎
+203
+pyelonephritis
+肾孟肾炎
+205
+43
+疾病輪廊英名中對照表
+BLOOD
+BLOOD
+血球像
+血液生化
+CHEMISTRY
+CELLS
+BUN
+WBC
+血中尿氮值
+白血球總數
+creatinine
+band
+肌酸酐
+带状球
+glucose
+seg
+葡萄糖
+分葉球
+direct bilirubin
+lymph
+直接胆紅素值
+淋巴球
+total bilirubin
+mono
+胆紅素值
+單核球
+eosino
+cholesterol
+胆固醇
+嗜酸性球
+baso
+Ca
+钙
+嗜性球
+RBC
+磷
+紅血球總數
+MCV
+Na
+平均血球容
+nucleated RBC
+K
+钾
+有核紅血球
+HCO
+platelets
+碳酸鹽
+血小板
+網織球
+reticulocytes
+C1
+氯
+血清麸胺酸丙酮酸轉胺
+SGPT
+URINALYSIS
+尿液查
+pH
+arginase
+精胺酸酶
+酸度
+血清麸胺酸草酸醋酸轉
+SGOT
+specific gravity
+比重
+胺酶
+alk phosphatase
+albumin
+磷酶
+白蛋白
+CPK
+glucose
+葡萄糖
+肌酸磷酸活酶
+amylase
+ketones
+酮
+殿粉酶
+occult blood
+lipase
+潜血
+脂肪酶
+albumin
+bilirubin
+白蛋白
+胆紅素
+WBC
+globulin
+白血球
+球蛋白
+total protein
+RBC
+紅血球
+總蛋白質
+fibrinogin
+雅素元
+epithelial cells
+上皮細胞
+casts
+尿圆柱
+crystals
+結晶體
+細菌
+bacteria
+44
+weight loss體重减輕
+dehydration
+polyuria多
+尿
+水
+S17
+polydipsia
+渴
+anorexia
+食
+panting喘
+氣
+weakness
+衰弱
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+BUN
+creatinine
+cificgravity
+glucose
+direct-bilirubin
+total bilirubin
+cholesterol
+cult blooc
+C
+WBC
+Na
+RBC
+K
+dRBC
+HCO
+SGPT
+arginase
+SGOT
+alk phosphatase
+CPK
+SPECIAL TESTS
+amylase
+lipase
+radiography—osteomalacia,nephrocalcinosis
+·ammonium chloride loading——no decrease in urine pH
+globulir
+一放射線照影一软骨病，臀石灰沉著症。
+()氣化铵使用一無尿中pH之降低。
+遠端小管性酸中毒
+distal renal tubular acidosis
+因臀小管的缺陷造成的重碳酸重吸收不全，造成尿之酸化不足且饼
+發代性酸中毒。而體内了正這種失去街的情形，便自骨中析出磷
+酸钙來，因此又造成了骨症。
+判讀
+Interpretation
+血清中重碳酸含量降低乃由於臀之排出重碳酸量增加所致。血清
+钙及磷量的减少是由於骨之重吸收及臀對這些電解質之排出作用增加所致
+。血清中性磷酸酶活性之上升反映出骨之修復作用活性化。發於活
+動性臀炎之臀钙沈着症可由尿中之蛋白質，尿圆柱及白血球看出。白蛋白
+尿可能造成血清中蛋白量之减少。如果已有多的臀實質被破BUN
+之重吸收所致，甚至給與尿酸化劑（化）亦可能降低尿pH值。血
+有助於此病和臀孟臀炎的區别。
+類症别
+Differential Diagnosis
+H糖尿病一一糖尿；血糖含量高。
+)臀衰竭—一BUN及血清肌酸酐量均高。
+近端小管性酸中毒一一尿比重高；尿中无蛋白、尿圆柱或白血球
+；无尿石。
+四泛可尼氏症候群（Fanconisydrome）—一有糖尿；胺基酸尿；尿
+中无蛋白質、尿圆柱或白血球。
+五低臀上腺皮質功能症一一BUN高；嗜酸性球增多症；淋巴球增多
+症；濃血症。
+46
+weight loss 體重减輕
+dehydration脱
+polyuria多
+水
+尿
+polydipsia
+渴
+anorexia
+食
+weakness
+panting喘
+氣
+衰弱
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+BUN
+WBC
+creatinine
+band
+specific gravity
+glucose
+seg
+uiwnqie
+direct bilirubin
+lymph
+glucose
+total bilirubin
+mono
+Ketones
+cholesterol
+eosino
+ccult blood
+Ca
+bilirubin
+RBC-
+WBC
+Na
+MCV
+RBC
+nucleated RBC
+epithelial cells
+HCO
+platelets
+casts
+C
+reticulocytes
+crystals
+SGPT
+arginase
+SGOT
+alkphosphatase
+SPECIAL TESTS
+CPK
+amyiase
+·radiography—osteomalacia, no uroliths
+albumin
+·bicarbonate titration—high levels of sodium bicarbonate required
+globulin
+to maintain serum bicarbonate levels
+totalproteir
+一放射線照影一骨化，無尿石。
+fibrinoger
+()重碳酸滴定一高含量之重碳酸納以持血清
+中重碳酸之含量。
+近端臀小管性酸中毒
+proximal renal tubular acidosis
+近端肾小管性酸中毒主要由於近端小管中一種酶的缺陷造成的，而
+较少由於臀功能性部分之减少所引起。其重碳酸重吸收作用之缺陷造成
+代谢性酸中毒而引發因骨之衡作用所形成的骨症。因其病變部位在近
+端小管，故發生在遠端小管的尿之酸化作用仍然正常。
+判
+Interpretation
+钙及磷量的减少是因對這些電解質之排出作用增加所致，非因骨之重
+吸收所致。血清中性磷酸酶活性的上升反映出骨之修復作用之活性化。
+BUN及血清肌酸量及尿比重仍於正常值指出該動物仍有正常的臀
+過作用及充足的臀功能區。
+類症别
+Differential Diagnosis
+（糖尿病一一糖尿，血糖量高。
+臀衰竭一一BUN及血清肌酸酐含量均高。
+遠端小管性酸中毒一一尿比重低，尿中有蛋白，尿圆柱，及白血
+球但無尿石。
+四低臀上腺皮質功能症一一BUN高；嗜酸性球增多症；淋巴球增多
+症；血症。
+48
+depression
+icterus黄胆
+抑郁
+polyuria多
+尿
+anorexia
+食
+polydipsia
+渴
+hemorrhage
+出
+血
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+5
+BUN
+WBC
+pH
+specific gravity
+creatinine
+band
+seg
+albumin
+glucose
+direct bilirubin
+lymph
+glucose
+total bilirubin
+mono
+ketones
+cholesterol
+eosino
+occult blood
+bifirubin
+Ca
+baso
+P
+RBC
+WBC
+Na
+MCV
+RBC
+nucleated RBC
+epithelial cells
+K
+HCO3
+platelets
+casts
+CI
+reticulocytes
+crystals
+SGPT
+cteria
+arginase
+SGOT
+alkphosphatase
+SPECIAL TESTS
+CPK
+amylase
+lipase
+·coagulation studies—-increased prothrombin time
+albumin
+·food analysis—aflatoxin levels >20 ppb
+globulin
+(一)凝集查一凝血時間延長。
+total protein
+fibrinogen
+食物分析一有黄魏毒素量超過20ppb（bill-
+ion）。
+黄毒素中毒
+aflatoxicosis
+黄毒素是由徽菌如魏菌或青徽菌在潮濕的物或含類之食物上
+生長時所產生的毒素。一次食入大量的黄毒素或長時間食人少量的黄
+毒素均會造成重的肝及臀之病變。此種毒素不會因煮熟而被破。
+判
+Interpretation
+活性炎可由尿中有蛋白和尿圆柱看出，但此病不常進行到衰竭
+常值以下。急性肝病可由高SGPT和血清精胺酸酶活性看出，肝大造成的
+胆汁阻塞可由高血清胆紅素量及性磷酸鹽酶活性看出。長期食入黄魏毒
+長而造成白血球增多症。
+類症别
+Differential Diagnosis
+H臀衰竭一一BUN及血清肌酸酐均高。
+傅染性犬肝炎一一白血球减少症；發燒。
+白慢性活動性肝炎一一尿中无尿圆柱，食物中无黄魏毒素。
+50
+polyuria多
+尿
+polydipsia
+渴
+edema
+水
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+WBC
+BUN
+creatinine
+band
+specificgravity
+glucose
+seg
+albumin
+directbilirubin
+lymph
+mono
+ketones
+cholesterol
+eosino
+occultblood
+Ca
+basc
+bilirubin
+RBC
+WBC
+Na
+MCV
+RBC
+nucleated RBC
+epithelial cells
+K
+HCO3
+platelets
+casts
+CI
+reticulocytes
+crystals
+SGPT
+arginase
+SGOT
+alk phosphatase
+SPECIAL TESTS
+CPK
+amylase
+·radiography—-increased renal size (acute) or decreased renal size
+albumin
+(chronic)
+renal biopsy——amyloid deposits in glomeruli
+H放射線照影一腎大（急性）或减小。
+肾穿刺一臀絲球内有粉樣沉著。
+臀粉樣蟹性病
+renal amyloidosis
+臀粉樣變性病是由慢性炎症性病症轉來的。包括慢性細菌性感染症
+，心病，睡瘤等。粉樣物質蓄首先造成臀功能障，但也可能會
+影響其他器官如肝和脾。
+判讀
+Interpretation
+高的BUN，血清肌酸酐及血清磷含量，又尿中有蛋白和尿圆柱等指
+出此病犬有因蛋白質流失之病所造成的尿毒症。由正常尿比重可知此病
+犬仍有正常之尿濃縮能力及臀小管的损傷不大，而知其臀病乃局限於臀小
+受到刺激。白血球增多症乃對慢性活動性炎症的反應所致。
+类症别
+Differential Diagnosis
+H糖尿病一一血中葡萄糖含量高，糖尿。
+慢性間質性臀炎
+低尿比重；无蛋白尿；血清蛋白量正常。
+白蛋白流失性病一一无蛋白尿。
+四慢性肝病—-BUN 低；BSP 滞留量增加。
+国臀小體性臀炎一一臀穿刺可見厚的臀小體基底膜。
+52
+lethargy昏
+睡
+cyanosis
+瘢
+→fever
+發烧
+BLOOD
+BLOOD
+CELLS
+URINALYSIS
+CHEMISTRY
+BUN'
+WBC
+PH
+creatinine
+band
+specific gravity
+albumin
+seg
+direct,bilirubin
+lymph
+glucose
+total bifirubin
+mono
+ketones
+cholesterol
+eosino
+occult blood
+Ca
+.baso
+bilirubin
+P
+RBC
+WBC
+Na
+MCV
+RBC
+nucleated RBC
+epithelial cells
+K
+HCO3
+platelets
+casts
+reticulocytes
+SGPT.
+acteria
+arginase
+SGOT
+alkphosphatase
+CPK
+SPECIAL TESTS
+amylase
+Coombs—positive with anti-cat serum
+albumin
+globulin
+H庫姆氏試驗一與抗猫血清呈阳性反應。
+total protein
+fibrinogen
+自體免疫性溶血性餐血
+autoimmune hemolytic anemia
+自體免疫性溶血性血乃於紅血球的表面受一些抗原如猫白血病病毒
+（FeLV），血巴東氏原，藥物或全身性感染等的改變，成有抗原
+活性所致，形成的抗體包覆在紅血球的表面而造成溶血，紅血球被吞噬，循
+環血液内之紅血球被網狀内皮系统早期的移走血球自家凝集及血液在微血
+應。
+判讀
+Interpretation
+出閣值而造成糖尿。黄痘和高胆紅素含量反映出血管内溶血；然而因
+紅血球的破，發生在脾、肝内，故非所有病猫都會有黄痘，无
+可指出有外出血，也无寄生如巴东原病等之症状。一種用抗猫血清做
+的库姆氏試驗阳性乃指出粒血球受抗體所包覆，復因此造成紅血球的溶解
+，凝集，和增加移走的速率。許多病猫的血會在冷的载玻片上或收集管中
+凝集。
+類症别
+Differential Diagnosis
+猫傅染性血——
+紅血球中有血巴东原；库姆氏試可能阳性
+或陰性，抑制性血，血清球蛋白量高。
+红血球增多性骨髓增殖症一一库姆氏試驗陰性；有正常值之MCV
+；無網織球；紅血球有常成熟像
+白海因滋小體性血一一库姆氏試阳性；用新甲基蓝染色可見紅
+血球内有折光性（ER）體。
+54
+lethargy昏
+睡
+dark urine暗色尿
+pallor
+白
+-fever
+發
+烧
+BLOOD
+BLOOD
+CHEMISTRY
+CELLS
+URINALYSIS
+BUN
+WBC
+PH
+creatinine
+band
+specific gravity
+glucose
+bas
+albumin
+direct bilirubin
+total bilirubin
+lymph
+glucose
+chalesterol
+ketones
+occult blood
+eosino
+Ca
+bilirubin
+RBC
+WBC
+Na
+MCV
+RBC
+nucleated RBC
+epithelial cells
+HCO3
+platelets
+casts
+C
+crystals
+SGPT
+arginase
+SGOT
+alkphosphatase
+CPK
+SPECIAL TESTS
+amylase
+lipase
+·hematologic examination——Heinz bodies, no blood parasites
+albumin
+Coombs-negative
+globulin
+totalprotein
+一血液學查一有粒性巽染質，无血中寄生。
+fibri
+庫姆氏試驗一陰性反應。
+海因滋小體性餐血
+Heinz-body anemia
+猫之海因滋小體性贫血乃可能由多種物質引致（如洋葱、甲基蓝、乙
+甲基藍染色的一種征密折射小體一一海因滋小體，稀ER小體。這種小
+成温和的血或致命性的溶血。
+判
+讀
+Interpretation
+溶血造成血清胆紅素量的上升；但血清直接型胆紅素量仍正常。血
+液學查示一種重的反應性血及一種繁迫性白血球像（輕度成熟
+中性球增多症；淋巴球减少症及嗜酸性球减少症）·伴随於急性爆發病例
+排泄作用，尿液會呈現不正常的暗色，它也造成在血試驗結果阳性。
+細胞學检查以新甲基藍染色的血液抹片的細胞學查示有大量的紅血球
+含有海因滋小體。
+類症别
+Differential Diagnosis
+H)肝病一一高SGPT，SGOT及血清精胺酸酶和直接型胆紅素量。
+自體免疫性溶血性血一一库姆氏試驗阳性；很少有海因滋小體。
+細菌血病一一无贫血；不會有有核紅血球。
+四血巴東原病一一紅血球内有血巴東原;很少有海因滋小體。
+球。
+有正常的血清胆紅素量；高SGPT、SGOT及血清精胺酸酶量。
+56
+lethargy昏
+睡
+pallor
+白
+tachycardia
+心動快速
+不
+内
+BLOOD
+BLOOD
+CHEMISTRY
+URINALYSIS
+CELLS
+BUN
+WBO
+pH
+creatinine
+specific gravity
+pueg
+bas
+albumin
+direct bilirubin
+ymph
+glucose
+total bilirubin
+ketones
+cholesterol
+一
+bilirubin
+RBC
+WBC
+Na
+二
+MCV
+RBC
+K.
+nucleated RBC
+epithelial cells
+HCO
+platelets
+食
+casts
+CI
+reticulocytes
+crystals
+SGPT
+cteria
+际
+SGOT
+alkphosphatase
+CPK
+SPECIAL TESTS
+amylase
+albumir
+fecal examination-orange-colored stool
+globulin
+·biopsy of liver, spleen—hematopoiesis, reticuloendothelial
+totalprotein
+hyperplasia
+fibrinogen
+H)骨髓抽出一紅色性增殖或骨髓雜化。
+(粪一橙色便。
+肝及胰穿刺一造血形成，狀内皮增殖。
+伯森金犬的溶血性血
+（丙酮酸激酶不足）
+hemolytic anemia of Basenjis
+(pyruvate kinase deficiency)
+此種在伯森金犬的遗傅性缺乏丙酮酸激酶所造成的紅血球葡萄糖利用
+不良，最後使紅血球細胞膜破。紅血球命會縮短，同時紅血球被網状
+内皮系自循環系中移走的速率會增加，因此造成血。
+判讀
+Interpretation
+出會件隨可引起血的肝、肌肉和臀損傷·血清中的高直接型胆紅素量指
+出有溶血。維化及增殖變性區域骨髓穿刺可發現有化及增殖區·因
+為只有某些大學的實室才有测定這種酶缺乏的特殊實，故應先逐项排
+除其他可引起溶血性血的原因。
+類症别
+Differential Diagnosis
+H)失血性血—一有創傷病微；有SGPT及SGOT之升高；放射線
+影或放液穿刺術可查出在胸腔或腹腔有血液，同時粪便中可能有潘血。
+腸内寄生病一一粪阳性。
+自體免疫性溶血性血一一库姆氏試驗阳性。
+四海因滋小體性血一一用新甲基蓝染色可见到紅血球上有海因滋小
+58
+diarrhea下
+痢
+salivation流
+诞
+tremors
+震
+不
+BLOOD
+BLOOD
+CHEMISTRY
+CELLS
+URINALYSIS
+BUN
+WBC
+creatinine
+DH
+band
+glucose
+specificgravity
+seg
+directbilirubin
+albumin
+lymph
+totalbilirubin
+glucose
+cholesterol
+mono
+eosino
+Ca
+occult blood
+P
+RBC
+Na
+WBC
+MCV
+K
+RBC
+nucleatedRBC
+HCO
+epithelialcells
+platelets
+CI
+asts
+SGPT
+crystals
+arginase
+SGOT
+alk phosphatase
+CPK
+SPECIAL TESTS
+amylase
+lipase
+·serum cholinesterase—markedly decreased levels (10% of normal
+values)
+globulin
+total protein
+)血清胆素酯酵素一著的降低（只有正常值的10%
+fibrinogen
+)。
+抗胆酯酶中毒
+anticholinesterase poisoning
+許多用來控制内外寄生及花害（gardenpests）的化合物，包
+括胺基碳酸類或有機磷類等药物會抑制胆鲶酯酶而造成增加對骨骼肌和
+平滑肌的刺激後，示一些症狀如增加流涎，排尿，流淚，排粪，肌肉强
+直及不協調。
+判讀
+Interpretation
+高血糖症及聚迫性白血球像（輕度的成熟嗜中性球增多症，淋巴球减
+少症及嗜酸性球减少症）指出病畜有由於出上腺素及上腺皮質酮引
+起重的全身性迫·因蠕動過盛引起的下所造成的脱水，可由高PCV
+和高血清全蛋白量看出來。重的肌肉震颤和肌肉損毁能造成乳酸的聚
+，而使SGOT和CPK升高及代性酸中毒。血清中的胆酯酶量著的
+降低，常低至正常值的十分之一。
+類症别
+Differential Diagnosis
+H急性胃腸炎一一血清中解脂酶和激粉酶含量均稍高；SGOT，CPK
+和胆酯酶均正常。
+急性胰炎一一血清解脂酶和粉酶含量均升高。
+二聚乙醛中毒一一血清胆酯酶含量正常。
+60
+多處跛腿
+multiple lameness
+joint swelling
+關節
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+WBC
+BUN
+pH
+creatinine
+band
+specific gravity
+seg
+albumin
+directbilirubin
+lymph
+glucose
+total bilirubin
+mono
+ketones
+eosino
+occult blood
+choleserol
+Ca
+bas
+bilirubin
+RBC
+WBC
+MCV
+RBC
+nucleated RBC
+epithelial cells
+HCO3
+platelets
+casts
+CI
+reticulocytes
+crystals
+SGPT
+bacteria
+arginase
+SGOT
+alkphosphatase
+CPK
+SPECIAL TESTS
+amylase
+lipase
+rheumatoid factor—positive in 70% of dogs when canine-specific
+albumin
+sera used
+globulin
+·joint radiography-soft-tissue swelling,periarticular osteolysis
+totalprotein
+·joint aspiration—moderate neutrophilia,lymphocytosis,no
+bacteria,poor mucin precipitation
+·joint biopsy—proliferative synovitis
+·lupus erythematosus preparation—negative
+antinuclear antibody-negative
+（一風濕因子一当用犬特殊血清时，有70%之狗皇阳性
+節放射線照影一软組織大，關節周圍骨溶解。
+關節液抽出一輕微嗜中性球增多，淋巴球增多，無細菌
+，少黏蛋白沉。
+四關節穿刺一進行性關節滑囊炎。
+五紅斑性狼检查一陰性。
+六抗核抗體一性。
+類風濕性开節炎
+rheumatoid arthritis
+這是一種性的多節炎，與退行性關節病，細菌性關節炎，全身
+性狼紅斑及創傷有别。正常的血液學值表示此病之局部性本質。現時的
+，使其具有抗原性而引起IgM的形成，然後於這些IgM與補體於液内
+形成復合物。戳之有啫中性球和淋巴球的侵入破，释出更多的
+IgG而造成一種自身永久性损傷。
+判讀
+Interpretation
+BUN正常，但血清肌酸酐含量升高指出後者乃由損的肌肉所出
+·高血清CPK而无SGOT的升高指出CPK乃自肌細胞漏出，無肌肉
+用而出的趣化性產物所造成。關節液含有啫中性球，淋巴球及維素，
+但是无細菌。大約有百分之七十患有類風濕性關節炎的狗在做犬特殊驗
+時，呈現類風濕性因子為阳性。
+類症别
+Differential Diagnosis
+H)創傷一一SGOT 和血清 C PK 含量高；迫性白血球像（輕度的成
+熟啫中性球增多症，淋巴球减少症，嗜酸性球减少症）。
+骨炎一一有正常之關液；X光片上有明的骨變化。
+白化性關節炎一一關節液中有退行性中性球及細菌。
+四多肌炎一一嗜酸性球增多症；SGOT及血清CPK含量高；有正常
+之液。
+国全身性狼紅斑一一库姆氏試驗及抗核抗體試驗均阳性。
+62
+-fever發
+joint swelling
+關節胀
+lameness
+玻行
+BLOOD
+BLOOD
+URINALYSIS
+CELLS
+CHEMISTRY
+BUN
+WBC
+PH
+creatinine
+pueq
+specific gravity
+glucose
+seg
+albumin
+direct bilirubin
+lymph
+glucose
+total bilirubin
+mono
+ketones
+choiesterol
+eosino
+occult blood
+Ca
+.baso
+bilirubin
+P
+RBC
+WBC
+Na
+MCV
+RBC
+K
+nucleated RBC
+epithelial cells
+HCO3
+platelets
+casts
+CI
+reticulocytes
+crystals
+SGPT
+arginase
+SGOT
+alkphosphatase
+CPK
+SPECIAL TESTS
+amylase
+· arthrocentesis—-grey fluid, WBC count >80,000/mm3 with 90%
+lipase
+albumin
+degenerated neutrophils,fluid clots
+globulin
+total protein
+glacial acetic acid
+fibrinogen
+·radiography—no changes evident early in disease
+· synovial fluid culture—usually Staphylococcus or Streptococcus
+H關穿刺一灰液，WBC数>80000/mm²
+，其中有90
+%為變性嗜中性球，有液凝塊。
+(三)黏蛋白一当關節囊液被加入冰醋酸後有易碎之沉狀。
+放射線照影一此病之早期無明變化。
+四關節囊液培養一經常為葡萄球菌或球菌。
+化性關節炎
+septic arthritis
+通常單一關的細菌感染，乃由創傷或软粗織感染之漫延所致。它
+比包括多數之化性關節炎常見，於血症有關的病，如細菌性心
+内膜炎，臀盂炎或肺炎等病會有多關炎，除非用實驗室驗别，否
+肌肉性跛，骨或其他節病，可能會與化性關炎混淆。
+判讀
+Interpretation
+因所有血液化學查結果均於正常圍，故可排除肌肉病。由液
+之查可看到許多退行性中性球，出血及凝血所致之維素。由關液
+之培養或直接抹片經革蘭氏染色法或新甲基藍染色下可看到細菌。
+類症别
+Differential Diagnosis
+H)多肌炎一一嗜酸性球增多症；血清CPK及SGOT均高
+骨炎一
+一有正常的關節液；於X光片上可見明的骨變化。
+白創傷一—SGOT和血清CPK均高。
+四類風濕性關節炎一一血清球蛋白升高；許多啫中性球及淋巴球（带
+著輕度的細胞和退行性變化）但關節液中无細菌。
+64
+dehydration脱
+水
+心疾病
+cardiac disease
+shock休
+克
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+D
+BUN
+WBC
+PH
+creatinine
+band
+specific gravity
+glucose
+bas
+direct bilirubin
+lymph
+total bilirubin
+mono
+cholesterol
+eosino
+baso
+bilirubin
+RBC
+WBC
+Na
+MCV
+RBC
+nucleated RBC
+epithelial cel
+HCO3
+platelets
+casts
+reticulocytes
+C
+crystals
+SGP
+arginase
+SGOT
+alkphosphatase
+CPK
+SPECIAL TESTS
+amylase
+lipase
+albumin
+globulin
+totalprotein
+臀前性氮血症
+prerenal azotemia
+甚至在臀功能正常時也會因灌注的减少，造成尿的物在血中聚
+（氮血症），肾前氮血症之原因包括脱水、心病、休克及臀上腺功能不
+足。臀功能正常的肾前氮血症病例可用尿分析法來與肾源性尿毒症加予區
+别。
+判讀
+Interpretation
+高血清白蛋白量及紅血球數表示有脱水。高尿比重表示肾有保存水
+胞而反映出仍有正常的臀功能。血液像表示有繁迫（嗜中性球增多、淋巴
+球减少、嗜酸性球减少）。
+類症别
+Differential Diagnosis
+慢性間質性炎一一有低尿比重。
+臀孟肾炎一一饼有中性球增多症及核左轉的白血球過多症；尿中有
+蛋白質，尿圆柱，紅血球，白血球及細菌。
+66
+weight loss 體重减輕 icterus 黄
+胆
+bilirubinuria胆紅質尿
+anemia贫
+血
+fever發
+燒
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+BUN
+WBC
+pH
+creatinine
+band
+glucose
+bas
+albumir
+direct bilirubin
+lymph
+glucose
+total bilirubin
+mono
+ketones
+cholesterol
+eosino
+occultblood
+Ca
+baso
+bilirubin
+P
+RBC
+WBC
+Na
+MCV
+RBC
+nucleated RBC
+K
+epithelial cells
+HCO3
+platelets
+casts
+CI
+reticulocytes
+crystals
+SGPT
+arginase
+SGOT
+alkphosphatase
+SPECIAL TESTS
+CPK
+amylase
+lipase
+·hematologic examination——blood smear has Babesia in RBC
+·urinary urobilinogen—elevated level
+globulin
+血液學检查一血液抹片有焦在紅血球上。
+尿中尿胆質原一高量。
+焦病
+babesiosis
+臨床症狀包括發熱、鸳血、黄痘、抽、腹水、紫癜及呼吸困難。
+判讀
+Interpretation
+由血液像可看出有反應性溶血性血症及粒性球形成受到抑制。
+因肝病所致。尿中有血紅素而來的尿胆素元及潘血表示胆管未阻塞，而是
+由紅血球的破增加所致。白蛋白尿是由焦引起之臀小體性臀炎所致，
+它可能會重到使BUN和血清肌酸量升高的程度。在慢性感染病例會因
+肝壤死而使 SGPT、SGOT 及血清精胺酸酶之活性均升高。以微鏡觀察
+血液抹片可看到有焦歸寄生之紅血球。但在溶血後，因其寄生會留在
+，因為對寄生的抗體可能附著在紅血球上。也可用光抗體試驗做確診
+·血清球蛋白量的升高表示免疫系統受到刺激。
+類症别
+Differential Diagnosis
+失血性血一一有淋巴球增多症；血清胆紅素量正常。
+自體免疫性溶血性血一一不見寄生附著之紅血球；无血紅素尿。
+艾利希體病一一有核紅血球及網織球數目较少；低MCV；有血尿，白
+血球内有犬艾利希體（Ehrlichiacanis）。
+68
+icterus黄
+胆
+anorexia
+食
+pale,voluminous
+stools
+白大量的粪便
+BLOOD
+BLOOD
+CHEMISTRY
+URINALYSIS
+CELLS
+BUN
+WBC
+creatinine
+PH
+specific gravity
+glucose
+seg
+direct bilirubin
+albumin
+Iympr
+total bilirubin
+glucose
+cholesterol
+Ketones
+eosino
+Ca
+occult blood
+Na
+WBC
+MCV.
+RBC
+nucleated RBC
+HCO3
+epithelialcells
+platelets
+CI
+SGPT
+arginase
+SGOT
+alkphosphatase
+CPK
+SPECIAL TESTS
+amylase
+ipase
+·urinary urobilinogen—none
+albumin
+·fat absorption—normal
+globulin
+·fecal rypsin-positive
+total proteir
+()尿中尿胆質原一無。
+(脂肪吸收一正常。
+曰粪胰蛋白酶一阳性。
+膀管阻塞
+bile duct obstruction
+胆管阻塞可能由胆管及十二指腸的瘤，狭窄及發炎或胆石或由急性
+肝炎或肝硬化而來的，肝實質损傷，或對大劑量的藥物反應如苯噻嗪類（
+phenothiazines）或雄性激素等原因所造成。胆紅素是由血紅素降解物和
+非紅血球源物質在肝被形成後，進入小腸。腸内菌將胆紅素代谢成尿胆素
+谢成粪胆素元，它是正常粪色的部分色素。
+判讀
+Interpretation
+高的 SGPT、SGOT 及血清精胺酸酶活性和胆酯醇量表示病犬有活
+性肝死。血清胆紅素量升高是因結合熊的胆紅素被逼入循環中的量较
+正常排泄量多所致。尿中缺少尿胆素元表示无胆汁進入腸中。血清性
+功能受阻所致。
+類症别
+Differential Diagnosis
+吸收不良病
+有寄生病的症狀，胰炎或食物引起的過敏症。
+溶血性疾病一一PCV降低；血清間接型胆紅素增加；尿中之尿胆素元
+增加。
+70
+lameness
+跛行
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+BUN
+WBC
+PH
+creatinine
+band
+specificgravity
+glucose
+seg
+directbilirubin
+lymph
+totalbilirubin
+cholesterol
+Ca
+P
+RBC
+Na
+MCV
+RBC
+nucleated RBC
+K
+epithelialcells
+HCO
+platelets
+CI
+SGPT
+SGOT
+alk
+CPK
+SPECIAL TESTS
+amylase
+lipase
+radiography—osteolysis, osteopetrosis without signs of
+albumin
+malignancy
+globulin
+total protein
+H放射線照影一骨溶解，骨症，無恶性微狀。
+骨壤死
+bone necrosis
+(Legg-Calve-Perthes disease)
+骨死普通骨折、感染、創傷、骨炎或血管損等使血液供應不足
+所引起。血管病變的結果引起骨死和放射線照影時的密度增加。
+犬。
+判讀
+Interpretation
+血液化學、血液像及尿分析等的結果均无常。由正常之SGOT及血
+清CPK量可否定肌肉损傷。正常之血液像表示无全身性感染症，而正常之
+類症别
+Differential Diagnosis
+骨感染一一有白血球增多症。
+代谢性骨病一一血清磷及性磷酸酶升高；血清中之钙含量减少。
+72
+polyuria多
+尿
+polydipsia
+渴
+primary tumor
+初發性瘤
+lameness
+跛行
+BLOOD
+BLOOD
+CHEMISTRY
+URINALYSIS
+CELLS
+BUN
+WBC
+creatinine
+PH
+band
+specific gravity
+glucose
+seg
+directbilirubin
+albumin
+total bilirubin
+cholesterol
+mono
+Ca
+basc
+P
+RBC
+Na
+WBO
+MCV
+RBC
+K
+HCO
+platelets
+CI
+crystals
+SGPT
+arginase
+SGOT
+alk phosphatase
+CPK
+SPECIAL TESTS
+amylase
+lipase
+·radiography——lytic areas in bone
+albumin
+globulin
+（)放射線照影一骨内有溶解區域。
+total protein
+fibrinogen
+彌漫轉移性骨瘤
+diffuse metastatic bone tumor
+瘤轉移到骨後會使受侵骨骼產生單一或多处的溶解區域。在某些病
+例，轉移的睡瘤細胞會刺激破骨活性而經類似副甲状腺素作用而自骨髓析
+出钙造成骨壤死。高血钙值文會引起發性臀石灰沈著症和尿毒症。
+判讀
+Interpretation
+由BUN及血清肌酸之升高及尿中有白血球、蛋白質及尿圆柱指出本
+酶活性反應出有旺盛之骨代。抑制性血是瘤之衰弱效果所致。
+類症别
+Differential Diagnosis
+維生素D過多症
+—一在骨之放射線照影片无溶骨病變；有高血清钙及
+磷的含量；血清性磷酸酶活性為正常。
+高副甲状腺功能症
+一一骨症状，有高的血清钙及性磷酸酶含量；
+血清中磷含量减少。
+肌炎一一有高SGOT及血清CPK。
+原發性骨瘤一一血清中钙及磷量正常。
+74
+swelling
+nopain
+-lameness
+玻行
+睡大但不痛
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+BUN
+WBC
+creatinine
+band
+specific gravity
+seg
+glucose
+direct bilirubin
+lymph
+glucose
+total bilirubin
+mo.no
+ketones
+cholesterol
+eosino
+occult blooc
+Ca
+baso
+bilirubin
+P
+RBC
+WBC
+Na
+MCV
+RBC
+K
+nucleated RBC
+epithelial cells
+HCO3
+platelets
+casts
+CI
+reticulocytes
+crystals
+SGPT
+arginase
+SGOT
+alk phosphatase
+SPECIAL TESTS
+CPK
+amylase
+lipase
+·radiography—cortical destruction, subperiosteal new bone,brush
+albumin
+and sunbursteffects
+globulin
+bone biopsy-neoplasticcells
+totalprotein
+()放射線攝影一有皮質損
+骨膜下因有骨新生而呈
+，
+fibrinogen
+刷狀和光芒狀效。
+一骨之生一有瘤細胞。
+原發性骨瘤
+primary bone tumor
+在原發性骨睡瘤如骨肉瘤（Osteosarcoma）或软骨肉瘤（Chondros-
+arcoma
+），其疾病的早期可能有跛行的現象，也可能在疾病發展了相當
+時間後才會有臨床症狀出現·通常以放射攝影主要诊断依據，但實驗
+诊断可用來排除其他有相似臨床症狀的疾病，通常此病之病變區是孤立的
+判讀
+Interpretation
+没有一種血液查可做出恶性瘤疾病之用，但若血清總蛋白質
+及白蛋白降低以及有抑制性贫血出现，则可反映出該病例有因瘤疾病引
+起的全身性管養不良。血清中钙、磷、性磷酸鹽酶值等均正常则表示此
+病例無活性的骨修補或钙運出作用，白血球總數正常表示没有活動性
+感染症。
+類症别
+Differential Diagnosis
+骨髓炎（Ostesmyelitis
+）一一會有白血球增多症。
+轉移性骨睡瘤（Metastaticbonetumor）一一會有血清中钙、磷均升
+高現象，而且在多處骨骼有病變。
+76
+→lethargy昏睡
+weight loss體重减輕
+ascites腹水
+cough咳嗽
+weakness
+衰弱
+cardiacarrhythmia
+心律不整
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+BUN
+WBC
+DH
+creatinine
+band
+specific gravity
+glucose
+bas
+albumin
+direct bilirubin
+lymph
+total bilirubin
+mono
+cholesterol
+reosino
+ccult blood
+baso
+bilirubin
+RBC
+WBC
+Na
+MCV
+RBC
+nucleated RBC
+epithelial cells
+HCO
+platelets
+casts
+CI
+reticulocytes
+crystals
+SGPT
+bacteria
+arginase
+SGOT
+alk phosphatase
+CPK
+SPECIAL TESTS
+amylase
+lipase
+radiography—cardiomegaly, pulmonary edema,hepatomegaly,
+albumin
+ascites
+globulin
+·electrocardiography-atrial fibrillation, atriai and ventricular
+total protein
+enlargement
+·abdominocentesis—modified transudate with some hemorhage
+)放射線攝影查一心廣大、肺水、肝大
+腹水等。
+心電圖一心房動、心房及心室的廣大。
+腹部穿刺一带血的不純漏出液。
+充血性心肌病
+（犬大性心肌病）
+congestive cardiomyopathy
+(canine dilated cardiomyopathy)
+充血性心肌病與其是一種心瓣膜疾病不如是心肌方面的疾病。
+通常發生於大型犬種，如大丹、聖伯納、德國狼犬等，造成心大，心
+房維動然後演至心衰竭。右心衰竭的病微（脱水）通常比左心衰竭
+（咳嗽）失發生。
+判
+Interpretation
+酸中毒可由血清中的重碳酸值降低看出。BUN及血清中肌酸酐的升
+高及正常的尿結果表示此病例有臀前性氮血症。SGPT、SGOT及精胺
+酸酶的升高表示有肝死。胆道阻塞则可由血清中胆紅素及性碳酸酶
+值之升高看出來。消化道水睡導致消化不良進而引起血清蛋白量之降低。
+SGOT及血清CPK值的升高表示心肌有損的情形。
+類症别
+Differential Diagnosis
+慢性臀衰竭一一尿比重低。
+急性疾病一一尿中有白血球、紅血球、尿圆柱及蛋白質。
+慢性肝炎一一血清球蛋白升高，而BUN及血清維蛋白元降低。
+僧帽瓣病一一心電圖之常较不明。
+78
+weight loss體重减輕
+盛
+dyspnea
+呼吸困難
+cardiacarrhythmia
+muffledheartsounds
+心律不整及心音低掩
+BLOOD
+BLOOD
+URINALYSIS
+CELLS
+CHEMISTRY
+WBC
+pH
+BUN
+specific gravity
+creatinine
+band
+seg
+albumin
+glucose
+lymph
+qlucose
+direct bilirubin
+mono
+ketones
+total bilirubin
+occult blood
+cholesterol
+eosino
+baso
+bilirubin
+Ca
+WBC
+RBC
+P
+MCV
+RBC
+Na
+nucleated RBC
+epithelial cells
+K
+platelets
+casts
+HCO3
+reticulocytes
+crystals
+CI
+SGPT
+arginase
+SGOT
+alkphosphatase
+SPECIAL TESTS
+CPK
+amylase
+lipase
+uiwnqie
+pattern
+globulin
+thoracentesis—fewcells,no clots, specific gravity to 1.018
+total protein
+indirect fluorescent antibody-titer below 1:400 forFIP
+fibrinogen
+()心電圖一節律不整，心室大。
+胸部穿刺一細胞數少，无凝塊，比重達
+1.081
+間接光抗體一抗FIP力價低於400倍。
+猫充血性心肌病
+（猫廣大性心肌病）
+feline congestive cardiomyopathy
+(feline dilated cardiomyopathy)
+猫的心肌疾病比心瓣膜疾病發生的多，心肌疾病有數種病因，可為原
+發性疾病也有由感染或代谢性障碳而來的發性疾病。充血病型以心肌弛
+援特微，可有因右心衰竭所致之腹水及腹部内的充血等，或因左心衰
+竭所致之肺水及胸膜腔渗出液。
+判
+讀
+Interpretation
+SGPT、SGOT及血清精氨酸酶值之升高表示此病已有發於中心静
+服壓的升高所致之肝死。肝充血阻碳了胆汁流動故有血清性磷酸酶
+及胆紅素的升高。肺水及胸膜腔渗出液引起呼吸性酸中毒及血清重碳酸
+值的降低。全身性繁迫導致可體松的出和發性高血糖症、糖尿及
+追性白血球像。
+類症别
+Differential Diagnosis
+猫傅染性腹膜炎（FIP）一一抗FIP力價可達400倍或更高；胸膜腔
+渗出液會形成凝塊，高血清蛋白質量。
+中膈性淋巴肉瘤（Mediastinal Lymphosarcoma
+)——FeLV 試驗秸
+果通常阳性；胸膜腔渗出液可出許多有分裂像的原始淋巴球。
+肥大性心肌病一一尿可見有白血球及紅血球。
+80
+depression抑郁
+icterus黄疽
+fever發烧
+pale,voluminous stools
+diarrhea
+白而大量的
+anorexia食
+冀便
+下痢
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+ΛO7
+WBC
+BUN
+pH
+creatinine
+pueq
+specific gravity
+giucose
+seg
+direct bilirubin
+lymph
+totalbilirubin
+mono
+choiesterol
+uiaaiua
+Ca
+RBC
+WBC
+P
+MCV
+RBC
+Na
+nucleated RBC
+epithelial cells
+K
+platelets
+casts
+HCO3
+crystals
+CI
+reticulocytes
+bacteria
+SGPT
+arginase
+SGOT
+alkphosphatase
+SPECIAL TESTS
+CPK
+amylase
+·prothrombin time--increased
+radiography-small, dense liver
+globulin
+liveribiliaryaialifamatni
+total protein
+·urinary urobilinogen—normal level or none
+fibrinoger
+H凝血酶元時間（Prothrombin Time）一延長。
+放射性攝影查一小而密的肝。
+肝生一小胆管增殖、門脉處炎症、化。
+四尿中尿胆素原一正常或无。
+膀管性肝炎
+cholangiohepatitis
+胆管性肝炎之原因有上行性胆道感染，經由血液而來的細菌感染或由
+#管阻塞时的胆汁滞留所致的化學性刺激等。這種炎症反應通常由肝門
+重區接散入實質部分而引起近肝細胞的死亡。病理變化可有爆發性、化
+性感染到持續性的輕微發炎等的不同。
+判讀
+Interpretation
+肝門胀區的炎症阻凝胆汁流出而造成血清胆紅素及性磷酸酶的升
+高。在重病例，胆汁進人小腸的量會减少到使粪便颜色赞淡且降低尿
+中尿胆素元完全缺如的情形發生。肝實質部的死引起SGPT、SGOT及
+維蛋白元的量降低。血清球蛋白可能會由於免疫系的刺激而升高。
+血的原因可能為發性管养不良或中毒性骨髓抑制所致。
+類症别
+Differential Diagnosis
+總胆管阻塞一一尿中無尿胆素元。
+胰外分泌不足一一粪中无胰蛋白酶。
+溶血性血一一直接型胆紅素值正常，血清胆紅素值升高，MCV及
+调状血球增加。
+急性肝炎一一血清胆紅素值很少會升高，尿中尿胆素元阳性。
+82
+排尿困難
+dysuria
+discolored urine尿色不正常
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+BUN
+WBC
+PH
+creatinine
+band
+pecific gravity
+glucose
+seg
+albumin
+direct bilirubin.
+lymph
+total bilirubin
+mono
+cholesterol
+eosino
+ccultblood
+Ca
+baso
+P
+RBC
+WBC
+Na
+MCV
+RBC
+K
+nucleated RBC
+epithelialcells
+HCO
+platelets
+asts
+CI
+reticulocytes
+SGPT
+arginase
+SGOT
+alk phosphatase
+SPECIALTESTS
+CPK
+amylase
+lipase
+urine culture-bacteria in samples obtained by cystocentesis
+albumin
+globulin
+calculi
+total protein
+()尿液細菌培一可由膀胱穿刺法所得尿之培出細
+fibrinogen
+菌。
+放射性攝影查一可用充氣膀胱X光攝影除去膀胱
+睡瘤或是膀胱結石。
+膀胱炎
+cystitis
+膀胱炎在犬通常由細菌感染引起，而猫多牛為病毒或其他原因所引
+起。它可能是原發性的感染症或發於解剖學上的缺陷、尿石或瘤等。
+實室诊断有助於别是膀胱炎或臀孟肾炎，前者是下段尿路的疾病，後
+者是上段尿路的疾病。
+判
+Interpretation
+除非已有其他饼發症·如尿道阻塞·其血液化學查及血液像不會有
+常，但若是由尿素分解菌如變形菌（proteus）引起的其尿
+球及細菌指出已受感染。做培的尿液最好以膀胱穿刺法探取。
+類症别
+Differential Diagnosis
+肾孟臀炎一一中性球增多性白血球增多症；BUN及血清肌酸酐值均
+上升，尿中有尿柱。
+前列腺炎一一白血球增多症；膀胱穿刺法所得尿正常。
+84
+dehydration脱水
+polyuria多尿
+polydipsia褐
+BLOOD
+BLOOD
+URINALYSIS
+CELLS
+CHEMISTRY
+WBC
+PH
+BUN
+band
+specific gravity
+creatinine
+albumin
+glucose
+lymph
+glucose
+directbilirubir
+total bilirubin
+ketones
+occult blood
+eosino
+bilirubin
+RBC
+WBC
+MCV
+RBC
+nucleated RBC
+epithelial cells
+platelets
+casts
+HCO
+reticulocyte:
+crystals
+SGPT
+arginase
+SGOT
+alkphosphatase
+SPECIAL TESTS
+CPK
+amylase
+lipase.
+albumi
+gravity
+·water deprivation—no increase in urine specific gravity
+total protein
+一投予留水素一尿比重不升高。
+fibrinogen
+禁水試驗一尿比重不升高。
+臀因性尿崩症
+nephrogenic diabetes insipidus
+此病以肾小管失對留水素（抗利尿荷爾蒙）之反應活性特微。此
+病無腦垂腺或臀髓質部病變，而於血液中可測出足量的留水素。渴與多
+尿是本病最明的臨床症狀。尿液之比重也有持續性過低現象。
+判讀
+Interpretation
+PCV、血清總蛋白質量及白蛋白量升高表示有脱水症，於脱水時有尿
+比重降低可知尿濃縮能力障碳。BUN及血清肌酸酐值均正常表示臀過滤功
+能仍正常。尿不見有蛋白質、尿圆柱及白血球等表示无活動性肾炎。禁
+水再加上投予留水素仍不能使尿比重上升表示其小管的病變。
+類症别
+Differential Diagnosis
+慢性肾炎一一BUN及血清肌酸酐值均上升，抑制性血。
+肝炎一一SGPT丶血清胆紅素及精胺酸酶值均升高。
+糖尿病一一血糖升高，尿比重高；糖尿。
+心理性渴（Psychogenicpolydipsia）一
+禁水後尿比重郎升高。
+86
+dehydration脱水
+polyuria多尿
+polydipsia褐
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS.
+BUN
+WBC
+PH
+creatinine
+band
+specificgravity
+glucose
+seg
+albumin
+direct bilirubin
+lymph
+glucose
+total bilirubin
+ketones
+cholesterol
+eosino
+occult blood
+Ca
+basc
+bilirubin
+P
+RBC
+WBC
+Na
+MCV
+RBC
+K
+nucleated RBC
+epithelial cells
+HCO3
+platelets
+casts
+CI
+reticulocytes
+crystals
+SGPT
+bacteria
+arginase
+SGOT
+alkphosphatase
+SPECIAL TESTS
+CPK
+amylase
+lipase
+albumin
+·antidiuretic hormone administration—increased urine
+globulin
+concentration
+fibrinogen
+一禁水試驗一不见有尿濃縮現象。
+投予留水素試驗一可見尿有濃縮。
+垂腺性尿崩症
+pituitary-dependent
+diabetes insipidus
+因腦垂腺後葉分泌之留水素缺乏而導致多尿與渴。可能是垂腺
+或垂體或下视互葉外有病赞或瘤時會發生此病。
+判讀
+Interpretation
+血液化學查通常反映出有脱水现象。血清蛋白質、白蛋白及PCV特
+别升高。禁水也不會减少排尿量或有较的尿出現，而其尿比重很少有超
+遇1.010的·若投予留水素後會减少飲水量且尿比重會上升表示功能
+正常。
+類症别
+Differential Diagnosis
+慢性間質性臀炎一一BUN及血清肌酸酐值均上升；抑制性血。
+肝炎一一SGPT、血清精胺酸酶及胆紅素都升高。
+糖尿病一一血糖值高，糖尿；尿比重高。
+因性尿崩症一一投予留水素後不見有尿比重升高現象。
+心理性渴一一投予留水素或禁水後可见尿比重升高。
+88
+dehydration脱水
+polyuria多尿
+weight loss
+ketonuria酮尿
+體重减輕
+glycosuria糖尿
+呼氣有
+polydipsia渴
+polyphagia嗜食
+BLOOD
+BLOOD
+URINALYSIS
+CELLS
+CHEMISTRY
+WBC
+pH
+BUN
+band
+specific gravity
+creatinine
+albumin
+glucose
+glucose
+directbilirubin
+lymph
+ketones
+totalbilirubin
+occult blood
+cholesterol
+baso
+bilirubin
+Ca
+WBC
+P
+RBC
+MCV
+RBC
+Na
+nucleated RBC
+epithelial cells
+K
+platelets
+casts
+HCO3
+crystals
+reticulocytes
+C
+bacteria
+SGPT
+SGOT
+alkphosphatase
+SPECIALTESTS
+CPK
+amylase
+lipase
+glucose tolerance—prolonged elevation of blood glucose level
+globulir
+(一)葡萄糖耐性試驗一血糖升高的時間延長。
+糖尿病
+diabetes mellitus
+糖尿病乃因血中胰島素濃度降低或胰島素對碳水化合物、蛋白質、脂
+防等的代谢功能常所致。其原因有胰之蘭氏小島細胞受损、抗胰島素
+使胰島素不活性化及其他種激素的常分泌導致的胰島素活性受干摄
+期間干援尿的結果），如有上远情形，则應改用片劑法（Clinitest
+tablets）o
+判讀
+Interpretation
+在某些情形下也會有暂時性的高血糖症，但在糖尿病则以其持續性高
+血糖症特微。若做葡萄糖耐性試驗，糖尿病病例的第1小時之血糖值會
+超過200mg/de，然後其血糖值會慢慢的降低，脂肪的利用加上碳水化合
+物代谢的减少會導致酮血症及酮尿的發生。
+類症别
+Differential Diagnosis
+臀衰竭一一血糖值正常，尿比重低、血清肌酸开值升高。
+高臀上腺皮質功能症一一血清蛋白質量及球蛋白量均升高，曹時性
+高血糖症，·尿比重低。
+尿崩症一一尿比重低，無高血糖症。
+吸收不良症候群（Malabsorption syndrome）一一無高血糖症，亦無
+酮血或酮尿症。
+06
+dermatitis皮炎
+fever發烧
+pneumonia
+diarrhea下痢
+肺炎
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+6
+P
+BUN
+WBC
+PH
+creatinine
+band
+specific gravity
+glucose
+seg
+direct bilirubin
+lymph
+total bilirubin
+mono
+ketones
+cholesterol
+eosino
+occultblood
+bilirubin
+Ca
+baso
+WBC
+PL
+RBC
+MCV
+RBC
+Na
+nucleated RBC
+epithelial cells
+platelets
+casts
+HCO
+reticulocytes
+crystals
+SGPT
+arginase
+SGOT
+alkphosphatase
+SPECIAL TESTS
+CPK
+amylase
+lipase
+fluorescent antibody—positive in conjunctival, oral and urogenital
+epithelia
+globulin
+（光抗體試驗一由結膜、口腔、泌尿生殖道等處之
+上皮可看到包涵體。
+犬瘟熱
+canine distemper
+犬瘟熱會侵犯許多器官而造成各種症状·在初發性病毒血症後可能
+發間質性及支氣管性肺炎，腸炎及腦炎等。本病在發病過程中无任何
+典型而可以診的检驗結果模式。
+判讀
+Interpretation
+血清蛋白及白蛋白可因脱水而升高、中福神經系統的病變偶而可導
+常會有因細菌感染所致的白血球增多症。因肺功能受損會有呼吸性酸中毒興
+血清中重碳酸量之降低。可由結膜、口腔、泌尿生殖系統等处之上皮做
+蛋光抗體試驗時可能看到包涵體。
+類症别
+Differential Diagnosis
+細菌性肺炎一一血清中CPK值正常，無犬瘟熱包涵體。
+弓鑫症一一弓力價為陽性。
+肝或肺之腺病毒感染一一SGPT及血清精氨酸酶均升高，不只有大瘟
+熟包涵體。
+92
+vomiting 吐
+anorexia食
+diarrhea
+下痢
+abdominal pain
+腹部疼痛
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+WBC
+PH
+BUN
+specific gravity
+creatinine
+band
+albumin
+glucose
+seg
+glucose
+lymph
+ketones
+total bilirubin
+mono
+occult blood
+cholesterol
+eosino
+bilirubin
+baso
+Ca
+WBC
+RBC
+MCV
+RBC
+Na
+nucleated RBC
+platelets
+casts
+HCO3
+reticulocytes
+crystals
+CI
+SGPT
+arginase
+SGOT
+alkphosphatase
+SPECIAL TESTS
+CPK
+amylase
+globulir
+otalproteir
+十二指腸炎
+duodenitis
+十二指腸炎的症狀可由輕微的不舒服到重的幅吐及下等。本病看
+起來可能會像是很重的胰、肝或等的疾病，因此必须由這些重到足
+以致命的情况到輕微的只是道擎的情况别出來。如果攝取了腐败的食
+粘膜改樊對細菌的通透性及正常酵素分泌等、粘膜細胞受刺激後會大量產
+生超過後段腸道吸收能力的液體及蛋白質，因此會有下而發生蛋白及
+水分的流失。
+判讀
+Interpretation
+幅吐、下造成水份流失再加上食等造成脱水症，這可由血清蛋
+白質量及白蛋白量以及紅血球數均升高看出。十二指腸發炎的通透性增
+加可以導致血清粉酶及脂肪酶超過正常值的1%倍。惟其增加程度不會
+如急性胰炎時之可逹2倍以上，SGPT、SGOT及血清精氨酸酶等的升
+高指出肝有經肝門服循環而來的血液散性細菌感染所造成的死。
+類症别
+Differential Diagnosis
+急性胰炎一一白血球數增加，血清粉酶及脂肪酶有正常值2倍或
+以上的升高。
+腸内物一一以銀乳刺做放射線攝影查時可見之通過量受阻。
+94
+emaciation消瘦
+nasal discharge
+hemorrhage
+鼻腔排出物
+fever
+出血發烧
+ocular discharge
+眼有排出物
+BLOOD
+BLOOD
+URINALYSIS
+CELLS
+CHEMISTRY
+WBC
+PH
+BUN
+specific gravity
+creatinine
+band
+albumir
+glucose
+bas
+lymph
+glucose
+direct bilirubin
+ketones
+total bilirubin
+mono
+cholesterol
+eosino
+occultblood
+baso
+bilirubin
+Ca
+RBC
+WBC
+RBC
+MCV
+Na
+nucleated RBC
+epithelial cells
+K
+platelets
+casts
+HCO
+reticulocyte
+crystals
+CI
+SGPT
+arginase
+SGOT
+alk phosphatase
+SPECIAL TESTS
+CPK
+amylase
+·Giemsa stain of WBC—intracytoplasmic inclusion bodies
+lipase
+albumin
+reticulocyte count-normal
+globulin
+·bone marrow smear-hypoplasia of all elements
+total protein
+·fluorescent antibody—positive for E canis
+fibrinogen
+Coombs-negative
+sedimentationrate-increased
+tracheal wash—-inclusion bodies in pulmonary cells
+白血球之吉姆查染色片一可见有細胞質内包涵體。
+網球數一正常。
+骨髓抹片一全部造血系之低再生性。
+四光抗體一大艾利希體阳性。
+国庫姆試驗一陰性。
+六紅血球沈降速度一增加。
+七)氣管洗液查一肺細胞内有包涵體。
+艾利希體病
+（熱带犬泛细胞减少症）
+ehrlichiosis
+(tropical canine pancytopenia)
+這種立克滋氏體疾病乃由犬艾利希體（Ehrlichia canis）所引起，由
+一種棕色犬壁（Rhipicephalus sanguineous）媒介。艾利希體病與焦
+病以及血巴东原病等可能同時發生。血小板破的增加及血小板產生的
+减少會造成血小板减少症與出血。
+判
+讀
+Interpretation
+發熱、食、下等造成脱水症所以血清蛋白質量及白蛋白量均升
+數目减少等可初步假設其對失血性血可能有再生不良及不反應現象，此
+時做骨髓抹片的細胞學查则更能證實。球菌狀的艾利希體可在單核球之
+細胞質内看到。淋巴球受破及骨髓受抑制等均導致泛細胞减少症。
+類症别
+Differential Diagnosis
+焦病一一光抗體試阳性，在紅血球可見到焦，MCV值升高
+，網織球及有核紅血球數目都增加；血清胆紅素亦升高。
+中毒性骨髓抑制一一白血球内無包涵體，無對犬艾利希體的抗體。
+創傷一一白血球及網織球數目均升高，MCV升高，SGPT、SGOT及
+血清精胺酸酶都升高。
+96
+→lethargy昏睡
+weight loss體重减輕
+anorexia食
+fever發烧
+weakness衰蜀
+heartmurmur
+心雜音
+BLOOD
+BLOOD
+URINALYSIS
+CELLS
+CHEMISTRY
+WBC
+pH
+BUN
+specific gravity
+creatinine
+band
+albumin
+glucose
+seg
+lymph
+direct bilirubin
+total bilirubin
+cholesterot
+bilirubi
+WBC
+RBC
+P
+MCV
+RBC
+Na
+nucleated RBC
+K
+platelets
+HCO3
+CI
+SGPT
+arginase
+SGOT
+alkphosphatase
+SPECIAL TESTS
+CPK
+amylase
+·electrocardiogram--ventricular premature beats
+lipase
+albumin
+blood cuiture—positive
+globulin
+H心電圖一心室的過早收縮。
+total protein
+fibrinogen
+)血液培養一陽性。
+细菌性心内膜炎
+bacterial endocarditis
+細菌性心内膜炎時可以影響到心内膜、心肌、僧帽瓣及主動瓣。此
+病通常是發於身體其他部份例如口腔、皮膚或前立腺等處的細菌感染所
+造成。由於心的病變有助於細菌進入血流，其败血性栓通常可以波及
+收縮。
+判讀
+Interpretation
+BUN值的升高，及尿中有白蛋白、血液、中性球、和尿圆柱示臀
+已有活動性栓塞性肾炎而其功能受損。SGOT及CPK值的升高表示供應
+後肢的血管已受到栓塞性阻塞而有肌肉死。由血清球蛋白量的增加表示
+體内正進行慢性免疫反應·中性球增多症及輕度核左轉現象示此乃炎
+症性疾病。
+類症别
+Differential Diagnosis
+SGOT及血清精胺酸酶
+僧帽瓣功能不足一一收縮全期雜音；SGPT、S
+值均升高。
+心絲歸症一一循環血中有心之仔；嗜性球增多症，及嗜酸性
+球增多症。
+心肌病一一正常白血球值及血清球蛋白值；SGPT、SGOT及血清精
+胺酸酶值均升高。
+98
+depression抑郁
+dehydration脱水
+vomiting
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+BUN
+WBC
+pH
+creatinine
+specific gravity
+glucose
+direct bilirubin
+lympr
+total bilirubin
+mono
+cholesterol
+occultblood
+Ca
+bilirubir
+RBC
+WBC
+Na
+MCV
+RBC
+K
+nucleated RBC
+epithelialcells
+HCO3
+platelets
+C
+crystals
+SGPT
+arginase
+SGOT
+alkphosphatase
+SPECIAL TESTS
+CPK
+amylase
+lipase
+urinalysis—oxalate crystals in urine
+albumin
+()尿一尿中有草酸鹽結晶。
+uiinqoib
+total protein
+次乙基乙二醇中毒
+（防凍劑中毒）
+ethylene glycol poisoning
+(antifreeze poisoning)
+食含有次乙基乙二醇的防凍劑會造成胃的急性刺激，幅吐及中福神
+溶性草酸钙結晶，而造成小管阻塞。終因衰竭、心衰竭及肺水而死
+亡
+判讀
+Interpretation
+BUN值及肌酸酐值的上升，以及尿中有尿圆柱及蛋白質示此為
+因性尿毒症。由PCV值，血中總蛋白量及白蛋白量的上升示其处於脱水
+低乃因與草酸結合所致。衰退的臀排除功能使血磷量上升而功能的减
+類症别
+Differential Diagnosis
+急性胰炎一—
+正常BUN值；血中脂肪酸及粉酶增加。
+肝病一一SGPT值、精胺酸酶及胆紅素值均上升。
+原發性胃腸炎一一BUN、血清中肌酸酐及钙均正常。
+100
+weight loss體重减輕
+dehydration脱水
+polyuria多尿
+polydipsia 烦渴
+anorexia食
+bone pain
+骨痛
+BLOOD
+BLOOD
+URINALYSIS
+CELLS
+MO7
+91
+CHEMISTRY
+WBC
+PH
+BUN
+band
+creatinine
+glucose
+seg
+lymph
+direct bilirubin
+mono
+ketones
+total bilirubin
+occult blood
+cholesterol
+eosino
+bilirubin
+WBC
+RBC
+MCV
+RBC
+Na
+nucleated RBC
+epithelial cells
+platelets
+casts
+HCO3
+crystals
+CI
+SGPT
+arginase
+SGOT
+alkphosphatase
+SPECIAL TESTS
+CPK
+amylase
+lipase
+radiography--occasional osteomalacia
+albumin
+globulin
+total protein
+glucose tolerance-normal
+fibrinoger
+一)放射線查一偶而可看到骨软化症。
+尿電泳分析一高球蛋白及白蛋白值。
+尿色層分析一高胺基酸值。
+四葡萄糖耐性試驗一正常。
+范可尼症候群
+Fanconi syndrome
+所范可尼症候群乃因缺乏數種近端小管酶，引起葡萄糖、磷酸
+·重碳酸及胺基酸的運送及重吸收受阻所致。由尿中大量流失上述物質
+·會造成血液化學的案以及骨骼求衡血钙及磷不足而發生的骨软化
+症。
+判
+Interpretation
+血清總蛋白·白蛋白、球蛋白等的降低乃由於臀對白蛋白及球蛋白
+之排清作用增加所致。常规尿分析中可看到白蛋白尿（但无球蛋白尿）。
+血中重碳酸、钙、磷、卸及葡萄糖值的降低乃因臀的排清作用增加所致
+·由尿流失钙及磷可能造成骨软化症。有糖尿但血糖值未升高示此乃臀
+小管有缺陷。分别對尿做蛋白質及胺基酸的電泳及色層分析可知其經由肾
+流失的程度。
+類症别
+Differential Diagnosis
+糖尿病一一血糖值升高。
+臀衰竭一一BUN及血清肌酸酐值均上升。
+近端小管性酸中毒一一无糖尿或胺基酸尿出现。
+遠端臀小管性酸中毒一一无糖尿或胺基酸；亦无尿圆柱出現，尿中有
+白血球及紅血球及結石。
+102
+weight loss體重减輕
+anorexia食
+diarrhea下痢
+fever發燒
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+BUN
+WBC
+pH
+creatinine
+band
+specific gravity
+glucose
+bas
+albumin
+directbilirubin
+lymph
+glucose
+total bilirubin
+mono
+ketones
+cholesterol
+eosino
+ccultblooc
+baso
+oiirubin
+RBC
+WBC
+Na
+MCV
+RBC
+K
+nucleated RBC
+epithelialcell
+HCO
+platelets
+CI
+SGPT
+arginase
+SGOT
+alkphosphatase
+SPECIAL TESTS
+CPK
+amylase
+lipase
+·radiography-excess gas in intestines, intestinal wall thickening
+m
+globulir
+·intestinal biopsy—eosinophilic infiltration of all layers
+total protein
+fecal trypsin—positive
+fibrinoger
+·fecal examination—possibly no parasites
+一)放射線照影一吞食劑及氣腹照像可看到小腸有
+過多氣體及腸壁增厚之影像。
+(一腸道生一各層皆有嗜酸性球的浸潤。
+三粪便胰蛋白酶一阳性。
+四粪一可能无寄生。
+嗜酸性胃肠炎
+eosinophilic gastroenteritis
+此慢性腸病會造成下、恶體質及偶爾會有幅吐。其特微期性的
+嗜酸性球增多症及整个腸道各段均有啫酸性球的浸潤，可能行變區域
+炯腸炎。
+讀
+判
+Interpretation
+血中蛋白質及白蛋白量均降低乃蛋白質流失性腸病之典型病微。血清
+球蛋白量的上升反映出其免疫系統受到刺激。从各项血液化學分析值可知
+骨、肝及胰之功能均仍正常。嗜酸性球增多症乃是過敏反應的特微
+。如粪便中胰蛋白酶等的特殊測表示仍有足的消化酵素量。
+類症别
+Differential Diagnosis
+由粪可查到體或卵。
+寄生歸性肠炎一
+血钙及白蛋白質均降低；无啫酸性球增多症。
+淋巴管廣张症
+嗜中性球增多症，无嗜酸性球增多症。
+细菌性腸炎
+肝病一一SGPT，血清中精胺酸酶及胆紅素值均升高。
+胰炎一一血清中粉酶及脂肪酶值均升高。
+104
+bloody diarrhea
+血痢
+bloody vomitus
+血樣匾吐物
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+WBC
+BUN
+pH
+creatinine
+'band
+specific gravity
+glucose
+albumin
+direct bilirubin
+Iymph
+glucose
+total bilirubin
+ketones
+cholesterol
+eosino
+baso
+bilirubin.
+Ca
+RBC
+WBC
+Na
+MCV
+RBC
+nucleated RBC
+epithelial cells
+K
+HCO3
+platelets
+casts
+crystals
+CI
+SGPT
+bacteria
+arginase
+SGOT
+alkphosphatase
+SPECIAL TESTS
+CPK
+amylase
+lipase
+albumin
+globulir
+total protein
+出血性胃腸炎
+hemorrhagic gastroenteritis
+性休克·膠樣下及泡沫樣幅吐爲其特微。由於此病是一種血液濃縮性疾
+病（PCV可高達60%）。而无大量的電解質及液體流失，因此外觀上
+不會有脱水現象。因為内毒素的直接對小動脉的作用使得内血管张
+合液體及蛋白質進入周之粗織中。或是由於組織胺使肝血管收縮而造
+成血液於脾中。
+判讀
+Interpretation
+體之體外流失，又其血清蛋白質、白蛋白、及電解質通常仍處於正常園
+。嗜中性球增多症及核左轉现象對感染及毒血症之反應。
+類症别
+Differential Diagnosis
+胃有物一一除非重脱水，否则不會有血液濃縮現象。
+慢性間炎一一低尿比重；BUN值升高。
+急性胰腻炎一一血清中粉酶及脂肪酶均上升。
+小病毒感染一一白血球總數降低；小病毒抗體為阳性。
+106
+fever
+發烧
+bloodydiarrhea血痢
+vomiting幅吐
+cardiomegaly
+心大
+BLOOD
+BLOOD
+CHEMISTRY
+CELLS
+URINALYSIS
+MOT
+BUN
+WBC
+pH
+creatinine
+specific gravity
+bas
+albumin
+direct bilirubin
+lymph
+total bilirubin
+mono
+ketones
+cholesterol
+eosino
+occult blood
+Ca
+baso
+bilirubin
+RBC
+WBC
+Na
+MCV
+RBC
+K
+nucleatedRBC
+epithelialcells
+HCO3
+platelets
+casts
+CI
+reticulocytes
+SGPT
+arginase
+SGOT
+alkphosphatase
+SPECIAL TESTS
+CPK
+amylase
+lipase
+hemaglutination—positive using fecal suspension and swine
+albumin
+RBC
+globulin
+hemagglutination-inhibition-positive using serum and swine RBC
+total protein
+fluorescent antibody—positive using intestinal compression smear
+fibrinogen
+orserum
+H)血球凝集試驗一用粪便乐浮液奥猪之紅血球其秸果為阳
+性。
+血球凝集阻止試驗一使用血清及猪紅血球結果為阳性。
+发光抗體試驗一以腸粘膜壓捺抹片或血清做的結果為阳
+性。
+微小病毒性胃腸炎
+parvoviral gastroenteritis
+此甚急性或急性之病毒性感染症，往往造成一以下之狗死亡或對较
+大年之狗發生重之胃腸炎。病原性微小病毒侵迅速分裂中之小腸·
+淋巴粗織、骨髓等之細胞，且經由與污染粪便的直接或間接接觸而傅播
+。其潘伏期約7至14天·接著便發生初發症狀，包括：幅吐、下脱
+水及抑郁。受到感染之仔犬可能發生心肌炎，之有心大症，最終因
+心衰竭而死亡。
+判
+Interpretation
+由重幅吐或/及下痢造成之脱水將使BUN值、血清白蛋白、蛋白
+量及尿比重均上升。但是，腸道病燮亦可能使血清白蛋白及總蛋白流失而
+於是有脱水症之状熊下，往往造成仍於正常之假像。經由下流失重
+碳酸根離子可造成酸中毒及低血症。於幅吐而无下之病犬可能會因盒
+由吐变失氢離子而造成中毒症。由血清中CPK值增加可反映出心病
+嬰·根據病毒驗或其抗體之检驗等特殊試驗可確此疾病·由於不同時
+期病毒對骨髓抑制及細胞毒性之差，導致白血球總數可以是正常或示
+過少症。
+類症别
+Differential Diagnosis
+SGPT及血清精胺酸酶均升高；出血時間延长；有
+犬傅染性肝炎
+肝細胞核内包涵體。
+钩端螺旋體症一一白血球增多症；血；钩端螺旋體之抗體價高。
+胰炎一一白血球增多症；濃血症。
+108
+polyuria多尿
+polydipsia渴
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+BUN
+WBC
+creatinine
+band
+glucose
+seg
+direct bilirubin
+Iymph
+total bilirubin
+cholesterol
+Ca
+baso
+bilirubin
+P
+RBC
+WBC
+MCV
+RBC
+Na
+nucleated RBC
+epithelial cells
+HCO3
+platelets
+casts
+CI
+reticulocytes
+SGPT
+arginase
+SGOT
+alkphosphatase
+CPK
+SPECIAL TESTS
+amylase
+lipase
+renal biopsy-thickened glomerular basement membrane best
+albumin
+seen with fluorescent antibody technics or electronmicroscopy
+globulin
+total protein
+臀生一以光抗體試驗或電子微鏡下可看到
+fibrinogen
+肾小體基底膜增加現象。
+臀小體性臀炎
+glomerulonephritis
+臀小體性臀炎常饼發於臀以外之器所發生之原發性炎症。例如：
+紅斑性狼、子宫蓄、心等感染·由於激發補體反應系統使所形成
+的抗體變免疫復合體、造成臀局部性發炎及臀小體之损傷。
+判讀
+Interpretation
+BUN值、肌酸酐及血磷值均上升，而没有脱水或濃血症可知有臀因性
+氮血症。因大量的血清總蛋白及白蛋白由損傷的流失而其量降低。尿
+酸中毒。此病常有血中胆固醇的增加，但其原因尚未明瞭·血清球蛋白量
+的上升示免疫系受到刺激。
+類症别
+Differential Diagnosis
+糖尿病一一血糖值上升；糖尿。
+慢性間質性臀炎一一无蛋白尿出現；血清蛋白值正常，尿比重低。
+粉樣變性一一由臀生，可見類粉蛋白。
+蛋白質流失性腸道病一一尿中没有白蛋白。
+慢性肝病一一BUN值低；BSP滞留率增加。
+110
+cough咳嗽
+dyspnea
+呼吸困難
+decreased exercise tolerance
+heart murmur
+運動耐力降低、心雜音
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+BUN
+WBC
+PH
+creatinine
+band
+specific gravity
+glucose
+seg
+albumin
+direct bilirubin
+lymph
+glucose
+total bilirubin
+mono
+ketones
+cholesterol
+occultblood
+eosino
+ca
+baso
+bilirubin
+P
+RBC
+WBC
+Na
+MCV
+RBC
+nucleated RBC
+K
+epithelial cells
+HCO3
+platelets
+casts
+CI
+reticulocytes
+crystals
+SGPT
+arginase
+SGOT
+alkphosphatase
+SPECIAL TESTS
+CPK
+amylase
+lipase
+·radiography—enlarged heart,liver
+albumin
+electrocardiography—cardiomegaly pattern ±arrhythmia
+globulin
+total protein
+放射線攝影一心廣大，肝睡大。
+fibrinogen
+心電圖一心大型式土心律不整。
+發於价帽瓣病的充血性心衰竭
+congestive heart failure secondary
+to mitral valve disease
+僧帽瓣病是狗的右心衰竭最常見之原因。然不需要以實驗室查來
+指標。譬如：洋地黄毒素（Digitoxin）可用來治療臀功能已有不足
+能已有不足病犬不宜使用。
+判
+Interpretation
+臀功能不全造成BUN值及血肌酸酐值的上升，及尿比重的降低。若是
+臀前氮血症，雌然BUN有上升，但其正常的或高的尿比重可反映出臀仍
+然有濃縮尿液之能力。上升的 SGPT及 SGOT 和血清精胺酸酶值示郁血
+病犬有網織球增多症及有核紅血球的增多但无血現象。可以怀疑它可能
+有典型的低氧狀熊或抑制性血。血清白蛋白量降低通常反映出供發了管
+養不良。
+類症别
+Differential Diagnosis
+細菌性心内膜炎一一有白血球增多症；血尿；尿。
+心症一一有仔血症；嗜酸性球增多症；啫性球增多症及血
+中球蛋白量升高。
+慢性肝炎一一血中球蛋白量及胆紅素值均升高。
+肺炎一一有白血球增多症及發燒。
+1-12
+weight loss 體重减輕
+ascites腹水
+fever發烧
+cyanosis紫瘢
+cough咳嗽
+decreased exercise tolerance
+运動耐力降低
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+WBC
+pH
+BUN
+specific gravity
+creatinine
+band
+albumin
+glucose
+seg
+glucose
+direct bilirubin
+lymph
+ketones
+total bilirubin
+mono
+cholesterol
+eosino
+bilirubin
+Ca
+WBC
+P
+RBC
+MCV
+RBC
+Na
+nucleated RBC
+epithelial cells
+K
+platelets
+casts
+HCO3
+crystals
+CI
+reticulocytes
+bacteria
+SGPT
+SGOT
+SPECIAL TESTS
+CPK
+amylase
+lipase
+·heartworm—-usually positive for microfilariae
+albumin
+·radiography—cardiac enlargement, enlarged pulmonary artery
+globulin
+segment
+total protein
+indirect fluorescent antibodypositive for occult dirofilariasis
+fibrinogen
+一心一仔驗常為阳性。
+放射線攝影一心廣大，肺動豚區廣张。
+間接光抗體反應一阳性。
+心絲鑫症
+heartworm disease
+(dirofilariasis)
+然心症之原始病赞乃由生活於心及大血管之成所致，但許
+成肝郁血，减低臀灌流量及臀小體性肾炎。
+判
+讀
+Interpretation
+心出量的降低可造成肝郁血，之造成血清性磷酸酶的上升及
+維蛋白元的增多。SGPT、SGOT及血精胺酸酶值的上升示饼發著肝壤
+死。心出量的降低亦减低臀的灌流量，而造成肾前性氮血症。此可由
+BUN值及血清肌酸均上升得知。對血中仔所引發的免疫反應，可能
+造成臀小體炎，因此發生白蛋白尿而使血中白蛋白量降低。
+中性球增多症示有二次性感染，淋巴球增多症及嗜酸性球增多症
+示由外來物體（如成、成分泌物、仔）引發了免疫反應。對狗而
+制性餐血。其原因可能紅血球之破碎，命减短，以及紅血球生成作用
+降低等。對某些個體而言，由於臀灌流量减低促使紅血球生成素之先
+物的释放，而造成多血症。
+類症别
+Differential Diagnosis
+僧帽瓣疾病一一无啫酸性球及啫性球之增多症；循環血液中可能无
+仔出現。
+慢性間質性臀炎一一尿比重低；无白蛋白尿出現；循環血液中可能无
+仔出現。
+胆管性肝炎一一血中胆紅素增多；循環血液中可能無仔出現。
+114
+weakness衰弱
+fever發燒
+depression抑警
+splenomegaly
+脾睡大
+BLOOD
+BLOOD
+URINALYSIS
+CELLS
+CHEMISTRY
+BUN
+WBC
+pH
+band
+pecific gravity
+creatinine
+glucose
+seg
+direct bilirubin
+lymph
+total bilirubin
+mono
+cholesterol
+eosino
+ccult blo
+Ca
+baso
+P
+RBC
+WBC
+Na
+MCV
+RBC
+nucleated RBC
+epithelia
+K
+HCO3
+platelets
+casts
+CI
+reticulocytes
+crystals
+SGPT
+arginase
+SGOT
+alkphosphatase
+SPECIAL TESTS
+CPK
+amylase
+lipase
+capillary blood smear-—Hemobartonella felis on RBC stained with
+albumin
+Wright'sorGiemsastain
+globulin
+FeLVoften positive
+total protein
+Coombs-positive
+fibrincgen
+·bonemarrowsmear-hyperplasia
+一微血管血液抹片一以賴托氏或任查氏染色可以在紅
+血球上見到H.felis。
+()FeLV一常是阳性反。
+(三庫姆氏試驗一陽性。
+四骨髓抹片一過多增生。
+血巴东體病
+（猫传染性血）
+hemobartonellosis
+(feline infectious anemia)
+轉受到抑制者，譬如感染到猫白血病病毒者便是·但是，必须和海因滋體
+性（Heinz-body），自家免疫性及失血性等血原因别·此病原體可由
+微血管血液，加以賴托氏或任查氏染色後見到。
+判讀
+Interpretation
+急性溶血危機可造成迫性高血糖症及血清胆紅素量提高，但是，
+血清直接反應型胆紅素值则不太受到改變。此時的啫中性球增多症是因
+骨髓受到刺激之反應，不可與一般之炎症反應混淆。活性增强的骨髓反
+尚會造成MCV，有核紅血球、及網織球之增加。由於抗猫血巴东體的抗體
+會覆盖於紅血球表面，所以库姆氏（Coomb’s）試驗常阳性反應·当猫
+感染到FeLV時，由於免疫機轉受抑制，病猫可能發生傅染性血症或其
+他疾病。
+類症别
+Differential Diagnosis
+FeLV感染性血一一MCV值降低；網織球數目减少，少量有核紅血
+球；通常有白血球减少症。
+自體免疫性溶血性餐血
+紅血球上没有H.felis。
+肝病一一SGPT、SGOT，血清中精胺酸酶及直接反型胆紅素值均
+增加。
+海因滋體性血一一库姆氏反應陰性，紅血球有海因滋體。
+116
+weightloss體重减輕
+polyuria多尿
+anorexia食
+vomiting 吐
+ascites腹水
+BLOOD
+BLOOD
+URINALYSIS
+CELLS
+CHEMISTRY
+WBC
+BUN
+pH
+creatinine
+band
+specific gravity
+glucose
+seg
+albumin
+direct bilirubin
+lymph
+glucose
+total bilirubin
+mono
+ketones
+cholesterol
+eosino
+occult blood
+bilirubin
+Ca
+RBC
+WBC
+RBC
+Na
+MCV
+nucleated RBC
+epithelial cells
+HCO3
+platelets
+casis
+reticulocytes
+crystals
+CI
+SGPT
+arginase
+SGOT
+alk phosphatase
+SPECIAL TESTS
+CPK
+amylase
+lipase
+BSPclearance-increased retention
+albumin
+ammonia tolerance-decreased
+prothrombin time—increased
+total protein
+H)BSP清除率一滞留量增加。
+fibrinogen
+胺基酸耐受試驗一降低。
+凝血酶元時間一延長。
+慢性活動性肝炎
+chronic active hepatitis
+慢性活動性肝炎是由多種原因，包括病毒感染，藥物反應或免疫反應
+所引起的疾病。随著病程發展，肝細胞被結組織替代的數目随之增加，
+因而减少了肝功能區域。
+判讀
+Interpretation
+SGPT、SGOT及血清精胺酸酶的上升，得知有活動性肝細胞的
+死。由上升的胆紅素值及性磷酸，得知有部份的細胆管發生阻塞。但
+的减低可知具有功能的肝胞數目已减少。血中蛋白元的减少，使得
+核紅血球以及網織球的增加可知骨髓正处於活時期。血清白蛋白量的降
+低可能造成腹水·此外上升的球蛋白量可知免疫機轉有受到激發，以及
+肝藏造之其他球蛋白也增加。
+類症别
+Differential Diagnosis
+臀衰竭一一BUN及肌酸酐均升高。
+蛋白質流失性腸病一一SGPT、SGOT·精胺酸酶，球蛋白皆正常
+心衰竭一一由於肾灌流率降低，使得BUN值上升。
+118
+conjunctivitis秸膜炎
+虹膜炎
+iritis
+fever發燒
+polydipsia
+anorexia
+渴、食
+petechiae
+瘀斑
+enlarged tonsils
+扁桃腺大
+BEJOD
+BLOOD
+CHEMISTRY
+URINALYSIS
+0
+CELLS
+WO
+BUN
+WBC
+creatinine
+PH
+band
+specific gravity
+giucose
+seg
+albumin
+direct bilirubin
+lymph
+glucose
+total bilirubin
+mono
+cholesterol
+ketones
+eosino
+Ca
+baso
+bilirubin
+P
+RBC
+WBC
+Na
+MCV
+RBC
+K
+nucleated RBC
+epithelial cells
+HCO
+platelets
+casts
+CI
+reticulocytes
+crystals
+SGPT
+cteria
+arginase
+SGOT
+alkphosphatase
+CPK
+SPECIAL TESTS
+amylase
+lipase
+·bleeding time—increased
+albumin
+liver biopsy-intranuclearinclusion bodies
+globulin
+·urinary urobilinogen—elevated level
+total protein
+H出血時間一延長。
+fibrinogen
+一肝生一有核内包涵體。
+尿胆素元一增加。
+犬傅染性肝炎
+infectious canine hepatitis
+此病常见於年輕而未接受预防法射者，但少见於已經接受预防注射者
+。病原體（腺病毒）可使肝細胞死及血管内皮細胞損傷，在肝細胞及
+内皮細胞產生核内包涵體。
+讀
+判
+Interpretation
+肝細胞的死可使SGPT、SGOT，及血清精胺酸酶值均升高·由於
+肝合成蛋白質功能受阻，使得白蛋白及維蛋白元值减低，進而延長出血
+時間。若也受到侵职，则會有小體性炎而尿中就有白蛋白及尿
+柱體出現。另外，由於血管系受破，不但各個器官有出血现象，也會
+造成血尿·
+類症别
+Differential Diagnosis
+犬瘟熱一一SGPT、SGOT及血清胺酸酶值均正常；光抗體反應陽
+性。
+中毒性肝炎一一中等的白血球减少症；比较常見於年長犬。
+钩端螺旋體症一一白血球增多症；BUN值及血清肌酸酐值均上升。
+120
+weightloss體重减輕
+polyuria多尿
+diarrhea下
+anorexia
+食
+depression抑蕾
+ataxia
+運動失调
+convulsions抽搐
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+BUN
+WBC
+DH
+band
+creatinine
+specific gravity
+glucose
+seg
+albumin
+direct bilirubin
+lymph
+glucose
+total bilirubin
+Tono
+eosino
+occult blood
+cholesterol
+Ca
+baso
+bilirubin
+RBC
+P
+WBC
+Na
+MCV
+RBC
+nucleated RBC
+K
+epithelial cells
+HCO3
+platelets
+casts
+crystals
+CI
+SGPT
+arginase
+SGOT
+alkphosphatase
+SPECIAL TESTS
+CPK
+amylase
+lipase
+serumammonia-increased level
+albumin
+BSP clearance-increasedretention
+globulin
+·radiography-smalliver size
+total protein
+·urinalysis—urate and ammonium biurate crystals
+fibrinogen
+(一)血氨量一增加。
+BSP清除率一滞留率增加。
+放射線一肝變小。
+四尿液分析一尿酸及重尿酸安結晶出现。
+肝因性腦病
+hepatoencephalopathy
+如肝門服分流，缺乏尿素循環必需酵素，肝硬化、瘤及中毒反應等
+重的肝病，可因未經代谢的毒素及代機轉的案，造成大的损傷。
+由於肝的解毒效應减低，即使進食後生的代谢產物（例如氨）亦可達
+到中毒濃度。
+判讀
+Interpretation
+由於氨未被代谢轉换成尿素，使得BUN值降低。SGPT、SGOT及
+留時間的延長可知胆汁流動已受阻，但通常不會達足以使血清中胆紅素
+增加之程度。
+肝造蛋白質的功能衰退，可造成血清蛋白質及白蛋白值的降低。
+此外，禁食2小時及進食後的血清氨值上升其特微。
+類症别
+Differential Diagnosis
+犬傅染性肝炎一一血清胆紅素值升高；白血球减少症。
+臀衰竭一
+一BUN及肌酸酐值均升高；尿比重降低。
+胰島瘤一一血糖值降低。
+癫一一血氨值正常；無肝壤死之據。
+原發性高血氨症一一正常BSP滞留時間；SGPT、SGOT，及血中精
+胺酸酶值皆正常。
+122
+depression抑郁
+weakness衰弱
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+D
+BUN
+WBC
+PH
+creatinine
+direct bilirubin
+total bilirubin
+cholesterol
+Ca
+ilirubi
+RBC
+WBC
+RBC
+ucleated RBC
+epithelialcells
+HCO3
+olatelets
+CI
+SGPT
+arginase
+SGOT
+alkphosphatase
+CPK
+SPECIAL TESTS
+amylase
+lipase
+· liver biopsy——neoplastic cells
+albumin
+globulin
+total protein
+肝生一有瘤細胞。
+rinogen
+葡萄糖耐受性試驗一正常。
+124
+emaciation消瘦
+fever
+發烧
+diarrhea下痢
+polydipsia渴
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+BUN
+WBC
+pH
+creatinine
+band
+specific gravity
+seg
+albumin
+direct bilirubin
+lymph
+glucose
+total bilirubin
+mono
+ketones
+cholesterol
+eosino
+Ca
+baso
+bilirubin
+RBC
+P
+WBC
+Na
+MCV
+RBC
+nucleated RBC
+epithelial cells
+K
+HCO3
+platelets
+casts
+.CI
+reticulocytes
+crystals
+SGPT
+arginase
+SGOT
+alkphosphatase
+SPECIAL TESTS
+CPK
+amylase
+lipase
+·complement-fixation-rising titer on tests run 2weeks apart
+albumin
+·mesenteric lymph node and liver biopsy——budding yeast
+globulin
+organisms
+total protein
+H)補體結合反應一由隔二调之血清可見到力價之上升
+腸繁膜淋巴结及肝生一出芽酵母状病原體。
+腸道性粗織胞菌症
+enteric histoplasmosis
+由於它无特症狀之故，在非疫區動物可能以诊断。腸膜淋巴結會
+有典型之大而可觸及，於肉眼观察時有類似睡瘤之構造。然而，細胞
+學及粗織病理检查時可检驗到莱膜粗織胞體（Histoplasmacapsueatum）。
+判讀
+Interpretation
+抑制型血及上升的免疫球蛋白值示比病属於慢性者。由SGPT
+SGOT及精胺酸酶的上升，得知肝細胞有壤死。血中胆紅素及性磷酸酶
+的增加反映出胆汁循環有受阻。而尿中尿胆素元的出現表示胆管仍是暢
+通的。由於血钙是和白蛋白結合的，故由於白蛋白質降低，當然血钙值也
+随之减少。而白蛋白值降低乃因蛋白質流失性腸病及免疫性臀小體性肾炎
+所致。白血球增多症，單核球增多症及嗜中性球增多症及核左轉現象示
+有重的慢性發炎。球蛋白值增加乃因慢性免疫反應及肝病所致。
+類症别
+Differential Diagnosis
+菌性腸炎一
+一SGPT、SGOT、精胺酸酶、性磷酸酶及胆紅素值
+皆正常。
+淋巴肉瘤一一淋巴結生可见恶性睡瘤細胞；分葉核及带狀核啫中性
+球值均正常。
+淋巴管张症一一血清球蛋白值低；SGPT、SGOT，血清精胺酸酶
+值；及白血球總數皆正常。
+胰外分泌功能不足一一粪中胰蛋白酶反應陰性；SGPT、SGOT
+血清精胺酸酶及血球總數皆属正常。
+126
+alopecia脱毛
+polyuria多尿
+polydipsia渴
+pendulous abdomen
+腹部下垂
+BLOOD
+BLOOD
+URINALYSIS
+CELLS
+CHEMISTRY
+WBC
+BUN
+PH
+band
+specificgravity
+creatinine
+glucose
+albumin
+seg
+lymph
+glucose
+direct bilirubin
+total bilirubin
+mono
+ketones
+eosino
+occult blood
+cholesterol
+bilirubin
+RBC
+WBC
+P
+MCV
+RBC
+Na
+nucleated RBC
+epithelial cells
+platelets
+HCO3
+casts
+reticulocytes
+crystals
+CI
+SGPT
+arginase
+SGOT
+alkphosphatase
+SPECIAL TESTS
+CPK
+amylase
+lipase
+·resting plasma cortisol—elevated plasma cortisol level
+albumin
+·ACTH-stimulated plasma cortisol-elevated plasma cortisol level
+globulin
+·glucose tolerance—prolonged elevation of blood glucose level
+total protein
+·dexamethasone suppression——less decrease of plasma cortisol
+fibrinogen
+level withpituitary lesions thanwith adrenal lesions
+（一)休息期血皮質酮一血可體松量高。
+（)ACTH刺激後的血可體松量一升高。
+葡萄糖耐受性試驗一延長高血糖的時間。
+四Dexamethasone 抑制試驗一對腦垂腺病因所致者比對
+肾上腺病因所致者其血中可體松量的抑制為少。
+血清中T一减少。
+高臀上腺皮質功能症
+（庫興氏症候群）
+hyperadrenocorticism
+(Cushing's syndrome)
+腦垂體瘤、臀上腺瘤或下视丘缺損均可能引起糖質臀上腺皮質酮分
+泌過多。過量或長時間的給與上腺皮質素酮同樣的會生相似之症状，
+但會抑制了垂腺及上腺的功能。治療方法依病因的不同而。
+判
+Interpretation
+長時的高血糖症引起迫性白血球血像（輕度成熟啫中性球增多、淋
+巴球减少及嗜酸性球减少）。肝有脂肪浸潤使SGPT、SGOT及精胺酸酶
+均上昇。肝實質的大迫胆管而引起血清ALP的上升。循環血液中之高
+腺刺激素（TSH）分泌亦受高血中可體松量之抑制而造成低甲狀腺功能
+症，其主微為血清中T的减少及胆固醇的增加，同時有發性抑制性
+血。尿量增加及因ADH（Antidiuretic Hormone）的分泌受抑制（腦垂腺
+依存性尿崩症）或者皮質酮的非特性利尿作用所致。如果於注射ACTH
+後血可體松量有明上升便可知為醫上腺肥大而非瘤所致。如於注射
+Dexamethasone 後未能降低血皮質酮量便知有肾上腺瘤存在。
+類症别
+Differential Diagnosis
+伊發於衰竭的尿毒症一一血清中BUN及肌酸酐均升高。
+糖尿病一一高血糖症，糖尿或有酮尿。
+原發性低甲狀腺功能症一一血清中T4低。
+128
+alopecia脱毛
+polyuria多尿
+polydipsia渴
+pendulous abdomen
+腹部下垂
+BLOOD
+BLOOD
+URINALYSIS
+CELLS
+CHEMISTRY
+WBC
+BUN
+PH
+band
+specific gravity
+creatinine
+glucose
+seg..
+direct bilirubin
+lymph
+glucose
+total bilirubin
+mono:
+ketones
+cholesterol
+eosino
+occulf blood
+bilirubin
+Ca
+baso
+RBC
+WBC
+P
+MCV
+RBC
+Na
+nucleated RBC
+epithelial cells
+platelets
+casts
+HCO3
+reticulocytes
+crystals
+SGPT
+arginase
+SGOT
+alk phosphatase
+SPECIAL TESTS
+CPK
+amylase
+·ACTH administration—no elevation in plasma cortisol level
+lipase
+TSH stimulation-elevated serum T4 level after thyroid-stimulating
+albumin
+hormone injection
+total protein
+·T4—decreased serum T4 level
+fibrinogen
+H)ACTH刺激一血中皮質酮不上升。
+TSH刺激一血清中T上升。
+T一血清T值低。
+128
+醫疗性肾上腺皮質酮过多症
+（藥物引起皮質酮过多症）
+SIP
+iatrogenic hyperadrenocorticism
+polydipsia渴
+(drug-induced cortisol-excess)
+腹部下垂
+大量長時間的給與臀上腺皮置酮會抑制肾上腺功能而造成類似库欣氏
+症候群的症状。對皮膚、甲狀腺、肾上腺及防機轉的效應會改變其外觀
+及增加重。因為腦垂腺、臀上腺功能受到抑制而使動物對聚追感受性增
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+加
+BUN
+torec biru
+判
+Interpretation
+RBC
+免疫抑制而由低血清球蛋白及魏蛋白量得知。垂腺的TSH分泌减
+crystals
+少造成血清T。量的减少。白血球增多症不常見但是淋巴球及嗜酸性球
+的减少相當明·血中皮酮量有减少，ACTH刺激試驗中病畜如同低
+SPECIAL TESTS
+肾上腺功能症一样其血蝶中皮實酬只是少許的增加。
+類症别
+ACTH刺激一血中皮酮不上升。
+Differential Diagnosis
+TSH喇激一血清中T上升
+T-
+血清T值低。
+糖尿病一
+一高血糖值，糖尿。
+原發性低甲状腺功能症一一以TSH刺激後血清中T：仍低。
+肾上腺睡瘤一一血蝶中皮酮增加。
+垂腺瘤一一同上。
+發性高臀上腺功能症
+130
+（腦垂腺性高肾上腺皮質功能症，庫興氏症候群）
+脱毛
+polyuria多尿
+secondaryhyperadrenocorticism
+(pituitary-dependent
+hyperadrenocorticism,
+polydipsia渴
+Cushing's syndrome)
+判
+Interpretation
+血蝶皮置配量增加會引起許多代谢作用的改變，免疫被抑制到改赞
+endulous
+腹部下垂
+葡萄糖、脂及蛋白贺的代谢作用等。最常見的是SGOT、SGPT、精胺
+酸酶及磷酶（AlkalinePhosphatase）量的上升，它們表示肝有壤死
+及脂肪赞性。因葡萄糖新生作用的增加所引起之高血糖症重到足可引
+BLOOD
+BLOOD
+URINALYSIS
+起糖尿及明地糖尿病。血液像呈聚迫模式（嗜中性球增多性白血球增多
+CHEMISTRY
+CELLS
+豆
+WBC
+·淋巴球及嗜酸性球减少。）腦垂腺的功能改樊可能使TSH及ADH的分泌
+ific gravity
+减少。排出大量且低比重的尿液乃因ADH的不足及皮酮直接作用於肾小
+管功能所致，TSH的分泌不足引起功能性低甲狀腺功能症及血清中T的
+减少，但甲状腺刺激試驗結果仍為正常。
+RBO
+elial-cell
+類症别
+Differential Diagnosis
+SPECIALTESTS
+慢性間資性肾炎
+一BUN及肌酸酐均上升。
+a cortisol-
+ol-elevated level
+原發性低甲状腺功能症一
+一血清中T减少，且甲狀腺刺激素（TSH
+rmal serum Ta level after.thyroid-stimu
+normone injection
+）注射試驗後仍低。
+prolonged elevation of blood glucose leve
+糖尿病一
+高血糖症、糖尿、葡萄糖耐受性試驗時有较長時間之高血
+休息期血中皮質酮量一高。
+ACTH刺激後血中皮質酮量一高。
+糖值，尿比重高。
+T
+一血清中量低。
+四TSH刺激一血清中T。反應正常。
+尿崩症一一對ADH（AntidiureticHomone）刺激及禁水試驗均無反
+国葡萄糖耐受性試驗一延長高血糖值期間。
+六Dexamethasone抑制試验一腾垂腺病因者校肾上腺病
+應
+因者抑制性低。
+原發性高臀上腺皮質功能症一
+一注射ACTH及Dexamethasone後均不
+改赞其血繁中皮質酮的量。
+132
+convulsions抽搐
+depression 抑馨
+原發性高氨血症
+下
+（尿素循環酶缺损）
+anorexia职食
+primaryhyperammonemia
+(urea cycle enzymedefect)
+因缺少肝性精氨酸琥珀酸合成酶（ArginosuccinateSynthetase）
+BLOOD
+BLOOD
+CHEMISTRY
+CELLS
+URINALYSIS
+時無法使血清中氨轉化為尿素。高氨血症所造成的結果是脑的退行性化
+WBC
+及中福神精性微候。
+mono
+判
+pas
+Interpretation
+BUN值因為肝腻無法使氨轉化為尿素而减少，除了血中氨量的增加外
+其他一切血及尿的检驗秸果均正常。正常BSP清除率可知肝的血液流量及
+SPECIALTESTS
+肝實質的清除BSP色素的功能均正常。
+BSP clearance-
+normal
+類症别
+HBSP清除率一正常。
+血氨量一增加。
+Differential Diagnosis
+腦髓液检查一正常。
+肝炎一
+SGPT、SGQT、精胺酸酶、胆紅素值均上升。
+SGPT
+SGOT、精胺酸酶、ALP值均增加及延长BSP
+门胀分流
+排出時間。
+胰島瘤一
+一血糖質低
+中福神經系病一一血氨量正常·脊髓液（CSF）不正常。
+134
+fever發烧
+lameness跛行
+營養性高副甲狀腺功能症
+（幼年性骨症，鐵維性骨發育不全，成骨不全症）
+nutritional hyperparathyroidism
+(juvenile osteoporosis,osteodystrophy
+fibrosa, osteogenesis imperfecta)
+長期食用高磷低钙性食物會刺激副甲狀腺功能而由骨骼抽出钙及由尿
+BLOOD
+BLOOD
+URINALYSIS
+中排出磷因此使得骨骼變形，最常見的原因以肉品（高磷低钙）為主食
+CHEMISTRY
+CELLS
+的情况。
+ban
+mnono
+判
+讀
+Interpretation
+血清的钙及磷有不平衡（高血磷、低血钙）時會刺激副甲状腺素的分
+泌BUN及肌酸酐均正常指出肾功能仍正常。正常的血清重碳酸盟含量
+SPECIALTESTS
+表示钙及基未因臀小管的缺捐而流失。血清蛋白及胆固醇值均正常显示
+—thin bones with poor calcification and folding
+食物中的其他管素仍属正常。
+（）放射摄影一骨質薄低度钙化及有折曼性骨折。
+類症别
+Differential Diagnosis
+恂优病一一高血清钙及ALP值但血清磷值低。
+管着不良一一血清蛋白、白蛋白及胆固醇值均低。
+臀性高副甲狀功能症一—BUN及肌酸酐值均高。
+臀小球性酸中毒一一血清钙、磷及重碳酸鹽值均低。
+136
+全般性低臀上腺皮質功能症
+sion抑影
+weakness衰
+（爱迪生氏病）
+total hypoadrenocorticism
+(Addison's disease)
+全般性低肾上腺皮功能症是因雙侧性臀上腺皮質萎及皮質酮·丁
+醛酮（Aldosterone）的產生均有缺損盒主微。臀上腺皮質萎縮可因自體免
+疫性病·肉芽睡性疾病（如：胞菌病、芽生菌病、及結核病）或者栓塞
+病等所致。全般性低臀上腺皮質功能症比因副肾皮質酮使用過量引發之部
+猴搏
+份性低肾上腺皮質功能症要重得多。
+BLOOD
+BLOOD
+CHEMISTRY
+URINALYSIS
+CELLS
+判
+嶺
+BUN
+Interpretation
+totalbil
+。改納的畜积能力因此降低血中纳，钾比值（由正常之33：1降到
+crystal:
+24：1）淋巴球增多症及嗜酸性球增多症均属常見·由测定血中皮置
+SGOT
+酮及ACTH注射後之反應可以得到確診。
+CPK
+SPECIALTESTS
+類症篮别
+Na:Kra24:1raonsu
+-no change in level
+Differential Diagnosis
+（心電圖-T波失案、P波平及Q-T間隔延長。
+急性胰炎一一白血球增多症、嗜中性球增多症、血糖值及脂肪酶及
+血類皮酮值一降低。
+ACTH刺激後之血皮寶酮值-不。
+激粉酶活性均高·淋巴球及嗜酸性球敷均减少。
+Na:K比一24:1（血骤）。
+慢性間質性肾炎一贫血、尿比重低。
+胰藏貝他細胞瘤——
+BUN、肌酸酐、皮質酮、淋巴球及嗜酸性球敷均
+正常。
+部份性低臀上腺功能症一一血中、钾值均正常。
+138
+weight gain醴重上升.
+低甲狀腺功能症
+hypothyroidism
+lethargy香睡
+患有低甲狀腺功能症的動物大多因盒代谢率降低而睡。有些會有脱
+毛及黑色棘皮病：不涵有些病例却只是體重增加對冷敏感或者有抑制性贫
+BLOOD
+BLOOD
+URINALYSIS
+血而已。
+CHEMISTRY.
+CELLS
+BUN
+WB
+判
+Interpretation
+營卷不良及脂質代不正常可由血清蛋白量的降低及胆固醇值的上升
+反映出來、抑制性贫血及低的T：或/及T。為典型病。如果由甲狀腺
+SGOT
+素（T及T）值仍有疑問而未能確診则须作激甲狀腺素（TSH）的刺激
+SPECIALTESTS
+試驗。TSH刺激後T值有3倍的上升者為正常。
+·TSH stimulation--no elevation in serum T level after
+類症别
+HTSH刺激試驗一血清T值無上升反。
+Differential Diagnosis
+血清中T量一低。
+遇食引起之肥胖症一
+一T及T值及TSH刺激驗均属正常·没有
+鸳血。
+TSH刺激試驗正常，聚迫性血液像（輕度的
+高臀上腺皮置功能症
+成熟嗜中性球增多症、淋巴球及嗜酸性球敷均减少）：血糖及皮賣酮均上
+升。
+140
+胰島瘤
+periodic weakness
+（貝他细胞瘤）
+调期性衰
+insulinoma
+(beta-cell tumor)
+periodic ataxia
+胰具他細胞瘤會引起重的低血糖症而使病畜有遇期性虚弱及抽
+期性運动失调
+。雌然症狀只是曹時性的但隨著疾病的進行會增加其發生频率，與套、運
+動、饥或進食等均可能成為低血糖症的因。
+判
+讀
+Interpretation
+BLOOD
+BLOOD
+最基本的常是低血糖症可由重覆多次的血糖分析得到證明。血液試
+CHEMISTRY
+URINALYSIS
+CELLS
+BUN
+料须放在含有氟化納的試管中冷藏直至分析以防止人為的錯結果。注射
+升糖案後未能改赞血糖值及注射葡萄糖後有長時間的低血糖期可以作為診
+断依據。血中胰島素含量超遇50pu/meC以放射免疫法测定）可作為確诊
+，血液像化乃因期性發作之聚迫而來。
+類症别
+Differential Diagnosis
+SPECIALTESTS
+癫稠一一血糖及胰島素值均正常。
+低肾上腺功能症一一BUN及K值均上升；Na及皮質酮量下降、淋巴
+食後的血糖值一持續性低血糖值。
+球及嗜酸性球敷均增加。
+血糖胰岛素量-高于50.pU/m。
+肝病一-SGPT、SGOT、精胺酸酶值均上升，BUN、血清白蛋白
+升糖素（gluc
+gon）耐受性試驗一血糖不升高。
+胰岛素量正常或低於正常。
+多發性肌炎一
+一血糖值正常·SGOT及CPK值均上升。
+重症肌無力—一血糖值正常，對新斯狄克明（Neostigmine）呈陽性
+反
+42
+lameness跛行
+退行性關節病
+（骨關節炎)
+degenerative joint disease
+(osteoarthritis)
+本病的特微是關葡骨磨损及關面及關囊的骨化。雕然骨骼及關
+損傷主要以放射線摄影来確定但是實驗室機驗有助於否定其他引起玻行
+BLOOD
+BLOOD
+CHEMISTRY
+URINALYSIS
+CELLS
+的可能原因。
+BUN
+WBC
+lotal billi
+判
+Interpretation
+SGOT及CPK值的正常表示没有活動性肌肉疾病。Ca，P及ALP值
+均正常可以排除骨骼有重大修補的可能性。由正常的BUN及肌酸值可知
+臀功能正常，正常的血液像可以否定全身性感染的可能性，關液的機
+SPECIALTESTS
+結果仍属正常。
+ormal synovial fluidslightincrease incell
+adiograghy- ha
+narrowed jointspace,osteophyteformation
+類症别
+（一關節囊穿刺一正常關節液丶細胞数稍增加其中0-10
+Differential Diagnosis
+%盒嗜中性球、黏液沈殿試驗良好，不會凝固。
+多發性肌炎一一嗜酸性球增多症，SGOT及CPK均上升。
+一放射線影一關間距减小，有骨（Osteophyte
+）形成及骨骼硬化（Sclerosis），關節面外形改
+外傷一
+-SGOT及CPK均上升。
+變。
+取血性關葡炎一一嗜中性球增多性白血球增多症、關液中有很多退
+行性嗜中性球及細菌
+144
+colic氙痛
+鈴中毒
+lead poisoning
+幅吐
+hysteria
+convulsions
+歇斯底里
+抽描
+那些不分青紅自白什都吃的年輕狗。任何狗要是有消化道或中福神經系
+症状以及有核紅血球出现但没有贫血者應考虑到中毒。
+BLOOD
+BLOOD
+CHEMISTRY
+URINALYSIS
+判
+讀
+CELLS
+BUN
+ine
+Interpretation
+glucose
+total bilir
+中性球增多症、淋巴球及嗜酸性球數的减少，最有意義的血液學樊化在
+於有核紅血球的增加但没有贫血，其主因為紅血球成熟障碾所致。翻織球
+SGO
+及MCV仍盒正常。血中的度在0.6ppm以上则表示中毒。
+SPECIALTESTS
+類症别
+radiography-increased bonedensity
+blood lead level above 0.6 ppm, liver
+Differential Diagnosis
+（一血液抹片一红血球有性彩斑及很多有核紅血球。
+反應性查血一一紅血球數减少：網織球及MCV均上升。
+放射線攝影一骨密度上尹。
+毒物分析-血中含量0.6ppm以上，肝4-8ppm
+急性胰炎一一血清激粉酶及脂肪酶均上升。
+以上，肾4-8ppm以上。
+肝病一一SGOT、SGPT、精胺酸酶及胆紅素均上升。
+量增加。
+146
+钩端螺旋體病
+diarrhea下痢
+fever酸烧
+leptospirosis
+9幅吐
+钩端螺旋體病是一種細菌性疾病·它侵犯許多器官如：肾、肝、及
+肌肉。因此其臨床症狀依那些器官受到侵犯而。本病亦可能發生在會预
+防注射過的勤物因為不厨於L。Canicola及icterohaemorrhagiae血清型者
+也可能感染動物。
+肌肉疼痛
+判
+BLOOD
+BLOOD
+Interpretation
+URINALYSIS
+CHEMISTRY
+CELLS
+高的尿比重，及尿中有蛋白、尿圆柱、紅血球及白血球，同時有高
+的BUN、肌酸酐及磷值表示有急性臀炎及尿毒症。SGOT、SGPT、胆紅
+mo
+素及精胺酸酶的上升表示有肝死。正常ALP及尿中尿胆素元反應阳性表
+示胆道正常。由SGOT及CPK值的上升可知肌肉亦被波及。血清蛋白量及
+白蛋白量因為脱水而升高。細菌感染可由嗜中性球增多性白血球增多症及
+crystal
+核左轉得知。淋巴球及嗜酸性球敷的减少是典型的聚迫反愿，紅血球數减
+少及血清中間接型胆紅素增加表示有溶血性血。由成對血清的抗體上升
+SPECIALTESTS
+或直接觀察到尿中端螺旋體才可以確診。
+serologic examination—rising Leptospiraliter inpaired serum
++ urinary urobilinog
+（）血清學检查一成對血清中抗體力價上开。
+類症篮别
+暗視野微镜查一尿中有钩端螺旋體。
+Differential Diagnosis
+尿中尿胆素元一正常。
+阻塞性肝病一一血清ALP上升，尿中無尿胆素元。
+病毒性肝炎一一白血球减少症。
+自體免疫性溶血性查血一
+一不饼發肝及肾疾病·庫姆氏試驗呈阳性反
+應
+148
+全身性紅斑性狼
+fever髮
+systemic lupus erythematosus
+hemorrhage 出血
+lameness 跋行
+此種免疫媒介性疾病的特微是：對正常紅血球及體細胞的核物質生
+ia箕血
+關及臀而引起各種不同的症状。
+判
+Interpretation
+高的BUN及肌酸酐值及尿中有蛋白質及尿圆柱是指出已有活動性臀炎
+。高的尿比重表示肾小管功能尚正常而有活動性肾小球病（参照臀小
+BLOOD
+性肾炎之病例）。因盒白蛋白由臀流失因此血清中白蛋白量降低，而球
+BLOOD
+CHEMISTRY
+URINALYSIS
+CELLS
+蛋白量则因為免疫反應而上升。低的PCV及高的胆紅素量及直接型胆紅
+WBC
+素量表示有溶血性贫血。高度的白血球增多症乃因盒骨髓對于急性贫血及
+lymph
+glucose
+keton blod
+由於補體活化後，所出之化學親合物贺之反應所致。高的MCV值及網藏
+WBC
+球數的增加以及出现有核紅血球也表示有高度的骨髓反。血小板數目通
+MC
+常會减少因為免疫媒介性而被内皮系統破也。庫姆氏試驗的阳性結果
+SGPT
+crys
+示紅血球覆蓄有抗體。抗核抗體及紅斑性狼反應均阳性表示有抗正常細
+SIGOT
+胞核内物置的抗體存在。
+SPECIALTESTS
+Coombs-positive
+ow biopsy-hyperplasiaadequatemegakaryocylosis
+類症别
+-ner
+Differential Diagnosis
+joint aspiratic
+失血性贫血一一胆紅素值正常·库姆氏反應陰性。
+库姆氏試驗一阳性。
+骨髓生機一細胞性增加，足的巨核細胞增多症。
+抑制性贫血一
+胆紅素值正常·MCV不升高·網織球及有核紅血球敷
+抗核抗體一阳性。
+四粗斑性狼反愿一限性。
+增加。
+@類风因子一险性。
+關節囊抽出液一嗜中性球增加·淋巴球减少，無細菌，
+慢性肾衰竭一
+一尿比重低·尿中无白蛋白或尿圆柱。
+黏液沈性良好。
+出尿中尿胆素元一增多
+細菌感染症一
+尿或中有菌。
+風濕性關節炎一一库姆氏及抗核抗體及紅斑性狼反鹰等各試驗均盒
+陰性·黏液沈激性差。
+150
+腸道淋巴管廣張症
+ht loss體重减輕
+（腸管吸收不良症）
+intestinal lymphangiectasis
+(intestinal malabsorption)
+道淋巴管摘張症是一種重的腸管病變其特微盒：因阻塞而摘张的
+edema
+水睡
+膜淋巴结内的肉芽睡或瞳瘤所致。
+判
+Interpretation
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+血清胆固醇及白蛋白量的降低表示有營养不良因為白蛋白乃血钙的携
+ban
+dira t biruin
+的摘張而被排空。血液化學之检查結果显示臀、肝及胰的功能仍為正常。
+msnoc
+正常的尿結果可知没有蛋白質由尿中流失，通常有抑制性血。聚迫性
+MC
+血液像（嗜中性球增多症、淋巴球及嗜酸性球數的减少）指示出本病的
+重度。低的淋巴球值乃因盒肾上腺出皮酮及大量的腸道流失所致。確
+诊则需要道生。
+SPECIALTESTS
+類症别
+Differential Diagnosis
+absorption
+脂肪吸收試驗一血清混褐度降低。
+胰外分泌不足一一血清球蛋白正常：淋巴球數正常；粪便胰蛋白酶阳
+粪便查一無寄生。
+性
+粪便酵素
+一正常。
+四管生機一淋巴管擒张。
+胆道阻塞一一血清ALP及胆紅素值均上升。
+国口服木糖及葡萄糖耐受性试驗一平坦曲線表示吸收不良。
+慢性腸炎一
+一白血球增多症，同時有中性球及淋巴球的增多，血清
+球蛋白值上升
+臀小體性臀炎一一BUN值上升·有蛋白尿。
+152
+reight loss體重减輕
+淋巴肉瘤
+Tever發
+exia食
+lymphosarcoma
+(canine)
+argedlymp
+淋巴睡大
+淋巴肉瘤的特微淋巴組織的淋巴球有睡瘤性增殖。雌然有不同樣器
+官被侵犯而出现各種不同的臨床症状，但是淋巴腺病樊是最常見的。實驗
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+判
+BUN
+Interpretation
+如臀有瘤細胞的浸潤可使BUN及肌酸酐均升高，但尿機则正常。
+可能會因免疫系統受刺激而增加。肝實質的死或受睡瘤細胞浸潤可使
+SGPT、SGOT及精胺酸酶活性均升高。胆管被壓迫時會使ALP值上升。
+SPECIALTESTS
+-many prolymphocytes and lymphoblasts
+血液像则有骨髓受抑制而致白血球少症及贫血至淋巴球性白血球增多症
+lymph
+（淋巴結生一很多前淋巴球及淋巴胚胞。
+等不一。
+類症别
+Differential Diagnosis
+慢性間質性肾炎一
+SGPT，SGOT及精胺酸酶均正常：没有白血球
+增多症或淋巴腺病：臀赞小。
+154
+fever
+爱烧
+急性子宫炎
+acute metritis
+之毒血症會進一步侵犯雌犬及哺乳中的仔犬。其有血樣、性陰道流出物
+BLOOD
+BLOOD
+URINALYSIS
+盒特微
+CHEMISTRY
+CELLS
+seg
+lympl
+判
+Interpretation
+嗜中性白血球增多症而有核左轉是細菌感染的典型樊化。因為脱水而
+crystal
+SPECIALTESTS
+及高尿比重都表示有脱水现象。雕然自然排尿中有白血球及紅血球但由膀
+mination-vaginal smears contain endometrial cells
+胱穿刺所得尿却均正常，SGOT的上升表示子宫肌肉細胞有被破。
+（一細胞學榆查一道抹片上有子宫内膜胞，嗜中性
+球及菌。
+类症别
+放射影一子宫睡大及重。
+Differential Diagnosis
+急性肾衰竭一一BUN及肌酸均上升，尿比重低，尿中有尿圆柱。
+膀胱炎一一膀胱穿刺所得尿中有細菌·紅血球及白血球。
+156
+periodic weakness
+调期性衰
+重症肌無力
+myasthenia gravis
+重症肌無力属代性或心胀管性或神經肌肉性等稀少疾病群中的一
+種疾病。臨床上可見有間性的全身無力。若動神經板有乙胆释
+出不足或過量的胆脂酶活性都會造成肌肉無力，而於運動時可使其更
+BLOOD
+BLOOD
+CHEMISTRY
+CELLS
+URINALYSIS
+重。實驗室的一般检查結果通常都在正常内，可由此將重症肌無力與
+其他疾病别出來。
+判
+Interpretation
+血清葡萄糖值與電解都在正常值，血液像不見有感染微兆。
+SGO
+SGPT值及血清CPK值均正常，可排除有其他原因的肌肉損傷的可能
+SPECIALTESTS
+nine administration—im injecti
+（投予新斯狄克明（Neostigmine）一肌肉注射新斯
+類症别
+狄克明0.04mg/kg：则15分疆内可見衰弱無力
+Differential Diagnosis
+現象有舒解。
+低血糖症—一血糖值低。
+低肾上腺功能症一
+一BUN奥血钾值均升高；血纳降低。
+心肌病一一心電圖不正常；SGPT、SGOT及血清精胺酸酶均升高
+四多肌炎（polymyositis）
+SGOT及血清CPK值均升高
+158
+hemorrhage出血
+多發性骨髓瘤
+ess行
+multiple myeloma
+(plasma-cell tumor)
+多發性骨髓瘤於一種蝶細胞瘤性疾病，它會造成單源性加馬球蛋
+白病（gammopathy）。此病以居於骨髓中或其他造血粗藏中的細胞過
+被瘤細胞侵犯以後會有疼痛、跛行、病理性骨折等現象。骨髓也因此
+量来確定之。
+BLOOD
+BLOOD
+CELLS
+URINALYSIS
+CHEMISTRY
+5
+WBC
+H
+判
+otal bil
+Interpretation
+osing
+血蛋白量過多乃因免疫球蛋白生產過量造成了血中球蛋白量過多所致
+ABC
+。雷泳結果常有球蛋白區有單一种球蛋白带的高岑出现而不常有整個球蛋
+casls
+crystal
+白部分之增多。在許多病例裡·兔疫球蛋白的键以本司氏蛋白質（
+SGOT
+Bence-Jonesproteins）的型式由尿液中被排出。在骨髓受侵後隨之而來的
+SPECIALTESTS
+會有血小板製造能力的破，流血就不易止住，進一步就可能造成失血性
+radiography-areas of osteolysis in bone
+贫血。骨髓受睡瘤細胞的侵也會造成高血钙症。
+elevated monoclonal gammaglobulin
+levels
+clotting time
+類症别
+放射線摄影一可見骨骼中有溶骨區域。
+血清電泳一單源性加馬球蛋白的高案。
+Differential Diagnosis
+目凝血時間一延長。
+慢性細菌性感染症
+一一尿中無本司氏蛋白質。血清電泳結果示
+凝血酶元時間一正常。
+多源性免疫球蛋白的增加。
+国尿液電泳一有本司氏蛋白質。
+肝病一一血清白蛋白量降低；SGOT、SGPT及血清中精胺酸酶
+胆紅置等都會升高。
+白骨瘤一一血清球蛋白量正常；但血清中性磷酸酶值升高。
+160
+紅血球素骨髓增殖病
+weightloss體重减輕
+erythremicmyelosis
+紅血球系骨髓增殖病是一種FeLV感染所造成的骨髓增生性疾病。此
+病之特微為骨髓的抑制及髓外造血作用，髓外造血作用促使肝及脾大。
+anorexia联食
+血液學查是必须的，可由循環血液查看到大量成熟有缺陷的有核紅血
+球。
+判
+誠
+Interpretation
+血液學检查可见到重的贫血·許多有核紅血球，一些網織球及多染
+性紅血球。有些有核紅血球保有不成熟的翻胞核及不正常的大量細胞
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+（停留在紅血細胞段）造成所的巨紅血球胚細胞。白血球像可能有很
+大的差巽，但通常缺乏强烈的骨髓反應所造成的白血球增多症。由骨髓
+查可見到紅血球系有不正常的成熟過程，大部分病例是FeLV陽性。在肝
+門服區生長的瘤細胞會引起肝胞壤死，而使血清中之SGPT、SGOT
+crystals
+的管不良。
+SPECIALTESTS
+类症别
+bnemasiranyrceay
+Differential Diagnosis
+maturation
+bloodsmear-megaloblastoidrubricytesand blast cells
+FeLVpositive
+H淋巴肉瘤
+抑制性贫血，不見有核紅血球·MCV值低，很少網
+骨髓生检一多细胞性；不正常的紅血球成熟過程。
+不见紅血細胞（rubricyte）段以後的胞。
+球。
+血液抹片一有巨紅血球胚细胞性紅血细胞及胚細胞
+自體免疫性溶血性贫血一
+一庫姆氏試驗阳性；MCV值高；很多網藏
+球
+FeLV一阳性。
+失血性贫血一一因骨髓造血增加而有M/E比率降低；網藏球增多症
+，白血球增多症；嗜中性球增多症；MCV值高。
+162
+慢性間質性臀炎
+（末期臀病）
+polyuria多尿
+diarrhea下痢
+chronic interstitial nephritis
+(end-stage kidney disease)
+polydipsia褐
+vomiting唱吐
+很多種物質都會造成臀瞩的損傷，使得一些尚有存活力的肾組織被炎
+症細胞與無功能的維粗所替代。若75%以上的臀元爽失了功能。则
+存於血中的氮废物會形成氮血症。若能减少日常飲食中的蛋白質取量
+·常可控制住慢性間質性肾炎所致之尿毒症，但已损傷的肾病變區则無
+法恢復正常。
+判
+BLOOD
+BLOOD
+URINALYSIS
+Interpretation
+CHEMISTRY
+CELLS
+BUN
+BUN、血清肌酸酐值、血清磷值都升高舆较為稀释但成分正常的尿液
+direcIbi
+显示有慢性而非為急性的肾疾病。由於整微的腸炎可增加脂肪酶與激粉
+酶的吸收量·同時其臀的排泄量也减少，因此血清中這兩種酶的量都升高
+（如中性球增多、淋巴球减少、嗜酸性球减少等）以及抑制性贫血。
+類症别
+SPECIAL TESTS
+Differential Diagnosis
+stitial fibrosis and mononuclear cell infiltratior
+H臀生一間的化及单核球細胞的浸潤。
+一急性臀炎一一尿检可見有白蛋白、尿圆柱舆潜血。
+臀孟肾炎一一尿可見有白血球、紅血球、尿圆柱、蛋白質及細菌
+。尿比重升高，白血球過多等。
+肝疾病一一尿比重正常；SGPT、SGOT及血清精胺酸酶值等都升
+高
+四糖尿病一
+一血糖升高、糖尿等。
+尿崩症
+尿比重低、BUN及血清肌胺酸酐值都正常。
+164
+polyuria多尿
+钙性臀病
+veakness衰蜀
+calcium nephropathy
+polydipsia混
+當有高副甲狀腺功能症，假性高副甲状腺功能症·溶骨病赞或生素
+副甲狀腺功能症時會有過剩的副甲狀腺素出，而增加骨中的钙和磷的轉
+動：同時提高肾對钙的重吸收及降低肾對磷的重吸收·接著便形成臀的钙
+化和坏死。假性高副甲狀腺功能症乃指非副甲狀腺瘤，也不會轉移至骨
+中，但它會出甲狀腺而引起高血钙的一種疾病。溶骨性瘤病熨和維生
+BLOOD
+BLOOD
+URINALYSIS
+素D的供給量也會引起高血钙症而導致臀小管的钙化。
+CHEMISTRY
+CELLS
+BUN
+lymph
+判
+olesterol
+Interpretation
+BUN、血清肌酸酥值的增加·尿中有尿圆柱·蛋白質和血液表示件有
+活動性肾炎的急性臀衰竭。此種情形可由同時有高的血清钙和磷值來興原
+SGO
+發性臀衰竭所引起的戳發性高副甲狀腺功能症的化區别。脱水症引起血
+SPECIALTESTS
+清白蛋白值和紅血球數的增高。發之炎症導致了白血球數和啫中性球敷
+的增加·由肾生常可看到肾小管的钙化和死。
+（臀生一肾小管有钙化及死。
+類症别
+Differential Diagnosis
+糖尿病一一血糖值高；糖尿；尿比重高。
+尿崩症一
+一無蛋白尿或尿圆柱。
+臀衰竭一一血清钙值正常；尿pH低。
+肝病一一尿比重正常；SGOT及SGPT值高。
+166
+臀毒症
+depression
+oliguria無尿或少尿
+抑馨
+nephrotoxicity
+职食
+ing幅叶
+苯普太唑（phenylbutazone）和西法羅利汀（cephaloridine）·及一些化
+。肾元（nephrons）之破壤超遇75%即會招致尿毒症。臨床症状依病情
+段而定會有多尿至乏尿。
+判
+Interpretation
+BLOOD
+BLOOD
+URINALYSIS
+BUN、血清肌酸酐和磷值的升高表示已有尿液物的蓄。低的尿比
+CHEMISTRY
+CELLS
+WBC
+band
+重示已有肾小管的功能障，使得病畜已有脱水但水分的重吸收仍然
+directbilin
+受阻。後者可由血清電解質，蛋白質和紅血球敷的增加看出。活動性肾炎
+则由尿中有葡萄糖、紅血球、蛋白質、及尿柱看出。血球像呈輕微
+酶值的增高乃因肾的清力降低所致，但不表示有胰炎除非尚有其他症
+状。
+SPECIAL TESTS
+類症别
+ine production
+urine culture-
+Differential Diagnosis
+negative
+肾前性氮血症一一尿和尿比重正常。
+尿路但尿生成减少。
+肾生一肾小管死。
+慢性間質性臀炎一一血清白蛋白，球蛋白和電解質值均正常；抑制性
+回尿液培一陰性。
+食血；正常的稀尿。
+臀盂肾炎一一體内水分狀熊及尿比重正常；菌尿症。
+尿路阻塞一
+一尿道阻塞及膀胱充满尿液：無尿圆柱：尿比重高6
+膀胱破裂一一血尿：尿中无尿圆柱：尿比重高。
+168
+fever烧
+diarrhea下
+牧羊犬的调期性嗜中性球减少症
+cyclic neutropenia of Collies
+生長受阻
+retarded growth rate
+此為銀灰色牧羊犬的遗傅性骨髓發育不良，其骨髓幹細胞無法產生足
+量的嗜中性球·使得動物易受感染而引起血症。臨床的症狀常肝、肺
+或腸之感染所致。
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+判
+Interpretation
+因每12天调期的復性骨髓活性變化而引起嗜中性减少症，它會减
+低對環境細菌的抵抗力。在這易受感染的間歇期間，嗜中性球和啫酸性球
+的數目降低，但單性球和淋巴球的數目升高。腸炎導致管卷不良且發血
+清蛋白值的降低。陣现（shower）的細菌调期性的進入門静服循環血中。
+而引起肝壤死使SGPT、SGOT和血清精胺酸酶（arginase）值均升高。
+SPECIALTESTS
+aspiration-decreased granulocytic
+類症别
+骨髓生检一颗粒性球活性降低。
+Differential Diagnosis
+犬瘟熱一一淋巴球减少：單核球减少：但不抑制骨髓功能；對犬瘟熟
+之光抗體試驗呈阳性反應；無期性。
+菌性腸炎一一白血球增多症；嗜中性球增多；无期性。
+药物發性骨髓功能抑制症一一紅血球及白血球的生成均受抑制；無
+调期性。
+170
+肥厚性骨關節病
+（肺性骨關節病）
+跋行
+hypertrophic osteoarthropathy
+(pulmonary osteoarthropathy)
+此病的特微為長骨的骨膜性增厚和肢端软組織的睡服。可能同時有起
+因於關周国的結粗織增殖所致的關大。然此病之確實原因仍不
+厚骨
+明，但常和胸部疾病有關·如睡瘤、肺炎·肺睡及肋骨的骨折~
+BLOOD
+判
+CHEMISTRY
+CELLS
+JRINALYSIS
+Interpretation
+抑制性鸳血和血清魏蛋白及白蛋白量的降低常见於睡瘤性或慢性疾病
+·白血球增多症可能於有肺部感染病例見到。血清性磷酸酶值的上升
+顯示有活動性骨的修補
+SPECIAL TESTS
+類症别
+Differential Diagnosis
+放射線摄影一可能有胸部病赞，沿著長骨韩有骨膜
+關炎一一關液昊常；放射線摄影無骨膜性新生骨的形成。
+性新生骨。
+肥大性骨發育不全一一年幼動物；無胸部病；骨變薄。
+全骨炎一一嗜酸性球增多；放射線透礼可看到骨髓之透過性增加至骨
+髓硬化不等。
+172
+fever發烧
+肥大性骨發育不全
+lameness行
+（乾端性骨病）
+depre
+ession
+抑馨
+hypertrophic osteodystrophy
+(metaphyseal osteopathy)
+肥大性骨育不全發生於快速生長中的年幼動物，主要見於大型犬種
+。雕然病因不明，但管卷遇度，遗傅性素因和碳物質不平衡皆可成為此病
+的因。犬食多钙時會引起高抑钙素症（hypercalcitonism），而造
+BLOOD
+BLOOD
+URINALYSIS
+成耀性骨膜增厚及韩端之骨膜外钙化。
+CHEMISTRY
+CELLS
+RTRH
+BUN
+判
+Interpretation
+雕此病可由高血钙症引發，但抑钙素的作用會降低血清钙值至正常
+。血清懒性磷酸酶活性的上升表示骨代谢的增加。正常的SGOT和血
+清CPK值所以玻行之原因非肌肉疾病引起的。中性球增加性白血球增
+SPECIAL TESTS
+多症示有炎症反愿。此病犬之白蛋白尿不表示有肾病。
+xtraperiosteal calcification at metaphyses, cortica
+類症别
+（放射線摄影一乾端之骨膜外钙化，骨質變薄。
+Differential Diagnosis
+骨髓炎
+核左轉性中性球增多性白血球增多症；放射線攝影示
+有骨髓炎症状。
+骨折一一放射線摄影有象可寻。
+肌炎一-SGOT和血清CPK值均升高。
+174
+olyuria多尿
+臀性骨發育不全
+（臀因性高副甲状腺功能症，橡皮颚）
+polydipsia渴
+vomiting吐
+renal osteodystrophy
+(renal hyperparathyroidism,rubber jaw)
+不平衡會使副甲狀腺分泌副甲狀腺素·而引起自骨中重吸收钙。此種骨髓
+赞化的秸果在幼犬较老狗明显。
+BLOOD
+BLOOD
+UAINALYSIS
+CHEMISTRY
+CELLS
+判
+Interpretation
+慢性肾衰竭显示於BUN及血清肌酸开值的升高和低的尿比重。肾小管
+的衰竭减少磷的分泌而提高血清磷值则刺激副甲狀腺素的分泌，致使自骨
+炎症和尿生成的降低均導致血清激粉酶及脂肪酶值的升高。嗜中性球增多
+SPECIAL TESTS
+性白血球增多症乃因尿毒症所引起·抑制性血则因為紅血球形成素（
+radiography-thickened bones and decrea
+erythropoietin）的分泌减少所致。
+（放射線摄影一骨質增厚和碳化减低
+類症别
+Differential Diagnosis
+急性病一一尿中有白血球及蛋白；尿比重高。
+营性高副甲狀腺功能症一一BUN和血清肌酸酐值正常。
+原發性高副甲狀腺功能症一一血清钙值和性磷酸盟酶值均升高；血
+清磷值降低。
+176
+fever烧
+細菌性骨髓炎
+ness陂行
+（化性骨炎）
+bacterial osteomyelitis
+(suppurative osteitis)
+排液瘘
+健康的骨頭能抵抗細菌性感染·但外傷會致骨的局部缺血而使細菌得
+以感染。常見的原因細菌包括葡萄球菌（staphylococcus）
+單胞菌（
+Pseudomonas）：產氣悍菌（Aerobacter）和链球菌（Streptococcus）
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+遣些病原體皆可藉傷口的污染而入侵骨頭·然葡萄球菌及布氏悍菌（
+BUN
+cific gravity
+direct bilirubi
+mesnod
+判
+黄
+MCV
+ated RBC
+epihe
+Interpretation
+crystals
+由增高的素元和球蛋白量而來的高血清魏蛋白量表示有炎症及免
+疫系的刺激。血清性磷酸鹽酶值的升高示骨的修補。核左轉性中
+SPECIAL TESTS
+性球增多性白血球增多症指出有感染。淋巴球增多症表示慢性和免疫系统
+的刺激。
+成溶骨及新骨形成壁化。
+類症别
+细胞學检查一渗出液中有許多紅血球、白血球和細
+Differential Diagnosis
+菌
+菌性骨炎一一由骨生可看到單核球，中性球及徽菌。
+原發性骨瘤一一无白血球增多症。
+轉移性骨瘤一一無白血球增多症；血清钙值上升。
+78
+徽菌性骨髓炎
+weight loss體重减fever發烧
+（非化性骨炎）
+lameness行
+fungal osteomyelitis
+(nonsuppurative osteitis)
+徽菌性骨髓炎起因於血因性微菌之摘散所致·如粗球徽菌（Coccid-
+ioides immitis）和皮炎芽生菌（Blastomyces dermatitidis）·通常不止
+一處骨頭受侵，尤其是掌骨及骨的端。此種特殊疾病必须由生，
+放射線影或血清查來確定。
+判讀
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+Interpretation
+血清稳蛋白和球蛋白量的升高示有慢性免疫系統的刺激；血清藏維
+素元的升高则表示有炎症。血清性磷酸盟酶值的上升和骨的修補有。
+有重的感染可由核左轉性啫中性球增多性白血球增多症看出；抑制性贫
+血亦很常見。白蛋白尿表示蛋白質經臀失去表示由慢性感染而來的早期
+小體性肾炎。诊断的键補結合反應和骨髓生检或抹片之直接观察
+SPECIALTESTS
+到病原體為弹。
+類症别
+（補體結合反一對特殊微菌呈陽性反應。
+Differential Diagnosis
+骨或软组織生一有微菌
+原發性骨瘤一一白血球敷正常；生可看到随瘤細胞：放射摄影有
+瘤微兆。
+轉移性骨瘤一一血清钙值升高；白血球數正常；放射線影有瘤微
+兆。
+180
+胰腺癌
+黄痘
+ascites
+腹水
+abdom
+inalpain腹痛
+（腺胞细胞性腺癌）
+pancreatic adenocarcinoma
+(acinar-cell adenocarcinoma)
+胰脏排泄部份的稀有睡瘤由於睡瘤的播展及轉移而有各種臨床症状。
+胰脏损增·肝受侵害和胆管阻塞為剖腹時常见的病。此型睡瘤在確诊時
+常已不能再動手衡了，但因急性胰炎有類似之症狀故必须别。
+判
+BLOOD
+BLOOD
+URINALYSIS
+Interpretation
+CHEMISTRY
+CELLS
+BUN
+胰的壤死可由血清激粉和脂肪酶值的升高看出。血清钙值下降乃因和
+死的脂肪有自化作用及促進抑钙素的產生所致。由瘤轉移而来的肝堰
+死可由SGPT、SGOT和血清精胺酸酶值比上升看出。若有胆管阻塞時，
+血清胆紅素和酸性磷酸鹽酶值均升高。尿中無尿胆素元是因胆管阻塞使胆
+升無法進入小所致。核左轉性中性球增多性白血球增多症表示有化腰
+SGTOT
+性反應·抑制性贫血在長期的睡瘤病例是很普遍的症·由腹腔穿刺液中
+SPECIAL TESTS
+可看到睡瘤細胞和脂肪酶值升高。
+tesis-neoplastic cells and elev
+rated lipase
+aspirate
+-none
+類症篮别
+（一腹腔穿刺液一有睡瘤翻胞及脂肪酶值的升高。
+Differential Diagnosis
+口尿中尿胆素元一無。
+胰具他細胞性睡瘤一一血糖值低：SGPT、SGOT和血清精胺酸酶，
+昭肪酶及粉酶值均正常：白血球数正常。
+胆管阻塞一一血清粉酶和脂肪酶值均正常。
+急性胰炎一一很少有血清胆缸素值上升或尿中無尿胆素元；血清性
+磷酸盟酶值正常
+182
+ght loss體重减輕
+白大量的粪便
+pale, voluminous stools
+胰外分泌不足
+polyphagia多食
+pancreatic exocrine deficiency
+胰外分泌不足可見於年幼動物盒先天性疾病（幼年性胰萎縮）·也
+可见於成年動物则因胰炎的反覆侵（慢性胰炎）。功能性外分泌胰粗藏
+的爽失導致分解脂肪，分解蛋白贺和分解激粉的各種酵素之分泌减少。患
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+病動物有慢性下和大量的脂肪性粪便。
+BUN
+WBC
+判
+Goraect birui
+Interpretation
+血清總蛋白、白蛋白和胆固醇值的降低示有管姜不良。其抑制性贫
+血乃戳發於管姜不良。剩餘的血液成分之正常結果可以否定肾、肝或代
+SGOT
+性疾病·别此病和其他吸收不良的疾病之關键乃於粪便胰蛋白酶（
+SPECIAL TESTS
+trypsin）試驗怎陰性反愿，表示消化酵素的缺乏。
+類症别
+（一粪便胰蛋白酶一陰性。
+脂肪吸收一陰性。
+Differential Diagnosis
+胆管阻塞一
+一粪便胰蛋白酶实星阳性反應；血清胆紅素和性磷酸
+酶值均上升。
+淋巴管张
+粪胰蛋白酶試驗呈阳性反愿；血清白蛋白和球蛋白值
+均降低。
+慢性炎一
+一白血球增多症：粪胰蛋白酶試驗呈阳性反應。
+184
+lethargy香睡
+diarrhea下荆
+急性胰炎
+anorexia联食
+acute pancreatitis
+BLOOD
+BLOOD
+CELLS
+URINALYSIS
+CHEMISTRY
+BUN
+泌粗織的會使得胰功能不足。
+判
+Interpretatior
+SPECIAL TESTS
+症型具有核左轉性中性球增多症。
+類症别
+Differential Diagnosis
+肾衰竭一
+BUN和血清肌酸酐值均升高。
+外傷一一血清凝粉酶和脂肪酶值均正常。
+泛白血球减少症
+186
+（猫傅染性腸炎、猫瘟）
+Gehydration脱水
+feline panleukopenia
+fever烧
+diarrhea下
+(feline infectious enteritis,
+feline distemper)
+猫泛白血球减少症盒一種病毒性疾病，其特微是空腸和炯的炎症、
+anorexia职食
+水睡和壤死·及骨髓造血作用的减低。此種微小病毒（parvovirus）侵害
+增殖快速的細胞，例如在骨髓或在内者。臨床症状和實驗室查料示腸
+内水分的赞化，蛋白和電解的流失和骨髓功能的降低。
+判
+讀
+Interpretation
+發病之最初2～4天的大量下痢會引起血清白蛋白、胆固醇·和钾
+BLOOD
+BLOOD
+CHEMISTRY
+CELLS
+URINALYSIS
+BU
+血球的减少。雕然紅血球和白血球的生成於初期受到抑制，但其骨髓活性
+在此病的末期時有常的細胞成熟特微。
+類症别
+Differential Diagnosis
+出血性胃腸炎一一血清白蛋白上升；呈现多血症；及嗜中性球减少症
+SPECIALTESTS
+early depression of RBC and WBC
+腰内具物一
+一血清白蛋白升高：白血球增多症：紅血球數正常；銀剂
+照影可明示阻塞部位。
+一骨髓生横一杠血球和白血球生成的早期受抑制，末
+期有奇細胞形熊。
+急性弓病一一SGPT、SGOT和血清CPK，精胺酸酶值均升高：抗
+FeLV一陰性。
+弓力價升高。
+弓力價一陰性。
+FeLV感染
+少有酸热；FeLV呈阳性反應：細胞或粗藏病理检查
+有瘤性淋巴球。
+細菌性腸炎一
+一核左轉性之相對性嗜中性球增多症；血清球蛋白值升
+高。
+188
+嗜酸性球增多性泛骨炎
+（内生骨赘）
+eosinophilic panosteitis
+(enostosis)
+bonepain o
+骨會痛
+此病致使幼犬之突發性（episodic）行。全骨炎的病因不明。雕然
+移轉胶行
+此病的診断主要依據放射線摄影所見，但實驗室检查結果则有助於否定
+行之其他原因。由長骨的放射線摄影可看到不规则的髓内斑化·此病
+.000
+BLOOD
+URINALYSIS
+嬰可演化成营着孔周圍的骨髓硬化。酸性球增多症在此病之早期可能會
+CHEMISTRY
+出现。
+判
+Interpretation
+正常的血液像和正常的血清钙、磷、蛋白質和性磷酸酶值可以
+否定感染和其他可引起行的骨病。嗜酸性球增多症的出现无可明之
+SPECIALTESTS
+原因。
+類症别
+（放射線摄影一髓内斑菱化（mottling）和長骨营
+孔周围的硬化性损。
+Differential Diagnosis
+端钙化。
+發性高副甲狀腺功能症一一血清磷值升高；血清钙值降低。
+外傷一
+SGOT和血清CPK值均上升；放射線摄影示骨折或软粗織
+的睡。
+190
+脍汁性腹膜炎
+abdominalpain腹痛
+fever發德
+bile peritonitis
+胆汁漏入腹腔會因對腹膜内唇的化學性刺激而致腹膜炎。所引起的渗
+傷、充血性心衰竭、胰炎、睡瘤形成，猫傅染性腹膜炎或細菌性感染亦會
+導致腹膜移出液，以實室检果可加以别。
+判
+Interpretation
+BLOOD
+BLOOD
+URINALYSIS
+因增高的結合（直接反應）型胆紅素值所致之黄痘示有胆汁性损傷
+CHEMISTRY
+CELLS
+BUN
+。尿中有尿胆素元和正常的血清性磷酸酶值表示胆管暢通。SGPT、
+lymph
+jlucos
+mono
+accultb
+指出肝有發炎或充血。血清钙值可能會因钙舆脂肪死結合性自化而降低
+菌性感染或化性病蜜。由腹腔穿刺液可看到受胆汁染色的液體及炎症細
+胞，表示胆汁漏出，為此病的原因。
+SPECIAL TESTS
+類症别
+ography
+luid in abdominal cavity (ground glass
+Differential Diagnosis
+膀胱破裂
+一—BUN值升高；無黄；排尿困難。
+腹腔穿刺一受胆汁染色的液體及炎症細胞。
+白尿中尿胆素元一正常。
+急性胰炎一一血清粉酶和脂肪酶值均升高。
+胆管阻塞一一無腹膜炎；白血球數微增且無核之左轉；尿中無尿胆素
+元：血清性磷酸酶值升高。
+腹水一一白血球像正常；腹腔穿刺液為低蛋白，且無中性球或胆
+汁
+傅染性腹膜炎
+192
+feline infectious peritonitis
+hargy香睡
+eightloss體重减
+(FIP)
+er烧
+猫的FIP依此病毒性疾病的型别和病程而有多種臨床症状。升高的血
+出型於腹腔或胸腔内有富於凝固性的金黄色渗出液堆為特微。“乾”型
+dyspnea
+呼吸困戴
+则以遍布於各種器官的肉芽睡病變特微。
+判
+誠
+pleural effusion
+胸膜移出液
+Interpretation
+腹膜移出液
+其實驗室检驗結果常震非特性。高蛋白血症乃因血清中之免疫球蛋
+白及藏維素元的增加所致。肝的損傷可由上升的SGPT、SGOT和血清精
+BLOOD
+BLOOD
+URINALYSIS
+胺酸酶值得。型病例之渗出液的比重大於1。07，含少許細胞和有高
+CHEMISTRY
+CELLS
+specific gravity
+度蛋白及球蛋白，此點可與其他疾病致使的渗出液區别。間接光抗體
+Iymp
+試驗之大於1：400的力價，且與臨床症狀相符的話有助於確定诊断。然
+而活動性感染须以至少間隔三遇探取的兩次血清样本證實有力價的上升才
+可確診。尿中的蛋白質流失起因於臀小體性臀炎。常有正球性正色性贫血
+類症别
+SPECIAL TESTS
+Differential Diagnosis
+細菌性胸膜炎或腹膜炎一一白血球增多症；嗜中性球增多症；可培
+蛋白束（fibrinstrands）.和高度的蛋白量
+到細菌；由放液穿刺液可看到和細菌。
+間接光抗體试驗一力價大於1：400。
+的球蛋白量。
+無或低的FIP力價：渗出液包含少許蛋白質但不凝固。
+心肌病一
+乳糜胸一一胸胜穿刺液呈乳麋樣；胞主要淋巴球。
+194
+尿因性腹膜炎
+發烤
+ur ine peritonitis
+創傷可能造成尿液由破裂的膀胱、尿道或輸尿管漏出。此時常造成无
+尿或排尿困的情形。而游的尿會刺激腹膜内壁且會被吸收而引起尿毒
+症
+判
+讀
+Interpretation
+非肾原性的氮血症可由正常的尿比重件随著高的血中尿素氮（BUN
+BLOOD
+E
+BLOOD
+CELLS
+URINALYSIS
+），血清肌酸酐及磷等看出。
+CHEMISTRY
+DBM
+升高的血清電解置和白蛋白指出有脱水現象。
+低的紅血球數且無紅血球新生现象示了抑制性血。
+kelones
+白血球像则以件有核左轉的啫中性球的增加，淋巴球及嗜酸性球的减
+少篇特微。
+類症别
+Differential Diagnosis
+SPECIAL TESTS
+急性胰炎一一血清脂肪酶及激粉酶值均高。
+abdomincntsireetropiandacivatedest
+肝病一SGPT、血清精胺酸酶和性磷酸酶值均高·但血读申蛋白
+cells
+一放射線一以充氣膀胱区光摄影時，無法看出膀胱外
+量低。
+形。腹部呈毛玻璃群。
+脾破裂一
+一红血球數减少；平均血球容精（MC
+數增
+腹腔穿刺術一嗜中性球和活動性間皮知胞
+加
+菌性腹膜炎一
+血中尿素氮值正
+腹腔穿刺
+退符性
+嗜中性球。
+肾衰·竭一一尿比重低：許多尿圆柱。
+196
+眞性紅血球增多症
+negaly脾睡大
+(原發性多血症）
+polycythemia vera
+polydipsia
+(primarypolycythemia)
+此病是以過度的缸血球敷目為特微的骨髓增殖性疾病。缓慢的血流阻
+授組的氧化作用且常凝結而造成栓塞。多血症的原因很多，相對性多血
+粘膜砖紅色
+症可因脱水造成的液體流失或因如内毒素休克時的血管外間隙之血而馥
+生。麓發性多血症则因紅血球生成素遇度刺激骨髓而引起紅血球數之增座
+。原發性多血症则指骨髓无任何明显的原因，而有紅血球之生成增加。
+判
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+Interpretation
+循環及粗織灌流不良會引起酸中毒，即反映於血清重碳酸鹽的降低。
+留水素的出受到抑制，使得尿比重下降。大量增的紅血球可由上升的
+RBC
+血容比（PCV可70%）及末稍血液中未成熟紅血球數目的增加看出。
+白血球及血小板也大量的增加。骨髓生顯示紅血球及白血球之先細胞
+的增殖。特殊試驗则示無氧壓，紅血球生成素及肾功能之阻碾其特色
+osphatas
+SPECIALTESTS
+bone
+類症别
+一骨髓生一红血球、骨髓球及巨核細胞各系均
+Differential Diagnosis
+示過度增殖。
+H)郁血性心衰竭一－SGPT.、SGOT、BUN及精胺酸酶均增高。
+肺疾病一
+一白血球及嗜酸性球增加；肺組織之X光查可見病理赞
+化
+脱水一－BUN、血清白蛋白及穗蛋白量增高；尿比重高。
+四麓發性多血症一一白血球及血小板正常；紅血球生成素升高。
+198
+dehydration股水
+polyuria多尿
+心理性渴
+5
+polydipsia烦褐
+psychogenic polydipsia
+心理性渴是一種强迫性行為模式的尿崩症，但不見有任何器官的病
+樊。水撬入量增加使得血清张力遇低，留水素的出受抑制以及多尿。
+判讀
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+Interpretation
+水滑耗之增加非由於脱水起，可由紅血球數目及稳蛋白量及白蛋
+白量均正常得以肯定。正常BUN及血糖值亦否定了肾疾病及糖尿病之可能
+·血清納值减少歸因於多尿。除非不給予水分·否则尿比重將停留於1
+1.010以下。若不給予水可使尿比重恢復正常，则證明腾垂腺功能尚正常
+·若予以留水素而可使尿比重恢復正常，则可證明臀功能正常。
+SPECIAL TESTS
+類症别
+water-deprivatio
+Differential Diagnosis
+gravity
+（禁水武驗一尿比重上升。
+（)慢性臀炎一一BUN及血清肌酸酐值均上升；抑制性血。
+給予留水素一尿比重上升。
+糖尿病一一血糖升高；尿比重高；糖尿。
+（肝炎一-SGPT·血清精胺酸酶（Arginase）及胆紅素值皆上升。
+四臂性糖尿病一一禁水或給予留水素後尿比重不上升。
+腦垂腺因性尿崩症一一尿比重不因禁水而上升；給予留水素则可提
+开尿比重。
+200
+多肌炎
+dysphagia
+（嗜酸性球性肌炎）
+吞困
+polymyositis
+(eosinophilic myositis)
+temporal muscle
+暂時性肌肉痛
+多肌炎最常見於德國狼犬（其他品種亦见之）的骨骼肌炎症性疾病。
+發生於咀嚼肌引起吞困難·若涉及腿部肌肉造成步熊巽常及重的
+無力。雕然嗜酸性球的出现可為此病的不同時期的指標·然而對於断的
+BLOOD
+BLOOD
+URINALYSIS
+牌盒大於预後的判定。
+CHEMISTRY
+CELLS
+BUN
+band
+判
+讀
+seg
+Interpretation
+血清白蛋白的降低可歸因於管不良及吞困難。由上升的SGOT及
+AB
+CPK示有肌肉死。由血清中球蛋白量的上升可指出有免疫系統之刺激
+作用。嗜酸性球增多症，在某些病犬反映著此病之免疫機轉的特色。尿
+SGO
+SPECIALTESTS
+之假阳性潜血反應乃由损傷肌肉之肌紅素所造成。
+clebiop
+-muscole necrosis.eosinophilic and lymphocytic
+oxoplasmatiernegative
+infiltratior
+類症别
+Differential Diagnosis
+一肌肉生检一肌肉死、嗜酸性球及淋巴球的浸润。
+弓力價一陰性。
+創傷一一無嗜酸性球增多症·聚迫模式的白血球像（輕微的嗜中性球
+注射新斯狄克明一以0.1毫克/10磅體重慢静
+豚注射無反。
+弓毒症一一SGPT及胆紅素值均上升：無酸性球的增加且血清球蛋
+白質亦不上升；弓力價阳性。
+重症肌無力一一SGOT及CPK值均正常：注射新斯狄克明则無力現象
+消失。
+202
+tloss重减輕
+dysuria排尿困雞
+慢性前列腺炎
+chronic prostatitis
+oloodypre
+包皮含血排出物
+未會交配過的老公狗·其前列腺常有肥大，囊睡及被感染。腺體小室
+發生多發性·而引起尿路疾病·發燒、幅吐·急後重及運動障碳等
+BLOOD
+BLOOD
+CHEMISTRY
+CELLS
+JRINALYSIS
+判
+Interpretation
+白血球数的上升反映出有慢性化。腰、蛋白置、血液及細菌見於排
+泄尿中而不见於膀胱穿刺所得之尿液中。經由細胞學橡查及前列腺液之培
+，有助於判定是否受感染且可判别感染的細菌種類。粗織壤死造成
+SPECIALTESTS
+SGOT上升：血清球蛋白質的升高反映出免疫系統之刺激反。
+radiography-enlarged prostate gland with possible cystson
+cyslmosmalune
+類症别
+Differential Diagnosis
+可見到囊。
+膀胱穿刺一尿液正常
+膀胱炎一一血球像正常：膀胱穿刺液含紅血球·白血球及蛋白質。
+臀孟臀炎一一膀胱穿刺所得之尿含尿圆柱及細菌；BUN升高。
+良性前列腺增殖一一白血球像正常：尿正常；前列腺液正常。
+204
+臀孟臀炎
+polyuria多尿
+pyelonephritis
+polydipsia烦褐
+vomiting唱吐
+期就被现。此病常在臀已有明的赞化如尿毒，以及由X光检出肾盂
+結石後才會被確。菌尿症常見於急性病例·但不易由慢性病例出。
+判
+BLOOD
+BLOOD
+Interpretation
+CELLS
+URINALYSIS
+CHEMISTRY
+BUN
+肾源性尿毒症可由血中尿素氮（BUN），血清肌酸酐和磷值等之升高
+segph
+albun
+ct billi
+glucos
+otalbikirut
+mono
+OGcull bl
+降低示已有酸中毒·由於小受到刺激後增加吸收性及肾的排泄功能减
+低·使得血清中脂肪酸酶及激粉酶值均上升。件有核左轉性啫中性球為主
+aledRBC
+的白血球增多症，示已有局部性感染。因紅血球生成素生量减少·故
+亦呈现了抑制性血。
+SPECIALTESTS
+类症别
+renal calculi
+Differential Diagnosis
+fibrosisinchroniccaurs
+osis in acute oases
+一膀胱穿刺一尿液之细菌培。
+糖尿病一
+一血糖值高；糖尿。
+放射線攝影一有否肾石。
+慢性間質性肾炎一一尿中之尿圆柱及細胞很少。
+肾生检一漫性化腰及壤死見於急性病例：慢性病
+例则有藏性。
+肾前性氮血症一一尿中没有胞、蛋白質及尿圆柱；尿比重高；血液
+浸縮。
+206
+depression抑檬
+polyuria多尿
+fever發烧
+子宫蓄
+polydipsia混
+pyometra
+子宫蓄乃是產後子宫炎不同性贺的子宫化性疾病。此病由内分泌
+特微。留滞於子宫内的及毒性物以及抗原一抗體覆合體經由循環作用
+BLOOD
+BLOOD
+CELLS
+JRINALYSIS
+會造成翻發性肾小瞳性肾炎。
+CHEMISTRY
+BUIN
+判
+direct bilir
+Interpretation
+血中尿素氮值的上升示有急性尿毒症。由脱水所造成的血容比·血
+清蛋白及白蛋白量之升高，遮蔽了本病蛋白質流失的特性以及饼發的贫
+srinas
+血。免疫系統受刺激及慢性炎症導致血清維素元及球蛋白量的上升。血
+SPECIAL TESTS
+液像示了中性球性白血球增多症及抑制性血·尿指出肾小體性肾
+炎引起的蛋白流失特質，而且若查自然排出之尿液则可見到白血球。
+ography
+—obvious uterine enlar
+boneman
+hyperplastic myeloid elements, hypoplastic
+類症别
+道脱落細胞检查一許多嗜中性球及細菌。
+放射線一子宫明的大。
+Differential Diagnosis
+骨髓生一骨髓球系細胞之增殖：紅血球系細胞之
+糖尿病一一血糖值高；糖尿；尿比重高。
+發育不全。
+慢性間贺性臀炎一
+一BUN上升；血清肌酸酐及血磷皆上升。
+尿崩症一一BUN值及球蛋白值均正常；白血球敷正常。
+208
+weightloss體重减
+網狀内皮增殖病
+reticuloendotheliosis
+食戀
+白
+此為猫白血病病毒（FeLV）引起的骨髓增殖性疾病，以骨髓中及骨
+髓外部位，如脾、肝、肾等處之未分化之韩細胞的增殖特微。而循環血
+液中也有此種不正常而未分化的幹細胞，常被淋巴球或單核球。此
+種細胞的侵入會使肝及脾著睡大。
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CFLLS
+判
+Interpretation
+肝實狀隙間的瘤細胞张而發生肝細胞的搭壓性死，使得SGPT
+、SGOT及精胺酸酶值均上升。血片梭查常使人生困感，即使是經驗
+富之技術員，對血液像之判别亦會因有大量循環之瘤細胞而常判為淋
+巴球或單核球。骨髓受抑制可由嗜中性球的减少及伴有少數的有核紅血球
+，低的平均血球容横及少數的網識球而看出。
+SPECIALTESTS
+類症别
+（骨髓生一許多未分化幹細胞的增殖。
+Differential Diagnosis
+末稍血液抹片一許多未分化的韩細胞。
+溶血性鸳血一一血清胆紅素值升高：有核紅血球及網織球數均增加。
+回猫白血病病毒試驗一阳性。
+失血性贫血一一有核紅血球、翻球及中性球皆增加。
+淋巴肉瘤一一循環血液片或/及生中可見許多不正常淋巴球。
+紅血球性骨髓增殖一一循環血液片有多量的有核紅血球及不正常的有
+核紅血球及紅血球系巨胚翻胞。
+210
+水杨酸中毒
+（阿斯匹林中毒）
+salicylate toxicity
+ness衰弱
+(aspirin toxicity)
+猫無法迅速代水杨酸·所以即使以標弹劑量或持精性的給予小劑量
+的阿斯匹林，皆會使猫中毒。臨床症状及實室數據则依中毒程度而不同
+vomiting幅吐
+anorexia联食
+判
+Interpretation
+出血
+由高血糖值及聚迫性白血球像可看出有重的全身性聚迫（輕微的成
+熟嗜中性球增加；淋巴球减少，嗜酸性球少）。聚迫性白血球像可能會因
+BLOOD
+BLOOD
+URINALYSIS
+骨髓出成熟中的細胞呈示的核左轉性白血球增多症所遮蔽。因脱水造成
+CHEMISTRY
+CELLS
+血清魏蛋白及白蛋白量的上升。腸炎则會使脂肪酶及粉酶之吸收增加
+lympl
+造成血清中此二酵素之增加。升高的SGPT、SGOT及血清精胺酸酶
+mosigd
+示有肝死。血及由失血·海因滋小體（Heinz-body）形成引起之溶
+MCV
+血及骨髓中紅血球系成份之受抑制而造成。管已有血，但仍具有正常
+平均血液容·翻織球及有核紅血球數等指出此血骨髓抑制者，血清
+重碳酸的降低显示有酸中毒。尿中水楊酸之出更可做盒本病的確定
+SPECIAL TESTS
+诊断。
+blood smear-—Heinzbodies evident
+類症别
+H血液抹片一明的海因滋體。
+骨髓驗一红血球新生作用低下。
+Differential Diagnosis
+尿中水楊酸盟一阳性。
+猫白血病病毒感染病一一嗜中性球减少性白血球减少症，猫白血病病
+毒試驗阳性。
+猫泛白血球减少症（猫瘟）一一泛白血球减少（panleukopenia
+尿中無水杨酸。
+海因滋體血一
+一SGPT及血清粉酶及脂肪酶值均正常；骨髓查
+可見强烈的紅血球新生作用。
+212
+muscle fasciculations
+低血钙性痤
+肌肉成束
+（子，產後痹）
+tachypnea
+hypocalcemic tetany
+呼吸急促
+(eclampsia, puerperal tetany)
+此病發生於大量泌乳之母狗而以低血钙症為特微。低血钙症引超運動
+tachycardia
+神經活動增加及墅。低血钙性擎與其是由於钙不足母是由於钙
+心動快速
+积蓄之不適當移较恰當。實驗室橡有助於别本病與其他原因所引
+起的神經，肌肉活動增加的疾病。
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+判
+BUN
+banc
+Interpretation
+血液化學之主要常乃血钙值的降低。同時血磷值可能有降低。血糖
+值的升高及白血球像的赞化乃有迫時的典型反應。性收縮所引起的
+肌肉損傷會造成CPK及SGOT的升高。肝之堰死偶可因母狗的過度運動及
+一次次的摔所致，可由SGPT及精胺酸酶值的上升看出來。呼吸性中
+SPECIALTESTS
+的白血球溢人所致。
+H)血清胆酶一正常。
+類症别
+Differential Diagnosis
+中毒一一血钙值正常；有核紅血球增加；紅血球有嗜性彩斑。
+有機磷中毒一一血钙值正常；血清胆酯酶降低；遇度流涎、流淚
+排粪排尿。
+214
+ns皮膚捐傷
+fever聂烧
+melena黑粪
+锭中毒
+vomiting电叶
+anorexia联食
+thallium poisoning
+過去常見·如今因很少以殺劑，故此種中毒已少見。可與粒
+體酶結合，而干摄腦、肾及皮膚需氣性呼吸作用，且對許多器官有墩
+死性效應。
+BLOOD
+BLOOD
+CHEMISTRY
+URINALYSIS
+CELLS
+BUN
+WBC
+判
+讀
+bano
+Interpretation
+glucose
+kelones"
+eosind
+尿中的尿圆柱、白蛋白及血液示有活動性臀炎；已损了足狗的臀
+粗織而造成尿毒症，此可由BUN及血清肌酸酐的上升看出来。上升的
+SGPT及SGOT及血清精胺酸指出肝有死。而上升的血清性磷酸酶及
+胆紅素值指出胆汁系統的損壤。肌肉之死则由SGOT及CPK值的上升看
+SPECIALTESTS
+出來。尿中出现尿胆素元明的指示胆管仍可流通。升高的激粉酶及脂
+ositive by Gabriel-Dubinmethod
+肪酶指示小腸之疆炎及臀對此二酶之排泄减少。酸中毒及脱水现象则可由
+rmalorelevated level
+（一Gabriel-Dubin法阳性。
+血中重碳酸减少及增高的血清蛋白及白蛋白量看出·血球像示骨髓
+尿中尿胆素元一正常或上升。
+受抑制。
+類症别
+Differential Diagnosis
+犬瘟熱一一出現包涵體；蛇試驗陰性。
+砷中毒一一由組織毒學查可出砷。
+216
+convulsions抽播
+diarrhea 下荆
+fever發烧
+弓症
+cough咳嗽
+（犬）
+toxoplasmosis
+(canine)
+弓（Toxoplasmagondii）會引起腦、肝及肌肉之急性炎症反匯。免
+疫反應發生後·此寄生會形成囊，而使感染自行抑制。然而，当有免疫
+BLOOD
+BLOOD
+CHEMISTRY
+URINALYSIS
+CELLS
+抑制或因全身性疾病造成的聚迫·會使囊破裂而復發臨床症狀。狗不會經
+由粪便排出卵囊而傅染給其他動物，此為狗與猫不同之處。
+dirtect birubin
+lymph
+esterol
+enonp
+判讀
+Interpretation
+肝死可由上升的SGPT、SGOT及血中精胺酸酶值看出，肌肉死
+可SGOT及血中CPK數值的上升得知。肝門服系統損傷可由黄痘及上
+SPECIALTESTS
+升的血中直接反應型胆紅素值看出來。慢性下剩造成血中白蛋白量的降低
+sing titer insamples taken2wee
+CSFe
+。白血球像反愿出中性球之破增加及粒球形成受抑制。若有腦或眼
+creased neutrophil
+numbers
+（弓力價一隔二遇後探取之試様中力價上升。
+等器官受感染時，體液的检查可能有所助。
+腦脊髓液检查一蛋白質量上升；嗜中性球敷目增加。
+類症别
+Differential Diagnosis
+犬瘟熱一-SGOT、SGPT，血中精胺酸酶及胆紅素值均正常；犬瘟
+熱萤光抗體橡查陽性。弓力價陰性。
+犬傅染性肝炎一一血小板减少；出血時間延長；弓力價陰性。
+弓症
+218
+（猫）
+phalitis炎
+toxoplasmosis
+fever爱烧
+(feline)
+猫被弓（Toxo，gondii）感染後有兩種型式”一為無病微之揭媒者
+（腸管上皮感染）另一為具臨床病微者（外感染）。無芽胞化的卵囊出
+现於媒者之正常粪便或下中。有臨床症狀的猫则有與受侵害器官相關
+之症狀出现·如眼、脑、肺、肝或肌肉等疾病的症状。媒猫會經由粪便
+傅播弓·但有臨床症狀之猫则不會。感染途径可經由摄食具有芽胞幼囊
+之生肉或接到具卵囊之猫粪所致。
+判
+BLOOD
+BLOOD
+Interpretation
+URINALYSIS
+CHEMISTRY
+CELLS
+有臨床症狀之猫如肝受到重的牵連時·其SGPT、SGOT·血中胆
+glucos
+紅素及精胺酸酶數值皆上升。如肌肉受到侵害見SGOT及CPK均上升。
+mosno
+oleslerol
+迫模式（淋巴球减少，嗜酸性球減少）。媒猫之粪便中有典型的無芽胞
+casis
+化的卵囊。
+類症别
+SPECIAL TESTS
+Differential Diagnosis
+nsporulated oocystsin fresh samples,oocysts
+猫白血病病毒（FeLV）一
+FeLV查阳性；CPK值正常；弓鑫抗
+Toxoplasma titer-risingtiter in samplestaken2weeks apart
+冀便浮游法一新鲜粪便中有未芽胞化的卵囊，放置
+體陰性；重抑制性血；細胞學检查可見到睡瘤細胞。
+1~5天後粪便则可见生殖芽胞，卵囊大小盒10
+X12μ
+細菌感染一
+一白血球增多症；嗜中性球增加。
+弓抗體力價一隔二後取得之武様中之抗體力價
+急性血症一
+一紅血球數及血清白蛋白量均上升；尿比重高；肝功能
+上升。
+正常：弓鑫抗體陰性。
+球鼻症（Isosporabigemina，I.felis）一一芽胞化的囊胞·直径有
+20—40μ
+220
+221
+hypothermia
+體温過低
+白
+重創傷
+cyanosis紫
+severe trauma
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+3
+CELLS
+BUN
+ymp
+創傷可引起内部器之损傷而無外表之傷害微兆。典型的所見包括肌
+tal bilirubin
+holeslerol
+肉提傷、出血、肝壤死、臀损傷、脱水和酸中毒。實驗室检結果比身體
+RBC
+的更能正確的指出内部器损傷的部位。由這些驗結果亦可用來追
+踪治療的效果及判定一個合理的预後。
+SPECIAL TESTS
+判讀
+Interpretation
+急性繁迫可由高血糖值及聚迫性血像（輕度的成熟中性球增多·淋巴
+球减少，嗜酸性球减少）得到證明。急性氮血症则可由BUN值的上升但需
+重復作肾全功能估試驗而出。血尿指出肾或膀胱之創傷。SGPT、
+SGOT及血清精胺酸酶數值若有上升则示有肝损傷。肌肉損傷则可由
+SGOT及血中肌磷酸激酶（CPK）的上升看出。血清重碳酸之數值若降
+低，示有酸中毒。且可能件有贫血一一若须外科手術，此點必须注意。
+血清白蛋白量的减少及低血容比则表示有失血之發生。
+223
+222
+sion抑影
+uia排尿困
+猫泌尿器症候群
+feline urologic syndrome
+anorexia
+食慈
+(FUS)
+此症候群乃包括急性膀胱炎·大量的秸晶形成尿道阻塞及截性臀损
+傷等所造成。有完全尿阻塞的動物·將發生發的多系統性困摄，且持續
+腹痛
+到尿路重新畅通。不管有無臀疾之象，因阻塞的橡故，血中的尿性物
+會因而上升（氮血症），且會因伴髓的膀胱炎遮蒸掉上部尿路障碾之存在
+BLOOD
+BLOOD
+URINALYSIS
+CHEMISTRY
+CELLS
+。解除阻塞48小時後血液化學群組分析數值有助於萨估治療的秸果和指
+BUN
+出是否有慢性臀障。
+etor
+判
+Interpretation
+BUN及血清肌酸酐和磷值的升高显示有尿中物之留，惟高的尿比
+重以及缺少尿面柱显示是氮血症而不是尿毒症。FUS造成之繁迫常引起高
+血糖症及糖尿。脱水则可由血蛋白量增多：血液濃縮及濃尿看出。白血球
+SPECIAL TESTS
+像则示出典型的繁迫模式（輕度的成熟嗜中性球增多、淋巴球减少及嗜
+酸球减少）。上迹多狀况在脱水减除及阻塞通之後會自己蟠正遇来。
+類症别
+Differential Diagnosis
+(慢性間質性臀炎一—尿比重低。
+膀胱破裂一
+一診不到膀胱；尿道通。
+白糖尿病一
+一持續的高血糖值；可能有酮尿症。
+225
+224
+附錄一、正常值
+226
+227
+狗的正常血液值
+下迹生理值是由正常健康的750雙狗所收集者。
+這些值示在許多試驗處理中年的、成年的及老年的、雄性的和雌
+性的犬有意羲的不同。所以·所有試驗結果都分幼犬、成犬、老犬等記
+载。每還包括低、平均及高的值，這些都是在正常情况下·狗售們在活
+的生活環境中所得的值。
+當有完整的病歷和獸醫師的物理學检查時·低及高血液值對提出一個
+断極有助
+於狗品種及大小方面没有發现有意羲的愛化·因此次調查包括16個
+品種·圍自聖伯納到吉娃娃也。
+是突然的。明的·它們都包括在运些值内。這低及高的值必须涵盖了
+95%正常的狗數。
+如需要時可用下迹公式的轉换單位，但其結果不是常呈直線的比例。
+1 Somogyi Unit x 1.85 = 1 IU/L
+1 Bodansky Unit x 5,4 = 1 IU/L
+1 Bodansky Unit = 1.8 King-Armstrong Units
+1 King-Armstrong Unit x 7.l = 1 IU/L
+1 Sigma-Tietz Unit x 139 = 1 IU/L
+1. Reitman-Frankel Procedure
+2. Rate Reaction Procedure
+3. Incubated 6 hours at 37°℃
+4. Technicon method of Kessler-Pileggi
+5. Tg(avg. 51.2) x T4 Thyroxine
+100
+228
+229
+血薇梭驗
+以下默况造成低於標举
+以下状况造成高於標举
+3.血容精减少（休克）
+(Blood Test)
+(Conditions causing Decreased
+(Conditions causing Increased
+4.肾上腺皮質的功能不足
+Levels.)
+Levels.)
+蛋白量
+1.食物不良
+1.脱水
+血紅素
+1.失血造成的黄血（内出血内外寄
+1.脱水（吸入水份滤少、吐下
+(Total protein
+2吸收不良
+2休克（急性胰腾炎）
+血容比
+生）
+3.肝疾病（白蛋白不生成）
+3.睡瘤（淋巴肉瘤及整細胞瘤）
+紅血球
+2.度溶血造成的贫血（细菌感染
+2心及（或）肺疾病
+4.肾的疾病（蛋白尿）
+4.感染
+血中寄生、化學物質、有毒植物
+3.休克
+5.體液流失入融腔内
+4.居住海拨高處
+6.傷口的流失
+3.紅血球生成不足造成的貨血（缺
+7.烧傷
+生素B、酸及生素B：
+8六個月大以前的年动動物合有低標
+之缺乏）
+4骨髓抑制造成贫血（抗生素、化學
+9.怀孕及（或）哺乳中
+物置）
+乳酸脱氢酶
+1.心肌的感染
+白血球
+1.急性感染病（病毒性）
+急性感染病（细菌性）
+(Lactic Dehydr-
+2肌炎
+2.血液疾病（生成不全的贫血）
+ogenase)
+3.恶性的肿瘤
+3.化學物置（抗生素、抗粗胺、抗
+4.肝炎
+痤）
+懒性磷酸鹽酶
+1.勤物的年龄（年幼者高）
+血中尿素氮
+1.肝硬化（肝细胞捐傷）
+1.肾炎
+(Alkaline P
+2.肝鳞疾病
+(BUN)
+2.缺乏蛋白質（取量低吸收不良
+2.尿路阻塞
+Phosphatase)
+3.胆汁的阻塞
+3.休克
+4.骨骼的轉移睡瘤（骨性肉瘤）
+4.脱水
+5.血骤可體松的上升（内因的或外因
+5高蛋白食物（輕微）
+的）
+6充血性心衰竭
+尿酸
+1.肝嘴捐傷（唯最重肝病）
+7.肾上腺皮置功能不足。
+(Uric Acid)
+胆固醇
+1.吸收障
+1.高脂肪食物
+钙
+1.机截
+1.肾的疾病
+(Cholesterol)
+2.管不良
+2.甲状腺功能不足病
+(Calcium )
+2.吸收
+2.遇量的生素D
+3.門展性硬化
+3.最重的肾病
+3.描捌（子瘤）
+3.骨骼的普瘤或感染
+4.可體松治察
+4.胰的疾病（皂化作用使钙沉激）
+4.假性高副甲状腺功能症（淋巴肉瘤
+5.糖尿病
+5.立克次體病
+6.胆管阻塞
+6.软骨病
+5.高副甲狀腺（睡瘤）
+葡萄糖（mg/100m
+1.胰岛素過多（胰藏的睡瘤）
+1.短暂的上升（消化、典套、繁）
+1.不通當的食物
+1.誉萎性的发高副甲狀腺功能
+)(Glucose)
+2.剧烈用力
+2糖尿病
+2立克氏
+2.肾的衰竭
+(Phosphorus)
+3.甲状腺功能不足
+3.慢性胰炎
+3.原的高副甲状腺功能（Ros
+ting
+3.雄生素D遗多症
+4.腦垂腺功能不足
+4.肾上腺皮黄功能增加
+from
+are)
+5.臂上腺皮置功能不足
+5.垂腺前的能力增加（腾垂腺功能
+氯化钠
+1.幅吐
+1.脱水
+過旺）
+(Chloride)
+2.低肾上腺的疾病
+2以過量生理颤水治察
+6.痤攀
+3.慢性肾的疾病（管的缺损不全而允
+3.呼吸的酸血症（换氣過度）
+肌酸酐
+1.肾的傷害
+許過度排）
+4.充血舆水睡件随肝硬化
+(Creatinine)
+2.尿道阻塞
+4肺炎时换氧不足
+5.臀的完全荒
+230
+231
+5.氣睡
+6.利尿劑（Thiazide and汞）
+纳
+1.吸收不良
+1.原發性的缺水
+猫的正常血液值
+(Sodium)
+2.重下案
+2脱水
+3.慢性肾衰竭
+3.渗透性利尿
+4.低肾上腺衰蝎
+下迹生理值是由正常健康猫收集者。
+5.充血性心衰竭
+6.利尿劑
+這些值示在一些試處理中年輕的、成年的及年老的、雄性的和雌
+7.幅吐
+性的均生有意羲的不同。所有試果分類成小猫、成猫及老猫各。
+钾
+1.不遇营的摄取
+1.钾
+(Potassium)
+2.流失遇多（唱吐或下）
+2肾功能障碱
+观察所得。
+3.尿液的流失（臀上腺皮質的功能通
+3.低胃上腺功能症（阿狄孫氏）
+高）
+4.休克
+5.呼吸的酸血症（换氣不足）
+断極有助。
+這灰调查所处理的品種代表全美的猫一
+Siamese,Persian,Lynx
+甲状腺
+1.甲默腺功能不足
+1.甲状腺功能通盛
+(Thyroid)
+2.樊动碘的摄取（meat low in
+2功能性甲状腺睡瘤
+及Domestics一但示除了在年及性别外無有意羲的變化。
+iodine)
+猫先以Vetalar（KetamineHCL）合其缤蕾·然後血样探自静眠。
+粉酶
+1.急性胰脯填死
+這些测定值是使用Model BCoulter Counter及autoanalyzer，Technician
+(Amylase)
+2慢性胰炎
+1.胰瞒的睡瘤（十二指）
+SMA 12-60
+脂肪酶
+(L ipase)
+胆紅素
+1.病毒性肝炎
+不是突然的。明的它們都包括在這些值內。這低及高的值必须涵盖了
+(Bilirubin)
+2.肝細胞的损傷（死、糕性）
+95%正常的猫數。
+3.胆管阻塞
+如需要時可用下逃公式的轉换單位但其結果不是常呈直的比例。
+4缸血球溶血
+1 Somogyi Unit x 1.85 = 1.IU/L
+天門冬酸轉胺酶
+1.肝的壤死
+1 Bodansky Unitx5.4= 1 IU/L
+SGOT
+2肌炎
+1 Bodansky Unit  1.8 King-Armstrong Units
+(Serum Glutamic
+3.心肌梗塞（細胞的受或壤死）
+1 King-Armstrong Unit x 7.1= 1 IU/L
+Oxalacetic
+1 Sigma-Tietz Unit x 139= 1 IU/L
+Transaminase)
+胺基丙酸轉胺酶
+1.化膜性肝壤死
+1.Reitman-Frankel Procedure
+SGPT
+2.感染性肝炎
+2.Rate Reaction Procedure
+(Serum Glutami
+3.脂肪代谢障（甲状腺功能不足）
+3.Incubated 6 hours at 37°C
+Pyruvic
+4.中毒【砷[础霜]】
+4.Technicon method of Kessler-Pileggi-
+Transaminase)
+5.外傷性捐傷
+5.T（avg. 51.2) xT4Thyroxine
+6.胆管性肝炎
+100
+232
+233
+下述状沉造成低於标
+下述状况造成高於標举
+血液检驗
+(Conditions causing Decreased
+(Conditions causing Increa-
+(Blood Test)
+Levels.)
+sed Levels.)
+1.猫傅染性黄血
+1.脱水（幅吐、下痢）
+血缸案
+2甲基中毒
+2休克
+(Hemoglobin)
+3.失血造成的黄血（内出血及内外
+3.心及（或）肺的疾病
+血容比
+(Hematocrit)
+寄生）
+红血球
+4.缸血球生成不足造成的贫血（
+(RBC)
+生素B酸及生案B
+之缺乏）
+5.骨髓抑制造成贫血（抗生素化
+學物置）
+6.遇度溶血造成的贫血（翔菌感染
+血中寄生、化學物質、有毒
+植物）
+1.猫炎（猫瘟熟丶泛白血球斌少
+1.猫肺炎
+白血球
+2.脂肪粗炎
+(WBC)
+症）
+2.化学製劑（抗生素、抗粗織胺、
+3.键球菌感染
+抗密学）
+4.傅染性腹膜炎
+3.急性感染病（病毒性、細菌性）
+5.白血病
+4.弓盘病
+6.急性感染病（细菌性.）
+7.瘤形成
+1.脱水
+血中尿素氮
+吸收
+差）
+2.高蛋白質食物（輕微）
+(BUN)
+2.肝的功能不足
+3.肾炎
+4.尿道石
+5.休克
+6.充血性心衰竭
+7.次乙基乙二醇的毒性
+1.低脂肪食物
+1.肾病（眼重者）
+胆固醇
+2.肝麟疾病（門派性硬化）
+2.可體松治擦
+(Cholesterol)
+3.肌
+3胆管阻塞
+4.高脂肪食物
+5.糖尿病
+1.胰岛素過多（胰的睡瘤）
+1.糖尿病
+葡萄糖
+2.烈的用力
+2慢性胰炎
+(Glucose)
+3.腦垂腺前葉及/或肾上腺皮
+3.垂腺功能不足
+235
+234
+(Calcium)
+2吸收不良
+2.遇量的生素D
+的活性增加
+3.骨骼的睡瘤或感染
+4.密攀
+3.成骨不全
+5.典套
+4.软骨病
+6.給予葡萄糖
+5.搐摄（子瘤）
+稳蛋白質
+1.食物不良
+1.脱水
+1.不通當的食物
+1.臂衰竭
+無機磷
+2怀孕及/或哺乳中
+2.感染
+(Total Protein)
+2向优病
+2.生案D通多症
+( Inorganic Phosphorus
+3.肝不正常（白蛋白不生成）
+3.休克
+3.警粪性的继性高副甲状腺功
+4.肾疾病（蛋白尿）
+4.厘瘤（淋巴肉瘤及紫細胞瘤）
+能症
+5.傷口的流失
+1.急性胰壤死
+6.德傷
+2慢性胰腰炎
+7.六個月大以前的幼年勤物含有低
+(Amylase)
+3.胰膦的睡瘤
+標華
+脂肪酵素
+4.腸道阻塞（十二指腸）
+胺基丙酸轉胺酶
+1.肝细胞增死
+(Lipase)
+2.感染性肝炎
+1.幅吐
+1.脱水
+SGPT
+氯化物
+3.中毒（砷、础霜）
+(Serum Glutamic
+(Chloride)
+2.慢性肾的疾病（肾小管的缺陷而
+2.以退量生理鹽水治擦
+Pyruvic Transam
+尤許通度排泄）
+3.充血奥水睡件髓肝硬化
+inase)
+3.肺炎时换氧不足
+4.呼吸性中毒（换氯通度）
+天門多酸鹽轉胺酶
+1.肌炎
+4氯膜
+5.臀的完全荒
+SGOT
+2.肝的指傷
+3.心鳞的創傷或壤死
+5.利尿劑（Thiazide及汞劑）
+(Serum Glutamic
+1.吸收不良
+1.原爱性的缺乏水
+Oxalacetic
+纳
+2.重下剩
+2脱水
+(Sodium)
+乳酸脱氩酶
+1.恶性睡瘤
+3.慢性肾衰竭
+3.透性利尿
+2肝炎
+(Lactic Dehydrog-
+4.充血性心衰竭
+enase)
+3.肌炎
+5.利尿劑
+胆紅素
+1溶血
+6.唱吐
+(Bilirubin)
+2.肝细胞损傷
+1.不通當的摄取
+1.溶血
+尿酸
+肝赋捐傷（催於最重肝病）
+2流失遇多（崛吐或下）
+2肾功能不足
+(Potassium)
+(Uric Acid)
+3.由尿液的流失（肾上腺皮質的功
+3.低肾上腺皮置功能症（艾狄孫
+輪性磷酸鹽酶
+1.胆管阻塞
+能過高）
+氏）
+(A lkaline Phosph-
+2肝病
+3.骨骼的疾病（骨性肉瘤）
+4.利尿刺
+4休克
+atase)
+1.肾的损傷
+5.治糖尿病的酮病（用胰岛素治密
+5.下剩
+肌酸酐
+(Creatinine)
+2体克
+时葡萄糖及钾進入细胞）
+6.呼吸性酸中毒（換氯不足）
+3.脱水
+低甲状腺功能症
+1.高甲状腺功能症
+甲狀腺
+4尿路阻塞
+(Thyroid)
+2.機能性甲状腺睡瘤
+1.饥俄
+舒
+1.肾的疾病
+237
+236
+尿正常值（未棵示者保每公斤體重一日之公释值）
+犬的尿電解質再吸收率
+（mm/分鐘/肾小體通液100ml）
+大
+猫
+比重
+1.018-1.060
+1.018-1.040
+重炭酸鹽
+22-30 me/kg/日
+2.08=3.00
+量
+24-41ml/kg/日
+Ca钙
+0.10-0.12
+1 - 3
+0.20-0.45
+钙
+0.13mEq/kg/日
+氯化物
+11.0-11.8
+1.7-3.0
+（烨著NaC1增加的酸中毒状想时篇10.24-13.0）
+無機磷
+20-30
+P磷
+0.135-0.155
+30 mEq/kg/ 日
+磷酸鹽
+K钾
+0.308-0.512
+（再吸收）pento-barbital麻醉
+40-100
+钾
+Na纳
+12.4-14.4
+（再吸收）pento-barbital麻醉
+硫酸鹽
+30-50
+疏酸鹽
+0.080-0.205
+硫磺全S
+25-40
+酯化S
+1.3-3.5
+中性S
+5-10
+Creatine 肌胺酸
+10-50
+30-80
+12-20
+Creatinine 肌酸酐
+犬的肾機能
+800-4000
+300-500
+尿素
+0.2-13.0
+4.5
+尿酸
+肾血流me/分/璧表面精m
+134-398
+有效肾血流m/分髓/體表面m
+480
+500-1100
+250-800
+德氮
+肾小體滤遇率me/分缝/體表面稽m
+45.8-122.2
+60
+09-08
+德遇分屑%
+0.213-0.421
+"Ketosteroid17酮固醇
+0.040-0.100
+脲清除率me/分體表面精m²
+28.2-83.0
+重炭酸鹽
+0.05-3,2mEq/kg/ 日
+葡萄糖Tm.mg./分/體表面精m
+302.6
+氯化物
+0-10.3mEq/kg/日
+Na纳
+0.04-13 mEq/kg/ 日
+P磷
+0-1.04mEq/kg/日
+（無或板微量）
+（無或微量）
+Indican木蓝素
+（未有可算的定量值，依撼Harrison
+（同
+左）
+Bilirubin胆紅案
+武法呈1—2性反）
+Urobilinogen尿胆案元（依據Wallace，Digmond试法写1：
+（同
+左）
+32以下）
+5.0-7.0
+5.0-7.0
+pH
+238
+239
+附錄二
+普通疾病之主要症状，
+探檬物及其查目的一
+241
+240
+呼吸器病
+主要症默
+物
+检查日的
+偏
+病
+名
+普通疾病之主要症状、探樣物及其查目的
+充血、睡鼻水
+細菌、病毒、寄生
+鼻水刮取物
+病毒（封入體）、
+鼻镜
+淋巴節睡眼
+棉棒
+嗜酸性球
+区光
+炎
+瞬性鼻水、蜀晋
+临床歌醫师在言燕病高时，要祥虚的观察其临床症状，韭立即判断
+血液、细菌
+鼻水
+鼻区光
+感探取那些様材以及様材的检查方法。今依一般疾病的主要症状，检查材
+单侧或變侧鼻腔流血
+血液
+凝固時間、凝血酶元
+出
+血
+血墅
+料以及检查目的等：依各系统分别略述之。
+强咳、知景遇敏鼻
+鼻水喀痰
+頭
+灸
+細菌、微菌、寄生毒
+水
+病毒
+X光
+消化器病
+偶咳、嘲音、熟
+血被
+白血球数、百分比
+主要症状
+查目的
+考
+支氣管炎
+病
+名
+物
+鼻水
+發熟、福音、嘴音、
+鼻水喀痰
+細菌、菌、寄生
+水疱腰疱膜
+炎
+清流
+白血球数、百分比
+病毒
+区光
+呼吸困、服搏快
+肺
+血液
+鼻水
+尿
+蛋白
+頭炎
+咳嗽鼻水、輕熟
+鼻水刮取物
+同
+上
+幅吐流涎、鼓服
+区光
+發熟、咳嗽、水平
+食道阻塞
+音、摩擦音、呼吸困
+穿刺液
+比重蛋白胞
+吐血、舌苔唱吐
+吐物胃液
+pH、潜血瓣菌
+胸
+膜炎
+细菌、Rivalta反
+X光
+胃
+炎
+痛
+毒物
+区光（小勤物）
+呼吸困水平普
+血液
+白血球数、百分比
+血液
+白血球数百分比
+水
+胸
+幅吐丶吐血
+速
+粪便
+卵、潜血
+冀便
+細菌丶岳卵（最體）
+下痢、便秘、粘血便
+循環器病
+原毒物
+服
+炎
+疝痛發熟
+白血球数、百分比
+查目的
+血液
+病
+名
+主要症状
+機
+物
+吐物
+PH
+X光
+白血球數百分比
+ECG
+幅吐疝痛
+音界张、心晋不
+血液
+S-GOT
+血墨
+螨動诚退便秘
+粪便
+盘卵
+正、呼吸速
+便
+秘
+蛋白、沈渣、菌
+光
+疝痛
+尿
+尿
+量木蓝素
+疝痛、派搏快，呼吸
+搏快、呼吸困
+ECG
+血液
+缸白血球·百分比区光
+翼位
+血液
+白血球数、百分比
+困雎、腹圈膨蒲
+血整
+NPN
+心舞膜症
+睡蛋白尿心内雜
+尿
+蛋白沈渣
+区光
+腹部膨眼、音、腹
+比重蛋白質細胞
+膜炎
+穿刺被
+晋
+痛發热
+细菌Rivalta反愿
+X光
+白血球数、百分比
+心悸、音界摘张
+腹部膨服音脉
+血液
+血液
+白血球数、百分比、
+ECG
+水
+腰博快、魏晋、高熟
+持快黄血，浮
+細菌
+血壓
+心内膜炎
+呼吸困難心律不正
+全身黄痘色便秘
+蛋白沈渣、翻菌
+X光
+下、神經症狀、癌
+血液
+各种肝藏機能橡查
+瘙灰白色便（附塞
+心俘不整服·脉搏快
+血薇
+白血球数百分比
+ECG
+性）
+粗機查
+尿
+X光
+血清蛋白
+酸甜、呼吸困
+尿
+血墅
+生化事的橡查
+心功能不全
+量、比重蛋白、
+肝生
+同上、及肝爵普界摘
+X光
+沈渣
+疾
+惠
+张、肝医痛
+242
+243
+神經系病
+泌尿器病
+病
+名
+主要症状
+查
+物
+查
+偏
+名主要症状
+查
+機查目的
+考
+無种、不自主运勤、
+春髓液
+力、蛋白细胞
+光
+知瓷障摄、眼搏缓
+細菌
+眼庭
+量、蛋白沈渣比重
+ECG
+水
+尿
+睡
+神經症状、史二氏
+一般检查、蛋白
+血液
+S-GOT
+血液
+血聚
+呼吸吐下痢
+症
+NPN
+眼底
+與套、抑、不自主
+呼吸尿臭味
+pH潘血
+藤膜·腾炎
+腾脊髓液
+蛋白白血球細菌
+胃液
+胃機能
+运動、麻、發热、
+巍史二氏呼吸
+病毒
+便
+潜血
+膜寡
+同上及有病灶
+血液
+白血球數、百分比
+减尿、肾压痛、疝痛
+春髓液
+细菌、病毒
+服搏快幅吐便
+尿
+量、蛋白沈渣（
+ECG
+意融障、强直性
+性胃炎
+秘、下、中熟、浮
+血液
+血糖、NPN
+血墅
+菌）
+痤攀、阵代性攀
+睡
+营便
+最卵
+一般查、NPN、蛋
+眼底
+多尿削瘦心衰
+血液
+高熟、典套、抑警
+血液
+一般機查
+慢性肾炎
+白
+肾機能
+熟（日）射病
+浮厘
+循環及呼吸障
+尿
+量比重
+藏尿浮睡腹水
+皮膚病
+尿
+量蛋白沈渣（
+高熟、肾部胚痛、疝
+病
+名
+主要症
+状
+查
+物
+機查目的
+血液）、細胞（細菌）
+ECG
+偏
+細菌性臀盂
+痛排尿困、险部
+角化唇增殖
+血液
+白血球数、百分比
+血蟹
+化
+生
+粗機查
+炎
+症
+污染血尿
+脱毛皮屑形成
+疝
+疹
+水疱腰疱
+病曼部
+粗菌
+尿
+蛋白沈渣（血液）
+缸斑丘疹、水疱
+生
+粗梭查
+血尿、食血瘦制
+血
+尿
+血液
+一般橡查
+腰疱糜烟、痴皮√
+刮取物
+细菌、徽菌、寄生
+（皮鼎炎）
+皮屑赛
+血液
+一般检查、肝機能
+顿尿排尿痛膀胱
+蛋白、沈渣（細菌）
+尿
+肝機能尤其
+胱
+血液
+白血球數百分比
+光胶
+同上
+血液
+痛
+日
+S-GOTS-GPT
+刮取物
+細菌、寄生岛、菌
+毛症
+局部或全身脱毛
+蛋白√沈渣（黏温）
+文光
+脱
+生
+粗查
+毛部秸品排尿痛
+尿
+石
+（淋）肾部壓痛
+血液
+般梭查NPN
+血墅
+毛囊及皮脂腺化膜
+刮取物
+细菌、寄生
+刮取物
+寄生盘、細菌
+症
+局部性或全身脱毛
+運動器病
+血液
+肝機能
+形脱毛、落屑、肥
+刮取物
+徽菌
+镜機
+病
+名
+主要症默
+查
+物
+機查目的
+偏
+菌症
+厚癫皮形成
+紫外粽照射
+白血球嫩、百分比
+關節睡服、疼痛
+血薇
+红斑丘疹水疱
+X光
+濕性首炎
+肢行發熟
+腰疱癫皮、肥厚√
+刮取物
+寄生
+症
+關飾液
+比重、细菌
+脱毛、剧瘙
+肌酸肌缸素
+脱毛發紅、皮屑
+肌肉性
+四肢强直、通動
+毛囊盘症
+同上
+同上
+血液
+S-GOT
+結節、腰胞
+245
+244
+血液病
+病
+主要症状
+槐查目的
+偏
+考
+代谢機病及内分泌疾息
+名
+皮虐乾燥、形成
+紅血球数，HtHb
+名
+主要症
+查
+眼球陷凹瘦制
+病
+状
+物
+目的
+偏
+血液
+比重
+水
+症
+口混·斌尿、呼吸急
+粘稠度、蛋白、NPN
+频渴、多尿、瘦
+眼底
+迫服搏快
+血液
+糖
+尿
+病
+醋酮尿、下南、昏睡
+糖、酮體
+血墅
+赤血球敷·HtHb
+粘膜白√衰蜀、體
+血液
+凝固時間、凝血酶元
+血
+甲状腺随大無毛
+温低下服搏快
+時間
+碘缺乏症
+血薇
+碘胆固醇
+發育障機
+皮膚冰冷體温低
+循環血液量Ht
+清化障碳·吴常委势
+呼吸、血医低、其
+克
+血液
+Ca、P、榆磷酶
+嗜酸球数
+血液
+關節腊服、玻行、颜
+区光
+血衰、服搏快
+尿
+量pHP
+面骨眼
+腹水胸水心囊水
+蛋白比重凝固性
+胸垂下四肢
+浮睡液
+多尿、肥牌、生殖器
+量、比重
+Rivalt反應（—）
+定
+端睡服
+萎缩、瘦制
+長骨伸長颜面
+粘膜白、肌無力
+紅血球数、HbHt
+血液
+酸磷酶
+人
+区光
+百
+症
+衰弱、心悸、服搏微
+血液
+趾骨睡大
+血
+具常紅血球
+心内離昔
+骨形成不全、腹部膨
+胆固醇~钟Thorn”s
+儒
+血液
+光
+血液
+白血球敷百分比
+症
+蒲肢短
+體表淋巴節大
+缸血球数、HbHt
+粘膜营白、心内瓣晋
+具常紅血球
+腰垂腺性感
+血病
+呼吸困瘦削
+植度瘦能、體温低
+血液
+糖
+骨髓薇
+骨髓像
+（Simon's病）
+服搏快
+淋巴節生機
+粗查
+高副胃皮
+對稀的脱毛皮肩角
+白血球百分比
+功能症（
+Thorn”s试·電解
+黄血、浮、安熟
+血液
+原盘、CF動物接種
+犬Cushing
+化肌無力、肥胖
+血液
+病
+贺、糖、橄磷酶、蛋
+症候群）
+ECG
+血液
+原鼻、一般查
+尿崩
+白
+發熟、黄血、黄痘
+血墅
+CF動物接種
+病
+血红素尿
+淋巴節）穿刺液
+低副肾皮質
+皮虐、粘膜色素沈著
+比重、量、固醇類
+原墨
+功能症（
+尿
+脾
+Addison's
+無力、下剩、瘦制
+發熟、咳嗽、呼吸困
+CF色素盐驗
+disease)
+血液
+難發甜、下痢便
+莹光抗體
+皮内反惠
+病
+器蜜抹
+秘痤攀
+心悸、不整腰、甜
+幼麟鼻
+犬心赫岛症
+、腹水、咳嗽、呼吸
+血液
+肝機能
+困·贫血
+246
+247
+繁殖障害
+检
+粘液分泌暗赤色
+膜汁
+细菌
+小秸節、膜汁、紅肿
+出液
+子宫甄普炎
+同
+上
+同
+上
+同
+上
+粘膜睡大肥厚、波
+洗净液
+子宫内膜炎
+勤陰道外口膜樣分
+生
+粗橡查
+秘物
+胎兒、胎惠露
+細菌、原岛
+母體血液
+血清反德
+血液
+白血球数百分比
+腰樣分泌物腹图膨
+血液沈降速度、S-
+犬子官蓄膜
+满
+GPT~TP√胆固醇
+BUN
+膜汁
+附錄三、疾病的實诊結果
+48
+Aflatoxico
+MNT
+AnLlecholines
+Bacterial oste
+Bile duct obstructior
+mellitus
+Distal rena
+NTIXL
+Duod
+Ehrlich
+iteritis
+NN
+NNT
+Hypert
+HyperL
+Insul
+Lead poisoning
+Leptospirosis
+Lymph
+Multiple myelom
+N
+Vephrot
+NNNN
+Poly
+251
+250
+252
+253
+附錄四、疾病的症狀别
+254
+疾病名
+其他痘状
+nctis, vulver discharge
+tritis
+乳，道分泌物
+0
+D
+Antichol1ing
+ryana
+labes
+Canine diatempe
+Cholangioh
+hreniritia
+y preputial discharge
+包皮有血楼物流出
+ardiac errhythni
+理勤耐力降低，心翰普
+疾病名
+△：表Feli
+其他定款
+Cpclicnet
+保色不正常
+Drstal renmai
+00
+Duodenit1s
+Enteric his
+C
+O
+chyl.enegly
+254
+255
+0.0
+D
+股症肤
+1smp aT36
+256
+疾病名
+面快速
+encephalopath
+部下垂
+lyper
+peteroarthr
+呼俱内
+章：
+nocertyer
+般症用
+疾病名
+表Fe
+Leptospirosis
+Lynpho
+Multiplo
+lephr
+teritis
+olyeytl
+Pyelonephriti
+257
+256
+大调
+0
+0
+0
+C
+cough
+HA
+ado
+258
+259
+病名索引
+A
+acidosis
+酸中毒症
+distal renal tubular
+端肾小管性酸中毒
+45
+proximal renal tubular
+近端肾小管性酸中毒
+47
+腺體胞癌
+181
+Addison's disease
+艾建孫氏病
+137
+腺癌
+0
+acinar-cell,
+腺體轴胞性腺癌
+181
+hepatocellular,
+123
+O
+pancreatic,
+胰腺癌
+181
+aflatoxicosis
+黄毒素中毒
+49
+amyloidosis,renal
+肾激粉样性病
+anemia
+黄血
+autoimmune
+hemolytic
+自脸免疫性溶血性贫血
+feline infectious
+猫傅染性贫血
+115
+Heinz-body
+海因滋小髓性贫血
+55
+hemolytic of Basenjis
+伯森金犬的溶血性黄血
+57
+anticholineste
+抗胆酯酶救晶中毒
+59
+防刺中毒
+99
+arthritis
+關節炎
+rheumatoid
+濕性節炎
+61
+化膜性節炎
+63
+septic
+aspirin toxicity
+阿斯匹中毒
+211
+自體免疫性溶血性贫血
+53
+autoimmune hemolytic anemia
+65
+azotemia
+氮血症
+prerenal azotemia
+肾前性氮血症
+65
+B
+siosis
+67
+babe
+焦鼻病
+258
+259
+病名索引
+acidosis
+酸中毒症
+distal renal tubular
+端肾小管性酸中毒
+45
+proximal renal tubular
+近端肾小管性酸中毒
+47
+acinar-cell ade
+carcinoma
+腺體胞癌
+181
+Addison's diseas
+艾驰孫氏病
+137
+腺癌
+acinar-cell,
+腺體細胞性腺癌
+181
+0
+hepatocellular,
+123
+pancreatic,
+胰腺癌
+181
+aflatoxicosis
+黄巍毒素中毒
+49
+amyloidosis, renal
+臀粉样樊性病
+anemia
+黄血
+自龄免疫性溶血性贫血
+hemolytic
+feline infectious
+猫傅染性贫血
+115
+Heinz-body
+海因滋小體性贫血
+55
+hemolytic of Basenjis
+伯森金犬的溶血性黄血
+59
+n
+防凍劑中毒
+99
+arthritis
+關炎
+rheumatoid
+濕性臀節炎
+61
+septic
+化腰性節炎
+63
+aspirin toxicity
+阿斯匹中毒
+211
+自體免疫性溶血性贫血
+53
+autoimmune hemolytic anemia
+azotemia
+氮血症
+65
+65
+prerenal azotemia
+肾前性氮血症
+babesiosis
+焦鼻病
+67
+260
+261
+beta-cell tumor
+具他釉胞睡瘤
+canine dilated cardiomyopathy
+犬大性心肌病
+77.
+·bile duct obstruction
+胆管阻塞
+69
+feline dilated cardiomyopathy
+猫大性心肌病
+79
+bile peritonitis
+胆汁性腹膜炎
+191
+dirofilariasis
+心毒病
+113
+blastomycosis
+茅生菌病
+179
+distemper
+犬瘟熟
+bone necrosis
+骨死
+71
+ canine distemper
+犬瘟熟
+16
+bone tumor
+骨瘤
+feline distempe
+猎泛白血球减少症，猫瘟热
+187
+metastatic bone tumor
+轉移性骨瘤
+73
+duodenitis
+十二指炎
+6
+primary bone tumor
+原髮性骨瘤
+75
+E
+C
+eclampsia
+虚後座翠
+213
+calcium nephropathy
+钙因性肾病
+165
+ehrlichiosis
+艾利希病
+95
+canine dilated cardiomyopathy
+77
+犬接张性心肌病
+encephalopathy
+病
+carcinoma
+hepatic encephalopathy
+肝因性病
+121
+hepatocellular carcinoma
+肝癌
+123
+endocarditis
+心内膜炎
+cholangiohepatitis
+肝管性肝炎
+81
+bacterial endocarditis
+细菌性心内膜炎
+97
+coccidioidomycosis
+球徽菌病
+179
+enostosis
+内有骨费
+189
+Collie cyclic neutropenia
+牧羊犬的调期性嗜中性球减少症
+169
+enteric histoplasnosis
+粗爆菌病
+125
+congestive cardiomyopathy
+充血性心肌病
+enteritis
+腸炎
+canine congestive cardiomyopathy
+犬充血性心肌病
+77
+feline infectious enteritis
+猫傅染性炎
+187
+feline congestive cardiomyopathy
+猫充血性心肌病
+62
+eosinophilic gastroenteritis
+嗜酸性球增多性炎
+103
+congestive heart failure
+充血性心衰竭
+111
+cosinophilic myositis
+嗜酸性線增多性肌炎
+201
+Cushing's syndrome
+库興氏病
+127,131
+eosinophilic panosteitis
+嗜酸性球增多性全骨炎
+189
+cystitis
+膀胱炎
+83
+erythematosus
+systemic lupus erythematosus
+全身性紅斑性狼
+149
+degenerative joint disease
+退行性關節病
+143
+erythremic myelosis
+紅血球性骨髓增殖
+161
+diabetes insipidus
+尿崩症
+ethylene glycol poisoning
+乙烯乙二醇中毒
+66
+nephrogenic diabetes insipidus
+肾因性尿崩症
+85
+F
+pituitary-dependent diabetes insipidus 腦垂腺性尿崩症
+87
+Fonconi syndrome
+Fancon氏症候群
+101
+diabetes mellitus
+糖尿病
+68
+feline dilated cardiomyopathy
+猫大性心肌病
+79
+dilated cardiomyopathy
+张性心肌病
+feline distemper
+猫泛白血球减少症，猫熟
+187
+262
+263
+feline infectious
+猫傅染性贫血
+115
+hyperadrenocorticism
+高肾上腺皮贺功能症
+feline infectious enteritis
+猫傅染性炎
+187
+醫察性高肾上腺皮質功能症
+129
+feline infectious peritonitis
+猫傅染性腹膜炎
+193
+pituitary-dependent hyperadrenocorticism腦垂腺性高胃上腺皮置功能症
+131
+feline panleukopenia
+猫泛白血球减少症
+187
+primary hyperadrenocorticism
+原發性高肾上腺皮質功能症
+127
+feline urologic syndrome
+猫泌尿器症候群
+223
+secondary hyperadrenocorticism
+權發性高肾上腺皮質功能症
+131
+G
+高氨血症
+gastroenteritis
+胃赐炎
+primary hyperammonemia
+原性高氨血症
+133
+嗜酸性球增多性胃炎
+103
+hyperparathyroidism
+高副甲状腺功能症
+hemorrhagic gastroenteritis
+出血性胃炎
+105
+nutritional hyperparathyroidism
+誉性高副甲状腺功能症
+135
+parvoviral gastroenteritis
+微小病毒性胃炎
+107
+renal hyperparathyroidism
+臀因性高副甲状腺功能症
+175
+球體性肾炎
+glomerulonephritis
+109
+hypoadrenocorticism
+低肾上腺皮質功能症
+137
+低血钙性痤馨
+H
+hypocalcemic tetany
+213
+heart failure
+心衰竭
+hypothyroidism
+低甲状腺功能症
+139
+congestive heart failure
+充血性心衰竭
+heart worm disease
+V心赫晶病
+111
+Heinz-body anemia
+海因滋小體性贫血
+113
+hemobartonellosis
+血巴束體病
+115
+iatrogenic hyperadrenocorticism
+臀察性高肾上腺皮置功能症
+129
+溶血性黄血
+infectious
+犬傅染性肝炎
+hemolytic anemia
+ine hepatitis
+119
+autoimmune hemolytic anemia
+5
+insulinoma,
+自體免疫性溶血性黄血
+胰岛癌
+141
+of Basenjis
+interstitial nephritis
+間質性肾炎
+hemorrhagic gastroenteritis
+出血性胃腸炎
+105
+chronic interstitial nephritis
+慢性間質性臂炎
+163
+hepatitis
+肝炎
+intestinal lymphangiectasis
+淋巴管張
+151
+chronic active hepatitis
+慢性活動性肝炎
+117
+intestinal malabsorption
+鹏吸收不良
+151
+infectious canine hepatitis
+大傅染性肝炎
+119
+hepatocellular adenocarcinoma
+肝癌
+123
+joint disease, degenerative
+退行性關節病
+143
+hepatoencephalopathy
+肝因性腰病
+121
+juvenile osteoporosis
+幼年性骨松症
+135
+hepatoma
+肝癌
+123
+histoplasmosis
+粗織菌病
+kidney disea
+肾病
+enteric histoplasmosis
+end-stage kidney disease
+末期臂病
+163
+粗浆菌病
+265
+264
+肺因性骨简病
+171
+pulmonary osteoarthropathy
+性骨育不全
+135
+145
+船中毒
+osteodystrophy fibrosa
+lead poisoning
+71
+骨發育不全
+骨壤死
+osteodystrophy
+Legg-Calve-Perthes disease
+173
+147
+hypertrophic osteodystrophy
+肥厚性骨發育不全
+钩端螺炭體病
+leptospirosis
+175
+149
+renal osteodystrophy
+肾因性骨發育不全
+全身性缸斑性狼
+lupus erythematosus,systemic
+135
+151
+osteogenesis imperfecta
+成骨不全
+lymphangiectasis, intestinal
+淋巴管搞弧
+骨髓炎
+淋巴肉瘤
+osteomyelitis
+lymphosarcoma, canine
+177
+153
+bacterial osteomyelitis
+细菌性骨髓炎
+canine lymphosarcoma
+犬淋巴肉瘤
+179
+fungal osteomyelitis
+微菌性骨髓炎
+M
+151
+malabsorption, intestinal
+赐吸收不良
+胰腺癌
+181
+173
+metaphyseal osteopathy
+韩船端性骨病
+183
+pancreatic exocrine deficiency
+膜外分泌不足
+博移性骨瘤
+metastatic bone tumor
+185
+155
+胰炎
+metritis
+子官炎
+pancreatitis
+107
+159
+微小病毒性胃炎
+多殿性骨髓痛
+parvoviral gastroenteritis
+multiple myeloma
+157
+peritonitis
+腹膜炎
+myasthenia gravis
+重症肌無力
+胆汁性腹膜炎
+191
+N
+bile peritonitis
+猫傅染性腹膜炎
+193
+85
+臂因性尿崩症
+feline infectious peritonitis
+nephrogenic diabetes insipidus
+尿因性腹膜炎
+195
+167
+urine peritonitis
+nephrotoxicity
+肾毒症
+87
+135
+警性高副甲狀腺功能症
+pituitary-dependent diabetes insipids
+垂腺性尿扇症
+nutritional hyper
+parathyroidism
+0
+pituitary-dependent hyperadrenocorticism
+腦垂腺性高臀上腺皮質功能症
+131
+obstruction
+阻塞
+159
+胆管阻塞
+69
+plasma-cell tumor
+聚轴胞瘤
+bile duct obstruction
+223
+中毒
+尿路阻塞
+urinary obstruction
+抗胆脂酶中毒
+59
+骨炎
+anticholinesterase poisoning
+osteitis
+179
+66
+非化性骨炎
+antifreeze poisoning
+防凍劑中毒
+nonsuppurative osteitis
+177
+211
+化腰性骨炎
+aspirin poisoning
+阿斯匹中毒
+suppurative osteitis
+143
+次乙基乙二醇中毒
+66
+骨關節炎
+ethylene glycol poisoning
+osteoarthritis
+145
+lead poisoning
+中碳
+osteoarthropathy
+211
+171
+肥厚性骨關節病
+salicylate poisoning
+水揚酸鹽中毒
+hypertrophic osteodystrophy
+266
+267
+thallium poisonlng
+中毒
+215
+plasma-cell tumor
+聚細胞肿瘤
+159
+polycythemia vera
+primary bone tumor
+原發性骨睡瘤
+75
+具性紅血球增多症
+197
+polymyositis
+多发性肌炎
+201
+prerenal azotemia
+肾前性氮血症
+urine peritonitis
+尿因性腹膜炎
+65
+195
+prostatitis
+urologic syndrome, feline
+前列腺炎
+203
+猫泌尿器症候群
+223
+psychogenic polydipsia
+心理性烦温
+661
+puerperal tetany
+213
+pyelonephritis
+臀孟臂炎
+205
+pyometra
+子宫蓄腰症
+207
+R
+renal amyloidosis
+肾歌粉楼性病
+51
+renal hyperparathyroidism
+肾因性高副甲状腺功能症
+175
+renal osteodystrophy
+肾因性骨发育不全
+175
+reticuloendotheliosis
+默内皮增殖病
+209
+rheumatoid arthritis
+風濕性酮简炎
+61
+rubber jaw
+橡皮飘
+175
+水揚酸鹽中毒
+211
+septic arthritis
+化膜性關節炎
+63
+systemic lupus erythematosus
+全身性紅斑性狼
+149
+toxoplasnosis
+弓毒病
+canine toxoplasmosis
+犬弓岛病
+217
+feline toxoplasmosis
+猫弓盘病
+219
+trauma
+221
+tropical canine pancytopenia
+犬热带性泛血球减少症
+95
+tumor.
+睡瘤
+beta-cell tumor
+具他細胞胞瘤
+141
+metastatic bone tumor
+轉移性骨瘤
+73

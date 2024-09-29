@@ -1,0 +1,1388 @@
+ESAVS
+European School for
+Advanced Veterinary Studies
+CPLARCOLLIE
+ECZM
+MOSTIMPORTANT
+NON INFECTIOUS DISEASES OF REPTILES
+prof. Zdenek Knotek, DVM, PhD, Dip ECZM (herpetology)
+ZdenekKnotek教授，兽医师，博士
+欧洲野生动物兽医学会两栖爬行动物认证医师
+knotekz@vfu.cz
+欧洲野生动物兽医专家（两栖爬行动物）
+Zora Knotkova, DVM, PhD， 兽医师， 博士
+Anna Musilova, DVM, PhD， 兽医师， 博士
+Avian and Exotic Animal Clinic,Faculty of Veterinary Medicine
+University of Veterinary and Pharmaceutical Sciences Brno (Cz)
+美N
+HEMATOLOGIC TESTS
+血液学检查
+· Form an excellent tool to evaluate the
+patient's general condition
+·是评估病患大体情况一个很好的工具
+· Monitor the progress of a disease
+监测病程
+Assessing health
+and physiological
+status of reptiles
+is an important aspect
+of exotic veterinary
+medicine.
+评估爬行类动物的健康
+和生理状况是异种动物医学
+的一个重要方面。
+Selected diseases例举疾病
+common diseases 常 见的疾病
+1. disorders related to management 饲养相关性疾病
+2. disordersrelated to nutrition营养相关性疾病
+Physiology - metabolism
+生理－代谢
+Energy能量
+poikilotherms (fishes, amphibians
+体温依环境温度变化而改变（译者注）
+变温动物（鱼类，两栖动物）
+ectotherms（reptiles包括上述变温动物，同时还包括一些由于环境温
+度比较恒定而体温相对恒定的变温动物（译者注）
+变温动物 （爬行动物）
+homeotherms (birds, mammals)
+恒温动物（鸟类，哺乳动物）
+reptiles爬行动物
+POTZ最适温度范围
+energy 1/8 (of mammals), anaerobic glycolysis
+能量需求178（哺乳动物），无氧酵解
+periferal gluconeogenesis外周糖异生
+Energy能量
+ektotherm species变温动物
+prefered optimum for temperature 最适温度
+hyperthemia and behavioral hyperthermia 高体温和行为性高体温
+S      
+能量需求-1/8(与哺乳动物比)，无氧糖酵解
+peripheral gluconeogenesis 外周糖异生
+Respiration and oxygen consumption 呼吸及耗氧量
+lungs，skin,special organs(turtles）肺，皮肤，特殊器官（海龟）
+tolerance to limited oxygen in tissues 可耐受组织低氧
+Food，nutrition,metabolism食物，营养，新陈代谢
+herbivores，insectivores,carnivores 食草类，食虫类，食肉类
+Excretion 排
+urea,amonium,uric acid 尿素，氨，尿酸
+kidney x urinary bladder 肾x膀胱
+Reproduction繁殖
+Vital  diagnosis  of  metabolic  diseases  in
+reptiles
+爬行动物代谢性疾病中重要的诊断方
+法
+analysis of the case history 病史分析
+physical examination 体格检查
+haematology血液学检查
+plasma chemistry assays 生化检查
+parasitology寄生虫检查
+diagnostic imaging(X-ray, USG)
+影像学检查（X线检查、超声检查）
+endoscopy + biopsy(cytology/histology)
+Vital diagnosis of metabolic diseases in reptiles
+爬行动物代谢性疾病中重要的诊断方法
+Analysis of the case history 病史分析：
+?
+age，sex,origin 年龄，性别，品种
+health of the other reptiles其他共生爬行动物的健康情况
+husbandry(including temperatue, humidity, lighting regime, UVB
+lamps, water ....
+饲养环境（包括温度，湿度，照明，紫外线灯，水源等）
+ food(summer vs winter), minerals, vitamines
+食物（夏季VS冬季），矿物质，维生素
+substrate in terrarium (sand obstipation?)
+巢箱垫料（沙性顽性便秘？）
+last feeding?(for bloodcollection!!）最后饲喂时间(是否适于采
+血！）
+problem(reason for the visit) 问题 （就诊原因）
+Vital diagnosis of metabolic diseases in reptiles
+爬行动物代谢性疾病中重要的诊断方法
+Physicalexamination体格检查
+body weight 体重
+sexing性别
+activitycontrol活动观察
+shape, shell, bones(legs, tail)
+！
+外形，甲壳，骨（腿部、尾部）
+skin(dysecdysis?）皮肤（蜕皮异常）
+head + mucoses(mouth cavity)头十黏膜 （口腔）
+●！
+soft tissues palapation 软组织触诊
+Vital  diagnosis  of  metabolic  diseases  in
+reptiles爬行动物代谢性疾病中重要的诊断方法
+Physical examination体格检查
+Vital diagnosis of metabolic diseases in reptiles在
+爬行动物代谢性疾病中重要的诊断方法
+Physical examination
+体格检查
+diagnosis of metabolic diseases in reptiles
+爬行动物代谢性疾病中重要的诊断方法
+Evaluating  the  health  status and  diagnosing
+disease  problems requires the collection of
+appropriate biological  samples  for  laboratory
+investigations.
+疾病的诊断需要合适的病料采集以进行实验室检查
+Vital  diagnosis  of  metabolic diseases  in
+reptiles
+爬行动物代谢性疾病中重要的诊断方
+法
+Haematology血液学检查：
+PCV红细胞压积
+hemoglobin 血红蛋白
+RBCs红细胞
+WBCs白细胞
+leucogram白细胞象
+HEMAIOLOGIC EVALUAIION
+血液学检查
+Routine hematologic evaluation includes determination of:
+常规血液学检查包括：
+Packed cell volume(PCV) 红细胞压积
+Hemoglobin(Hb) concentration血红蛋白 （Hb）浓度
+Red blood cell count 红细胞计数(RBC)
+RBC indices (MCV, MCH, MCHC)
+红细胞指数（平均红细胞体积、平均血红蛋白量、平均血
+红蛋白浓度）
+Total white blood cell count (WBC) 白细胞总数
+Leukocyte differential count (leukogram)
+白细胞分类计数（白细胞像）
+· Assessement of blood cell morphology
+SAMPLEHANDLING样本采集和处理
+In order to obtain objective results
+it is crucial
+to use appropriate methods of blood collection
+and handling with samples.
+为了得到客观的结果
+至关重要的是
+使用适当的方法采集血液
+和处理样品。
+Blood sample collection in chelonians 龟类的采血
+Blood sample collection in snakes 蛇类的采血
+Blood sample collection in lizards 蜥蜴类的采血
+ANTICOAGULANTS 抗凝剂
+testing should be performed as soon as possible after blood
+collection to avoid artifacts such as increased cell smudging or
+clumping of the leukocytes and thrombocytes.
+不管使用什么类型的抗凝剂，采血后应尽快进行血液检查，以避
+免造成人为误差，例如样本污染或白细胞和血小板的聚集。
+EDTA (ethylenediaminetetraacetic acid) is the most commonly
+酸）是血液学检查最常用的抗凝血剂。
+·HEPARlN (lithium heparin) has the advantage of providing
+anticoagulated blood for hematology, and plasma for blood
+chemistry evaluation.
+·肝素（肝素锂）抗凝血可用于血液学检查和血浆生化检查。
+Red blood cell count 红细胞计数(RBC,1012/l)
+White blood cell count白细胞计数 (WBC, 109/l)
+Manual technique人工计数
+4975 μl of Natt and Herrick's solution
++ 25 μl of blood (dilution 1:200)
+Natt and Herrick试剂 4975 μl+血液25μl （稀释1:200）
+·Burker's chamber method 计数板计数
+Ery: 20 rectangles (1/100 mm2)
+红细胞：20长方格（1/100mm2）
+Leu: 50 squares(1/25 mm2)
+白细胞：50正方格（1/25mm2）
+Total RBC and WBC counts红细胞和白细胞计数
+Natt and Herrick's solution is used as a stain and diluent
+使用奈-赫氏液进行染色赫稀释。
+TotalRBCandWBCcounts红细胞和白细胞计数
+Natt and Herrick's solution is used as a stain and diluent
+使用奈-赫氏液进行染色赫稀释。
+PCV（hematocrit）红细胞压积
+microhematocrit centrifuge and a tube-reading card
+标准人工操作需要血沉毛细管、血沉毛细管离心机和读卡器
+PCV（hematocrit)红细胞压积
+Standard manual technique with microhematocrit tubes,
+microhematocrit centrifuge and a tube-reading card
+标准人工操作需要血沉毛细管、血沉毛细管离心机和读卡器
+Blood sample examination 血液学检查
+Triple grid line三线网格线
+White cell白细胞
+Grid line网格线
+Red cells红细胞
+PACKED CELL VOLUME  (PCV)
+红细胞压积
+PCV (hematocrit) - after centrifugation of blood in a
+heparinized micro-hematocrit tube at approximately
+12 000 g for 5 minutes (birds), 6 minutes (reptiles).
+PCV（红细胞压积）一将一定量肝素抗凝血放入红细胞压
+积毛细管中离心12000g5分钟（鸟）或6分钟（爬行动
+物）。
+Three distinct layers are observed 可见明显的三个分层:
+The plasma column is at the top of the tube - typically colorless; in
+ si    ss  
+plasma is suggestive of biliverdinemia (excess biliverdin bile pigment
+in blood,hepatic or renal failure)
+·顶层是血浆层-通常无色;在一些禽类物种是黄到橙（胡萝卜素色素）；
+绿色的血浆表示胆绿素血症（血液中过多的胆绿素，肝或肾功能衰
+竭）
+The packed erythrocytes are located on the bottom of the tub
+·红细胞位于管底
+·Buffy coat is a small, white band located above the erythrocyte
+column - consists of leukocytes and thrombocytes. Ihe buffy coat
+typically increases in size when the leukocyte concentration
+increases
+·血沉棕黄层位于红细胞层之上，呈白色薄带一由白细胞和血小板组
+成。当白细胞浓度增加血沉棕黄层通常会增厚
+PCV(hematocrit)红细胞压积
+Standard manual technique with microhematocrit tubes,
+标准人工操作需要血沉毛细管、血沉毛细管离心机和读卡器
+PCV(hematocrit)红细胞压积
+Standard manual technique with microhematocrit tubes,
+microhematocrit centrifuge and a tube-reading card
+标准人工操作需要血沉毛细管、血沉毛细管离心机和读卡器
+HAEMOGLOBIN CONCENTRATION (g/)
+血红蛋白浓度
+Total haemoglobin concentration is typically determined using a
+standard cyanmethemoglobin method:
+通常使用标准氰化高铁血红蛋白方法测定总血红蛋白浓度：
+Centrifugation after red cell lysis (1000 g for 10 min) is necessary
+in birds and reptiles
+鸟类和爬行动物中，红细胞裂解后需要离心（1000g×10min）
+Spectrophotometric analysis of cyanmethemoglobin at 540 nm
+使用分光光度计测定氰化高铁血红蛋白在540nm波长下的吸光值
+Haemoglobin concentration血红蛋白浓度
+Standard cyanmethemoglobin method with one modification:
+analysis. The free nuclei from lysed erythrocytes are removed before obtaining
+the optical densityvalue使用标准改良法测定氰化高铁血红蛋白浓度。分析前
+须对氰化血进行离心，取出红细胞溶解后游离的细胞核，之后测定密度。
+Haemoglobin concentration血红蛋白浓度
+Standard cyanmethemoglobin method with one modification:
+The cyanmethemoglobin reagent-blood mixture should be centrifugated prior to
+the optical densityvalue使用标准改良法测定氰化高铁血红蛋白浓度。分析前
+须对氰化血进行离心，取出红细胞溶解后游离的细胞核，之后测定密度。
+Blood sample examination 血液学检查
+Ph
+an-NEO
+63×1i2
+DIFFERENCIAL COUNT OF LEUKOCYTES
+白细胞分类计数
+Blood smear preparation 制备血涂片
+Without anticoagulant 无抗凝剂
+·
+Directly from the syringe or needle immediately
+·
+after collection
+·
+采血后直接使用注射器或针头中的血
+Wedge smear technique (bevel edged slide!!)
+·
+楔形涂片技术（斜边载玻片!）
+·
+Slide and coverglass technique
+·
+载玻片-盖玻片技术
+·
+DIFFERENCIAL COUNT OF LEUKOCYTES
+白细胞分类计数（10%/）
+Bloodsmear staining血涂片染色
+· May-Grunwald/Giemsa-Romanowski stain,
+Wright-Giemsa stain
+·姬姆萨染色，瑞氏染色
+· fast staining methods, Diff-Quick, Hemacolor
+·快速染色方法：Diff-Quick染色、Hemacolor染色
+A stained blood film is an essential part of the hematologic examination because it provides the opportunity
+to determine the differential leukocyte count and allows assessment of pathologic abnormalities of the
+Various blood cells.
+血涂片检查氏血液学检查不可或缺的一部分。因为它能够进行白细胞分类计数，评估各类血细胞的病理变化。
+C一
+A stained blood film is an essential part of the hematologic examination because it provides the opportunity
+various blood cells.
+血涂片检查氏血液学检查不可或缺的一部分。因为它能够进行白细胞分类计数，评估各类血细胞的病理变化。
+G-R
+H-O
+PACKED CELL VOLUME
+INTERPRETATION OF RESULTS
+红细胞压积判读
+PCV= 35 - 55 %
+红细胞压积=35-55%
+Ht < 32 %  anemia
+红细胞压积小于32%——贫血
+Ht > 58 %  dehydratation, erythrocytosis (poycytemia)
+红细胞压积大于58%一脱水、红细胞增多症（真性）
+00
+Bloodsample examination血液学检查
+reptilianleukocytes爬行动物白细胞
+the classification poses problems 分类中 的 问题
+morphological variation within the class
+在不同类中形态不同
+several different nomenclatures have been used
+几种不同的命名法
+heterophil
+Eosinophil
+嗜酸性粒细胞
+异嗜性粒细胞
+LEUKOCYTES
+Interpretation of results
+白细胞血象判读
+ Leu = 3.50 - 15.00 .109/
+白细胞浓度=3.50-15.00.109/
+ Leukocytosis > 15,00 .109/l
+浓度大于15.00.10%/=白细胞增多症
+· Leukopenia < 3,00 .109/l
+浓度小于3.00.109/=白细胞减少症
+Blood sample examination血液学检查
+Lymphocyte 白细胞
+eosinophil嗜酸性粒细胞
+lguanaiguana绿鬣蜥
+Blood sample examination血液学检查
+Basophil嗜碱性粒细胞heterophil异嗜性粒细胞
+lguanaiguana绿鬣蜥
+Blood sample examination血液学检查
+Monocyte单核细胞
+lguanaiguana绿鬣蜥
+Blood biochemistry 血液生化
+Plasma x serum???
+血浆和血清？？
+Biochemistry of urine尿生化
+pH, SG, minerals, proteins
+酸碱度，尿比重，矿物质和蛋白
+Biochemistry of different tissues
+Blood biochemistry 生化
+Plasmaxserum血浆和血清
+Plasma血浆
+- volume of thefluid for analyses用于分析的血浆量
+- short time, quicker - no time necessary for clothing
+短时间，更快的一一血液来不及凝血
+- in comparison with the serum the concentration of
+plasma proteins could be higher (fibrinogen)
+与血清相比，血浆蛋白的浓度可能比较高（纤维蛋白原）
+Plasma biochemistry - external and internal factors
+血浆生化一一外因和内因
+venipuncture静脉穿刺
+溶血，低钾浓度，高浓度的肝素
+anorexia (reptiles : birds : mammals) x postprandial values
+厌食（爬行动物：鸟：哺乳动物）×餐后值
+uric acid,bile acids 尿酸， 胆汁酸
+gender（hormones，reproduction）性别（激素，繁殖）
+CB,cholesterol，TAG,Ca综合血红素，胆固醇，三酰甘油，钙
+methods used in the laboratory 在实验室中使用的方法
+TP: biurett method x refractometry
+总蛋白：双缩脲法和折射法
+standards used (specific for human medicine) 使用标准 （人医专
+用）
+electrophoresis (albumin, α,β,Y globulins)电泳(白蛋白,a,β,y球蛋白）
+clinical use of results obtained - only very different values
+Plasma chemistry血浆生化
+PLASMAXSERUM 血浆和血清
+clotting problem凝血问题
+samplevolume样本量
+ FLUORIDE
+E.D.T.A HEPARIN
+PLAIN
+GEL
+CITRATE
+OXALATE
+肝素
+氟化物草酸
+无抗凝剂
+凝胶 柠檬酸盐
+盐
+Plasma chemistry 血浆生化
+PLASMAXSERUM血浆和血清
+It is recommended to collect the reptilian blood
+sample after short period of starvation (1- 2 days),
+because some plasma chemical constituents would
+be influenced by recent food consumption.
+由于爬行动物近期进食会影响血浆生化结果，所以
+建议对其进行采血前先禁食1-2天。
+Plasma chemistry 血浆生化
+PLASMAXSERUM血浆和血清
+Constituents that have markedly increased values
+postprandially are uric acid and bile acids
+concentrations.
+餐后采血浓度显着增加的有尿酸和胆汁酸。
+Plasma chemistry血浆生化
+·It is essential to analyse the reptilian plasma for
+爬行动物血浆生化必检项目：
+·TP总蛋白
+·UA/BUN尿酸/尿素氮
+·Glucose 葡萄糖
+·ALP，ALT，AST，CK 碱性磷酸酶，谷内转氨酶，天
+门冬转氨酶，肌酸激酶
+·BA胆汁酸
+·K，Ca，P钾，钙，磷
+Plasma chemistry 血浆生化
+Cobas Mira Roche
+Plasma chemistry 血浆生化
+Anayar
+VetScan VS2
+Plasma chemistry 血浆生化
+calcium (Ca) 钙
+total (tCa) 总钙
+ionised (iCa) iSTAT, Heska
+离子钙
+cumodien
+Plasma chemistry 血浆生化
+Plasma protein concentration in reptiles generally
+ranges from 30 to 50 g/l.
+爬行动物血浆蛋白浓度范围一般为30至50g/l
+Fractions of the reptilian plasma are
+Albumin, alpha-, beta-, and gamma-globulin.
+爬行动物血浆蛋白电泳条带分别为：
+白蛋白，α-，β-，和v-球蛋白。
+Plasma chemistry 血浆生化
+Hypoproteinemia x < 20 g/l
+低蛋白血症浓度小于20g/l
+associated with poor nutrition or severe liver
+and renal disorders that result in decreased
+production of albumin.
+营养不良、严重的肝脏疾病和肾脏疾病会引起白蛋
+白的生成减少。
+Ascites - CRF, liver disease, heart failure
+腹水－慢性肾功能衰竭，肝脏疾病，心脏衰竭
+Plasma chemistry 血浆生化
+Fractions of the reptilian plasma are
+Albumin, alpha-, beta-, and gamma-globulin
+爬行动物血浆电泳条带为
+白蛋白，α-，β-，和v-球蛋白。
+Plasma chemistry 血浆生化
+In healthy reptiles
+the albumin fraction
+is the largest protein
+fraction.
+健康的爬行动物
+白蛋白条带
+是最大的蛋白
+条带。
+AIb
+0L2
+B
+Plasma chemistry 血浆生化
+Hypoalbuminemia in reptiles
+爬行动物原发性低白蛋白血症
+· caused by intestinal malabsorption +maldigestion
+由肠道吸收不良和消化不良引起
+Plasma chemistry 血浆生化
+Hypoalbuminemia in reptiles
+爬行动物原发性低白蛋白血症
+PHA原发性低白蛋白血症
+Plasma chemistry 血浆生化
+In inflammatory
+conditions a rise in TP
+caused by elevated
+globulin fractions.
+在炎性条件下球蛋白含
+量上升导致总蛋白含
+量升高。
+AIb
+Plasma chemistry 血浆生化
+Hyperproteinemia in female reptiles 60 g/l < x
+雌性爬行动物的高蛋白血症大于60g/l
+within the period of folicullogenesis
+在卵泡的形成过程中
+because of an oestrogen-induced increase in the
+globulin fraction.
+雌激素诱导引起球蛋白升高。
+Plasma chemistry 血浆生化
+Hyperproteinemia with a normal A/G ratio
+can be expected in dehydrated reptiles.
+脱水的爬行动物存在高蛋白血症时其白球比正常。
+Plasma chemistry 血浆生化
+Urea（BUN)尿素氮 （BUN）
+most of the reptilian species are uricotelic
+BUN - only hydration status of those reptiles
+大多数爬行动物是排尿酸的
+BUN·只有那些水合良好的爬行动物才会产生
+ureotelic - (aquatic species) and BUN plasma
+concentration is of interest for the clinician
+尿酸排泄·（水生动物）和BUN的血浆浓度在临床
+分析上有重要意义
+Plasma chemistry 血浆生化
+Uric acid (UA) 尿酸 (UA)
+the major end product of nitrogen metabolism
+produced by the liver and kidney
+尿酸是氮代谢的主要最终产物
+由肝脏和肾脏产生
+Plasma chemistry 血浆生化
+Uric acid (UA)
+50 to 300 μmol/l
+influenced by species, behaviour and diet
+尿酸（UA)
+50-300μmol/l
+受品种、行为和饮食习惯的影响
+Reptiles living in arid zones (agamids, giant chelonians) tend
+to the water (aquatic snakes and terrapins, crocodiles).
+相较于可自由饮水的爬行动物（水生蛇和龟，鳄鱼），生活在干
+旱地区（飞蜥，巨型龟）的爬行动物往往有较高的尿酸浓度。
+Plasma chemistry 血浆生化
+Hyperuricaemia高尿酸血症
+greater than 500 μmol/l is suggestive of impaired renal
+function.
+大于500umol/l则提示肾功能受损。
+UA not a sensitive/specific for CRFdisease
+尿酸不是慢性肾衰的敏感性和特异性指标
+loss of approximately 75 % of renal function is required tc
+increase the blood concentrations
+需要损失约75%的肾功能，血液中尿酸浓度才会增加
+Plasma chemistry 血浆生化
+Hyperuricaemia高尿酸血症
+extremely increased
+e.g., ≥ 700 μmol/l
+极度升高 例如≥700 μmol/
+gout and severe liver and renal dysfunction
+痛风和严重肝肾功能不全
+gout - precipitation of urate crystals especially in
+the joints and on the visceral surfaces
+痛风－尿酸盐结晶沉着，特别是在关节和内脏表面上
+Gout - hyperuricaemia
+痛风-
+一高尿酸血症
+Gout - hyperuricaemia
+痛风—高尿酸血症
+Glomerular nephritis
+肾小球肾炎
+Gout痛风
+CRF慢性肾衰
+CRF慢性肾衰
+Plasma chemistry 血浆生化
+Glucose concentration葡萄糖浓度
+     
+即使在长期禁食也能保持稳定
+maintained by hepatic as well as by
+peripheral gluconeogenesis
+由肝及外周糖异生维持
+Plasma chemistry 血浆生化
+Blood glucose concentration 血糖浓度
+chelonians 龟
+6 - 15
+mmol/l
+lizards 蜥蜴
+8 - 16
+mmol/l
+snakes 蛇
+1.5 - 5.0  mmol/l
+Plasma chemistry 血浆生化
+Hypoglycaemia低血糖
+fasting associated with fat depletion and protein
+mobilization - resulting in the loss of body weight
+禁食时脂肪消耗和蛋白质动员-导致体重下降
+fasting for longer than 4 weeks in small lizards
+在小型蜥蜴禁食时间超过4周
+several months in adult chelonians 成年龟数月
+several months in giant snakes 大型蛇数月
+Plasma chemistry 血浆生化
+Hypoglycaemia低血糖
+in tortoises    less than 3 mmol/
+陆龟低于3mmol/
+prolonged starvation during PHA
+PHA时长时间饥饿
+severe liver disease
+严重的肝脏疾病
+Plasma chemistry 血浆生化
+Hyperglycemia高血糖
+20 mmol/l < x
+stress，excitement and pain 紧张， 兴奋和疼痛
+acuteliverdisease急性肝脏疾病
+Diabetes mellitus in reptiles has not been wel
+documented yet.
+爬行动物糖尿病尚未研究清楚。
+Plasma chemistry 血浆生化
+Plasma enzymes 血浆酶
+aspartate aminotransferase谷草转氨酶
+AST
+alanine aminotransferase 谷丙转氨酶
+ALT
+lactate dehydrogenase乳酸脱氢酶
+LDH
+alkalinephosphatase碱性磷酸酶
+AP, ALP
+gamma glutamyl transferase y-谷氨酰转移酶 GMT
+cytoplasm, mitochondria, nucleus, cell membranes
+细胞质，线粒体，细胞核，细胞膜
+Plasma chemistry 血浆生化
+CK肌酸激酶
+increased(CK)肌酸激酶升高
+excitement, muscle cell traumatic injury
+兴奋，肌肉细胞损伤
+intramuscular injections of irritating fluids
+肌内注射刺激性液体
+severe disease of cardiac muscle
+严重的心肌病
+Plasma chemistry 血浆生化
+CK
+muscle injury X hepatocellular injury
+肌酸激酶
+肌损伤和肝细胞损伤
+AsT + CK increased
+谷草转氨酶和肌酸激酶升高
+skeletal (cardiac) muscle injury
+骨骼肌（心肌）损伤
+AsT only increased suggestive of hepatocellular
+disease in reptiles
+只有谷草转氨酶升高提示爬行动物存在肝细胞损
+伤
+Plasma chemistry 血浆生化
+The reptilian liver lacks the enzyme biliverdir
+reductase, which is required to convert biliverdin tc
+bilirubin.
+爬行动物肝脏缺乏胆绿素还原酶，这是胆绿素转换成
+胆红素必需酶。
+Yellow to brown urine and green-colored urates
+are suggestive of biliverdinuria and liver disease
+in reptiles.
+爬行动物中黄色至棕色尿液和绿色的尿酸盐表示存在
+BileAcids胆汁酸
+肝门静脉
+Hepaticportal vein
+胆盐Bile salts
+Liver
+肝
+Synthesis
+合成
+5%
+Bile salts
+5%
+肝
+胆盐
+胆盐
+门静脉
+Liver
+胆管
+Portal
+vein
+Bile
+Duct,
+Gallbladder
+胆囊
+Common
+bile duct
+Small Intestine
+Gallbladder
+总胆管
+小肠
+胆囊
+日
+卜Bile salts
+Duodenum
+lleum
+回肠
+十二指肠
+5%lost
+Bile salts-→Bile salts
+in fece
+胆盐
+5%丢失于粪便
+小肠
+Small intestine
+Plasma chemistry 血浆生化
+Bile acids 胆汁酸 (BA)
+BA in very small amounts in the peripheral blood
+of healthy reptiles.
+在健康爬行动物的外周血中胆汁酸含量很少。
+When measuring the bile acid concentration, a
+24 - 48-hour fast is recommended because of
+the digestive physiology of reptiles.
+因为爬行动物的消化生理，测量胆汁酸浓度前，建
+议24-48小时禁食。
+Plasma chemistry血浆生化
+Bileacids胆汁酸（BA)
+High concentrations of BA are associated with
+lipaemia and haemolysis.
+高浓度胆汁酸与血脂和溶血相有联。
+Plasma chemistry血浆生化
+BAiniguanas鬣蜥的胆汁酸
+· BA concentration in 110 samples (fasting 24 hrs)
+15.89 ± 15.61 umol/l
+在110个样品（禁食24小时），胆汁酸浓度为15.89±15.61umol/
+· BA concentration in 18 samples (fasting 48 hrs)
+9.56 ± 8.52 μmol/l
+在18个样本（禁食48小时），
+胆汁酸浓度为
+9.56 ± 8.52μmol/l
+BAin green iguanas
+绿鬣蜥的胆汁酸
+mean BA
+15.89 umol/l (fasting +24 hrs)
+平均胆汁酸值
+15.89umol/l（禁食长于24小时）
+SD
+15.61
+标准偏差
+15.61
+median BA
+10.63 μmol/l
+平均胆汁酸
+10.63 μmol/l
+mean BA
+9.56 umol/L (fasting +48 hrs)
+平均胆汁酸
+9.56umol/L（禁食长于48小时）
+SD
+8.52
+BAin red-eared terrapins
+红耳龟的胆汁酸
+meanBA平均胆汁酸值
+7.35±4.52 to 10.04±7.40
+umol/l
+fastingBA禁食后胆汁酸值
+3.1±2.3 μmol/l
+postprandialBA餐后胆汁酸值
+4.5±5.4 umol/l (+24hrs小时)
+postprandialBA餐后胆汁酸值
+2.2±1.5 μmol/l (+48hrs小时)
+High, concentrations of BA (> 66.6 μmol/l) are associated with
+lipemia.高浓度的胆汁酸（>66.6微摩尔/升）与高脂血症有关。
+Plasma chemistry血浆生化
+Fasting plasmaBA禁食后血浆胆汁酸值
+Trachemys scripta巴西龟
+7.35 - 10.04
+μmol/l
+Testudohermanni赫尔曼陆龟
+17.64 ± 27.26
+μmol/l
+T. graeca 希腊陆龟
+17.86 ± 15.37
+μmol/l
+T. Horsfieldi四爪陆龟
+20.00 ± 24.65 um0l/l
+Kinixisbelliana钟纹陆龟
+6.0 ± 0.1
+umol/l
+·
+Montesinos et al. (Proc.WSAVA/FECAVA/AVEPA 2002, 125 - 126)
+·
+Knotkova et al. (Vet Record, 2008, 163: 510 - 514)
+Liver lipidosis 脂肪肝
+highBA高胆汁酸
+Liver lipidosis 脂肪肝
+highBA高胆汁酸
+Liver lipidosis 脂肪肝
+high BA
+高胆汁酸
+Liver necrosiss肝脏坏死 BA  48.36 μmol/l
+PA 07 0828 green iguana liver necrosis HE 20x.
+50mu
+Liver fibrosiss肝脏纤维化
+BA
+31.72
+2 μmol/l
+50mu
+Liver lipidosis脂肪肝
+BA7
+72.03 μmol/l
+PA 0708231green iguana liver
+lipidosisHE20x.j
+50
+BA 120.21 μmol/
+HCC肝细胞癌
+PA 07 0278 I iguana liver HCC HE 20x
+50mu
+reptiles
+爬行动物代谢性疾病中重要诊断的方法
+The diagnostic value of urinalysis in reptiles
+is inconclusive.
+尿检在爬行动物疾病中不足以得出诊断性结论。
+Some authors described urinalysis in reptiles
+as a  valuable method  for  diagnosis of renal
+disease.
+Vital diagnosis of metabolic diseases in reptiles
+爬行动物代谢性疾病重要诊断的方法
+reptilian kidneys do not have the loop of Henle
+爬行动物肾脏没有亨且氏套
+cannot concentrate urine 无法浓缩尿
+-  the water absorption from the stored urine in
+the urinary bladder
+从膀胱储存的尿液中重吸收水分
+-  in cloaca the pure urine is mixed with faeces
+在泄殖腔中纯尿液与粪便混合
+ -   within   different  species  of  iguanid lizards
+portions of Na, K and Cl are excreted by
+nasal salt glands
+有数种不同的鬣蜥，其体内的钠，钾和氯是通过
+Vital diagnosis of metabolic diseases in reptiles
+爬行动物代谢性疾病車要的诊断方法
+Blood osmolality in chelonians海龟的血液渗透
+压：
+ - osmolality elevations can suggest subclinical
+form of dehydration
+渗透压升高提示脱水的亚临床形式
+-  tortoise-patient uses water from the bladder
+to maintain its circulatory volume
+陆龟-通过膀胱重吸收水分以维持正常循环血量
+- in order to draw water into the circulation the
+tortoise must maintain an osmotic gradient
+为了使水进入循环，陆龟必须保持渗透梯度
+ -  this is achieved by  altering. their blood
+osmolality, based on the availability
+Plasma chemistry血浆生化
+Plasma cholesterol 血浆胆固醇
+malegreeniguanas雄性绿鬣蜥
+4.97 ± 0.67 - 6.11 ± 0.95 mmol/
+Plasma chemistry 血浆生化
+· Hypercholesterolemia 9 mmol/l < x
+高胆固醇血症浓度大于9mmol/
+associated with severe liver disease
+folicullogenesis in female lizards
+高胆固醇血症与严重的肝脏疾病和雌性蜥蜴卵泡的
+发育有关
+Plasma chemistry血浆生化
+Hypercholesterolemia高胆固醇血症
+period of the reproductive activity season:
+plasma concentrations of cholesterol and
+triglycerides are significantly higher in female
+lizards than in males.
+生殖活动期间：
+雌性蜥蜴的胆固醇血浆浓度和甘油三酯是
+显著高于雄性蜥蜴。
+Plasma chemistry 血浆生化
+Phosphorus 磷 (P)
+1.0 - 2.0 mmol/l
+Kalium 钾
+(K)
+hyperphosphatemia 4 mmol/l < x
+and hyperkalemia
+in severe renal disease
+严重的肾脏疾病导致高磷血症（>4mmol/）和高钾
+血症
+Forms of calcium within the body
+与蛋白质结合，大部
+分为白蛋白（40%）
+·Unbound calcium
+非结合钙
+在骨骼中与
+Bound to proteins,
+·is the physiologically
+mostly albumin (approx
+磷形物作为
+40%)
+active form and
+钙储存池
+离子钙（50%）
+regulatory
+mechanisms will
+Stored complexed with
+Free calcium ions
+phosphorus in the
+maintain this at the
+(50%)
+skeleton
+expense of other
+forms of calcium
+Bound to anions such as
+within the body
+bicarbonate, citrate,
+phosphate and lactate
+是体内具有生理活性的
+(10%)
+钙，通过与体内其他形
+与阴离子结合，如碳酸根离
+式的钙相护转化以达到
+子、柠檬酸离子、磷酸根离
+生理水平需求
+子和乳酸根离子（10%）
+Regulation of calcium 钙调控
+BLOOD CALCIUM METABOLISM
+AND IONISED CALCIUM LEVELS
+AND MAY ALSO BE INFLUENCED
+ARE HORMONALLY REGULATED
+BY同时还受以下因素影响
+血钙代谢和离子钙水平受激素调控
+·Oestrogen雌激素
+·Parathormone（PTH) 甲状旁
+·Thyroxine甲状腺素
+腺激素
+·Activated Vitamin D3活性维
+·Glucagon胰高血糖素
+生素D3
+·Prolactin催乳素
+·Calcitonin降钙素
+·Prostaglandins前列腺素
+· Calcitonin gene-related
+peptide降钙素基因相关肽
+· PTH related peptide
+甲状旁腺激素相关肽
+MBD代谢性骨病
+Functions of calcium 钙的I功能
+and clinical consequences of imbalance 及失衡后的临床症状
+Special structures such as beak or shell
+Deformity, malocclusion, secondary infection, inability to feed
+特殊结构，比如喙或者甲壳，畸形、咬合不正、继发感染、无法
+进食
+Hyperparathyroidism甲状旁腺机能亢进
+· Nutritional or renal, or both?
+Nutritional
+营养性或者肾性，或者都是
+secondary
+· In captivity diets are often marginal or poor
+hyperthyroidism
+营养性继发性甲亢
+sources of calcium and vitamin D
+在人工饲养下，食物中钙含量和VD含量经
+常仅在正常范围下限甚至不足
+· Renal form usually associated with
+hyperphosphatemia and hypocalcaemia
+Renal secondary
+肾性问题通常与高磷血症及低钙血症有关
+hyperparathyroidism
+-These deficiencies rarely occur in isolation
+肾性继发性高甲状旁
+and so look for other failings and address
+腺症
+them
+这些缺陷很少单独发生，因此寻找其他的问
+题并解决这些问题
+FormationofVitaminD3维生素D3的形成
+· 1. Made by the action of UVB light on skin at 290-315nm
+(photobiosynthesis)
+· Photolabile and photolysed to inert suprasterols unless rapidly
+UV exposure
+1.皮肤在紫外光（290-315nm）的作用下合成维生素D3（光生物合成）
+维生素D3对光不稳定，易发生光分解形成情性化学物质超留醇，除非合
+成之后能够迅速转运至皮肤毛细血管床，否则易造成UV暴露过度而引起
+VD3中毒
+formation
+2.充足紫外光和皮肤温度是维生素D形成所必须的
+· 3. Production of Vitamin D3 is extremely slow at suboptimal
+temperatures as a temperature-dependent isomerisation is required
+3.由于VD3的异构化是温度依赖性的，所以如果温度不适，VD3的合成将
+大大减缓。
+How do nocturnal species meet their Vitamin D
+Requirements？夜行动物如何满足维生素D的需求
+· A range of species-specific strategies exist with
+some species using solely photobiosynthesis,
+some reliant on dietary sources and some a
+combination of both
+不同的物种有不同的策略，一些只
+能进行光生物合成，一些可以依赖
+食物提供，还有些物种可以通过两
+· Greater efficiency of Vitamin D3 production
+from the limited UVB light exposure at dawn
+and dusk is one way some nocturnal species
+have adapted.
+某些夜行动物在早晨和黄昏时尽可
+能多地进行VD3光生物合成，
+Dietary sourcesof Vitamin D食物中的维生素D
+prey.
+饲喂肉是爬行动物以全价日粮（活物）时，很少会出现代谢性骨病。
+· May not be well absorbed by every species and so not a substitute for
+UV provision in many species.
+不是所有种类的爬行动物都能够很好地从食物中摄
+取VD3，所以许多品种仍需要进行紫外线光浴。
+· When diet is deficient in Vitamin D3 some reptiles
+will spend more time basking.
+当食物中缺乏维生素D3，一些爬行动物会花费更多
+的时间晒太阳。
+reptiles vitamin D2 is of far lesser potency than
+vitamin D3.
+某些植物可以合成VD2（麦角钙化醇）－—但是在爬行动物中，VD2的作
+用远不如VD3。
+充足的
+钙摄入
+Adequate dietary
+并存的生
+calcium
+充足的紫外
+理过程
+线照射
+Concurrent
+Adequate UV
+physiological
+light exposure
+processes
+Storage of
+皮肤功
+Skin function and
+Calcium and
+钙和VD
+specialisation
+Vitamin D
+能与特
+的储存
+化
+Intestinal, liver
+and kidney
+function
+肠道及肝肾
+功能
+Functions of calcium钙的I功能
+and clinical consequences of imbalance以及钙失衡的临床症状
+Blood clotting凝血
+Coagulopathy, spontaneous
+or post surgical bleeding, DlC
+凝血病、自发性出血或术后出血、DIC
+Plasma chemistry 血浆生化
+Calcium (Ca) 钙
+tCatotal calcium 总钙
+1.5 - 2.5mmol/l
+iCa ionised calcium 离子钙  1.2 - 1.5 mmol/l
+Functions of calcium
+and clinical consequences of imbalance
+钙的作用
+以及失衡后的临床症状
+Muscle contraction, both smooth and skeletal muscle
+肌肉收缩，包括平滑肌和骨骼肌
+Hypocalcaemic tetany, loss of truncal lifting, seizure, prolapse,
+dystocia
+低钙性抽搐，无法站立，癫痫，脱垂，难产
+Functions of calcium
+and clinical consequences of imbalance
+钙的作用
+以及失衡后的临床症状
+Bone and cartilage strength
+骨及软骨的强度
+Fibrous osteodystrophy, pathological fractures, deformity
+纤维骨营养不良，病理性骨折，畸形
+MBD代谢性骨病
+Functions of calcium
+and clinical consequences of imbalance
+钙的作用
+以及失衡后的临床症状
+Eggshell 蛋壳
+Dystocia, poor hatchability, hypocalcaemic offspring
+难产，低孵化率，后代的低钙血症
+POES
+POFS
+X
+排卵后蛋及卵泡淤积
+manual palpation, X - ray, USG, plasma chemistry
+触诊，X线，B超，血浆生化
+Females
+POES
+Ca
+mmol/l
+2,1
+P
+mmol/l
+3,7
+Females
+Males
+UA
+umol/l
+320,6
+90,5
+CHOL
+/lowm
+9,1
+5,1
+ca
+mmol/l
+6,9
+2,8
+mmol/l
+3,5
+2,1
+P
+Plasma chemistry血 浆生化
+ (tCa)
+Calcium钙
+hypocalcaemia
+x< 1 mmol/l   tremor
+低钙血症
+x< 1mmol/l 震颤
+hypercalcaemia
+4 mmol/l < x
+females with active follicles
+高钙血症
+4 mmol/l< x
+卵泡活跃的雌性
+MBD - syndrom
+paralysis
+代谢性骨病综合症
+瘫痪
+Metabolic diseases
+代谢性疾病
+Young crocodiles幼年鳄
+hypovitaminoses
+维生素缺乏
+vit A, vit B, vit D3
+维生素A，B，D3
+mineral deficit- Ca
+矿物质缺乏—钙
+Adult crocodiles成年鳄
+obesitas肥胖症
+bad nutrition,overfeeding！!!!营养不良，喂食过多
+hypovitaminoses of thevit Bcomplex复合维生素B缺乏
+suboptimal feeding，diseases of the GIT 喂食未达最佳标准和胃肠
+Metabolic diseases
+代谢性疾病
+Young tortoises 幼年陆龟
+hypovitaminosis
+维生素缺乏
+vit A, vit B, vit D3
+维生素A，B，D3
+Calcium defficiency
+缺钙
+Adult tortoises成年陆龟
+obesitas，badnutrition肥胖症，营养不良
+PHAsyndrom原发性低白蛋白血症综合症
+hypovitaminoses of thevitB complex复合维生素B缺乏
+suboptimal feeding，diseases of the GIT喂食未达最佳标准和胃肠道
+疾病
+complications related to reproduction - egg retention
+生殖系统问题——蛋阻留
+SGs syndrom (after ATB treatment ?)
+Metabolic diseases
+代谢疾病
+Young turtles幼年海龟
+hypovitaminosis
+维生素缺乏
+vit A, vit B, vit D3
+维生素A，B，D3
+Calcium defficiency
+缺钙
+Adult turtles成年海龟
+obesitas，badnutrition肥胖症，营养不良
+complications related to reproduction - egg retention
+生殖系统问题
+—蛋阻留
+SGS syndrom (after ATB treatment ?)
+Vital diagnosis of metabolic diseases in reptiles
+爬行动物代谢性疾病重要的诊断方法
+Chelonians 龟:
+liver diseases (chronic, lipidosis)
+肝脏疾病（慢性、脂质沉积）
+chronic anorexia
+长期厌食
+overfeeding, obesitas
+过食，肥胖
+Vital diagnosis of metabolic diseases in reptiles
+爬行动物代谢性疾病重要的诊断方法
+Chelonians 龟:
+liver diseases (chronic, lipidosis)
+肝脏疾病（慢性、脂质沉积）
+ chronic anorexia
+长期厌食
+overfeeding, obes
+过食，肥胖
+CRF x gout
+Vital diagnosis of metabolic diseases in reptiles
+爬行动物代谢性疾病重要的诊断方法
+Chelonians 龟:
+liver diseases (chronic, lipidosis)
+肝脏疾病（慢性、脂质沉积）
+chronic anorexia 长期厌食
+overfeeding, obesitas
+过食，肥胖
+CRF x gout
+慢性肾衰和痛风
+PHA原发性低白蛋白血症
+Vital diagnosis of metabolic diseases in reptiles
+爬行动物代谢性疾病重要的诊断方法
+Chelonians 龟:
+liver diseases (chronic, lipidosis)
+肝脏疾病（慢性、脂质沉积）
+chronic anorexia 长期厌食
+overfeeding, obesitas
+过食，肥胖
+CRF x gout
+慢性肾衰和痛风
+PHA原发性低白蛋白血疗
+hypervitaminosis
+维生素过多症
+Metabolic diseases 代谢性疾病
+hypervitaminosisvitA,维生素A过多
+Post mortem examinationP检
+parathyroidgland 甲状旁腺
+Enlargement 增大
+bleeding on
+the hearth
+心肌出血
+muscle
+small liver 肝缩小
+Post mortem examination F检
+yellowish-greenkidneys黄绿色的肾
+the shell extremely soft 甲壳过软
+colon distension结肠扩张
+MANAGEMENT nad TREATMENT of METABOLIC
+PROBLEMS
+代谢性疾病的处理及治疗
+Management管理
+- Temperature 温度
+air humidity 湿度
+-Fotoperiode光周期
+-internal architecture 内部结构
+-type and form of feeding喂食的形式和种类
+Rehydratation (minimum 20 ml/kg )
+纠正脱水（最小20ml/kg）
+Energy能量
+-per os口服
+-Probe 饲管
+- parenteral forms肠外营养
+SC皮下注射
+IPP腹腔注射
+MANAGEMENT nad TREATMENT of METABOLIC
+PROBLEMS
+代谢性疾病的处理及治疗
+Management管理
+- Temperature 温度
+air humidity 湿度
+-Fotoperiode光周期
+-internal architecture 内部结构
+-type and form of feeding喂食的形式和种类
+Rehydratation (minimum 20 ml/kg )
+纠正脱水（最小20ml/kg）
+Energy能量
+-per os口服
+-Probe饲管
+- parenteral forms肠外营养
+SC皮下注射
+IPP腹腔注射
+MANAGEMENT nad TREATMENT of METABOLIC
+PROBLEMS
+代谢性疾病的处理及治疗
+Management 管理
+- Temperature 温度
+air humidity 湿度
+-Fotoperiode光周期
+-internal architecture 内部结构
+-type and form of feeding喂食的形式和种类
+Rehydratation (minimum 20 ml/kg )
+纠正脱水（最小20ml/kg）
+Energy能量
+－ per os口服
+-Probe 饲管
+- parenteral forms肠外营养
+SC皮下注射
+IPP腹腔注射
+Metabolic diseases
+代谢性疾病
+Carnivores 食肉类
+obesitas肥胖症
+non-optimal diet非最佳食物
+overfeeding喂食过多
+biotindefficiency生物素缺乏
+Metabolic diseases
+代谢性疾病
+Carnivores食肉类
+obesitas肥胖症
+non-optimal diet非最佳食物
+overfeeding
+喂食过多
+biotin defficiency生物素缺乏
+Metabolic diseases代谢性疾病
+Obesitas肥胖
+Metabolic diseases
+代谢性疾病
+Insectivores食虫类
+Ca andvitamin D3deficit钙和维生素D缺乏
+rachitis，osteodystrophv何偻病，骨营养不良
+Metabolic diseases代谢性疾病
+Insectivores食虫类
+Ca and vitamin D3 deficit 钙及维生素D3缺乏
+rachitis，osteodystrophy偻病，骨营养不良
+Metabolicdiseases代谢性疾病
+Herbivorousreptiles食草性爬虫
+MBD-Ca andvitamin D3代谢性骨病—钙和维生素D3
+rachitis, osteodystrophy, X acute hypocalcemia
+何偻病，骨营养不良，急性低钙血症
+complications related to reproduction - egg retention
+生殖系统问题一蛋滞留
+SGSsyndrom无菌肠道综合症
+Nutrition营养
+Young 幼年leaves树叶
+flowers花
+insects昆虫
+(worms蠕虫,crickets蟋蟀?)
+DX
+Adult成年
+leaves树叶
+flowers花
+fruit水果
+(insects昆虫，
+small vertebrates小型脊椎动物?)
+lguana iguana
+(MBD) calcium - problems
+绿鬣蜥
+(MBD)
+钙相关疾病
+Anorexia厌食
+Pain－distension疼痛一扩张
+urinary bladder 膀胱
+caecum,colon 盲肠，结肠
+Anorexia厌食
+GiT  obstipation
+胃肠道便秘
+Gout + nephromegaly + CRF
+痛风十肾肿大十慢性肾衰
+Vital diagnosis of metabolic diseases in reptiles
+爬行动物代谢性疾病重要的诊断方法
+lizards蜥蜴:
+liver diseases (chronic, lipidosis)
+肝脏疾病（慢性、脂质沉积）
+chronic anorexia长期厌食
+overfeeding,obesitas 过食，肥胖
+Vital diagnosis of metabolic diseases in reptiles
+爬行动物代谢性疾病重要的诊断方法
+lizards蜥蜴：
+liver diseases (chronic, lipidosis)
+肝脏疾病（慢性、脂质沉积）
+chronic anorexia长期厌食
+overfeedina_obesitas_过食。肥胖
+MBD代谢性骨兆
+Diagnosis of metabolic diseases in reptiles
+爬行动物代谢性疾病的诊断
+Diagnosis of metabolic diseases in reptiles
+爬行动物代谢性疾病的诊
+肾小球性肾炎
+Gout痛风
+lguanas - renal disease
+Healthy iguanas
+鬣蜥—肾脏疾病
+健康鬣蜥
+Boyer et al.
+Knotek et al.
+Knotek et al. (1999)
+(1996)
+(2002)
+总蛋白TP
+g/1
+63,00
+53,51
+22,0 - 78,2
+葡萄糖 Gluco
+mmo
+9,55
+10,07
+8,3 - 16,5
+1/1
+尿酸
+Uric
+umol
+428,26
+306,70
+70,2 - 145,3
+acid
+/1
+肌酐
+Creat
+umol
+52,20
+61,07
+8,8 - 66,3
+ALT
+3,52
+0,74
+0,1 - 1,2
+AST
+3,11
+5,02
+0,1 - 1,6
+/!
+K
+mmo
+6,10
+4,18
+1,3 - 5,2
+1/1
+Ca
+mmo
+1,95
+2,06
+2,2 - 3,5
+1/1
+P
+mmo
+7,69
+5,95
+1,4 - 3,1
+1/1
+Vital diagnosis of metabolic diseases in reptiles
+爬行动物代谢性疾病重要的诊断方法
+lizards蜥蜴：
+liver diseases (chronic, lipidosis)
+肝脏疾病（慢性、脂质沉积）
+chronic anorexia 长期厌食
+overfeeding, obesitas
+过食，肥胖
+MBD代谢性骨病
+CRF×gout慢性肾衰和痛风

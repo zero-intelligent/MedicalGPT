@@ -1,0 +1,5714 @@
+Handbookof
+Radiographic
+Positioning
+forVeterinary
+Technicians
+MargiSirois
+Elaine Anthony
+DanielleMauragis
+Handbook of
+Radiographic
+Positioning
+for Veterinary
+Technicians
+Margi Sirois
+Elaine Anthony
+Danielle Mauragis
+This page intentionally left blank
+Handbook of
+Radiographic
+Positioning
+forVeterinary
+Technicians
+Margi Sirois, EdD, MS, RVT
+ Program Director of Veterinary
+Technology
+ Penn Foster College
+Scottsdale, AZ
+Elaine Anthony, MA, CVT
+St. Petersburg College
+St. Petersburg, FL
+Danielle Mauragis, CVT
+University of Florida
+Gainesville, FL
+DELMAR
+CENGAGE Learning
+DELMAR
+CENGAGELearning
+Handbook of Radiographic Positioning for
+@ 2010 Delmar Cengage Learning
+Veterinary Technicians
+ ALL RIGHTS RESERVED. No part of this work covered by the copyright herein
+Margi Sirois, Danielle Mauragis, and Elaine
+may be reproduced, transmitted, stored, or used in any form or by any means
+Anthony
+ graphic, electronic, or mechanical, including but not limited to photocopying.
+record ing, scanning, digitizing, taping, Web distribution, information networks,
+Vice President, Career and Professional
+or information storage and retrieval systems, except as permitted under Section
+Editorial: Dave Garza
+107 or 108 of the 1976 United States Copyright Act, without the prior written
+Director of Learning Solutions: Matthew Kane
+permission of the publisher.
+Acquisitions Editor: Benjamin Penner
+ Managing Editor: Marah Bellegarde
+For product information and technology assistance, contact us at
+Cengage Learning Customer & Sales Support, 1-800-354-9706
+Senior Product Manager: Darcy M. Scelsi
+Editorial Assistant: Scott Royael
+For permission to use material from this text or product,
+Vice President, Career and Professional
+submit al requests online at www.cengage.com/permissions.
+Marketing: Jennifer McAvey
+ Further permissions questions can be e-mailed to
+ Marketing Manager: Erin Brennan
+permissionrequest@cengage.com
+Marketing Coordinator: John Sheehan
+Library of Congress Control Number: 2009905813
+ Production Director: Carolyn Miller
+Production Manager: Andrew Crouth
+ISBN-13: 978-1-4354-2603-0
+ISBN-10: 1-4354-2603-7
+Content Project Manager: Allyson Bozeth
+Art Director: Dave Arsenault
+Delmar
+5 Maxwell Drive
+Clifton Park, NY 12065-2919
+USA
+Cengage Leaming is a leading provider of customized leaming solutions with
+of ce locations around the globe, including Singapore, the United Kingdom,
+Australia, Mexico, Brazil, and Japan. Locate your local of ce at: international.
+cengage.com/region
+Cengage Learning products are represented in Canada by
+Nelson Education, Ltd.
+To learn more about Delmar, visit www.cengage.com/delmar
+paaaid ino ie jo alois aaoo jeol inor ie snpoid ino jo fue aseupind
+online store
+www.ichapters.com
+Notice to the Reader
+Publisher does not warrant or guarantee any of the products described herein
+formation contained herein. Publisher does not assume, and expressly disclaims,
+any obligation to obtain and include information other than that provided to it 
+ by the manufacturer. The reader is expressly warned to consider and adopt all
+safety precautions that might be indicated by the activities described herein and 
+to avoid all potential hazards. By following the instructions contained herein,
+the reader willingly assumes all risks in connection with such instructions. The
+publisher makes no representations or warranties of any kind, including but not 
+limited to, the warranties of ftness for particular purpose or merchantability,
+herein, and the publisher takes no responsibility with respect to such material.
+The publisher shall not be liable for any special, consequential, or exemplary
+damages resulting, in whole or part, from the readers' use of, or reliance upon,
+this material.
+Printed in the United States of America
+123 4567121110 0908
+Table of Contents
+PREFACE
+vili
+CHAPTERI
+ General Principles of Small Animal Radiographic Positioning
+ Patient Preparation
+2
+Directional Terminalogy
+2
+Positioning Aids
+4
+ Procedures for Radiographic Positioning
+CHAPTER 2
+Thoracic Radiographs
+Lateral Projection of the Thorax
+10
+VD Projection of the Thorax
+12
+DV Projection of the Thorax
+14
+Standing Lateral Projection of the Thorax
+16
+CHAPTER 3
+ Abdominal Radiographs
+Lateral Projection of the Abdomen
+20
+VD Projection of the Abdomen
+22
+CHAPTER4
+ Pelvic Radiographs
+VD-Extended Hip Projection
+26
+VD Frog Leg Projection
+28
+Lateral Projection of the Pelvis
+30
+CHAPTER5
+Forelimb Radiographs
+CdCr Projection of the Shoulder
+34
+Lateral Projection of the Shoulder
+36
+CdCr Projection of the Scapula
+38
+Lateral Projection of the Scapula
+40
+ CdCr Projection of the Humerus
+42
+Lateral Projection of the Humerus 
+44
+CrCd Projection of the Elbow
+46
+Lateral Projection of the Elbow
+48
+ Hexed Lateral Projection of the Elbow
+50
+CrCd Projection of the Radius and Ulna
+52
+Lateral Projection of the Radius and Ulna.
+54
+Dorsopalmar Prajection of the Carpus 
+56
+Lateral Projection of the Carpus
+58
+Hexed Lateral Projection of the Carpus
+60
+ Extended Lateral Projection of the Carpus
+62
+Lateral and Medial Oblique Projections of the Carpus
+64
+Dorsopalmar Projection of the Metacarpals 
+66
+Lateral Projection of the Meta.carpals 
+68
+Dorsopalmar Projection of the Digits
+70
+Lateral Projection of the Digits
+72
+CHAPTER6
+ Hindlimb Radiographs
+Lateral Projection of the Femur
+76
+Craniocaudal Projection of the Femur
+78
+vi
+Table of Contents
+Caudocranial Projection of the Stifle
+80
+Lateral Projection of the Stifle
+82
+Caudocranial Projection of the Tibia and Fibula
+84
+Lateral Projection of the Tibia
+86
+Dorsoplantar Prajection of the Tarsus
+88
+Lateral Projection of the Tarsus
+90
+Hexed Lateral Projection of the Tarsus
+92
+ Extended Lateral Projection of the Tarsus 
+94
+Dorsolateral/Plantaromedial Oblique Projection of the Tarsus
+96
+ Dorsomedial/Plantarolateral Oblique Projection of the Tarsus
+86
+Dorsoplantar Projection of the Metatarsus
+100
+Lateral Projection of the Metatarsus
+102
+Dorsopalmar Prajection of the Digits
+104
+Lateral Projection of the Digits
+106
+CHAPTER 7
+Skull Radiographs
+Lateral Projection of the Skull
+110
+DV Prajection of the Skull 
+112
+VD Projection of the Skull
+14
+Rostrocaudal Sinuses Closed Mouth Projection
+116
+Rostrocaudal Foramen Magnum Projection
+118
+VD Rostrocaudal Nasal Open Mouth Projection
+1 20
+ Rostrocaudal Tympanic Bullae Open Mouth Projection
+122
+DV Tympanic Bullae Projection 
+126
+Lateral Oblique Tympanic Bullae Prajection
+128
+Lateral Oblique Temporomandibular Joint Prajection
+130
+DV Temporomandibular Joint Projection
+132
+CHAPTER 8
+Dental Radiographs
+Canine Upper Incisor Arcade
+137
+Canine Upper Canine Tooth
+138
+Canine Upper Premolars 
+139
+Canine Upper Fourth Premolars and Molars 
+140
+ Canine Lower Incisor Arcade
+141
+ Canine Lower Canine Tooth and Lower Premolar Arcade
+142
+ Canine Lower Premolar Arcade
+143
+Canine Lower Molars
+144
+Feline Upper Incisor Arcade
+145
+Feline Upper Canine Tooth 
+146
+Feline Upper Premolars and Molar
+147
+Feline Lower Incisor Arcade
+148
+ Feline Lower Canine Tooth
+149
+ Feline Lower Premolars and Molar Arcade
+1 50
+CHAPTER 9
+ Spinal Radiographs
+VD Cervical Spine Projection 
+152
+Lateral Cervical Spine Projection
+1 54
+Lateral Cervical Spine Extended Projection 
+156
+Lateral Cervical Spine Flexed Projection
+158
+VD Thoracic Spine Projection
+160
+Lateral Thoracic Spine Projection
+162
+VD Thoracolumbar Spine Projection
+164
+Lateral Thoracolumbar Spine Projection
+166
+VD Lumbar Spine Projection
+168
+Lateral Lumbar Spine Projection
+170
+VD Lumbosacral Spine Projection
+172
+Lateral Lumbosacral Spine Projection
+174
+VD Coccygeal (Caudal) Spine Prajection
+176
+Lateral Coccygeal (Caudal) Spine Projection
+178
+Table of Contents
+vii
+CHAPTER I0 Radiography ofAvian and Exotic Animals
+General Principles of Restraint
+182
+Lateral View of the Avian Patient
+184
+Ventrodorsal View of the Avian Patient
+186
+Dorsoventral View of the Lizard 
+188
+Lateral View of the Lizard
+190
+Lateral View of the Lizard with the Horizontal Beam
+192
+Dorsoventral View of the Turtle
+194
+Lateral View of the Turtle with the Horizontal Beam 
+196
+Lateral View of the Rabbit Abdomen
+198
+Ventrodorsal View of the Rabbit Abdomen
+200
+Lateral View of the Rabbit Thorax 
+202
+Ventrodorsal View of the Rabbit Thorax
+204
+Lateral View of the Rabbit Skull
+206
+Dorsoventral View of the Rabbit Skull 
+208
+Lateral Oblique View of the Rabbit Skull 
+210
+Lateral View of the Ferret Abdomen 
+212
+Ventrodorsal View of the Ferret Abdomen
+214
+Lateral View of the Ferret Thorax
+216
+Ventrodorsal View of the Ferret Thorax
+218
+Lateral WWhole Body View of the Ferret
+220
+Ventrodorsal Whole Body View of the Ferret
+222
+INDEX
+225
+Preface
+Radiographic evaluation is a valuable diagnostic tool, and the veterinary techni-
+cian plays a vital role in providing high-quality images for evaluation by the clini-
+cian. Proper patient. positioning is crucial to achieving diagnostic quality images.
+This book provides detailed information on positioning of dogs, cats, birds, and
+pocket pets for radiographic examination. Photographs are used to illustrate cor-
+rect patient positioning for each radiographic image. The resulting radiograph
+produced is also included, and diagrams are included for most images. Canine and
+feline dental radiographic techniques are also included. Although not. meant. to
+be a comprehensive radiology textbook, detailed information on patient position-
+ing, positioning aids, and labeling of radiographic images is included. Positioning
+techniques described are most useful for clinical locations in which patients are
+sedated or anesthetized for radiographic procedures. However, all procedures can
+also be performed while manually restraining the patient if needed. Positioning
+techniques presented will provide diagnostic quality images when used with either
+traditional or digital radiology systems. Readers are encouraged to consult a com-
+prehensive radiology textbook for additional information on production of x-rays,
+film processing, and safety issues related to the production of radiographs.
+About the Authors
+Dr. Sirois is the Program Director of Veterinary Technology at Penn Foster Col-
+lege. She received her AAS degree in veterinary technology from Camden County
+College, and also holds a BS and an MS in Biology and an EdD in instructional
+technology and distance education. She is certified as both a veterinary techni
+cian and laboratory animal technician, and has over 20 years' experience as a vet-
+erinary technician educator in both traditional and distance education programs.
+Dr. Sirois is a past president of the Association of Veterinary Technician Educators
+and a member of the editorial board for Veterinary Technician.
+Elaine Anthony is an associate professor of veterinary technology in both the on-
+campus and online veterinary technology programs at St. Petersburg College, and is
+employed part-time at a veterinary internal medicine clinic. She holds an AS degree
+ in veterinary technology from St. Petersburg College. She also holds an AA in music, a
+BS in elementary education, and MA in adult education. She is certified as a veterinary
+technician and has earned a certificate in Veterinary Hospital Management. She has
+for Nestle Purina and a member of the editorial board for Veterinary Technician.
+Ms. Anthony and Dr. Sirois speak at several veterinary conferences each year, and
+have published numerous journal articles and textbook chapters on a variety of
+veterinary technology topics. Dr. Sirois has also authored and edited several veteri-
+nary technology textbooks, including Principles and Practices of Veterinary Technology,
+Laboratory Animal Medicine: Principles and Procedures, and Laboratory Procedures for
+Veterinary Technicians, all published by Elsevier.
+Danielle Futch Mauragis received her A.S. degree in veterinary technology from
+St. Petersburg College. After working in private practice, she joined the Diagnos-
+tic Imaging service at. the University of Florida Veterinary Medical Center. Her
+duties include x-ray, CT, Nuclear Medicine, assisting in ultrasound, and teach-
+ing physics, techniques, and quality control of radiology to veterinary students.
+ shop Suuen si uoissed nau mq 'hums pue Adeiooud ae saqqou naH
+vii
+competition in agility. She shares her life with her husband
+Dennis, daughter Savannah, 2 dogs, Flik and Fizzy, and
+1 ex-research cat. name Pounce de Leon.
+contrbutors
+Lori A. Barnes, CVT
+Avian & Animal Hospital of Bardmoor, Largo, FL
+Vickie Byard, CVT, VTS (Dentistry)
+Rau Animal Hospital Glenside, PA
+Deborah L. Walker, CVT
+Avian & Animal Hospital of Bardmoor, Largo, FL
+Acknowledgements
+Special thanks to our families for putting up with us while we focused on this book.
+This book would not have been possible without your love and support. We are
+Woody, and Flik. We are grateful for the guidance and support of Senior Product.
+Manager, Darcy Scelsi, and to our contributors for all their hard work.
+Reviewers
+Mary H. Ayers, BBA, RT (R)
+Virginia Medical Regional College Of Veterinary Medicine
+ Blacksburg, VA
+Karen Lee Hrapkiewicz, DVM
+Wayne State University
+Detroit, MI
+Karl M. Peter, DVM
+Foothill College
+Los Altos Hills, CA
+ Lois Sargent, DVM
+Miami Dade College
+Miami, FL
+P. Alleice Summers, DVM
+Cedar Valley College
+Lancaster, TX
+Frances Turner, RVT
+McLennan Community College
+Waco, TX
+Dedication
+To our students—-past, present, and future. You are our inspiration.
+ix
+This page intentionally left blank
+HAPTER
+GENERAL PRINCIPLES OF SMALL ANIMAL
+RADIOGRAPHIC POSITIONING
+OVERVIEW
+o oeue eou jo apamous sainba ludeoen oy sualed leue lis jo uuoiso
+the species and descriptive directional terminology. When patients are not properly positioned,
+naccurate interpretation of the radiograph and subsequent incorrect diagnosis of the patient
+can occur. Proper patient positioning usually requires that the patient be immobilied, either
+using chemical restraint (administration of sedatives and anesthetics) or mechanical
+restraint (use of radiology positioning aids). Manual restraint should be avoided due to the risk
+of increased exposure of the handler to ionizing radiation. When manual restraint is necessary, the
+adoid sapnu suluoeiei uizuo o ansodxa au o suonead ae pinous sapuy
+positioning, as well as moving as far as possible from the primary x-ray beam and wearing proper
+safety apparel, including lead-lined gloves, apron, thyroid shield, and glasses.
+2
+Chapter I: General Principles of Small Animal Radiographic Positioning
+PATIENT PREPARATION
+The veterinary technician should ensure that all ani-
+mals being radiographed have a clean, dry haircoat.
+Wet hair and debris can cause confusing artifacts on
+radiographs. If possible, remove all collars and leashes,
+topical medications, bandages, and splints.
+X-ray cassette
+(a) Dorsoventral
+Animals undergoing radiographic study must. be
+properly restrained. Ideally, chemical restraint with
+sedatives or anesthetics will be used so a handler does
+not have to remain in the room. This will also minimize
+the possibility of motion artifacts on the finished radio-
+ graph as well as minimize the anxiety of the animals. In
+some locations, laws prohibit manual restraint. When
+ man ual restraint is necessary, it should be accompanied
+by the use of positioning aids and the proper use of
+(b) Ventrodorsal
+lead shielding to minimize exposure of the technician
+FIGURE I-I
+to radiation. The comfort. of the patient must also be
+Dorsoventral versus ventrodorsal positioning.
+considered.
+Careful planning and preparation will reduce the
+total time that patients must remain in position on the
+surface and exits the dorsal surface of the patient.
+x-ray table. Identify all radiographic views needed, and
+(Figure 1-1b).
+prepare all supplies and equipment before placing the
+Medial (M): This term refers to the direction toward
+animal onto the x-ray table.
+an animal's midline (Figure 1-2). The term is usu-
+ ally used in combination with other directional terms
+to describe oblique projections. For example, dor-
+DIRECTIONAL TERMINOLOGY
+somedial refers to the direction of the x-ray beam
+A basic knowledge of directional terminology is required
+from the dorsal surface toward the midline. Radio
+for proper patient positioning and for use when describ-
+ graphs of the limbs taken with the primary x-ray beam
+ing radiographic projections. The American College
+entering the medial surface of the limb and exiting the
+of Veterinary Radiology (ACVR) determines standard
+lateral may be referred to as mediolateral, although this
+nomenclature for radiographic projections. The accepted
+is normally shortened to simply L.
+tions be named using only approved veterinary anatomi-
+cal directional terms or their abbreviations. Radiographic
+Midline
+projections are described using the directional term that.
+describes the penetration by the central ray of the pri-
+n        
+Anterior
+from the point of entrance to the point of exit. ACVR
+View
+guidelines also include recommended nomenclature to
+be used when combinations of terms are needed and
+when oblique x-ray angles are used. In small animals, it is
+Medial
+location above the animal unless otherwise indicated.
+Lateral
+Commonly Used Directional Terminology:
+Dorsoventral (DV): This term describes a radiograph
+produced when the primary x-ray beam enters the
+dorsal (topline or spinal) surface and exits the ventral
+(sternal or thorax and abdomen) surface of the patient.
+(Figure 1-1a).
+FIGURE 1-2
+Ventrodorsal (VD): This term describes a radiograph
+produced when the primary x-ray beam enters the ventral
+ Medial versus lateral
+Handbook of Radiographic Positioning for Veterinary Technicians
+3
+Lateral: The term describes a radiograph produced
+Cranial (Cr): This relative directional term indicates a
+when the primary x-ray beam enters from the side, away
+structure located closer to the animal's head from any
+from the medial plane or midline of the patient's body.
+part of the body (Figure 1-3).
+In the strictest use of ACVR nomenclature, a lateral pro-
+Caudal (Cd): This relative directional term indicates
+jection taken with an animal lying on its right side would
+a structure located closer to the animal's tail from any
+be referred to as left to right lateral. However, by con-
+part of the body (Figure 1-3).
+vention, this is usually shortened to simply right lateral,
+ meaning that the patient is positioned in right lateral
+Plantar: This term is used to describe the caudal (pos-
+recumbency, indicating that the patient's right side is
+terior) surface of the hindlimb distal to the tarsus; the
+closest to the x-ray cassette. Similarly, a limb radiograph
+correct term for the surface proximal to the tarsus is
+obtained with the patient in right lateral recumbency
+caudal (Figure 1-3).
+with the affected limb placed against the x-ray table or
+ Palmar: This term is used to describe the caudal (pos-
+cassette and the x-ray beam penetrating from the me-
+terior) surface of the forelimb distal to the carpus; the
+dial to lateral direction is referred to as a right lateral
+correct term for the surface proximal to the carpus is
+projection.
+caudal (Figure 1-3).
+Proximal (Pr): This is a relative directional term that
+Craniocaudal (CrCd): This term describes a radio-
+ indicates a structure located closer to a point of attach-
+graphic projection obtained by passing the primary x-
+ment or origin from another structure or closer to the
+ray beam from the cranial surface to the caudal surface
+midline of the animal (Figure 1-3).
+of a structure. It is most commonly used for radiographs
+Distal (Di): This is a relative directional term that indi-
+involving the extremities proximal to the carpus or tar-
+cates a structure located farther from the point of at-
+sus. Older veterinary literature may refer to this radio
+tachment or origin of another structure or away from
+graphic projection as anterior-posterior (AP).
+the midline of the animal (Figure 1-3).
+Caudocranial (CdCr): This term describes a radio-
+Rostral: This relative directional term indicates a struc
+graphic projection obtained by passing the primary x-
+ture located closer to the nares from any point on the
+ray beam from the caudal surface to the cranial surface
+head (Figure 1-3).
+of a structure. It is most. commonly used for radiographs
+involving the extremities proximal to the carpus or tar
+sus. Older veterinary literature may refer to this radio.
+graphic projection as posterior-anterior (PA).
+A
+B
+Dorsopalmar (Dpa): This term is used to describe ra-
+diographic views distal to the carpus obtained by pass-
+ing the primary x-ray beam from the dorsal direction
+to the palmar surface of the forelimb. Older veterinary
+literature may refer to this radiographic projection as
+anterior-posterior (AP)
+Palmar dorsal (PaD): This term is used to describe ra-
+diographic views distal to the carpus obtained by pass-
+ing the primary x-ray beam from the palmar surface of
+the forelimb toward the dorsal surface of the body. Old-
+er veterinary literature may refer to this radiographic
+ projection as posterior-anterior (PA) .
+C
+Dorsoplantar (Dpl): This term is used to describe ra-
+diographic views distal to the tarsus obtained by pass-
+G
+ing the primary x-ray beam from the dorsal direction
+to the plantar surface of the hindlimb. Older veterinary
+literature may refer to this radiographic projection as
+an terior-posterior (AP) .
+FIGURE I-3
+Plantardorsal (PlD): This term is used to describe ra-
+Common directional and positioning terminology. The arrows
+diographic views distal to the tarsus obtained by passing
+on this Boston terrier represent the following directional terms:
+the primary x-ray beam from the plantar surface of the
+A = cranial, B = caudal, C = ventral, D = dorsal, E = rostral,
+forelimb toward the dorsal surface of the body. Older
+F = proximal, G = distal, H = palmar, I = plantar.
+4
+ Chapter I: General Principles of Small Animal Radiographic Positioning
+veterinary literature may refer to this radiographic pro-
+jection as posterior-anterior (PA).
+Oblique (O): This term refers to radiographic projec
+tions taken with the primary beam entering at. an angle
+    e  s  e 
+est. Oblique projections are sometimes used to obtain
+images of structures that might be superimposed over
+other structures with standard 90-degree views. Nearly
+all dental radiographs are obtained using oblique an-
+gles. The angle used may vary depending on the site of
+FIGURE I-4
+interest. The specific angle should be included in the
+Sandbags used for radiographic positioning
+description of the radiograph along with the proper ter-
+minology to describe the direction of the primary beam.
+For example, a D60LMPaO indicates that the x-ray
+Beanbags
+beam entered the dorsal surface at a 60-degree angle
+and exited at the medial area of the palmar aspect. of
+Pads filled with polyester beads are commonly referred
+the hindlimb. This nomenclature can become unwieldy
+to as bean bags. They are similar in construction to sand-
+and is often shortened for standardized oblique views
+bags and available in a variety of sizes. Beanbags with
+used in a particular setting.
+vacuum hose connections are also available. This allows
+the handler to mold the bag around the patient by re-
+ moving the air from the bag while it. is in position on
+the patient. Beanbags are usually composed of vinyl or
+POSITIONING AIDS
+similar materials.
+ Radiology positioning aids are used to increase the pa-
+tient's comfort as well as ensure proper positioning for
+Foam Pads and Wedges
+the radiographic evaluation. They may also allow for
+patient. evaluation without a handler having to remain
+Foam pads and wedges are available in a wide variety of
+in the room. When manual restraint is needed, posi-
+sizes and shapes (Figure 1-5). Triangular and rectangu-
+tioning aids will assist the handler in maintaining the
+lar foam blocks are most. common. Some foam wedges
+animal in the correct position. Positioning aids should
+and pads have heavy vinyl covers that are washable
+be small and lightweight. to allow ease of use and stor-
+ Plain foam pads and wedges cannot be easily disinfected
+age. Most positioning aids leave some density shadows
+and must be covered with disposable materials before
+on the finished radiograph and should, therefore, not.
+use. Foam positioning aids are usually radiolucent, al-
+be placed over or under the area of interest. Position-
+ though some that are covered with heavy fabrics may
+ing aids made of plastic are radiolucent, meaning x-rays
+leave density shadows on the finished radiograph.
+must be waterproof, washable, and stain resistant. Reus-
+Troughs
+able positioning devices include sandbags, foam pads
+and wedges, beanbags, troughs, and ropes. Disposable
+U- and V-shaped troughs are commonly used position-
+ positioning aids include porous nonelastic tape, plastic
+ing aids. They are available in a variety of widths and
+or latex tubing, and roll gauze.
+lengths. Troughs are designed to maintain a patient
+in dorsal recumbency. They are commonly composed
+Sandbags
+of clear plastic (Figure 1-6) or may be vinyl-covered,
+Sandbags can be purchased commercially (Figure
+1-4), or they can be made from materials purchased
+ at. a craft store. Commercially prepared bags usually
+come prefilled with clean silica sand and are perma-
+nently sealed. They are commonly made of vinyl or
+nylon with plastic linings. Empty bags with sealable
+openings may also be purchased and filled with sand.
+Canvas bags cannot be easily disinfected and should,
+therefore, be wrapped in disposable plastic material
+FIGURE 1-5
+before each use.
+Foam wedges.
+Handbook of Radiographic Positioning for Veterinary Technicians
+5
+Other Positioning Aids
+Rope, roll gauze, adhesive tape, and plastic tubing
+make inexpensive and effective positioning aids. Adhe-
+sive tape can serve many functions as a positioning aid.
+It. can be used to extend a limb or widen the space
+between the digits to increase visibility of the structures.
+It can also be used to rotate limbs and hold them in
+position to obtain oblique views, or maintain bones and
+joints perpendicular to the x-ray beam. Rope and gauze
+can be looped around a limb and used to extend the
+limb. The end of the rope can be tied to the table or
+FIGURE 1-6
+can be held by the handler. Extending the limb by hold-
+ Clear plastic V-trough.
+ing the end of the rope or gauze increases the distance
+of the handler to the primary beam, thereby reducing
+exposure to ionizing radiation. Compression bands
+ and paddles, wooden spoons, and Velcro can also be
+trough-shaped foam (Figure 1-7). Plastic troughs are
+used to assist in immobilizing patients. A plastic-mouth
+radiolucent. Head troughs are also available that are
+speculum may be useful for positioning of some dental
+U-shaped and contain acrylic rods that can be used to
+ and skull radiographs.
+ maintain the position of the skull. When radiographing
+Acrylic tubes are routinely used for immobilization
+the thorax or abdomen using a positioning trough, the
+ of exotic animals for radiography. Although chemical
+length of the trough must be sufficient to allow the
+restraint. is generally required for most. exotic animal
+en tire area of interest to remain fully within the trough.
+patients, paper bags and pillowcases may be used to
+ If using the trough to position an animal for other
+contain some exotic animal species. Detailed informa-
+radiographic studies, such as the pelvis, the trough
+tion on positioning aids used in exotic animals is pre-
+must be fully outside the collimated area of the film.
+sented in Chapter 10. A large number of specialized
+If the trough is not a sufficient length or is positioned
+radiographic positioning aids are also commercially
+improperly, the finished radiograph may contain density
+available for use in small animals.
+artifacts representing the edges of the trough
+PROCEDURES FOR RADIOGRAPHIC
+POSITIONING
+Specific protocols for positioning of animals for radio-
+graphic evaluation vary depending on the anatomical
+ area of interest. and the species. For nearly all radio-
+ graphic studies, two views are needed, taken at right.
+angles to each other. Patients are usually positioned
+with the area of interest as close to the x-ray cassette
+as possible. This decreases magnification and increases
+detail. In some cases, magnification is desirable, and
+the radiograph exposure will be made with the area of
+interest. elevated off the x-ray cassette so that it is closer
+to the x-ray tube. This is commonly performed when
+obtaining radiographs of exotic animals. Except for
+oblique views and some dental radiographs, the area of
+ interest should remain perpendicular to the x-ray tube
+to minimize distortion of the area of interest on the
+resulting radiograph.
+The patient should be placed on the x-ray table so
+that the thickest part of the area of interest is placed
+toward the cathode end of the x-ray tube. This takes
+FIGURE 1-7
+advantage of the heel effect, which refers to the greater
+Vinyl-covered V-trough.
+intensity of x-rays that originate from the cathode end
+6
+Chapter I: General Principles of Small Animal Radiographic Positioning
+of the tube, and results in more even film density on the 
+finished radiograph. When the x-ray beam is centered
+finished radiograph.
+correctly and the correct size cassette is used, it is usu-
+ally only necessary to verify one surface landmark on
+Centering and Collimation
+the Cr/Cd aspect of the patient and one on the D/V
+aspect.
+The specific anatomical structures that must be
+ In some cases, it is desirable to use an x-ray cas-
+included on the finished radiograph are based on sur-
+sette twice as large as needed and expose one view
+face landmarks. These are fixed areas on the patient's
+on each side of the film. This is commonly referred
+body that can be seen or palpated. For example, the
+ usn pausdoe si l 'aeid au uds, se oi
+last rib, the angle of the mandible, and the scapula are
+lead shield across half of the x-ray cassette to prevent.
+useful palpable landmarks.
+exposure of the film when taking the first view (Figure
+Animals should always be positioned so that the
+1-9). The lead shield is then moved to the other half
+anatomical area of interest for the radiographic study
+of the cassette, and the second view is exposed on the
+is at the center of the x-ray film. For example, when
+other half of the film. It is important that the patient.
+survey radiographs of the abdomen are taken, the pri-
+is oriented in the same direction each time so that the
+mary x-ray beam is centered on the midline. However,
+finished radiograph has the two views facing the same
+if the anatomical area of interest is a canine patient's
+direction.
+spleen, the primary beam would be centered lateral to
+the midline so that the center of the spleen is located in
+Measurement
+the center of the finished radiograph.
+Radiographs should include a large enough area
+A caliper is used to measure the patient so that the
+to allow identification of the structures. For example,
+correct settings can be chosen on the x-ray machine
+radiographs of long bones must include the joints
+(Figure 1-10). The measurement is obtained over the
+proximal and distal to the bone, whereas radiographs
+thickest part of the body in the area to be radiographed.
+of joints must include 1/3 of the bones proximal and
+Where there is a significant difference in size between
+distal to the joint.
+the cranial and caudal surface landmarks, it may be nec-
+The cassette size chosen must. be slightly larger
+essary to use two cassettes to obtain the needed views. In
+than needed to accommodate the needed view. The
+ that case, separate radiographs are taken of the cranial
+collimator is then used to restrict. the size of the beam
+and caudal portions of the area of interest. This is most.
+(Figure 1-8). This results in a reduction of scatter
+common in large, barrelchested dogs requiring ab-
+radiation, thereby reducing exposure of the handler
+ dominal or thoracic radiographic studies. When using
+to the primary beam as well as improving the overall
+a V-trough that will be positioned within the collimated
+quality of the image. Properly collimated films will
+area, the trough is included in the total measurement
+have a clear, unexposed area on all four sides of the
+ taken with the caliper
+SID
+72IN
+180CM
+40IN
+100CM
+FIGURE 1-8
+FIGURE 1-9
+Collimator.
+Split plate.
+Handbook of Radiographic Positioning for Veterinary Technicians
+7
+FIGURE I-11
+Radiographic label imprinter.
+FIGURE 1-10
+Caliper used ta obtain body measurement.
+FIGURE 1-12
+Lead radiograph label tape on density filters.
+Labeling
+of the veterinarian or clinic, and the patient and cli-
+There are several acceptable methods for labeling
+ent name. In addition to the patient information, the
+radiographs. Patient information may be written on
+identification label may also designate the direction of
+lead tape placed on the film before exposure or may
+entry and exit of the primary beam. Radiographic pro-
+be imprinted on the film in the darkroom. When an
+jections of limbs may also be designated as forelimb
+imprinter is used (Figure 1-11), the x-ray cassette must.
+or hindlimb on the film label. The identification label
+contain a lead blocker to shield a portion of the film
+must be placed so that it does not overlap any anatomi-
+from exposure. Printed cards are used that are pre-
+cal area of interest.
+ pared with the patient information. The imprinter is
+Directional markers must also be included on all
+used in the darkroom to flash white light through the
+radiographs. These markers are added before making
+previously unexposed area of the cassette to transfer
+the exposure. Directional markers can be composed of
+information from the printed card to the x-ray film.
+a lead shield cut to an R or L shape, or can be obtained
+Lead tape is used with density filters that are matched
+to the exposure settings for that radiographic study.
+is composed of metal with an R or L cut. out. Markers
+In general, radiographic studies that utilize the grid
+are used to designate the position of the patient on its
+with the cassette under the tabletop require a green
+right or left side as well as the limb being radiographed.
+density filter, whereas exposures made with the cas-
+ Markers on craniocaudal or caudocranial projections
+sette on the tabletop utilize the white density filter
+are placed on the lateral aspect of the limb. For lateral
+(Figure 1-12). Digital systems usually utilize computer
+ projections of limbs, the left or right marker is placed
+software to imbed the patient information on the fin-
+on the cranial aspect. For dorsoventral or ventrodorsal
+ished radiograph. Minimal required information in-
+ projections, the marker is used to indicate the right or
+cludes the date the radiograph was exposed, the name
+left side of the patient. Multiple types of markers are
+8
+available that can be used to designate detailed infor
+mation on the patient position (Figures 1-13a—c).
+Some radiographic contrast studies require expo-
+sure of sequential radiographs. These flms must also
+be designated with a time marker (Figure 1-14). This
+usually refers to the elapsed time since the radiogra-
+JM
+phic study was started or can indicate the number of the
+radiograph in the series. The designation can be made
+on the lead tape identification label. Timer markers are
+(a)
+also available that contain a clockface with rotating dials
+to indicate the elapsed time or the time the radiograph
+was exposed. Gravity markers that. can be used to desig-
+DV
+ nate that the patient is standing are also available.
+AP
+CMO
+ML
+MLO
+PA
+(b)
+FIGURE I-14
+Elapsed time marker.
+(c)
+FIGURE I-13a-
+Directional markers.
+CHAPTER2
+THORACIC RADIOGRAPHS
+OVERVIEW
+Thoracic radiographs are primarily utilized for evaluation of the soft tissues of the thoracic cavity
+suspected pneumothorax, exposures are usually made during the expiratory pause. The most
+commonly used positions are the right or left lateral recumbency and ventrodorsal (VD). If VD,
+dorsoventral (DV), and right and left lateral views are needed, the DV and VD exposures should
+be performed first to prevent positional collapse of the lungs.
+For all thoracic projections, the forelimbs must be extended cranially to avoid overlap of
+the shoulder muscles on the thoracic structures. For the DV and VD projections, the sternum
+appears superimposed on the thoracic vertebrae. In properly positioned lateral projections,
+the costochondral junctions of the ribs and the angles of the thoracic vertebrae are even
+and superimposed in some areas. A horizontal beam may occasionally be used to identify the
+presence of air or fluid within the thoracic cavity. Lateral, DV, and VD views may be exposed with
+the horizontal beam.
+The following pages illustrate the proper positioning and technique for thoracic radiographs
+10
+Chapter 2: Thoracic Radiographs
+Lateral Projection of the Thorax
+Positioning:
+* Right lateral recumbency is preferred.
+*Forelimbs are extended cranially; hindlimbs caudally.
+· Place a foam pad under the sternum to avoid rotation and to maintain horizontal alignment of
+the stern um and spine.
+*Neck is in natural position.
+Centering:
++ Caudal border of scapula.
+Collimation:
+· Entire rib cage within collimated area.
++Cranial border: thoracic inlet.
+· Dorsal border: spinous processes of spinal column.
+*Ventral border: xiphoid.
+Labeling:
+*R/L marker within collimated area ensuring that marker does not obscure any anatomical structure.
+*  Identification label in caudal region within collimated area.
+Technique:
+·Measure at highest area.
+Comments:
+*Broad-chested animals may not require foam padding to position sternum.
+· Ensure that any sandbags are placed outside the collimated area.
+FIGURE 2-1
+Proper positioning for lateral projection of the thorax
+Handbook of Radiographic Positioning for Veterinary Technicians 
+FIGURE 2-2
+Lateral projection of the thorax.
+ Scapula
+Descending aorta
+Trachea
+Diaphragm
+Manubrium
+Caudalvenacava
+ of sternum
+Humerus
+Xiphoid
+Cardiac
+silhouette
+FIGURE 2-3
+Anatomical features and landmarks: cardiac silhouette, caudal vena cava, trachea,
+descending aorta, scapula, diaphragm, humerus, manubrium of stermum, and
+xiphoid.
+12
+Chapter 2: Thoracic Radiographs
+VD Projection of the Thorax
+Positioning:
+* Dorsal recumbency.
+·Forelimbs are extended cranially with nose between forelimbs.
++ Hindlimbs are extended caudally.
+·Use a V-trough to superimpose the sternum and spine.
+Centering:
+* Caudal border of the scapula centered on midline.
+Collimation:
++Cranial border: thoracic inlet.
+*V-trough entirely within collimated area.
+* Lateral borders: body wall.
+Labeling:
+·R/L marker cranial to axilla within V-trough.
+· Iden tification label in cranial or caudal region within collimated area.
+Technique:
+● Measure at highest point (usually the last rib).
+Comments:
+* Foam pads may be needed to maintain alignment of the sternum and spine, and to avoid rotation.
+ This position may also be used with horizontal beam x-ray and is referred to as the lateral decubitus view
+(Figure 2-5). The patient is placed in lateral recumbency on top of a foam pad to elevate the patient off the
+tabletop. The beam is then directed ventrodorsally.
+FIGURE 2-4
+FIGURE 2-5
+Proper positioning for VD prajection of the thorax.
+Lateral decubitus view.
+Handbook of Radiographic Positioning forVeterinary Technicians
+13
+FIGURE 2-6
+VD projection of the thorax.
+Scapulae
+Dorsal spinous
+processes
+Cardiac silhouette
+Caudalvenacava
+Diaphragm
+FIGURE 2-7
+Anatomical features and landmarks: scapulae, cardiac silhouette,
+caudal vena cava, diaphragm, and dorsal spinous processes.
+14
+Chapter 2: Thoracic Radiographs
+DV Projection of the Thorax
+Positioning:
+*Sternal recumbency.
+Forelimbs are extended slightly cranial with carpus at. level of ears.
+·Hindlimbs are in natural flexed position.
+·Superimpose sternum and spine.
+Centering:
+·Caudal border of scapula.
+Collimation:
+*Cranial border-thoracic inlet.
+*Lateral borders-body wall.
+Labeling:
+●R/L marker caudal to axilla within collimated area.
++ Identification label in caudal region within collimated area.
+Technique:
+*Measure at highest point (usually the last rib).
+Comments:
+*Main tain alignment of stern um and spine.
+*This position may also be used for horizontal x-ray beam.
+FIGURE 2-8
+Proper positioning for DV projection of the thorax.
+Handbook of Radiographic Positioning for Veterinary Technicians 
+15
+FIGURE 2-9
+DV projection of the thorax.
+Scapula
+Cardiac silhouette
+Caudal vena cava
+Diaphragm
+Stomach
+FIGURE 2-10
+Anatomical features and landmarks: scapula, cardiac silhouette,
+stomach, diaphragm, caudal vena cava, dorsal spinous processes,
+and rib.
+16
+Chapter 2: Thoracic Radiographs
+Standing Lateral
+Projection of the
+Thorax Using the
+Horizontal Beam
+Positioning:
+* Right lateral preferred.
++Natural standing position.
+Centering:
+* Caudal border of scapula.
+Collimation:
+FIGURE 2-11
+ Entire rib cage within collimated area.
+Proper positioning for standing lateral projection with horizontal
+beam of the thorax.
++ Cranial border: thoracic inlet.
+· Dorsal border: spinous processes of spinal col-
+umn.
+*Ventral border: stern um.
+Labeling:
+R/L marker cranial to axilla within collimated
+area.
+ Identification label in caudal region within colli
+mated area.
+Technique:
+ Measure at highest area.
+Comments:
+Gravitational markers, such as the Mitchell marker,
+should be used.
+ Shoulder musculature is superimposed over the
+cranial thorax.
+FIGURE 2-12
+ The horizontal beam can also be used for a recum-
+Lateral recumbent view.
+bent lateral view. The patient is positioned in ster-
+nal recumbency on top of a foam pad with the fore-
+limbs gently extended forward and the hindlimbs
+in a natural crouched position (Figure 2-12).
+Handbook of Radiographic Positioning for Veterinary Technicians
+17
+FIGURE 2-13
+Standing lateral projection with horizontal beam of the thorax.
+Tracheal
+Aorta
+bifurcation 
+Scapula
+Trachea
+Diaphragm
+Humerus
+Cardiac silhouette
+FIGURE 2-14
+Anatomical features and landmarks: tra.chea, aorta, tra.cheal bifurcation,
+cardiac silhouette, scapula, humerus, and diaphragm.
+HAPTER3
+ABDOMINAL RADIOGRAPHS
+OVERVIEW
+Abdominal radiographs are primarily utilized for evaluation of the soft tissues of the abdomen
+(kidneys, bladder, liver, intestinal tract). Abdominal radiographs are exposed after full exhalation
+and before initiation of inspiration (expiratory pause). Lateral and ventrodorsal (VD) views are
+commonly performed.
+For large dogs, it may be necessary to take cranial and caudal views of the abdomen if large
+cassettes do not allow the entire abdomen to be exposed on one film. Cranial views usually
+require modification of the exposure settings to avoid overexposure of the flm.
+o paise uaaq sey suaed aun ae paouad aq sn saipns pudeoipen aos
+12 hours unless medical conditions contraindicate fasting. If necessary, a cathartic or enema
+may be given 3-4 hours before radiography to clear the intestinal tract of fecal matter. This will
+enhance visualization of structures within the abdominal cavity.
+The following pages illustrate the proper positioning and technique for abdominal
+radiographs.
+19
+20
+ Chapter 3: Abdominal Radiographs
+Lateral Projection of the Abdomen
+Positioning:
+*Right lateral recumbency.
+●Forelimbs are extended cranially; hindlimbs extended caudally.
+* Use foam pads to main tain horizontal alignment. of sternum.
+*Use foam pads between stifles to maintain alignment.
+Centering:
+*Slightly caudal to last rib.
+Collimation:
+*Cranial border: halfway between the caudal border of scapula and the xiphoid.
+* Dorsal border: spinous processes of vertebral column.
+*Ventral border: sternum.
+Labeling
+*R/L marker within collimated area in inguinal region.
+·  Identification label in caudal region within collimated area.
+Technique:
+* Measure at highest. point (usually the last rib)
+Comments:
+· Collimated area should not extend beyond dorsal spinous processes, and caudal border must include the
+cranial aspect of the greater trochanter. Should the patient be too large to include both cranial and caudal
+landmarks, two radiographs must be taken so that both the cranial and caudal abdomen can be evaluated.
+ Extension of hindlimbs is crucial to avoid superimposing of abdominal muscles, but hyperextension must be
+ avoided because this may reduce visibility of abdominal organs.
+●The standing or recumbent lateral views may also be used (see Figures 2-11 and 2-12 for patient positioning).
+FIGURE 3-1
+ Proper positioning for lateral prajection of the abdomen.
+Handbook of Radiographic Positioning for Veterinary Technicians 
+21
+FIGURE 3-2
+Lateral projection of the abdomen.
+Kidneys
+ Small intestine
+Diaphragm
+Colon
+Stomach
+Bladder
+Caudal
+vena cava
+Liver
+Spleen 
+FIGURE 3-3
+Anatomical features and landmarks: liver spleen, stomach, kidneys, colon,
+22
+ Chapter 3: Abdominal Radiographs
+VD Projection of the Abdomen
+Positioning:
+*Dorsal recumbency.
+·Forelimbs extended cranially with nose between forelimbs.
++ Hindlimbs extended caudally.
+·Use a V-trough to superimpose the stern um and spine.
+Centering:
+·Medial aspect of last rib centered on sternum.
+Collimation:
+*Cranial border: on midline halfway between the caudal border of scapula and the xiphoid.
+* Lateral borders: abdominal wall within V-trough.
+Labeling:
+* R/L marker in V-trough within collimated area.
+* Iden tification label in caudal region within collimated area.
+Technique:
+*Measure at highest point. (usually the last. rib).
+Comments:
+·Foam pads may be needed on lateral aspect of body wall to avoid rotation and maintain alignment of stern um
+and spine.
+·Edges of V-trough must be outside the collimated area.
+● The VD projection with the horizontal beam may also be used (see Figure 2-5 for patient positioning).
+FIGURE 3-4
+Handbook of Radiographic Positioning for Veterinary Technicians
+23
+FIGURE 3-5
+VD prajection of the abdomen.
+Liver
+Stomach
+Small
+ Spleen
+intestine
+Kidney
+Colon
+FIGURE 3-6
+Anatomical features and landmarks: stomach, spleen, kidney, colon,
+liver, and small intestine.
+This page intentionally left blank
+THAPTER4
+PELVIC RADIOGRAPHS
+OVERVIEW
+Pelvic radiographs are primarily utilized for visualization of the bones and joints that comprise
+the hip. In patients with suspected hip dysplasia, a variety of specialied procedures are used. The
+most common of these is the ventrodorsal (VD)-extended hip view utilized for certification by
+the Orthopedic Foundation of America. Always consult the foundation for specific application
+ procedures and requirements. Some practitioners use a diagnostic technique for hip dysplasia
+known as the PennHIP method.This procedure requires specialized equipment, and can only be
+ performed by those who have undergone additional training and certification.
+a ya jo sai  ae sui sis e sui du aun suad iaad le ro
+In addition to the VD-extended view, commonly performed projections of the pelvis include the
+VD frog leg position and lateral.
+The following pages illustrate the proper positioning and technique for pelvic radiographs.
+25
+26
+ Chapter 4: Pelvic Radiographs
+VD-Extended Hip
+Comments:
+Projection
+Hindlimbs must both be extended evenly so that.
+digits on both feet are even with each other.
+A long piece of tape can be used to rotate femurs
+Positioning:
+ by applying tape sticky side up under the stifles,
+excluding the tail. Pull each end of the tape to the
+· Dorsal recumbency.
+opposite side of the table, using the tape to pull
+· Forelimbs extended cranially and evenly with nose
+the femurs medially. Hold the ends of the tape in
+between forelimbs.
+place with sandbags, using the sandbag to place ad-
+●Hindlimbs extended caudally and evenly into full
+ditional pressure on the tape.
+extension.
+●V-trough with foam pads on lateral aspect of body
+wall to superimpose stern um and spine.
+* Femurs rotated medially so they are parallel to one
+another and the x-ray table, and the patella is cen-
+tered within the patellar groove over the stifle and
+taped in place.
+·Align tail with spine.
+Centering:
+●Midline between the left and right ischial tuberos-
+ity.
+Colfimation:
+·Cranial border: caudal to the wing of ilium and dis-
+tal to the patella.
++ Lateral borders: lateral to the ischium.
+Labeling:
+●R/L marker within collimated area away from bony
+areas.
+ Detailed permanent identification in caudal region
+to include American Kennel Club-registered name,
+number or case number, hospital or veterinarian
+name, and date radiograph was taken.
+Technique:
+FIGURE 4-1
+·Measure thickest part of pelvis.
+Proper positioning for VD-extended hip.
+Handbook of Radiographic Positioning for Veterinary Technicians
+27
+FIGURE 4-2
+VD-extended hip projection.
+7th lumbar
+Wing of 
+vertebra
+the ilium
+Obturator foramen
+Ischium
+Femur
+Patella
+FIGURE 4-3
+Anatomical features and landmarks: femur, patella, obturator
+foramen, wing of the ilium, ischium, and 7th lumbar vertebra.
+28
+ Chapter 4: Pelvic Radiographs
+VD Frog Leg Projection
+Positioning:
+* Dorsal recumbency.
+·Forelimbs are extended cranially
+· Hindlimbs are in natural flexed position; in most normal patients, the femurs naturally assume an angle of
+approximately 45 degrees to the spine. In some large dogs, the femurs may naturally assume a 90-degree
+angle to the spine.
+Centering:
+*Midline between the left and right ischial tuberosity.
+Collimation:
+·Cranial border: cranial to the wing of ilium to caudal border of ischium.
+* Lateral border: to include proximal third of femur.
+Labeling:
+·R/ L marker within collimated area away from bony areas
++Identification label in caudal region.
+Technique:
+*Measure thickest. part of pelvis.
+Comments:
++ Sandbags placed outside of collimated area on tarsus can be used to maintain symmetry.
+FIGURE 4-4
+Proper positioning for VD frog leg prajection.
+Handbook of Radiographic Positioning for Veterinary Technicians 
+29
+FIGURE 4-5
+VD) frog leg projection.
+7thlumbar
+Wing of
+vertebra
+the ilium
+Femur
+Obturator foramen
+Ischium
+FIGURE 4-6
+Anatomical features and landmarks: femur, obturator foramen, ischium, wing
+of the ilium, and 7th lumbar vertebra.
+30
+ Chapter 4: Pelvic Radiographs
+Lateral Projection
+of the Pelvis
+Positioning:
+●Right or left lateral recumbency (side of interest.
+closest. to the cassette).
+● Foam wedge placed between hindlimbs to super-
+impose both sides of pelvis.
+ Bottom leg extended cranially, top leg extended
+caudally (scissor position).
+Centering:
+· Greater trochanter of femur.
+Collirmation:
+· Cranial edge of ilium to caudal border of ischium.
++ Dorsal border: dorsal to the wing of the ilium.
+Labeling:
+R/L marker to indicate which limb is closest to the
+cassette.
+FIGURE 4-7
+ Place identification label in right cranial region
+ Proper positioning for lateral pelvis prajection.
+ or left. caudal region within collimated area to
+avoid overlap of bone.
+Technique:
+· Measure highest. area at level of trochanter.
+Comments:
+* Limb furthest from cassette will be magnified.
+Handbook of Radiographic Positioning for Veterinary Technicians
+31
+FIGURE 4-8
+Lateral pelvis projection.
+ 7th lumbar vertebrae
+llium
+Sacrum
+Obturator
+Ischium
+foramen
+Femu
+Femur
+FIGURE 4-9
+Anatomical features and landmarks: femur, ilium, sa.crum, 7th lumbar
+vertebrae, obturator foramen, and ischium.
+CHAPTER5
+FORELIMB RADIOGRAPHS
+OVERVIEW
+Radiographic projections of the limbs of the thoracic girdle are often performed to detect
+fractures. Careful positioning is needed to maintain the limb in a parallel plane against the x-ray
+cassette to avoid magnification and distortion of the image.The x-ray cassette is normally placed
+on the tabletop rather than under the table due to the relatively small measurement of dog
+and cat limbs. Collimation includes joints above and below a bone for images of long bones.
+Radiographic projections of joints generally include approximately one-third the bones proximal 
+and distal to the joint.The beam is restricted to just the width needed to include all the necessary
+Saed uau'arei aenb saual e ui snsau pue uoeien aess sasnpan sul sannss
+are exhibiting signs of pain, a horizontal beam may be used to minimize the need to manipulate
+the limb. Supporting the limb on a foam pad and placing the x-ray cassette perpendicular to the
+tabletop accomplish the horizontal beam projection.
+Radiographic evaluation of the forelimbs includes lateral and caudocranial (CdCr) images of
+the scapula, humerus, shoulder, elbow joint, radius, and ulna. Dorsopalmar and lateral views are
+usually taken of the carpus, metacarpus, and phalanges. Oblique views are often needed for the
+carpus, and flexed views of the elbow and carpus are routinely performed.
+33
+34
+Chapter 5 : Forelimb Radiographs
+CdCr Projection of the Shoulder CdCr
+Positioning:
+* Dorsal recumbency in a V-trough with affected limb down.
+*Tape and extend both forelimbs cranially.
+● Head is pushed laterally away from the dependent limb to avoid having the cervical spine superimposed
+over joint.
+Centering:
+  e   s a r  a  s  r p rd  s
+ palpated.
+Collimation:
+· Include the distal third of the scapula and proximal third of the humerus.
+Labeling:
+ Lateral to the joint.
+Technique:
+· Measure at the shoulder joint.
+FIGURE 5-1
+Proper positioning for CdCr prajection of the shoulder CdCr.
+Handbook of Radiographic Positioning for Veterinary Technicians 
+35
+FIGURE 5-2
+CdCr projection of the shoulder CdCr.
+Humerus
+Humeroscapular joint
+Spine of scapula
+Scapula
+FIGURE 5-3
+Anatomical features and landmarks: scapula, spine of scapula.
+humerus, and humeroscapular joint.
+36
+ Chapter 5 : Forelimb Radiographs
+Lateral Projection of the Shoulder
+Positioning:
+* Lateral recumbency with affected limb down.
+·Affected limb is extended cranially.
+· Opposite limb is pulled caudally to eliminate superimposition.
+·Head is pushed dorsally to avoid trachea overlying joint.
+· Sandbags can be used to keep head in dorsal position.
+Centering:
+· Palpate proximal head of the humerus and the glenoid of the scapula.
+· Center beam approximately 1 inch (2.5 cm) caudal from the front of the limb for a small dog and
+approximately 2 inches caudal (5 cm) for a large dog.
+Colfimation:
+* Include the distal third of the scapula and proximal third of the humerus, excluding the upper leg that is
+pulled caudally.
+Labeling:
+*Cranial to the joint.
+Technique:
+*Measure at the shoulder joint, being careful not to include the upper leg that is pulled caudally.
+FIGURE 5-4
+Proper positioning for lateral projection of the shoulder.
+Handbook of Radiographic Positioning for Veterinary Technicians
+37
+DFM
+R
+FIGURE 5-5
+Lateral projection of the shoulder.
+Spine of scapula
+Trachea
+Scapula
+Manubrium
+Humerus
+FIGURE 5-6
+Anatomical features and landmarks: scapula, spine of scapula, humerus.
+trachea, and manubrium.
+38
+Chapter 5 : Forelimb Radiographs
+CdCr Projection of the Scapula CdCr
+Positioning:
+*Dorsal recumbency.
+V-trough to hold body straight with cranial half of thorax outside the trough.
+* Legs extended forward individually.
+·Head straight with spine.
+·Back legs extended caudally to stabilize.
+Centering:
+* Center of the scapula.
+Collimation:
+* Lateral to the body and medial to the spine.
+· Include the shoulder joint and the caudal border of scapula.
+Labeling:
+· Lateral to the scapula.
+Technique:
+Measure at cranial border of the scapula
+FIGURE 5-7
+Proper positioning for CdCr prajection of the scapula CdCr.
+Handbook of Radiographic Positioning forVeterinary Technicians
+39
+FIGURE 5-8
+CdCr projection of the scapula CdCr.
+Scapula
+Acromion
+Humerus
+FIGURE 5-9
+ Anatomical features and landmarks: hurmerus, acromion, and scapula.
+40
+Chapter 5 : Forelimb Radiographs
+Lateral Projection of
+Comments:
+● Scapula will be superimposed over the dorsal
+the Scapula
+ spinous processes. Lateral scapula view can also be
+taken with the affected side down.
+Positioning:
+· Push the affected limb dorsally and secure with
+sandbag.
+●Patient is in lateral recumbency with affected scap-
+●Pull the head ventrally to avoid superimposition of
+ula up.
+the cervical spine.
+* Unaffected leg is extended forward.
+* Extend the unaffected limb straight out and away
+· Affected limb is pushed up dorsally and stabi-
+from the body with the limb parallel to the table-
+lized with sandbag to push the scapula above the
+top, and then move the limb cranial as far as pos-
+thoracic spine.
+ sible to avoid superimposition.
+· Skull and neck are pushed downward and stabi-
+· The scapula is a bone density within air of the tho-
+lized with sandbag, if necessary.
+rax. The thoracic exposure technique is not suf-
+ficient and bone technique will be too dark. The
+Centering:
+abdominal technique chart should be used when
+calculating the exposure settings.
++Center of the scapula.
+Collimation:
+Proximal to the shoulder joint. to the caudal edge
+of the scapula.
+Labeling:
+· Place dorsally and with marker to indicate the
+affected limb.
+Technique:
+● Measure from the dorsal side from table to height.
+of the scapula.
+FIGURE 5-10
+Proper positioning for lateral projection of the scapula.
+Handbook of Radiographic Positioning for Veterinary Technicians
+41
+FIGURE 5-11
+Lateral projection of the scapula.
+Spine of scapula
+Humerus
+Scapula
+FIGURE 5-12
+Anatomical features and landmarks: humerus, scapula, and spine of scapula.
+42
+Chapter 5 : Forelimb Radiographs
+CdCr Projection of the Humerus
+Positioning:
+* Dorsal recumbency.
+ Front legs are extended forward individually.
+·If needed, tape legs together at. the elbows to align and straighten the humerus.
+Centering:
+Midshaft. of humerus
+Collimation:
+·Proximal to the shoulder joint to distal to the elbow joint.
+Labeling:
++Place lateral to the affected limb.
+Technique:
+· Measure from table to midshaft humerus.
+Comments:
+·Patients with severe degenerative joint disease may not be able to tolerate this position.
+● The alternative is to pull the humerus downward, and image cranial to caudal (Figures 5-14, 5-17, and 5-18). A
+separate caudal to cranial shoulder projection may be needed.
+FIGURE 5-13
+FIGURE 5-14
+Proper positioning for CdCr projection of the humerus.
+Altemate positioning for CdCr projection of the humerus.
+Handbook of Radiographic Positioning for Veterinary Technicians
+43
+Olecranon (of ulna)
+DEN
+Humerus
+Scapula
+FIGURE 5-15
+FIGURE 5-16
+CdCr projection of the humerus.
+Anatomical features and landmarks: scapula, humerus, and olecranon.
+Humerus
+Olecranon
+Radius/ulna
+FIGURE 5-18
+FIGURE 5-17
+ Anatomical features and landmarks: humerus, radius/ulna, and
+ CdCr prajection of the humerus with altemate positioning technique.
+olecranon.
+44
+Chapter 5 : Forelimb Radiographs
+Lateral Projection of the Humerus
+Positioning:
+* Patient in lateral recumbency with the affected limb down.
+* The affected limb is extended down and forward.
+·The skull and neck are moved dorsally and stabilized with sandbags if necessary.
+·The unaffected top limb is extended up caudally to pull the shoulder off the affected limb.
+Centering:
+·Midshaft. of the humerus.
+Collimation:
+·Proximal to the shoulder joint to distal to the elbow joint.
+Labeling:
+·Place cranially.
+Technique:
+·Measure midshaft erring on the proximal side.
+Comments:
+ Larger dogs may need two views due to the thickness difference between the elbow and shoulder. Take
+separate measurements for each of the two views at the thickest area.
+FIGURE 5-19
+Proper positioning for lateral projection of the humerus.
+Handbook of Radiographic Positioning for Veterinary Technicians 
+45
+FIGURE 5-20
+Lateral projection of the humerus.
+Spine of scapula
+Scapula
+Glenoid cavity
+Humerus
+Humeral condyle
+Olecranon
+Radius
+UIna
+FIGURE 5-21
+Anatomical features and landmarks: ulna, radius, humerus, scapula, glenoid cavity,
+olecranon, humeral condyle, and spine of scapula.
+46
+Chapter 5 : Forelimb Radiographs
+CrCd Projection of
+the Elbow CrCd
+Positioning:
+● Patient is in ventral (sternal) recumbency.
+·Both front legs are extended forward individually.
+· Head is extended laterally to the opposite side
+ of the affected limb and stabilized with tape or
+sandbag.
+*V-trough can help stabilize caudal half of body.
+● Back legs may be extended caudally to assist in
+keeping spine straight.
+Centering:
+FIGURE 5-22
+· Palpate and center on the humeral condyles
+Proper positioning for CrCd projection of the elbow.
+Collimation:
+●From the distal third of the humerus to the proxi-
+ mal third of the radius and ulna.
+Labeling:
++Placed laterally.
+Technique:
+· Measure the thickest. part at the center of the
+joint.
+Comments:
+· The horizontal beam projection is accomplished
+by placing the limb on sponges to have the limb
+extending straight. out from the body (Figures 5-25
+and 5-26). Center the beam on the joint as would
+be done in the ventral position. Tape or stabilize
+ cassette with a sandbag.
+*  An alternate image includes the CrCd pronated po-
+sition used when evaluating for presence of OCD
+lesions on the medial condyle, which requires a
+10-15 degree oblique view.
+Handbook of Radiographic Positioning forVeterinary Technicians
+47
+Humerus
+Olecranon
+Radius/ulna
+FIGURE 5-23
+FIGURE 5-24
+CrCd projection of the elbow.
+Anatomical features and landmarks: humerus, radius/ulna, and
+olecranon.
+品
+FIGURE 5-25
+ Proper positioning for CrCd prajection of the elbow with the
+horizontal beam.
+FIGURE 5-26
+CrCd projection of the elbow with the horizontal beam.
+48
+Chapter 5 : Forelimb Radiographs
+Lateral Projection of the Elbow
+Positioning:
+·  Patient is in lateral recumbency with affected limb down.
+*Extend affected limb cranially.
+·Pull unaffected limb caudodorsally.
+Centering:
+· Palpate and center on the humeral condyles
+Collimation:
+Distal third of the humerus to the cranial third of the radius and ulna.
+Labeling:
+*Cranial to the joint.
+Technique:
+·Measure the thickest part at the joint.
+Comments:
+· May need to place sponge under shoulder dorsally to assist with making patient lateral.
+ An alternate image includes the CrCd supinated position, which is used when evaluating for presence of elbow
+dysplasia, which requires a 10-15-degree oblique view.
+FIGURE 5-27
+ Proper positioning for lateral projection of the elbow.
+Handbook of Radiographic Positioning for Veterinary Technicians
+49
+DEW
+FIGURE5-28
+Lateral projection of the elbow.
+Humerus
+Humeralcondyle
+Radius
+Olecranon
+UIna
+FIGURE 5-29
+Anatomical features and landmarks: humerus, radius, ulna, humeral condyle, and olecranon.
+50
+ Chapter 5 : Forelimb Radiographs
+Flexed Lateral Projection of the Elbow
+Positioning:
+·  Patient is in lateral recumbency with affected limb down.
+*Bend affected limb dorsally.
+*Place paw under skull, and stabilize with sandbag or tape.
+· Place sponge under shoulder to keep the elbow from moving medially when flexed.
+Centering:
+· Palpate and center on the humeral condyles.
+Collimation:
+· Center on joint, and include the distal third of the humerus and proximal third of radius and ulna.
+Labeling:
+*Place cranial to limb.
+Technique:
+ Measure thickest part at elbow joint. The flexed view will generally have a larger measurement. than the un-
+flexed lateral.
+Comments:
+· This view is typically for younger patients when elbow dysplasia such as fragmented coronoid, ununited
+anconeal, and osteochondrosis are suspected. Orthopedic Foundation of America certification requires this
+flexed medial to lateral view.
+FIGURE 5-30
+Proper positioning for flexed lateral prajection of the elbow.
+Handbook of Radiographic Positioning for Veterinary Technicians
+51
+DM
+FIGURE 5-31
+Hexed lateral projection of the elbow.
+Humerus
+Radius
+UIna
+Humeral condyle
+Anconealprocess
+Olecranon
+FIGURE 5-32
+Anatomical features and landmarks: humerus, radius, ulna, olecranon, anconeal process, and humeral condyle.
+52
+Chapter 5 : Forelimb Radiographs
+CrCd Projection of the Radius and Ulna
+Positioning:
+* Patient is in ventral (sternal) recumbency.
+*Front legs are extended forward individually
+·Head is extended laterally and to the opposite side of the affected limb, and stabilized with sandbag or tape.
++V-trough can help stabilize caudal half of body.
+·Back legs may be extended caudally to assist in keeping spine straight.
+Centering:
+· Midshaft of radius and ulna.
+Collimation:
+·From proximal to the elbow joint and distal to the carpal joint.
+Labeling:
++ Place lateral to radius and ulna.
+Technique:
+· Measure midshaft of radius and ulna.
+Comments:
+· The horizontal beam projection is exposed cranial to caudal by placing the limb on sponges to have the limb
+extending straight out from the body (Figure 5-36). Position the beam and center on joint as would be done
+in the ventral position.
+FIGURE 5-34
+Proper positioning for CrCd projection of the radius and ulna with
+FIGURE 5-33
+the horizontal beam.
+Proper positioning for CrCd projection of the radius and ulna.
+Handbook of Radiographic Positioning for Veterinary Technicians 
+53
+FIGURE 5-35
+CrCd projection of the radius and ulna.
+Humerus
+Radius/ulna
+Carpus
+Metacarpals
+FIGURE 5-36
+Anatomical features and landmarks: humerus, radius/ulna, carpus,
+and meta.carpals.
+54
+Chapter 5 : Forelimb Radiographs
+Lateral Projection of the Radius and Ulna
+Positioning:
+* Patient in lateral recumbency with affected limb down.
+· Unaffected limb extended caudodorsally.
+Centering:
+*Midshaft of the radius and ulna.
+Collimation:
+· From proximal to the elbow joint and distal to the carpal joint.
+Labeling:
+Cranial to the radius and ulna.
+Technique:
+· Measure at midshaft of radius and ulna.
+Comments:
+●If working with a fixed (nonmovable) x-ray table, affected limb may be extended straight forward. A bend in
+the elbow is an acceptable position for the radius and ulna.
+FIGURE 5-37
+ Proper positioning for the lateral projection of the radius and ulna.
+Handbook of Radiographic Positioning for Veterinary Technicians
+55
+FIGURE 5-38
+Lateral projection of the ra.dius and ulna.
+Humerus
+Carpus
+Radius Ulna Humeral
+condyle
+Accessory
+Metacarpuscarpal bone
+FIGURE 5-39
+Anatomical features and landmarks: humerus, humeral condyle, radius,
+ulna carpus, accessory carpal bone, and metacarpus.
+56
+Chapter 5 : Forelimb Radiographs
+Dorsopalmar Projection of the Carpus
+Positioning:
+· Patient is in ven tral (sternal) recumbency.
+* Front legs are extended forward individually.
+●Head is extended laterally and to the opposite side of the affected limb, and stabilized with sandbag or tape.
+*V-trough may help stabilize caudal half of body.
+Centering:
+· Center on carpus joint.
+Collimation:
+● From distal third of radius and ulna to proximal third of the metacarpals. Including all digits would also be
+acceptable.
+Labeling:
+* Lateral to carpus.
+Technique:
+* Measure carpal joint.
+Comments:
+· The horizontal beam projection may also be used. Place the limb on sponges to have the limb extending
+straight out from the body. Position the beam and center on joint as would be done in the ventral position.
+FIGURE 5-40
+Proper positioning for the dorsopalmar prajection of the carpus.
+Handbook of Radiographic Positioning for Veterinary Technicians 
+57
+DFM
+FIGURE 5-41
+Dorsopalmar projection of the carpus.
+Radius
+Ulna
+Carpus
+FIGURE 5-42
+Anatomical features and landmarks: radius, ulna, carpus, and meta.carpus.
+58
+Chapter 5 : Forelimb Radiographs
+Lateral Projection of the Carpus
+Positioning:
+· Patient is in lateral recumbency with affected limb down.
+*Affected limb is extended down in natural position.
+●Sponge is placed under elbow to make the limb even and assist with making carpus lateral.
+Centering:
+*Carpal joint.
+Collimation:
+ From distal third of radius and ulna to proximal third of the metacarpals. Including all digits would also be
+acceptable.
+Labeling:
+ Lateral to carpal joint.
+Technique:
+·  Measure carpal joint.
+FIGURE 5-43
+Proper positioning for the lateral projection of the carpus.
+Handbook of Radiographic Positioning forVeterinary Technicians
+59
+R
+DFM
+FIGURE 5-44
+Lateral projection of the carpus.
+Radius
+Ulna
+ Accessory carpal bone
+Carpus
+Metacarpus
+FIGURE 5-45
+Anatomical features and landmarks: radius, ulna, carpus, accessory
+carpal bone, and metacarpus.
+60
+ Chapter 5 : Forelimb Radiographs
+Flexed Lateral Projection of the Carpus
+Positioning:
+·Patient is in lateral recumbency with affected limb extended down naturally.
+*Flex carpus by bending toes caudally toward radius and ulna.
+·Keep in flexion by taping in a figure-eight pattern around metacarpals and radius and ulna.
+·Place sponge under elbow to assist with maintaining lateral position.
+Centering:
+*Carpal join t.
+Collimation:
+q oe pinm s le unu sdi go pa xd on eu pe sn jo pn peip un e
+acceptable.
+Labeling:
+*Cranial to flexed joint.
+Technique:
+· Measure thickest part. of flexed joint.
+Comments:
+·May have to place sponge under shoulder dorsally to assist with maintaining lateral position of flexed carpus.
+FIGURE 5-46
+Proper positioning for the flexed lateral projection of the carpus.
+Handbook of Radiographic Positioning for Veterinary Technicians
+61
+R
+DFM
+FIGURE 5-47
+ Hexed lateral projection of the carpus.
+Radius
+UIna
+Accessory
+carpal bone
+Carpus
+Carpus
+FIGURE 5-48
+Anatomical features and landmarks radius, ulna, carpus and accessory carpal bone.
+62
+Chapter 5 :Forelimb Radiographs
+Extended Lateral Projection of the Carpus
+Positioning:
+· Patient is in lateral recumbency with affected limb extended down naturally
+* Extend carpus by bending toes anteriorly.
+● Keep in extension by taping in a figure-eight pattern around metacarpals and radius and ulna.
+● Place sponge under elbow to assist with maintaining lateral position
+Centering:
+*Carpal joint.
+Collimation:
+aq ose pinom siip le sunu 'sedieeau jo pn xond oi eu pe sn jo pun peisp uid e
+acceptable.
+Labeling:
+*Cranial to flexed joint.
+Technique:
+ Measure thickest part. of flexed joint.
+Comments:
+· May have to place sponge under shoulder dorsally to assist with maintaining lateral position of extended
+carpus.
+FIGURE 5-49
+Proper positioning for the extended lateral projection of the carpus.
+Handbook of Radiographic Positioning for Veterinary Technicians
+63
+DFM
+R
+FIGURE 5-50
+ Extended lateral projection of the carpus.
+Radius
+Ulna
+Accessory carpal bone
+Carpus
+Metacarpus
+FIGURE 5-51
+Anatomical features and landmarks: radius, ulna, carpus, accessory
+carpal bone, and metacarpus.
+64
+Chapter 5 : Forelimb Radiographs
+Lateral and Medial Oblique Projections
+of the Carpus
+Positioning:
+● Patient is in ventral (sternal) recumbency (oblique views are performed from the dorsal aspect of the joint).
+* Both front legs are extended forward individually.
+·Head is extended laterally to the opposite side of the affected limb and stabilized with tape or sandbag.
++V-trough can help stabilize caudal half of body.
+● Hindlimbs may be extended caudally to assist in keeping spine straight.
+ Lateral oblique: Pull elbow joint medially and stabilize with tape or sandbag.
+● Medial oblique: Pull elbow joint laterally and stabilize with tape or sandbag.
+Centering:
+*Carpal joint.
+Collimation:
+·Distal third of radius and ulna and proximal third of metacarpals.
+Labeling:
+* Lateral and medial oblique markers are placed on the lateral side of both projections.
+Technique:
+● Measure over carpal joint
+*Measurement should remain the same for both projections.
+FIGURE 5-52
+Proper positioning of the lateral and medial oblique projections of
+the carpus.
+Handbook of Radiographic Positioning for Veterinary Technicians
+65
+DFM
+DFM
+A
+FIGURE 5-53
+Lateral and medial oblique projections of the carpus.
+Radius
+Ulna (superimposed
+withradius)
+Radial carpal bone
+Accessorycarpal bone
+Carpal bone 
+Uinarcarpal bone
+Carpal bone
+Carpal bone :
+Carpal bone :
+Metacarpal bone 
+Metacarpal bone Il
+Proximal phalanx -
+Metacarpal bone Ill
+Distal phalanx 
+Metacarpal bone IV
+ Metacarpal bone V
+Radius
+UIna
+Radial carpal bone
+Accessorycarpalbone
+Carpal bones -
+- Uinar carpal bone
+Metacarpal bones
+B
+FIGURE 5-54
+Anatomical features and landmarks: A, radius, ulna, radial carpal bone, ulnar carpal bone, accessory carpal bone, carpal bones, and metacarpal
+bones. B, radius, ulna (superimposed with radius), radial carpal bone, carpal bones, metacarpal bone, proximal phalanx, distal phalanx,
+accessory carpal bone, ulnar carpal bone, metacarpal bone ll, metacarpal bone ll, metacarpal bone IV, and metacarpal bone V.
+66
+ Chapter 5 : Forelimb Radiographs
+Dorsopalmar Projection of the Metacarpals
+Positioning:
+* Patient is in ventral (sternal) recumbency.
+* Front legs are extended forward individually.
+·Elbow on affected limb is abducted sligh tly to straighten metacarpus.
+· Head is extended laterally and to the opposite side of the affected limb, and stabilized with sandbag or tape.
++V-trough can help stabilize caudal half of body.
+Centering:
+●Halfway between carpus and phalanges.
+Collimation:
+·Distal third of radius and ulna to proximal third of the digits.
+Labeling:
+* Lateral to metacarpals.
+Technique:
+·Halfway between carpus and phalanges.
+Comments:
+ The horizontal beam is accomplished by placing the limb on sponges to have the limb extending straight out.
+from the body. Position the beam, and center on joint as would be done in the ventral position. Typically the
+metacarpals and digits are radiographed in a single view.
+FIGURE 5-55
+Proper positioning for the dorsopalmar projection of the metacarpals.
+Handbook of Radiographic Positioning for Veterinary Technicians 
+67
+FIGURE 5-56
+ Dorsopalmar projection of the metacarpals.
+Radius
+Metacarpal bone IV
+Metacarpal bone |
+Metacarpal bone Il
+Metacarpal bone V
+ Metacarpal bone Ill
+Sesamoids
+FIGURE 5-57
+Anatomical features and landmarks: radius, metacarpal bone l, metacarpal bone Il
+ metacarpal bone ll, metacarpal bone IV, metacarpal bone V, and sesamoids.
+68
+Chapter 5 : Forelimb Radiographs
+Lateral Projection of the Metacarpals
+Positioning:
+* Patient is in lateral recumbency with affected limb down.
+·Affected limb is extended down in natural position.
+Centering:
+●Halfway between carpus and phalanges.
+Collimation:
+·From the distal third of radius and ulna to the proximal third of the digits.
+Labeling:
+* Dorsal to metacarpal joint.
+Technique:
+*Halfway between carpus and phalanges.
+Comments:
+·Typically the metacarpal and digits are radiographed in a single view.
+FIGURE 5-58
+Proper positioning of the lateral projection of the metacarpals.
+Handbook of Radiographic Positioning for Veterinary Technicians
+69
+DFM
+R
+FIGURE 5-59
+Lateral projection of the metacarpals.
+Accessory carpal bone
+Carpus
+Metacarpus
+FIGURE 5-60
+Anatomical features and landmarks: carpus, accessory carpal bone,
+and metacarpus.
+70
+ Chapter 5 : Forelimb Radiographs
+Dorsopalmar Projection of the Digits
+Positioning:
+·Patient is in ventral (sternal) recumbency.
+* Front legs are extended forward individually.
+●  Individually tape the medial toe (digit 2) and lateral toe (digit 5), and pull opposite of each other to spread the
+toes. Alternatively, place cotton balls between each toe.
+· Head is extended laterally and to the opposite side of the affected limb, and stabilized with sandbag or tape.
+·V-trough can help stabilize caudal half of body.
+Centering:
+*Center just above digits.
+Collimation:
+· From the metacarpals proximally to the end of the digits distally
+Labeling:
+* Lateral to digits.
+Technique:
++Measure midway between metacarpals and digits.
+Comments:
+· Taping the digits open provides better visualization of the individual bones. If the patient does not have a toe-
+nail or it is very short, tape around the digit itself. Typically the metacarpal and digits are radiographed in a
+single view. A horizontal beam projection may also be used.
+FIGURE 5-61
+Proper positioning for the dorsopalmar prajection of the digits.
+Handbook of Radiographic Positioning for Veterinary Technicians
+71
+R
+DFM
+FIGURE 5-62
+Dorsopalmar projection of the digits.
+Phalanx 1 of digit I
+Metacarpus
+ Distal phalanx of
+Phalanx 1 of digitV
+ Phalanx 1 of digit Il
+Phalanx 1 of digit IV 
+Phalanx 1 of digit IIl
+Phalanx 2 of digitV
+ Phalanx 2 of digit Il
+Phalanx 2 of digit IV
+Phalanx 2 of digit IIl
+Distal phalange
+FIGURE 5-63
+Anatomical features and landmarks: metacarpus, phalanx I of digit I, phalanx I
+of digit Il, phalanx I of digit Ill, phalanx I of digit IV, phalanx I of digit V,
+phalanx 2 of digit Il, phalanx 2 of digit Ill, phalanx 2 of digit IV, phalanx 2
+of digit V, and distal phalanx of digits I, and distal phalanges.
+72
+Chapter 5 : Forelimb Radiographs
+Lateral Projection of the Digits
+Positioning:
+* Patient is in lateral recumbency with affected limb down.
+*Affected limb is extended down in natural position.
+·Sponge is placed under elbow to make the limb even and assist. with making metacarpus lateral.
+· Individually tape the lateral toe (digit 5) and medial toe (digit 2), and pull the lateral toe cranially and the
+medial toe caudally.
+Centering:
+* Center just above digits.
+Collimation:
+·From the metacarpals to the end of the digits.
+Labeling:
+·Dorsal to the lateral toe (digit 5).
+Technique:
+·Measure midway between metacarpals and digits.
+Comments:
+a single view.
+FIGURE 5-64
+Proper positioning for the lateral prajection of the digits.
+Handbook of Radiographic Positioning for Veterinary Technicians
+73
+R
+DFM
+FIGURE 5-65
+Lateral projection of the digits.
+Metacarpus
+ Phalanx 1 of digit Il
+Phalanx 1 of cligit V
+Phalanx 1 of digit Ill
+Phalanx 1 of dligit IV
+Phalanx 2 of dligit Il
+ Phalanx 2 of dligit V
+Phalanx 2 of dligit Il
+ Phalanx 2 of dligit IV
+Distal Phalanges
+FIGURE 5-66
+Anatomical features and landmarks: metacarpus, phalanx I of digit ll, phalanx I of digit Ill, phalanx
+I of digit IV, phalanx I of digit V, phalanx 2 of digit Il, phalanx 2 of digit ll, phalanx 2 of digit IV,
+ phalanx 2 of digit V, and distal phalanges.
+This page intentionally left blank
+THAPTER
+HINDLIMB RADIOGRAPHS
+OVERVIEW
+Radiographic projections of the limbs of the pelvic girdle are often performed to detect fractures.
+Careful positioning is needed to maintain the limb in a parallel plane against the x-ray cassette
+to avoid magnification and distortion of the image.The x-ray cassette is normally placed on the
+tabletop rather than under the table due to the relatively small measurement of dog and cat
+limbs. Collimation includes joints above and below a bone for images of long bones. Radiographic
+projections of joints generally include approximately one-third of the bones proximal and distal to
+the joint. The beam is restricted to just the width needed to include all the necessary structures
+This reduces scatter radiation and results in a higher quality image.
+aun aziwuu on pasn aq Ke weag ieuozuou e uid jo suais sunquyxa ane suaied uau
+need to manipulate the limb. The horizontal beam projection requires supporting the limb on a
+foam pad and placing the x-ray cassette perpendicular to the tabletop.
+Radiographic evaluation of the hindlimbs includes lateral and caudocranial images of the
+femur, stifle joint, tibia, and fibula. Dorsoplantar and lateral views are usually taken of the tarsus
+metatarsus, and phalanges. Oblique views are often needed for the tarsus, and flexed and
+extended views of the tarsus are routinely performed.
+75
+76
+ Chapter 6: Hindlimb Radiographs
+Lateral Projection of the Femur
+Positioning:
+·Patient is in lateral recumbency with affected limb down.
+· Unaffected limb is taped around stifle and tarsus, and abducted out of the way of the affected femoral head.
+Centering:
+·Midshaft of the femur halfway between the stifle and coxofemoral joint.
+Collimation:
++ From the ischium on the unaffected limb.
+Labeling:
+·  Label affected limb cranially to stifle.
+Technique:
+*Measure at. the midpart of the femur.
+Comments:
+● The femur is a more difficult bone in relation to technique because the femoral head is surrounded by thick
+muscle, and the distal stifle is thin.
+·  Position the patient with the femoral head toward the cathode end of the x-ray tube.
+ Another technique is to place a full-fluid bag over the distal stifle to mimic soft tissue and measure at the femo-
+ral head. Note that the edges of the fluid bag will be seen on the film.
+FIGURE 6-1
+Proper positioning for lateral projection of the femur.
+Handbook of Radiographic Positioning for Veterinary Technicians 
+77
+FIGURE 6-2
+Lateral projection of the femur.
+Pelvis
+Femur
+Fabella
+Fibula
+Tibia
+FIGURE 6-3
+ Anatomical features and landmarks: femur, tibia, fibula, pelvis, and
+fabella.
+78
+ Chapter 6: Hindlimb Radiographs
+Craniocaudal Projection of the Femur
+Positioning:
+* Patient is in V-trough in dorsal recumbency.
+* Tape legs down individually to table.
+● Place band of tape around femurs just proximal to the stifles, and pull femurs together to bring the patellas
+straight over the distal femurs.
+● Place sponge under tarsus to avoid rotation of the stifle.
+Centering:
+*Midshaft of the femur halfway between the stifle and coxofemoral joint.
+Collimation:
+·Cranial: from the greater trochanter to the proximal third of the tibia.
+· Lateral: from the ventral midline to the body wall.
+Labeling:
+*Place label lateral to the body proximally or distally.
+Technique:
+· Measure at the midportion of the femur.
+Comments:
+tabletop because this will result in overexposure of the film.
+FIGURE 6-4
+ Proper positioning for craniocaudal prajection of the femur.
+Handbook of Radiographic Positioning for Veterinary Technicians
+79
+FIGURE 6-5
+Craniocaudal projection of the femur.
+Pelvis
+Femur
+Patella
+Fabella
+Tibia
+FIGURE 6-6
+Anatomical features and landmarks: femur, patella, tibia, pelvis, and fabella.
+80
+ Chapter 6: Hindlimb Radiographs
+Caudocranial Projection of the Stifle
+Positioning:
+*Patient is in V-trough in ventral recumbency.
+femurs together to bring the patellas straight over the distal femurs.
+●Alternatively, flex the unaffected limb up next to the body if patient is more comfortable.
+Centering:
+*Center on stifle joint.
+Collimation:
+· Proximal to the distal third of the femur and distal to proximal third of the tibia.
+Labeling:
+*Place label lateral to the joint.
+Technique:
+·Measure at the center of the joint.
+Comments:
+● It is preferable to angle the x-ray tube head cranially approximately 10-15 degrees to obtain an image through
+the stifle joint.
+ The horizontal beam technique may also be useful (Figure 6-8). Place the limb on sponges so that the limb
+extends straight from the body. Position the beam, and center on joint as you would in the ventral position.
+FIGURE 6-8
+FIGURE 6-7
+The horizontal beam technique for the caudocranial projection of
+Proper positioning for caudocranial prajection of the stifle
+the stifle.
+Handbook of Radiographic Positioning for Veterinary Technicians 
+81
+FIGURE 6-9
+Caudocranial projection of the stifle.
+Femur
+Fabella
+Patella
+Fibula
+Tibia
+FIGURE 6-10
+Anatomical features and landmarks: femur, patella, tibia, fibula, and fabella.
+82
+ Chapter 6: Hindlimb Radiographs
+Lateral Projection of the Stifle
+Positioning:
+*Patient is in lateral recumbency with affected limb down.
+·Unaffected limb is taped around stifle and tarsus, and pulled up and out of the way.
+Centering:
+*Center on stifle joint.
+Collimation:
+·Proximal to the distal third of the femur and distal to proximal third of the tibia.
+Labeling:
+·Place label cranial to joint.
+Technique:
+· Measure the center of the joint. Palpate indentation of joint (fat pad) on the dorsal aspect. of stifle. Center on
+indentation.
+Comments:
+· It is important to include the soft tissues on the caudal aspect of the stifle joint to visualize the fascial stripe that.
+runs proximally and distally. When this stripe is absent, it is a sign of joint effusion.
+FIGURE 6-11
+Proper positioning for lateral projection of the stifle.
+Handbook of Radiographic Positioning forVeterinary Technicians 
+83
+大品
+FIGURE 6-12
+Lateral projection of the stifle.
+Femur
+Patella
+Fabella
+Fibula
+Tibia
+FIGURE 6-13
+Anatomical features and landmarks: femur patella, fabella, tibia, and
+fibula.
+84
+ Chapter 6: Hindlimb Radiographs
+Caudocranial Projection of the
+Tibia and Fibula
+Positioning:
+· Patient is in V-trough in ventral recumbency.
+● Pull both hind limbs behind patient and place band of tape around femurs just. proximal to the stifles, and pull
+femurs together to bring the patellas straight over the distal femurs.
+· Alternatively, flex the unaffected limb up next to the body if patient is more comfortable.
+Centering:
+·Center on the midshaft of the tibia halfway between the stifle and tarsus.
+Collimation:
+*From proximal to the distal third of the femur to distal to the proximal third of the tarsus.
+Labeling:
+· Place label on the lateral side of the tibia.
+Technique:
+·Measure midshaft of the tibia.
+Comments:
+ The horizontal beam technique may also be useful (Figure 6-15). Place the limb on sponges so that the limb ex-
+tends straight out from the body. Position the beam, and center on joint as would be done in the ventral position.
+FIGURE 6-14
+FIGURE 6-15
+Proper positioning for caudocranial projection of the tibia and
+The horizontal beam technique for the caudocranial projection of
+fbula.
+the tibia and fibula.
+Handbook of Radiographic Positioning for Veterinary Technicians
+85
+DFM
+y
+FIGURE 6-16
+Caudocranial projection of the tibia and fibula.
+Femur
+Patella
+Fabella
+Fibula
+Tibia
+Calcaneous
+Tarsus
+FIGURE 6-17
+Anatomical features and landmarks: femur, patella, fabella, tibia,
+flbula, calcaneous, and tarsus.
+86
+Chapter 6: Hindimb Radiographs
+Lateral Projection of the Tibia
+Positioning:
+*Patient is in lateral recumbency with affected limb down.
+· Unaffected limb is taped around stifle and tarsus, and pulled up and out of the way.
+Centering:
+Midshaft. of the tibia halfway between the stifle and tarsus
+Collimation:
+· From proximal to the distal third of the femur to distal to the proximal third of the tarsus.
+Labeling:
+Place label cranial.
+Technique:
++ Measure midshaft of tibia.
+FIGURE 6-18
+Proper positioning for lateral projection of the tibia.
+Handbook of Radiographic Positioning for Veterinary Technicians 
+87
+R
+DFM
+FIGURE 6-19
+Lateral projection of the tibia.
+Femur
+Patella
+Fabella
+Fibula
+Tibia
+Tarsus
+FIGURE 6-20
+Anatomical features and landmarks: femur, patella, fabella, tibia.
+fibula, calcaneous, and tarsus.
+88
+ Chapter 6: Hindlimb Radiographs
+Dorsoplantar Projection of the Tarsus
+Positioning:
+·Patient is in dorsal recumbency in the V-trough.
+*Place sponges under tarsus to bring cassette close to the tarsus.
++Tape affected tarsus to table.
+Centering:
+*Center on tarsal joint halfway between the distal tibia and the proximal metatarsals.
+Collimation:
+· Proximal to the distal third of the tibia and distal to the proximal third of the metatarsals.
+Labeling:
+*Place label lateral to the joint.
+Technique:
+*Measure the center of the joint.
+FIGURE 6-21
+Proper positioning for dorsoplantar prajection of the tarsus.
+Handbook of Radiographic Positioning for Veterinary Technicians
+89
+FIGURE 6-22
+Dorsoplantar projection of the tarsus.
+Tibia
+Fibula
+Calcaneous
+Tarsus
+Metatarsals
+FIGURE 6-23
+Anatomical features and landmarks: tibia, fibula, calcaneous, tarsus,
+and metatarsals.
+06
+Chapter 6: Hindimb Radiographs
+Lateral Projection of the Tarsus
+Positioning:
+* Patient is in lateral recumbency with affected limb down.
+· Unaffected limb is taped around stifle and tarsus and dorsally
+Centering:
+*Center on tarsal joint halfway between the distal tibia and the proximal metatarsals.
+Collimation:
+· Proximal to the distal third of the tibia and distal to the proximal third of the metatarsals.
+Labeling:
+·Place label cranial to the joint.
+Technique:
+·Measure the center of the joint.
+Tube Side
+DFM
+FIGURE 6-24
+Proper positioning for lateral projection of the tarsus.
+Handbook of Radiographic Positioning for Veterinary Technicians
+91
+Di
+FIGURE 6-25
+Lateral projection of the tarsus.
+Tibia
+Calcaneous
+Tarsus
+Metatarsus
+FIGURE 6-26
+Anatomical features and landmarks: tibia, calcaneous, tarsus, and 
+rmetatarsus.
+92
+ Chapter 6: Hindlimb Radiographs
+Flexed Lateral Projection of the Tarsus
+Positioning:
+· Patient is in lateral recumbency with affected limb down.
++Unaffected limb is taped around stifle and tarsus dorsally
+●Tape around caudal tibia and proximal metatarsus to achieve full flexion of the tarsus.
+Centering:
+· Center on tarsal joint between the stifle and metatarsals
+Collimation:
+·From the distal portion of the tibia to the proximal portion of the metatarsals.
+Labeling:
++Place label cranial to the joint.
+Technique:
+*Measure to the center of the joint.
+FIGURE 6-27
+ Proper positioning for flexed lateral prajection of the tarsus.
+Handbook of Radiographic Positioning for Veterinary Technicians
+93
+R
+DFM
+FIGURE 6-28
+Flexed lateral projection of the tarsus.
+Fibula
+Tarsus
+Calcaneous
+Metatarsus
+FIGURE 6-29
+Anatomical features and landmarks: fibula, calcaneous, tarsus, and
+metatarsus.
+94
+Chapter 6: Hindimb Radiographs
+Extended Lateral Projection of the Tarsus
+Positioning:
+· Patient is in lateral recumbency with affected limb down
+*Unaffected limb is taped around stifle and tarsus, and pulled dorsally.
+● Pull affected limb straight out away from body for full extension.
+Centering:
+·Center on tarsal joint between the stifle and metatarsals.
+Collimation:
+· From the distal portion of the tibia to the proximal portion of the metatarsals.
+Labeling:
+·Place label cranial to the joint.
+Technique:
+*Measure the center of the joint.
+FIGURE 6-30
+ Proper positioning for extended lateral projection of the tarsus.
+Handbook of Radiographic Positioning for Veterinary Technicians
+95
+R
+DFM
+FIGURE 6-31
+Extended lateral projection of the tarsus.
+Tibia
+Calcaneous
+Tarsus
+Metatarsus
+FIGURE 6-32
+Anatomical features and landmarks: tibia, calcaneous, tarsus, and
+rmetatarsus.
+96
+ Chapter 6: Hindlimb Radiographs
+Dorsolateral/Plantaromedial Oblique
+Projection of the Tarsus
+Positioning:
+* Patient is in dorsal recumbency in the V-trough.
+· Place sponges under tarsus to bring cassette close to the tarsus.
+·Tape affected tarsus to table.
+ Tilt patient from you approximately 15-20 degrees to achieve an oblique angle of the tarsus with the medial
+side facing the tube.
+Centering:
++ Center on tarsal joint.
+Collimation:
+·From the distal portion of the tibia to the proximal portion of the metatarsals.
+Labeling:
+*Place label lateral to the joint.
+Technique:
+·  Measure at center of tarsal joint
+Comments:
+the medial side of the tarsus.
+FIGURE 6-33
+Proper positioning for dorsolateral/plantaromedial oblique
+ projection of the tarsus.
+Handbook of Radiographic Positioning for Veterinary Technicians 
+97
+FIGURE 6-34
+ Dorsolateral/plantaromedial oblique projection of the tarsus.
+Fibula
+Tibia
+Calcaneous
+Tarsus
+Metatarsus
+FIGURE 6-35
+Anatomical features and landmarks: tibia, fibula, calcaneous, tarsus,
+and metatarsus.
+98
+Chapter 6: Hindlimb Radiographs
+Dorsomedial/Plantarolateral Oblique
+Projection of the Tarsus
+Positioning:
+●Patient is in dorsal recumbency in the V-trough.
+· Place sponges under tarsus to bring cassette close to the tarsus.
+·Tape affected tarsus to table.
+● Tilt patient. approximately 15-20 degrees to achieve an oblique angle of the tarsus with the lateral side facing
+the tube.
+Centering:
++Center on tarsal joint.
+Collimation:
+·From the distal portion of the tibia to the proximal portion of the metatarsals.
+Labeling:
+·Place label lateral to the joint.
+Technique:
+·  Measure at center of tarsal joint.
+Comments:
+the lateral side of the tarsus.
+FIGURE 6-36
+Proper positioning for dorsomedial/plantarolateral oblique projection
+of the tarsus.
+Handbook of Radiographic Positioning for Veterinary Technicians 
+99
+FIGURE 6-37
+Dorsomedial/plantarolateral oblique prajection of the tarsus.
+Tibia
+Calcaneous
+Tarsus
+Metatarsus
+FIGURE 6-38
+Anatomical features and landmarks: tibia, calcaneous, tarsus, and
+metatarsus.
+100
+ Chapter 6: Hindlimb Radiographs
+Dorsoplantar Projection of the Metatarsus
+Positioning:
+·Patient is in dorsal recumbency in the V-trough.
+· Place sponges under metatarsus to bring cassetfe close to the metatarsus.
++ Tape affected metatarsus to table.
+Centering:
+· Center on the metatarsal joint.
+Collimation:
+· From the distal portion of the tarsus to the proximal portion of the phalanges. Collimation through the distal
+phalanges is also acceptable.
+Labeling:
+*Place label lateral to the joint.
+Technique:
+· Measure the center of the joint.
+FIGURE 6-39
+Proper positioning for dorsoplantar projection of the metatarsus.
+Handbook of Radiographic Positioning for Veterinary Technicians 
+101
+DF
+FIGURE 6-40
+Dorsoplantar projection of the metatarsus.
+Calcaneous
+Tarsus
+Metatarsus
+Sesamoids
+FIGURE 6-41
+Anatomical features and landmarks: calcaneous, tarsus, metatarsus,
+and sesamoids.
+102
+ Chapter 6: Hindlimb Radiographs
+Lateral Projection of the Metatarsus
+Positioning:
+*Patient is in lateral recumbency with affected limb down.
+* Unaffected limb is taped around stifle and tarsus, and pulled up and out of the way.
+Centering:
+*Center on metatarsal joint.
+Collimation:
+·  From the distal portion of the tarsus to the proximal portion of the phalanges.
+Labeling:
+·Place label cranial to the joint.
+Technique:
+·Measure the center of the joint.
+DFM
+FIGURE 6-42
+Proper positioning for lateral projection of the metatarsus.
+Handbook of Radiographic Positioning for Veterinary Technicians
+103
+R
+DFM
+FIGURE 6-43
+Lateral projection of the metatarsus.
+Tibia
+Calcaneous
+Tarsus
+Metatarsus
+Sesamoic
+FIGURE 6-44
+Anatomical features and landmarks: tibia, calcaneous, tarsus,
+metatarsus, and sesamoid.
+104
+ Chapter 6: Hindlimb Radiographs
+Dorsopalmar Projection of the Digits
+Positioning:
+·Patient is in dorsal recumbency.
+●Hindlimbs are pulled caudally individually
+● Individually tape the medial toe (digit 2) and lateral toe (digit 5), and pull opposite of each other to spread the
+toes. Alternatively place cotton balls between each toe.
++V-trough can help stabilize cranial half of body.
+Centering:
+* Center just. above digits.
+Collimation:
+● Include metatarsus through the distal end of the digits.
+Labeling:
+* Lateral to digits.
+Technique:
+·Measure midway between metatarsus and digits
+Comments:
+● Taping the digits open provides better visualization of the individual bones. If the patient does not have a
+toenail or it is very short, tape around the digit itself.
+* Typically, the metatarsus and digits are radiographed in a single view.
+· The horizontal beam technique may also be useful.
+FIGURE 6-45
+Proper positioning for dorsopalmar projection of the digits.
+Handbook of Radiographic Positioning for Veterinary Technicians
+105
+DFM
+FIGURE 6-46
+Dorsopalmar projection of the digits.
+Metatarsus
+Phalanx 1 of digit Il
+ Phalanx 1 of digit V
+Phalanx 1 of digit Ill
+Phalanx 1 of digit IV
+Phalanx 2 of digit Il
+Phalanx 2 of digit V
+Phalanx 2 of digit Ill
+Phalanx 2 of digit IV
+。
+Distal Phalanges
+FIGURE 6-47
+Anatomical features and landmarks: metatarsus, phalanx I of digit V, phalanx I of
+digit IV, phalanx I of digit Ill, phalanx I of digit Il, phalanx 2 of digit V, phalanx 2 of 
+digit IV, phalanx 2 of digit ll, phalanx 2 of digit Il and distal phalanges.
+106
+Chapter 6: Hindimb Radiographs
+Lateral Projection of the Digits
+Positioning:
+* Patient is in lateral recumbency with affected limb down.
+* Affected limb is pulled down in natural position.
+·Sponge is placed under stifle to make the limb even and assist. with making metatarsus lateral.
+● Individually tape the lateral toe (digit 5) and medial toe (digit 2), and pull the lateral toe cranially and the
+ medial toe caudally.
+Centering:
+* Center just. above digits.
+Collimation:
+· Include all the metatarsal and digits.
+Labeling:
+● Cranial to label the lateral toe (digit 5).
+Technique:
+·Measure midway between metatarsus and digits
+Comments:
+●Taping the digits open provides better visualization of the individual bones. If the patient does not have a toe-
+nail or it is very short, tape around the digit itself.
+· Typically the metatarsus and digits are radiographed in a single view.
+R
+FIGURE 6-48
+Proper positioning for lateral prajection of the digits.
+Handbook of Radiographic Positioning for Veterinary Technicians
+107
+DFI
+R
+FIGURE 6-49
+Lateral projection of the digits.
+Digit I
+Distal Phalange
+Metatarsus
+ Phalanx 1 of digit V
+-Distal Phalange
+Phalanx 2 of digit V
+Phalanx 1 of digit Il
+ Phalanx 1 of digit IV
+Phalanx 1 of dligit Ill
+ Phalanx 2 of digit IV
+Phalanx 2 of digit Il
+Phalanx 2 of
+dligit II1
+Distal Phalanges
+FIGURE 6-50
+digit ll, phalanx I of digit IV, phalanx I of digit V, digit I, phalanx 2 of digit Il,
+ phalanx 2 of digit ll phalanx 2 of digit IV, phalanx 2 of digit V, and distal phalanges.
+This page intentionally left blank
+CHAPTER7
+SKULL RADIOGRAPHS
+OVERVIEW
+Indications for examination of skull radiographs include evaluation of the tympanic bullae, nasal sinuses, and
+foramen magnum, as well as evaluation to detect bone lesions.The patient must be positioned precisely
+because evaluation often focuses on symmetry between the two sides of the skull Nearly all patients
+require general anesthesia for proper positioning. The endotracheal tube may need to be removed or
+repositioned before obtaining the exposure depending on the purpose of the radiograph.
+For most small animals, the skull is approximately the same width both laterally and dorsoventrally
+Most skull radiographs use a single measurement representing the widest area of the cranium.
+Measurements for radiographs of the nasal passages are taken at a point slightly rostral to the widest area
+of the cranium to avoid overexposing the air-filled sinuses.
+For most routine radiographic studies of the skull a lateral projection and either a ventrodorsal (VD) or
+dorsoventral (DV) view are obtained. For evaluation of the tympanic bullae, a DV view, right and left lateral
+lateral view, either a DV orVD view,a frontal (rostrocaudal) view, and an open mouth view. Commonly used
+Aa e pue sma anbiqo eael yal pue uu apnu suiol engiueuooduan aun jo uoneneaa dog suoalod
+view. Although the entire skull may be included for most views, to enhance detail, the radiograph should be
+The following pages illustrate the proper positioning and technique for skull radiographs.
+109
+110
+Chapter 7: Skull Radiographs
+Lateral Projection of the Skull
+Positioning:
+●Right or left lateral recumbency with the affected side toward the cassette.
+● Foam pads placed under the mandible to maintain the sagittal plane of the skull in a position parallel to the
+x-ray cassette.
+Centering:
+· Lateral canthus of the eye socket.
+Collimation:
+· Occipital protuberance to the tip of the nose.
+· Dorsal right and ventral skull fully within collimated area.
+Labeling:
+·Mark the side against. the x-ray cassette as either left or right.
+Technique:
+·  Measure at the widest point of the cranium.
+Comments:
+● The rami of the mandible and tympanic bullae are superimposed on the finished radiograph. If nontrauma-
+  a   n   e   n a  s ae   
+Position the skull so that the eyes or canine teeth are even and parallel with the cassette.
+FIGURE 7-1
+Proper positioning for lateral prajection of the skull.
+Handbook of Radiographic Positioning for Veterinary Technicians 
+111
+FIGURE 7-2
+Lateral projection of the skull.
+Mandible 
+ Zygomatic arch 
+Frontal sinus
+Parietal bone
+Maxilla
+Cervical
+vertebra
+Tympanic
+bulla
+Temporal
+ Mandible
+bone
+FIGURE 7-3
+Anatomical features and landmarks: tympanic bulla, temporal bone, mandible,
+zygomatic arch, parietal bone, frontal sinus, maxilla and cervical vertebra l.
+112
+ Chapter 7: Skull Radiographs
+DV Projection of the Skull
+Positioning:
+*Sternal recumbency.
+●Sandbag placed across the cervical region to maintain placement of the head against the x-ray cassette.
+● Tape can be used across the maxilla to maintain vertical alignment of the head on the x-ray cassette.
+Centering:
+*Midway between the tip of the nose to just caudal to the occipital protuberance at the base.
+Collimation:
+· Occipital protuberance to the tip of the nose.
+* Zygomatic arches fully within collimated area.
+Labeling:
+*Mark either left. or right. dependent. side, or both
+Technique:
+·Measure at. the widest. point. of the cranium just. caudal to the orbit.
+FIGURE 7-4
+Proper positioning for DV projection of the skul
+Handbook of Radiographic Positioning for Veterinary Technicians
+113
+FIGURE 7-5
+DV projection of the skull
+Nasal septum
+Mandible
+Mandible
+Zygomatic arch
+Zygomatic arch
+Tympanic bulla
+Tympanic bulla
+FIGURE 7-6
+Anatomical features and landmarks: tympanic bulla zygomatic arch, mandible.
+and nasal septum.
+114
+ Chapter 7: Skull Radiographs
+VD Projection of the Skull
+Positioning:
+* Dorsal recumbency.
+● Foam pad or sandbag is positioned under neck to maintain hard palate in parallel alignment with x-ray
+cassette.
+* A V-trough can be used to aid in maintaining vertical alignment.
+· Forelimbs are secured caudally.
+· Foam pad under head or tape across mandibles to avoid rotation of head.
+Centering:
+●Midway between the tip of the nose to just caudal to the occipital protuberance at the base.
+Colfimation:
+· Occipital protuberance to the tip of the nose.
+●Zygomatic arches fully within collimated area.
+Labeling:
+●Mark either left or right dependent side, or both.
+Technique:
+· Measure at the widest point of the cranium just caudal to the orbit.
+Comments:
+●This view should be included in a nasal series because the nasal passages are on the dorsal portion of the skull
+and closest. to the cassette.
+FIGURE 7-7
+Proper positioning for VD projection of the skull.
+Handbook of Radiographic Positioning for Veterinary Technicians
+115
+KK
+FIGURE 7-8
+VD projection of the skull.
+Nasal septum
+Mandible -
+Mandible
+Zygomatic arch
+Zygomatic arch
+Tympanic bulla
+Tympanic bulla
+FIGURE 7-9
+Anatomical features and landmarks: tympanic bulla, zygomatic arch, mandible.
+ and nasal septum.
+116
+ Chapter 7: Skull Radiographs
+Rostrocaudal Sinuses Closed Mouth Projection
+Positioning:
+*Dorsal recumbency.
+· Foam pad or sandbag is positioned under neck.
+·A V-trough can be used to aid in maintaining vertical align ment.
+*Forelimbs are secured caudally.
+d pue aas aex a oi ruadiad aeed pe u on apne asu  oi azne o ade o
+to the x-ray beam.
+Centering:
+*Between the eyes.
+Collimation:
+*Zygomatic arches fully within collimated area.
+Labeling:
+* Mark either left. or right dependent side, or both
+Technique:
+· Measure midpoint at the level of the eyes.
+Comments:
+·This view is commonly referred to as the “skyline" view.
+FIGURE 7-10
+Proper positioning for rostrocaudal sinuses closed mouth projection.
+Handbook of Radiographic Positioning for Veterinary Technicians
+117
+FIGURE 7-I1
+ Rostrocaudal sinuses closed mouth projection.
+Frontal sinuses
+Zygomatic
+Zygomatic
+bone
+bone
+Turbinates
+FIGURE 7-12
+ Anatomical features and landmarks: turbinates, frontal sinuses, and zygomatic bone.
+118
+ Chapter 7: Skull Radiographs
+Rostrocaudal Foramen Magnum Projection
+Positioning:
+*Dorsal recumbency.
+· Foam pad or sandbag is positioned under neck.
+*A V-trough can be used to aid in maintaining vertical alignment.
++Forelimbs are secured caudally.
+●Tape or gauze to direct nose caudally approximately 30 degrees with the mandible close to the chest.
+Centering:
+*Between the eyes.
+Collimation:
+● Include all of occipital crest to tympanic bullae.
+· Zygomatic arches fully within collimated area.
+Labeling:
+· Mark either left. or right dependent side, or both
+Technique:
+·Measure midpoint at the level of the eyes.
+Comments:
+*This view is also referred to as the "keyhole" or "town-crown" view.
+FIGURE 7-13
+Proper positioning for rostrocaudal foramen magnum projection
+Handbook of Radiographic Positioning for Veterinary Technicians
+119
+R
+FIGURE 7-14
+Rostrocaudal foramen magnum projection.
+Lateral frontal sinus
+ Foramen magnum
+Tympanic bulla
+Tympanic bulla
+Zygomatic
+Zygomatic
+bone
+bone
+FIGURE 7-15
+Anatomical features and landmarks: tympanic bulla, foramen magnum, zygomatic bone, and lateral frontal sinus.
+120
+Chapter 7: Skull Radiographs
+VD Rostrocauda
+Labeling:
+·Mark either left or right dependent side, or both.
+Nasal Open Mouth
+Technique:
+Projection
+·Measure at the thickest area near the commissure
+Positioning:
+of the lip.
+·Angling the beam may not be necessary in feline
+* Dorsal recumbency.
+patients, or the x-ray beam may be directed at. a
+· With the skull placed outside, place caudal portion
+5-10 degree angle.
+of patient. in V-trough to aid in keeping the skull
+and body straight.
+·Position head so that the hard palate is in parallel
+ alignment with x-ray cassette, tape across maxillary
+canines, and secure to the sides of the table.
+· Place tape across or behind mandibular canines,
+and pull mandible along with the tongue and en-
+dotracheal tube to open the mouth. Secure tape to
+the sides of the V-trough.
++ Pull forelimbs and secure caudally.
+Centering:
+● Tilt tube head caudally approximately 15 degrees,
+centering on the back of the palate.
+● If using the cassette/Bucky tray, line up tray and
+collimator light. to account for the tilt.
+Colfimation:
+· Horizontally inside the zygomatic arches, and ver-
+tically from the tip of the maxilla to the back of
+the palate, beyond where the mandible will super-
+impose over it.
+FIGURE 7-16
+Proper positioning for VD rostrocaudal nasal open mouth projection.
+Handbook of Radiographic Positioning forVeterinary Technicians 
+121
+FIGURE 7-17
+VD rostrocaudal nasal open mouth projection
+Nasal septum
+ Nasal and
+Nasal and
+maxillary turbinates
+maxillary turbinates
+Coronoid process
+Coronoid process 
+of mandible
+of mandible
+Zygomaticbone
+Zygomatic bone
+FIGURE 7-18
+Anatomical features and landmarks: nasal and maxillary turbinates, zygomatic
+bone, nasal septum, and coronoid process of mandible.
+122
+ Chapter 7: Skull Radiographs
+Rostrocauda
+Tympanic Bullae
+Open Mouth Projection
+Positioning:
+*Dorsal recumbency.
++ Foam pad or sandbag is positioned under neck.
+*A V-trough can be used to aid in maintaining verti-
+cal align men t.
+* Forelimbs are secured caudally.
+FIGURE 7-19
+ Tape or gauze around maxilla to pull nose approxi-
+Proper positioning for rostrocaudal tympanic bullae open mouth
+mately 10 degrees cranially.
+projection.
+· Tape or gauze around mandible to pull mandible
+Centering:
+ Beam is centered just above the base of the tongue
+commissure of the mouth.
+Collimation:
+ Zygomatic arches fully within collimated area with
+enough lateral to include the marker.
+Labeling:
+· Mark either left. or right dependent side, or both.
+Technique:
+· Measure at the commissure of the mouth.
+FIGURE 7-20
+Comments:
+Proper positioning for rostrocaudal projection in cats.
+●A plastic-mouth speculum may also be used to main-
+tain the open mouth position, taking care not to
+allow the weight of the speculum to rotate the head.
+· A 1 mL syringe barrel with the plunger removed
+works well if you do not have a speculum. Cut both
+ends of the barrel (nail trimmers work well for
+this), and place open ends on the upper and lower
+canine teeth. Length can be modified accordingly.
+The rostrocaudal projection in cats can also be
+taken with the mouth closed and the skull tipped
+cranially approximately 10 degrees (Figures 7-20, 7-23,
+and 7-24). This is due to the fact. that. cat bullae are ana-
+tomically farther caudal on the skull than dog bullae.
+Handbook of Radiographic Positioning for Veterinary Technicians
+123
+FIGURE 7-21
+ Rostrocaudal tympanic bullae open mouth projection.
+Coronoid process
+Coronoidprocess
+ of the mandible
+of the mandible
+Zygomatic bone
+Zygomaticbone
+Tympanic bulla
+Tympanic bulla
+Foramen
+magnum
+FIGURE 7-22
+Anatomical features and landmarks: tympanic bulla, foramen magnum, coronoid process of the
+mandible, and zygomatic bone.
+124
+Chapter 7: Skull Radiographs
+R
+FIGURE 7-23
+Rostrocaudal projection in cats.
+Tympanic bulla
+Tympanic bulla
+Atlas (C,) cervical vertebra
+Axis (C,) cervical vertebra Il
+FIGURE 7-24
+Anatomical features and landmarks: tympanic bulla, atlas (C) cervical vertebra I, and 
+axis (C2) cervical vertebra ll.
+This page intentionally left blank
+126  Chapter 7: Skull Radiographs
+DV Tympanic Bullae Projection
+Positioning:
+*Sternal recumbency.
+● Sandbag is placed across the cervical region to maintain placement of the head against the x-ray cassette.
+· Tape can be used across the maxilla to maintain vertical alignment of the head on the x-ray cassette.
+Centering:
+* Palpate the base of the ear to determine placement on the skull. Center the beam on the dorsal midline of the
+skull between the ears.
+Collimation:
++Palpate the ear, and collimate just cranial and caudal to the ear.
+· Right and left side of skull is fully within collimated area.
+Labeling:
+· Mark either left or right dependent side, or both.
+Technique:
+·Measure at the widest point. of the cranium just caudal to the orbit and over the bullae.
+Comments:
+· DV position is preferred due to the bullae being closer to the cassette.
+FIGURE 7-25
+Proper positioning for DV tympanic bullae projection.
+Handbook of Radiographic Positioning forVeterinary Technicians 
+127
+FIGURE 7-26
+DV tympanic bullae prajection.
+Coronoid process
+Coronoid process
+of mandible
+of mandible 
+Zygomatic bone
+Zygomatic bone
+Tympanic bulla
+Tympanic bulla
+Atlas-cervical vertebra |
+ Atlas-cervical vertebra I
+Axis-cervical vertebra Il
+FIGURE 7-27
+ Anatomical features and landmarks: tympanic bulla, zygomatic bone, coronoid process of mandible.
+atlas-cervical vertebra I, and axis-cervical vertebra ll.
+128
+Chapter 7: Skull Radiographs
+Lateral Oblique
+Comments:
+*The projection should have the dependent bulla
+Tympanic Bullae
+isolated and not superimposed over the skull.
+Projection
+This oblique projection can also be used to obtain
+images of the mandible or maxilla by collimating
+to include the entire mandible or maxilla. Both
+Positioning:
+right and left lateral oblique views are required.
+·Place patient in lateral recumbency.
+·Right lateral recumbency for left. oblique bulla.
+· Left lateral recumbency for the right bulla
+· From the lateral position, allow the skull to oblique
+itself naturally down toward the table approximately
+30-40 degrees. This projects the down bulla and
+keeps it from being superimposed over the skull.
+Centering:
+· Palpate and center over the ear to include both
+dorsal and ven tral skull.
+Collimation:
+* Slightly cranial and caudal to the ear.
+Labeling:
+* Label the projected bulla.
+· The patient in right lateral recumbency will have
+the right marker dorsal and the left marker ven tral.
+The patient in left lateral recumbency will have the
+left marker dorsal and the right marker ventral.
+Technique:
+● Measure at the widest point of the cranium just.
+FIGURE 7-28
+caudal to the orbit and over the bullae.
+Proper positioning for lateral oblique tympanic bullae prajection.
+Handbook of Radiographic Positioning for Veterinary Technicians
+129
+FIGURE 7-29
+Lateral oblique tympanic bullae projection.
+Tympanic bullae
+Atlas C1
+Axis C2
+Mandible
+Tympanicbullae
+FIGURE 7-30
+ Anatomical features and landmarks: tympanic bulla, atlas-cervical vertebra,
+and mandible.
+130
+Chapter 7: Skull Radiographs
+Lateral Oblique
+Labeling:
+Temporomandibular
+· Label the dependent temporomandibular joint.
+loint Projection
+Technique:
+· Measure just caudal to the orbit in front of the ear
+Positioning:
+over the joint.
+ Place patient in lateral recumbency; normally, both
+Comments:
+right and left lateral oblique views are obtained
+from each patient.
+· When evaluating for potential luxation, an open
+·Right lateral recumbency for the right temporo-
+mouth oblique view of each temporomandibular
+ man dibular joint.
+joint might be required.
+* Left. lateral recumbency for the left temporo-
+man dibular joint.
+ From the lateral position, allow the skull to oblique
+itself naturally down toward the table approximately
+10 degrees. This projects the temporomandibular
+joint down and keeps it from being superimposed
+over the skull.
+● Place a small sponge to lift the rostral part of the
+skull (at the nose) up approximately 10 degrees
+ project the temporomandibular joint rostral and
+keep it from being superimposed over the skull.
+Centering:
+· The beam is centered just cranial to the ear or
+bulla.
+Colfimation:
+FIGURE 7-31
+·Collimate just cranial and caudal to the joint.
+Proper positioning for lateral oblique temporomandibular joint
+projection.
+Handbook of Radiographic Positioning forVeterinary Technicians 
+131
+FIGURE 7-32
+Lateral oblique temporomandibular joint projection.
+TMJ Temporomandibular joint
+Mandible
+Tympanic bullae
+FIGURE 7-33
+ Anatomical features and landmarks: temporomandibular joint,
+tympanic bulla, and mandible.
+132  Chapter 7: Skull Radiographs
+DV Temporomandibular Joint Projection
+Positioning:
+*Sternal recumbency.
+● Sandbag is placed across the cervical region to maintain placement of the head against the x-ray cassette.
+· Tape can be used across the maxilla to maintain vertical alignment of the head on the x-ray cassette.
+Centering:
+· Palpate the base of the ear to determine placement just rostral on the skull. Center the beam on the dorsal
+midline of the skull just rostral to the bullae or ears.
+Colfimation:
+·Collimate just cranial and caudal to the joint.
+·Right and left. side of skull fully within collimated area.
+Labeling:
+●Mark either left or right dependent side, or both.
+Technique:
+·Measure at the widest. point. of the cranium just caudal to the orbit and over the joint.
+Comments:
+● DV is preferred because the temporomandibular joint is located on the ventral portion of the skull and closer
+to the cassette.
+FIGURE 7-34
+Proper positioning for DV temporomandibular joint projection
+Handbook of Radiographic Positioning for Veterinary Technicians
+133
+FIGURE 7-35
+DV temporomandibular joint projection.
+Coronoid process 
+of mandible
+Left temporo-
+Right temporo-
+ mandibular joint
+mandibular joint
+Articular process of
+Articular process of
+ mandibular ramus
+ mandibular ramus
+Zygomatic arch
+Zygomatic arch
+Tympanic bullae
+Tympanic bullae
+FIGURE 7-36
+ Anatomical features and landmarks: tympanic bulla zygomatic arch, articular process of mandibular
+ramus, and coronoid process of mandible.
+This page intentionally left blank
+CHAPTER8
+DENTAL RADIOGRAPHS
+OVERVIEW
+pue arensre ue urergo ot sanbiuuoat suuonisod oynads sanban yaat aun jo uoneaa jadoid
+sufficiently detailed view of the teeth. Skull radiographs are not of sufficient detail to be diagnostic
+when evaluating oral pathology. Although standard x-ray machines can be used to position
+patients for dental radiology, exposures can be most easily accomplished with a radiology unit
+specific for dentistry.
+Because the palate of dogs and cats is not arched as it is in humans, a bisecting angle technique
+is used to position the head of the x-ray unit to create an exact image of the tooth on the film.
+Because the roots are embedded in the maxillary bone,if the film was parall to the tooth in the
+maxillary arcade, the image of the roots would not be on the film because the palate would get in
+the way. To aid in understanding the bisecting angle technique, imagine a person standing in a flat
+desert with nothing around. The sun (beam) is directly over the individual's head. A shadow (image)
+would be a very undistinguishable blob on the ground (film). It would not reveal any important
+information as to the shape and size of the individual. Alternatively,if the sun (beam) sat just above
+se uoeoui alene kue aaie nou pinom ls pue uol aay oe aq pinom mopeus ayn uozoy au
+to shape and size of the individual. If the sun was positioned exactly halfway between its location at
+high noon and just before sunset, the shadow behind the individual would be as tall as the individual
+135
+136  Chapter 8: Dental Radiographs
+and would represent accurate details about the
+The following pages illustrate the proper positioning
+individual's image. At this exact point,the sun is creatingfor dental radiographs. Note that there are slight
+a beam that is hitting the bisecting angle perpendicularly. differences in the views taken for dogs and cats, so
+Intraoral film is positioned so that the vertical
+each species is described separately.Also note that 
+axis of the tooth and the horizontal axis of the film
+collimation for intraoral x-ray units is automatic, and
+Treate an angle. Bisect that angle or cut that angle in
+film identification labels are always placed on the dimple
+half with an imaginary line. The x-ray beam is then
+convex side of the film toward the x-ray tube so each
+placed exactly perpendicular to that bisecting plane. If 
+required position contains descriptive information for
+the angle of the tube is too steep, the image will be
+the patient positioning and centering of the x-ray beam.
+foreshortened. If the angle of the tube is too shallow,
+the image will be too elongated.
+Handbook of Radiographic Positioning for Veterinary Technicians
+137
+Canine Upper
+Incisor Arcade
+Positioning:
+*Lateral or dorsal recumbency.
+Centering:
+ Center image so that two middle incisors are equi-
+distant from edge of image and visualize at least
+ 3 mm periapical bone.
+FIGURE 8-1
+Proper positioning for canine upper incisor arcade.
+FIGURE 8-2
+Canine upper incisor arcade.
+138
+Chapter 8: Dental Radiographs
+Canine Upper
+Canine Tooth
+Positioning:
+· Lateral or dorsal recumbency.
+Centering:
+Apex of tooth visible with at least 3 mm periapical
+bone.
+FIGURE 8-3
+Proper positioning for canine upper canine tooth.
+FIGURE 8-4
+ Canine upper canine tooth.
+Handbook of Radiographic Positioning for Veterinary Technicians
+139
+Canine Upper
+Premolars
+Positioning:
+* Lateral or dorsal recumbency.
+Centering:
+ Apex of teeth visible with at least 3 mm periapical
+bone.
+FIGURE 8-5
+ Proper positioning for canine upper premolars.
+FIGURE 8-6
+Canine upper premolars.
+140
+Chapter 8: Dental Radiographs
+Canine Upper
+Fourth Premolars
+and Molars
+Positioning:
+· Lateral or dorsal recumbency.
+Centering:
+ Apex of teeth visible with at least. 3 mm periapical
+bone.
+· Swing tube head rostrally or distally to separate
+superimposed mesial buccal and palatal roots of
+fourth premolar.
+FIGURE 8-7
+Proper positioning for canine upper fourth premolars and molars.
+FIGURE 8-8
+Canine upper fourth premolars and molars.
+Handbook of Radiographic Positioning for Veterinary Technicians
+141
+Canine Lower
+Incisor Arcade
+Positioning:
+* Lateral or dorsal recumbency.
+Centering:
+distant from edge of image and visualize at least
+3 mm periapical bone.
+FIGURE 8-9
+Proper positioning for canine lower incisor arcade.
+FIGURE 8-10
+Canine lower incisor arcade.
+142
+Chapter 8: Dental Radiographs
+Canine Lower Canine
+Tooth and Lower
+Premolar Arcade
+Positioning:
+● Lateral or dorsal recumbency.
+Centering:
+· Apex of tooth visible with at least. 3 mm periapical
+bone.
+Comments:
+·View may be taken with bisecting angle or parallel
+technique.
+FIGURE 8-11
+Proper positioning for canine lower canine tooth and lower premo-
+lar arcade.
+FIGURE 8-12
+Canine lower canine tooth and lower premolar arcade.
+Handbook of Radiographic Positioning for Veterinary Technicians
+143
+Canine Lower
+Premolar Arcade
+Positioning:
+* Lateral or dorsal recumbency.
+Centering:
+ Apex of teeth visible with at least. 3 mm periapical
+bone.
+Comments:
+· View is to be taken using parallel technique.
+FIGURE 8-13
+Proper positioning for canine lower premolar arcade.
+FIGURE 8-14
+Canine lower premolar arcade.
+144
+Chapter 8: Dental Radiographs
+Canine Lower
+Molars
+Positioning:
+Lateral or dorsal recumbency.
+Centering:
+Apex of teeth visible with at least 3 mm periapical
+bone.
+Comments:
+ View is to be taken using parallel technique.
+FIGURE 8-15
+Proper positioning for canine lower molars.
+FIGURE 8-16
+ Canine lower molars.
+Handbook of Radiographic Positioning for Veterinary Technicians
+145
+Feline Upper Incisor
+Arcade
+Positioning:
+*Lateral or dorsal recumbency.
+Centering:
+distant from edge of image and visualize at least
+3 mm periapical bone.
+FIGURE 8-17
+Proper positioning for feline upper incisor arcade.
+FIGURE 8-18
+Feline upper incisor arcade.
+146
+Chapter 8: Dental Radiographs
+Feline Upper Canine
+Tooth
+Positioning:
+Lateral or dorsal recumbency.
+Centering:
+ Apex of tooth visible with at least 3 mm periapical
+bone.
+FIGURE 8-19
+Proper positioning for feline upper canine tooth.
+FIGURE 8-20
+Feline upper canine tooth.
+Handbook of Radiographic Positioning for Veterinary Technicians
+147
+Feline Upper
+Premolars and Molar
+Positioning:
+· Lateral or dorsal recumbency.
+Centering:
+Apex of teeth visible with at least 3 mm periapical
+bone.
+Swing tube head rostrally or distally to separate
+superimposed mesial buccal and palatal roots of
+fourth premolar.
+FIGURE 8-21
+veow pue seowaud jaddn aua, doj aujuogisod adoid
+FIGURE 8-22
+ Feline upper premolars and molar.
+148
+ Chapter 8: Dental Radiographs
+Feline Lower ncisor
+Arcade
+Positioning:
+* Lateral or dorsal recumbency.
+Centering:
+ Center image so that two middle incisors are equi-
+distant from edge of image and visualize at least.
+3 mm periapical bone.
+FIGURE 8-23
+ Proper positioning for feline lower incisor arcade.
+FIGURE 8-24
+Feline lower incisor arcade.
+Handbook of Radiographic Positioning for Veterinary Technicians
+149
+Feline Lower Canine
+Tooth
+Positioning:
+*Lateral or dorsal recumbency.
+Centering:
+Apex of tooth visible with at least 3 mm periapical
+bone.
+FIGURE 8-25
+Proper positioning for feline lower canine tooth
+FIGURE 8-26
+Feline lower canine tooth.
+150
+ Chapter 8: Dental Radiographs
+Feline Lower
+Premolars and Molar
+Arcade
+Positioning:
+Lateral or dorsal recumbency.
+Centering:
+ Apex of teeth visible with at least 3 mm periapical
+bone.
+FIGURE 8-27
+Proper positioning for feline lower premolars and molar arcade.
+FIGURE 8-28
+Feline lower premolars and molar arcade.
+CHAPTER
+SPINAL RADIOGRAPHS
+OVERVIEW
+Radiographs of the vertebral column are used to detect bony lesions as well as evaluate intervertebral disc space. Careful
+ positioning is necessary to maintain the vertebral column parallel to the xray cassete and to allow the vertebral column
+to be placed as near to the x-ray cassette as possible. Positioning aids are used as supportive devices to maintain the spine
+parallel to the tabletop. Placing a piece of tape along the spinal column before moving the patient onto the x-ray table
+may aid in maintaining proper alignment (Figure 9-1)
+Commonly obtained views of the vertebral
+column include lateral and ventrodorsal (VD)
+ projections of the cervical area, thoracic area.
+thoracolumbar junction, lumbar area, lumbosacral
+area, sacral area, and coccygeal (caudal) vertebrae.
+Cervical spine evaluations may also require flexed and
+extended views. To enhance detail, spinal radiographs 
+are tightly collimated. Care must be taken to ensure
+that directional and identification labels placed before
+making the exposure are within the collimated area and
+not overlapping any portion of the vertebral column.
+The following pages illustrate the proper positioning and 
+FIGURE 9-1
+technique for spinal radiographs.
+Use of tape to maintain proper alignment.
+151
+152
+Chapter 9: Spinal Radiographs
+VD Cervical Spine Projection
+Positioning:
+* Dorsal recumbency.
+· Foam pad is placed under neck to maintain spinal column parallel to x-ray cassette.
+*Forelimbs are secured evenly and caudally.
+Centering:
+· C4-C5 intervertebral space.
+Collimation:
+·Base of the skull to the spine of the scapula.
+Labeling:
+*R/L marker within collimated area away from bony areas.
+* Identification label in caudal region.
+Technique:
+·Measure at. the area of the C4-C5 intervertebral space.
+Comments:
+· For very large patients, when there is a significant difference in measurement between the cranial and caudal
+areas of the cervical spine, two views should be taken. The first view is centered on the C2-C3 space and col
+limated from the base of the skull to C4. The second view is remeasured and centered on the C5-C6 space and
+collimated to contain C4-T1.
+FIGURE 9-2
+Proper position for VD cervical spine prajection.
+Handbook of Radiographic Positioning for Veterinary Technicians
+153
+FIGURE 9-3
+VD) cervical spine projection.
+Skull
+C1 (Atlas)
+C2 (Axis)
+C3
+C4
+C5
+C6
+C7
+FIGURE 9-4
+Anatomical features and landmarks: skull, CI (atlas), C2 (axis), C3,
+C4, C5, C6, and C7.
+154
+1Chapter 9 : Spinal Radiographs
+Lateral Cervical Spine Projection
+Positioning:
+*Right or left lateral recumbency.
+● Foam pad is placed under mandible to maintain spinal column parallel to x-ray cassette and secured with a
+san dbag.
+* Forelimbs are secured evenly and caudally.
+*Foam pad may be needed along the sternum to avoid rotation of the spinal column.
+Centering:
+* C4-C5 intervertebral space.
+Collimation:
+·Base of the skull to the spine of the scapula.
+Labeling:
+*R/L marker within collimated area away from bony areas to indicate side facing closest. to x-ray cassette.
++Identification label in caudal region.
+Technique:
+●Measure at the area of the C4-C5 intervertebral space.
+Comments:
+*Neck should be in a natural position, not. flexed or extended.
+FIGURE 9-5
+Handbook of Radiographic Positioning for Veterinary Technicians
+155
+FIGURE 9-6
+Lateral cervical spine projection.
+Atlas
+Axis
+C3
+Scapula
+4
+5
+Occipital condyle
+Neural canal
+C6
+C7
+FIGURE 9-7
+Anatomical features and landmarks: occipital condyle, atlas, axis, C3, C4, neural canal, C5,
+and scapula.
+156
+ Chapter 9 : Spinal Radiographs
+Lateral Cervical Spine Extended Projection
+Positioning:
+*Right or left lateral recumbency.
+● Foam pad is placed under mandible to maintain spinal column parallel to x-ray cassette and secured with a
+san dbag.
+· Forelimbs are secured evenly and caudally.
+· Foam pad may be needed along the sternum to avoid rotation of the spinal column.
+·The neck is extended or pushed dorsally.
+Centering:
++ C4-C5 intervertebral space.
+Collimation:
+·Base of the skull to the spine of the scapula.
+Labeling:
++R/L marker within collimated area away from bony areas to indicate side facing closest. to x-ray cassette.
+*Identification label in caudal region.
+Technique:
+● Measure at. the area of the C4-C5 intervertebral space.
+Comments:
+*To be in true extension, it is not enough just to push the skull dorsally; the whole cervical spine from C7 cranial
+ needs to be extended dorsally.
+FIGURE 9-8
+Proper position for lateral cervical spine extended projection.
+Handbook of Radiographic Positioning for Veterinary Technicians
+157
+FIGURE 9-9
+Lateral cervical spine extended projection.
+Atlas
+Axis
+C3
+Scapula
+C4
+5
+ Occipital condyles
+C6
+FIGURE 9-10
+Anatomical features and landmarks: occipital condyles, atlas, axis, C3, C4, C5, scapula,
+and C6.
+158
+Chapter 9 : Spinal Radiographs
+Lateral Cervical Spine Flexed Projection
+Positioning:
+* Right or left lateral recumbency.
+· Head is directed ventrally and caudally toward the humeri and can be secured with a sandbag to maintain
+flexion on the dorsal part of the skull.
+· Forelimbs are secured evenly and caudally
+· Foam pad may be needed along the sternum to avoid rotation of the spinal column.
+Centering:
+* C4-C5 intervertebral space.
+Collimation:
+●Base of the skull to the spine of the scapula
+Labeling:
+●R/L marker within collimated area away from bony areas to indicate side facing closest. to x-ray cassette.
+* Identification label in caudal region.
+Technique:
+·Measure at the area of the C4-C5 intervertebral space.
+Comments:
+· Take care not to hyperflex the neck. Flexion must be even throughout all cervical vertebrae starting at C7.
+FIGURE 9-11
+Proper position for lateral cervical spine flexed projection.
+Handbook of Radiographic Positioning for Veterinary Technicians
+159
+FIGURE 9-12
+Lateral cervical spine flexed projection.
+Axis C2
+C3
+C4
+C5
+Atlas C1
+FIGURE 9-13
+Anatomical features and landmarks: atlas Cl, axis C2, C3, C4, and C5.
+160
+ Chapter 9 : Spinal Radiographs
+VD Thoracic Spine Projection
+Positioning:
+*Dorsal recumbency.
+*Forelimbs extended evenly and cranially.
+* V-trough or san dbags to maintain vertical alignment.
+Centering:
+· Caudal border of scapula at approximately the sixth or seventh thoracic vertebra.
+Collimation:
+· Halfway between xiphoid and last rib to spine of the scapula
+* Must include C7-L1.
+Labeling:
+*R/L marker within collimated area away from bony areas.
+* Identification label in caudal region.
+Technique:
+· Measure at highest. (thickest) point of sternum.
+FIGURE 9-14
+Proper position for VD thoracic spine projection.
+Handbook of Radiographic Positioning for Veterinary Technicians
+161
+R
+FIGURE 9-15
+VD thoracic spine prajection.
+Spinous
+process
+T1
+of C7
+2nd rib
+Heart
+FIGURE 9-16
+Anatomical features and landmarks: LI, TI1 3, TI, C7, spinous 
+process of C7, 2nd rib, and heart.
+162
+ Chapter 9 : Spinal Radiographs
+Lateral Thoracic Spine Projection
+Positioning:
+* Right or left lateral recumbency.
+· Forelimbs are extended evenly and slightly cranially.
+·Hin dlimbs are extended evenly and slightly caudally.
+· Foam pad may be needed along the sternum to avoid rotation of the spinal column
+Centering:
+● Caudal border of scapula at approximately the sixth or seventh thoracic vertebra.
+Collimation:
+*Must include C7-L1.
+Labeling:
+●R/L marker within collimated area away from bony areas to indicate side facing closest to x-ray cassette.
+* Identification label in caudal region.
+Technique:
+*Measure at the midpoint. of the xiphoid or the highest point of the thorax.
+FIGURE 9-17
+Handbook of Radiographic Positioning for Veterinary Technicians
+163
+FIGURE 9-18
+Lateral thora.cic spine projection.
+6
+T10
+T13
+L1
+FIGURE 9-19
+Anatomical features and landmarks: T1, T6, T10, T12, TI3, and LI
+164
+ Chapter 9 : Spinal Radiographs
+VD Thoracolumbar Spine Projection
+Positioning:
+*Dorsal recumbency.
+· Forelimbs are extended evenly and slightly cranially.
+·Hindlimbs are extended evenly and slightly caudally.
+·Foam pad may be needed along the sternum to avoid rotation of the spinal column.
+Centering:
+●Halfway between collimation points.
+Collimation:
+·Xiphoid to last rib.
+Labeling:
+*R/L marker within collimated area away from bony areas.
+* Identification label in caudal region.
+Technique:
+●Measure at the midpoint of the xiphoid or the highest point of the thorax.
+FIGURE 9-20
+Handbook of Radiographic Positioning for Veterinary Technicians
+165
+R
+EA
+FIGURE 9-21
+VD thora.columbar spine prajection.
+T10
+T13
+ntevertebral disc
+spacebetween T13 and L1
+Spinous process
+L2
+FIGURE 9-22
+Anatomical features and landmarks: TI0-L2, intervertebral disc space
+between TI3 and LI, and spinous process.
+166
+Chapter 9 : Spinal Radiographs
+Lateral Thoracolumbar Spine Projection
+Positioning:
+* Right or left lateral recumbency.
+● Forelimbs are extended evenly and slightly cranially.
+*Hindlimbs are extended evenly and slightly caudally.
+· Foam pad may be needed along the sternum to avoid rotation of the spinal column.
+Centering:
+·Halfway between collimation points.
+Collimation:
+·Xiphoid to last rib.
+Labeling:
+●R/L marker within collimated area away from bony areas to indicate side facing closest. to x-ray cassette.
+Technique:
+·Measure at the midpoint. of the xiphoid or the highest point of the thorax.
+FIGURE 9-23
+Proper position for lateral thoracolumbar spine projection.
+Handbook of Radiographic Positioning for Veterinary Technicians
+167
+FIGURE 9-24
+Lateral thoracolumbar spine projection.
+Neural canal
+L1
+Spinous process
+T13
+Transverseprocess
+12th rib
+13th rib
+FIGURE 9-25
+Anatomical features and landmarks: T13, L1, 12th rib, 13th rib, neural canal, spinous process
+and transverse process.
+168
+ Chapter 9 : Spinal Radiographs
+VD Lumbar Spine Projection
+Positioning:
+*Dorsal recumbency.
+· Forelimbs are extended evenly and slightly cranially.
+·Hin dlimbs are extended evenly and slightly caudally.
+· Foam pad may be needed along the sternum to avoid rotation of the spinal column.
+Centering:
+●Palpate xiphoid and the wing of the ilium, and place the center halfway between these two points.
+Collimation:
+·Xiphoid to acetabulum.
+Labeling:
+*R/L marker within collimated area away from bony areas.
+* Identification label in caudal region.
+Technique:
+*Measure at mid-lumbar spine.
+FIGURE 9-26
+Handbook of Radiographic Positioning for Veterinary Technicians
+169
+R
+FIGURE 9-27
+VD lumbar spine projection.
+T13
+Spinous
+process
+13th rib
+L1
+Spinous process
+of L5
+Wing of
+ilium
+FIGURE 9-28
+ Anatomical features and landmarks: I3th rib, spinous process, TI3.
+LI, spinous process of L5, L7, and wing of ilium.
+170
+ Chapter 9 : Spinal Radiographs
+Lateral Lumbar Spine Projection
+Positioning:
+* Right or left lateral recumbency.
+* Forelimbs are extended evenly and sligh tly cranially.
+*Hindlimbs are extended evenly and slightly caudally.
+· Foam pad may be needed along the sternum to avoid rotation of the spinal column.
+Centering:
+*L3-4.
+Collimation:
+*Xiphoid to acetabulum.
+Labeling:
+●R/L marker within collimated area away from bony areas to indicate side facing closest. to x-ray cassette.
+Technique:
+*Measure mid-lumbar spine.
+FIGURE 9-29
+Proper position for lateral lumbar spine projection.
+Handbook of Radiographic Positioning for Veterinary Technicians
+171
+8
+FIGURE 9-30
+Lateral lumbar spine projection.
+T13
+Spinous process of L4
+Wing of the ilium
+13th Rib
+L7
+Sacrum
+FIGURE 9-31
+Anatomical features and landmarks: T13, I3th rib, spinous process of L4, wing of the ilium, L7.
+and sacrum.
+172
+ Chapter 9 : Spinal Radiographs
+VD Lumbosacral Spine Projection
+Positioning:
+* Dorsal recumbency in V-trough.
+* Forelimbs are extended evenly and slightly cranially.
+*Hindlimbs are extended evenly and slightly caudally.
+· Foam pad may be needed along the sternum to avoid rotation of the spinal column.
+Centering:
+· Palpate the wing of the ilium, and center just. caudal and midpelvis.
+Collimation:
+● Sixth lumbar vertebra to iliac crest
+Labeling:
+*R/L marker within collimated area away from bony areas.
+* Identification label in caudal region.
+Technique:
+*Measure at the wing of the ilium.
+FIGURE 9-32
+Proper position for VD lumbosacral spine projection
+Handbook of Radiographic Positioning for Veterinary Technicians
+173
+R
+DFM
+FIGURE 9-33
+VD lumbosa.cral spine projection.
+6th lumbar
+vertebra
+Transverse
+process
+Illium
+7th lumbar
+vertebra
+Sacrum
+Coccygeal
+vertebra
+FIGURE 9-34
+Anatomical features and landmarks: 7th lumbar vertebra, sacrum, coccygeal 
+vertebra,ilium, 6th lumbar vertebra, and transverse process.
+174  Chapter 9 : Spinal Radiographs
+Lateral Lumbosacral Spine Projection
+Positioning:
+*Right or left lateral recumbency.
+· Forelimbs are extended evenly and slightly cranially.
+· Hindlimbs are extended evenly and slightly caudally.
+● Foam pad may be needed along the sternum to avoid rotation of the spinal column.
+Centering:
+·  Palpate the wing of the ilium and the dorsal spinous process of the lumbosacral region, and center just caudal
+to the wing of the ilium. There is a distinct divot. at the lumbosacral junction.
+Colfimation.
+· Cranial to include L-6 lumbar vertebrae to iliac crest to include the first cranial caudal vertebrae (tail)
+Labeling:
+●R/L marker is within collimated area away from bony areas to indicate side facing closest to x-ray cassette.
+of bone.
+Technique:
+·  Measure thickest. area just caudal to the wing of the ilium
+Comments:
+*Alternate views include flexed and extended views of the lumbosacral junction.
+FIGURE 9-35
+ Proper position for lateral lumbosacral spine prajection.
+Handbook of Radiographic Positioning for Veterinary Technicians
+175
+FIGURE 9-36
+Lateral lumbosacral spine projection.
+Wings of ilia
+Spinous
+Spinous
+process of L5
+process of L6
+Spinous
+process of L7
+Sacrum
+1st Coccygeal
+ 3rd Coccygeal
+vertebrae
+vertebrae
+Transverse
+process of L5
+2nd Coccygeal
+vertebrae
+L5
+L6
+Transverse
+L7
+process of L6
+llia (superimposed)
+FIGURE 9-37
+Anatomical features and landmarks: Ist coccygeal vertebrae, 2nd coccygeal vertebrae, 3rd coccygeal 
+vertebrae, sacrum, spinous process of L7, spinous process of L6, spinous process of L5, transverse 
+process of L5, transverse process of L6, L5, L6, L7, ilia (superimposed), and wings of ilia.
+176
+ Chapter 9 : Spinal Radiographs
+VD Coccygeal (Caudal) Spine Projection
+Positioning:
+*Dorsal recumbency.
+*V-trough or sandbags to maintain dorsal recumbency.
+●Hindlimbs in natural position.
+*Tail extended caudally.
+Centering:
+● Midway from the sacrum to the tip of the tail.
+Collimation:
+· Cranial to the sacrum to the tip of the tail.
+Labeling:
+*R/L marker within collimated area away from bony areas.
+· Identification in caudal region.
+Technique:
+· Measure at thickest part of tail.
+Comments:
+●Tape may be used to maintain vertical alignment of the tail.
+FIGURE 9-38
+Proper position for VD coccygeal (caudal) spine projection.
+Handbook of Radiographic Positioning forVeterinary Technicians
+177
+FIGURE 9-39
+VD coccygeal (caudal) pine projection.
+Wing of ilium
+Wing of ilium
+Sacrum
+1st coccygeal vertebra
+ 2nd coccygeal vertebra
+ 3rd coccygeal vertebra
+ Femoral head
+ 4th coccygeal vertebra
+Femoral
+head
+Ishium
+: 6th coccygeal vertebra
+7th coccygeal vertebra
+lshium
+ 8th coccygeal vertebra
+9th coccygeal vertebra
+ 10th coccygeal vertebra
+11th coccygeal vertebra
+FIGURE 9-40
+Anatomical features and landmarks: sacrum, wing of ilium, Ist coccygeal vertebra.
+3rd coccygeal vertebra, 2nd coccygeal vertebra, ischium, femoral head, 4th coccygeal
+vertebra, 6th coccygeal vertebra, 7th coccygeal vertebra, 8th coccygeal vertebra, 9th
+coccygeal vertebra, IOth coccygeal vertebra, and IIth coccygeal vertebra.
+178
+ Chapter 9 : Spinal Radiographs
+Lateral Coccygeal (Caudal) Spine Projection
+Positioning:
+* Right or left lateral recumbency.
+Centering:
+●Midway from the sacrum to the tip of the tail.
+Collimation:
+·Cranial to the sacrum to the tip of the tail.
+Labeling:
+·R/L marker within collimated area away from bony areas
+· Identification label in caudal region.
+Technique:
++ Measure at thickest part. of tail.
+Comments:
+● Cassette may be elevated off the table to maintain alignment of the tail and spine, and bring the tail closer to
+on the size of the patient.
+* Tape may be needed to keep the tail in vertical alignment.
+FIGURE 9-41
+Proper position for lateral coccygeal (caudal) spine projection
+Handbook of Radiographic Positioning forVeterinary Technicians
+179
+FIGURE 9-42
+Lateral coccygeal (caudal) spine projection.
+Cranialarticularprocesses
+Coccygeal
+Intervertebral
+vertebralbodies
+space
+FIGURE 9-43
+Anatomical features and landmarks: cranial articular processes, coccygeal vertebral bodies, and intervertebral space.
+This page intentionally left blank
+APTERO
+RADIOGRAPHY OF AVIAN AND EXOTIC
+ANIMALS
+OVERVIEW
+There are many unique aspects of radiology relating to obtaining diagnostic quality radiographs of birds, reptiles,
+amphibians, and small mammals. The type of film and cassettes used, the focal point,collimation,exposure time,
+and restraint procedures require modification from the standard techniques used for dogs and cats.
+Mammography film and cassettes are routinely used for avian and exotic animal radiology.
+si wly aul'sanassin uaauns uisuaui auis ae sanasin au pue uosina auis e si wly udeoue
+placed in the cassette with the dark side of the film facing the dark side of the cassette, and the light side
+facing the light side (Figure I0-1).
+The cassette is placed on the tabletop and the x-ray tube head moved to achieve a focal-spot distance
+of 40 inches (l00 cm).This results in a magnification of the image on the film and aids in evaluation of the
+radiograph in these smallspecies. Close collimation around the area of interest will help decrease scatter
+radiation and maximize detail
+Exposure tirme and settings used will vary with the type of film and radiographic equipment available
+300, exposure time of I/10 second, and a kilovolt peak (kVp) between 40 and 50 will generally yield a
+second, and a kVp between 40 and 50 will achieve a good-quality film.
+181
+182
+ Chapter IO: Radiography of Avian and Exotic Animals
+restraint. In some calm birds, physical restraint. using
+GENERAL PRINCIPLES OF
+tape or commercial restraint devices can be used. Heavy
+RESTRAINT
+metal examination of avian patients can be quickly
+hq iaded e u p ls e huend kq pause 
+ Proper patient restraint is required to minimize or
+(Figure 10-2). The bag is then placed directly on the
+eliminate any movement that will result in a blurred
+or low-quality image. This can be accomplished with
+ x-ray cassette. Large birds can stand directly on the cas-
+either physical restraint or chemical restraint.
+sette, or the horizontal beam can be used and the bird
+ In many avian patients, physical restraint is gener-
+ placed in a perch.
+Most lizards and turtles will quietly sit on the cas-
+ally considered unacceptable, especially in large, pow-
+erful birds, highly stressed or fractious birds, and birds
+sette without any restraint for the dorsal-ventral view.
+with injuries that can be exacerbated with struggling. In
+More excitable reptiles can be restrained with the use of
+these cases, chemical restraint is used. Inhalation anes-
+tape, sandbags, or cotton ball Vetwrap hoods (Figures
+10-3 and 10-4). The cotton ball Vetwrap hood helps
+thesia (sevoflurane orisoflurane) is suitable for chemical
+FIGURE I0-1
+FIGURE 10-3
+Proper flm placement in cassette.
+ Restraint techniques for reptiles.
+FIGURE I0-2
+FIGURE 10-4
+Radiography of birds.
+ Restraint technique for reptiles.
+Handbook of Radiographic Positioning forVeterinary Technicians
+183
+calm the patient. Very fractious or aggressive patients
+may need some form of chemical restraint.
+Restraint of a snake can be challenging. Tape and
+sandbag restraints prove to be ineffective. Generally,
+manual restraint is the best. Manual restraint or the use
+of acrylic tubes is the most common form of restraint.
+for snakes (Figures 10-5 and 10-6).
+ Rabbits and ferrets can be physically restrained with
+techniques similar to those used with cats. Anesthesia
+may be recommended in the rabbit or ferret that is frac-
+tious or stressed.
+FIGURE I0-5
+ Restraint of snakes.
+FIGURE 10-6
+Radiography of snakes.
+184
+ Chapter IO: Radiography of Avian and Exotic Animals
+Lateral View of the Avian Patient
+Positioning:
+·Right lateral recumbency.
+· Wings are extended dorsally and secured with tape at the carpal joint.
+· Sternum should be parallel to the cassette.
+* Legs are pulled caudally and secured with tape.
+Centering:
++Midsternum.
+Collimation:
+Wholebody.
+Labeling:
+· Right marker within the collimated area in cranial aspect of the sternum.
+Technique:
+· Measure the thickest point of the chest.
+Handbook of Radiographic Positioning for Veterinary Technicians
+185
+FIGURE10-7
+ Proper positioning for lateral view of the avian patient.
+FIGURE 10-8
+Lateral view of the avian patient.
+186
+ Chapter IO: Radiography of Avian and Exotic Animals
+Ventrodorsal View of the Avian Patient
+Positioning:
+* Dorsal recumbency.
+· Neck is extended, and sponges are used to support the head, parallel to the cassette.
+●Wings are extended lateral from the body and secured with tape at the carpal joint.
+· Sternum should be placed directly over the spinal column.
+* Legs are pulled caudally and secured individually with tape.
+Centering:
+*Midsternum.
+Collimation:
+Whole body.
+Labeling:
+R/L marker within the collimated area.
+Technique:
+*Measure the thickest point of the chest.
+Handbook of Radiographic Positioning for Veterinary Technicians
+187
+FIGURE 10-9
+ Proper positioning for ventrodorsal view of the avian patient.
+FIGURE 10-10
+Ventrodorsal view of the avian patient.
+188
+ Chapter IO: Radiography of Avian and Exotic Animals
+Dorsoventral View of the Lizard
+Positioning:
+Ventral recumbency.
+· Forelimbs and hindlimbs are gently placed lateral to the body.
+· Tape may be used to secure in position.
+Centering:
+*Midbody region.
+Collimation:
+Whole body, include the head, legs, and cranial aspect of the tail.
+Labeling:
+·R/L marker within collimated area.
+Technique:
+· Measure the thickest point of the body.
+Handbook of Radiographic Positioning for Veterinary Technicians
+681
+FIGURE 10-I1
+ Proper positioning for dorsoventral view of the lizard.
+R
+FIGURE 10-12
+Dorsoventral view of the lizard.
+190
+Chapter IO: Radiography of Avian and Exotic Animals
+Lateral View of the Lizard
+Positioning:
+ Right lateral recumbency.
+· Forelimbs are pulled ventral and cranial of the body.
+* Hindlimbs are pulled ventral and caudal of the body.
+●Both forelimbs and hindlimbs can be secured with Vetwrap to minimize struggling (Figure 10-13).
+* Secure limbs with tape.
+● Tape across shoulders and hips to secure the body; sponges may be used to maintain horizontal position.
+Centering:
+*Midbody region.
+Collimation:
+·Whole body, include the head, legs, and the cranial aspect of the tail.
+Labeling:
+·R/ L marker within collimated area.
+Technique:
+· Measure the thickest point of the body.
+办
+FIGURE 10-13
+Restraint of the lizard.
+Handbook of Radiographic Positioning for Veterinary Technicians
+191
+FIGURE 10-14
+Proper positioning for lateral view of the lizard.
+FIGURE 10-15
+Lateral view of the lizard.
+192
+ Chapter IO: Radiography of Avian and Exotic Animals
+Lateral View of the Lizard with
+the Horizontal Beam
+Positioning:
+Ventrodorsal recumbency.
+· Ensure that the body is as close to the cassette as possible.
+Centering:
+*Midbody region.
+Collimation:
+· Whole body, including head and cranial aspect of the tail.
+Labeling:
+·R/L marker taped to the cassette above the patient.
+Technique:
+*Measure the thickest. point of the body.
+Handbook of Radiographic Positioning for Veterinary Technicians
+193
+ereal-heef
+FIGURE 10-16
+ Proper positioning for lateral view of the lizard with the horizontal beam.
+FIGURE 10-17
+Lateral view of the lizard with the horizontal beam.
+194
+ Chapter I0: Radiography of Avian and Exotic Animals
+Dorsoventral View of the Turtle
+Positioning:
+Ventral recumbency.
+·Forelimbs and hindlimbs are gently placed lateral to the body.
+· Tape may be used to secure in position.
+Centering:
+*Midbody region.
+Colfimation:
+i aul jo ioadse eno pue sat 'eay aul apnu o aoum 
+Labeling:
+R/L marker within collimated area.
+Technique:
+· Measure the thickest point of the body.
+Handbook of Radiographic Positioning for Veterinary Technicians
+195
+FIGURE 10-18
+Proper positioning for dorsoventral view of the turtle.
+FIGURE 10-19
+Dorsoventral view of the turtle.
+196
+ Chapter I0: Radiography of Avian and Exotic Animals
+Lateral View of the Turtle with
+the Horizontal Beam
+Positioning:
+Ventrodorsal recumbency.
+· Ensure that the body is as close to the cassette as possible.
+Centering:
+Midbody region.
+Collimation:
+Whole body, including head and cranial aspect of the tail.
+Labeling:
+· R/L marker taped to the cassette above the patient
+Technique:
+·Measure the thickest point of the body.
+Handbook of Radiographic Positioning for Veterinary Technicians
+197
+FIGURE 10-20
+Proper positioning for lateral view of the turtle with the horizontal beam.
+FIGURE 10-21
+Lateral view of the turtle with the horizontal beam.
+198
+ Chapter IO: Radiography of Avian and Exotic Animals
+Lateral View of the Rabbit Abdomen
+Positioning:
+*Right lateral recumbency.
+* Forelimbs are extended cranially and hindlimbs caudally; secure with tape.
+● Sternum should be parallel to the cassette; this can be accomplished with the use of sponges.
+Centering:
+* Cen ter slightly cranial of the last. rib.
+Colfimation:
+*Slightly cranial of the xiphoid and slightly caudal of the pubis.
+Labeling:
+ R marker is placed in the inguinal area.
+Technique:
+·Measure at the last. rib.
+Handbook of Radiographic Positioning for Veterinary Technicians
+199
+FIGURE10-22
+Proper positioning for lateral view of the rabbit abdomen.
+FIGURE 10-23
+Lateral view of the rabbit abdomen.
+200
+ Chapter I0: Radiography of Avian and Exotic Anirmals
+Ventrodorsal View of the Rabbit Abdomen
+Positioning:
+*Dorsal recumbency.
+* The front portion is secured with sandbags to keep the trunk bilaterally symmetrical.
+· The hind limbs are extended and secured with sandbags or tape.
+Centering:
+·Slightly caudal to the last. rib.
+Collimation:
+*Slightly cranial of the xiphoid and slightly caudal of the pubis.
+Labeling:
+ R marker is placed in the inguinal area.
+Technique:
+·Measure at the last. rib
+Handbook of Radiographic Positioning for Veterinary Technicians
+201
+FIGURE 10-24
+Proper positioning for ventrodorsal view of the rabbit abdomen.
+FIGURE 10-25
+Ventrodorsal view of the rabbit abdomen.
+202
+ Chapter I0: Radiography of Avian and Exotic Anirmals
+Lateral View of the Rabbit Thorax
+Positioning:
+*Right lateral recumbency.
+* Forelimbs are extended cranially and hindlimbs caudally; secure with tape.
+● Sternum should be parallel to the cassette; this can be accomplished with the use of sponges.
+Centering:
+·Center on sternum.
+Colfimation:
+*Slightly cranial of the thoracic inlet and slightly caudal of the last rib.
+Labeling:
+·R marker is placed just behind the forelegs.
+Technique:
+·Measure at the last rib
+Handbook of Radiographic Positioning for Veterinary Technicians
+203
+FIGURE 10-26
+ Proper positioning for lateral view of the rabbit thorax.
+R
+FIGURE 10-27
+Lateral view of the rabbit thorax.
+204
+ Chapter IO: Radiography of Avian and Exotic Animals
+Ventrodorsal View of the Rabbit Thorax
+Positioning:
+·Dorsal recumbency.
+*Forelimbs are extended cranially and hindlimbs caudally, secure with tape.
+· Sternum should be placed directly over the spinal column.
+Centering:
++Center on fourth intercostal space
+Colfimation:
+·Slightly cranial of the thoracic inlet and slightly caudal of the last. rib.
+Labeling:
+·R marker is placed just behind the forelegs.
+Technique:
+· Measure at the last rib
+Handbook of Radiographic Positioning for Veterinary Technicians
+205
+北
+FIGURE 10-28
+Proper positioning for ventrodorsal view of the rabbit thorax.
+FIGURE 10-29
+Ventrodorsal view of the rabbit thorax.
+206
+ Chapter IO: Radiography of Avian and Exotic Animals
+Lateral View of the Rabbit Skull
+Positioning:
+· Lateral recumbency.
+●Use sponge wedges under the neck and nose to align to skull parallel to the cassette and prevent obliquity.
+·Position the ears at. the top of the skull, ensuring they are away from the area to be viewed.
+Centering
++Midskull.
+Collimation:
+Cranial of the nose and just caudal of the base of the skull.
+Labeling:
+· Just above the nose.
+Technique:
++ Thickest. portion of the skull.
+Handbook of Radiographic Positioning for Veterinary Technicians
+207
+FIGURE 10-30
+Proper positioning for lateral view of the rabbit skull.
+FIGURE 10-3I
+Lateral view of the rabbit skull.
+208
+ Chapter IO: Radiography of Avian and Exotic Animals
+Dorsoventral View of the Rabbit Skull
+Positioning:
+Dorsoventral recumbency.
+*Secure to head flat to the cassette with tape at the base of the skull.
+● Position the ears to the sides, ensuring they are away from the viewing area.
+·Ensure that the skull is parallel to the cassette.
+Centering:
+*Midskull.
+Collimation:
+Cranial of the nose and just caudal of the base of the skull.
+Labeling:
+Beside thenose.
+Technique:
++ Thickest portion of the skull.
+Handbook of Radiographic Positioning for Veterinary Technicians
+209
+FIGURE 10-32
+Proper positioning for dorsoventral view of the rabbit skull
+FIGURE 10-33
+Dorsoventral view of the rabbit skull.
+210
+ Chapter IO: Radiography of Avian and Exotic Animals
+Lateral Oblique View of the Rabbit Skull
+Positioning:
+· Lateral recumbency (right or left)
+● Sponge wedges are placed under the skull, tilting the head at a 45-degree angle to the cassette.
+·Position the ears to the sides, ensuring they are away from the viewing area.
+Centering:
+·Midskull.
+Collimation:
+Cranial of the nose and just caudal of the base of the skull.
+Labeling:
+·Beside the nose.
+Technique:
+· Thickest. portion of the skull.
+Handbook of Radiographic Positioning for Veterinary Technicians
+211
+FIGURE 10-34
+Proper positioning for lateral oblique view of the rabbit skull
+FIGURE 10-35
+Lateral oblique view of the rabbit skull
+212
+ Chapter IO: Radiography of Avian and Exotic Animals
+Lateral View of the Ferret Abdomen
+Positioning:
+·Right lateral recumbency.
+* Forelimbs are extended cranially and hindlimbs caudally; secure with tape.
+● Sternum should be parallel to the cassette; this can be accomplished with the use of sponges.
+Centering:
+·Cen ter slightly caudal of the last. rib.
+Coffimation:
+*Slightly cranial of the xiphoid and slightly caudal of the pubis.
+Labeling:
+ R marker is placed in the inguinal area.
+Technique:
+·Measure at the last. rib.
+Handbook of Radiographic Positioning for Veterinary Technicians
+213
+FIGURE 10-36
+ Proper positioning for lateral view of the ferret abdomen.
+FIGURE10-37
+Lateral view of the ferret abdomen.
+214
+ Chapter IO: Radiography of Avian and Exotic Animals
+Ventrodorsal View of the Ferret Abdomen
+Positioning:
+* Dorsal recumbency.
+*The front portion is secured with sandbags or tape to keep the trunk bilaterally symmetrical.
+*The hind limbs are extended and secured with tape.
+Centering:
+·Center slightly caudal of the last rib.
+Colfimation:
+*Slightly cranial of the xiphoid and slightly caudal of the pubis.
+Labeling:
+R marker is placed in the inguinal area.
+Technique:
+·Measure at the last rib
+Handbook of Radiographic Positioning for Veterinary Technicians
+215
+FIGURE 10-38
+Proper positioning for ventrodorsal view of the ferret abdomen.
+FIGURE 10-39
+Ventrodorsal view of the ferret abdomen.
+216
+Chapter IO: Radiography of Avian and Exotic Animals
+Lateral View of the Ferret Thorax
+Positioning:
+·Right lateral recumbency.
+* Forelimbs are extended cranially and hindlimbs caudally; secure with tape.
+●Stern um should be parallel to the cassette; this can be accomplished with the use of sponges.
+Centering:
+·Center on the xiphoid process.
+Coffimation:
+·Slightly cranial of the thoracic inlet and slightly caudal of the dorsal aspect of the last rib.
+Labeling:
+R marker is placed above the shoulders.
+Technique:
+·Measure at the last rib.
+Handbook of Radiographic Positioning for Veterinary Technicians
+217
+FIGURE 10-40
+Proper positioning for lateral view of the feret thorax.
+R
+FIGURE 10-41
+Lateral view of the ferret thorax.
+218
+ Chapter I0: Radiography of Avian and Exotic Anirmals
+Ventrodorsal View of the Ferret Thorax
+Positioning:
+·Dorsal recumbency.
+* The front portion is secured with sandbags or tape to keep the trunk bilaterally symmetrical.
+*The hind limbs are extended and secured with tape.
+Centering:
+· Center on the xiphoid process.
+Collirmation:
+·Slightly cranial of the thoracic inlet and slightly caudal of the dorsal aspect of the last rib.
+Labeling:
+R marker is placed above the shoulders.
+Technique:
+·Measure at the last rib.
+Handbook of Radiographic Positioning for Veterinary Technicians
+219
+FIGURE 10-42
+ Proper positioning for ventrodorsal view of the ferret thorax.
+FIGURE 10-43
+Ventrodorsal view of the ferret thorax.
+220
+Chapter IO: Radiography of Avian and Exotic Animals
+Lateral Whole Body View of the Ferret
+Positioning:
+·Right lateral recumbency.
+· Forelimbs are extended cranially and hindlimbs caudally; secure with tape.
+● Sternum should be parallel to the cassette; this can be accomplished with the use of sponges.
+Centering:
+·Halfway between the dorsal aspect of the last. rib and the xiphoid process.
+Coffimation:
+*Slightly cranial of the thoracic inlet and slightly caudal of the pubis.
+Labeling:
+·R marker is placed in the inguinal region.
+Technique:
+·Measure at the last. rib.
+Handbook of Radiographic Positioning for Veterinary Technicians
+221
+FIGURE 10-44
+Proper positioning for lateral whole body view of the ferret.
+FIGURE 10-45
+Lateral whole body view of the ferret.
+222
+ Chapter IO: Radiography of Avian and Exotic Animals
+Ventrodorsal Whole Body View
+of the Ferret
+Positioning:
+* Dorsal recumbency.
+●The front portion is secured with sandbags or tape to keep the trunk bilaterally symmetrical.
+· The hind limbs are extended and secured with tape.
+Centering:
+*Halfway between the dorsal aspect. of the last rib and the xiphoid process.
+Collimation:
+Labeling:
+·R marker is placed in the inguinal region.
+Technique:
++Measure at the last rib.
+Handbook of Radiographic Positioning for Veterinary Technicians
+223
+FIGURE 10-46
+Proper positioning for ventrodorsal whole body view of the ferret.
+FIGURE 10-47
+Ventrodorsal whole body view of the ferret.
+A
+canine
+rabbit skull, 208
+radius and ulna, 54
+lower canine tooth and 
+turtle, 194
+scapula, 40
+ Abdomen
+lower premolar
+extended lateral projection of
+shoulder 36
+aua
+arcade, 142
+carpus, 62
+skull, 110
+lateral view, 212-213
+lower incisor arcade, 141
+extended lateral projection
+stifle, 82
+VD view 214215
+lower molars, 144
+of tarsus. 94
+tarsus, 90
+lateral projection, 20-21
+lower premolar arcade, 143 
+feline
+thoracic spine, 162
+rabbit, DV view 200-201
+upper canine tooth, 138
+lower canine tooth, 149
+thoracolumbar spine, 166
+radiographs, 19-23
+upper fourth premolars and
+lower incisor arcade, 148 
+thorax, 10
+VD prajection, 22
+molars, 140
+lower premolars and molar
+tibia, 86
+ Avian patient
+upper incisor arcade, 137
+arcade, 150
+lateral view
+lateral view, 184-185
+upper premolars, 139
+upper canine tooth, 146 
+avian patient, 184
+radiography 181-223
+CdCr prajection
+upper incisor arcade,
+145
+ferret abdomen, 212
+VD view. 186-187
+humerus, 42
+upper premolars and
+ferret thorax, 216
+scapula, 38
+molar; 147
+with horizontal beam,
+B
+shoulder 34
+flexed lateral projection
+lizard, 192
+stifle, 80
+carpus, 60
+with horizontal beam,
+ Beanbags. 4 
+tibia and fibula, 84
+elbow. 50
+turtle, 196
+closed mouth prajection of
+tarsus, 92
+lizard, 190
+C
+rostrocaudal sinuses, 116
+lateral and medial oblique
+rabbit abdomen, 198
+ CrCd projection 
+ projections of carpus, 64 
+rabbit skull, 206
+Caliper 7
+elbow, 46 
+lateral extended projection of 
+rabbit thorax, 202
+ Canine lower canine tooth
+femur; 78
+cervical spine, 156 
+whole body ferret, 220
+and lower premolar
+radius and ulna, 52
+lateral flexed projection of
+rostrocaudal open mouth 
+arcade, 142
+dorsolateral/plantaromedial
+cervical spine, 158
+ projection of tympanic
+Canine lower incisor arcade, |41
+oblique projection of 
+lateral oblique projection of
+bullae, 122
+ Canine lower molars, 144 
+tarsus, 96
+ temporomandibular
+rostrocaudal projection of
+ Canine lower premolar
+dorsomedial/plantarolaterall
+joint, 130
+foramen magnum, 1I18 
+arcade, 143
+ oblique projection of 
+lateral oblique projection of
+ standing lateral prajection of
+Canine upper canine tooth, 138
+tarsus, 98
+tympanic bullae, 128 
+thorax with horizontal
+ Canine upper fourth premolars 
+ dorsopalmar projection
+lateral oblique view of rabbit
+beam, 16
+and molars, 140
+carpus, 56
+skull, 210
+VD-extended hip
+ Canine upper incisor
+digits, 70
+lateral projection 
+ projection, 26
+arcade, 137
+metacarpals, 66
+abdomen, 20
+VD projection
+ Canine upper premolars, 139 
+dorsoplantar projection,
+carpus, 58
+abdomen, 22
+Carpus
+metatarsus, 100
+ cervical spine, 154 
+cervical spine, 152
+ dorsopalmar projection, 56-57
+Dpa prajection, digits 104 
+coccygeal (caudal)
+coccygeal (caudal)
+extended lateral projection, 
+Dpl projection, tarsus, 88
+spine, 178
+spine, 176
+62-63
+DV projection
+digits, 72, 106
+frog leg, 28 
+flexed lateral projection,
+skull, 112
+elbow, 48
+lumbar spine, 168
+60-61
+temporomandibular
+femur; 76
+lumbosacral spine, 172
+lateral and medial oblique
+joint, 132
+humerus, 44
+rostrocaudal open 
+projections, 64-65
+thorax, 14 
+lumbar spine, 170
+mouth, 120
+lateral projection, 58-59
+tympanic bullae, 126
+lumbosacral spine, 174
+skull 114
+Caudal (Cd), 3
+DV view
+metacarpals, 68
+thoracic spine, 160
+Caudocranial (CdCr). 3
+lizard, 188
+metatarsus, 102
+thoracolumbar spine, 164
+Centering, 6
+rabbit abdomen, 200
+pelvis, 30
+thorax, 12
+224
+Index
+225
+VD view
+DV view
+avian patient, 184
+Dpa projection, 104-105
+avian patient, 186
+lizard, 188
+ferret abdomen, 212
+lateral projection, 72-73,
+ferret abdomen, 214
+rabbit abdomen, 200
+ferret thorax, 216
+106-107
+ferret thorax, 218
+rabbit skull, 208
+lizard, 190
+Directional markers, 8
+rabbit thorax, 204
+turtle, 194
+rabbit abdomen, 198
+Directional terminalogy 2-4
+whole body ferret, 222
+extended lateral
+rabbit skull, 206
+Distal (Di). 3
+ Cervical spine
+projection, 94
+rabbit thorax 202
+Dorsopalmar (Dpa), 3
+lateral extended
+carpus, 62
+lateral view with horizontal
+Dorsoplantar (Dpl), 3
+projection, 156-157
+flexed lateral projection
+beam, lizard,
+192
+Dorsoventral (DV). 2
+lateral flexed projection,
+carpus, 60
+lateral view with horizontal
+158-159
+beam, turtle, 196
+E
+elbow, 50
+lateral projection, 154—155
+tarsus, 92
+lateral whole body view of
+ferret, 220
+ Elapsed time marker 8
+VD projection, 152-153
+lateral and medial oblique
+Elbow
+Chemical restraint, I
+projections of carpus, 64
+rostrocaudal open mouth 
+projection of tympanic
+CrCd projection, 46-47
+Coccygeal (caudal) spine
+lateral extended projection
+flexed lateral projection,
+lateral projection, 178-179
+of cervical spine, 156 
+bullae, 122
+rostrocaudal projection of 
+50-51
+VD projection, 176-177
+lateral flexed projection of
+ foramen magnum, 118 
+lateral projection, 48-49
+Collimation, 6
+cervical spine, 158
+ Exotic animal radiography
+CdCr prajection
+lateral oblique projection of
+ standing lateral projection of
+thorax with horizontal
+181-223
+humerus, 42
+temporomandibular
+scapula, 38
+joint, 130
+beam, 16
+VD-extended hip
+f
+shoulder 34
+lateral oblique projection of
+stifle, 80
+tympanic bullae, 128
+projection, 26
+Feline lower canine tooth, 149
+tibia and fibula, 84
+lateral oblique view of
+VD projection 
+Feline lower incisor arcade, 148
+ closed mouth projection of
+abdomen, 22
+rabbit skull, 210
+ Feline lower premolars and
+rostrocaudal sinuses, 1l6
+lateral projection 
+cervical spine, 152
+molar arcade, 150
+CrCd projection
+abdomen, 20
+coccygeal (caudal) spine, 176
+ Feline upper canine tooth, 146
+elbow, 46
+frog leg, 28
+carpus, 58
+Feline upper incisor arcade, 145
+femur 78
+cervical spine, 154
+lumbar spine, 168
+Feline upper premolars and 
+radius and ulna, 52
+coccygeal (caudal)
+lumbosacral spine, 172
+molar 147
+skull, I14
+dorsolateral/plantaromedial 
+spine, 178
+Femur
+oblique projection of
+digits, 72, 106
+thoracic spine, 160
+CrCd projection, 78-79
+tarsus, 96
+elbow. 48
+thoracolumbar spine, 164
+lateral projection, 76-77
+femur 76
+thorax, 12
+dorsomedial/plantarolateral
+Ferret
+VD rostrocaudal open mouth
+oblique projection of
+lumbar spine, 170 
+lateral view of abdomen,
+tarsus, 98
+lumbosacral spine, 174
+projection, 120
+212-213
+VD view
+dorsopalmar prajection 
+metacarpals, 68
+lateral view of thorax,
+avian patient, 186
+carpus, 56
+metatarsus, 102
+216-217
+ferret abdomen, 214
+digits, 70
+pelvis, 30
+lateral whole body view.
+metacarpals, 66
+radius and ulna, 54
+ferret thorax, 218
+220-221
+ dorsoplantar prqjection of 
+rabbit thorax, 204
+scapula, 40
+VD view of abdomen,
+whole body ferret, 222
+metatarsus, 100
+shoulder 36
+214-215
+Cranial (Cr). 3
+Dpa projection of digits, 104 
+skull, 110
+VD view of thorax, 218-219
+Craniocaudal (CrCd), 3
+Dpl projection of tarsus, 88
+stifle, 82
+VD whale body view.
+DV projection
+tarsus, 90
+D
+222-223
+skull, 112
+thoracic spine, 162
+Foam pads and wedges, 14
+ temporomandibular
+thoracolumbar spine, 166
+Dental radiographs, 135-150
+ Foramen magnum, rostrocaudal 
+joint, 132
+thorax, 10
+Digits
+projection, 118-119
+thorax, 14 
+tibia, 86
+ dorsopalmar projection,
+Forelimb radiographs, 33-73
+tympanic bullae, 126 
+lateral view
+70-71
+Frog leg projection, VD, 28-29
+226
+Index
+G
+tympanic bullae, 126
+tibia, 86
+DV view. 188-189
+DV view
+lateral view
+lateral view, 190-191
+Gravitational markers, 16
+lizard, 188
+avian patient, 184
+lateral view with horizontal
+rabbit abdomen, 200
+ferret abdomen, 212
+beam, 192-193
+H
+rabbit skull, 208
+ferret thorax, 216
+Lumbar spine 
+turtle, 194
+lizand, 190
+lateral projection,
+Hindlimb radiographs, 75-107
+extended lateral
+rabbit abdomen, 198
+170-171
+Hip projection, VD-extended, 
+prajection, 94
+rabbit skull, 206
+VD projection, 168-169
+26-27
+carpus, 62
+rabbit thorax 202
+Lumbosacral spine
+ Horizontal beam, standing
+flexed lateral projection
+lateral view with horizontal
+lateral projection, 174—175
+lateral prajection of 
+carpus, 60
+beam
+VD projection, 172-173 
+thorax, 16-17
+elbow, 50
+lizard, 192
+Humerus
+tarsus, 92
+turtle, 196
+M
+CdCr projection, 42-43
+lateral and medial oblique
+lateral whole body view of
+lateral projection, 44-45
+ Measurement, 6
+projections of carpus, 64 
+ferret, 220
+lateral extended projection
+rostrocaudal open mouth
+ Mechanical restraint, 1
+L
+of cervical spine, 156 
+ prajection of tympanic 
+Medial (M), 2
+lateral flexed projection of 
+bullae, |22
+ Metacarpals
+Labeling. 7-8 
+cervical spine, 158
+rostrocaudal projection of 
+dorsopalmar projection,
+CdCr projection
+66-67
+humerus, 42
+lateral oblique projection of
+foramen magnum, 118
+lateral prajection, 68-69
+scapula, 38
+temporomandibular
+standing lateral projection 
+ Metatarsus
+lainouss
+joint, 130
+of thorax with horizontal 
+ dorsoplantar projection,
+stifle, 80
+lateral oblique projection of
+beam, 16
+101-001
+tympanic bullae, 128 
+VD-extended hip projection,
+tibia and fibula, 84
+lateral projection, 102-103
+lateral oblique view of rabbit
+26
+closed mouth projection of
+ Mitchell marker 16
+rostrocaudal sinuses, 116
+skull, 210
+VD projection
+ CrCd projection
+lateral projection 
+abdomen, 22
+0
+elbow, 46 
+abdomen, 20
+ cervical spine, 152
+femur; 78
+carpus, 58
+coccygeal (caudal)
+Oblique (O). 4
+ CrCd prajection of radius and
+cervical spine, 154
+spine, 176
+ulna, 52
+coccygeal (caudal)
+frog leg, 28
+P
+spine, 178
+lumbar spine, 168 
+dorsolateral/plantaromedial
+ oblique prajection of 
+digits, 72, 106
+lumbosacral spine, 172
+Palmar 3
+tarsus, 96
+elbow, 48
+skull, 114
+Palmar dorsal (PaD). 3
+dorsomedial/plantarolateral
+femur; 76
+thoracic spine, 160
+ Patient preparation, 2
+oblique prajection of 
+humerus, 44
+ thoracolumbar spine,
+Pelvic radiographs, 25-31
+tarsus, 98
+lumbar spine, 170
+164
+Pelvis, lateral projection, 30-31
+dorsopalmar projection 
+lumbosacral spine, 174 
+thorax, 12
+Pantar 3
+metacarpals, 68
+VD rostrocaudal open
+carpus, 56
+Pantardorsal (PID), 3
+digits, 70
+metatarsus, 102
+mouth projection,
+Positioning
+metacarpals, 66
+pelvis, 30
+120
+canine lower canine tooth
+ dorsoplantar projection of
+radius and ulna, 54
+VD view
+and lower premolar
+metatarsus, 100
+scapula, 40
+avian patient, 186
+arcade, 142
+Dpa projection of digits, 104
+shoulder 36
+ferret abdomen, 214 
+canine lower incisor
+Dpl projection of tarsus, 88
+skull, 110
+ferret thorax, 218
+arcade, 141
+DV projection
+stifle, 82
+rabbit thorax, 204
+canine lower molars, 144
+skull, 112
+tarsus, 90
+VD whole body view of
+ canine lower premolar
+ temporomandibular
+thoracic spine, 162
+ferret, 222
+arcade, 143
+joint, 32
+thoracolumbar spine, 166
+Lateral, 3
+canine upper canine
+thorax, 14 
+thorax, 10
+Lizard 
+tooth, 138 
+Index
+227
+ canine upper fourth
+feline upper canine tooth, 146 
+rabbit abdomen, 198
+lateral view of abdomen,
+ premolars and molars,
+feline upper incisor arcade, 145 
+rabbit skull, 206
+198-199
+140
+feline upper premolars and
+rabbit thorax, 202
+lateral view of skull, 206-207
+canine upper incisor
+molar 147
+lateral view with horizontal
+lateral view of thorax, 202-203
+arcade, 137
+flexed lateral projection
+beam
+VD view of thorax, 204-205
+ canine upper premolars, 139
+carpus, 60
+lizard, 192
+Radiographic positioning. 5-8 
+ CdCr projection 
+elbow. 50
+turte, 196
+eun pue snipey 
+humerus, 42
+tarsus, 92
+lateral whole body view of
+CrCd projection, 52-53
+scapula, 38
+lateral and medial oblique
+ferret, 220
+lateral projection, 54-55
+shoulder 34
+ prajections of carpus, 64
+rostrocaudal open mouth 
+ Restraint, avian and exotic
+stifle, 80
+lateral extended projection
+projection of tympanic
+animals, 182-183
+tibia and fibula, 84
+of cervical spine, 156
+bullae, 122
+Rostral, 3
+closed mouth projection of
+lateral flexed projection of 
+rostrocaudal projection of
+ Rostrocaudal nasal, VD open 
+rostrocaudal sinuses, 116
+cervical spine, 158
+foramen magnum, 118
+mouth projection, 120-121
+CrCd projection 
+lateral oblique projection
+standing lateral projection of
+ Rostrocaudal sinuses, closed
+elbow. 46
+ temporomandibular
+thorax with horizontall
+mouth projection, 116—117
+femur 78
+joint, 130
+beam, 16
+radius and ulna, 52
+VD-extended hip
+S
+tympanic bullae, 128
+dorsolateral/plantaromedial
+lateral oblique view of rabbit
+prajection, 26 
+VD projection
+ Sandbags. 4 
+oblique projection of
+skull, 210
+abdomen, 22
+Scapula.
+tarsus, 96
+lateral projection
+cervical spine, 152
+CdCr projection, 38-39
+dorsomedial/plantarolateral
+abdomen, 20
+coccygeal (caudal)
+lateral projection, 40-41
+oblique projection of
+carpus, 58
+spine, 176
+Shoulder
+tarsus, 98
+cervical spine, 154
+frog leg. 28 
+CdCr projection, 34-35
+dorsopalmar projection 
+coccygeal (caudal)
+lumbar spine, 168
+lateral projection, 36-37
+carpus, 56
+spine, 178
+lumbosacral spine, 172
+Skull
+digits, 70
+digits, 72, 106
+skull, 114
+DV projection, 112-113
+metacarpals, 66
+elbow. 48
+lateral projection, I10-II1
+dorsoplantar projection 
+femur 76
+thoracic spine, 160
+thoracolumbar spine, 164 
+rabbit
+metatarsus, 100
+humerus, 44
+thorax, 12
+DV view, 208-209
+Dpa projection of digits, 104 
+lumbar spine, 170 
+VD rostrocaudal open mouth
+lateral oblique view, 210-211
+Dpl projection of tarsus, 88 
+lumbosacral spine, 174
+projection, 120
+lateral view, 206-207
+DV projection
+metacarpals, 68
+VD view
+radiographs, 109-133
+skull, 112
+metatarsus, 102
+VD projection, 114-115 
+ temporomandibular
+pelvis, 30
+avian patient, 186
+ferret abdomen, 214
+Spinal radiographs, 151-179 
+joint, 132
+radius and ulna, 54
+ferret thorax, 218
+Split plate, 6
+thorax, 14
+scapula, 40
+ Standing lateral projection,
+rabbit thorax, 204
+tympanic bullae, 126 
+shoulder 36
+VD whale body view of
+thorax, 16-17
+DV view
+skull, 110
+Stifle
+ferret, 222
+lizard, 188
+stifle, 82
+Positioning aids, 4-5
+CdCr prajection, 80-81
+rabbit abdomen, 200
+tarsus, 90
+Proximal (Pr), 3
+lateral projection, 82-83
+rabbit skull, 208
+thoracic spine, 162
+turtle, 194
+thoracolumbar spine, 166
+R
+T
+extended lateral
+thorax, 10
+projection, 94
+tibia, 86
+Rabbit
+Tarsus
+carpus, 62
+lateral view
+DV view of abdomen, 
+ dorsolateral/plantaromedial
+feline lower canine tooth, 149
+avian patient, 184
+200-201
+ oblique prajection, 96-97
+feline lower incisor arcade, 148
+ferret abdomen, 212
+DV view of skull, 208-209
+dorsomedial/plantarolateral
+ feline lower premolars and
+ferret thorax, 216
+lateral oblique view of skull, 
+oblique prajection, 98-99
+molar arcade, 150
+lizard, 190 
+ 210-211
+Dpl projection, 88-89
+228
+Index
+extended lateral projection,
+carpus, 62
+ferret abdomen, 212
+DV projection, 132-133
+94-95
+flexed lateral projection
+ferret thorax, 216
+lateral oblique projection,
+flexed lateral prajection, 92-93
+carpus, 60
+lizard, 190
+lateral projection, 90-91 
+elbow, 50
+rabbit abdomen, 198
+Thoracic radiographs, 9-17
+Technique
+tarsus, 92
+rabbit skull, 206 
+Thoracic spine
+CdCr projection
+lateral extended projection of
+rabbit thorax 202
+lateral projection, 162-163
+humerus, 42
+cervical spine, 156
+lateral view with horizontal
+VD projection, 160-161
+scapula. 38
+lateral flexed projection of
+beam
+Thoracolumbar spine
+shoulder: 34
+cervical spine, 158
+lizard, 192
+lateral projection, 166-167
+stifle, 80
+lateral oblique projection of 
+turtle， 196
+VD prajection, 164-165 
+tibia and fibula, 84
+temporomandibular
+lateral whole body view of
+Thorax
+closed mouth projection of 
+joint, 130
+ferret, 220
+DV projection, 14-15 
+rostrocaudal sinuses, 1l6
+lateral oblique projection of
+rostrocaudal open mouth
+ferret
+CrCd projection 
+tympanic bullae, 128
+projection of tympanic
+lateral view, 216217
+elbow. 46 
+lateral oblique view of rabbit
+bullae, 122
+VD view 218-219
+femur 78
+skull, 210
+rostrocaudal projection of
+lateral projection, I0—1I
+radius and ulna, 52
+lateral projection
+rabbit
+dorsolateral/plantaromedial
+abdomen, 20
+ standing lateral projection of
+lateral view 202-203
+ oblique projection of 
+cervical spine, 154
+ thorax with horizontal
+VD view, 204-205
+tarsus, 96
+coccygeal (caudal)
+beam, 16
+ standing lateral projection
+dorsomedial/plantarolateral
+spine, 178
+VD projection
+with horizontal beam, 
+ oblique projection of 
+digits, 72, 106
+abdomen, 22
+16-17
+tarsus, 98
+elbow, 48
+cervical spine, 152
+VD projection, 12-13
+dorsopalmar projection 
+femur; 76
+coccygeal (caudal)
+Tibia, lateral projection, 86-87
+carpus, 56
+humerus, 44
+spine, 176
+Tibia and fibula, CdCr projection,
+digits, 70
+lumbar spine, 170
+frog leg, 28
+84-85
+metacarpals, 66
+lumbosacral spine, 174
+lumbar spine, 168
+Troughs, 4-5
+dorsoplantar projection of
+metacarpals, 68
+lumbosacral spine, 172
+Turtle
+metatarsus, 100
+metatarsus, 102
+skull, 114
+DV view 194195
+Dpa projection of digits, 104
+pelvis, 30
+thoracic spine, 160
+lateral view with horizontal 
+Dpl projection of tarsus, 88
+radius and ulna, 54
+thoracolumbar spine, 164
+beam, 196-197
+DV projection
+scapula, 40
+thorax 12
+Tympanic bullae
+skull, 112
+shoulder 36
+VD rostrocaudal open mouth
+DV projection, 126-127
+temporomandibular joint, 132 
+skull, 110
+projection, 120
+lateral oblique prajection.
+thorax, 14 
+stifle, 82
+VD view
+128-1 29
+tympanic bullae, 126
+tarsus, 90
+avian patient, 186
+ rostrocaudal open mouth 
+DV view
+thoracic spine, 162
+ferret abdomen, 214
+projection, 122-124
+lizard, 188
+thoracolumbar spine, 166
+ferret thorax, 218
+rabbit abdomen, 200
+thorax, 10
+rabbit thorax, 204
+rabbit skull, 208 
+tibia, 86
+VD whole body view of
+turtle, 194
+lateral view
+ferret, 222
+Ventrodorsal (VD). 2
+extended lateral projection, 94
+ avian patient, 184
+Temporomandibular joint 
+V-trough, 4 
+IMPORTANT! READ CAREFULLY: This End User
+to some or all of the Licensed Content, in the
+License Agreement ("Agreement") sets forth the condi-
+ event that the End User does not comply with any
+tions by which Cengage Learning will make electronic
+ of the terms and conditions of this Agreement. In
+access to the Cengage Learning-owned licensed content.
+the event of such termination by Cengage Learn-
+and associated media, software, documentation, print-
+ing, the End User shall immediately return any
+ed materials, and electronic documentation contained
+and all copies of the Licensed Content. to Cengage
+in this package and/or made available to you via this
+Learning.
+product (the "Licensed Content"), available to you (the
+"End User"). BY CLICKING THE “I ACCEPT" BUT-
+3.0
+PROPRIETARY RIGHTS
+TON AND/OR OPENING THIS PACKAGE, YOU AC-
+3.1
+ The End User acknowledges that Cengage Learn-
+ ing owns all rights, title and interest, including.
+TERMS AND CONDITIONS, AND THAT YOU AGREE
+ but not limited to all copyright rights therein, in
+TO BE BOUND BY ITS TERMS, CONDITIONS, AND
+and to the Licensed Content, and that the End
+ALL APPLICABLE LAWS AND REGULATIONS GOV
+User shall not take any action inconsistent. with
+ERNING THE USE OF THE LICENSED CONTENT.
+such ownership. The Licensed Content is pro-
+e o p    pa
+1.0 SCOPE OF LICENSE
+ copyright laws and by international treaties, in-
+1.1
+Licensed Content. The Licensed Content may
+cluding the Berne Convention and the Universal
+contain portions of modifiable content ("Modi-
+Copyright Convention. Nothing contained in this
+fiable Content") and content which may not be
+Agreement shall be construed as granting the End
+modified or otherwise altered by the End User
+User any ownership rights in or to the Licensed
+("Non-Modifiable Content"). For purposes of
+Content.
+this Agreement, Modifiable Content and Non-
+3.2
+Cengage Learning reserves the right at any
+Modifiable Content may be collectively referred
+time to withdraw from the Licensed Content
+to herein as the "Licensed Content." All Licensed
+any item or part of an item for which it no lon-
+Content. shall be considered Non-Modifiable
+ger retains the right to publish, or which it has
+Content, unless such Licensed Content is pre-
+reasonable grounds to believe infringes copy-
+sented to the End User in a modifiable format.
+right or is defamatory, unlawful, or otherwise
+and it is clearly indicated that modification of the
+objectionable.
+Licensed Content is permitted.
+1.2
+2 Subject to the End User's compliance with the
+4.01
+ PROTECTION AND SECURITY
+terms and conditions of this Agreement, Cengage
+4.1
+The End User shall use its best efforts and take
+Learning hereby grants the End User, a nontrans
+all reasonable steps to safeguard its copy of
+ferable, nonexclusive, limited right to access and
+the Licensed Content to ensure that no unau-
+view a single copy of the Licensed Content on a sin-
+thorized reproduction, publication, disclosure,
+gle personal computer system for noncommercial,
+modification, or distribution of the Licensed
+internal, personal use only. The End User shall not.
+Content, in whole or in part, is made. To the
+(i) reproduce, copy, modify (except in the case of
+extent that the End User becomes aware of any
+Modifiable Content), distribute, display, transfer,
+such unauthorized use of the Licensed Content,
+sublicense, prepare derivative work(s) based on,
+the End User shall immediately notify Cengage
+sell, exchange, barter or transfer, rent, lease, loan,
+Learning. Notification of such violations may be
+resell, or in any other manner exploit the Licensed
+made by sending an e-mail to infringement@
+Content; (ii) remove, obscure, or alter any notice
+cengage.com.
+of Cengage Learning's intellectual property rights
+ present on or in the Licensed Content, including.
+5.0
+MISUSE OF THE LICENSED PRODUCT
+but not limited to, copyright, trademark, and/or
+5.1
+In the event that the End User uses the Licensed
+patent notices; or (i) disassemble, decompile,
+Content in violation of this Agreement, Cengage
+translate, reverse engineer, or otherwise reduce
+Learning shall have the option of electing liqui-
+the Licensed Content.
+dated damages, which shall include all profits
+ generated by the End User's use of the Licensed
+2.0 TERMINATION
+Content plus interest computed at the maximum
+2.1
+Cengage Learning may at any time (without preju-
+a e saa  le pe ae a pad ai
+dice to its other rights or remedies) immediately
+-   a a a sasaa
+terminate this Agreement and/or suspend access
+forcing its rights, plus penalties.
+6.0
+FEDERAL GOVERNMENT CLIENTS
+Content, and may permit the End User to access
+6.1
+ Except as expressly authorized by Cengage Learn-
+and use, subject to the terms and conditions of
+ing, Federal Government clients obtain only the
+this Agreement, such modifications, upon pay-
+ ment of prices as may be established by Cengage
+rights specified in this Agreement and no other
+rights. The Government acknowledges that (i) all
+Learning.
+software and related documen tation incorporated
+8.3
+ No Export. The End User shall use the Licensed
+in the Licensed Content is existing commercial
+Content solely in the United States and shall
+computer software within the meaning of FAR
+not transfer or export, directly or indirectly, the
+27.405(b) (2); and (2) all other data delivered in
+Licensed Content outside the United States.
+whatever form, is limited rights data within the
+8.4
+ Severability. If any provision of this Agreement is
+ meaning of FAR 27.401. The restrictions in this
+-d e    'a a
+section are acceptable as consistent with the Gov-
+plicable statute or rule of law, the provision shall
+ernment's need for software and other data under
+be deemed omitted to the extent that it is invalid,
+this Agreement.
+illegal, or unenforceable. In such a case, the re-
+DISCLAIMER OF WARRANTIES
+mainder of the Agreement shall be construed in
+7.0
+AND LIABILITIES
+a manner as to give greatest effect to the original
+intention of the parties hereto.
+7.1
+ Although Cengage Learning believes the Licensed
+8.5
+Waiver. The waiver of any right or failure of ei-
+Content to be reliable, Cengage Learning does not
+ther party to exercise in any respect any right.
+guarantee or warrant. (i) any information or materi-
+als contained in or produced by the Licensed Con-
+tent, (i) the accuracy, completeness or reliability
+not be deemed to be a waiver of such right in the
+future or a waiver of any other right under this
+of the Licensed Content, or (iii) that the Licensed
+Content is free from errors or other material de-
+Agreement.
+fects. THE LICENSED PRODUCT IS PROVIDED
+8.6
+Choice of Law/Venue. This Agreement shall be in-
+"AS IS," WITHOUT ANY WARRANTY OF ANY
+terpreted, construed, and governed by and in ac-
+KIND AND CENGAGE LEARNING DISCLAIMS
+cordance with the laws of the State of New York,
+ANY AND ALL WARRANTIES, EXPRESSED OR
+applicable to contracts executed and to be wholly
+IMPLIED, INCLUDING, WITHOUT LIMITA-
+preformed therein, without regard to its principles
+TION, WARRANTIES OF MERCHANTABILITY
+governing conflicts of law. Each party agrees that any
+OR FITNESS FOR A PARTICULAR PURPOSE.
+ proceeding arising out. of or relating to this Agree-
+IN NO EVENT SHALL CENGAGE LEARNING BE
+ment or the breach or threatened breach of this
+LIABLE FOR: INDIRECT, SPECIAL, PUNITIVE
+Agreement may be commenced and prosecuted in a
+OR CONSEQUENTIAL DAMAGES INCLUDING
+court in the State and County of New York. Each par-
+FOR LOST PROFITS, LOST DATA, OR OTH-
+ty consents and submits to the nonexclusive personal
+ERWISE. IN NO EVENT SHALL CENGAGE
+jurisdiction of any court in the State and County of
+LEARNING'S AGGREGATE LIABILITY HERE
+New York in respect of any such proceeding.
+UNDER, WHETHER ARISING IN CONTRACT,
+8.7
+Acknowledgment. By opening this package and/or
+TORT, STRICT LIABILITY OR OTHERWISE,
+by accessing the Licensed Content on this Web
+EXCEED THE AMOUNT OF FEES PAID BYTHE
+site, THE END USER ACKNOWLEDGES THAT
+END USER HEREUNDER FOR THE LICENSE
+IT HAS READ THIS AGREEMENT, UNDER-
+OF THE LICENSED CONTENT.
+STANDS IT, AND AGREES TO BE BOUND
+BY ITS TERMS AND CONDITIONS. IF YOU
+8.0
+GENERAL
+DO NOT ACCEPT THESE TERMS AND CON-
+8.1
+Entire Agreement. This Agreement. shall constitute
+DITIONS, YOU MUST NOT ACCESS THE
+the entire Agreement between the Parties and
+LICENSED CONTENT AND RETURN THE
+supercedes all prior Agreements and understand-
+LICENSED PRODUCT TO CENGAGE LEARN-
+ ings oral or written relating to the subject matter
+ING (WITHIN 30 CALENDAR DAYS OF THE
+hereof.
+END USER'S PURCHASE) WITH PROOF OF
+8.2Enhancements/Modifications of Licensed Content.
+PAYMENT ACCEPTABLE TOCENGAGE LEARN-
+From time to time, and in Cengage Learning's
+ING, FOR A CREDIT OR A REFUND. Should
+sole discretion, Cengage Learning may advise
+the End User have any questions/comments re-
+the End User of updates, upgrades, enhance-
+garding this Agreement, please contact Cengage
+ments and/or improvements to the Licensed
+Learning at Delmar.help@cengage.com.
+System Requirements for: Back of Book (BOB) Flash
+· An Internet connection, Firefox 2 or Safari 3 for
+Shell CD/DVD-ROMs
+In ternet based content.
+Minimum System Requirements:
+PC Setup Instructions:
+ 1. Insert disc into CD-ROM drive. The program should
+PC:
+start automatically. If it does not, go to step 2.
+· Operating System: Windows 2000 w/ SP4, XP w/ SP2,
+2. From My Computer, double-click the icon for the
+Vista
+CD drive.
+· Hard Drive space: 200MB
+ 3. Double-click the start.exefile to start the program.
+· Screen resolution: 1024 x 768 pixels
+Mac Setup Instructions
+· 8x CD-ROM or DVD-ROM drive
+1. Insert disc into CD-ROM drive. The Cengage icon
+· Sound card and listening device required for audio
+pnous mopum e pue donsap inok uo dn dod 1m
+features
+pop up with a file called start. If it. does not, go to
+· An Internet. connection, Firefox 2 or Internet Explorer
+step 3.
+6 & 7 for Internet. based content.
+ 2. Double-click the start file, to start. the program.
+· Microsoff Word is required to edit. the Instructor's
+3. Click on the Cengage icon on your desktop. Go to
+Manual and Microsoff. PowerPoint is required to
+Step 2.
+edit the presentations
+Technical Support:
+Mac:
+Telephone: 1-800-648-7450
+8:30 AM - 6:30 PM Eastern Time
+● Operating System: Mac OS X 10.4 and 10.5
+E-mail: delmar.help@cengage.com
+●Microsoft Office? 2004 or greater (for viewing files)
+· Hard Drive space: 200 MB
+Microsoff, Microsoft Office, Microsoft PowerPoint,
+● Minimum Screen resolution: 1024 x 768 pixels
+Microsoft Word, Windows, Windows Xp and Windows
+· 8x CD-ROM or DVD-ROM drive
+Vista? are trademarks of the Microsoft Corporation.
+● Sound card and listening device required for audio
+Mac and Mac Os X are trademarks of Apple Inc., reg-
+features
+istered in the U.S. and other countries.

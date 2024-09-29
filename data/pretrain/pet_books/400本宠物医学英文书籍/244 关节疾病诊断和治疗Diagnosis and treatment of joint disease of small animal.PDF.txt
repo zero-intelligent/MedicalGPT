@@ -1,0 +1,765 @@
+Diagnosis
+and treatment
+of joint diseases
+of small animals
+Masahiro Okumura
+Virbac
+ANIMAL HEALTH
+Diagnosis
+and treatment
+of joint diseases
+of small animals
+Masahiro Okumura
+LaboratoryofVeterinarySurgery
+DepartmentofVeterinaryClinicalScience
+GraduateSchoolofVeterinaryMedicine
+HokkaidoUniversity
+Contents
+Introduction
+5
+2
+Structure and Function of Joints
+3
+ Joint diseases of animals and Diagnosis
+11
+JointDiseasesofAnimals
+12
+Diagnosis of Joint Diseases
+13
+ 1 - General physical examination
+13
+2-Examination oflameness
+14
+ 3 - Orthopedic evaluation
+14
+ 4 - Diagnostic imaging
+16
+X-ray examination
+17
+Arthroscopy
+18
+Tomographic Imaging (X-ray CT, MRI, Ultrasonography, or others)
+19
+5 - Tests on the synovial fluid
+20
+Appearance
+21
+Cytological analysis
+21
+Protein content
+21
+Bacteriologic culture test
+21
+4
+Treatment of Joint Diseases
+23
+1 - Conservative therapy
+24
+Non-drug conservative therapy
+24
+Drug therapy
+24
+Purposes
+24
+Control of pain
+24
+- Control of joint inflammation
+25
+Correction of degraded joint structure
+25
+-Modification of cartilage matrix metabolism
+25
+Practical aspects of drug therapy
+25
+-Steroids and non-steroidal anti-inflammatory drugs
+25
+Disease-Modifying OsteoarthritisAgents(DMOA)
+27
+2 - Surgical treatment
+28
+Conclusion
+31
+References
+32
+Authors
+MasahiroOkumura
+DoctorofVeterinaryMedicine,PhD(HokkaidoUniversity)
+Brief academic and professional particulars:
+March1990 GraduatedfromSchool ofVeterinaryMedicine,Hokkaido University
+April1990JoinedadoctoratecourseatGraduateSchool ofVeterinaryMedicine,HokkaidoUniversity
+August1990-July1992Tookleaves of absencefromGraduateSchool towork aslecturer ofparaclinical studies
+at School of Veterinary Medicine,Zambia University.
+September1993Left GraduateSchool ofVeterinaryMedicine,HokkaidoUniversity.
+October1993Joined asAssistantProfessorin theLaboratory ofVeterinarySurgery,
+School ofVeterinaryMedicine,HokkaidoUniversity.
+April1995Joined theGraduateSchoolofVeterinaryMedicine asAssistantProfessor,Hokkaido
+University;still holding this position currently.
+December 2000 Obtained doctorate inVeterinaryMedicine(PhD)fromHokkaidoUniversity
+Toru Fujinaga
+Doctor ofVeterinaryMedicine
+Brief academic and professional particulars:
+1968GraduatedfromSchool ofVeterinaryMedicine,HokkaidoUniversity
+1970Completed theMasterscourse atGraduateSchool ofVeterinaryMedicine,
+Hokkaido University.
+1970JoinedAnimal Clinic,Federation of HokkaidoAgricultural Mutual AidAssociations
+(Hokkaido NOSAI).
+1975JoinedSchool of VeterinaryMedicine,HokkaidoUniversity,asResearchFellow.
+1976 Joined theNational Institute of Animal Health,Ministry ofAgriculture,Forestry
+and Fisheries
+1985 Joined in the Department of Surgery as Associate Professor, School of Veterinary
+Medicine,HokkaidoUniversity.
+1990 Joined in the Department of Surgery asProfessor, School of Veterinary Medicine,
+Hokkaido University.
+1995Joined Laboratory ofVeterinarySurgery asProfessor,theDepartment ofVeterinary
+Clinical Science,GraduateSchool ofVeterinaryMedicine,HokkaidoUniversity.
+Thisbookletispublishedwith thesupportfromVirbacSA.
+Introduction
+Today, small animal clinicians encountes dogs and cats
+suffering from joint diseases more frequently than before.
+This is due to the increase in life expectancy of the animals
+and the current trend of people having medium to large
+breeds of dogs, which are more likely to develop joint
+disorders, as pets. Quite often veterinarians find it difficult
+to accurately diagnose and treat joint diseases because of
+the particular functional characteristics of joints.
+In this article, the outline of the methods of diagnosing and
+treating joint diseases of small animals are described.
+5
+Structure
+and function
+of joints
+Structureandfunctionofjoints
+Structure and function of joints
+The joints of the limbs are regarded as synovial joints with a synovial membrane, nor-
+mally containing synovial fluid (joint fluid). The opposing epiphyses of the bones that
+form joints are connected together by a connective tissue membrane. Its outer layer is the
+joint capsule,with a tough ligament-like structure,which is continuous with the perios-
+teum. The inner layer of the capsule is the synovial membrane, which secretes and meta-
+bolizes the synovial fluid that fills the articular cavity. The synovial membrane also
+controls the cartilage matrix metabolism through synovial chemical mediators. Hyaline
+cartilage covers the articular surfaces of the bones that constitute the joints. In addition,
+menisci (articular discs) made of fibrocartilage are present between articular surfaces of
+the facing epiphyses in some joints, such as knee joints (Fig. 1).
+Fig.1 -Structure of a joint
+Joint capsule
+Articular
+Perioste
+Sthedition,IgakuSh
+Articular cartilage consists of cartilage cells and a large amount of cartilage matrices pro-
+duced from the cells. It does not have blood vessels, nerves or lymphatic tissues. Nutrients
+are transferred through the synovial fluid. About 80% of the cartilage matrix is water, and
+the rest of it consists of collagen(12%), proteoglycan(2%), and other substances. The bio-
+chemicalcharacteristicsofthecartilagematrixhaveanimportantroleinabsorbingthe
+impact of shock in the joint and its lubrication system. The cartilage matrix comprises
+elastic tissue having a collagen skeleton and proteoglycan that controls the water content.
+Proteoglycans have an unique structure in which a number of monomers are bound to hya-
+luronic acid chains (Fig.2).
+8
+Structureandfunctionofjoints
+Fig.2-Structureofthecartilagematrix
+1.TypeIlcollagenfibre
+2.Hyaluronic acid
+3.Decholin core
+4.Dermatansulphate
+5.G1 domain
+6.Chondroitin sulphate
+7.G3domain
+8.Chondroitinsulphate
+9.Keratan slphate
+10.G2domain
+11.Link protein
+12. Type IX collagen
+rce:Reference3
+Mcllwraith, C.W,Trotter G.W.
+(1996):Joint disease in the horse.
+W.B.Saunders,Philadelphia,USA.
+Theproteoglycanmonomershaveabrush-likestructureinwhichanumber ofchondroi-
+tin sulphate chains, which are the main components, and keratan sulphate chains are
+connected toprotein,which connected to thehyaluronicacidchain(Fig.3).
+Thematrix ismetabolized and controlled by the cartilage cells and thebalance between
+itsanabolismandcatabolismisbeingmaintainedinhealthyjoints.
+Fig.3-Proteoglycan monomer
+In animals having joint disease,the homeostasis of cartilage matrixmetabolism breaks
+down,and the characteristics of thematrix arebeinglost,causing lowering of viscoelas-
+ticity and loss of the lowfriction characteristics of articular cartilage,eventuallyleading
+to degenerative diseases such as osteoarthritis (OA), or degenerative joint disease
+(DJD).
+10
+Joint diseases
+of animals
+and Diagnosis
+JointdiseasesofanimalsandDiagnosis
+Jointdiseasesofanimals
+Joint diseases of small animals can be, based on their causes, classified into two catego-
+ries; inflammatory diseases and non-inflammatory diseases.
+.The causes of inflammatory joint diseases are very varied:
+>Immune-mediated factors,
+>Microbial infection,
+>secondaryeffectsoftrauma.
+Currently, more than 300 such causes have been listed in the medical literature.
+Non-inflammatoryjoint diseasesinclude disorders such as:
+osteoarthritis, osteoarthritis caused by the degeneration with age of joint
+structures, such as cartilage,
+-osteoarticulardysplasia thatoccurs duringthegrowthphase,such asdyspla-
+sia of hips.
+Although no proper epidemiological survey has been carried out in Japan, joint disorders
+caused by osteoarticular dysplasia during the growth phase are found in large-sized cani-
+ne breeds such as Retrievers or others. On the other hand, joint diseases caused by ageing
+affect most canine breeds and are particularly common in Shetland Sheep dogs.
+12
+JointdiseasesofanimalsandDiagnosis
+Diagnosis of joint diseases
+Jointdiseases arediagnosedwiththehelpof
+1) general physical examination,
+2) examination of lameness,
+3) orthopaedic evaluation,
+4) examination of the synovial fluid,
+ 5) diagnostic imaging.
+1 - General Physical Examination
+Thefirststepindiagnosisistointerviewtheowner toobtainarecordofthehistoryofthe
+animal’s disease.Age, sex,breed (for signalment) and vaccination history form the basic
+data.Inaddition,informationonthehomeenvironmentandthereasonsforwhytheani-
+mal is being kept are to be collected. The final objective of the therapy differs depending
+on whether the animal is kept as a pet, as a working dog, for exhibition, or for racing.
+Table1-Pointstobekeptinmindwhileinterviewingtheowner
+fordiagnosingjointdiseases
+1.Differentiate thepetowner'sopinions about theconditions theirpet isin from the ones
+given from an objectiveperspective.
+2.Onset of the disease:Was it sudden or gradual?
+3.Theperiod forwhich theanimal hasbeen sufferingfrom theproblemand theprogress
+ofthedisease.
+4. If the symptoms appear intermittently,when do they appear and are they cyclic?
+5.Movementof theanimal:Isit autonomous?Doestheanimalmovetogetherwith
+other animals? What is theextent ofmovement?
+Afterinterviewing theowner,carryouta medicalcheck,anexaminationof thegait,
+andneurological tests on theanimal.
+Thehistoryoftheanimalandtheperiodspentwiththecurrentowneralsoconstitute
+important data.If the animal grewwith the present owner from birth,it may be possible
+tofindouttheconditionofitssiblings.Inthecaseofanimalsrequiredtoperformcertain
+kinds of work or participate in races, the disease may be related to changes in rearing
+environment.
+Informationaboutthecurrentdiseaseshouldthenbecollectedfromtheowner.
+Information provided by the owner would become very useful in diagnosis if an abnor-
+mal gait is themain complaint, and especiallywhen there is intermittent lameness or if
+theextentoflamenesschanges.ThepointsmentionedinTable1should bekeptinmind
+whileinterviewingtheowner.
+13
+Joint diseases of animals andDiagnosis
+2 -Examination of Lameness
+While examining animals for lameness, it is important to determine whether the cause
+lies in the musculoskeletal system,nervous system,or elsewhere.
+For inspecting the mode of lameness, firstly, examine the attitude of the legs.
+Secondly, while observing the animal, have the animal walk towards you, and also have
+the walk away from you.
+Have the animal walk slowly, trot, run and jump.
+In some cases, it may take some time for the lameness to appear.
+The major points to be observed are the strides of each foot and whether all joints are
+moving normally under loading.
+3-OrthopaedicEvaluation
+Orthopaedic examination is undertaken if the cause of the lameness is suspected to be in
+the musculoskeletal system. In orthopaedic examination, the first step is to understand
+the data collected by questioning the owner. It is also necessary to take the diseases that
+are most frequent in animals of that age, sex and breed into account. Observing the gait
+of the animal as explained above and its posture while standing also form part of ortho-
+paedic evaluation.
+Have the animal stand still and check whether there is any muscle atrophy in the legs.
+Also,check muscle reactions,and whether the animal feels pain along the spine at the neck
+or the back, and whether there is any fibrosis around any joints.
+Secondly, palpate to identify joints, bones, ligaments and tendons that have pain, swel-
+ling or instability (Table 2).
+Table2Pointstobekeptinmind duringpalpationfordiagnosisof joint diseases
+1.Is there any anatomical abnormality or displacement (luxation or subluxation)
+2. When does the animal show signs of pain?
+3. Is there any restriction in the range of motion of any leg or joint?
+4.Is there any crepitus?
+5.Whatis thecondition of thesoft tissues thatsupport the joints,such asthecollateral,
+dorsal,palmarandcruciateligaments ofeach joint?
+If the animal limps, palpate all the legs in the distal to proximal direction, and then, exa-
+mine presences of pain, joint mobility, and the extent of swelling in order to identify the
+abnormal part. If a joint has some disorder, there may be swelling because of an increase
+in the amount of synovial fluid. This can be determined by pressing on the joint (Fig.4).
+No sedative or analgesic should be given until this stage is completed because the ani-
+mal's reactions need tobe observed.
+14
+JointdiseasesofanimalsandDiagnosis
+Fig.4-1
+Fig.4-2
+Fig.4-3
+Palpationof theelbowjoint
+Palpationof theknee
+Palpationofthehip
+joint
+joint
+Next, carry out biodynamic tests on the joint afterimmobilizing the animal with a sedative
+ or an anesthetic. The sedated animal will not show any signs pain, therefore, it is necessary
+to identify the abnormal joint before sedating the animal.
+The stability of the joint is examined by manipulation:
+>to elicit the cranial drawer sign in case of anterior cruciate ligament rupture of the
+knee joint (Fig. 5),
+> the Ortolani sign (Fig. 6) used for evaluating stability of hip joints having dysplasia,
+>theBardensigncanbedetected.
+Fig.5-Detectionof
+Fig. 6 - Detection of the Ortolani sign
+thedrawersign
+B
+BookReference4.Whittick.W.G.
+Source:Reference4.Whittick,W.G.(1990):Canine Orthopedics.Lea&Febiger,
+Philadelphia,USA.
+USA.
+Asidefromexaminingthestabilityofthejoint,onehastoalsodeterminewhetherthejoint
+has crepitus.This is an important clue in diagnosinginstability or damage of the joint struc-
+ture, such as intra-articular fracture, or arthrophyte (a joint mouse).
+15
+JointdiseasesofanimalsandDiagnosis
+4 -Diagnostic Imaging
+Imagingcanbe animportant auxiliarytechniquein diagnosingjoint diseases.Simplex-
+ray examination, arthroscopy, x-ray CT, MRI, or ultrasonography can be used for dia-
+gnostic imaging. However,we have tokeep in mind that in the case of joint diseases the
+images obtained in this manner do not always show the current problem only.Therefore,
+it is necessary to balance the images obtained through the history with the findings of the
+physicalexamination,andtheresultsoforthopaedicevaluation.
+Fig.7-1-Changesinjoint structurecausedbyjointdisease
+Increased
+intramedullary
+Bone
+pressure
+Distended
+Periosteum
+periosteum
+Medullary
+Remodeledsub-
+cavity
+Collateral
+ligament
+Physical/biochemi-
+cal capsulitis
+Joint
+capsule
+Osteophyte
+Subchondral
+bone
+Erosion/ulceratior
+Articular
+ofcartilage
+Articular
+cartilage
+Source:Reference3
+Mcllwraith,C.W,Trotter,G.W.(1996):
+Jointdiseaseinthehorse.,W.B.Saunders,
+Philadelphia,USA.
+Fig.7-2-OAofelbow joint
+Fig.7-3-OAofelbow joint
+(fragmentedmedialcoronoidprocessofulna)
+(remodelingofthesubchondral bone)
+Reference4
+Whittick,WG.(1990):CanineOrhopedis.
+Lea&Febiger,Philadelphia,USA.
+16
+JointdiseasesofanimalsandDiagnosis
+Fig.7-4-0Aof hip joint
+Fig. 7-5 - OA of knee joint
+tedinthe
+Source:RefreneWhittckWG.(1990:CaieOrpedis,andFebigerPhiladhiaUA
+1 -Radiographicexamination
+Radiographic examination is the most widely used and important confirmatory diagnostic
+testforvariousdiseases.
+Radiography can be used to :
+-evaluate the state of the bones in the joint,
+detect calcification (osteophyte, enthesophyte, or others) around the joint,
+indirectlyestimatetheamountofsynovialfluid(byobservingtheshiftingofthejoint
+capsule and adipose tissue),
+-evaluate theswelling ofsoft tissues around thejoint(Fig.7).
+TheitemslistedonTable3shouldbeconsideredwhileradiographicexaminationsare
+conducted.Exceptforjointsshowingclearsignsofdislocationorinstability,orwhen
+thereisafracturein or around thejoint,theradiographicfindingsmustbeinterpreted
+takingtheclinical findings(resultsofgeneralphysical and orthopedictestsexaminations)
+alsointoaccount,forevaluatingchronicdeformationofjoints.Althoughwhenananimal
+shows anunnaturalgait,radiography should neverbeused just to“trytodetect the abnor-
+malitybyradiographicexaminationofallthejointsofallfourlegs.
+Table3-Points tobekeptinmindinx-rayexaminationofjoints
+1.There is often a considerable time gap between the onset of the disease and the stage
+when the lesionscanbedetectedbyradiography.
+2. Not all lesions detected by x-rays may be directly related to the current disease.
+3. Whether the x-ray images are the ones that were taken using acceptable methods should
+be takeninto account.
+4.Surveyradiography isusuallynot useful fordiagnosis of joint diseases,such as
+osteoarthritis in particular.
+17
+Joint diseasesofanimalsandDiagnosis
+2-Arthroscopy
+Arthroscopic devices have been improved and miniaturized in recent years, and arthro-
+scopes are beingused for diagnosis and treatment of joint diseases of small animals.
+Apart from being less invasive, arthroscopy has the advantage of allowing in vivo obser-
+vation of structures inside joints. Arthroscopic findings in the synovial membrane and the
+articular cartilage surfaces inthe articular cavityfilledwith synovial fluid are often dif-
+ferentfrom those obtainedwhen arthrotomyis done.Thefact that detailed observations
+can be made in vivo by arthroscopy is a significant advantage in the diagnosis of joint
+diseases (Fig.8).
+Fig.8-Arthroscopyof theelbowjoint
+Arthroscopy and arthroscopic surgery are currently used for excising and removing
+osteocartilagenous parts affected by osteochondritis dissecans (osteochondral fragments)
+(Fig. 9),
+Fig.9-Fragmentedmedial coronoidprocess of the ulna
+Humerus
+Radius
+meu
+punfo
+nders,Philadelphia,USA
+18
+Joint diseases ofanimals andDiagnosis
+> for taking biopsy samples of inflamed synovial membrane (Fig. 10),
+> for observing ligaments, tendons, synovial membrane and articular cartilage
+inside the joint (Fig.11).
+Fig.10-Inflammationof thesynovial
+Fig.11-Thebiceps tendon
+membrane
+intheshoulderjoint
+3 - Tomographic imaging (x-ray CT, MRI, ultrasonography, or others)
+It is difficult to observe the three-dimensional structure of a joint through simple radio-
+graphy. Thus, tomographic imaging of joint structures is regarded as an important mea-
+sure for improving the accuracy of the diagnosis. Such modern techniques as x-ray, CT,
+andMRI have begun tobe used for diagnosis of joint diseases of small animals.The
+effectivenessofthesemethodsbywhichlesioncanbeobservedwithoutinterference
+from overlapping bones and their usefulness in diagnosing several diseases of the hip
+joints or elbow joints have been reported (Fig.12).
+In some cases, the lesion can be easily observed in the computer reconstructed three
+dimensional image (Fig. 13).
+Fig.12-X-ray CTimage of a
+Fig.13-X-rayCT3-D imageof a fragmentedmedial
+fragmentedmedialcoronoidprocess
+coronoidprocess of the ulna
+oftheulna
+Hum
+Rad
+Radius
+lna
+X-ray CT is excellent in detecting calcification while MRI can show an image of even
+soft tissueslike cartilage and tendon.These techniques arenowused in human medicine
+todiagnosejointdiseases.However,theirclinicalusehasnotyetbecomeroutine for
+19
+Jointdiseasesof animalsandDiagnosis
+small animalsbecause they are presently expensive,require deep sedation or anesthesia,
+andstillhaveproblemswiththeresolutionoftheimagesobtained.
+Ultrasonography is also being carried out on joints.It has been found useful in detecting
+lesions of meniscus and ligaments. However, ultrasound cannot pass through calcified
+areas,so the acousticwindowwill be extremely small forthejoints of small animals,and
+therefore,it isnot currentlyconsidered as apractical examination.
+5 - Tests on synovial fluid
+Examiningsynovialfluidisnotacommonlyusedprocedureinadiagnosisandtreatment
+ofjointdiseasesinsmallanimals.However,sincetheinformationobtainedfromthe
+synovial fluid reflects the conditions within the joint,it is quite effective in detecting and
+evaluating infections,neoplasia,and inflammation,which are potential causes of morbid
+changes.A 22-25G needle and an approximately 2 ml syringe are used for puncturing the
+joints of small animals.The reason forusing a syringe of this size is to avoid loss of fluid
+puncturing--, and also to ensure the negative pressure necessary for suction.When a large
+amount of synovial fluid is to be sampled and tested, anticoagulation treatment with
+EDTA or heparin becomes necessary.
+The parameters that can be tested using the synovial fluid are listed in Table 4.
+Only a small amount of synovial fluid as a sample can be taken when puncturing
+a normaljoint.Forinstance,theamountoffluid is onlyabout0.01 to1.0mleven
+in case of puncturing in large joints of dogs. If the amount of fluid sampled is
+muchless thanwhatwasestimatedbypalpation,thiscould be anindication of
+the formation of fibrin or pannus (granular tissue formed on the articular surface
+because of inflammation) in the joint.
+Table4-Particularsanalyzedusingthesynovialfluid
+1.The amount of synovial fluid
+2.Appearance:Colour,transparency andviscosity
+3.Cytological analysis:Cell morphology and cell count
+4.Proteincontent
+5.Bacteriologicculture test:anaerobic and aerobic
+6.Others(mucin,glucosesugars,jointmarkers,anti-nuclearantibodies,rheumatoid
+factors,etc)
+20
+JointdiseasesofanimalsandDiagnosis
+Appearance
+Normal synovial fluid is transparent or has a slightly yellowish colour. Reduced transpa-
+rency suggests bleeding in the joint or an increase in the cell count. A coloured superna-
+tant of the synovial fluid suggests chronic intra-articular bleeding. The viscosity of the
+synovial fluid is evaluatedvisually at the time of its sampling.If theviscosity is to be
+compared, the fluid should be preserved after heparin is added so that it can be tested at
+the same time as other samples are tested. The viscosity of the synovial fluid generally
+decreaseswhen there is inflammation of the joint.
+Cytologicalanalysis
+Normal synovial fluid hardly contains any cells except for a few nucleated ones. It is
+considered that the cell count differs depending on joints, and the nucleated cell count is
+generally less than 3,000/ul of synovial fluid. When a much higher cell count is expec-
+ted,thecellsmustbecounted afterdilutingthesamplewithphysiologicalsaline.Acidic
+diluents should not be used because they may coagulate the mucin in the synovial fluid.
+The nucleated cells are mostly lymphocytes and large monocytes, with very few neutro-
+phils.Theneutrophil count,however,maybehigherif thereisinflammationinthejoint.
+One can predict the type of morbidity in the jointby observing the morphology of the
+neutrophils when there is an increase in their count.Infectious joint disease produces
+toxic effects such as chromatic agglutination and granulation in neutrophils.They have
+near-normal shape when the joint disease is immune-mediated. If cells of abnormal shape
+are found in the synovial fluid, one should suspect a tumour, etc. or other disease.
+Proteincontent
+It has been reported that the protein content of normal synovial fluid taken from canine
+shoulder, carpal orknee joints is 2.0-2.5 g/dl.The protein content can be determined with
+a refractometer. The amount of the protein content increases according to severity of joint
+inflammation, showing the level of value close to the one found in blood plasma.
+Bacteriologicalculturetest
+Culturingsynovialfluidortissueisdoneforbothaerobicandanaerobicbacteria,for
+detecting bacterial infection in a joint. Gram staining of the synovial fluid is often useful
+for a tentative diagnosis of bacterial infection before the results of the bacteriological cul-
+ture are received. Even if the results of bacteriological culture test prove negative, other
+tests should be carried out when other findings suggest infectious arthritis.
+21
+22
+Treatment
+of joint
+diseases
+23
+Treatmentof jointdiseases
+Treatment of joint diseases
+Jointdisordersaretreatedthroughconservativetreatmentsorsurgery.Oneofthemajor
+problems found in joint diseases is cartilage damage caused by primary and secondary
+diseases. As discussed earlier, it is important to maintain cartilage matrix metabolism in
+order to have the joint function retained. Once the cartilage is damaged by trauma or joint
+inflammation,it will take a long time to heal.The primary goal of the treatment of joint
+diseaseistorepair articularcartilageandrestorejointfunction.Treatmentsofosteoar-
+thritis in the main,methods of treating joint disease and some points to be kept in mind
+during a treatment shall now be discussed.
+The administration of drugs alone is not sufficient to treat osteoarthritis. Drug therapies
+needtobecombinedwithmildexerciseandweightcontrolforfastrestorationofthe
+functions of joints.In some cases,an underlyingdiseasemayhave tobetreated,or sur
+gery may be required.
+1 - Conservative Therapy
+The ultimate goals of conservative therapy should be:
+>toremovethecauseofthejointdisease,
+>tocontrol thepaininordertoimprovetheanimal'squalityof life,
+> to repair the cartilage that has been damaged by the disease.
+Plans for therapy can include weight control, management of exercise, and medication.
+Non-drug conservative therapy
+The physical build of an animal with joint disease should be evaluated, and its diet
+should be suitably changed so that the animal will have an appropriate, or even a slight-
+ly lower,body weight.It is recommended that animals with osteoarthritis should be pro-
+hibited from doing work or strenuous exercise and, instead, be allowed to do some mild
+exercise on a dailybasis.This istomaintaintherangeof motion of thejoint,tostreng
+then soft tissues around the joint, and to enhance metabolic activity in the cartilage by
+mild loading.
+Drug therapy
+Purposes
+The expected effects and the points to be kept in mind while treating osteoarthritis with
+drugs can be summarized as follows:
+Control of pain
+A pain caused by joint disease not only lowers the animal's quality of life but also
+ induces inflammatory mediators in the joint. It has been pointed out that this aggra-
+vates the disease.Pain control is,thus,an important part of the management of joint
+24
+Treatmentofjointdiseases
+disease. However, if the pain is reduced rather unnecessarily, the animal may become
+too active, and then the affected joint may become overloaded.
+Controlof jointinflammation
+Inflammation in the joint, of the synovium in particular, elicits the release of bio-
+chemicalmediatorsthatacceleratethedegenerationofthearticularcartilageand
+redirect the balance of cartilage metabolism in a direction that would destroy the
+cartilage. Therefore, it is important to control inflammation in the joint.
+Correctionofdegradedjointstructure
+Therearenodrugsthatcanremovetheosteophytesorreversechangesinperiarticu
+lar structures. Also, no drug can directly repair damaged cartilage. Therefore, auxi-
+liarytreatmentistobegiveninordertopreventfurtherdamageinthejointstructure.
+Also, surgerymay alsobe needed in some cases.
+-Modificationofcartilagematrixmetabolism
+The onset of joint disease alters the metabolic balance of the cartilage matrix and adver-
+sely affects its biodynamics, allowing the advancement of osteoarthritis. DMOA
+(Disease-ModifyingOsteoarthritisAgents)containingchondroitinsulphate,glucosami-
+ne, hyaluronic acid, or other drugs, are presently drawing much attention as medications
+that may suppress the decomposition of cartilage matrix and promote its formation.
+Practical aspects of drug therapy
+Medication is an important method of treating osteoarthritis that requires maximum cau-
+tion. Since long-term use of drugs is usually necessary in animals with osteoarthritis, drugs
+with minimum side effects are preferred. NSAIDs (non-steroidal anti-inflammatory drugs),
+steroids, and DMOAD may be a choice of the drugs used in order to achieve the purposes
+mentioned above.
+SteroidsandNSAIDs
+The most commonly used drug therapy for canine joint disease at present is the admi-
+nistrationofsteroidsorNSAIDs.
+Steroids effectively alleviate symptoms temporarily, and intra-articular administration of
+steroids may be effective for rapid suppression of acute synovitis in an early stage.
+However,itcertainlyinhibitsthephysiologicalmechanismsthatarenecessaryinhealing
+process of joint structure.While the symptoms are temporarily reduced,progressive arti-
+culardisintegrationoccurssteadilyin thebackground (Fig.14).Therefore,steroidsmust
+be used only after careful consideration, except in such a case that a temporary allevia-
+tion of the symptoms is desired, or in case that it is considered difficult to use NSAIDs
+on cats.NSAIDs have the effect of relieving inflammation by inhibiting the arachidonic
+acid cascade via cyclo oxygenase (COX) (Fig.14). There are two types of COX on which
+NSAIDs act. These are COX1, which is physiologically necessary, and COX2, which
+causesproblemsatthetimeofinflammation.Unfortunately,noneoftheNSAIDspre-
+sently available can specifically inhibit COX2 alone (Fig.15).Thus,no NSAIDs can eli-
+minatetheir sideeffects on tothe digestive tract,thekidneys andother organs.
+Meloxicam, carprofen, etodolac and nimesulide have been developed as NSAIDs that
+25
+Treatment of jointdiseases
+have some specificity towards COx2 and ready for use in veterinary practice. These
+NSAIDs can be administered over a longer period than the existing NSAIDs such as aspi-
+rin, flunixine or other drugs. They are considered to improve veterinary drug therapy for
+osteoarthritis.However,we have to remember thefacts that these newNSAIDs also have
+side effects and have little direct effects on healing of damaged cartilage.
+Fig.14-Mechanismofmanifestationofinflammationandtheactionofsteroids
+&non-steroidalanti-inflammatorydrugs(NSAIDs)
+Tissue damage
+Cell damage
+Induction of
+inflammatory cytokines
+Cell membrane
+12-HETE,DHTs,EETS
+phospholipids
+Phospholipase A2
+CytochromeP450
+Suppression
+monooxygenase
+Arachidonic acid
+Steroides
+Lipooxygenase (Lox-tepoxalin)
+Cyclooxygenase(Cox)
+Suppression
+PGH
+Leukotriene,
+lipoxin, etc.
+PGs,thromboxane
+NSAIDs
+=Manifestation of inflammation =
+Source:Refeence2Johnston,S.A.（1997):“Osteoarthritis"Veterinary ClinicsofNorthAmerica,SmallAnimalPractice27（4)
+W.B.Saunders,Philadelphia,USA.
+Fig. 15 -Action of cyclooxygenase (COX) and non-steroidal antinflammatory drugs (NSAIDs)
+Cell damage
+Cell membrane
+Physiological
+phospholipids
+Inflammatory
+Arachidonic acid
+COX-1
+COX-2
+PGH
+NSAIDs
+PGH2
+PGH,thromboxane
+PGH,thromboxane
+Stomach,liver,
+Monocytes, fibroblasts,
+vascular endothelium.platelets
+synovial cellscartilagecells
+WB.SaePdpA
+Disease-Modifying OsteoarthritisAgent(DMOA)
+Presently, DMOA are gaining importance in both human and veterinary medicine as
+drugs for treating osteoarthritis. It has been shown through basic studies that these new
+drugs can prevent and repair cartilage damage whereas NSAIDs provide “passive” symp-
+tomatictherapythatalleviatesthesymptomsanddelaystheadvancementofthedisease.
+26
+Treatmentofjointdiseases
+Hyaluronicacidhasbeenreported asone oftheDMOAsinuse.Inhumans,whenhya
+luronic acidisinjectedintothecavityof ajointafflictedbyosteoarthritis,symptomssuch
+asjointpainareempiricallyalleviatedforarelativelylongtime(severalmonths)after a
+series ofinjections.
+Ithasbeenreportedrecentlythatsimilarresultstohyaluronicacidinjectionscanbe
+achieved by orally administering chondroitin sulphate or glucosamine. These substances
+are characterized as health foods rather than drugs. Therefore, all over the world, many
+patients with osteoarthritis are taking them regularly. Similar products have been develo-
+pedforthetreatmentofjointdiseasesofsmallanimals,andsomereportsontheireffica-
+cy have also appeared. Currently, various experiments are underway in different labora-
+toriestoclarifythemechanismofmanifestationoftheseeffects.Wehavealsoobtained
+generally good results when we used these substances on osteoarthritic dogs.
+Thesesubstances arecurrentlybelievedtoinhibitthe advancementofarthritisand assist
+in the healing of articular cartilage.
+Formulationsofhyaluronicacidandpolysulphatedglycosaminoglycansarebeing
+used in veterinary practice for direct injection into the joints or as subcutaneous,
+intramuscularorintravenousinjectables
+- Chondroitin Sulphate and Glucosamine are being given orally. These substances
+have been shown to bring about clear improvement in clinical symptoms of joint
+diseases.Invitrostudieshaveshownthattheyalsohaveanti-inflammatoryand
+cartilage protecting effects, through inhibition of inflammatory mediators in addi-
+tiontoacartilagerepairingeffect.
+The greatest advantage of using these substances in treating osteoarthritis of animals is
+thattheyare apparentlyfreeofmajorsideeffects.Thepossiblesideeffectsareaheparin
+like action or a glucose loading effect because of the sugar chains contained in them.
+However, no significant effects of either type have been found up until now. This finding
+can be of great advantage when these substances are to be given to animals with osteoar-
+thritisthatrequirelife-longtreatmenttomaintainacertainqualityoflife.
+Hyaluronic acid
+Acertaindegreeofcareisneededintheadministrationof hyaluronic acidintothejoints
+ofsmall animals.Asdiscussedinthesectionondiagnosis,thearticularcavitiesofsmall
+animals have a fairly small capacity. If an excess of hyaluronic acid is injected into the
+cavity,it can cause pain.If it were to leak around the joint, it could cause periarthritis.
+Intra-articularinjectionofhyaluronicacidinsmall animalscanbedonerelativelysafe-
+ly onlywhentheinjectionis doneintotheshoulder,elbow,hip andknee.Inmostcases,
+the injection of hyaluronic acid improves the environment within the articular cavity,
+and therefore, anti-inflammatory and cartilage protecting effects can be expected. The
+dosageanddurationofadministrationmustbedecidedwhilemonitoringthealleviation
+of symptoms. One can expect to see improvement after several injections at an interval
+of 1-2 weeks. Intravenous administration of hyaluronic acid has now become a part of
+clinical practice in horses. It is considered that the intravenously administered hyaluro-
+nicacidiseffectivebecauseitreachesthejointsandalsoincreasestheamountofthis
+acidbeingproducedendogenously.However,certainaspectsofclinicalintravenous
+27
+Treatmentofjointdiseases
+administration of hyaluronic acid, such as the effect of the formulation’s viscosity,are
+notyetwell understood.
+Polysulphated glycosaminoglycans
+Products containing polysulphated glycosaminoglycans are currently administered intra-
+muscularly in treating joint diseases of small and large animals. Fairly extensive resear-
+ch has been carried out on this substance, and it is widely used at present in the clinical
+management of mild to moderately severe joint disorders. It can be certainly administe-
+red through injection. However, since it is presently not considered to be an oral drug, pet
+owners have no means to provide their pets with it at home. The rough treatment guide-
+line is to administer it once or twice a week,for the period of 4 weeks.
+ConclusionaboutDMOA
+ManyDMOA products,including those containing chondroitin sulphate,glucosa-
+mine and green-lipped mussel extract are now available.The basic effects expected
+from these products is a cartilage healing action through the supply of raw materials
+for cartilage matrix formation. Generally, the effectiveness of these formulations
+becomes clinically apparent several weeks after the start of their use. Veterinarians,
+therefore, should consider using them along with another drug such as an NSAID
+for the initial treatment in order to quickly improve the quality of life (QOL) of the
+animal. Although interactions between NSAIDs and DMOAs are not fully unders-
+tood, it is generally agreed that NSAIDs that do not have a negative effect on carti-
+lagemetabolismcanbeusedincombinationwithaDMOA.
+2 - Surgical Treatment
+A surgical procedure is selected, often as the last resort, when joint functions cannot be
+restored and the control of pain becomes almost impossible. Such surgery includes repla-
+cement arthroplasty, arthrodesis and arthroplasty.Because replacement arthroplasty uses
+artificial materials, it is currently used only for the treatment of hip joint of large dogs
+Basic studies on the use of artificial elbow joints in dogs are underway and arthrodesis
+has been undertaken on many types of joints.
+28
+Treatmentofjointdiseases
+Fig.16-1-Immune-mediated
+Fig.16-2-Arthrodesisforrepairingarticular
+polyarthritis
+disintegration.
+Thissurgical technique,however,is alastresort andisusedonlywhen allother thera-
+pies are ineffective (Fig.16). Excisional arthroplasty is easier to perform than joint repla-
+cement. However, except in hip joints, the functions of the affected limb are often seve-
+relyrestrictedafterthesurgery.
+Although these are not considered routine procedures for small animals, the possibility
+of cartilage grafting,where the damaged cartilage is replaced with healthy cartilage, and
+ofgenetherapythatmodifiescartilagemetabolism,are alsobeinginvestigatedforresto-
+ring joint function.
+29
+30
+Conclusion
+Easy and objective methods of diagnosing joint diseases of
+animals are not presently available. Often it is difficult to
+make a confirmed diagnosis. While treating joint diseases,
+clinicians have to not only treat the underlying disease but
+also pay attention to the subsequent restoration of joint
+functions. Presently, with animals having joint functions
+that have deteriorated with old age and no specific disease,
+veterinarians are still groping for methods of understanding
+the condition of the animals and improving the quality of
+theirlives.
+In this publication, the diagnosis of joint diseases and the
+management of osteoarthritis have been mainly discussed.
+I would be delighted if the readers find this book useful in
+understanding a guide to diagnose and treat joint diseases.
+31
+References
+1.HLoulton,J.E.F,Collinson,R.W.(1994):Manual of smallanimalarthrology,B.S.A.VA,Cheltenham,U.K.
+3.Mcllwraith,C.W,Trotter,G.W.(1996):Joint diseaseinthehorse,W.B.Saunders,Philadelphia,USA.
+spectsofarthrologyfromthebasicstoclinicalpractice
+4.Whittick,W.G.(1990):CanineOrthopedics.,Lea andFebiger,Philadelphia,USA.
+AhandookoncanineorhpedicsincludingjoitdiseasesThetranstatedJapaneseversionhasthetitleSaishinnoShodobutsu
+SeikeiGeka."
+5.PiermatteiD.LFloG.L(1997):HandbookfSmallAnimalOrthopedicsandFractureRepair,3rded
+Ahandbookontechniquesfrhopedisrgeryonsmallnials.tgivesi-depthinformationaoutjontsurger
+Nirbac
+ANIMAL HEALTH

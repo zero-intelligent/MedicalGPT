@@ -1,0 +1,431 @@
+ociation
+AnimalsAsia
+O
+H
+G
+Until the cruelty ends
+R
+u
+DIAGNOSIS AND
+MANAGEMENT
+OF DIABETES
+IN THE
+DOG
+犬糖尿病的诊断和处理
+Dr Heather Bacon
+BSc (Hons) BVSc CertZooMed MRCVS
+Jeanne Marchig International Centre for Animal Welfare
+Education
+海瑟·培根博士
+兽医学学士，英国皇家兽医医学院兽医医学硕士证书
+爱丁堡大学JeanneMarching动物福利教育中心动物福利教育讲师
+Blood Glucose血糖
+300
+250
+Blood glucose(mg/100 ml)
+200
+150
+Diabetic
+100
+Nondiabetic
+50
+2
+3
+Glucose
+Time (hours)
+given
+Blood glucose血糖
+Normal Blood glucose正常血糖值
+2.7-7.5mmol/L毫摩尔/升or50-130mg/dl
+毫克/公升
+<2.2mmol/L毫摩尔/升（<40mg/dl毫克/公升）
+= Hypoglycaemia - must treat低血糖
+接受治疗
+10-15mmol/L毫摩尔/升（180-270mg/dl毫克/
+公升）Renal threshold肾國
+14mmol/l毫摩尔/升（250mg/dl毫克/公升）
+Maximum safe blood glucose level in dogs
+犬只最大安全血糖值
+16.7mmol/毫摩尔/升（300mg/dl毫克/公升）
+Maximum safe blood glucose level in cats
+猫类最大安全血糖值
+Renal threshold肾國值
+Level at which kidneys will start to excrete glucose
+intotheurine在怎样的情况下肾脏会向尿液中分泌
+血糖
+10-15mmol/L毫摩尔/升（180-270mg/dl毫克/公升）
+Renal threshold肾阀值
+Glucose causes increased osmolarity of urine 血 糖
+会增大尿液的渗透压
+Results in polyuria causing dehydration and
+increasedthirst会引起多尿症，并由此引发脱水，
+口干
+Animal becomes polyuric and polydipsic动物会变
+得多尿和烦渴
+Prevented by the normal action of insulin 可 以通过
+注射胰岛素进行预防
+Insulin胰岛素
+Hormone produced by the lslet beta cells in the
+pancreas in response to rising blood glucose
+levels应对不断上升的血糖值，胰腺会分泌一种激
+素，是由胰岛β细胞所产生的一种激素
+Role：作用
+·Decrease glucose production by the liver减少肝脏血糖
+的产生
+·Increase glucose uptake by cells加快细胞吸收血糖
+Result = a decrease in circulating blood glucose
+结果：减少血流中的血糖含量
+Action of insulin
+胰岛素的工作原理
+INSULIN
+GLUCOSE
+胰岛素
+MOLECULES
+血糖分子
+INSULIN RECEPTOR
+胰岛素受体
+CELL
+细胞
+DiabetesMellitus糖尿病
+A group of conditions caused by由以下原因引|起
+·Lackof insulinproduction缺乏胰岛素
+·Decrease in sensitivity toinsulin对胰岛素不敏感
+Results in uncontrolled increase in blood
+glucose糖尿病会引发血液中的血糖增高
+·Polyuria多尿症
+·Polydipsia烦渴症
+Weightloss体重下降
+·Ketoacidosis酮酸中毒
+Death死亡
+Type I Insulin-dependent DM
+第一种：胰岛素依赖型糖尿病
+More common in dogs than cats相较于猫， 更常
+见于犬
+Lackofinsulin production胰岛素分泌不足
+ Immune mediated destruction of islet beta cells 原发
+性胰岛β细胞的损坏
+Requiresinjectableinsulin therapy需要注射胰岛
+素治疗
+Dietary stability is essential饮食规律
+Completedogfoodessential完全使用狗粮
+Diagnosis and Management
+SOAP诊断与管理SOAP原则
+Subjective:对象
+Often middle-older aged通常中年以上
+Often Female dogs or male cats多为母狗或公猫
+History of steroid administration有类固醇使用史
+Thirsty口T
+Weight loss体重下降
+Urinating in the house or urinating more
+freguently在屋内排尿或排尿频繁
+Hungry饥饿
+Panting喘气
+Poor vision视力下降
+Diagnosis and Management
+SOAP诊断与管理SOAP原则
+Objective:目 的
+Reducedbody condition身体状况下降
+TPRwithin normallimits体温、脉搏、呼吸都
+处于正常值
+Possible discomfort on bladder palpation膀
+胱触诊可能引发不适
+Mayhave cataracts可能弓|发白内障
+Diagnosis and Management
+SOAP诊断与管理SOAP原则
+Assessment:评估
+infection (white blood cells, protein and nitrates)
+尿检：检查尿糖、酮体和感染的迹象（白血细胞、蛋白质和硝酸盐）
+ Urine culture and sensitivity - Important to diagnose and
+treat secondary infections due to glucosuria. Require
+cystocentesis尿液细菌培养与敏感性一对于由糖尿所引起的再次感染的诊断和治疗的
+重要性。需要穿刺
+ Haematology - to check for signs of systemic infection and
+dehydration血液学一检查全身性的感染和脱水的迹象
+ Serum biochemistry - to ensure other internal organs are
+not compromised. Elevations in AST, ALT and ALKP
+common血清生化检查一确保其他内脏具备免疫力。提高天门冬酸氨基转换酶、异常氨
+基转移酶和碱性磷酸酶
+ Blood glucose test - Immediate analysis or MUST use
+Diagnosis and Management
+SOAP诊断与管理SOAP原则
+Assessment评估
+Cats猫
+Plantigrade hindlimb stance躁行动物后肢
+Icterus due to concurrent hepatic lipidosis
+and/or pancreatitis. Amylase and lipase may
+beelevated由肝脂沉积所弓|发的黄疽，可能
+引起淀粉酶和脂肪酶的升高
+Diagnosis and Management
+SOAP诊断与管理SOAP原则
+Plan:处置
+ Select appropriate antibiotics for urinary tract
+infection based on C&S对于由c&s所引起的尿道感染选择
+适当的抗生素
+ Confirm diagnosis of DM - elevated blood
+glucose（>12mmol/毫摩尔/升 or 200mg/dl毫
+克/公升）plus glucosuria糖尿病的确诊一偏高的血糖
+Selectinsulin type胰岛素种类
+o Short acting(given regularly in sick diabetics
+until eating is re-established)短效（按时服用，直到恢
+复进食）
+oNPH andLente低精鱼精蛋白胰岛素和慢性胰岛素
+）UItralenteandPZl超慢作用的于鱼精蛋白锌胰岛素
+Diagnosis and Management
+SPA诊断与管理SOAP原则
+）Insulinregime，howmuch?Howoften?胰岛素用量，多少？多多久用
+一次？
+ Owner education on insulin administration and feeding对主人关于胰
+岛素使用和喂食的教育
+Generally通常情况
+· Dog: Intermediate lente insulin at 0.5mg/kg q 12 hours犬只： 中等缓
+慢胰岛素0.5毫克/千克12小时
+be monitored 2 to 3 times within a 4-12 hour period to ensure that
+hypoglycemia does not occur at the dose used第一次注射胰岛素后应在
+4~12小时内对血糖监测2~3次，以确保已注射的量不会引起低血糖
+Diet, exercise and management must remain constant whilst blood
+glucoselevels are stabilised饮食、活动和管理必须保持不变且在在血糖
+稳定的情况下
+Diagnosis and Management
+SOAP诊断与管理SOAP原则
+insulin一日一次的预警蛋白型胰岛素对大型杂交犬效果更好
+High fibre commercial pet foods such as Waltham
+Canine high fibre are useful as they have a low
+glycaemicindex市面上所销售的高纤维宠物食品例如皇家高纤
+维狗粮就很有用，因为其葡萄糖的含量很低
+Avoid suddendietary changes, including treats or
+high-energy snacks避免突然改变日常生活习性，包括疗法与
+摄入高能量的食物
+Calorie requirements should be carefully
+calculated for each patient, especially if they are
+underweight.摄入的热量应该严格计算，尤其对于体重偏轻的患者
+Food and insulin will need to be adiusted as
+underweight animals start to gain weight.动物的体重回
+升时，食量与胰岛素的用量也应该随之调整
+Diagnosis and Management
+SOAP诊断与管理SOAP原则
+Cats猫
+Metaboliseinsulin more quickly代谢胰岛素更
+快
+ Require twice daily injections of Lente or PZl
+每天需注射两次慢性胰岛素或鱼精蛋白锌胰
+岛素
+May require twice daily injections of NPH or
+ultralente（long acting) insulin.可能需要每天
+注射两次低精蛋白胰岛素
+Maintenance调养
+Glucose curves should be performed one
+week after starting insulin and after any further
+dosage adjustments are made在第一次注射胰岛素后一
+周开始描制血糖曲线图，并在今后用量改变时作出相应调整
+2
+Diabetic complications
+糖尿病并发症
+Somogyi overswing (insulin-induced
+hyperglycosemia)不良反应（高血糖）
+DiabeticKetoacidosis糖尿病弓起的酮酸中毒
+Diabeticneuropathies糖尿病引I起的精神失常
+Diabeticcataracts糖尿病弓[起的白内障
+Somogyi overswing
+(insulin-induced hypergylcaemia)
+不良反应
+This is when insulin dose is too high and lowers
+The body responds to this potentially life
+threatening situation by producing hormones
+which are antagonistic to the effects of insulin. The
+release of these hormones causes blood glucose
+to rise again.在生命受到威胁的情况下，身体会分泌一种抵消胰岛素的
+激素。这些激素会使得血糖再次升高
+Infrequent glucose measurements may miss the
+drop in glucose and only detect the increase.
+giving a misleading idea that increased insulin is
+required监测不够可能导致遗漏掉血糖降低的时刻，而只监测到了血糖升
+高的时刻，这样会误导我们，从而增加胰岛素的使用
+Thiswill only make things worse.这样只会使事情更糟
+Somogyi overswing
+(insulin-induced hypergylcaemia)
+不良反应
+Somogyi Effect
+300
+momlng blood sugar
+check is"elevated
+Blood Glucose Level (mg/dl)
+250
+bedtime blood sugar
+200
+checkis "in-range'
+150
+100
+undetected
+50
+hypoglycemla
+Time
+Diabetic Ketoacidosis
+5糖尿病引发的酮酸
+中毒
+Caused by:诱因
+Undiagnosed Diabetes mellitus未诊断出的糖尿病
+ Persistently high blood glucose levels due to under
+dosing ofinsulin由于胰岛素注射不足导致的血糖持续偏高
+ Reduced insulin action caused by obesity, concurrent
+Aetiology:病原
+· A chronic lack of insulin prevents glucose uptake into
+cells and so fatty acids are broken down to provide an
+alternate source of energy for cells.长期缺乏胰岛素会阻碍葡萄
+糖进入细胞，从而使得脂肪酸分解来为细胞提供能量
+This process results in ketone release这会导致酮酸的释放
+Excess ketones cause nausea, anorexia and lethargy
+过量的酮酸会导致呕吐、厌食和嗜睡
+Diabetic Ketoacidosis
+5糖尿病引发的酮酸
+中毒
+Subjective
+·Lethargic嗜睡
+·Vomiting呕吐
+Anorexia厌食
+Objective症状
+）Under or overweight体重过轻/过重
+Dehydrated脱水
+Cranial organomegaly头颅肿大
+Abdominal pain腹痛
+Diabetic Ketoacidosis
+糖尿病引发的酮酸中毒
+Assessment评估
+None regenerative anaemia再生障碍性贫血
+Left shift neutrophilia左移中性粒细胞
+Persistent hyperglycaemia持续高血糖
+Elevated ALKP升高的碱性磷酸酶
+Electrolyte abnormalities (hypokalaemia, hyponatraemia)
+质cosu低a ketonuria,
+proteinuria糖尿、酮尿、蛋白尿症
+GLUCOSE-Readatexacthy30 seconds
+Ketonuria may not be
+or
+NBGATWE%1/10
+1412
+detected because the
+nitroprusside reagent in the
+urine dipstick reacts with
+mg/d1100
+250
+500
+1000
+2000+
+acetoacetate and not with
+KETONE-Read atexactly 15seconds
+beta-hydroxybutyrate.
+NEGATTE
+trace
+small
+.moderate
+large
+which is the dominant
+ketone body in DKA由于硝普盐试剂
+Ipybiw
+15
+导
+80
+160
+在尿试纸中只与乙酰乙酸反应，而不与在糖尿病酮症酸
+中毒中占主导地位的B羟丁酸盐反应，因此可能难以发
+Diabetic Ketoacidosis
+糖尿病引发的酮酸中毒
+Plan处置
+·Isotonic crytalloid infusion(0.9%NaCl)等量渗晶体注射
+（0.9%氯化钠）
+Improve renal perfusion, dilute glucagon
+concentrations增加肾脏内体液，稀释胰高血糖素
+· Hyperkalaemic animals may become
+hypokalaemic once fluid deficits are corrected钾含量
+高的动物一旦体液补足就会使钾含量降低
+ Potassium as an IV continuous rate infusion
+(CRl) at a rate that should not exceed 0.5
+mEq/kg/hour. ECG monitoring may help钾作为一种四级
+连续输液元素，其输液频率和用量不得超过0.5毫克当量/公斤/小时，在输液期间开
+启心电监护。
+DiabeticKetoacidosis糖尿病引I发的酮酸中毒
+Insulintreatment胰岛素治疗
+Regular insulin as a Constant rate infusion or
+IM.通常胰岛素用量或者IM
+Fluid composition
+* 2.2 U/kg of regular insulin
+added to 250 ml of 0.9 %
+Blood glucose
+NaCI solution成分每2.2U/公斤
+concentration
+Rate of administration
+胰岛素内添加含有0.9%氯化钠的溶
+（mg/dl)血糖浓度（毫克/公升）
+(ml/hr)
+液
+>250
+0.9% NaCI
+10
+200-250
+0.45% NaCl + 2.5%
+7
+dextrose
+150-200
+0.45% NaCl + 2.5%
+5
+dextrose葡萄糖
+100-150
+0.45% NaCl + 5% dextrose
+5
+葡萄糖
+<100
+0.45% NaCl + 5% dextrose
+Stop fluid administration
+* 2.2 U/kg of regular crystalline insulin added to 250 ml of 0.9 % NaCl solution. The administration
+set must be flushed with 50 mL of the mixture prior to administration of the solution to the animal. 每
+2.2U/公斤常规晶状体胰岛素里需加入含有0.9%250好事氯化钠的溶液。
+Diabetic Ketoacidosis
+糖尿病引发的酮酸
+中毒
+When IV regular insulin is administered as a CRl, blood
+glucose is measured every 2 hours.当启动四级连续输液机制时，每隔两小时
+就要监测一次血糖
+When insulin is administered iM, it is given every hour,
+and blood glucose is measured every hour. 每小时都要监测一次血糖
+The initial dose of IM therapy is 0.2 U/kg regular insulin
+IM, followed by 0.1 U/kg regular insulin IM 1 hour later. 最开
+始使用IM时，用量为0.2U/公斤，1小时候，增加1U7公斤
+胰岛素治疗时，还应该伴有
+0.05 U/kg/hr, if blood glucose drops more by than 75 mg/dl/hour,
+ 0.1 U/kg/hr if blood glucose drops by between 50-75 mg/dl/hour
+ 0.2 U/kg/hr if blood glucose drops by less than 50 mg/dl/hour.
+当血糖降低超过75毫克/公升/小时，胰岛素用量为0.05U/公斤I小时
+如果血糖降低值在50-75毫克/公升/小时，胰岛素用量为0.1U/公斤/
+小时
+当血糖降低低于50毫克/公升/小时，胰岛素用量为0.2U/公斤/小时
+Diabetic Neuropathies and
+CataractS糖尿病引发的精神失常和白内障
+Neuropathies精神失常
+ Occur more commonly in cats - usually plantigrade
+stance在猫中比较常见一多为行动物
+ A result of nerve damage due to hyperglycaemia高血糖
+最终导致神经系统的损坏
+May start as proprioceptive deficits 可能最初显现为本体感觉
+障碍
+Blood sugar control is essential 必要的血糖控制
+Diabetic Neuropathies and
+Cataracts糖尿病引l发的精神失常和白内障
+Excess glucose present in the lens of the eye
+due to hyperglycaemia is converted into
+SOrbitol眼睛中的晶状体内，高血糖转化为山梨醇
+Sorbitol causes an increase in the influx of
+water into the lens.山梨醇会使得大量的体液进入晶状体
+The increase in water causes a breakdown of
+the lens fibres and disruption of the normal
+structure，大量的体液会破坏晶状体纤维和损坏原有结构
+The lens becomes cloudy resulting in loss of
+vision，usually in both eyes晶状体变得模糊并最终导致双目失明
+Summary总结
+Diabetes is a complex syndrome requiring
+疾病，需要持续的，终身的治疗。
+Symptoms of diabetes may result in significant
+compromise to quality of life, and even death糖
+尿病的症状可能会极大地影响生活，甚至威胁生命。
+Owner compliance and financial commitment
+must be excellent in order to assure quality of
+life is maintained.主人在照顾和财力上的支持才能确保动物的生
+命质量。

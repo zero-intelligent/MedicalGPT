@@ -1,0 +1,794 @@
+nfectious diseases of birds
+鸟类感染性疾病
+Robert Johnson BVSc MANZCVS CertZooMed BA
+www.reptilevet.com.au
+List of Common Diseases by Species (after
+Gill. 1988)
+不同种类的常见疾病列表（Gil，1988之后）
+· This list can be an aid in determining a differential diagnosis as
+some diseases are more prevalent in certain species
+·该列表可用于一些疾病的鉴别诊断，因为某些疾病在特定种类
+中比较流行
+· Use as an adjunct to the clinical examination
+。与临床检查结合使用
+Psittacine Beak and Feather
+Disease
+Aetiology: Viruses of the family Circoviridae
+病因学：环状病毒科
+Poxvirus-350x200nm
+Herpesvirus-250nm
+Adenovirus-80 nm
+Papovavirus-50nm
+Parvovirus-25nm
+Circovirus-16nm
+Signs症状
+Signs may vary greatly症状可能非常严重
+Generally a disease of young birds
+好发于幼鸟
+Symmetry 对称性病变
+·Feather changes 羽毛变化
+·Beaklesions喙部病变
+Different forms 不同类型
+· Relate to age of the bird when signs first appear
+。与患鸟出现症状时的年龄有关
+·Peracute,Acute,Chronic 超急性型、急性型、慢性型
+Peracute
+超急性型
+Neonates 雏鸟
+·Septicemia脓毒血症
+o Pneumonia肺炎
+o Enteritis
+肠炎
+o Rapid weight loss and death体重快速下降和死亡
+Acute急性型
+Usually reported during first feather formation 常发生于初羽生长期
+·Depression精神沉郁
+· Sudden changes in developing feathers
+·发育中的羽毛突然发生变化
+°necrosis 坏死
+·fractures 羽折
+·bending 弯曲
+Premature shedding
+提前脱羽
+·bleeding 出血
+°premature shedding of diseased feathers.病羽提前脱落
+Deformed tail feathers
+畸形尾羽
+Chronic慢性型
+Progressive appearance 渐进性外观
+Abnormally developed feathers duringeachmoult每次换羽都会出现羽毛发育异常
+·Retention of feather sheaths羽鞘滞留
+· Haemorrhage within the pulp cavity 羽髓出血
+oFractures of the proximal rachis近端羽干羽折
+·Short clubbed feathers 短棒状羽毛
+oDeformed curled feathers畸形卷羽
+·Stress lines within vanes,circumferential constrictions廓羽应力线圆周状收缩
+· Replacement feathers are increasingly abnormal 换羽异常
+·Birds may become bald as feather follicles fail由于毛囊问题，患鸟可能出现秃毛
+Beak changes
+喙部病变
+· Only in Cockatoo family
+。仅出现于葵花鹦鹉科
+° galahs, cockatoos, gang gangs
+·粉红风头鹦鹉、葵花鹦鹉、甘甘凤头鹦鹉
+progressive elongation 病程延长
+。fractures喙折
+onecrosis坏死
+oulceration溃疡
+Beak changes
+喙部病变
+Signs vary with species
+不同品种间其他的症状
+Powder Down Feathers
+粉
+Circovirus
+环状病毒
+Dcceas
+Normal Cockato0
+正常葵花鹦鹉
+Circovirus
+环状病毒
+LaboratoryFindings实验室检查
+Histopathology组织病理学检查
+· Basophilic intranuclear and intracytoplasmic inclusion bodies in beak,
+feathers, thymus and bursa
+·喙羽毛、胸腺和法氏囊中可见嗜碱性细胞核包涵体和胞浆包涵体
+Immuno-histochemical staining免疫组织化学染色
+oviral specific antibodies病毒特异性抗体
+ confirm intracytoplasmic basophilic inclusion bodies
+·确诊胞浆嗜碱性包涵体
+DNA probes (PCR) - detect (BFDV) nucleic acid
+DNA探针（PCR）一一检测BFDV的核酸
+HA&HI血凝血抑试验
+Antibody(Hl) positive +Virus Antigen(HA) positive 抗体阳性（Hl）+病毒抗原阳性（HA)
+oActivevirus carrier带（活）毒鸟
+o May occasionally be a bird that has completely or partially recovered
+。偶见于患病后痊愈或部分痊愈的鸟
+o More common in: Budgerigars, Rainbow Lorikeets, African Lovebirds, King Parrots and
+Eclectus parrots.
+。常见于：虎皮鹦鹉、彩虹短尾鹦鹉、非洲爱情鸟、王鹦鹉和折中鹦鹉
+Antibody (Hl) positive +Virus Antigen(HA) negative 抗体阳性（Hl） +病毒抗原阳性
+(HA)
+。Has been exposed to BFDV and has recovered 最近有暴露于BFDV，并痊愈
+o Consistent with previous disease within an aviary, particularly if it is a closed aviary
+·先前在养鸟场，尤其是封闭式养鸟场中患过此病
+HA&HI血凝血抑试验
+Antibody(Hl) negative+Virus Antigen(HA) positive 抗体阴性（Hl）+病毒抗原阳性
+(HA)
+· Peracute or chronic psittacine circovirus disease case
+·鹦鹉环状病毒感染超急性型或慢性型病例
+oActive carrier带毒鸟
+oUnlikelytorecover恢复的可能性不大
+Antibody(Hl) negative +Virus Antigen(HA) negative 抗体阴性（HI）+病毒抗原阴性
+(HA)
+oHas not been exposed未接触过该病毒
+Prevention预防
+Avoid dust避尘
+· faeces, feathers and from parental feeding of young
+·粪便、羽毛，以及由亲鸟喂养的幼鸟
+o virus may be present in all body excretions and secretions, skin and feathers
+·患鸟所有排泄物、分泌物、皮肤、羽毛都会排毒
+Avoid entry of exposed birds to aviary避免接触过该病毒的鸟进入饲养场
+TheDNAProbe基因探针
+·test the aviary environment and equipment检测饲养场环境和仪器
+A carrier state is possible可能存在带毒状态
+Treatment 治疗
+Stress free environment减少环境应激
+Supportive medical care支持治疗
+Isolation from other susceptible birds
+隔离疑似病例
+No known specific treatment at this time
+目前没有特异性治疗
+Euthanasia is often recommended
+通常建议安乐死
+Polyomavirus
+多瘤病毒
+Common names俗称
+Psittacine Papovavirus and Budgerigar Fledgling Disease
+鹦鹉多瘤空病毒和虎皮鹦鹉维鸟病
+Signs 症状
+Depression精神沉郁
+Dehydration脱水
+Anorexia 厌食
+Dyspnoea呼吸困难
+Weight loss体重下降
+Polyuria 多尿
+Delayed crop emptying嗪囊排空延迟
+Ataxia共济失调
+Regurgitation食物反流
+Tremors震颤
+Diarrhoea腹泻
+Paralysis 瘫痪
+Subcutaneous haemorrhages 皮下 出 血
+Polyomavirus多瘤病毒
+oChronic form has intermitent signs 慢性型症状为阵发性
+oCarrier stateispossible可能形成病毒携带期
+oCommon at the time of weaning and fledglings 常发生于维鸟断奶期和学飞期
+。Usually die 12 to 48 hours after developing signs.通常出现症状后12-48小时内死亡
+Polyomavirus
+多瘤病毒
+多瘤病毒
+Polyomavirus
+Polyomavirus
+多瘤病毒
+Polyomavirus
+多瘤病毒
+Eclectus Parrot
+折中鹦鹉
+Polyoma virus
+多瘤病毒
+Polyoma virus
+多瘤病毒
+Polyoma virus
+多瘤病毒
+LaboratoryFindings实验室检查
+DNAprobes基因探针
+Immunodiffusion andvirus neutralisation免疫扩散试验和病毒中和试验
+oinexposedbirds检测暴露于病毒的鸟
+Antibodyresponse is transient抗体反应短暂
+o birds revert to sero-negative over a short period of time
+·患鸟经过一段时间后血清抗体会转阴
+Best testforbirdssheddingpolyomavirus检测排毒患鸟最好的方法
+oPCR－bloodor cloacal swabPCR一一血液或泄殖腔拭子
+Prevention预防
+Polyomavirus is resistant to severe environmental conditions and many disinfectants
+多瘤病毒对苛刻的环境和多种消毒剂都可耐受
+Transmission传播
+· feather dust, excreta and parental feeding of chicks.
+·羽尘、排泄物、由亲鸟喂养的雏鸟
+Isolate隔离
+° any birds tested to be shedding the virus 任何检测出正在排毒的患鸟
+Interrupt the breeding cycle中止繁殖周期
+o rest of several months as the disease seems to be self-limiting
+。停止繁殖数周，因为该病可能会出现自限现象。
+Treatment 治疗
+No confirmed therapies are known
+目前无有效治疗方法
+Heavy Metal Disease
+重金属病
+"NewCageSyndrome”“新笼综合征”
+Lead and/or Zincfrom 铅和/或锌，来自：
+ galvanised wire, "white rust", powder coating, toys, old paint, golf balls, old
+linoleum, batteries, costume jewellery, curtain weights, fishing sinkers, lead
+shot etc.
+·镀锌癫痫、“白锈"、粉刷剂、玩具、陈旧油漆、高尔夫球、陈旧油布、
+电池、服装首饰、窗帘坠子、人造鱼饵、铅弹等。
+Zinc has excretory pathway 机体存在排锌通路
+Signs症状
+General大体症状
+o depression, lethargy, anorexia, weight loss,
+·精神沉郁、嗜睡、厌食、体重下降
+Directirritantgastricmucosa直接刺激胃粘膜
+°vomiting,greenish diarrhoea，呕吐、绿色稀便
+o high levels of urates in droppings - secondary to anorexia.
+·严重尿淋漓一一继发于厌食
+Damaged Organs:器官损伤
+okidneys,liver,pancreas肾脏、肝脏、胰脏
+haematuria，Biliverdinuria，Polyuria/Polydipsia，血尿、胆绿素尿、多饮多尿
+Signs症状
+Neurological：神经症状
+o ataxia, seizures, head tremors, blindness, circling, wing droop, leg paresis
+·共济失调、癫痫、头部震颤、失明、转圈、翅膀下垂、腿部轻瘫
+·crop stasis（myoneural dysfunction）嗪囊积食（神经肌肉功能不良）
+Consider in any birds with Gl + neuro signs
+默认为所有患鸟都会狐臭县胃肠道症状和神经症状
+Acute onset in captive birds圈养鸟中会出现突然发病
+Chronic onsetinwild birds，ducks野生鸟类、水禽会慢性发病
+LaboratoryFindings实验室检查
+Radiograph－heavy metal densitiesin GIT影像学检查一一在胃肠道中出现重金属密度阴影
+Collect blood in heparinised tube（not EDTA）肝素管采血（不是EDTA抗凝管）
+o in glass or plastic vial without rubber stopper - Zn leaches from rubber
+。使用玻璃或塑料采血管，不能使用橡胶盖一一锌会被橡胶吸收
+· blood smear - hypochromnic regenerative anaemia
+。血涂片一一低色素性再生性贫血
+· suspect toxicosis if出现以下情况怀疑中毒：
+o Pb > 0.2-0.5 ppm 铅
+。Zn >3 ppm 锌
+Necropsy尸检
+· Collect liver, kidney or pancreas for Pb & Zn levels
+采集肝脏、肾脏或胰脏病料进行铅和锌的水平检测
+Heavy metal poisoning
+重金属中毒
+Heavy metal poisoning
+重金属中毒
+Prevention预防
+Prophylactic treatment of cagewire铁笼饲养的预防性治疗
+o Remove all dags of metal that sit on wire, especially at corners
+·清除铁笼上粘的粪便，尤其是边边角角
+• birds pick off and ingest at onset breeding season
+。鸟在繁殖季会啄食这些地方
+o Scrub with a brush and 10% vinegar solution
+。使用10%的醋刷洗笼子
+ Rinse well and scrub to remove "white rust"
+·刷洗后充分冲洗移除“白锈
+Treatment 治疗
+Remove lead from patient清除患鸟体内的铅
+·Calcium EDTAIM injections5-10 days肌内注射EDTA钙注射液，持续5-10天
+·Penicillamine or DMSA 青霉胺或DMSA
+·Gavage 强饲
+· Metamucil, barium sulphate, activated charcoal
+·欧车前亲水胶（一种容积性泻药）、硫酸钡、活性炭
+Support the patient 支持治疗
+CRAFT
+Peanut
+o Fluid therapy - lactated Ringers or 5% dextrose
+Butter
+。液体疗法一一乳酸林格氏液或5%葡萄糖注射液
+e500g
+Crunchy
+·Diazepam if seizures 如果出现癫痫科使用地西泮
+○Oral口服
+peanut butter or metamucil
+花生黄油或欧车前亲水胶
+Chlamydiosis
+衣原体感染
+Commonly referred to as
+• Psittacosis or
+o Parrot Fever
+俗称“鹦鹉热”
+Aetiology: Chlamydia psittaci
+病因学：鹦鹉衣原体
+Chlamydiosis
+衣原体感染
+Chlamydiosis衣原体感染
+Signs症状
+Adult birds:成鸟
+· Progressive emaciation, greenish diarrhoea, occasional conjunctivitis and high
+levels of urates in droppings.
+·渐进性消瘦、绿便性腹泻、偶见结膜炎和排尿增多
+YoungBirds:幼鸟
+· Rough plumage, low body temperature, tremor, lethargy, conjunctivitis,
+dyspnoea, rales, coryza, sinusitis, emaciation, dehydration, yellowish to
+greenish dropping or greyish watery droppings.
+浓痰、低体温、震颤、嗜睡、结膜炎、呼吸困难、肺啰音、鼻炎、鼻窦
+炎、消瘦、脱水、黄稀便至绿稀便、或灰色水样稀便
+Signs症状
+Death usually follows within 8 to 14 days.
+患病后通常在8-14天内死亡
+Spontaneous recovery is rare
+罕见自发性恢复
+Zoonotic potential. You need to discuss this with your clients
+潜在人畜共患病。你需要与你的客户明确这一点。
+LaboratoryFindings实验室检查
+ELISAtest酶联免疫吸附试验
+·antigen(Clearview) or 抗原（Clearview）或者
+o antibodies(lmmunocomb) 抗体 （Immunocomb)
+o very sensitive and may have false positive results
+。非常敏感，可能会出现假阳性结果
+· Use cloacal/choanal and conjunctival swab
+。使用泄殖腔/后鼻孔拭子和结膜囊拭子
+PCR聚合酶链式反应
+Immunofluorescent testingisuseful免疫荧光检测很实用
+Culture of the organisms and cell culture medium 培养病原，需要细胞培养基
+Prevention预防
+Regularcleaningand disinfectingprogram定期对笼舍清洁和消毒
+Suggested disinfectants：推荐消毒剂
+·Benzalkonium chloride，氯化苯甲烃铵
+·Hydrogen peroxide，双氧水
+°1%formalin.1%甲醛
+Prophylactic treatment using member of tetracycline family of drugs
+使用四环素类药物进行预防性治疗
+治疗
+Treatment
+Tetracyclines：四环素类
+· Doxycycline is preferred
+·首选多西环素
+PRESCRIPTION ANIMALFEMEDY
+KEEPOUTOFREACHOFCHILDREN
+FORANIMALTHEATMENTONLY
+Some people report success with
+ETAFA
+psittavet
+有报道称使用以下药物有效
+·Azithromycinor阿奇霉素或
+·Enrofloxacin恩氟沙星
+100gNet
+BacterialEnteritis细菌性肠炎
+Aetiology：病因学
+Gram negative bacteria most often coliforms, Salmonella and E.coli
+革兰氏阴性菌，多为大肠菌、沙门氏菌和大肠杆菌
+Signs 症状
+Ruffled feathers
+羽毛蓬松
+o diarrhoea - listlessness - weakness -
+·腹泻、精神萎靡、虚弱、发抖、栖于通风处
+shivering - vent picking
+The severity depends on
+严重程度依赖于:
+o age of the bird, the virulence of the
+·患鸟年龄、细菌毒力、患鸟应激程度和感染程度
+bacteria, stress and the degree of
+contamination.
+受感染鸟可能不出现疾病症状而成为带毒鸟
+·这些带毒鸟可能会把该病传染给它们的后代
+Affected birds may be carriers showing no
+。如果出现应激，可能会发生急性发病
+disease symptoms.
+· These carriers may spread the disease to
+their offspring
+o may become acutely ill as a result of stress.
+Signs症状
+幼鸟
+Baby birds
+。由于免疫系统发育尚不完全，通常
+o less developed immune systems, are
+会出现急性发病，通常会死亡。
+usually acutely ill and frequently die
+成鸟慢性感染
+Chronic infections in adult birds
+·脓肿
+o abscesses,
+·无法孵蛋
+o fail to hatch eggs
+。饮食习惯改变，可能间断性排菌
+o changes in eating habits and may
+intermittently pass contaminating
+bacteria.
+沙门氏菌
+。黄绿色排泄物－一诊断性症状
+Salmonella
+. Sulphur yellowish green droppings - a
+diagnostic sign
+LaboratoryFindings：实验室检查
+Livebird活鸟
+· Culture multiple specimens of faeces or blood collected over
+several days
+·数天内培养多个粪便和血液样本
+LaboratoryFindings：实验室检查
+Deadbird死鸟
+· Culture intestinal contents, liver, blood and spleen
+·培养肠容物、肝脏、血液和脾脏病料
+o Sensitivity testing should be performed
+。需要进行药敏试验
+o Enteric bacteria are often resistant to several antibiotics
+·肠道细菌通产对多种抗生素耐药
+Prevention预防
+Keep water and feed dishes free of faecal material
+避免饮水和食物受粪便污染
+ldentifyandcullcarrierbirds辨认和隔离带毒鸟
+Control contact of the aviary or bird with outside birds
+控制野鸟与宠物鸟或饲养场内鸟的接触
+Careful disposal of contaminated materials 认真处理污染物品
+Minimise stress减少应激
+Practicegoodhygiene保证环境清洁
+Treatment治疗
+Start treatment at once based on clinical signs
+出现临床症状，即刻进行治疗
+Fluid replacement 补液
+o Injections and/or oral (Lactated Ringer's solution is best)
+·注射和/或口服补液（最好使用乳酸林格氏液）
+Treatment治疗
+Broad-spectrum antibiotics广谱抗生素
+。Start immediately after swab is taken采集拭子病料后即刻使用
+oOral antibiotics口服抗生素
+oInjectable antibiotics in severe cases在重症病例中使用抗生素注射液
+o The sulfa drugs are good to use orally e.g Trimethoprim/Sulfa
+。磺胺类药物适于口服，如甲氧苄啶/磺胺
+oKanamycin and Gentamicinbyinjection注射卡那霉素和庆大霉素
+oGentamicin-renaltoxicitywith dehydration庆大霉素一一脱水时具有肾毒性
+If necessary, the antibiotics can be changed after sensitivity test results are known
+如果有需要，药敏试验后可更换抗生素。
+Treatment
+Severediarrhoea严重腹泻
+o Kaopectate or Pepto-Bismol orally (2-3 drops PO tid)
+。白陶土或碱式水杨酸铋（2-3滴口服一天三次)
+Waterconsumption水分消耗
+°monitored to prevent dehydration.密切监控以防脱水
+Maintain a stress free environment 避免环境应激
+An incubator or a heating pad under the cage
+放置在保温箱或在笼子下放置加热垫
+Coccidiosis 球虫病
+Aetiology病因学
+An enteric infection by one of the host-specific coccidia
+由一种宿主特异性球虫感染肠道引起
+Genera种类
+·Eimeria, Isospora, Caryospora, Tyzzeria, Wenyonella
+·艾美耳球虫、等孢子球虫、核孢壳球虫、泰泽球虫、温扬球虫
+Not all species are pathogenic, so birds may be asymptomatic carriers
+不是所有种类都有致病性，所有鸟类可能成为他们的无症状携带者
+Signs症状
+Diarrhoea with or without blood and mucus 腹泻，可能伴有血便和粘液便
+Weight loss体重下降
+Anaemia 贫血
+Dehydration 脱水
+Depression 精神沉郁
+Ataxia 共济失调
+Incoordination定位不良
+Suddendeath突然死亡
+Soiledvent andswollen abdomen肛周脏，腹部肿胀
+Faeces ranges from bloody and greenish to watery and brown.粪便呈血色和绿色到水样棕色
+Laboratory
+Findings
+实验室检查
+Post-mortem examination 死后剖检
+Impression smears of intestinal contents
+肠容物压片检查
+Faecal flotation - oocysts
+粪便漂浮－一卵囊
+Diagnosis may be more difficult in budgerigars
+对虎皮鹦鹉的诊断可能比较困难
+often sick before the oocyst producing stage
+排出卵囊之前常表现为虚弱
+Prevention 预防
+Cleanliness清洁
+·Environment 环境
+oFood食物
+owater饮水
+Overcrowding may also contribute to infection
+饲养密度过大也会增加感染率
+Do not mix young birds with adults
+不要将幼鸟和成鸟混养
+Treatment & Medication
+治疗和用药
+Advanced cases are difficult to treat and often result in death
+发病较重的病例难以治疗，经常以死亡告终。
+Coccidiocides抗秋虫药
+Baycox
+o Baycox (Toltrazuril) 25mg/ml
+?
+2,5%
+。百球清(Toltrazuril)25mg/mL
+50 ml
+• Use 3ml per litre drinking water for 3 days
+Baycox
+。每升饮水中加入3ml百球清，持续三天。
+2,5%
+· Amprolium + Ethopabate
+·氨丙啉+球虫酯
+Macrorhabdosis鸟胃癌酵母菌感染
+(MAD - Megabacteria Associated
+Aetiology病因学
+Ayeastinfection一种酵母菌感染性疾病
+oof theoutflowof theproventriculus发生于腺胃流出道
+· Macrorhabdus ornithogaster, formerly known as Megabacteria
+。胃癌酵母菌，先前被称为“巨型细菌"
+Can affect psittacine and non-psittacine birds 可感染鹦鹉和非鹦鹉鸟类
+Not all species arepathogenic并不是所有的种类具有致病性
+Birds maybe subclinical carriers鸟类可能是亚临床携带者
+Signs症状
+SBL (Sick Bird Look)病鸟征
+Chronicwasting disease慢性消耗性疾病
+Neck-stretching and vomiting 颈部前倾和呕吐
+o usually mucous covered seed
+。呕吐出的种子通常会覆盖一层粘液
+omay also contain blood可能含有血液
+Droppings range from slightly loose to diarrhoea 粪便为软便至稀便
+osoft,watery,bulky &occasionally 软便、水便，量大，偶见
+Signs症状
+Polyphagia多食
+· Birds appear to have a ravenous appetite but close observation reveals that they are
+not swallowing the seed.
+。患鸟可能表现为食欲极强，但仔细观察会发现它们其实并没有吞下种子。
+Acute form 急性型
+o die within a few days数天内死亡
+Chronicform 慢性型
+· become progressively emaciated and debilitated over weeks to months and may die
+or appear to recover then died when they relapse weeks to months later
+·经过数周或数月，患鸟渐进性消瘦和虚弱。可能会死亡，或先看似恢复了但是
+数周或数月后突然死亡
+LaboratoryFindings实验室检查
+A rod-shaped to filamentous organism, Gram positive and Periodic Acid-Schiff (PAS) positive.
+杆状或纤维状微生物，革兰氏阳性，过碘酸希夫染色阳性
+Commonly located at the junction of proventriculus and ventriculus at post-mortem
+examination.
+死后剖检发现病变常位于腺胃与肌胃结合处
+Gram stain or wet mount革兰氏染色或湿片检查
+o Impression smears of proventricular outflow at Post-mortem examination
+·死后剖检进行腺胃病料压片检查
+ofaeces粪便检查
+o If not apparent on first sample, repeat on pooled faecal samples collected over 5 days
+。如果首次检查结果阴性，连续收集五天排出的粪便样本重复检查
+·on crop aspirateorvomitus嗪囊抽吸检查或呕吐物检查
+Macrorhabdus ornithogaster
+胃癌酵母菌
+Gram positive rod
+Megabacteria
+Organism
+Faecalmatter
+Macrorhabdus ornithogaster
+胃癌酵母菌
+Megabacte
+Organism
+Macrorhabdus ornithogaster
+胃癌酵母菌
+Macrorhabdus ornithogaster
+胃癌酵母菌
+Prevention预防
+Quarantine and examine droppings of all new arrivals
+新引进的鸟需要隔离观察四十天，并目进行粪便检查。
+Avoid mixing Budgerigars with European Goldfinches (Carduelis carduelis)
+and European Greenfinches (carduelis chloris) with other birds
+避免将虎皮鹦鹉和欧洲红额金翅雀Goldfinches（Cardueliscarduelis)混养；
+避免将欧洲金翅雀（Carduelischloris)和其他鸟混养。
+Reducestress减少应激
+successful in preventing transmission
+避免鸟蛋与受感染亲鸟接触，幼鸟由健康鸟喂养可以有效避免传染
+Treatment
+t &Medication
+治疗和用药
+Amphotericin B orally for 30 days 100mg/kg P0 q12h.
+两性霉素B30天100mg/kgPOq12h
+· Fungilin Lozenges
+· Megabac-S
+4NRXPharmacy4NRXPharmac
+4NRXPhari
+MEDICINE
+o water soluble form
+FUNGILIN
+·水溶剂
+Helminth parasites of the
+gastrointestinal system
+胃肠道蠕虫寄生
+Ascarids 蛔虫
+Capillaria毛细线虫
+Cestodes多节绦虫
+Signs症状
+SBL(Sick Bird Look）病鸟征
+Droppings粪便
+° range from slightly loose to diarrhoea 软便至稀便
+ooccasionally dark and tarry偶见黑便和黏便
+Polyphagia多食
+· some birds have a ravenous appetite 食欲强烈
+Acuteform急性型
+LaboratoryFindings实验室检查
+Routine faecal flotation常规粪便漂浮检查
+·usually diagnostic通产具有诊断性
+o shed large numbers of typical ascarid eggs
+·排除大量典型蛔虫卵
+o Eggs may not be apparent if the ascarids are
+all juvenile and not yet egg producing
+。如果所寄生的蛔虫均为青年个体还未产卵
+时，可能无法看到虫卵
+O
+Treatment &Medication
+治疗和用药
+Fenbendazole芬苯达唑
+o (Panacur 25, 25mg/mL) 25-50mg/kg P0 sid x 3-7 days, or 100mg/kg P0 once
+Levamisole 左旋咪唑
+· (many brands) 15mg/kg P0 once
+Oxfendazole奥芬达唑
+· (Oxfen LV, 45.3g/L) 20mg/kg PO once or 2.5mL/L drinking water
+lvermectin伊维菌素
+° (Ilvomec 0.8g/L) 0.1mL/100g PO by gavage needle
+Cydectin莫西菌素
+· Moxidectin (Cydectin Oral Drench 1g/L) 400-1000 μg/kg P0
+Cnemidicoptes spp.膝螨
+Aetiology病因学
+Cnemidocoptes pilae (budgerigar, canary and parrots)
+皮雷足螨（虎皮鹦鹉、金丝雀、鹦鹉）
+C.mutans（poultry)－causes bird mange 鳞足螨（禽类）一一引起鸟类齐癣
+o domestic chickens and other galliformes家养鸡和其他鸡形目鸟类
+. Canary, budgerigar, pigeons, Kakariki, Neophemas, cockatoos
+·金丝雀、虎皮鹦鹉、鸽子、红额鹦鹉、橙腹鹦鹉、葵花鹦鹉
+Common name is different in some species:
+· Scaley face in Budgerigar
+· Scaley leg in chicken
+Tassle foot in canary
+(elongated encrustations on legs and
+Cnemidicoptes spp.膝螨
+Common name is different in some species
+在不同品种中发病有不同的俗称
+·ScaleyfaceinBudgerigar 虎皮鹦鹉鳞状脸
+oScaleylegin chicken家养鸡鳞状腿
+·金丝雀的麦穗足（腿部和跖部长条状鳞片）
+Cnemidocoptes
+膝螨
+Cnemidocoptes
+Prevention预防
+Quarantine and examine droppings of all new arrivals
+新引进的鸟需要隔离观察四十天，并目进行粪便检查。
+Avoid mixing Budgerigars with European Goldfinches (Carduelis carduelis)
+and European Greenfinches (carduelis chloris) with other birds
+避免将虎皮鹦鹉和欧洲红额金翅雀Goldfinches（Cardueliscarduelis)混养；
+避免将欧洲金翅雀（Carduelischloris)和其他鸟混养。
+Reducestress减少应激
+successful in preventing transmission
+避免鸟蛋与受感染亲鸟接触，幼鸟由健康鸟喂养可以有效避免传染
+Treatment & Medication
+预防和用药
+Moxidectin莫西菌素
+o 200 mcg/kg PO once weekly until controlled
+·200mg/kg PO 每周一次，直到病情得到控制
+lvermectin伊维菌素
+o 400-1000 mcg/kg P0 once weekly until controlled
+·400-1000mg/kgP0每周一次，直到病情得到控制
+AirSacMite气囊螨
+Aetiology病因学
+Cytodites nudus and other sarcoptiform mites
+胞螨和疥螨
+Affects passerine birds (songbirds) as well as other birds - turkey,
+pheasant and domestic chicken
+感染雀形目鸟类（鸣禽），同时也会感染其他鸟类－一火鸡、山鸡和
+家养鸡
+Most common in Canary, Gouldian Finches, European Goldfinches and
+Cordon Bleu Finch
+最常见于金丝雀、七彩文鸟、欧洲红额金丝雀、法国蓝带雀
+2
+3
+20-85-7
+DATERISS
+SPEC
+Signs症状
+Respiratory signs呼吸症状
+·onlyin severely affected birds只有在发病严重的患鸟才会出现
+Transilluminate trachea 气管透照
+° spray overlying feathers with methylated spirits
+。使用甲基化究竟将颈部羽毛打湿
+o shine a bright light source through the skin overlying the trachea
+·使用强光透通过颈部皮肤透照气管
+o see tiny red dots moving within the tracheal lumen
+。可见器官腔内四处移动的小红点
+Respiratory“click”呼吸咳音
+·apparent with careful auscultation通过仔细听诊会发现
+stand stillin an aviary on a quiet evening晚上在养殖场安静地听
+Treatment &Medication
+治疗和用药
+lvermectin伊维菌素
+o 400-1000 mcg/kg (lvomec for sheep, 0.8g/L) one drop PO once weekly
+until controlled
+Moxidectin莫西霉素
+· 200 mcg/kg PO once weekly until controlled
+Pyrethrin spray除虫菊酯喷剂
+o Into a localised area for the birds to inhale.局部使用使患鸟吸入药剂
+oRepeatweekly每周重复一次
+Aspergillosis
+曲霉菌病
+Aetiology病因学
+A.fumigatus 烟曲霉
+A.flavus黄曲霉
+A.niger黑曲霉
+Signs
+症状
+oemaciation 消瘦
+orespiratory distress, nasal discharge
+o呼吸抑制、鼻分泌物
+oneuromuscular disease, gout
+o神经肌肉疾病、痛风
+o abnormal droppings, regurgitation
+·排便异常、食物反流
+ovoice changes鸣声改变
+opoor appetite食欲减退
+oconjunctivitis结膜炎
+Prevention预防
+Minimise stress andovercrowding减少应激，避免饲养密度过大
+Malnutritionfromlackofproper diet由于饲喂不当造成营养不良
+Poor ventilation通风不良
+· Disinfectant fumes, cigarette smoke, ammonia, other toxic chemicals
+·消毒雾剂、香烟、氨、其他毒性化学物质
+Transmittedbyspores经孢子传播
+°present in the environment 环境中常见
+Healthy unstressed birds are generally resistant
+健康未应激的鸟通常不会感染
+Prevention预防
+HighRisk高危对象
+· young, old, unhealthy, antibiotics or corticosteroid therapy
+·幼鸟、老鸟、病鸟、接受抗生素治疗或激素治疗的鸟
+Reduce contact with nesting materials减少与筑巢材料的接触
+ocontaminatedwith mould or spores被霉菌或孢子污染
+Feed should be free of fungal growth饲料需要免于真菌污染和生长
+· found in corn or grain products, manufactured pellets
+。常见于玉米和谷类日粮、商品粮
+o improper storage of food products will increase contamination
+日粮储存不当会增加污染的几率
+Trichomoniasis
+滴虫病
+Aetiology病因学
+A flagellated protozoa
+一种鞭毛虫
+Trichomonas gallinae
+鸽毛滴虫
+Signs症状
+Inflammation,white plaques 炎症，白色病灶
+oon thegastrointestinalmucosa位于胃肠道粘膜
+onecrosis with accumulation of cheesy material坏死伴乳酪状物质堆积
+omay occlude the oesophagus and trachea可能闭塞食道和气管
+Youngbirds幼鸟
+o crop stasis, poor growth and high mortality
+·嗪囊积食、生长不良、高死亡率
+o often infected through parental feedings
+·通常由亲鸟在喂食时传染给幼鸟
+Signs症状
+Adultbirds成鸟
+o emaciation, dyspnoea and vomiting are common signs
+·消瘦、呼吸困难、呕吐，这些都是常见症状
+o usually infected by contaminated food and water
+·通常由受污染的饲料和饮水造成感染
+A carrier state is possible
+可能存在带虫状态
+TrichomonasVideo滴虫视频
+TrichomonasVideo 滴虫视频
+TrichomonasVideo 滴虫视频
+LaboratoryFindings实验室检查
+Identification of trophozoite鉴定滋养体
+ warm saline, wet mount prepared from a swab of the oesophagus
+温生理盐水、食道拭子湿片检查
+Smears抹片
+ must be examined as soon as prepared for accurate identification
+·为了能够精确鉴定，最好尽早进行检查
+Wright's stain or Trichrome staining is also possible
+可以考虑瑞士染色和三色染色
+LaboratoryFindings实验室检查
+Cysts do not occur in this organism 该病原没有卵囊
+Diagnosis maybe more difficult诊断可能比较困难
+o due to intermittent shedding of the organism
+该病原会间断性排出
+ repeated crop washes may help
+重复灌洗嗪囊可能会有帮助
+Treatment & Medication
+治疗和用药
+Advanced cases 重症病例
+·are difficult to treat难以治疗
+ooftenresult in death常常以死亡告终
+Imidazole group of medications：米唑类药物
+o Ipronidazole
+异丙硝唑
+. Metronidazole
+甲硝唑
+· Ronidazole
+罗硝唑
+· Dimetridazole
+迪美唑
+o Carnidazole
+卡硝唑
+Thank you for your attention!
+谢谢聆听！

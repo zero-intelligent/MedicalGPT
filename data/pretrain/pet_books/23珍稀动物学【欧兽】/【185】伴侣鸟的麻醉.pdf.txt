@@ -1,0 +1,486 @@
+BIRDS
+Anaesthesia in companion birds
+伴侣鸟的麻醉
+Species variability
+about 10 000 species - 28 orders
+物种多样性
+大约有1000种-28个目
+pain resistence 疼痛耐受
+conscious response to pain 痛觉意识
+Behavioral changes would be cryptic and subtle
+行为上的异常通常难以发现
+alert agitated response 
+易激动
+crouching immobility
+蹲伏不动
+Pain assessment is subjective - indirectly measured
+疼痛评估是主观的一非直接测定
+small birds小型鸟
+big birds
+大型鸟
+raptors,owls猛禽、猫头鹰
+waterfowl
+水禽
+Indications for anaesthesia 麻醉适应症
+Restraint, manipulation and sedation for minor procedures
+保定、操控、镇静以作小处理
+Diagnostic imaging
+诊断影像学检查
+Surgery
+手术
+Anaesthesiain birds 鸟类麻醉
+Considerations prior to anaesthesia麻醉前的考虑
+Anaesthesia+ analgesia麻醉+镇痛
+Injectableanaesthesia注射麻醉
+Inhalation anaesthesia呼吸麻醉
+Considerations after anaesthesia麻醉后的考虑
+Considerations prior to anaesthesia麻醉前的考虑
+Health conditions 健康状况
+Fasting禁食
+Analgesia镇痛
+Monitoring 监护
+Supportive care (depends on the length of procedure)
+支持治疗（根据操作的时长）
+短时操作=>需要的监护和支持治疗相对较少
+   u sa n   o
+长时操作=>需要提前做更多的准备
+Health condition 健康状况
+History and examination "from a distance" are important
+病史及体格检查，首先进行“远处观察”非常重要
+An accurate body weight should be obtained
+必须获取精确体重
+Handling－without anaesthesia 保定—不麻醉
+may compromise the patient prior to anaesthesia
+可能在麻醉之前就使患鸟情况更糟
+may be more compromising than short anaesthesia
+可能对患鸟的损害比短时麻醉更大
+Anaesthesia is less stressful alternative in many procedures
+与多操作相比，麻醉师相对较小产生应激的操作
+The procedure is never risk-free.
+所有操作都有一定风险。
+Health condition健康状况
+Visual examination 视诊
+Posture姿态
+Head - nares, oral cavity, choanal slit and glottis
+头部—一鼻孔、口腔、鼻后孔和声门
+Gentle palpation of the colelomic cavity
+轻轻触诊泄殖腔
+Auscultation 听诊
+heart心脏
+110 - 300 beats per minute
+lungs and air sacs肺脏和气囊
+Pre anaesthetic assessment 麻前评估
+Risk of hypoglycemia 低血糖风险
+fasting_
+(in hours)
+禁食数小时
+no fasting
+无禁食
+b.w. < 100 g
+3 - 4 hrs fast
+禁食3-4小时 b.w. 100 －300 g(Psittacines)
+3 - 6 hrs fast
+禁食3-6小时 b.w. 300 - 1000 g(Psittacines)
+6 - 9 hrs fast
+禁食6-9小时raptors，owls猛禽、猫头鹰
+Crop needs tobe empty需要排空嗪囊
+Gentle aspiration when fasting is impossible
+禁食后不可能产生即使很轻微的误吸
+Positioning 体位
+Dorsal (ventral) recumbency
+仰卧位 （俯卧位）
+compression of the caudal air sacs by viscera
+reducing minute volume by up to 6o%
+由于内脏挤压会使气囊缩小，导致分钟潮气量减少至原
+来的60%
+Lateral recumbency - better
+侧卧位一—更好
+Hydration水合状态
+Dehydration脱水
+elevated PCV  > 55 %
+PCV升高>55%
+hyperproteinaemia高蛋白血症
+Colloids IV胶体液
+10 - 15 ml/kg q 8h
+treatment of hypovolaemia, anaemia
+治疗低血容量、贫血
+Crystalloids（Hartmann's）晶体液（哈特曼氏液）
+infusion输注
+ ≤<10 ml/kg/h
+50 ml/kg/day bolus
+Hydration水合状态
+Electrolyte solutions PO  
+50 ml/kg/day in 4 doses
+电解质溶液
+口服50ml/kg/day分四次使用
+Amino-acids + vitamins
+氨基酸+维生素
+Duphalyte?
+SC 
+10 ml/kg q 6- 8h
+PO  5 + 10 H20  divide into 2-3
+doses
+Hydration水合状态
+SC
+Hydration水合状态
+SC
+Hydration是何状态
+IM
+Hydration是何状态
+IM
+Hydration是何状态
+IM
+Hydration水合状态
+PO
+Thermal support 保温
+Loss of heat through
+core body temperature 39 - 42°C
+通过以下方式去失热量
+正常核心体温为39-42℃
+Convection 对流
+Airflowaroundanimal动物周围的气流
+Radiation辐射
+Difference between animal temperature and
+surrounding temperature
+周围温度与动物体温的温度差
+Conduction传导
+Contact with "colder" surface
+与“冷”表面接触
+Evaporation蒸发
+Through respiration and placement of organs outside of
+body
+通过呼吸和体内脏器暴露出体外散热
+Thermal support 保温
+Lossofheat一solutions体温丢失一解决方法
+Providing heating source(s) 提供热源
+Minimizing the naked skin (area for surgery)
+Minimizing plucking (in birds)
+减少裸露皮肤（手术区域）
+在鸟要减少拔毛
+Coveringpatient覆盖患鸟
+Workinawarm area在温暖的地方操作
+Hydrate anaesthetic gasses湿润麻醉气体
+Thermal support保温
+Lossofheat一solutions体温丢失一解决方法
+Providing heating source(s） 提供热源
+Bag with "rice" => microwave
+“大米”包=>微波加热
+Hot packs
+热敷 （暖宝宝）
+Warm water blankets
+温水毯
+Warm electric heating pads
+电热毯
+Selected anaestheticprotocols 麻醉规程选择
+IM
+ketamine + medetomidine + midazolam
+肌注氯胺酮+美托米定+咪达唑仑
+Narkamon5%
+Revertor'smgm
+CepetorKH
+JEN PRO ZMIRATN
+1mgiml
+50ml
+mhuvilon
+SPO
+Selected anaestheticprotocols麻醉规程选择
+propofol
+Propofol1%
+"Fresenius"
+50ml
+(noodeu)
+Infuze
+1 mg/kg/min
+IV
+birds of prey
+m
+odim
+丙泊酚
+Fresenius
+Kabi
+1 mg/kg/min
+IV
+猛禽
+Injectable anaesthesia 注射麻醉
+Less controllable than inhalation anaesthesia
+比呼吸麻醉难以控制
+Medetomidine美托米定
+400 (200 - 1000)
+μg/kg
+30 - 50
+mg/kg
+Ketamine
+氯胺酮
+1-2
+mg/kg
+Butorphanol布托啡诺
+4
+mg/kg
+Carprofen卡洛芬
+0.5
+mg/kg
+Meloxicam美洛昔康
+Inhalant anaesthesia 呼吸麻醉
+semi-open system
+T-piece anaesthetic circuit T型回路
+半开放系统
+lsoflurane
+异氟烷
+Sevoflurane七氟烷
+Inhalant anaesthesia 呼吸麻醉
+facemask
+面罩
+tranguillisation pnor
+使用面罩诱导麻醉前先镇静
+0.1 - 0.5 mg/kg IM midazolam 咪达唑仑
+0.2 - 0.5 mg/kg IM diazepam
+地西泮
+Inhalantanaesthesia呼吸麻醉
+glottis is usually easily visible on opening the
+oral cavity
+打开口腔通常很易暴露声门
+intubation accomplished relatively easily
+气管插管相对较易
+avian tracheal rings are complete
+鸟类气管环为0形气管环
+trachea longer than in mammals
+气管长度比哺乳动物常
+4x higher tidal volume (comparing to mammals)
+最高潮气量是哺乳动物的四倍
+1/3 respiratory rate (comparing to mammals)
+呼吸频率是哺乳动物的1/3
+Inhalant anaesthesia呼吸麻醉
+Isoflurane异氟烷
+Mask-induction面罩一诱导麻醉
+4% isoflurane in 1o0 % O2 (1 I/min)
+4%异氟烷+纯氧（1L/min）
+Endotracheal intubation - maintenance
+2% isoflurane in 100 % O2 (1 I/min)
+气管插管一维持麻醉
+2%异氟烷+纯氧（1L/min）
+Sevoflurane
+Mask induction
+8% sevoflurane in 100 % O2 (1 l/min)
+more expensive than isoflurane
+quicker induction and recovery
+nhalantanaesthesia呼吸林醉
+Sevoflurane-七氟烷
+Maskinduction面罩诱导麻醉
+8% sevoflurane in 1o0 % O2 (1 l/min)
+more expensive than isoflurane
+quicker induction and recovery
+8%七氟烷+纯氧（1L/min）
+比异氟烷昂贵
+相对诱导和苏醒较快
+Inhalantanaesthesia 呼吸麻醉
+Normal minute volumes for birds
+鸟类止常分钟潮气量
+varybetweenspecies种属差异性
+approximately
+800 ml/min/kg
+大约800ml/min/kg
+minimum of 1l/min should be used with small birds
+and more in larger patients
+小型鸟的最小氧流量为1L/min，大型鸟的氧流量要更
+大
+nhalantanaesthesia 呼吸麻醉
+Assistance with ventilation is mandatory!
+必须进行人工通气！
+to prevent cO2 accumulation in the distal air sacs
+IPPV ventilator
+预防二氧化碳在远端气囊蓄积
+IPPV呼吸机
+Air sac perfusion anaesthesia - minimal surgery
+经气囊的呼吸麻醉一一小手术
+Inhalant anaesthesia 呼吸麻醉
+Air sac perfusion anaesthesia - minimal surgery
+经气囊的呼吸麻醉一小手术
+1.  Patient in lateral recumbency, legs held caudally, wings dorsally
+患鸟侧卧保定，双腿尾向牵引，双翅背向牵引
+Inhalantanaesthesia呼吸麻醉
+Air sac perfusion anaesthesia - minimal surgery
+经气囊的呼吸麻醉—一小手术
+2. Skin surgically prepared
+备皮
+Inhalant anaesthesia呼吸麻醉
+Air sac perfusion anaesthesia - minimal surgery
+经气囊的呼吸麻醉一小手术
+3. Small skin incision caudal to last rib
+从尾侧向最后肋骨方向作一皮肤小切口
+Inhalantanaesthesia 呼吸麻醉
+Air sac perfusion anaesthesia - minimal surgery
+经气囊的呼吸麻醉一一小手术
+3. Small skin incision caudal to last rib
+从尾侧向最后肋骨方向作一皮肤小切口
+Inhalantanaesthesia 呼吸麻醉
+Air sac perfusion anaesthesia - minimal surgery
+经气囊的呼吸麻醉——小手术
+4. Forceps in incision to puncture musculature
+使用止血钳通过切口钝性分开肌肉
+Inhalantanaesthesia 呼吸麻醉
+Air sac perfusion anaesthesia - minimal surgery
+经气囊的呼吸麻醉一一小手术
+5. Tube placed into the caudal thoracic air sac
+将气管插管插入胸气囊尾侧
+Inhalant anaesthesia 呼吸麻醉
+Air sac perfusion anaesthesia - minimal surgery
+经气囊的呼吸麻醉一一小手术
+5.  Tube placed into the caudal thoracic air sac
+将气管插管插入胸气囊尾侧
+Inhalantanaesthesia 呼吸麻醉
+Air sac perfusion anaesthesia - minimal surgery
+经气囊的呼吸麻醉
+率一小手术
+6.  Anaesthetic circuit can be attached to the canula
+6.经该套管可与麻醉剂回路连接
+Inhalantanaesthesia呼吸麻醉
+Air sac perfusion anaesthesia - minimal surgery
+经气囊的呼吸麻醉—小手术
+1. Patient in lateral recumbency, legs held caudally, wings
+dorsally患鸟侧卧保定，双腿尾向牵引，双翅背向牵引
+2. Skin surgically prepared 备皮
+3. Small skin incision caudal to last
+rib
+从尾侧向最后肋骨
+ll卜
+肤小切口
+4. Forceps in incision to puncture
+musculature
+使用止血钳通
+开肌肉
+5.  Tube placed into the caudal thoracic air
+sac
+将气管插管插入胸气囊尾侧
+Analgesia
+at least 30 minutes prior to anaesthesia!
+镇痛
+至少在麻醉前30分钟进行疼痛管理！
+Opioids阿片类药物
+NSAIDS非笛体类抗炎药
+dissociative anaesthetics (ketamine)
+水溶性麻醉剂（氯胺酮）
+α-2 adrenergic agonists (xylazine, medetomidine)
+a-2肾上腺受体激动剂
+（赛拉嗪、美托米定）
+local anaesthesia
+lidocaine    < 4  mg/kg
+bupivacaine < 2 mg/kg
+局部麻醉
+利多卡因
+< 4 mg/kg
+布比卡因
+< 2 mg/kg
+Opioids 阿片类药物
+mg/kg
+Butorphanol
+0.5
+IM, IV
+hawks 鹰
+布托啡诺
+5
+PO
+amazon parrots亚马逊鹦鹉
+2-5
+IM
+amazon parrots 亚马逊鹦鹉
+1
+IM
+african-gray parrots
+非洲灰鹦鹉
+Buprenorphine 0.01
+IM
+african-gray parrots
+非洲灰鹦鹉
+丁丙诺啡
+0.25
+IM
+pigeons 鸽子
+Tramadol
+10
+PO
+raptors 猛禽
+曲马多
+NSAIDs非笛体类抗炎药
+Analgesics
+Dose 剂
+Route
+Species
+量
+止疼药
+给药途径
+物种
+Carprofen
+30
+IM
+Chicken
+卡洛芬
+鸡类
+3
+IM
+Amazon parrots
+亚马逊鹦鹉
+Ketoprofen
+2.5
+IM
+Budgerigars
+酮洛芬
+虎皮鹦鹉
+Meloxicam
+1
+IM
+Amazon parrots
+美洛昔康
+亚马逊鹦鹉
+0.1
+IM
+Budgerigars
+虚皮鹦鹉
+0.5
+IV
+Ostrich, pigeons
+驼鸟、鸽子
+2
+IM, PO
+Cranes
+鹤
+Monitoring 监护
+reflexes (various between species)
+反射 (物种差异性)
+palpebral reflex眼脸反射
+cerereflex蜡膜反射
+pedalreflex脚垫反射
+cornealrelex角膜反射
+body temperature
+体温
+cardiovascular system
+心血管系统
+respiratory system
+呼吸系统
+Monitoring 监护
+reflexes（variousbetween species）反射（物种差异性）
+body temperature 体温
+cardiovascular system
+心血管系统
+heart rate,rhythm 心率心律
+peripheral pulses 外周脉搏
+electrocardiogram (ECG) 心电图
+blood pressure (indirect method) 血压
+respiratorysystem呼吸系统
+rate,rhythm,depth 率、律、深度
+ETCO，终末二氧化碳
+SpO2血氧浓度
+blood gas analysis 血气分析
+Monitoring 监护
+reflexes（various between species）反射（物种差异性）
+body temperature 体温
+cardiovascular system
+心血管系统
+·heart rate,rhythm 心率心律
+·peripheralpulses外周脉搏
+electrocardiogram (ECG) 心 电图
+ blood pressure (indirect method)
+respiratorysystem呼吸系统
+rate，rhythm,depth 率、律、深度
+·ETCO，终末二氧化碳
+·SpO血氧浓度
+·blood gas analysis 血气分析

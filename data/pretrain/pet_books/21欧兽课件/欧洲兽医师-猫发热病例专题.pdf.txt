@@ -1,0 +1,297 @@
+FeverCases发热病例
+Michael R. Lappin, DVM, PhD, DACVIM
+Professor, Colorado State University
+mlappin@colostate.edu
+Feline Medicine2China
+ESAVS
+Infectious Diseases
+European School for
+12.-16.August2013
+Advanced VeterinaryStudies
+UNIVERSITY OF
+http://www.esavs.org
+LUXEMIOURG
+Fluffy
+ 7 year, female-spayed, Siamese
+）7岁，母猫绝育，暹罗猫
+History病史
+一Intermittentlameness间歇性跋行
+-Intermittentfever间歇性发热
+-Weightloss体重减轻
+-Inappetence 食欲不振
+-Red eye 红眼
+Outdoor cat室外猫
+-Historyofhunting捕猎的历史
+Fluffy
+Physical examination体检
+- 104.2 F (40.1C)
+Bilateraluveitis双侧葡萄膜炎
+- Non-specific hyperesthesia
+一非特异性感觉过敏
+-Thin消瘦
+Fluffy
+Complete blood cell count - normal
+全血计数一正常
+Urinalysis-normal尿液分析-正常
+Serum biochemical panel血清生化
+ AST 400 IU/L
+-Normal正常=< 100 IU/L
+FeLV antigen negative
+FeLV抗原阴性
+FIV antibody positive
+FIV抗体阳性
+What is the most likely cause of
+endogenous uveitis in Fluffy?
+导致Fluffy内源性葡萄膜炎的最可能病因
+是什么？
+1.
+FIP
+2.
+FeLV
+3.
+FIV
+4.
+Ehrlichiaspp.埃里希氏体
+5.
+Toxoplasmagondii弓形虫
+6.
+Cryptococcusneoformans新型隐球菌
+7.
+Bartonellahenselae汉赛巴尔通氏体
+8.
+Felineherpesvirus 1猫疱疹病毒1
+"Fluffy"
+·Toxoplasmaserology弓形虫血清学
+- IgM 1:512
+-IgG 1:1024
+Enough information to prescribe treatment?
+有足够的信息来给药治疗了吗？
+Lappin MR, Greene CE, Dawe DL. Clinical feline
+toxoplasmosis: Serologic diagnosis and therapeutic
+management of 15 cases. J Vet Int Med 3:139-143, 1989.
+For suspected feline toxoplasmosis, !
+generally prescribe:
+对于怀疑猫弓形虫，我通常开药：
+1.Clindamycin克林霉素
+2.Azithromycin阿奇霉素
+3.Ponazuril伯纳珠利
+4.Trimethoprim-sulfa磺胺甲氧苄氨密啶
+Clinical Toxoplasmosis
+临床弓形虫病
+Treatment 治疗
+-Clindamycin克林霉素
+· 10-12 mg/kg, P0, q12hr
+-Trimethoprimsulfa磺胺甲氧氨苄嘧啶
+· 15 mg/kg, P0, q12hr
+一Azithromycin?阿奇霉素？
+· 10 mg/kg, P0, q24hr
+·Ifpneumonia ispresent如果出现肺炎
+一Doxycycline？多西环素？
+· 10 mg/kg, P0, q24hr
+· If other causes of fever (hemoplasmas, bartonellas)
+are likely
+如果可能是发热的其他因素（支原体，巴尔通氏
+体）
+Clinical Toxoplasmosis
+临床弓形虫病
+Ocular disease眼部疾病
+-Topicalglucocorticoids局部糖皮质激素
+ All cases with uveitis and no ulcers
+·所有病例都有葡萄膜炎，但没有溃疡
+-Resistanttotopical对外用药耐药
+·Oralglucocorticoids口服糖皮质激素
+·Parenteralglucocorticoids肠外糖皮质激素
+FIV
+ Primary disease syndromes
+主要疾病综合症
+Fluffy could have
+-Fever发热
+had uveitis from T.
+Enteritis肠炎
+gondii or FIV!
+How can you tell
+-Glomerulonephritis肾小球肾炎
+the difference?
+-Renal azotemia肾性氮质血症
+Fluffy可能是由于弓
+-Uveitis葡萄膜炎
+形虫或者FIV导致的葡
+- Behavioral/neurologic
+萄膜炎！你如何来区
+别呢？
+- 行为/神经性
+English RV, Davidson MG, Nasisse MP, Jamieson VE, Lappin MR. Intraocular
+disease associated with feline immunodeficiency virus infection in cats.
+J Am Vet Med Ass0c 1990;196:1116-1119.
+The only way to diagnosis a
+FIV antibodies or FeLV antigen are not
+"Sparky"
+"Sparky"
+History病史
+- Mucopurulent nasal discharge
+一粘液性化脓性鼻分泌物
+· 2 weeks previously 2周之前
+· Resolved spontaneously 自 愈
+-Inappetance食欲不佳
+-Depression沮丧
+- Exercise intolerance with stiffness
+一运动不耐受，僵硬
+"Sparky"
+Physical examination体检
+一Extremejointpain关节异常疼痛
+-Depression沉郁
+- 104.2 F (40.1 C) rectal temperature
+一直肠温度104.2F（40.1 C）
+Initial diagnostic plan?
+·最初的诊断计划?
+"Sparky"
+ CBC
+Neutrophilicleukocytosis中性粒细胞增多症
+-Leftshift核左移
+-Normalplatelet count正常的血小板计数
+Biochemical panel/urinalysis 生化/尿检
+FeLV antigennegativeFeLV抗原阴性
+FIV antibody positive FIV抗体阳性
+"Sparky"
+RadiographsX光
+一Non-erosive无糜烂表现
+Arthrocentesis关节穿刺术
+-Carpiand tarsi腕关节和关节
+- Non-septic, suppurative polyarthritis
+非脓毒性，化脓性多发性关节炎
+· 9o% non-degenerative neutrophils
+·90%非退行性中性粒细胞
+Most likely diagnosis for Sparky?
+Sparky最可能的诊断?
+1.
+Felinefoamyvirus猫泡沫病毒
+2.
+FIP
+3
+Mycoplasmaspp.支原体
+4
+Ehrlichia/Anaplasma埃里希氏体/无浆体
+5.
+Calicivirus杯状病毒
+6.
+Immunemediated免疫介导
+"Sparky"
+·Further diagnostic plan进一步计划
+- Aerobic, anaerobic, Mycoplasma culture
+需氧，厌氧，支原体培养
+一Mycoplasma spp.PCR支原体PCR
+·Mycoplasmafelispositive猫支原体阳性
+"Sparky"
+·Doxycycline多西环素
+- 5 mg/kg, PO, BID, 42 days
+Clinicalresolution临床症状改善
+Recurrence of polyarthritis
+多发性关节炎复发
+-Enrofloxacinresponsive恩诺沙星治疗有反应
+"Sparky"
+Recovered!康复！
+"pepe'
+2 year, male castrated, domestic cat
+2岁，公猫去势，家养猫
+History病史
+Inappetance and lethargy-3 days
+无食欲和嗜睡一3天
+Indoor outdoor cat室内室外活动猫
+Current on routine vaccines, but not within 1 month
+最近进行常规免疫，但是不在1个月之内
+physical examination 体检
+Rectal temperature-104.5 F (40.3 C)
+直肠体温-104.5F（40.3 C）
+Otherwise normal
+其他正常
+"pepe"
+Initial diagnosticplan最初的诊断计划
+- CBC
+·Neutrophilicleukocytosis中性粒细胞增多症
+·Leftshift核左移
+·RBC and platelets normal红细胞和血小板正常
+一FeLV antigennegativeFeLV抗原阴性
+一FIVantibodynegative FIV抗体阴性
+"pepe"
+Cellulitis suspected怀疑蜂窝织炎
+Initial therapeuticplan最初的治疗计划
+- IV fluids with 20 meg KCl
+一静脉输液，加20 meg KCl
+一IVampicillin静脉输注氨苄西林
+· 22 mg/kg, q8hr
+Clinical response 临床反应
+-None after 2.5 days
+Whattodo?做什么呢？
+1.
+Bloodculture血培养
+2.
+FIPmRNAtest猫腹膜炎mRNA测试
+3.
+T.gondiiserology弓形虫血清学
+4.
+Switchtoaquinolone转变为喹诺酮药物
+5.
+Switchtoclindamycin转变为克林霉素
+6.
+Switchtocefovecin转变为头孢维星
+Refer转诊
+7.
+8.
+Euthanize安乐
+9.
+Other其他
+What if he had eaten an
+bird in the last 14 days???
+如果在过去的14天内他吃了一只鸟呢？
+"pepe"
+Stoolculture粪便培养
+-Salmonella typhimurium鼠伤寒沙门氏菌
+Bloodculture血液培养
+一Salmonella typhimurium鼠伤寒沙门氏菌
+“Songbird fever”“鸣禽热"
+Salmonellosis
+沙门氏菌病
+Mixed bowel diarrhea混合的肠道腹泻
+Feverandneutropenia发热和中性粒细胞减少症
+Poultryexposure与家禽接触
+Crowded cat environments拥挤的猫生活环境
+Songbirds禽鸣
+Treat only bacteremic 仅治疗菌血症
+：Quinolonesparenterally喹诺酮类药物，不经肠道给药
+ Small Anim Pract. 2000 Aug:41(8):339-41
+OutbreakofSalmonellatyphimuriumincatsandhumans
+associatedwithinfectioninwildbirds.
+Tauni MA, Osterlund A
+Karlstad Small Animal Hospital, Sweden.
+Abstract
+An outbreak of Salmonella typhimurium infection in cats and humans in Sweden in 1999, associated with wild birds, is
+described. In the county of Varmland, 62 sick cats were examined. All were anoreclic and lethargic, 57 per cent had vomlling
+and 31 per cent had diarrhoea. It was considered likely that salmonellosis was transmitted from cats to humans, but there
+were only a few such cases.
+在猫和人上爆发与野生鸟类感染相关的鼠伤寒沙门氏菌
+SongbirdFever禽鸣热
+62 cats62 只猫
+一Lethargy and anorexia.嗜睡和厌食
+100%
+一Leukocytosisw/leftshift.白细胞增多症/核左移
+97%
+-Fever.发热
+89%
+一Vomiting.呕吐
+57%
+-Diarrhea.腹泻
+31%
+Tauni and Osterlund. J Small Animal Pract 2000;41:339-341.
+Fever
+·Cases发热病例
+Final Questions?
+问题？
+Feline Medicine 2 China
+ESAVS
+Infectious Diseases
+EuropeanSchool for
+12.-16.August2013
+Advanced Veterinary Studies
+UNIVERSITY OF
+http://www.esavs.org
+LUXEMIOURG

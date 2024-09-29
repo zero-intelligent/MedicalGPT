@@ -1,0 +1,303 @@
+Introduction
+Interpretationof
+Radiographic Studies
+X光读片介绍
+Prof. dr. Paul Barthez, Dip ACVR, Dip ECVDI
+美国兽医影像学协会认证兽医，欧洲兽医诊断影像学协会认证兽医
+VEDIM, Luxembourg
+pbarthez@hotmail.com
+Introduction
+引言
+"Radiographic interpretation is a logical process during
+which radiographic signs are looked for, recognized,
+classified as normal or abnormal and related to clinical
+signs. A differential diagnosis is established in order to
+identify appropriate medical or surgical therapy."
+“解读X光片是一个富含逻辑的过程，其包括寻找、识别、区
+分放射线征象正常与否，并将其与临床症状相联系。建立
+一个鉴别诊断以求确定合适的药物或手术治疗方法?
+Timothy O'Brien. Radiographic Diagnosis of Abdominal
+Disorders in the Dog and Cat. WB Saunders, 1978.
+Introduction
+引言
+"Radiographic interpretation is a logical process during
+which radiographic signs are looked for, recognized,
+classified as normal or abnormal and related to clinical
+signs. A differential diagnosis is established in order to
+identify appropriate medical or surgical therapy."
+“解读X光片是一个富含逻辑的过程，其包括寻找、识别、区
+分放射线征象正常与否，并将其与临床症状相联系。建立
+一个鉴别诊断以求确定合适的内科或外科治疗方法”
+Timothy O'Brien. Radiographic Diagnosis of Abdominal
+Disorders in the Dog and Cat. WB Saunders, 1978.
+Steps in Radiographic Interpretation
+X光片读片步骤
+TechnicalEvaluation技术评估
+Description of radiographic signs
+对X光征象的描述
+Interpretation / (differential) Diagnosis
+判读/（鉴别）诊断
+Recommendations建议
+Quality Control of Radiographic Examinations
+X光检查的品质控制
+Procedure
+操作程序
+ImageQuality图像质量
+Quality of the positioning
+使用体位的质量
+- Compared to standard
+Denied
+与标准体位相比较
+拒绝
+Structural problem
+Accepted接受
+结构性问题
+TechnicalEvaluation
+技术评估
+Radiographic protocols
+拍摄X光操作程序
+- At least 2 orthogonal views
+至少拍2个相互垂直体位的影像
+- Specific projections
+特殊投照位
+TechnicalEvaluation
+技术评估
+Qualityoftheview图像质量
+-- Angle and positioning of the patient
+动物的体位和角度
+-Centerof thex-raybeamX射线束的中心
+一Fieldsize投照面大小
+TechnicalEvaluation
+技术评估
+Image
+eQuality图像质量
+-Brightness亮度
+-Contrast对比度
+-Spatialresolution（detail)空间分辩率（细节）
+- Noise (Digital radiology)
+噪点（数字化放射线成像）
+Description ofRadiographicSigns
+X光征象的描述
+Visual step:detection of signs视觉步骤：发现征象
+Searchingforspecific signs：寻找特殊征象
+-"You see what you look for and you look for what you know"
+“你看到你所寻找的，你寻找你所知道的”
+Reference to similar image taken in a normal animal :
+参考正常动物拍摄的相似的X光片
+-Experience经验
+ Radiographic atlas / Anatomy textbook
+X光图谱/解剖教科书
+Previousexam之前的检查
+ Radiographs from a patient of similar
+breed/age类似品种/年龄患犬的x光片
+Contralateral limb对侧肢体
+DetectionofRadiographicSigns
+发现X光征象
+Severalmethods:几种方法：
+-Takewhatevercatchyoureyes！留意任何吸引I你的东西！
+Relyonclinical signsof thepatient根据患犬的临床表现
+-Syste
+·Lir
+Or
+按
+DetectionofRadiographicSigns
+发现X光征象
+Severalmethods:几种方法：
+-Takewhatevercatchyoureyes！留意任何吸引I你的东西！
+-Relyonclinicalsignsof thepatient根据患犬的临床表现
+Detection ofRadiographic Signs
+发现X光征象
+Severalmethods:几种方法：
+-Takewhatevercatchyoureyes！留意任何吸引I你的东西！
+-Relyonclinical signsof thepatient根据患犬的临床表现
+一Systematic examination全身检查
+·Linear线性
+· Organ by organ with a “check list"
+按“检查顺序表”逐个器官进行检查
+DetectionofRadiographicSigns
+发现X光征象
+ Be careful: a train can hide another train !
+，小心：一辆火车会遮挡住另一辆火车！
+UN TRAIN PEUT EN
+CACHER UN AUTRE
+HA
+COUPEZLEMOTEUR
+EN CASD'ARRET
+Detection ofRadiographic Signs
+发现X光征象
+Don't stop at the first abnormal finding
+不要在发现第一处异常情况后就停止观察
+Several significant abnormalities can be present
+on the same set of radiographs
+同一张片子上可存在多处明显的异常
+Clinical signs can be ambiguous or erroneous
+临床症状可能模棱两可或是错误的
+Incidental findings can have clinical
+conseguences偶然的发现也可具有临床上的后果
+DetectionofRadiographicSigns
+发现X光征象
+·Takeyourtime！平心静气，不要着急！
+Stay away from the pressure of the owner
+远离来自畜主的压力
+Look at the entire radiographs
+观察整张X光片
+Detection ofRadiographic Signs
+发现X光征象
+Keep some distance from the clinical signs and
+don't be influenced by the
+clinical diagnosis.
+观察不要完全依照临床症状，
+也不要受到临床诊断结果的影响。
+Description of Radiographic Signs
+X光征象的描述
+Changes in:改变
+-Size大小
+Shape形状
+Contour轮廊
+Position位置
+Opacity不透明度
+Specificsigns特殊征象
+-Pleural fissurelines胸膜裂隙线
+- Pulmonary patterns ...
+肺部的模式.··
+Significance of Radiographic Signs
+X光征象的意义
+·Jointspace？关节腔？
+Significance of Radiographic Signs
+X光征象的意义
+How many bones involved ?
+病变波及到几块骨骼？
+Interpretation/Diagnosis
+解读诊断
+Interpretation: reason to explain a
+radiographic finding
+解读：可以解释一个X光征象的理由
+Why did the heart
+disappear ?
+为什么心脏消失不见了？
+(Differential)Diagnosis
+（鉴别）诊断
+Radiographic signs + clinical signs
+SX光征象十临床症状=
+-Unequivocal diagnosis明确的诊断
+-Differential diagnosis鉴别诊断
+(Differential)Diagnosis
+（鉴别）诊断
+Based on radiographic observations
+基于X光片的观察结果
+Based on species, breed, age, gender
+基于种类、品种、年龄、性别
+Based on clinical signs of the patient
+基于病畜的临床症状
+ Based on results of other tests
+基于其它检查的结果
+(Differential)Diagnosis
+（鉴别）诊断
+Consequences of radiographic
+interpretation on patient's future
+X光解读结果对病畜未来的影响
+Metastases？转移灶？
+(Differential)Diagnosis
+（鉴别）诊断
+Consequences of radiographic
+interpretation on patient's future
+X光解读结果对病畜未来的影响
+Cardiomegaly？心脏肥大？
+(Differential)Diagnosis
+（鉴别）1
+诊断
+Consequences of radiographic
+interpretation on patient's future
+X光解读结果对病畜未来的影响
+DOORN,KAT3J
+0501851
+22 Feb05
+TIs1.6MI0.8
+VeterinaireRadiologie
+P7-4P.Card/kat
+12:08:29
+74Hz6.4cm
+Map3
+170dB/C3
+Persist Low
+2DOpt:Gen
+Fr Rate:Med
+BWOPgo
+Colo
+Pg0
+BPM
+Recommendations
+建议
+Obtain more information:
+获取更多的信息
+一Forthediagnosis用于诊断
+-Forthetreatment用于治疗
+Recommendations
+建议
+Based on the certainty and precision of
+the diagnosis
+基于诊断的确定性和精确度
+- Possible treatment ?
+一可能的治疗措施？
+Recommendations
+建议
+· Based on the certainty and precision of the
+diagnosis基于诊断的确定性和精确度
+-- Possible treatment ?
+可能的治疗措施？
+- Need more information
+for the diagnosis ?
+需要更多信息以做出诊断？
+Recommendations
+建议
+· Based on the certainty and precision of the
+diagnosis基于诊断的确定性和精确度
+-- Possible treatment ?
+可能的治疗措施？
+5.0MHE
+ABDMYER
+- Need more information
+PWR=
+60dB3
+GAIN=
+for the diagnosis ?
+MOVE
+需要更多信息以做出诊断？
+Recommendations
+建议
+Based on the certainty and precision of the
+diagnosis基于诊断的确定性和精确度
+- Possible treatment ?
+可能的治疗措施？
+- Need more information
+for the diagnosis ?
+需要更多信息以做出诊断？
+Need more information to find
+the most appropriate treatment ?
+需要更多信息以求找到
+最合适的治疗方法？
+Conclusion
+结论
+Diagnosis on the best interest of the patient
+诊断建立在病畜最为重要的症状之上
+Inagreementwiththeowner取得畜主的同意
+Follow a reproducible procedure for each examination
+每个检查都要使用能够重复进行的操作程序
+Look at the radiographs仔细看X光片
+Follow a logical thought process
+遵循一个具有逻辑的思考过程
+Medicaldecision治疗决策
+RadiologyLabs
+X光实践操作
+Workstations 工作站
+-Computerlab电脑操作
+-MergeeFilmsoftware合并电子胶片的软件
+- 3 (4) participants per station
+每个工作站3一4名参与者
+Selfstudyingsessions自学部份
+- Look at the images available
+观察提供的图像
+：Discuss and make a decision 讨论并做出结论
+Writethereport写出报告
+- 1 case for ~15minutes一个病例15分钟左右
+Groupdiscussion all together所有小组一起讨论

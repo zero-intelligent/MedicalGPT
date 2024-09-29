@@ -1,0 +1,8590 @@
+Geza Zboray·Zsolt Kovacs·Gyorgy Kriska
+Kinga Molnar·Zsolt Palfia
+Atlas of Comparative
+Sectional Anatomy
+of6invertebratesand5vertebrates
+SpringerWienNewYork
+小尾巴宠物健康中心http://ttahc.taobao.co m
+ SpringerWien NewYork
+Géza Zboray · Zsolt Kovacs · Gyorgy Kriska ·
+Kinga Molnar · Zsolt Palfia
+Atlas of Comparative
+Sectional Anatomy
+of 6 invertebrates and 5 vertebrates
+SpringerWien NewYork
+Dr. Géza Zboray · Dr. Kinga Molnar · Zsolt Palfia
+Eotvos Lorand University, Budapest, Hungary
+Dr. Zsolt Kovacs
+Department of Zoology, Faculty of Natural and Technical Sciences, Savaria Campus
+Aiebunh 'layieqwozs Xiebunh isam jo Aisiaajun
+Dr. Gyorgy Kriska
+Section for Methodology in Biology Teaching, Faculty of Science
+Eotvos Lorand University, Budapest, Hungary
+This work is subject to copyright.
+is concerned, specifcally those of translation, reprinting, re-use of
+illustrations, broadcasting, reproduction by photocopying ma-
+chines or similar means. and storage in data banks.
+formation contained in this book. This does also refer to information
+about drug dosage and application thereof. In every individual case
+the respective user must check its accuracy by consulting other
+pharmaceutical literature.
+The use of registered names, trademarks, etc. in this publication
+does not Imply, even in the absence of a specific statement, that
+ such names are exempt frorn the relevant protective laws and regu-
+ 2010 Springer-Verlag/Wien
+Printed in Austria
+SpringerWienNewYork is part of
+Springer Science+Business Media
+springer.at
+Typesetting: Camera ready by the authors
+Printed on acid-free and chlorine-free bleached paper
+SPIN: 12704408
+With 411 figures partly coloured
+library of Congress Control Number: 2010929491
+ISBN 978-3-211-99762-8 SpringerWienNewYork
+OPENING RECOMMENDATION
+A universal goal of science is "to explain the complex visible by some simple invisible" as
+Jean Perrin, Nobel laureate physicist, put it. In other words, we try to find the rule that gov-
+erns what we see and what we experience. Wc havc an insatiable desire to cxplain the world
+around us, perhaps because it is advantageous to reduce uncertainties in our future. A pre-
+requisite to understanding our world is recognising, identifying and classifying living organ-
+isms that we use, wc fcar or we simply marvel at. At first sight the only common thing that
+connects an earthworm, a cockroach and a rat is that they all move, apparently voluntarily,
+and from this we can safely assume that they are animals. This is a plcasing simple rulc be-
+  e ar r ns i ne s ss a  a   oe s i 
+common features to explain their forms. Only when we learn to differentiate and rccognisc
+Organs rmay we find the simple rules that they are all equipped to exchange materials with the
+external world and are equipped and programmed to generate offspring.
+In the last thirty years, spectacular progress has been made in developmental biology re-
+vealing how these forms and organ systems come about. The same sets of genes control the
+formation of body parts with sinilar functions but diffcrcnt dcsigns from vertebrates to in-
+sects and other animals. By expressing or activating these master genes it is possible to grow
+an eye on the leg of an insect, or to grow muscle or liver cells in a dish from undiffcrcntiated
+stem cells. For example, the gene Pax-6 governs eye formation in all bilaterian animais stud-
+ied. The set of Hox genes, coding for eight homeotic proteins contain a conserved DNA bind-
+ing homeobox domain, was discovercd in thc fruit fly as responsible for the orderly sequence
+of body parts from head to the tip of the abdomen. Homologous clusters of Hox genes gov-
+ern the formation of the orderly segmental development of the vertebrate body including ouf
+brain together with its insatiable dcsire to cxplain thc world. Still, thc student looking for or-
+der and homologies in different animals needs to find out what is where.
+The authors of this atlas help us to recognise these simple rules of composition in all the
+commonly studied animals, by taking us on a wonderful journey through their bodics. Onc
+specics of six clades of invcrtebratcs (the largc roundworm of pigs, Ascaris suum; the com-
+mon earthworm, Lumbricus terrestris; the swan mussel, Anodonta cygnea; the edible snail,
+Helix pomatia; the North American crayfish, Orconectes limosus, and the giant cocroach,
+Blaberus giganteus) and one species of five vertebrate classes (the common carp, Cyprinus car-
+pio; the edible frog, Rana esculenta; the red-eared terrapin, Trachemys scripta elegans; the
+chicken, Gallus domesticus, and a laboratory strain of the black rat, Rattus rattus) are shown
+in photographs of unique wholc body scction series. The animals were fixed in order to pre-
+r s as n s  a ps  'sr n o ssd a aa
+ships of different body parts in several planes. Beautifully prcsentcd full size graphics, on fac-
+ing pages to each photograph, explain what we see in the photographs. The atlas comcs with
+digital ilustrations providing stereoscopic views of the specimens. This atlas is of immense
+5
+help to those who want to learn or teach how the common body parts such as thc muscula-
+ture, digestive system, the circulation, the gills and lungs and the reproductive organs are lo-
+cated in response to thc changcs in body shape. Of course, the atlas is only a guide and not a
+replacement for dissecting the animals and identifying the organs in situ.
+Ihat is exactly what I did a long time ago without the aid of an atlas, as a first year biolo-
+gy undergraduate at Lorand Eotvos University, under thc guidance of my teacher, the first au-
+thor Dr Geza Zhoray in Budapest where these specimens were prepared recently. As we mar-
+yelled the “endless forms most beautiful" as Sean B. Carroll expressed it in his book of the
+same title, we learned not only to recognise body parts and the relationships of systeims from
+the earthworm to the rat, but also the rigour of observation and accurate recording. This at-
+las provides a great example how simple prcparations can teach us so much about the aninal
+and its representation. Today, as a neuroscientist and microscopist, remembering my roots, it
+is a special honour for me to warmly rccommend this book to all thosc intcrcsted in thc liv-
+ing world.
+Peter Somogyi, FRS, FMedSci
+15. February 2010
+Professor of Neurobiology
+'The University of Oxford
+6
+ACKNOWLEDGEMENTS
+We have got valuable supporting comments and advice from our highly regarded col-
+leagues: Dr. Eva Fekete, professor, University of Szeged, Faculty of Science, Szeged, Hungary;
+Dr. Katalin Halasy, professor, Szent Istvan University, Faculty of Veterinary Medicinc,
+Budapest, Hungary; Dr Gabor Hollosi, associare professor, University of Debrecen, Faculty of
+Science, Debrecen, Hungary; Dr. Erzsebet Hornung, associate professor, Szent Istvan
+University, Faculty of Veterinary Medicine, Budapest, Hungary; Dr. Janos Kovacs, professor
+emeritus, Fotvos Lorand University, Faculty of Science, Budapest, Hungary.
+We are grateful for their true helpfulness, and for their confidence in our efforts and work.
+We gratefully remember the late Dr. Janos Vajda professor (Semmelweis University, Faculty
+of Medicine, Budapest, Hungary), who gave valuablc pieces of advicc whcn wc startcd this
+work.
+For their useful recommendations and technical assistance we are grateful to Dr. Gahor
+Juhasz (Eotvos Univcrsity, Faculty of Scicncc, Rcscarch Group of Proteomics, Budapest,
+Hungary), and to Tamas Torok (University of West Hungary, Savaria Campus, Faculty of
+Natiral and Technical Sciences, Szombathely, Hungary).
+We are grateful to Dr. Miklos Sass professor (Eotvos Lorand University Faculty of Science,
+Budapest, Hungary) for supporting our efforts, and reading the manuscript.
+We thank Mrs. Zsolt Palfia (Sarolta Sipos) (Eotvos Lorand Univcrsity Faculty of Scicncc,
+Budapest, Hungary) for the editorial work and related corrections of the text.
+The text was translated into English by Dr. Orsolya Szab6-Salfay.
+We thank Dr. Attila L. Kovacs associate professor (Eotvos University, Faculty of Science,
+ Budapest, Hungary) for carefully reading and improving the manuscript.
+We are grateful for Dr. Peter Somogyi, Fellow of the Royal Society, Professor of Neurobio-
+logy, MRC Unit Director (UK) for his preface.
+The authors also wish to extend special thanks to Dr Claudia Panuschka and Mag. Karim
+Ernst Karman, editors of thc Springer Press who provided their expretise to assist and pro-
+mote our work.
+We are also gratcful to our family and lovcd ones for thcir paticnce and support.
+The Authors
+In February, 2010.
+7
+THE AUTHORS
+Dr. Geza Zboray
+assistant professor
+Eotvos Lorand University, Faculty of Science
+Department of Anatomy, Cell- and Developinental Biology
+Budapest, Hungary
+Dr. Zsolt Kovacs PhD
+associate professor
+University of West Hungary, Savaria Campus
+Faculty of Natural and Technical Sciences
+Departimcnt of Zaology, Laboratory of Neurobiology
+Szombathely, Hungary
+Dr. Gyorgy Kriska PhD
+assistant professor
+Eotvos Lorand University, Faculty of Science
+Section for Methodology in Biology Teaching
+Budapest, Hungary
+Dr. Kinga Molnar PhD
+ assistant professor
+Eotvos Lorand University, Faculty of Science
+Departiment of Anatomy, Cell- and Developmental Biology
+Budapest, Hungary
+Zsolt Palfia MSc
+biol.-eng., lecturer
+Eotvos Lorand University, Faculry of Science
+ Department of Anatomy, Cell- and Developmental Biology
+Budapest, Hungary
+8
+CONTENTS
+Introduction to the atlas
+11
+Thc structure of thc atlas
+11
+Materials and methods
+12
+Anatomical abbreviations
+15
+INVERTEBRATES (Inverlebrata)
+The roundworm of pigs (Ascaris suum)
+17
+The earthworm (Lumbricus terrestris)
+25
+The swan mussel (Anodonta cygnea)
+41
+The roman snail (Helix pomatia)
+.53
+The spiny-cheek crayfish (Orconectes limosus)
+73
+The giant cockroach (Blaberus giganteus)
+95
+VERTEBRATES (Vertcbrata)
+The carp (Cyprinus carpio)
+115
+The edible frog (Rana esculenta)
+141
+The rcd eared slider (Trachemys scripta elegans)
+169
+The domestic fowl (Gallus gallus domeslicus)
+.193
+The laboratory rat (Rattus rattus)
+.227
+Index
+273
+INTRODUCTION TO THE ATLAS
+Studying 0.5-1 cm thick, unstained slices of ative anatomy, if their size allowed us to em-
+different fixcd animal carcasses by the unaid-
+ ploy our methods of sectioning. In the case of
+ed eye, with a magnifying glass or a dissecting
+the domestic fowl, we worked on 2-3-week
+stereo microscopc (sectional anatomy) might
+old, sexually immature specimens due to the
+he of grear help in supporting traditional
+size of the available sawing device.
+anatomical studies, in gaining true and de-
+Our Atlas does not include species with to0
+tailed spatial perception. The sectional ana-
+small size (e.g. the green hydra or Dugesia go-
+tomic approach is useful also, because it pro-
+ nocephala - planaria) and intends to pravide
+vides inforniation that is usually lost between
+ a general overview of the sample aninals'
+the dimensions of normal anatomic (dissec
+tional) and histologic (microscopic) dimen-
+tails.
+sions.
+Our Atlas and the CD supplement show
+this very dimension by means of photographs
+THE STRUCTURE OF THE ATLAS
+of the original specimens, by figures with
+their labelled drawings, and 3D (anaglyph)
+The first part deals with the materials and
+photos.
+methods applied. The second one is the list of
+The Atlas is adjusted to the requirements of
+abbreviations. These parts support all chap-
+higher education. Primarily it is aimed at sup-
+ters on the selected sample animals which are
+porting the material of the practical courses
+divided in the following way.
+in comparative anatomy by showing the indi-
+The first two pages show a radiogram-like
+vidual organs in their original and natural po-
+illustration of the undissected body of the
+sition, thereby deepening the knowledge
+to
+ species under scrutiny, to visualize the locali-
+achieve a better understanding of the functio-
+ sation of internal organs and contours. The
+nal anatomy.
+picture on the left shows the organs seen
+In our Atlas many photographs reveal the
+through the imaginarily “transparent" body
+internal structure of certain organs in such de-
+wall, while the one on the right shows the va-
+tail that helps a better understanding of the 
+rious section planes. The figures showing the
+histological structure and related functions.
+organs provide general information without
+The CD supplement can be used for the pur-(
+details. We highlighted the contours of or-
+poses of both higher- and secondary educa-
+ gans that are required to identify the section-
+tion. Using thc Atlas and the CD together al-
+al planes of the specific body slices indicated
+lows both individual anatomical studies and,
+in the second page.
+at the same time, checking the gained knowl-
+Following the first two pages come the fig-
+cdgc.
+ures (drawings and photographs) of the sec-
+Our work may thus help students of biolo-
+tions themselves.
+gy, would be researchers and teachers alike,
+ The location of sections made from male
+just as well as students of veterinary medi-
+ and female animals is shown in one figure.
+cine. We also hope that medical practitioners
+This makes it possible to line up the sections
+and agricultural specialists having an interest
+ made from differcnt animals, and to illustrate
+in comparative anatomy might also benefit
+the relative position and sequence of the spe-
+from it.
+cific organs.
+The Atlas presents fully developed, adult
+The first page also indicates the sex of the
+animals of species usually studied in compar-2
+ animals next to the number of the figure,
+11
+when it can be determined based on the geni-
+Dcvclopmental Biology, Budapest, Hungary).
+tal organs in the specific section plane.
+The  cditorial  work, photography-related
+'T'he indication of the section planes is only
+computer work, and the compilation of the
+approximatc, since all sections shown could
+indcx was performed by Zsolt Palfia (Eotvos
+not be prepared from thc same animal. This 
+Lorand University, Faculty of Science, De
+is the reason why sometimcs diffcrenccs may
+partment of Anatomy, Cell- and Develop-
+ occur t.g. in the colour and the position of
+mental Biology, Budapest, Hungary). The
+the organs. 'This is particularly truc for thc
+ two latter colleagues played an important
+Roman snail, because the internal organs are role in eliminating certain mistakes and in
+found in rather diffcrent positions when the solving certain problcms.
+animal is coining out of its shell.
+To make all organs well recognizable on thc
+photographs of the sections, only the draw-
+MATERIALS AND METHODS
+ings are labelled. Short captions provide in-
+formation on the sectional plane of the spec-
+Fixing invertebrates
+imens seen on the photographs and on the di-
+5-6%% aqueous formaldehyde solution (here-
+rection of the view (e.g. anterior, posterior,
+ after formalin) was used for fixing the carcas-
+lateral). An arrow placed at the end of the fig-
+ ses. Over-anaesthetised animals were immer-
+ure legends shows the right side of the speci-
+sed in formalin, and processed further after
+mcns. The drawings indicate only those struc-
+a period of 2-3 weeks. We ensured that the
+tures that can be clearly identified on the
+volume of the fixation liquid was at lcast ten
+photographs.
+times as much as the volume of the carcass to
+The Atlas ends with an index, which in-
+be fixed, to prevent potentially distructive di-
+cludes the Fnglish version of anatomical ex-
+lution of the fixative by water in the carcass.
+pressions, so that those who are not familiar
+In the case of the spiny-cheek crayfish and
+with the words primarily of Iatin and Greek
+the giant cockroach the fixing compound
+origin may orient themselves in the figures.
+would have only slowly penetrated the cuti-
+cle, so we injected formalin into the inside of
+Latin style nomenclature.
+the body by a syringe equipped with small
+We attached no reference list to the Atlas.
+ gauge injection needle in several sessions, and
+The Atlas is the result of the collective
+in small amounts per session to avoid damage
+work of five authors. Preparation of anatom-
+to the internal organs.
+ical specimens and identification of their de-
+A similar method was used for the Roman
+tails was performed by Dr. Geza Zboray
+snail, where both the body and shell cavities
+(Eotvos Lorand University, Faculty of Scien-
+were filled up with formalin before the ani-
+ce, Department of Anatomy, Cell- and Deve-
+mal was immersed in the fixing solution.
+lopmental Biology, Budapest, Hungary) and
+Dr. Zsolt Kovacs Ph.D. (University of West
+Hungary, Savaria Campus, Faculty of Natural
+Fixing vertebrates
+and Technical Sciences, Department of Zoo-
+The vertebrate carcasscs were also immer-
+logy, Szombathely, Hungary). The photo-
+sed in 5-6% formalin solution after formalin
+graphs were taken and the CD supplement
+ had been injected into their body cavity. We
+was compiled by Dr. Gyorgy Kriska (Eotvos
+ again ensured the volume of the fixative liq-
+Lorand University, Faculty of Science, Section
+uid to be several times biggcr than the body's
+for Methodology in Biology Teaching, Buda-
+volume to be fixed. For animals with larger
+pcst, Hungary). The figures and thcir cap-
+body sizes the fixation period was usually ane
+tions were drawn and prepared by Dr. Kinga month, but turtles, were fixcd for at least two
+Molnar (Eotvos Lorand University, Faculty of months due to their thick “armour" and hard-
+Science, Department of Anatomy, Cell- and ly penetrablc skin.
+12
+The body cavity of the laboratory rat - as
+ 1-2 cim thick sections were preparcd of the
+that of all other mammals - is more divided
+vertebrates with an electrical motor band.
+than the body cavity of the so-called non-
+ saw. Before sawing, fixed bodies were frozen
+mammalian vertebrates. We, thereforc, care-
+/embedded in ice in a deep freezer at approx.
+fully filled up the right and the left thioracic
+ -25°℃ to have organs and organ parts stay in
+cavity, as well as the abdominai cavity with
+ place while sawn, and not to let them become
+formalin separately.
+smudged or pressed.
+Any kind of DIY (do not injure yourself)
+band-saw is suitable for this work, provided
+ Specimens preparcd with razor blade
+that the carcasscs can be placed on its table. It
+Approx. 5-10 mm thick sections were made
+is recommendcd to use a wood industrial
+with razor blades of the large roundworm of
+band-saw bladc, because its rather rare teeth
+pigs, the earthworm, certain parts of the Ro- do not gct blocked with body-parts. Carcas-
+man snail, and the hcad of the cockroach.
+ ses on thc table of the saw were pushed for-
+Bodies were cut with a single “pull", as far ward with a speed of approx. 0.5-1 cm/sec,
+ as it was possible, while being manually fixed
+depending onl the size of the specific species.
+in a dissection plate or Petri-dish.
+ To move thc bodies towards the hand-saw
+Since we were intcrested in section sur-
+blade, wc uscd a billet to protect our hands.
+faces, we did not aim to produce thin sec- S
+ Sections takcn off the table of the saw were
+tions. By the relatively thick sections we put in a plastic container and brought under
+could prevent displacement of organs or or- a sterco microscope, where they were wetted.
+ gan-parts, or occasional falling out of organs After the sections warmed up to room ten-
+and organ-parts from their place while the
+ pcraturc, pieces of tissue and tissue debris
+specimens wcrc moved.
+wcrc reinoved from their surface with a wa-
+After a fcw weeks of fixation in formalde-
+ter-jet. The water-jet (distilled water) was
+hyde-solution, the original colour of organs
+brought to the surface of the specimen cov-
+changes, however, individual structures re-
+ ered with water through an injection necdlc
+main clearly recognizable, and thus, in gener-
+ of medium thickness, from a syringe.
+al, they could be studied without any staining.
+While the section was cleaned, distilled wa-
+The only exception was the large round- tcr was replaced several times in the contain-
+worm of pigs. In this species both the body
+er.
+wall and the internal organs are of the same
+white-greyish colour. Therefore, separation
+of the details was insufficient, thus staining
+Photography
+scction-surfaces (e.g. with toluidinc blue,
+Cleaned sections were placed in clcar water
+ what we used) prooved to be useful.
+ of ambient temperature to prevcnt bubble
+When staining, the colour of sections im- f
+formation that would interfere with photog-
+mersed in the dye solution should be checked
+1raphy. To provide a background that matches
+ often, to avoid overstaining. We uscd 0.5% the photograph, it is practical to use a dark-
+toluidine blue solution. To prepare this stain grey or a sandy coloured paper undcr the
+the solution was heated up twicc to boiling.
+ transparent or semi-transparent containers.
+and then used in a 1/100 dilution. The pH
+A flashlight and a white casting light was used
+was adjusted to approximately 5.
+opposite to it for illumination.
+The two pictures (right and left side) that
+wert neccssary to produce the stereoscopic
+Preparation of sawn specimens
+(3D) illustration, were made by changing the
+Nearly 0.5 cm thick sections were made of
+ position of the specimen the following way:
+the swan mussel, the Roman snail, the spiny- for the first and the second picture the left
+cheek crayfish and the giant cockroach, and side and the right side of the container was
+13
+raised by 0.5 cim, respectively. Io crcate the dimensional spatial experience with a pair of
+stereo imagc wc used the anaglyph technique. red-cyan eye-glasses. An anaglyph picture
+The 3D picturcs displayed on the computer that is also included in the CD supplement is
+monitor or by projcctors provide thc three-  shown below.
+Saggital section from the Roman snail (Helix pomatia L.) - 3D photo
+(The picture provides a tlhree-dimensional experience only if watched with thc provided pair of eye-glasses.)
+The basis of our stcrcoscopic vision is thal with our right and left eye we see objects and parts of objects in
+different angles, despite the significantly overlapping ficlds uof our vision. In order to produce a stereophoto, two
+photographs (a stereophoto-pair) are taken of the specimens to be shown with a fcw degree of difference in the
+visual angle.
+T'he contmonest method to visualize a stereophoto pair is the anaglyph procedure based on the law of com-
+pleinentary colours. During this, by recolouring then overlapping the picture-pairs, a picture is ohtained that
+provides a stcrcoscopic cxperience when watched thirough an adequate (anaglyph) colour-filtering pair of eye-
+glasses.
+This lechnique looks back to an almost 150 year old history, but enjoys its heyday nowadays because com-
+puter technology is available for anyone. In practice, it is the pictures that can be warched through a pair of red.
+jecis, if they do not contain flaming red or cyan details.
+The 124 stereophotos in the CD-ROM supplement of our atlas do nnt contain details of such colours, so the
+viewer can see srereophoros of the photographed details when thcse are displayed ton a computer monitor or
+when projected.
+14
+ANATOMICAL ABBREVIATIONS
+arteria
+lig
+a.
+ligamentum
+aa.
+arteriae
+ligg.
+ligamenta
+aff.
+afferens
+m.
+musculus
+ant.
+anterior, -ius
+mm.
+musculi
+art.
+articulatio
+med.
+medialis
+comm.
+commissura
+n.
+nervus
+corp.
+corpus
+nn.
+nervi
+dext.
+dexter, -tra, -trum
+nucl.
+nucleus
+dors.
+dorsalis
+plex.
+plexus
+duct.
+ductus
+post.
+posterior, -ius
+eff.
+efferens
+proc.
+processus
+ext.
+externus, -a, -um
+r.
+ramus
+for.
+foramen
+rr.
+rami
+ggl.
+ganglion
+sinl.
+sinister, -tra, -trum
+ggll.
+ ganglia
+sup.
+superior
+gl.
+glandula
+tr.
+tractus
+gll.
+glandulae
+V.
+vena
+inf.
+inferior, -ius
+VV.
+venae
+int.
+internus, -a, -um
+ventr.
+ventralis
+lat.
+lateralis, -e
+15
+THE ROUNDWORM OF PIGS
+AsCARIS SUUM (Goeze - 1782)
+mouth
+pharynx
+mesenteron
+>organagenitalia
+feminina
+hindgut
+*transparent" body wall. Dorsal view. (→)
+18
+Figure 2.
+anteriorview
+Figure 3.
+anteriorview
+Figure4.
+anteriorview
+Figure5.
+anteriorview
+Figure 1/B. Dorsal view of Ascaris suum with viscera scen through the "transparent" body wall; with labels
+identifying the position and the view of the presented transversal sections. ()
+19
+musclecells,arms
+dorsalnervecord
+dorsalline
+cuticula
+wallofthepharynx
+hypodermis
+lateralline
+cavumpharyngis
+body
+body
+cavity
+cavity
+muscle cells,
+muscle cells,
+contractile portion
+non-contractileportion
+ventralline
+Figure 2. Transversal section of a female worm. The section was made with razor blade through the pharynx.
+Surface staining with toluidine blue. Anterior view. (+-)
+dorsalline
+dorsalnervecord
+cuticula
+musclecells,
+arms
+hypodermis
+mesenteron
+lateralline
+bodycavity
+lateralline
+excretoryorgan
+musclecells,
+contractileportion
+muscle cells,arms
+musclecells
+non-contractileportion
+ventralline
+the midgut. T'he internal part of muscle cells almost entirely fill in the body cavity.
+Surfacc staining with toluidine blue. Anterior vicw. (t-)
+20
+dorsalline
+musclecells
+cuticula
+non-contractileportion
+hypodermis
+ovarium
+ovarium
+musclecells
+contractileportion
+lateralline
+lateralline
+excretoryorgan
+achisovari
+mesenteror
+uteruswitheggs
+oocytes,nuclei
+ventralline
+Figure 4. Transversal section of a feuale worm. The section was made with razor blade, at the plaiie of
+the uterus. Several eggs can be scen in the uterus.
+Surface staining with toluidine blue. Anterior view. (←)
+dorsalline
+cuticula
+musclecells,arms
+bodycavity
+ductus
+ejaculatorius
+lateralline
+testis/
+ductusdeferens*
+excretoryorgan
+muscle cells,
+contractileportion
+mesenteron
+musclecells
+non-contractileportion
+ventralline
+ventralnervecord
+ Figure 5. Transversal section of a male worm. The section was madte with razor blade at the plane of the
+ejaculatory duct. (*Thc applied method docs not allow for determining if the testis or the deferent duct
+can be seen at the level of the transverse section.) Surface staining with toluidine blue. Anterior view. (←)
+22
+福
+THE EARTHWORM
+LUMBRICUS TERRESTRIS (Linné - 1758)
+ggl.cerebrale
+pharynx
+vesiculaseminalis
+ingluvies
+gaster
+mesenteron
+clitellum
+metanephridia
+supraintestinal/
+dorsalbloodvessel
+Figure 6/A. Position of the main organs of Lumbricus terrestris in situ (above). Dorsal view of the visceral
+organs as seen through the "transparent" body wall. (→)
+Figure 6/B. Dorsal view of Lumbricus terrestris with visceral organs as seen through the "transparent" body
+wall (on the right). Numbers anid lines indicate the plane of demonstrated scctions. (→)
+26
+Figure13.
+|Figure14.
+Figure7.
+anteriorview
+Figure8.
+posteriorview
+Figure9.
+anteriorview
+Figure15.
+Figure10.
+posteriorview
+Figure11.
+posteriorview
+Figure12.
+medialviewIlmedialview
+Figure 12. -- hor.zorital section at the plarie above the rlicgut. dcrsal view
+Figure 15. - horizormal sectior as the plane of tne alirmentary canal. vertral view
+27
+cuticula
+ggl.cerebrale
+epidermis
+coeloma
+connectivum
+mm.dilatatorespharyngis
+circumpharyngeale
+pharyngeal
+epithelium
+bodywall,
+circularmusclelayer
+cavumpharyngis
+bodywall,
+mm.pharyngis
+longitudinal muscle layer
+bloodvessels
+Figure 7. 'Transversal section of the earthwornn through the cerebrat ganglion and thc pharynx.
+Razor blade section. Anterior view. (←)
+epidermis
+cuticula
+body wall,
+circularmusclelayer
+coeloma
+bodywall,
+dorsal wall of thepharynx
+longitudinalmusclelayer
+mm.dilatatores
+pharyngeal
+pharyngis
+epithelium
+cavumpharyngis
+coeloma
+ventralwallofthepharynx
+sectionoftheventralnervecord(ganglion)subneural bloodvessel
+segmental nerve
+Figure 8. Transversal section of thc carthworm through the phuarynx. The dorsal wall of the pharynx is a large
+muscular mass. Razor blade section. Posterior view. (→)
+28
+O
+epidermis
+cuticula
+supraintestinal bloodvessel
+metanephridium
+body wall,
+circularmusclelayer
+bodywall,
+receptaculumseminis
+longitudinal muscle
+layer
+"heart"
+heart"
+(longitudinal section)
+oesophagus
+vesicula seminalis
+coeloma
+dissepimentum
+subintestinal bloodvessel
+bodywall,longitudinalmusclelayer
+ventral nervecord
+Figure 9. Transversal section of tlhe body through the seminal recepiacles.
+Razor blade section. Auterior view. (t)
+epidermis
+cuticula
+bodywall,circularmusclelayer
+supraintestinal bloodvessel
+bodywall,
+longitudinalmusclelayer
+coeloma
+seminal vesicle
+and spermrosettes
+oesophagus
+limecrystal
+esophageal
+(Morren's)gland
+lateralseta,
+follicle
+seminal vesicle,
+dissepimentum
+spermreservoire
+partoftheventralseta
+Subintestinalbloodvessel
+ventralnervecord
+subneural bloodvessel
+Figure 10. Transversal section of the body through the esophageal (Morren's) gland, the seminal vesicte and
+thie sperm reservoir. Section made with razor blade. Posterior view. (→)
+30
+?
+epidermisclitelli
+cuticula
+bodywall,
+circularmusclelayer
+supraintestinal bloodvessel
+bodywall,
+longitudinalmusclelayer
+chloragogen cells
+coeloma
+mesenteron
+typhlosolis
+dissepimentum
+intestinalepithelium
+intestinalcontent
+parietal blood
+vessel
+vessel
+paraneuralbloodvessel
+subneuralbloodvessel
+ventralnervecord
+Figure 11. Transversal scction of the body through the midgut. The intestinal cavity is filled with intcstinal
+contenr. Section made with razor blade. Posterior view. (→)
+cuticula
+coeloma
+dissepimenta
+mesenteron
+metanephridia
+bodywall
+chloragogen
+supraintestinal
+metanephridia
+cells
+bloodvessel
+Figure 12. Horizontal section of the body hchind thc clitellum.
+ Dorsal view of the ventral part of the body. (l)
+32
+Figure 13. Sagittal-longitudinal scction of the anterior third of the aimal. The anterior end of the body is slightly elevated. Razor blade section.
+oralcavit
+nervebundlesof pro
+andperistomium
+ggl.subpharyngeale
+cavumpharyngis
+ggl.cerebrale
+bodywall,
+longitudinal
+layer
+dorsalwallofthepharynx
+pharyngis
+mm.
+t5
+andperistomium
+oralcavity
+mouth
+peristomium
+ggl.subpharyngeale
+avumpharyngis
+ggl.cerebrale
+dorsal wall ofthepharynx
+ventralnerve
+The lumen of the crop and the gizard are distinctly visible.
+mm.retractores
+seminalvesicle
+(spermreservoire)
+dissepimenta
+seminalis
+longitudinal
+musclelayers
+bodywall,
+ingluvies
+pue
+circular
+intestinalcontent
+bloodvessel
+hlor
+36
+Figure 15. Horizontal section of the anterior part of the earthworm made by razor blade. Ventral view of the dorsal half of the body. (f)
+oralcavity
+cavumpharyngis
+wallofthepharynx
+musclelayer
+bodywall
+nusclelayer
+snbeudos
+eud
+chloragoger
+38
+CO
+THE SWAN MUSSEL
+ANODONTA CYGNEA (Linné - 1758)
+m.adductor
+concha
+anterior
+hepatopancreas
+foot
+gaster
+mesenteron
+labial palp
+hinge plate
+ligamentum
+mantleskirt
+cor
+branchia
+kidney
+m.adductor
+posterior
+rectum
+dorsal siphon
+ventralsiphon
+Figure 16/A. Position of the main organs of Anodorta cygnea in the animal. Right side view of the body after
+thc removal of the right half of the shell and the mautle. The ouline of some viscera
+can be seen through thc right. gills.
+42
+Figure 22.
+Figure 17.
+anteriorview
+Figure18.
+posteriorview
+Figure19.
+anteriorview
+Figure 20.
+posteriorview
+ventralview
+Figure 21. - mediansagittal saction, media! viaw
+Figure 16/B. Right side view of Anodonta cygnea after the removal of the righht half of the shell and the
+mantle. Lahcling indicates the location and view of the presented sections.
+43
+Transversal section at the levcl of the middlc portion of the foot.
+mm.transversales
+oranchiamedialis
+dextra
+cavum
+interlamellare
+interlamellar
+junctions
+transverse
+thefoot
+pallil line
+'The other side of the previous section (figure 17).
+mm.pedales
+Posterior vicw. (→)
+mantleskirt
+cavumpalli
+Figure 18.
+typhlosole
+branchia
+sinistra
+ofthe
+peuob
+hepatopancreas
+snuis
+hepato-
+pancreaticus
+transverse
+muscle
+fibersof
+thefoot
+pallial line
+Figure 17. Transversal section of the body through the stomach, the midgut
+musclelayer
+ appendix (bepatopancreas) and the anterior part of the fuot made by saw.
+concha
+ventriculus(gaster)
+mm.pedales
+Anterior view. ()
+foot
+mantleskirt
+cavumpalli
+uctushepato
+pancreaticus
+sinuspedalis
+peuob
+labial palps
+orincipalis
+lateralis
+44
+adductor
+gl. viscerale
+exhalantchanne
+dorsal siphon and
+withtheepibranchial
+space
+branchiamedialis
+(glochidia)
+Figure 20. Transversal section at the level of the posterioradductor muscle
+itsconnectior
+mantle,pallia
+musclelayer
+ectum
+mantleskirt
+cavumpalli
+(female animal; saw cut).
+Postcrior vicw. (→→)
+cavumpalli
+pallium
+canalis epibranchialis
+cavuminterlamellare
+atriumcordis
+"urinarybladder”
+snuis
+branchialis
+afferens
+cavumpalli
+mesenteron
+transverse
+muscle
+thefoot
+snuis
+layer
+ventriculuscordis
+mm.pedales
+uebi
+mantleskirt
+cavumperican
+mesenteror
+typhlosole of the hindgut
+urinarybladder"
+lateralisdextra
+epibranchialis
+medialisdextra
+peuob
+cavumpalli
+pallail line
+branchia-
+branchia
+canalis
+kidneys
+concha
+46
+dled
+Figure 21. Medliansagittal scction of the body (saw cut).
+ Dorsal half of the body in ventral view. (t)
+branchiamed
+branchialat.
+sinistr
+branchia
+efferens
+sn
+50
+THE ROMAN SNAIL
+HELIX POMATIA (Linné - 1758)
+long horn
+pharynx
+penis
+oesophagus
+vestibulum
+flagellum
+gll.mucosae
+gaster
+pulmo
+rectum
+uretersecundum
+cor
+shell
+kidney
+apex
+as seen through the "transparent" wall of the body. (→→)
+Figure 23/B. Dorsal view of Helix pomatia with the visceral organs as seen through the "trausparent" wall of
+the body (on thc right). Laheling indicates the location and view of the presented secrions. ()
+54
+Figure32.
+Figure34.
+Figure 33.
+Figure24.
+posteriorview
+Figure25.
+anteriorview
+Figure 35.
+Figure 26.
+posteriorview
+Figure 27.
+posteriorview
+Figure 28.
+posteriorview
+Figure29.
+anteriorview
+Figure 30.
+anteriorview
+rightview
+rightview
+rightview
+Figure 31. -- horizontal secon of the body at the plarie of the genital aperture, dorsal visw
+5.5
+muscularbodywall
+eye
+transitionfrompharynx
+to esophagus
+long horn(retracted)
+pharynx
+n.tentacularisprimus
+bodycavity
+short horn(retracted)
+common gonopore
+retractormuscle
+ofthe shorthorne
+sinus
+mm.pharyngis
+foot
+lumenglandulaepedalis
+Figure 24. Transversal section of the head in the region of the pharynx and retracted eyes.
+Razor blade section. Posterior view. (→)
+muscularbodywall
+oesophagus
+connectivetissuesheat
+n.tentacularis secundus
+gll.mucosae
+longhorn(retracted)
+longhorn
+ductusglandulaesalivaris
+nerve
+vestibulum
+buccal cavity,
+radula sac,
+muscularwall
+dorsal wall
+shorthorn
+(retracted)
+foot
+commongonopore
+radulaintheradulasac
+protractormusclesofthebuccalmass
+Figure 25. Transversal section of the anterior part behind the head in the region of the pharynx and
+the esophagus. Razor blade section. Anterior view. (-)
+.56
+muscularbodywall
+muscles
+longhorn(retracted)
+penis
+flagellum
+ductus deferens
+wall of thevagina
+long horn(retracted)
+cavumvaginae
+ggl.cerebrale
+cavumbursae
+connectivumcircumpharyngeale
+teloris
+oesophagus
+ductusglandulae
+wallofthe
+bursateloris
+salivaris
+nerve(section)
+radula sac,
+duct.deferens
+dorsal wall
+sinuspedalis
+foot
+gl.pedalis
+lumenglandulaepedalis
+Figure 26. Transversal sectioil of the anterior part behind the animal's head in the region of the pbaryrx,
+penis and deferent duct. Razor hlade sccTion. Pusterior vicw. (→)
+ostiumductideferentis
+penis
+gll.mucosae
+muscularbody wall
+epiphallus
+long horn(retracted)
+longhorn(retracted)
+flagellum
+wall ofthevagina
+duct.glandulaesalivaris
+cavumvaginae
+oesophagus
+connectivetissuesheat
+cavum
+bursaeteloris
+connectivum
+circumpharyngeale
+gll.mucosae
+radula sac,
+wallofthe
+dorsal wall
+bursa teloris
+glandsofthe
+foot
+lumen
+sinuspedales
+foot
+glandulaepedalis
+gl.pedalis
+Figure 27. Transversal section of the anterior part of the animal in the region of thie genital organs.
+Razar blade scctian. Posterior vicw. (-)
+58
+gll.mucosae
+vagina
+m.retractorpenis
+muscularbodywall
+gll.mucosae
+duct.gl.salivaris
+spiculumamoris
+long horn
+(retracted)
+transition
+bodycavity
+fromesophagus
+tocrop
+bursateloris
+musclebundle
+nerveofa
+foot
+ganglion
+ductusdeferens
+ggl. suboesophageale
+gl.pedalis
+ductusglandulaepedalis
+Figure 28. Transversal section of the anterior part of the animal in the region of the esophagus, dart sac and
+finger shaped (mucous) glands. Razor blade section. Posterior view. (-→t)
+diaphragma
+cavum palli
+mantleskirt
+pulmo
+pallium
+rr.venaepulmonalis
+glandsofthemantle
+skirt
+spermoviductus,
+parsuterica
+mantleskirt
+glandsofthe
+mantleskirt
+duct.gl.salivaris
+ductusbursae
+copulatrix
+gll.mucosae
+nervenexttothe
+spermoviduct
+crop
+mantleskirt
+spermoviductus,
+r.m.columellaris
+pars prostatica
+spermoviductus,
+sinuspedalis
+parsglandularis
+r.m.columellaris
+duct.gl.pedalis
+gl.pedalis
+nervi
+00
+the spermoviduct. Razor blade section. Anterior view. (--)
+60
+gl.hermaphroditica(ovotestis)
+wallof thevisceral sac
+secondaryureter
+rectum
+pallium
+ductushepatopancreaticus
+cavumpalli
+primaryureter
+hepatopancreas
+kidney
+mm.columellares
+spermoviductus,
+gl.albuginea
+parsuterica
+mesenteron
+ductus
+hermaphroditicus
+spermoviductus,
+parsprostatica
+wallofthe
+visceralsac
+gl.albuginea
+mesenteron
+ductulihepatopancreatici
+ductushepatopancreaticus
+intestinalcontent
+shell
+ductushermaphroditicus
+Figure 30. S
+ Section of the snail sbell and visceral sac inside (made by saw). In the sections of
+the midgut appendix predominates the picture. Anterior view. (t)
+retractormuscles
+r.musculi
+radula sac,
+buccal mass
+of thebuccal mass
+columellares
+dorsalwall
+cavumoris
+long horn(retracted)
+ostium
+sinuspedalis
+maxilla
+protractormuscles
+of thebuccal mass
+foot
+penis
+vestibulum
+mm.transversales
+vagina
+nervi
+ggl.suboesophageale
+ductusdeferens
+Figure 31. Horizontal section of the body in the region of the pharynx, ahove the genital aperture.
+Razor blade section. Dorsal view of the ventral part of the body. (l)
+62
+radula,cartilage core
+connectivumcircumpharyngeale
+(odontophore)
+bodycavity
+radulasac,dorsalwall
+maxilla
+cavumoris
+labiumdorsale
+longhorn
+ductusdeferens
+penis
+mouth
+s
+labiumlaterale
+gll.mucosae
+duct.gl. pedalis
+Figure 32. Mediansagittal section made with razor blade.
+gl.pedalis
+duct.bursaecopulatrix
+sung
+eloris
+oviductus
+nm.peda
+mantleskirt
+enteror
+mantle skirt
+deir
+l.salivar
+duct.bursaecopulatrix
+pericardium(surface)
+liverticulumducti
+pursaecopulatrix
+pars prostatica
+bursaecopulatrix
+oarsuterica
+pulmo
+t9
+lateral wall
+oftheora
+cavity
+einpe
+odontophore
+proctractormuscles
+(um)
+left longhorn
+"  uau saau pue ou prdosas a smos aeud any u mes q apeu Apoq a jo us enleseed t an
+ggl.cerebrale
+orifice of thepedal gland
+sinuslabialis
+the buccalmass
+penis
+dida
+gl.pedalis
+moviductus
+mm.columellaresnervi
+kir
+ebe
+duct.bursae
+copulatrix
+mm.pedales
+foot
+lepatopancreas
+nesenteron
+mesenteron
+ductushermaphroditicus
+gl.hermaphroditica
+gl.albuginea
+hermaphroditicus
+cavumcolumellae
+Secondaryureter
+wallofthe
+risceralsac
+()
+rectum
+66
+odontophore
+duct.gl.pedalis
+retractormusclesof
+thebuccalmass
+site of infolding of
+ggl.suboesophageale
+thelonghorn
+gl.pedalis
+ dos  jo lea u qano uas are spre Aoas y mes Aq apeu apoq ou jo nos earsid te ad
+pharynxeye pigmentation
+longhorn(retracted)
+duct.gl.salivaris
+mm.columellares
+entgastricwall)
+mantleskirt
+salivarygland
+(seenthroughthe
+mantleskirt
+crop
+pallium
+epatopancreas
+diaphragma
+cavum
+!ed!
+duct.bursaecopulatrix
+cavumcolumellae
+v.pulmonalis
+trabeculaecarneae
+rr.venaepulmonalis
+ventriculicordis
+diverticulumducti
+Spermoviductus
+ductusbursae
+caecum
+kidney
+68
+protractormusclesof
+thebuccal mass
+orn
+oralcavity
+Razor biade section. Ventral view of thie dorsal half of the body. (↑)
+buccalmass
+bodycavity
+vagina
+retractormuscle
+ofthelonghorn
+salivaris
+mm.
+70
+THE SPINY-CHEEK CRAYFISH
+ORCONECTES LIMOSUS (RafinesqUe - 1817)
+chela
+antennall
+antennula
+ggl.cerebrale
+legs
+urinarybladder
+ventriculus
+hepatopancreas
+ovarium
+branchiae
+hindgut
+telson
+Figure 36/A. Position of the main organs of Orconectes limosus in situ (abovc). Dorsal vicw of the visceral
+orgalls as seen through the “transparent" wall of the hody. (-→)
+Figure 36/B. Dorsal view of Orconectes lirmosts with the visceral organs as sccn through the “transparent"
+wall of the body (on the right). Labeling indicates the location and view of the presented sections. (→)
+74
+Figure45.
+Figure 37.
+posteriorview
+Figure38.
+anteriorview
+Figure 50.
+Figure39.
+posteriorview
+Figure 49.
+Figure 41. 
+anteriorview
+Figure40.
+posteriorview
+Figure 42. 
+posteriorview
+Figure 43.
+posteriorview
+Figure44.
+anteriorview
+medialview
+Flure47.  - norlzcntal sectlonatthe plaeofts gastrointestinaltract, ventralview
+Figure 49. 0 - a magnif'iecd section of Figure 47
+F'gure 50.
+-- horizortal section at the plarie of th:c sxcretory organ, corsal view
+75
+anteriormusclesofthe stomach
+eyestalk
+carapax
+endophragmal
+oculus compositus
+skeleton
+n.opticus
+cerebralnerves
+ggl.cerebrale
+(surfaceof section)
+coxaltubercleoftheantennall.
+Figure 37. Traisversal scction of the avimal head made by saw.
+Posterior view. (→)
+carapax
+cardio-pyloricvalvecavumventriculi,
+parscardiaca
+densmedialis
+mastax
+denteslaterales
+compressing pad:
+chitinsetae
+and
+hypodermis
+muscularwall
+m.mandibularis
+hepatopancreas,
+lobus anterior
+sinusvisceralis
+endophragma
+endophragma
+sinussternalis
+gillchamber
+branchiostegit
+(carapax)
+branchia
+coxopodit
+sclesofthethoracalleg
+Figure 38. Transversal section at the height of the cardia made by saw.
+Anterior view. (—)
+76
+a.cephalicamedialis
+hypodermis
+wall oftheovary
+oocytes
+mm.thoraco-
+abdominalesdorsales
+gill chamber
+(mm.tensoresabdominis)
+mesenteron
+branchiostegit
+axis branchiae
+ductus
+hepato-
+pancreaticus
+branchial filaments
+hepatopancreas
+mm.thoraco-
+abdominalesventrales
+ventralnervecord
+(mm.flexores abdominis)
+(ganglion and nerves)
+coxopodit
+basipodit
+musclesofthethoracalleg
+Figure 3y. 'Iransversal section of the thorax in the region of the ovarium made by saw.
+Posterior view. (→)
+hypodermis
+cavumcordis
+sinus pericardialis
+ovariumandoocytes
+mm.thoracoabdominalesdorsales
+canalis
+(mm.tensoresabdominis)
+branchiocardialis
+mesenteron
+branchiostegit
+branchia
+theplaceof
+anoocytethat
+pleurit
+hasfallenout
+hepatopancreas
+ductus
+hepatopancreaticus
+mm.thoraco-
+endophragma
+abdominalesventrales
+(mm.flexoresabdominis)
+musclesof the
+sinusventralis
+thoracalleg
+basipoditcoxopodit a.subneuralisventral nerve cord(connectivum)
+Figure 40. Transversal section of the thorax in the region of the caudal part of the ovariur made by saw.
+Posterior view. (-→)
+78
+a.cephalicamedialis
+branchiostegit
+testis
+carapaxtestis
+hepatopancreas
+mm.thoracoabdominales
+dorsales(mm.tensores
+hindgut
+abdominis)
+mm.thoracoabdominales
+gill chamber
+dorsales(mm.tensores
+pleurit
+mm.thoraco-
+abdominalesventrales
+axisbranchiae
+(mm.flexores abdominis)
+sinusvisceralis
+sinusbranchiales
+ventralnervecord
+(ganglion)
+musclesofthethoracalleg
+a.subneuralis
+Figure 41. Trausversal section at the plane of the testicles made by saw.
+Anterior view. ()
+cavumcordis
+ligg.suspensoria cordis
+hypodermis
+walloftheheart
+mm.thoracoabdominales
+sinuspericardialis
+dorsales(mm.tensores
+ductideferentes
+abdominis)
+septumpericardiale
+hepatopancreas
+hindgut
+ductus
+pleurit
+hepatopancreaticus
+branchiostegit
+branchialfilaments
+(transverse sections)
+sinusvisceralis
+mm.thoraco-
+axisbranchiae
+abdominalesventrales
+(mm.flexores abdominis)
+sinusventralis
+musclesofthe
+ventralnervecord
+thoracalleg
+basipodit
+podoxoo
+Figure 42. Transversal section at the plane of the beart made by saw.
+Posterior view. (-→)
+80
+posteriorwall of the heart
+sinuspericardialis
+hypodermis
+mm.thoraco-
+ductusdeferens
+abdominalesdorsales
+(mm.tensoresabdominis)
+branchiostegit
+septumpericardiale
+hindgut
+pleurit
+hepatopancreas
+sinusvisceralis
+mm.thoraco-
+abdominalesventrales
+basisbranchiae
+(mm.flexores abdominis)
+musclesofthe
+sinusventralis
+thoracal leg
+ventralnervecord,
+a.subneuralis
+connectivum
+(transverse section)
+sternit
+Figure 43. Transversal sectionl al the planc of the posterior wall of the bearl made by saw.
+Posterior view. (→)
+tergit
+hypodermis
+mm.abdominales
+dorsales
+a.abdominalis dorsalis
+a.segmentalis
+hindgut
+sinusvisceralis
+mm.abdominales
+ventralnerve
+ventrales
+cord
+a.subneuralis
+sternit
+abdominallegs
+Figure 44. Trausversal sectionl of thc ahdomen made by saw.
+Anterior view. (←)
+82
+Figure 45. Sagittal section of the body made by saw.
+ventriculus,
+mm.maxillares
+entrales
+86
+ggl.cerebrale
+antenna
+antennula
+antenn
+excretoryorgan
+eyestalk
+(1) mes aq apeu aq a jo  esop s jo mra jena poq a jo uosss peo 2t au
+parscardiaca
+m.mandibularis
+oft
+ventriculus,
+parspylorica
+mesenteror
+pyloricvalve
+branchiae
+duct.hepatopancreaticus
+branchiostegit
+thoracales(l-v.)
+pleurit
+defer
+(mm.flexoresabdominis)
+88
+66
+ebralnerv
+Figure 48. Horizontal section of the houdy. Ventral view of the dorsal half of the body made by saw. (t)
+ositionofgastrolith
+ventriculus,
+parscardiaca
+maxi
+alantchanneloftheaillchan
+ssingpad
+ventriculus,
+compre
+ichiae
+snui
+90
+ductus
+hindgutpyloricvalve
+ventriculus,
+m.mandibularis
+ventriculus,
+deferens
+parspylorica
+parscardiaca
+mastax
+(dentes laterales)
+duct.hepatopancreaticus
+hepatopancreas
+mesenteron
+centralis
+filter press
+Figure 49. A nagnified part of figure 47, which reveals details of the sfomach.
+Ventral view of the dorsal part of the body. (f)
+mm.arthropodii
+sinus branchiales
+canales branchiocardiales
+thoracales(1.-ll.)
+m.mandibularis
+etmm.maxillares
+mm.dilatatores
+oesophagi
+etventriculi
+mm.abdominales
+connectivum
+circumoesophageale
+ventrales
+excretoryorgan,
+labyrinth
+excretoryorgan,
+urinarybladder
+a.sternalis
+branchiostegit
+oesophagus(stump)
+hepatopancreas
+exhalantchannelofthegillchamber
+Figure S0. Dorsal view of the ventral half of the body.
+Part of a saw made horizontal section. (l)
+92
+93
+THE GIANT COCKROACH
+BLABERUS GIGANTEUS (Linné - 1758)
+nead
+oesophagus
+pronotum
+elytrum
+(forewing)
+metathorax
+antenna
+ingluvies
+mesenteron
+egs
+rectum
+cercus
+Figure 51/A. Position of the main organs of Blaberus giganteus in situ. Dorsal view of the visceral organs
+as seen through the body wall. (→)
+96
+Figure 64. 
+Figure 52.
+anteriorview
+Figure53.
+posteriorview
+Figure54.
+posteriorview
+Figure55.
+posteriorview
+Figure56.
+anteriorview
+Figure58.
+anteriorview
+Figure57.
+anteriorview
+Figure 59.
+posteriorview
+Figure61.
+anteriorview
+Figure 60. 
+posteriorview
+medialview
+FlgLre 62. O - hor.zontal sectlion at th.a plane of she dlgestlve tract, ventral view 
+Figuire 63. - horizontal section at the pane of the digestive tract, dorsal view.
+Figure 51/B. Dorsal view of Blaberus giganteus with visceral organs seen through the body wall. The position
+and view of each of the demonstrated sections is indicated. (-→)
+97
+tracheae
+m.mandibularis
+corpus cardiacum
+pharynx
+hypopharyngeal
+muscles
+skeletal
+mm.abductores
+elements
+maxillae
+pronotum
+stipes
+palpusmaxillaris
+(stump)
+mandibula
+lacinia
+maxilla
+palpuslabialis
+galea
+glossa
+hypopharynx
+coxa
+Figure 52. Vertical section of the head in the region of the mouth parts (razor made scction).
+Anterior view. (t)
+trachea
+aorta
+musclesofthemouthparts
+pars intercerebralis
+hemolymph(congealment)
+lobus opticus
+oculuscompositus
+ggl.cerebrale
+nn.optici
+connectivum
+circumpharyngeale
+oesophagus
+fatbody
+m.mandibularis
+skeletalelements
+mandibula
+labrum
+denticlesofmandible
+Figure 53. Vertical section of the head at the plane of the mouth parts and behind the cerebral ganglion,
+slightly 1more caudal as compared to the previous plane of section (razor made section).
+Posterior view. (→)
+98
+paraaortictrachealtrunk
+aorta
+paraaortictracheal trunk
+tergit
+ingluvies
+wingroot,tracheal
+trunk
+m.tergocoxalis
+elytrum
+(forewing)
+sternit
+longitudinalmuscleof thethorax
+mm.coxales
+tracheae
+ventralnervecord
+Figure 54. 'Iransversal section of the thorax at thie Ievel of the wings made by saw.
+Pustericor vicw. (→)
+paraaortictrachealtrunk
+aorta
+paraaortictrachealtrunk
+tergit
+cavity of the crop
+lateral
+tracheal
+trunk
+lateral
+tracheal
+trunk
+pleurit
+fatbody
+wallofthecrop
+paraneural trachealtrunk
+ventral nervecordtrochanter
+sternit
+Figure S5. Transversal section of the rmetatborax at the levcl of the crop, made by saw.
+Posterior vicw. (→)
+100
+diaphragma
+cor
+alarymuscles
+tergit
+ostiumproventriculi
+lateral
+tracheal
+lateral
+trunk
+tracheal
+trunk
+pleurit
+fatbody
+dentesproventriculi
+sternit
+ventralnervecord
+wallofthecrop
+Figure S6. Transversal section of the abdomen at the transition between the crop and anterior prorentricie,
+madc hy saw. Antcrior vicw. (←--)
+paracardialtrachealtrunk
+cor
+caeca
+diaphragmandalarymuscles
+colon
+trachea
+mesenteron
+mesenteron
+peritrophicmembrane
+lateral
+lateral
+tracheal
+tracheal
+trunk
+trunk
+pleurit
+mesenteron
+Malpighiantubules
+colon
+sinusperineuralis
+ventralnervecord
+colon
+Figure S7. 'lransversal section of the abdomen, made by saw.
+Anterior view. (+-)
+102
+paraaortictrachealtrunk
+aorta
+paraaortictrachealtrunk
+sinusperivisceralis
+ingluvies
+dorsalsegmentaltrachea
+tergit
+lateral
+tracheal
+lateral
+trunk
+tracheal
+trunk
+pleurit
+sternit
+ootheca
+wallofthegenitalpouch
+embryo
+yolkgranules
+Figare 58. Transversal section at the level of the last pair of legs inadc by saw. Thcrc arc cmbryos
+in the genital pouch. Anterior view. (←)
+tergit
+colon
+oviductus/ovarium*
+lateral
+tracheal
+lateral
+tracheal
+trunk
+oleurit
+ootheca
+oviductus/ovarium*
+oculus compositus
+abdomen
+wallof thegenital pouch
+legs
+embryo
+wall oftheootheca
+sternit
+Figure 59. Transversal section of the abdouen with the genital pouch and embryos within made by saw
+(*the plane of section is in the ovary-oviduct transition). Posterior view. (→)
+104
+gll. rectales
+rectum
+tergit
+fatbody
+sinus perivisceralis
+trachealtrunk
+pleurit
+stigmae
+unitsofthefalseinternal
+skeleton
+unitsofthefalseinternal
+skeleton
+egg inthevagina
+sternit
+Figure 60. Iransversal section of the caudal part of a femalc animal's abdomey made by saw.
+Posterior view. (→)
+gl.accessoria
+colon/rectum*
+tergit
+lateraltrachealtrunk
+tergit,rim
+pleurit
+cercus
+phallus(penis)
+vesicula
+stylus
+sternit
+Seminalis
+Figure 61. Transversal scction of the caudal part of a male animal's abdomey made by saw. (*Thc applied
+method does not allow for any distincion as to whether the cololn or the rectum can be seen
+in thie plane of the secticon.) Anterior view. (+-)
+106
+Ventral view of the dorsal half of the body. (f)
+pulu
+108
+chitinrodsfixingthe
+110
+Mes Aq apeu Apoq sjenrue aeu e jo us [enbeed t9 ane
+fore
+hindwing
+genitalplate
+112
+THE CARP
+CYPRINUS CARPIO (Linné - 1758)
+bulbus olfactorius
+telencephalon
+branchia
+mesencephalon
+bulbus arteriosus
+cerebellum
+ventriculus
+medullaoblongata
+sinusvenosus
+medulla spinalis
+vesica fellea
+vesicanatatoria
+(swimbladder)
+lobirenales
+pinnaeabdominales
+vesicanatatoria
+(swim bladder)
+pinna dorsalis
+pinnaanalis
+pinna caudalis
+Pigure 65/A. Position of the main organs of Cyprinus carpio in situ (abovc). Right lateral vicw of visceral
+Figure 65/B. Lateral view of Cyprinus carpio with visceral organs as seen through the “fransparent" body wall
+(to the right), with the position and vicw of demonstrated transverse sections indicated.
+116
+Figure78.
+Figure76.
+Figure79.
+Figure 77.
+Figure 66.
+posteriorview
+Figure67.
+anteriorview
+Figure 68.
+anteriorview
+Figure 69.
+posteriorview
+Figure70.
+anteriorview
+Figure 71.
+posteriorview
+Figure 72.
+posteriorview
+Figure73.
+posteriorview
+Figure74.
+anteriorview
+ventralview
+dorsalview
+Figurs 75. mediansaglttal seclorn, medlal vlew
+Figlre 78. - horizcntsl section of she heacl, dorsal view
+Fig ure 79.- herizonta' section cf ths head. dorsal vlew
+117
+orbital adipose
+ss
+lenscrystallina
+bloodvessels
+maxillary
+regior
+orbitale
+oralcavity
+oral mucosa
+themaxillar
+rasphenoideum
+Figure 67. Transversal section of the head in the region of the eyeballs.
+branchiae
+Anterior view. (←)
+dilatatormuscles
+hyoideum
+orbitosphenoider
+n.maxillaris
+a.branchialis
+quadratum
+hyoideum
+arteriosus
+cavity
+(n.V./2)
+cornea
+Figure 66. lransversal section of the head in the region of the oral cavity and
+valveofthe
+nasalpit
+ectoethmoideum
+-skin
+musclesof
+themaxilla
+ntermaxilla
+musclesof
+themandibular
+olfactorymucosa
+muscles around the
+hyoideumbone
+intermeningealadiposetissue
+nasal pits. Posterior view. (→)
+bloodvessel
+mesethmoideum
+musclesof themandibular
+openingof thenasalpit
+acrimale
+oralcavity
+quadratum
+goideum
+nyoideum
+118
+R
+skin
+parietale
+intermeningealadiposetissue
+prooticum
+pteroticum
+toruslongitudinalis
+canalis
+valvulacerebelli
+semicircularis
+tectumopticum
+parasphenoideum
+ventriculustertius
+ggl.nervivagi
+diencephalon
+branchial
+branchofthe
+bloodvessel
+vagusnerve
+onthe
+skull base
+spacebetween
+the skullbase
+andthepalatal
+radixaortae
+mucosa
+palatal
+palatal
+cartilage
+mucosa
+plate
+pharynx
+gill raker
+gillarch
+aa.branchiales
+hyoid
+bloodvessel
+apparatus
+operculum
+primary
+lamellae
+gillchamber
+of the gill
+coracoideum
+truncus
+arteriosus
+gill chamber,
+opening
+pinna
+midsagittal septumisolating
+thoracalis
+musclesofthepectoralfins
+musclesofthepectoralgirdle
+Figure 68. Transversal section of the head at the transition from the oral cavity to the pharynx.
+Anterior view. (t)
+120
+redmusclesofthedorsalfin
+septumsagittale
+connectivetissueseptum
+foramenmagnum
+epaxialmuscles
+Weberianopening
+medullaspinalis/
+medulla oblongata
+basioccipitale,
+septumhorizontale
+corpus
+hypaxial muscles
+aortadescendens
+proc.pharyngeus
+upper
+pharyngeal
+tooth
+pharynx
+dens
+pharyngealis
+headkidney
+atrium
+operculum
+sinusvenosus
+ventriculus
+pinnathoracalis
+redmusclesofthe
+pectoralfin
+v.hepatica
+septumtransversum
+"anay au pue qaai jmauaanqd iamnoi a jo uoeai aq u apoq su jo uos esiasue g amat
+Posterior view (→)
+122
+musclesofthedorsalfin
+myomers
+septumsagittale
+myosepta
+epaxial muscles
+a.interspinalis
+medullaspinalis
+osWeberi
+corpusvertebrae
+aortadescendens
+horizontale
+v.cardinalis
+processus
+post.dext.
+pharyngeus
+v.subcardinalis
+m.ossis
+pharyngealis
+ligaments
+oftheswim
+ductus
+bladder
+pneumaticus
+head
+kidney
+v.subcardinalis
+sinistra
+septum
+transversum
+midgut
+"duodenum"
+lien
+branchesofthe
+celiacomesenteric
+arteryandthe
+hepar
+vagusnerve
+midgut
+muscles of the pectoral fin
+Figure 7o. Transversal scctivn of the hody in the region of thc bead kidney.
+Anterior view. (t)
+124
+musclesof thedorsalfin
+myomers
+septumsagittale
+myosepta
+epaxialmuscles
+medulla spinalis
+corpusvertebrae
+arcusneuralis
+v.cardinalis
+posterior sinistra
+n.lateralis
+septumhorizontale
+organum
+hypaxial muscles
+laterale
+tendon ofthe
+opisthonephros
+strecthing muscle
+oftheswimbladder
+aorta descendens
+peritoneal
+pedres
+vesica
+natatoria
+testis
+v.subcardinalis
+testis
+sinistra
+vesicafellea
+V.subcardinalis
+dextra
+radixmesenterii
+ductus
+pneumaticus
+midgut
+lien
+"duodenum"
+midgut
+mesenterialfatdeposition
+midgut
+musclesoftheabdominalfin
+Figure 71. Transversal section of the body in the region of the anterior part of the swim bladder.
+Posterior view. (→)
+126
+pinnadorsalis
+musclesofthedorsalfin
+myomeri
+septumsagittale
+epaxialmuscles
+myosepta
+medulla spinalis
+corpusvertebrae
+arcusneuralis
+n.lateralis
+organum
+laterale
+septum
+horizontale
+aorta
+vesicanatatoria
+descendens
+opisthonephros,
+lobus
+renal blood
+lateroventralis
+vessels
+ovarium
+ovarium
+peritoneal
+adipose
+tissue
+midgut
+hepar
+hepar
+v.hepatica
+pelvicgirdle
+innaabdominalis
+Figure 72. Transversal section of thc hody in the region of the caudal part of the swim bladder.
+Posterior view. (-)
+128
+myosepta
+arcusneuralis
+pinna analis
+entr
+Anterior view. (←)
+sagittale
+1
+muscles
+medulla
+spinalis
+myomers
+myosepta
+proc.spinosus
+dorsalis
+arcusneuralis
+horizontale
+a.caudalis
+v.caudalis
+proc.spinosus
+ventralis
+ovarium
+cavum
+abdominale
+hindgut
+apo pua pep a woy pue oot n au jo us peas  a
+body cavity. Posterior view. (-)
+pinnadorsalis
+mesenterialadipose
+musclesof thedorsal fin
+septumsagittale
+11
+11
+ertebr
+11
+1.30
+(intermeningeal adipose tissue)
+intermaxilla
+oral cavity
+dentale
+hyoideum
+a.branchialisaff.
+truncusarteriosus
+palatalmucosa
+bulbusolfactorius
+hyoidapparatus
+denspharyngealis
+cavumcranil
+frontale
+hypophysis
+icephalor
+entriculus
+SII
+cerebelli
+tuberculum
+Figure 75. Mediansagittal section of the body.
+impa
+oblongata
+oesophagus
+duodenum
+supraoccipitale
+foramenmagnum
+upperpharyngeal
+pneumaticus
+0
+esicafellea
+natatoria
+vesica
+abdominalis
+euuid
+columna
+nbp
+dorsalfinwith
+aa.interspinale
+euul
+132
+人
+floorofthe
+barbel
+fixing andmoving
+arteriosus
+cleithral
+entriculus
+snuis
+Figure 76. Horizontal section of the body in the region of the swim bladder and the heart.
+cleithrumand
+ponp"
+membran
+septum
+headkidney
+Ventral view of the dorsal half of the body. (1)
+(intrahepaticsection)
+v.hepatica
+rdinalis
+esicanatatoria
+pneumaticus
+vesicanatatoria
+portiocaudalis
+myomeri
+pisthonephros
+134
+Figure 77. Horizontal section of the body in the region of the hart, liver and sl.
+pinnathoracalis
+Dorsal view of the ventral half of the body. (↓)
+branchesofthe
+hypaxialmuscles
+celiaco
+myosepta
+nidgut,distalpart
+1.36
+parasphenoideum
+eyefundus
+-sclera
+m.rectus
+ggl.nervi
+pharyngei
+gll. nervi
+Figure 79. Horizontal section of the head in the region of the skull base and
+operculum
+the eyes. Dorsal view of the ventral half of the body. (→)
+olfactory
+n.opticus
+mucosa
+parasphe
+noideum
+branchiae
+vessels
+cornea
+-crystallina
+retina
+sclera
+intermeningeal
+adiposetissue
+mm.operculi
+operculum
+ductussemi
+circularis
+musclefixing the
+prooticum
+musclesofthe
+pharyngealbone
+a
+argentea
+Figure 78. Horizontal section of the head in the region of the brain.
+exooccipitale
+Dorsal view of the ventral half of the body. (-→)
+medullaoblongata
+ventriculusquartus
+lobus vagalis
+cr.olfactorius
+elencephalon
+nesencephali
+entriculus
+acrimale
+cudinalis
+cissue
+ralvula
+cerebelli
+cerebelli
+mpar
+138
+THE EDIBLE FROG
+RANA ESCULENTA (Linne - 1758)
+Figure 80/A. Position of the main organs of Rand esculenta in situ. Dorsal vicw of visceral organs as seen
+through the “"transparent" body wall. (↑)
+1 42
+- dorsal view of the hc lzor tal section at che platne of the acstabulurl
+niev
+anterior
+cerio
+osterior
+SOO
+Figure 101.
+medialview
+Istction thircugh the eyesal.s and the spintal cored
+Ithrough che larynx ard the stc'macl:
+6
+B64568
+8
++o+o
+O+
+Q+O
+Figure
+Figure
+Figure91.
+Figure 92.
+Figure 93.
+Figure
+94.
+ure
+s
+Figure
+Figure 80/B. Dorsal vicw of Ranu escuienta with visccral organs as seen through the "transparent" body wall
+The position and view of demonstrated sections are indicated. (f)
+143
+nares
+bulbusoculi
+palpebrasuperior
+olfactorymucosa
+nictitatingmembrar
+maxilla
+palatum
+cavum
+oropharyngeum
+dentale
+ingua
+skin
+flooroftheoropharyngealcavity
+saccussubmaxillaris
+Figure 81. Transversal section of the head through the oropharyngeal cavity.
+Anterior view. (—)
+frontoparietale
+telencephalon
+stratumpigmentosum
+detachedretina
+retinae
+palpebra superior
+cornea
+iris
+nictitating
+membrane
+lens crystallina
+iris
+palpebrainferior
+squamosum
+parasphenoideum
+palatalmucosa
+pterygoideum
+maxilla
+choana
+mucosalfold
+maxillaryteeth
+vomerineteeth
+palatum
+intermaxillaryteeth
+Figure 82. Iransversal section of the head through the eyeballs. The retina is detached from the choroid at
+several points. Posterior vicw. ()
+144
+OO
+ventriculuslateralis
+paraphysis
+ventriculustertius
+telencephalon
+saccuscraniodorsalis
+thalamus
+orbitosphenoideum
+eyeball,pigmented
+m.temporalis
+posterior segment
+squamosum
+n.opticus
+m.masseter
+parasphenoideum
+external muscles
+of theeyeball
+pterygoideum
+chiasmaopticum
+quadratomaxilla
+palatal mucosa
+dentale
+esophageal entry
+mucosal foldsof
+adituslaryngis
+the oropharyngeal
+cavity
+skin
+mucosa of thefloor
+oftheoropharyngealcavity
+hyoideum
+saccus submaxillaris
+m.hyoglossus
+Figure &3. Transvcrsal scction of the head through the forebrain and the oropharyngeal cavity.
+Anterior view. (←)
+frontoparietale
+paraphysis
+telencephalon
+recessusinfundibuli
+ventriculi tertii
+m.temporalis
+m.pterygoideus
+hypothalamus
+n.opticus
+m.masseter
+externalmuscles
+of theeyeball
+r.palatinalis (n. VIl)
+palatalmucosa
+dentale
+angle of themouth,
+pedres
+cavumoropharyngeum
+lingua
+skin
+saccussubmaxillari
+m.submaxillaris
+m.geniohyoideus
+m.hyoglossus
+Figure 84. Transvcrsal scction of the head through the diencepbalon.
+Posterior view. (-→)
+146
+frontoparietale
+hypophysis
+meninges
+ventriculusmesencephali
+canalessemicirculares
+ggl.prooticum
+prooticum
+membranatympani
+cavumtympani
+parasphenoideum
+m.masseter
+palatal mucosa
+maxilla
+choana
+vomerineteeth
+dentale
+saccussubmaxillaris
+cavumoropharyngeum
+lingua
+m.submaxillaris
+Figure 85. Iransversal section of the head in the region of the midbrain, and middle and inner car.
+Posterior view. (→)
+frontoparietale
+hypophysis
+labyrinthus
+medullaoblongata
+otolith
+prooticum
+columella
+membrana tympani
+parasphenoideum
+cavumtympani
+tuba auditiva
+tubaauditiva
+palatalmucosa
+musclesof the
+mandibular
+apparatus
+dentale
+flooroftheoropharyngealcavity,
+adituslaryngis
+mucosa
+m.submaxillaris
+Figure 86. Transversal section of the head in the region of the midbrain, and middle and inner car, slightly
+miore caudal as conpared to figure 85. Anterior vicw. (←)
+148
+O
+plexusvenosusvertebralis
+arcusvertebrae
+m.longissimus dorsi
+medulla spinalis
+saccuscraniodorsalis
+corpusvertebrae
+m.dorsalis scapulae
+processus
+transversus
+suprascapula
+branchesof
+m.dorsalis
+spinal nerve
+scapulae
+n.vagus
+oesophagus
+scapula
+bodycavity
+plexus
+laryngeal
+brachialis
+muscles
+n.glosso-
+pharyngeus
+glomus
+articulatio
+caroticum
+humeri
+caputhumeri
+cartilagoarytenoidea
+cavitas articularis
+thoracohumeral
+aditus laryngis
+muscles
+epicoracoideum
+coracoideum
+Figure 87. 'lransversal section of the anterior part of the body at the plane of the larynx and
+the shoulder joint. Anterior view. (—)
+proc.transversus
+medulla spinalis
+arcusvertebrae
+radixdorsalis
+glandularfold,poisonglands
+for.intervertebrale
+corpusvertebrae
+radixventralis
+suprascapula
+ggl.spinale
+radixdorsalis
+etventralis
+plexus
+nervispinalis
+brachialis
+oesophagus
+scapula
+n.hypo-
+glossus
+rima
+glottidis
+plicavocalis
+glomuscaroticum
+ontothe
+carotid artery
+arcusaortae
+articulatiohumeri
+lig.vocale
+thoracohumeralmuscles
+saccuslaryngotrachealis
+coracoideum
+epicoracoideum
+pe xuar a jo uoian aun u poq an jo hed noaue a jo uooas pesiaasi g anii
+the shouider joint. Posterior view. (→)
+1.50
+T
+truncus sympathicus
+medulla spinalis
+proc.spinosus
+arcusvertebraelimesacaround thespinal ganglion
+glandularfold,poisonglands
+musclesoftheback
+proc.transversus
+saccuscraniodorsalis
+arcusaortae
+m.transversum,
+parsvertebralis
+lateral
+lymphsac,
+corpusvertebrae
+clottedlymph
+lung:
+alveolus
+oesophagus
+andthe
+centralairway
+atrium
+dextrum
+et
+hepar
+sinistrum
+bulbuscordis
+etvalvulae
+humerus
+semilunares
+m.transversus
+abdominis
+cavumpericardi
+ventriculus
+pericardium
+thoracohumeral muscles
+Figure 89. 'Iransversal section of the body in the region of the beart and the fungs.
+Anterior view. (+)
+medullaspinalis
+plexusvenosusvertebralis
+m.longissimus dorsi
+corpusvertebrae
+proc.transversus
+suprascapula
+oviductus
+m.dorsalisscapulae
+arcusaortae
+sinister
+arcusaortaedexter
+oviductus
+oesophagus
+gaster
+pulmo
+saccus
+lat.
+humerus
+hepar
+v.cavaposterior
+w.hepaticae
+hepar
+sinusvenosus
+saccus abdominalis
+ventriculus
+sternum
+thoracohumeralmuscles
+Figure 90. Transversal section of the body in the region of the venous sinus and the stomach.
+Anterior view. (+)
+152
+plexusvenosusvertebralis
+ramidorsalesn.spinalis
+arcusvertebrae
+medulla spinalis
+m.longissimus dorsi
+corpusvertebrae
+saccuscraniodorsalis
+oviductus
+corpusadiposum
+oesophagus
+midgut
+saccus
+lateralis
+v.cutanea
+magna
+humerus
+saccus abdominalis
+ww.hepaticae
+ventriculus
+sternum
+thoracohumeralmuscles
+Figure 91. Transversal section of the body in the region of the liver and the stomach.
+Anterior view. (t-)
+urostyl
+m.longissimus
+canalisvertebralis
+rr.dorsalesn.spinalis
+vertebrasacralis
+dorsi
+m.iliolumbalis
+ilium
+saccus craniodorsalis
+oviductus
+oviductus
+rensinister
+aortadescendens
+ovarium
+rendexter
+v.cava
+saccuslat
+posterior
+rr.venae
+cutaneae
+corpus
+magnae
+adiposum
+gaster
+.cutaneamagna
+ovarium
+m.pectoralis,
+pars abdominalis
+hepa
+midgut
+pancreas
+saccusabdominalis
+v.abdominalis
+m.rectus abdominis
+Figure 92. Transversal section of the body in thc region of the ovaries, stomach and the oviducts.
+Posterior view. (-→)
+154
+m.longissimus
+urostyl
+aortadescendens
+m.coccygeosacralis
+dorsi
+rendexter
+ilium
+v.portaerenis
+rensinister
+w.renales
+oviductus
+v.cavaposterior
+corpus
+oviductus
+adiposum
+ovarium
+saccuslateralis
+midgut
+ovarium
+pylorus
+ien
+transitionfrom
+pylorus to duodenum
+m.pectoralis,
+parsabdominalis
+duodenum
+v.abdominalis
+m.rectus abdominis
+midgut
+Figure 93. Transversal section of the body in the region of the otaries, kidneys and otiducts.
+Posterior view (-→)
+m.longissimusdorsi
+urostyl
+aortadescendens
+nn.plexuslumbosacralis
+ren sinister
+ilium
+rendexter
+opistonephric
+cisternamagna
+duct
+peritoneum
+v.portae
+renis
+midgut
+gl. suprarenalis
+saccuslateralis
+testis
+duodenum
+m.transversus
+abdominis
+mesenterit
+m.obliquus
+abdominisexternus
+gaster
+rectum
+midgut
+linea alba
+v.abdominalis
+m.rectusabdominis
+Figure 94. Transversal section of the body through the kidneys and the testicles. The position of the stomach
+can largely vary depending on tlie status of the animal. Anterior view. (←)
+156
+cavumnas
+palatalmucosa
+telencephalon
+seiu
+ypo
+entriculus
+pec
+plexuschorioideus
+ventriculiquarti
+medullaspinalis
+Figure 95. Mediansagital section of the body.
+cavum
+m.longissimus
+nn.spinales
+vertebralis
+lumbosacralis
+1.58
+ramidorsales
+arcus
+cerebellum
+medulla
+vertebrae
+medulla
+ventriculus
+nn.spinales
+spinalis
+oblongata
+telencephalon
+m.longissimus
+mesencephali
+oropharyngealmucosa
+plexus
+palatalmucosa
+lumbosacralis
+vomer
+vertebrae
+cavumnasi
+gaster
+v.cava
+posterior
+lingua
+sinus
+venosus
+mentomandibula
+hepar
+v.hepatica
+intermaxilla
+m.rectus
+abdominis
+outer lingualmuscles
+andmusclesof
+thefloorofthe
+saccus
+oropharyngeal
+abdominalis
+saccus
+cavity
+ventriculus
+atrium
+laryngo-
+plica
+cavum
+apex
+saccus
+pericardii
+trachealis
+vocalis
+submaxillaris
+pericardium
+m.pectoralis
+linguae
+m.submaxillaris
+Figure 96.
+ Mediansagittal scction of the hcad and the anterior part of the body.
+sinus
+valvula
+arcus
+oesophagus
+venosus
+sinuatrialis
+vertebrae
+plexuslumbosacralis
+medullaspinalis
+lungentry
+gaster
+corpusvertebrae
+v.cavaposterior
+cavum
+oropharyngeum
+larynx
+hepar
+v.hepatica
+plicavocalis
+saccus
+laryngotrachealis
+m.rectusabdominis
+truncus arteriosus
+anditsvalves
+saccusabdominal
+m.pectoralis
+ventriculus
+valva atrio-
+inscriptiotendinea
+pericardium
+crypta
+ventriculare
+sternum
+atriumsinistrum
+ part of the beart and the liver. A magnified part of the figure 96.
+160
+cavumnasi
+sns
+Figure 98. Horizontal section of the body through the larynx and thie stomach.
+Dorsal vicw of the ventral half of the body. (1)
+snbe
+hepar
+spinal nerve branches
+intotheskir
+adiposum
+162
+longitudinalis
+ventriculustertius
+lenscrystallina
+nsse
+sclera
+telen
+d
+sn
+Figure 99. Horizontal scction of the body through thc eyebals, brain and thc spinal cord.
+erebellum
+labyrynthus
+Ventral view of the dorsal half of the body. (↑)
+suenb
+ggl.prooticum
+canalis
+intumescentia
+cervicalis
+brachialis
+medullaspinalis
+segmented
+centia
+adiposum
+thespinalganglion
+plexuslumbosacra
+oroc.
+PiA
+164
+m.transversusabdominis
+ovarium
+gaster
+m.obliquusabdominisext.
+saccus
+lateralis
+m.iliacus internus
+m.pectineus
+m.cruralis
+m.tensor
+saccusfemoralis
+fasciaelatae
+epiphysisdistalis
+femoris
+articulatio
+coxae
+articulatio
+genus
+capsula
+n.tibialis
+articularis
+saccus
+cruralis
+oscruris
+m.plantaris
+longus
+symphysis
+pubica
+m.tibialis anteriorlongus
+m.gracilis
+m.gracilis
+saccus
+major
+minor
+interfemoralis
+Figure 100. Horizontal section of the body. A portion of the abdoinal cavity with the sagittal scction of the
+hind limb. Ventral view of the dorsal half of the body. (t)
+gaster
+midgut
+vesica
+m.transversus abdominis
+urinaria
+m.obliquus
+abdominisexternus
+saccuslateralis
+cavumthoracoabdominale
+saccuslateralis
+m.iliacusint
+ilium
+acetabulum
+saccus
+femoralis
+epiphysis
+proximalis
+femoris
+m.cruralis
+caputfemoris
+symphysis
+pubica
+femur
+m.gracilismajor
+ischium
+pubis
+Figure 101. Horizontal section of the body. Scction of thc bip joint and the femoral bead.
+Dorsal view of the ventral half of the body. (-+)
+166
+THE RED EARED SLIDER
+TRACHEMYS SCRIPTA ELEGANS (Wied - 1839)
+snqinq
+olfactorius
+telencephalon
+mesencephalon
+medulla
+cerebellum
+oblongata
+acromion
+oesophagus/
+scapula
+trachea
+pulmo
+atrium
+gaster
+ventriculus
+lien
+carapax
+ovarium
+ren
+ilium
+Figure 102/A. Position of the main organs of lrachemys scripta eiegans in situ (above). Dorsal view of
+the visceral organs as secn through the *transparent" body wall. (→)
+Figure 102/B. Dorsal view of Trachemys scripta elegans with visceral organs as sccn through the *transparent"
+body wall(to the right). Labeling indicates the location and view of the presented sections. (→)
+170
+Figure120.
+anteriorview
+Figure103.
+anteriorview
+Figure104.
+anteriorview
+Figure105.
+Figure106.
+posteriorview
+Figure107.
+anteriorview
+Figure108.
+posteriorview
+Figure109.
+posteriorview
+Figure110.
+anteriorview
+Figure 11.
+posteriorview
+Figure112. 0
+posteriorview
+Figure 113.
+anteriorview
+Figure 114.
+posteriorview
+medialview
+Flgaure 115.  - hor:zontal sectlion et the cvel of tne head aned the nec<. ventral y.3w
+Figure 116.
+- horizortal section of the head at tre evel of ths head and the meck, doreal view
+Figure 117.
+- horizontal section cf the head et the level of the citasma opticum and the mesenceohslon, ventra vew
+Figuire 113.
+-horizonral section of she head et the level of t:1e rzsal cavlty. the eyeballs ad she brain, dorsal vlew
+Figure 119.
+.- horizontal sectlon of the head et the level of the rasal caviby, the cyeballs and the braln, ventra. view
+171
+frontale
+telencephalon
+palpebrae
+chorioidea
+detachedretina
+septuminterorbitale
+lenscrystallina
+m.rectusmedialis
+cornea
+iris
+ductus
+horny
+nasopharyngeus
+sheaths
+maxilla
+choana
+palatinum
+cavum
+oropharyngeum
+dentale
+apexlinguae
+skin
+m.mylohyoideus
+Figure 103. Transversal section of the head through the cycballs.
+Anterior view. (←)
+parietale
+sinus sagittalis sup.
+skin
+meninges
+mesencephalon:
+tectumopticumet
+mm.temporales
+aquaeductus cerebri
+squamosum
+cavumtympani
+prooticum
+quadratum
+labyrinthus
+branchesofthe
+internal carotid artery
+andoftheexternaljugularvein
+basisphenoideum
+cavum
+oropharyngeum
+hyoideum
+floorofthe
+oropharyngeal cavity,
+floorofthe
+mucosa
+oropharyngeal cavity.
+muscles
+trachea
+cartilagolaryngis
+Anterior view. (←)
+172
+arcusvertebrae
+medullaspinalis
+corpusvertebrae
+v.jugularisdextra
+m.retractor
+capitis colli
+a.carotis
+a.carotis
+comm.
+comm.
+sinistra
+dextra
+cervical
+loosesubcutis
+fascia
+(buffer space)
+layerof theneckcutaneousmuscles
+bufferspace
+oesophagus
+trachea
+Figure 105. Traisversal section of the ncck. 'lhere are so-called buffer spaces in several parts of the animal,
+thus also in the neck ro cnsure head and neck retractability. Anterior view. (←)
+arcusvertebrae
+medulla spinalis
+vertebraecervicales
+discusintervertebralis
+carapax,spongypart
+scapula
+nn.spinales
+thoracohumeral
+muscles
+v.jugularis
+dextra
+v.jugularis
+sinistra
+scapula
+m.retractor
+sinuslymphaticus
+capitis colli
+caputhumeri
+skin
+procoracoideum
+a.subclavia
+m.subcoracoideus
+plastron
+bronchi principales
+oesophagus
+a.carotiscomm.dext.
+Figure 106. Transversal section of the body in the region of thie shouider girdle.
+Posterior view. (→)
+174
+axialmusclesmedullaspinalis
+corpusvertebrae
+adiposetissue
+pleuralia(.costa")
+pulmodexter
+carapax
+arcus aortaedexter,
+m.retractor
+pars descendens
+capitis colli
+arcusaortae
+a.pulmonalis
+sin.,pars
+descendens
+v.cavaanterior
+dextra
+pulmo
+sinister
+hepar
+bronchus
+principalis
+sinister
+truncus
+pulmonalis
+oesophagus
+muscles of the
+arcus aortaedexter,
+shouldergirdle
+pars ascendens
+v.subclavia
+a.subclavia
+thymus
+a.carotis
+a.subclavia
+arcus aortae sinister,
+dextra
+dextra
+comm.dext.et sin.
+sin.
+coracoideum
+parsascendens
+Figure 107. Transversal section of the body in the regionl of the lungs, large cardiac vessels and the liver.
+Anterior view. ()
+axialmuscles
+medulla spinalis
+proc.transversus
+pleuralia(.costa")
+m.retractorcapitiscolli
+arcusaortaedext.pars
+bronchipulmonales
+descendens
+arcusaortae
+a.pulmonalis
+sin.pars
+dextra
+descendens
+transitionfrom
+carapax
+esophagusto
+stomach
+v.hepatica
+a.pulmonalis
+et
+v.pulmonalis
+sinistra
+hepar
+atrium sinistrum
+atriumdextrum
+m.pectoralis
+trunci
+pulmonales
+truncusbrachiocephalicus
+plastron
+arcusaortae
+Figure 108. Transversal section of the body in the region of the atria, the lungs and the stomach.
+Postcrior view. (→)
+176
+arcusaortaedext.parsdescendens
+m.retractor
+medulla
+lymphaticvessel
+lien
+capitis colli
+spinalis
+pulmo sinister
+v.cavaposterior
+pleura
+pancreas
+arcusaortaesin.,pars
+descendens
+duodenum
+midgut
+hepar
+meserterium
+midgut
+peritoneum
+gaster
+vesica
+hepar
+fellea
+w.centrales
+et
+lobulihepatis
+branchofthe
+celiacomesenterictrunk
+m.pectoralis
+ventriculus
+pericardium
+plastron
+cavumperitonei
+Figure 109. Transversal section of the body in the rcgion of the cardiac chamber, the liver and
+the gall-bladder. Posterior view. (→)
+v.cava
+aorta
+medulla
+m.retractor
+pulmodexter
+posterior
+descendens spinalis
+capitis colli
+bronchus principalis
+oesophagus
+pulmo sinister
+lien
+hindgut
+truncuscoeliaco-
+-mesentericus
+midgut
+duodenum
+radix
+mesenterii
+pancreas
+gaster
+vesica
+fellea
+extraperitoneal
+adiposetissue
+hindgut
+duodenum
+hepar
+m.pectoralis
+mesenterial vessels
+ww.abdominales
+pancreas
+plastron
+Figure 110. 'Iransversal section of the body. The figure shows organs seen on the previous section.
+Anterior view. ()
+178
+aorta
+medulla spinalis
+m.retractor
+descendens
+capitis colli
+pulmo sinister
+ductusthoracicus
+midgut
+midgut
+carapax
+hepar
+gaster
+hepar
+skir
+mm.abdominales
+cavumperitonei
+vesicaurinaria
+peritoneum
+w.abdominales
+Figure 111. Transversal scction of the hody in the region of thc caudal part of the lungs and the urinary
+bladder. Posterior view. (→)
+aorta
+medulla
+m.retractor
+v.renalis
+ureter
+rensinister
+descendens
+Spinalis
+capitis colli
+dextra
+v.portaerenis
+v.cavaposterior
+ductusthoracicus
+epididymis
+testis
+rectum
+loose
+midgut
+subcutis
+skin
+vesicaurinaria
+mm.abdominales
+peritoneum
+v.abdominalis
+plastron
+pubis
+pelvicmuscles
+Figure 112. Transversal section of the body in thc rcgion of the testicles and the urinary bladder.
+Posterior view. (→)
+180
+aorta
+medulla
+m.retractor
+rendexter
+descendens
+spinalis
+capitis colli
+v.renalis sinistra
+v.renalisdextra
+ureter
+v.abdominalis
+cavumperitonei
+(dorsal section)
+carapax
+a.ischiadica
+extraperitoneal
+fat-pad
+duct.thoracicus
+ovarium
+rectum
+cloacal
+urinary
+bladder
+oviductus
+fatpads
+mm.abdominales
+plastron
+peritoneum
+pubis
+pelvic
+orificeofthe
+a.femoralis
+v.femoralis
+bloodvesselspelvicmusclesurinary bladder
+Figure 113. 'Iransversal section of the body in the region of the rectum, the kidneys and the pelvic girdle.
+Anteritor view. (-)
+medulla spinalis
+corpusvertebrae
+processustransversus
+vertebraesacralis
+a.caudalis
+carapax
+hipmuscles
+ilium
+adipose tissue
+(pigmented)
+lateralskin
+fold
+corpusfibrosum
+penis
+sns
+symphysis
+plastron
+penis
+anterior
+pelvicmuscles
+Figure 114. Transversal section of a male animal's body in the region of the pelvic girdle.
+Posterior view. (→)
+182
+Meckel'scartilage
+hornysheath
+choana
+vomer
+primary
+cavumtympani
+membranatympan
+gip
+medulla spinalis
+adiposetissu
+Figure 115. Horizontal sectioll of the body through the head and the neck. Ventral view of the dorsal half of the body. (↑)
+v.brachialis
+subcla
+a.subclaviasinist
+arcusaortaesinist
+bronchusprincipalis
+v.hepatica
+v.portae
+hepatis
+carapax
+(cutthrough)
+a.etv.femoralis
+ofthe
+nindleg
+ppe
+auda
+loaca
+184
+vertebraecervicales
+proc.spinosusatlantis
+larynx
+cavumoropharyngeum
+lingua
+Meckel'scartilage
+inthe dental bone
+plastron
+facies articularis
+adituslaryngis
+m.retractorcapitiscolli,parscervicalis
+quadrati
+Figure 1l6. Horizontal section of the head and the neck.
+Dorsal view of the ventral part of the boxly. (↓)
+medulla oblongata
+ventriculus
+mesencephalon
+ventriculus
+tr.opticus
+chiasma
+retina
+iris
+quartus
+tertius
+opticum
+lenscrystallina
+atlas
+cornea
+nictitating
+membrane
+retrobulbar
+adipose
+tissue
+septumnasi
+epidural
+cavumnasi
+vessels
+concha
+nasalis
+maxilla
+septum
+interorbitale
+palpebrae
+m.retractor
+n.opticus
+capitis colli
+m.rectuslateralis
+m.rectusmedialis
+ductus
+otolith
+cavumetmembrana
+semicircularis
+discusnervioptici
+tympani
+m.massetermed.etlat.
+Figure 117. Horizontal section of the head and the neck in the regiou of the optic chiasm and thc midbrain.
+Ventral view of the dorsal part of the body. (↑)
+186
+cavumtympani
+thalamus
+hemispheriumcerebri
+ventriculus
+n.opticus
+palpebra
+lens crystallina
+tertius
+superior
+palpebrainferior
+sclera
+mesencephalon
+retina
+cerebellum
+chorioidea
+maxilla
+medulla
+oblongata
+cavumnasi
+ventriculus
+quartus
+concha
+prooticum
+nasalis
+aurisinterna
+nasi
+mm.temporales
+m.rectus
+medialis
+cornea
+palpebra inferior
+foldedskinoftheneck
+quadrato-
+(theheadispartlywithdrawn)
+squamosum
+parietale
+jugale
+frontale
+gl.lacrimalis
+nictitatingmembrane
+Figure Il8. 1 Iorizontal section of the bead in the region of the nasal cawvity, the eyeballs and the hrain.
+Dorsal vicw of thc ventral part of the body. (↓)
+radiatiooptica
+thalamus
+ventriculus
+ventriculus
+plexus chorioideus
+hemispherium
+lenscrystallina
+lateralis
+tertius
+ventriculi lateralis
+cerebri
+retina
+palpebra
+inferior
+mesencephalon
+chorioidea
+maxilla
+cavumnasi
+ventriculus
+quartus
+(roof)
+concha
+nasalis
+prooticum
+nasi
+mm.tempc
+m.rectus
+medialis
+retina
+foldedskinof theneck
+quadrato-
+cornea
+(theheadispartlywithdrawn)
+Squamosum
+parietale
+jugale
+frontale
+gl.lacrimalis
+Figure 119. Horizontal section in the region of thc masal cavity, the eyeballs and the brain.
+Ventral vicw of the dorsal part of the body. (↑)
+188
+subclavia
+Pigure 120. Sagittal section of the body.
+pulmonales
+oosterior
+ventriculus
+da
+nepatis
+auda
+190
+THE DOMESTIC FOWL
+GALLUS GALLUS DOMESTICUS (Linne - 1758)
+comb
+telencephalon
+cerebellum
+beak
+atlas
+pulmo
+trachea
+oesophagus
+synsacrum
+thymic
+lobes
+bursaFabricii
+ingluvies
+atrium
+carpo-
+lien
+metacarpus
+pars
+ventriculus
+glandularis
+ventriculi
+pars
+sternum
+muscularis
+ventriculi
+Figure 121/A. Position of the main organs of Gallus domeslicus in situ (above). Iateral view (of the visccral
+Figure 121/B. Lateral view of Gallus cdomesticus with visccral organs as seen through the "fransparent" body
+wall (to the right). The position and view of demonstrated sections are indicated.
+194
+Figure125.-anteriorview
+Figure124.-anteriorview
+Figure126.-anteriorview
+Figure123.-posteriorview
+Figure127.-anteriorview
+Figure122.-anterior view
+Figure148.
+Figure139..140
+ventralview
+anteriorview
+Figure 141.
+Figure147.
+anteriorview
+ventralview
+Figure137.
+and 138.Figure 136.Q
+Figure142.
+anterior
+anterior
+posteriorview
+view
+view
+Figure128.
+anteriorview
+Figure145.
+ventralview
+Figure129.
+posteriorview
+Figure146.
+ventralview
+Figure130.
+posteriorview
+Figure134.,135.
+5.Figure133.
+Figure132.
+Figure131.
+posteriorview
+posterior
+posterior
+anteriorview
+view
+view
+Figure 144.
+- mediansagittal sectic of che hssd, medial view
+195
+cornuhyoide
+Posterior view. (--→)
+yoideum
+s
+quadratojugale
+beakangle
+Figure 122. Transversal sction of the head in the region of the nasal cavity
+jugale
+and the oropharyngeal cavity.
+Anterior view. (t)
+musclesofthefloorofthe
+tempor
+m.
+196
+tegmentum
+mesencephal
+canalis
+semicircularis
+sphenoideum
+m.temporalis
+Figure 125. Transversal section of the bead in the region of the midbrain,
+cephal
+external auditory meatus, and the oropharyngeal cavity.
+ornu
+genbu
+Antcrior view. (←-)
+m.tempora
+oidi
+acusticu
+telo-diencephalicand
+neuralpathways
+dos
+chiasma
+opticum
+hypophysis
+quadratum
+pterygo
+ideur
+quadrato-
+jugale
+articulare
+cornu hyoidei
+a  o aa a u pa a jo uos pesi. ti a
+issuralongitudinalis
+xufue
+(plic chiasm, and the larynx.
+s
+Anterior view. (+-)
+hyoideum
+cartilagineslaryngis
+telencephalon
+orbita,caudalwall
+(tangential
+nm.ptery
+Section)
+goidei
+poralis
+1.98
+Figure 127. Transversal section of the head in the region of the cerebellum,
+nan
+v.jugularis sinistra
+corpuscerebell
+the hindbrain and the inner ear.
+radixlinguae
+Anterior view. {+)
+hyoideum
+circulares
+se
+opticun
+penb
+cornu hyoidei
+the auditory meatus, the trachea and the esophagus.
+Anterior view. (+)
+Fissuralongitudina
+eyd
+parssquamosa
+cemporale
+m.temporalis
+200
+tendons(transsected)
+nuchalmuscles
+skin
+truncusvagosympathicus
+m.cutaneus
+v.jugularis sinistra
+feather-
+arcusvertebrae
+follicles
+cervicalis
+oesophagus
+medulla
+spinalis
+aa.etw.
+v.jugularis
+vertebrales
+dextra
+trachea
+connectivetissue
+proc.costotransversarius
+septum
+proc.costarius
+a.carotiscommunis
+m.longuscolli
+dextraetsinistra
+corpusvertebraecervicalis
+Figure 128. Transversal section of the neck. The jugufar veins arc asymmetric.
+Anterior view. (←)
+m.biventercervicis
+medulla spinalis
+thymiclobe
+v.jugularis dextra
+n.spinalis
+proc.costo-
+transversarius
+v.jugularis
+sinistra
+ingluvies
+corpus
+vertebrae
+cervicalis
+feather-
+thymic
+follicles
+lobe
+foramencosto-
+transversarium
+rootoftheneck,
+fatpad
+m.longuscolli
+a.carotiscommunisdextraetsinistra
+trachea
+Figure 129. Transversal section of the neck in the region of the crop.
+Posterior view. (→)
+202
+muscles of the back
+vertebrathoracalismedullaspinalis
+a.vertebralis
+thoracohumeralmuscles
+tendonofthe
+supracoracoideal muscle
+humerus
+foramencosto-
+transversarium-
+scapula
+caputhumeri
+cartilago
+articularis
+cartilago articularis
+articulatio
+v.jugularis
+humeri
+sinistra
+coracoideum
+thymic
+lobe
+m.pectoralis
+trachea
+furcula
+a.carotis communis
+transitionfromesophagusto crop
+dextraet sinistra
+Figure 130. Transversal section of the cranial part of the body in the region of the shoualder joint.
+Posterior view. (→)
+capitulum
+vertebra
+medulla
+articulatio
+scapula
+costae
+thoracalis
+spinalis
+vertebrocostalis
+m.latissimusdorsi
+humerus
+thoracohumeral
+muscles
+radius
+wing
+m.longus
+colli
+ulna
+a.carotis
+communis
+dextra
+carpo-
+metacarpus
+m.sterno-
+coracoideus
+oesophagus
+coracoideum
+cartilago articularis
+m.pectoralis
+sternum
+trachea
+Figure 131. Transversal section of the body near the sterno-coracoideal joint.
+Anterior view. (←)
+204
+Figure 133. Transversal section of the body in the region of
+ur
+the atria and the chambers.
+Posterior view. (→)
+ coracoideal joint and in the region of the large cardiac vessels.
+Posterior view. (一)
+corpus sterni
+pessulus,cavity
+2
+206
+go!
+hepatis
+w.hepaticae
+v.cava
+gl.supra-
+renalis
+ductstothe
+abdominal
+airsad
+ventriculus,pars glandularis
+a.coeliaca
+mm.glutei
+renat gland and thc glandular stomach (below). Anterior view. (←)
+aortaabdominalis
+cardium
+uis
+ileum
+ileum
+aortaabdominalisovarium
+nedulla
+gll. submucosae
+corpusvertebrae
+nm.costo
+pulmonales
+laterobronchi
+(synsacrum)
+hepar
+articulatio
+ventriculus
+costalis
+glandularis
+nm.inter
+s
+jejunum
+costa
+abdominalis
+a.coeliaca
+mm.costo-
+oulmonales
+nm.inter
+costales
+v.cava
+hepar
+rendexter
+Figure 134. Transversal section of the abdominal cavity part of the body in
+the region of the glardular stomach, the liver lobes, and the apex of the beart.
+m.latissimus dorsi
+corpussterni
+proc.spinosus
+Posterior view. (→)
+crista sterni
+ventriculus siniste
+ggl.spinale
+oarsglandularis
+ventriculus,
+gll. mucosae
+cangential
+section
+gll. sub-
+mucosae
+na
+hepar
+208
+中
+anterior
+rectum,
+minalis
+vascular system, as well as the vertebral canal and the spinal cord are
+wnl
+caeca,proximal thinsections
+arcusvertebr
+outlined. Anterior view. (+)
+proce
+aortaabdominalis
+cornuposterius
+mm.glutei
+duodenum
+medulla
+spinalis
+anterius
+v.renalis
+caeca,thin
+sections
+pars
+entriculus
+pars
+Sternalis
+chymus
+abdominal
+muscles
+rectum
+processussterni
+lien
+lobushepatis
+aorta abdominalis
+wni!
+m.pectoralis
+processus spinosus
+corpus sterni
+crista sterni
+medulla spinalis
+m.supracoracoideu
+mm.glutei
+lobushepatis
+.renalis
+mesenterica
+pancreaticus
+luodenum
+pancreas
+cerica
+anterid
+eum
+210
+radixdorsalis
+nervispinalis
+ren
+v.portae
+v.coccy-
+geomesen-
+ureter
+skinwithfeather-follicles
+body, the spinal cord, the synsacrum, and the kidrey sections.
+synsacrum
+.renalis
+jejunum
+glycogenbody
+Anterior view. (←)
+rectum
+mm.coccygeale
+medullaspinalis
+jejunum
+mm.glutei
+wnll
+nalis
+renis
+articulatio
+coxae
+v.coccygeo-
+mesenterica
+v.femoralis
+-femur
+m.tensor
+fasciaelatae
+caeca,thin
+sections
+m
+femoris
+o
+articularis
+s
+articularis
+corpus
+adiposum
+infrapatellare
+tibiotarsus
+ventriculus
+parsmuscularis
+wn!!!
+m.pectoralis
+synsacrum
+glycogenbody
+cristasterni
+medulla spinalis
+duodenum
+pancreas
+aortaabdominalis
+rendexter
+mm.glutei
+lesicafellea
+portae
+s
+uodenum
+rectum-
+jejunum
+unun
+renis
+na
+212
+cavumsacc
+abdominalis
+ischium
+nds
+widelumen)
+residual
+ileum
+thinsections
+Fab
+pancreas
+Posterior view. (-→)
+v.pancreaticoduodenal
+S
+coccygealmuscles(ofrect
+ventriculus,parsmu
+uretersinistra
+mm.glutei
+widelumen)
+tight lumen)
+muscles
+koilinlayer
+ibiotarsus
+ununfa!
+terica
+vall,
+ibula
+ischium
+jejunum
+membrana
+S!qnd -
+abdominalis
+tunica
+muscularis
+muscles
+ofthe
+fibula
+Figure 141. Transversal section of the body in the region of the kidneys and
+ventriculus,parsmuscularis
+hepar
+the cranial part of the muscular stomach (gizzard).
+synsacrum
+abdominal wall,muscles
+Anterior view. (+)
+feather-follicles
+skinwith
+Spinalis
+adiposetissue
+wn!!
+rendexter
+oischiadica
+leunla
+214
+品
+roc.meaialis
+oro
+snbuo
+ucha
+Figure 143. Sagittal section of the body.
+orachio-
+itriur
+sternum
+hepatica
+ventriculus
+mmature
+caeca(tightlumen
+sections
+cinalis
+bursaFabri
+21.6
+Figure 144. Sagittal section of the head and neck.
+218
+1
+v.jugularis
+scapula
+coracoideum
+tendon of the
+supracoracoideal muscle
+articulatiohumeri
+truncus sympathicus
+caputhumeri
+furcula
+nn.spinales
+musclesof the wing
+m.pectoralis
+shipe.
+costae
+humerus
+Ventral view of the dorsal part of the body. (↑)
+ulna
+columna
+pulmo sin.
+costae
+rensin.
+v.femoralis
+caputfemoris
+articulatiocoxae
+aortaabdominalis
+musclesof thethigh
+foramenilioischiadicum
+.ischiadica
+rendexter
+arcushypogastricus
+ischium
+ootofthetail,
+nesenterica
+bursaFabricii
+coccygeo-
+ertebrae
+dipose
+cissue
+220
+m.supracoracoideus
+cristasterni
+m.pectoralis
+ventriculusdexter
+Figure 146. Horizontal section of thc hody in the region of the heat,Lle liver, the muscular stomach (gizzard), and the glandular stomach,
+entriculussinist
+cavaposterior
+ventriculus.parsglandularis
+Ventral view of the dorsal half of the body. (t)
+duodenumtojejunum
+transitionfrom
+ventriculus,parsmuscularis
+caecum
+a.etv.femoralis
+a.etv.femoralis
+muscles of the thigh
+jejunum
+duodenum
+jejunum
+saccus abdominalis
+ununa
+abdominal wall,
+coecum
+muscles
+222
+cornea
+discus nervi n.opticus
+chiasma opticum
+tectummesencephali
+palpebrae
+optici
+tr.opticus
+thalamus
+ventriculustertius
+nictitatingmembrane
+chorioidea
+auricula
+cerebelli
+sclera
+pedunculus
+cerebellaris
+concha
+medius
+nasalis
+corpus
+cerebelli
+nasale
+occipitale
+comb
+septum
+interorbitale
+m.complexus
+major
+retina,partly
+canalissemicircularis
+detached
+lateralis
+m.rectus
+temporale.parssquamosa
+lenscrystallina
+pecten
+lateralis
+m.massetercavum tympani
+Figure 147. Horizontal section of thc head in the region of the optic tract, the pons, the midbrain, and
+the labyrinth. Ventral view of the dorsal part of the head. (1)
+radiatiooptica
+tectummesencephali
+cornea
+retina,partlydetached
+aquaeductus cerebri
+chorioidea
+canalis semicircularis
+sclera
+pons
+interorbitale
+medulla
+oblongata
+frontale
+comb
+atlas
+m.rectus
+m.complexus
+medialis
+major
+retina,partly
+detached
+cornuhyoidei
+palpebrasuperior
+labyrinthus
+lenscrystallina
+discusnervi
+palpebra
+m.rectus
+m.depressormandibulae
+optici
+inferior
+lateralism.masseter
+porus acusticus externus
+Figure 148. Horizontal section of the head in the rcgion of the eyeballs, the pons and the medulla oblongata.
+Ventral view of the dorsal part of the head. (↓)
+224
+THE LABORATORY RAT
+RATTUS RATTUS (Linné - 1758)
+bulbus olfactorius
+arcuszygomaticus
+telencephalon
+cerebellum
+medulla spinalis
+atlas
+axis
+clavicula
+scapula
+pulmo
+ren
+gaster
+colontransversum
+ovarium
+patella
+cornuuteri
+ilium
+caecum
+ischium
+Figure 149/A. Position of the main organs of Ratus rattus in situ (above). Dorsal view of the visceral organs
+as seen through the “transparent" body wall. (-→)
+Figure 149/B. Dorsal vicew of Rattus rattus with visceral organs as seen through the “transparent" body wall
+(to the right). The position and view of demonstrated sections are indicated. (→)
+228
+Figure187.
+Figure186.
+Figure150.
+Figure151.
+anteriorview
+Figure152.
+anteriorview
+Figure153.
+anteriorview
+Figure154.
+anteriorview
+Figure155.-158.
+anteriorview
+Figure159.
+seebelow
+Figure161.
+posteriorview
+Figure160.,162.
+anteriorview
+Figure163.
+seebelow
+Figure166.
+posteriorview
+Figure167.
+posteriorview
+Figure168.
+anteriorview
+Figure169.
+posteriorview
+Figure170.
+anteriorview
+Figure 171.
+anteriorview
+Figure172.
+posteriorview
+Figure173.
+anteriorview
+Figure174.
+anteriorview
+Figure175.
+posteriorview
+Figure 182.0
+posteriorview
+Figure176.
+anteriorview
+Figure183.
+posteriorview
+Figure 177.
+Figure184.0
+anteriorview
+posteriorview
+Figure178.
+posteriorview
+Figure179.
+anteriorview
+Figure180.
+anteriorview
+Figure181.a 
+posteriorview
+Figure185.
+posteriorview
+Figure181.b
+posteriorview
+Figure181.c
+posteriorview
+medialview
+Figure 155., 157., 160, 163. - poster:or vicw
+Figure 156., 158. 162. -- anteric~ view
+Figure l64. - horizorital sectior: of the head at the plane of the bra.r and oral cavity: dorsal view
+Figure 1o5.- horizantal sector of the head throtgh the foramen magum ano the bulla ympani, ventral v.sw
+FigL:rs 188.-- horizontal section through the nasai sept:um, the acrimal glands ard the nner ear, dorsal view
+Flgure i&9.Q - horizorital sectlon at the plae of the eyeballs and tnc vag ra, dc rsal viaw
+229
+nasale
+cavumnasi
+sinus hairs
+septumnasi
+ethmo-
+follicles
+turbinalia
+ofthe
+sinushairs
+whiskerpad
+substantia
+eburnea
+dentesincisivi
+substantiaadamantina
+Figure 15o. Transversal scction of the head at the level of the nasal cavity and the root of the incisors
+in the intermaxilla. Anterior view. (←)
+nasale
+cavumnasi
+Septumnasi
+ethmoturbinalia
+organum
+vomeronasale
+folliclesof the
+(Jacobson's
+sinus hairs
+organ)
+palatum
+durum
+sinushairs
+labium
+superius
+lingua
+densincisivus
+gingiva
+labiuminferius
+Figure IS1. Transversal section uf thc head in the region of tlie nasal cavity, the nasal septum,
+and the mandibular incisors. Anterior vicw. (+-)
+230
+nasale
+cavumnasi
+ethmoturbinalia
+septumnasi
+maxilloturbinalia
+m.masseter
+maxilla
+profundus
+septumnasi,
+pars cartilaginea
+skin
+m.masseter
+superficialis
+vomer
+cavumoris
+palatum
+durum
+corpus
+buccal
+linguae
+fatpad
+radixdentis incisivi
+symphysismandibulae
+mandibula
+flooroftheoralcavity
+Figure I52. Transversal section of the bead in the region of the nasal cavity, the nasal seplum,
+and the oral cavily. Anterior view. (←)
+bulbus olfactorius
+ethmoidale,
+frontale
+palpebra superior
+ethmoturbinalia
+lamina perpendicularis
+gl.Harderi
+cornea
+sclera
+lenscrystallina
+palpebra
+inferior
+m.rectus
+lateralis
+arcus
+ductus
+zygomaticus
+nasopharyngeus
+maxilla
+m.masseter
+profundus
+palatum
+cavumoris
+durum
+vestibulum
+maxillary
+oris
+molar
+m.masseter
+mandibular
+superfitialis
+molar
+radixlinguae
+mandibula
+densincisivus
+m.digastricus
+m.mylohyoideus
+symphysismandibulae
+Figure 153. Transversal section of the head in the region of the nasal cavity, the eyeball, tlie oral cavity
+and the tongue. Anterior view. (←-)
+2.32
+telencephalon
+frontale
+sinus sagittalis
+bulbus olfactorius
+v.facialis
+superior
+n.opticus
+ductus
+m.temporalis
+nasopharyngeus
+n.maxillaris
+(n.V./2)
+cavumoris
+maxilla
+arcus
+m.masseter
+zygomaticus
+profundus
+ramus
+mandibulae
+maxillary
+molar
+mandibular
+molar
+m.masseter
+superficialis
+mandibula
+radixlingua
+densincisivus
+v.lingualis
+m.digastricus
+m.genioglossus
+m.mylohyoideus
+Figure 154. 'Iransversal section of the bead in the region of the olfactory bulb, the frontal part of
+the bemispheres, and the oral cavity. Anterior view. (—)
+parietale
+sinus sagittalis
+fissuralongitudinalis
+cortextelencephali
+superior
+radiatiocorporiscallosi
+ventriculuslateralis
+caudoputamen
+commissura
+m.temporalis
+anterior
+temporale
+praesphenoideum
+n.opticus
+n.maxillaris
+(n.V./2)
+mm.pterygoidei
+ductusnaso-
+pharyngeus
+palatinum
+palatum
+m.masseter
+durum
+snpunyouds
+ramus
+radixdentis
+mandibulae
+molaris
+m.masseter
+superficialis
+radixlinguae
+raphelinguae
+densincisivus
+v.facialis anterior
+m.digastricus
+sinushairs,follicles
+v.lingualis
+Figure 155. Transversal section of the head in the region of the hemispheres, the corpus callosum and
+the organs of the oral cavity. Posterior view. (→)
+234
+8
+nucl.habenularis
+fissura
+sinussagittalis
+ventriculus
+gyrus dentatus
+parietale
+longitudinalis
+superior
+tertius
+radiatiocorporiscallosi
+cortextelencephali
+cornuAmmonis
+(sndueooddy)
+ventriculus
+lateralis
+m.temporalis
+m.temporalis
+temporale
+thalamus
+articulatio
+temporo-
+temporale,
+fossamandibularis
+mandibularis
+cornu inferius
+ventriculi
+lateralis
+proc.condyloideus
+extraorbital
+lacrimal gland
+lobustemporalis
+ventriculus
+n.maxillaris (n. V./2)
+tertius
+cavumoris
+ductusnasopharyngeus
+hypothalamus
+Figure 156. Transversal section of the bead (part) in the region of the forebrain and the diencepbalo.
+Antcrior view. (←)
+plexuschorioideus
+parietale
+fissura
+sinus
+gyrus
+gyrusdentatus
+ventriculi lateralis
+longitudinalis
+sagittalis
+cinguli
+radiatiocorporiscallosi
+superior
+striaemedullares
+thalami
+cornuAmmonis
+(sndoodd)
+temporale
+m.temporalis
+m.temporalis
+cortex
+thalamus
+telencephali
+articulatio
+temporale,
+temporo-
+fossamandibularis
+mandibularis
+tr.opticus
+proc.condyloideus
+m.masseter
+mm.pterygoidei
+capsulainterna
+ductus
+n.maxillaris(n.V./2)
+ventriculustertius
+nasopharyngeus
+basisphenoideum
+hypothalamus
+Figure 157. Transversal section of the head (part) in the region of the thalamus, the bypothailamus and
+the nusopharyngeal duct. Posterior view. (-→)
+236
+parietale
+fissura
+sinus sagittalis
+substantia grisea
+colliculus anterior
+longitudinalis
+superior
+centralis
+radiatio corporiscallosi
+tectum
+mesencephali
+m.temporalis
+cortex
+telencephali
+cornuAmmonis
+aquaeductus
+cerebri
+tegmentum
+mesencephali
+cruscerebri
+n.maxillaris
+(n.V/2)
+hypophysis,
+parsdistalis
+sinussigmoideus
+hypophysis,parsnervosa
+duct.nasopharyngeus
+pharynx
+basisphenoideum
+cavumtympani
+Figure 138. Transversal section of thie bead (part) in the region of the midbrain, the bypopbysis, aind
+thc tympanic cavity. Antcriar view. (←)
+tectummesencephali
+parietale
+substantia grisea
+pineale
+centralis
+radiatio corporis callosi
+aquaeductuscerebri
+m.temporalis
+cortex
+telencephali
+tegmentum
+substantia
+mesencephali
+nigra
+n.maxillaris
+crus cerebri
+(n.V./2)
+hypophysis,
+parsnervosa
+hypophysis,
+pars distalis
+basisphenoideum
+branchesof
+mm.pterygoidei-
+theexternal
+jugularvein
+angulus
+mandibulae
+sinus
+ductus
+sigmoideus
+nasopharyngeus
+palatummolle
+aurisint
+m.mylohyoideus
+m.masseter
+gll.sublinguales
+v.jugularis ext.
+v.jugularisa.carotis
+n.vagus
+m.digastricus
+noduslymphaticus
+pharynx
+int.
+int.
+Figure 159. Transversal section of the bead in the region of the midbrain, the occiprital lobes of the forebrain
+andl the hypophysis.Posterior view. (→t)
+238
+parietale
+interparietale
+sinus sagittalis
+corpus pineale
+superior
+telencephalon
+aquaeductus cerebri
+pons
+colliculusposterior
+auricula
+paraflocculus
+temporale
+meatus
+acusticus
+n.facialis
+externus
+n.cochlearis
+ductus
+membrana
+semicircularis
+cochlea
+ductus
+semicircularis
+ww.faciales
+cavumtympani
+membranatympani
+occipitale,parsbasilaris
+sulcusbasilaris
+ventral deepaxialmuscles
+Figure 160. 'Iransversal section of the bead (part) in the region of the mesencepbalic tecium, the occipital
+lobes, the pons and the inner ear. Postcrior view. (→)
+vermiscerebelli
+interparietale
+auricula
+hemispheriumcerebelli
+m.temporalis
+ventriculusquartus
+occipitale,
+parsbasilaris
+flocculus
+meatus
+pons
+acusticus
+externus
+modiolus
+skin
+bulla tympani
+bulla
+extraorbital
+tympani
+lacrimalgland
+branchesof the
+gl.parotis
+external
+jugularvein
+ductus
+ventraldeep
+nasopharyngeus
+axialmuscles
+gl.parotis
+m.sternomastoideus
+v.facialisanterior
+nodilymphatici
+gl.sub-
+gl. sub-
+nodus
+v.jugularis
+a.carotiscommunis
+epiglottis
+lingualismandibularis
+lymphaticus
+interna
+Higure 161. 'Iransversal section of the bead in the region of the brain, the tympanic bualla, and the larynx.
+Anterior view. (←)
+240
+hemispheriumcerebelli
+interparietale
+vermiscerebelli
+ventriculusquartus
+dorsalaxialmuscles
+m.cervico-
+auricularis
+fossa
+rhomboidea
+m.temporalis
+pedunculus
+cerebellaris
+inferior
+para-
+flocculus
+para-
+flocculus
+labyrinthus
+osseus
+meatus
+meatus
+acusticus
+acusticus
+externus
+externus
+membrana
+tympani
+n.cochlearis
+malleus
+fissura
+occipitale,
+branchof
+cochlea
+mediana
+pars
+thefacialvein
+sinussigmoideus
+oliva
+pyramis
+anterior
+basilaris
+bullatympani
+cavumtympani
+Figure 162. Transversal scction of the bead (part) in the rcgion (of the cerehellum, thc medulla oblongata,
+the tympanic bulla and the labyrinth. Anterior view. (←)
+interparietale
+vermiscerebelli
+ventriculusquartus
+auricula
+etplexus chorioideus
+m.temporalis
+hemispherium
+cerebelli
+temporale
+meatus
+acusticus
+meatus
+acusticus
+externus
+externus
+flocculus
+paraflocculus
+medulla
+ww.faciales
+oblongata
+occipitale,parsbasilaris
+occipitale
+fissura
+pyramis
+medianaanterior
+ventraldeepaxialmuscles
+Figure 163. Transversal scction of the head (part) in the region of the cerebellum, and the medulla ohtongata.
+Posterior view. (-→)
+242
+tr.opticus
+hypothalamus
+chiasma
+n.maxillaris
+v.labialis
+maxillarymolars
+auricula
+(n.V./2)
+mandibular
+molars
+hemispheriumcerebri
+mesencephalon
+bucca
+aquaeductus
+cerebri
+vermis
+cerebelli
+mandibular
+incisors
+squama
+occipitalis
+lingua
+m.temporalis
+m.masseter
+m.masseter
+superfitialis
+mm.
+duct.naso-
+profundus
+temporale
+r.mandibulae
+pterygoidei
+pharyngeus
+Figure 164. An almost horizonral section of the head in the region of the brain and the oral cavity.
+Dorsal view of the ventral half of the head. (↓)
+meatusacusticusexternus
+malleus
+membrana
+cavum
+bulla
+auricula
+tympani
+tympani
+tympani
+ventraldeep
+/axialmuscles
+m.cervico-
+auricularis
+corpus
+mandibulae
+occipitale,
+parslateralis
+medulla
+skin
+oblongata-
+canalis
+centralis
+symphysis
+mandibulae
+lig.atlanto-
+occipitale
+lingua
+mandibula
+dorsalaxial
+muscles
+pharynx
+m.masseter
+superfitialis
+musclesof theback,
+extraorbital
+sinus
+mm.
+duct.naso-
+m.masseter
+superficiallayer
+lacrimal gland
+sigmoideus
+pterygoidei
+pharyngeus
+profundus
+Figure T65. Horizontal section of the head in the region of the foramen magnum, the medulla oblongata, and
+the tympanic bulla. Ventral view of the dorsal half of the head. (t)
+244
+®
+arcusatlantis
+proc.spinosus
+m.trapezius
+dorsalaxialmuscles
+medulla spinalis
+atlantis
+radixdorsalis
+auricula
+etventralis
+nervispinalis
+Superficial
+muscles
+oftheback
+ggl.spinale
+secondcervical
+nervein
+intervertebral
+foramen
+corpus
+subcutis,
+axis
+adiposetissue
+ventraldeep
+1.vagus
+axialmuscles
+vw.faciales
+gl.parotis
+gl.submandibularis
+oesophagus
+trachea
+m.sternohyoideus
+a.carotiscomm.etv.jugularisinterna
+Figure 166. Transversal section of the neck through the atlas, the esophagus, and the trached.
+Posterior view. (-→)
+proc.
+intermuscular
+m.trapezius
+dorsalaxialmuscles
+medulla spinalis
+spinosus
+arcusvertebrae
+canaliscentralis
+thoracohumeral
+muscles
+fissura
+mediana
+anterior
+vertebralveinin
+costotransversal
+plexus
+foramen
+venosus
+vertebralis
+corpus
+scapula
+vertebrae
+caputhumeri
+linea
+epiphysealis
+ventraldeep
+axialmuscles
+oesophagus
+m.sternohyoideus
+m.sternothyreoideus
+v.jugularis externa
+vaginacarotica
+trachea
+Figure 167. Transversal section from the cranial part of the body near to the sboulder joint.
+Pusterior view. (-)
+246
+arcus
+medulla
+vertebraespinalis
+interscapulare
+m.cutaneus
+scapula
+m.trapezius
+thoracohumeral
+dorsalaxial
+muscles
+muscles
+corpus
+vertebrae
+n.spinalis
+ventraldeep
+axialmuscles
+muscles
+ofthe
+humerus
+forelimb
+radius
+ulna
+v.eta.
+brachialis
+n.radialis
+v.jugularis
+cartilago costae
+n.ulnaris
+m.sterno-
+trachea
+v.subclavia
+externa
+m.pectoralis
+()
+hyoideus
+sternum
+oesophagus
+humerus
+Fignre 168. Transversal section from the cranial parr of the body caudal to the sbouider joint.
+Anterior view. (-)
+m.cutaneus
+medulla
+corpus adiposum
+arcus
+scapula
+m.trapezius
+spinalis
+interscapulare
+vertebrae
+thoracohumeral
+dorsalaxialmuscles
+muscles
+proc.transversus
+costa
+ventraldeep
+axialmuscles
+capitulum
+costae
+n.intercostalis
+corpus
+vertebrae
+costa
+oesophagus
+trachea
+aorta
+descendens
+humerus
+v.cava anterior
+sinistra
+n.phrenicus
+mediastinum
+a.etv.
+pectoralis
+sternum
+cartilago
+n.phrenicus
+aorta
+a.etv.
+v.cavaanterior
+mm.pectorales
+ascendens
+mammaria
+costae
+dextra
+Figure 169. Transversat section of the body in the region of the rostral part of the thoracic cavity, thc lrached,
+the esophagus and tlie thymus. Pusterior view. (-→)
+248
+medullaspinalis
+proc.spinosusm.cutaneusm.trapezius
+arcusvertebrae
+dorsalaxialmuscles
+n.spinalis
+v.hemiazygos
+corpus
+aortathoracica
+vertebrae
+oesophagus
+v.pulmonalis
+bronchus
+dextra
+principalis sin.
+bronchi
+a.pulmonalis
+lobares
+sinistra
+v.pulmonalis
+sinistra
+a.pulmonalis
+dextra
+costae
+lobi
+pulmonisdextri
+atriumsinistrum
+mm.intercostales
+ventriculussinister
+sternum
+atriumdextrum
+cartilagocostae
+ventriculusdext.
+mm.pectorales
+Figure 170. Transversal section of the body through the atria and the lungs.
+Anterior view. (←)
+arcusvertebrae
+m.cutaneus
+m.trapezius
+medullaspinalis
+dorsalaxialmuscles
+proc.transversus
+capitulumcostae
+corpus
+vertebrae
+v.hemiazygos
+v.azygos
+ductus
+thoracicus
+n.vagus
+aorta
+thoracica
+bronchus
+mm.inter-
+oesophagus
+costales
+v.cava
+cavum
+pleurae
+posterior
+costae
+lobi
+vasacoronaria
+pulmonis
+dextri
+ventriculusdexter
+cartilagocostae
+sternum
+pericardium
+mm.pectorales
+Figure 171. Transversal section of thc body in the region of the cardiac chambers.
+Anterior view. (+-)
+250
+medullaspinalis
+arcusvertebrae
+proc.spinosus
+m.trapezius
+proc.transversus
+dorsal axialmuscles
+capitulumcostae
+m.cutaneus
+corpusvertebrae
+subcutis,
+adiposetissue
+branchofthe
+thoracicduct
+aorta
+pulmodext.
+abdominalis
+cavum
+pleurae
+oesophagus
+v.cava
+lobi
+posterior
+hepatis
+skin
+w.hepaticae
+costae
+mm.intercostales
+ww.interlobulares
+sternum
+m.rectusabdominisdexter
+Figure 172. Transversal section of thc hody in the region of the liver, the diapbragm, the esophagus and
+the aorta. Posterior view. ()
+medulla
+arcusvertebrae
+dorsalaxialmuscles
+n.spinalis
+m.trapezius
+costa
+duct.
+vertebrae
+spinalis
+thoracicus
+m.cutaneus
+aorta
+ventriculus,
+abdominalis
+pars
+paraaortic
+oesophagica
+adipose
+tissue
+fundus
+subcutis,
+ventriculi
+adipose
+tissue
+oesophagus
+v.cava post.
+cavum
+peritonei
+mesenterial
+adiposetissue
+diaphragma
+cavum
+costae
+pleurae
+mm.intercostales
+s
+m.obliquusabdominisext.
+vv.interlobulares
+sternum
+m.rectus abdominis dexter
+Figure 173. Transversal section of the body in the region of the bepaic lobes, the stomach, and the posterior
+venu cava. Anterior view. (+)
+252
+aorta
+corpus
+medullaspinalis
+proc.spinosus
+dorsal axialmuscles
+abdominalis
+vertebrae
+m.iliopsoas
+truncus
+muscles of the iliac
+sympathicus
+region
+retroperitoneal
+peritoneal
+adiposetissue
+adipose
+tissue
+gl. suprarenalis:
+cortex
+lien
+medulla
+rendexter
+snqol
+hepatis
+v.cava
+posterior
+corpus
+ventriculi
+lobi
+hepatis
+chymus
+branchof
+snpou
+thehepaticvein
+lymphaticus
+m.transversus
+duodenum
+abdominis
+m.obliquus
+m.obliquus
+abdominisexternus
+abdominis internus
+m.rectusabdominisdexter
+lineaalba
+w.interlobulares
+pancreas
+v.mesenterica
+Figure 174. Transversal section of the body in the region of the kidneys, and the right adrerul gland.
+Anterior view. (←-)
+corpusvertebrae
+caudaequina
+conus
+proc.
+dorsal
+proc.transversus
+terminalis
+spinosus
+axialmuscles
+aorta
+m.iliopsoas
+abdominalis
+retroperitoneal
+m.cutaneus
+adipose
+tissue
+v.cava
+a.renalis
+posterior
+v.renalis
+rendexter
+papilla,
+pancreas
+cortex
+etmedulla
+renis
+lymphnode
+colondescendens
+and
+mesenterial
+vessels
+pancreas
+lien
+mesenterium
+m.transversus
+intestinum
+m.obliquus
+abdominis
+tenue
+abdominisexternus
+m.obliquus
+abdominisinternus
+m.rectus abdominis
+lineaalba
+intestinumtenue
+Figure 175. Transversal section in the region of the hilum of the lef kidney, and the terminat conus of
+the spinal cord. Posterior view. (→)
+254
+ilium
+sacrum
+cauda equina
+proc.spinosus
+dorsal axial muscles
+m.iliopsoas
+v.cavaposterior
+musclesofthe
+aorta abdominalis
+iliacregion
+m.cutaneus
+a.testicularis
+ureter
+retroperitoneal
+rectum
+adiposetissue
+subcutis,
+a.testicularis
+adipose
+tissue
+ureter
+cavum
+peritonei
+caecum
+intestinum
+intestinum
+tenue
+tenue
+m.transversus
+abdominis
+m.obliquus abdominis
+m.obliquus
+externus
+m.rectusabdominis
+linea alba
+mesenterialadiposetissue
+abdominis internus
+Figure 176. Transversal section of the caudal part of the body in the region of the cauda equinu.
+Anterior view. (+)
+branchesofthe
+ilium
+sacrum
+caudaequina
+proc.spinosus
+dorsalaxialmuscles
+m.iliopsoas
+mm.glutei
+lumbosacral
+plexus
+v.iliacadextra
+musclesofthe
+iliacregion
+a.iliacadextra
+m.biceps
+m.cutaneus
+femoris
+rectum
+vesicula
+ureter
+Seminalis
+coagulating
+gland
+intestinum
+vesicula
+tenue
+seminalis
+m.transversus
+abdominis
+musclesof
+epiphysis distalis
+thethigh
+femoris
+m.obliquus
+m.obliquusabdominis
+abdominis externus
+internus
+prostata
+m.rectusabdominisvesicaurinaria
+clot
+fattissue
+the semimal vesicle.Anterior view. (←—)
+2.56
+sacrum
+caudaequina
+proc.spinosus
+m.iliopsoas
+mm.sacrococcygeales
+ilium
+mm.glutei
+m.cutaneus
+rectum
+v.femoralis
+prostata
+femur
+musclesofthe
+iliacregion
+andthethigh
+vesicula
+seminalis
+m.transversus
+abdominis
+vesicula
+seminalis
+v.femoralis
+sinistra
+epiphysis
+distalis
+m.obliquus
+femoris
+abdominisexternus
+m.rectus
+urethra,
+m.obliquusabdominis
+prostata
+abdominis
+pars prostatica
+vesicaurinaria
+internus
+Figure 178. Transvcrsal scction of the caudal parl of the body in the region of the rectum, the prostate,
+the seminal vesicle and the urinary hladder. Postcrior view. (→)
+m.iliopsoas
+sacrum
+cauda equina
+proc.spinosus
+ilium
+mm.glutei
+acetabulum
+m.cutaneus
+ande
+femoris
+ligg.
+articulares
+rectum
+femur
+prostata
+m.transversus
+abdominis
+m.obliquus
+muscles
+abdominis
+ofthethigh
+externus
+m.obliquus
+fibula
+abdominis
+internus
+tibia
+tibia
+urethra,
+m.rectus
+canalis
+duct.deferens
+parsprostatica
+abdominis
+inguinalis
+duct.deferens
+Figure 179. Transversal section of the body in the region of the hip joint, the rectum, the prostate,
+and the inguimal canal. Anterior view. (—)
+258
+tendonsofthesacrococcygealmuscles
+caudaequina
+proc.spinosus
+mm.sacrococcygeales
+musclesof theiliacregion
+ossacrum
+tendonsofthe
+sacrococcygeal
+muscles
+mm.glutei
+ilium
+rectum
+vesica
+urinaria
+m.cutaneus
+and sos
+symphysis
+fossa
+pubica
+poplitea
+ductus
+deferens
+muscles
+of thethigh
+radix
+penis
+m.plantaris
+longus
+a.etv.testicularis
+fibula
+urethra
+gl.bulbo-
+OS
+glans
+v.dorsalis
+canalis
+tibia
+masculina
+urethralis
+penis
+penis
+penis
+inguinalis
+Figure 180. Transversal section of the body in the region of the hip area, the rectum, the urinary bladder and
+thc penis. Anterior vicw. (←)
+tail
+m.cremaster
+caput
+epididymis
+cauda
+testis
+epididymis
+!nana!
+seminiferi
+testis
+scrotum
+scrotum
+B)
+septum
+scroti
+septum
+A)
+urethra
+scroti
+penis
+masculina
+skin
+tendonsofthe
+mm.sacrococcygeales
+sacrococcygealmuscles
+C
+corpusvertebraecaudalis
+Figure 181. Transversal sections of the caudal part of tlie body. A) Structures of thc cranial part of
+the scrotum; B) The scrotum with the lesticles and the epididymis; C) Structure of the tail root.
+Posterior view. (→)
+260
+O
+caudaequina
+proc.spinosus
+dorsalaxial muscles
+m.iliopsoas
+musclesof theiliac
+corpusvertebraelumbalis
+region
+aorta abdominalis
+branches
+v.cavapost.
+ofthe
+ovarial vein
+duodenum
+pancreas
+ovarium
+Graafianfollicle
+colon
+mesenterial
+descendens
+adipose
+tissue
+branchesofthe
+intestinum
+mesenterialvein
+tenue
+colon
+ascendens
+m.transversus
+abdominis
+m.obliquus
+abdominisexternus
+m.obliquus abdominis
+internus
+v.mesenterica
+m.rectus abdominis
+linea alba
+cavumperitonei
+ Figure 182. Transversal section of a female animal's abdominal cavity in the region of the ovaries.
+Posterior view. (-→)
+branchesof the
+ilium
+sacrum
+cauda equina
+proc.
+dorsal
+a.etv.iliaca
+lumbosacral
+spinosus
+axialmuscles
+m.iliopsoas
+plexus
+v.cava
+musclesoftheiliac
+posterior
+region
+a.caudalis
+m.cutaneus
+a.etv.iliaca
+sinistra
+cavum
+nodus
+peritonei
+lymphaticus
+v.rectalis
+cornu
+rectum
+uteri
+intestinum
+sinistrum
+tenue
+cornuuteri
+caecum
+dextrum
+m.transversus
+abdominis
+m.obliquusabdominisexternus
+m.obliquus abdominis
+linea alba
+internus
+m.rectusabdominis
+mesenterialadiposetissue
+ Figure 183. Transversal section of a female animal's abdominal cavily in the region of the uterine horns 
+and the ovary. Posterior view. (→)
+262
+a.etv.caudalis
+sacrum
+cauda equina
+dorsalaxialmuscles
+mm.sacrococcygeales
+m.iliopsoas
+mm.glutei
+ischium
+m.cutaneus
+v.iliaca
+sinistra
+v.rectalis
+v.femoralis
+rectum
+sinistra
+muscles
+femur
+ofthe
+thigh
+tibia,
+abdominal
+mesenterial
+m.rectus
+corpus
+proximalepiphysis
+adiposetissueabdominis
+pelvisminor
+a.etv.uterina
+muscles
+uteri
+Figure 184. Transversal section of rhe caudal part of a female animal's body in the region of the rectum
+ and the uterine body. Posterior view. (-→)
+ossacrum
+caudaequina
+proc.spinosus
+v.caudalis
+mm.sacrococcygeales
+musclesof the
+iliacregion
+mm.glutei
+ischium
+m.cutaneus
+rectum
+musclesofthe
+vagina
+iliacregion
+andthethigh
+fossa
+fibula
+poplitea
+tibia
+fibula
+m.plantaris longus
+tibia
+canalisinguinalis
+pubis
+m.rectusabdominis
+vesicaurinaria
+membranaobturatoria
+and the vagina. Posterior view. (}
+264
+snqing
+olfactorius
+cavumoris
+abiuminferius
+radixdentisincisivi
+'ed penaeuu a wo aeme saou as ad nons a uoanp rep a sprmai, apoq area e jo uonaas aas s a
+lingua
+palatummolle
+hyoideum
+larynx
+trachea
+SIxe
+a.carotis
+communis
+nuchalmuscles
+nedulla
+rertebraecervicales,
+ouids
+ventriculus
+ond
+v.hepatica
+diaphragma
+v.cava
+theback
+hepar
+vertebraelumbales,
+duodenum
+pancreas
+orocessus
+colon
+discusintervertebralis
+tenue
+corpusvertebra
+canalisvertebralis
+noduslymphaticus
+ectum
+ornuuteri
+bdominal
+nuscles
+euibe
+266
+atlas
+occipitale
+arborvitae
+corpora
+hypophysis
+frontale
+corpuscallosum
+canalis
+quadrigemina
+thalamus
+n.opticus
+bulbusolfactorius
+centralis
+fornix
+nuchal
+ethmoturbinalia
+muscles
+nasale
+axis
+palatum
+oesophagus
+durum
+cavumnasi
+vertebrae
+annulus
+fibrosus
+et
+nucleus
+pulposus
+naris
+dens
+trachea
+incisivus
+labium
+larynx
+superius
+nodus
+lingua
+gl.submandibularis
+epiglottis
+lymphaticus
+m.geniohyoideus
+rugaepalatinae
+labiuminferius
+corpus sphenoidei
+hyoideum
+palatummolle
+radixdentisincisivi
+Figure 187. An almost mediansagittal section of the bead.
+meatusacusticus
+ventriculus
+hemispherium
+m.temporalis
+membranatympani
+externus
+tertius
+cerebri
+arcuszygomaticus
+etmalleus
+chiasma
+m.masseter
+cavum
+opticum
+tympani
+whiskerpad
+cochlea
+radixdentis
+incisivi
+planum
+nasolabiale
+septum
+nasi
+pons
+concha
+nasalis
+nuchal
+muscles
+folliclesofthe
+temporale,
+sinushairs
+parspetromastoidea
+ethmoturbinalia
+crus cerebri
+hypothalamus
+frontale
+gl.Harderi
+Figure 188.
+An almost horizontal section of the bead (part) in the region of the nasal septum, the lacrimal
+glands, and the inner eur. Dorsal view of the ventral part (of the head. (↓)
+268
+conchae
+nasales
+gll.lacrimales
+n.opticus
+m.temporalis
+praesphenoideum
+m.masseter
+sinus sigmoideus
+extraorbitallacrimalgland
+Figure 189. Horizontal section of a female body. The lungs, as in the majority of specimens, are significantly darker tlhan the surrounding areas.
+mandibula
+bullatympani
+edullaspinalis
+theneck
+ein
+bronchuslobaris
+mm.intercostales
+Darsal vicw of the ventral part of thc body. (l)
+pulmo
+.cava
+hepar
+hepar
+lymphaticus
+enterium
+essels
+musclesof thethigh
+emur
+cornuuteri
+agina
+270
+The numhers in the index refer to the figurcs, not to the pages!
+ Roman numerals identify the cranial ncrvc to which to nerve in question, belongs.
+ The name of the bones are given in short. form (for example femur), instead of the long formn (os femoris).
+abdomen
+apertura
+Blaberus 59
+-piriformis Ratus 186
+acetabulum
+apex
+Rana 101
+(sliell) Helix 23/A
+Rattus 179
+linguac Rana 96
+acromion
+aquaeductus
+Trachemys 102/A
+ cerebri Gallus 148
+adipose tissue
+Rattus 158-160, 164
+-, intermeningeal Cyprinus 66-68, 75, 78
+Trachemys 104
+aditus
+arbor vitae
+.- laryngis Rang 83, 86, 87, 95, 98
+Gallus 144
+Trachemys 116
+Rattus 187
+airway
+arcus
+, central Rana 89
+aortac Gatis 132
+alisphenoideum
+Rana 88-90
+Gallus 123
+Ratts 186
+alveolus
+Trachemys 108, 115, 120
+(in:pulmo)Rana 89
+, pars ascendens Trachemys 107
+angulus
+, pars descendens Trachemys 107-109
+mandibulae Rattus 159
+atlantis Rattns 166
+annulus
+haemalis Cyprinus 73, 74
+fibrosus Rattus 187
+hypogastricus Gallus 145
+antenna
+neuralis Cyprimus 71-74
+Blaberus 51/A, 63, 64
+7ygumaticus Rattus 149/A,153, 154, 188
+Orconectes 36/A, 4.5-48
+vertebrae
+:Gallus 137
+antennula
+Rana 87-89, 91, 96, 97
+Orconectes 36/A, 47, 48
+Rattus 167-173
+, rami Orconectes 45, 48
+Trachemys 105, 106
+anus
+argefitea
+Gallus 143
+Cyprinus 78
+Rana 95
+arteria/arteriae (see also artery)
+aorta
+arteria
+Blaberus 53-55,58
+abdominalis dors. Orcunectes 44
+Rattus 189
+brachialis Rattus 168
+abdominalis Gallus 134-140, 145
+branchialis Cyprinus 67, 75
+Rattus 172-176, 182
+carotis communis (
+Gallus 128-131
+ant. Anodonta 18, 21
+Ralius 161, 166, 186
+ascendens Rattus 169
+Trachemys 105-107, 120
+descendens Cyprinus 69-72
+-- ext.Gallus 127
+Ruma 92-94
+int. Rattus 159
+Rattus 169
+caudalis Cyprinus 73
+'rachemys 110-113, 120
+Rattus 183, 184
+thoracica Gallus 133
+Trachemys 114
+Rattus 170, 171
+ cephalica Orconectes 39, 41
+273
+arteria (continued)
+atrium (contirued)
+coeliaca Gallus 134, 135
+cordis Anodonta 19, 21
+Rallus 186
+(in: respiratory system)
+femoralis Gallus 146
+Blaberus 62
+Trachemys 113, 115
+auricula
+iliaca Gallus 145
+Rattus 160. 161, 163-166
+Rattus 177, 183
+cerchelli Gallus 127, 147
+interspinalis Cyprinus 70
+auris
+ischiadica Gallus 145
+int. Rattus 159
+Trachemys 113
+Trachemys 118
+imammaria Rattus 169
+axis
+pectoralis Rattus 169
+(epistropheus; in: skeletal system)
+pulmonalis Rattus 170
+Gallus 144
+Irachemys 107, 108, 115
+Rattus 149/A, 186, 187
+renalis Rattns 175
+, corpus Rattus 166
+segmentalis Orconectes 44
+(in: respiratory system)
+subclavia frachemys 106, 107, 115, 120
+branchiae Orconectes 39, 41, 42
+subneuralis (rconectes 3941, 43, 44
+testicularis Rattus 176, 180
+uterina Rattus 184
+barbel
+vertebralis Gallzs 130
+Cyprinus 76,79
+arteriae
+basioccipitale
+intercostales Cyprinus 77
+Cyprinus79
+branchiales Cyprinus 68
+, corpus Cyprinus 69
+interspinales Cyprinus 75
+basipodit
+-vertebrales Gallus 128
+Orconectes 39, 40, 42, 45
+artery (see also arteria/arteriae)
+ basisphenoideun1
+-, celiacomesenteric (branches) Cyprinus 70, 77
+Gallus 125-127, 144
+, internal carotid (branches)
+Trachemys 104
+Rattus 157-159
+, sternal Orconectes 46, 50
+Trachemys 104
+articulare
+beak
+Gallus 124, 126
+Gallus 121/A, 143, 144
+articulatio
+angle Gallus 122
+coxae(
+Gallus 139, 145
+blnod vessel/vessels (see also vessels)
+Rana 100
+-, dorsal Lumbricus 6/A
+genus Rana 100
+, epidural Trachemys 117
+huimeri Galins 145
+, paraneural Lumbricus 11
+Rana 87, 88
+, parictal Lumbricus 11
+, cartilago Gallus 130
+, pelvic Trachemys 113
+, meniscus Gallus 130
+, renal Cyprinus 72
+intcrcostalis Galias 13.5
+-, subintestinal Lumbricus 9-11, 14
+mandibularis Trachemys 115
+", subneural Lumbricus 8, 10, 11
+temporomandibularis Rattus 156, 157
+, supraintestinal Lumbricus 6/A, 9-12
+vertcbrocostalis Gallus 131
+, supraneural Lumbricus 8
+atlas
+body
+Gallus 121/A, 144, 148
+cavity Ascaris 2, 3, 5
+Rana 80A
+Helix 24, 28, 32, 34, 35
+Rattus 149/A, 186, 187
+Rana 87
+Trachemys 117
+wall Lumbricus 7-15
+,processus spinosus Rattus 166
+, muscular Helix 24-28, 35
+Trachemys 116
+Bojanus organ (see kidney)
+atrium
+hranchia/branchiae (see also gill)
+(in: heart)
+branchia
+Cyprinus 69, 75-77
+Anodonta 16/A
+Gallus 121A, 133, 143
+Cyprinus 65/A, 77
+Helix 34
+Orconectes 38-43
+Rana 89, 95-97
+-lat. (outer gill) Amdonta 19, 22
+Rattus 170
+— med. (inner gill) Azodonta 18-20, 22
+Trachemys 102/A, 108, 120
+, axis Orconectes 39, 41,42
+274
+branchia (conlinved)
+canalis (continued)
+, basis Orconectes 43
+- seinicircularis Cyprinus 68
+branchiae
+Gallus 125, 148
+Anoxionta 21, 22
+lat. Gallus 147
+Cyprinus 67,76,79
+vertebralis Rana 92
+Orconectes 36/A, 46-48
+Rattus 186
+branchial filaments
+canales
+Orconcctes 39, 42
+ branchiocardiales Orconectes 46, 50
+ branchiostegal membrane
+scmicirculares Ranz 85
+Cyprinus 76
+capirulum
+branchiostegit
+-costae Gallus 131
+Orconectes 38-43, 46-48, 50
+Rattus 169, 171, 172
+bronchus/bronchi
+capsula
+bronchus
+ articularis Rana 100
+Rattus 171
+int. Rattus 157
+lobaris Rattus 189
+capul
+ princpalis Gallus 132
+Blaberus 63
+Rattus 170
+epididymis Rattus 181/B
+Trachemys 107, 110, 115, 120
+fenoris Gallus 145
+hronchi
+Rana 101
+lobares Rattus 170
+Rattus 179
+ principales Trachemys 106
+humcri Gallas 145
+pulmonales Trachemys 108
+Rana 87
+bucca
+Rattus 167
+Rattus 164
+Trachemys 106
+bulbus
+carapax
+arteriosus Cyprinus 65/A, 75, 77
+Orconectes 37, 38, 41
+cordis Rana 89
+Trachemys 102/A, 106-108, 111, 113-11.5, 120
+(culi Gallzs 143
+carapax-plastron connection
+Rana 80/A, 81
+Trachemys 115
+Rattus 189
+cardio-pyloric valve (in: stomach)
+(lfactorius Cyprizus 65A, 75
+Orconectes 38
+Gallus 123, 144
+carp stone (sce pharyngeal tooth, upper)
+Rana 80A
+carpometacarpus
+Rattus 149/A, 153, 154, 186, 187
+Gallus 131
+Trachemys 102/A, 120
+cartilage/cartilages (see aiso cartilago/cartilagines)
+bulla
+, laryngeal Trachemys 104
+-tympani Rattus 161, 162, 165, 189
+, palatal (platc) Cyprinus 68
+bursa
+, Meckel's Gallus 122
+copulatrix Helix 32, 34
+Trachermys 115, 116
+, ductus Helix 29, 32-34
+cartilago/cartilagincs (see atso) cartilagc/cartilagcs)
+-Fabricii Gallus 121/A, 142, 143, 145
+cartilago
+-teloris Helix 26-28, 32, 35
+- articularis Gallus 131
+,ostium Helix 32
+(femur) Gallus 139
+(vertebra) Gallus 131
+arytenoidea Rana 87, 98
+caecum/caeca
+costae Ratlus 168-171
+Blaberus 57, 62-64
+, articulario humeri Gallus 130
+Gallus 137-139, 141-143, 146
+cartilagines
+Helix 34
+laryngis Gallus 124
+Rattus 149/A, 176, 183, 189
+cauda
+canalis/canalcs
+Trachemys 115, 120
+canalis
+epididymidis Rattus 181/A
+branchiocardialis Orconectes 40
+equina Rattus 175-180, 182-185
+centralis Galius 138
+caudoputamen
+Rana 99
+Rattus 155
+Rattus 165, 167, 187
+cavitas
+epilranchialis Anodonta 19, 20, 22
+ articularis Rana 87
+inguinalis Rattus 179, 180, 185
+Gallus 139
+275
+cavity (see also cavum)
+chiasma
+,buccal Helix 25
+opticum Gallus 123, 124, 144, 147
+, oral (see also cavum oris)
+Rana 83, 95
+Cyprinus 66. 67,75
+Raltus 164, 188
+Helix 32,33
+，
+Trachemys 117, 120
+Lumbricus 13-15
+chitin setae
+(floor) Rattus 152
+Orconectes 38, 49
+, oropharyngeal (see also cavum
+chloragogen cells
+oropharyngeum)
+Labricus 11, 12, 14, 15
+Rana 81, 83, 86
+choana
+Trachemys 104
+Gallus 122
+cavum (see also cavity)
+Rana 82, 85, 98
+ abdominale Cyprinus 73
+Trachemys 103, 115, 120
+-- columellae Helix 33, 34
+chorda
+cordis Orconectes 40, 42
+"siop
+Cyprinus 77
+crani Cyprinus 75
+chorioidea
+epibranchiale Anodonta 21
+Cyprinus 78
+interlamcllarc Anodonta 18-20
+Gallus 147, 148
+laryngis Gallus 144
+Trachemys 103, 118, 119
+medullare fenoris Calhus 139
+cisterna
+-nasi Gallus 122
+magna Rana 94
+Rana 95, 96,98
+clavicula
+Rattus 150-152, 187, 189
+Galls (see furcula)
+Trachemys 117-120
+Rattus 149/A
+- oris (sce aiso cavity, oral)
+cleithrum
+Helix 31,32,35
+Cyprinus 76, 77
+Rattus 152-154, 156, 186
+clitellum
+(oropharyngcum (see also cavity, (oropharyngeal)
+Lumbricus 6/A, 14
+Gallus 122-125, 127, 143, 144
+cloaca
+Rana 81, 84, 85,95, 97,98
+Gallus 142, 143
+Trachemys 103, 104, 116, 120
+Rana 95
+pallfi Anodonta 17-20, 22,
+Trachemys 115
+Helix 29, 30, 33, 34
+cochlea
+pericardi Anodomta 19, 21
+Rattus 160, 162, 188
+Gallus 133
+coeloma
+Rana 89, 95, 96
+Lumbricus 7-12
+peritouci Raitus 173, 176, 182, 183
+colliculus
+Trachemys 109, 111, 113
+-ant. Rattus 158
+pharyngis Ascaris 2
+post.1
+Rattus 160
+Lumbricus 7, 8, 13-15
+colon
+pleurac Rattus 171-173
+Blaberus 57, 59, 61-64
+thoracoabdominale Rana 101
+ascendens Rattus 182
+- tympani Gallus 147
+descendens Rattus 175, 182
+Rana 85, 86
+ transversum Rattus 149/A, 186, 189
+Rattus 158, 160, 162, 165, 188
+columella
+Tracbemys 104, 115, 117, 118
+Helix 33, 34
+ vcntriculi, pars cardiaca Orconectes 38
+Rana 86
+cercus
+columna
+Blaberus 51/A, 61, 62, 64
+verrebralis Cyprimus 75
+cerchellum
+Gallus 145
+Cyprinus 65/A
+Rana 95
+Gallus 121/A, 143
+comh
+Rana 80/A, 95, 96, 99
+Gallus 121/A, 122, 123, 144, 147, 148
+Rattus 149/A, 186
+commissura
+Trachemys 102/A, 118, 120
+ant. Rattus 155
+chaeta
+post. Gallus 144
+Lumbricus 13
+corpressing pad
+chela
+Orconectes 38, 48
+Orconectes 36/A
+, chitin setac Orconectes 38
+276
+compressing pad (continued)
+corpus (continued)
+, muscular wall Orconectes 38
+sphenidei Rattus 187
+concha/conchae
+-sterni Gallus 132-134, 137
+Anodonta 16/A, 17, 19-22 (see also shell)
+uteri Rattus 184, 186, 189
+(in: respiratory system)
+ventriculi Rattus 174
+ nasalis/nasales
+-vertebrae Cyprinus 70-74
+Gallus 122, 143,144, 147
+Gallus 136, 138, 140
+Rattus 188,189
+Ranu 87-91, 96, 97
+Trachemys 117-119
+Rattus 167-175, 186, 187
+conectivum
+Trachemys 105, 107, 114
+circumpharyngeale Blaberus S3
+caudalis Rattus 181/C
+Helix 26, 27, 32
+cervicalis Gallus 128, 129, 143, 144
+Lumbricus7
+lumbalis Gallhs 134
+ circumoesophageale Orconectes 45, 46, 48, 50
+Rattus 182
+, ventral nerve cord Orconectes 43
+corpora
+conus
+-quadrigemina Rattus 187
+terininalis Rana 99
+cortex
+Rattus 175
+- telencephali Rattus 15S-159
+cor
+costa/costae
+Anodonta 16/A
+Cyprimus 76, 77
+Blaberus 56, 57, 59
+Gallus 132-136, 143, 145
+Helix 23/A
+Rattus 169-173, 189
+(Orcamecles 36/A, 45 (see also heart)
+Trachemys
+(see pleuralia)
+Rana 80/A
+, capitulum Gallus 131
+Rattus 149/A, 186
+Rattus 169, 171, 172
+coracoideum
+, Pars sternalis Gallus 137
+Cyprinus 68, 77
+, pars vertebralis Gallus 137
+Gallus 130-132, 143, 145, 146
+, tuberculum Gatlrs 133
+Rana 87, 88
+coxa
+Trachemys 107
+Blaberus 52
+cornea
+coxal tuhercle of thc antenna II.
+Cyprinus 67,78,79
+Orconectes 37
+Gallus 147, 148
+coxopodit
+Rana 82, 99
+Orconectes 38-40, 42, 45
+Ratius 153
+crista
+Trachemys 103, 117-119
+sterni Gallus 132--134, 137, 139, 146
+cornu
+crop (scc also ingluvics)
+Ammonis (hippocampus) Rattus 156-158
+Blaberus 55, 56
+anterius (in: medulla spinalis) Gallus 138
+crus
+hyoidei Gallus 123-127, 148
+- cerebri Rattus 158, 159, 188
+inferius ventriculi lat. Rattus 156
+cuticula
+ posterius (in: medulla spinalis) Gallus 138
+Ascaris 2-5
+-uteri Rattus 149/A, 183, 186, 189
+Lumbricus 7-12
+corpus/corpora
+curpus
+adiposum Raa 90-93, 98, 99
+infrapatellare Gallus 139
+dens/dentes (see also teeth/tooth)
+interscapulare Rattus 168, 169
+dens
+axis (in: skclctal system) Ratlus 166
+- incisivus Rattus 151, 153-155, 187
+basioccipitale Cyprinus 69
+, radix Rattus 152, 186-188
+callosum Rattus 187
+med. (in: mastax) Orconectes 38
+, radiatio Rattus 155--159
+- molaris, radix Rattus 155
+cardiacum Blaberus 52
+pharyngealis (lower pharyngeal tooth)
+cerebelli Cyprinus 75, 78
+Cyprinus 69, 7.5
+Gallus 127, 147
+dentes
+fibrosum pcnis Trachenys 114
+proventriculi Blaberus 56
+linguae Rattus 152
+lateralcs Orconecies 38, 49
+-mandibulae Rattus 165
+molares (see molars)
+pineale Rattus 159, 160
+incisivi Rattus 150, 186 (see also incisors)
+277
+dentale
+ductus (continued)
+Cyprinus75
+pancreaticus Gallus 137, 141
+Gallus 122, 123
+pneumaticus Cyprinus 70, 71, 75, 76
+Rana 81, 83-86
+sernicircularis Cyprinus 78
+Trachemys 103
+Rattus 160
+denricles
+Frachemys 117
+- of mandible Blaberus 53
+-lat. Gallhus 127
+diaphragina
+thoracicus Rattus 171, 173 (see also thoracic
+Biaberus 56, 57
+duct)
+Helix 29, 32-34
+Trachewys 111-113
+Rattus 173, 186
+ducti
+, pars tmuscularis Rattus 172, 189
+deferenites Orconectes 42
+diencephalon
+scmicirculares Gallus 127
+Cyprinus 68
+duodenum
+Gallus 125
+Cyprinus 70, 71, 75-77
+diploe
+Gallus 137-139, 141-143, 146
+Gallus 125, 127
+Rana 93,94
+discus
+Raltus 174, 182, 186, 189
+ intervertebralis Gallus 143
+Trachemys 109, 110, 120
+Rattus 186
+Trachemys 106, 120
+, annulus fibrosus Rartus 187
+, nucleus pulposus Rattus 187
+ectoethmoideum
+ncrvi optici Gallus 147, 148
+-Cyprinns 66
+Trachemys 117
+cg
+dissepimentum/dissepimenta
+(in the vagina) Blaberus 60
+Lumbricus 9-15
+elytrum (forewing)
+diverticulum
+Blaherus S1/A, 54,62, 64
+ ducti bursae copulatrix Helix 32, 34
+embryo
+oesophagi Lumbricus 13, 15
+Blaberus 58, 59
+dorsal line
+cndophragma
+-Ascaris 2-5
+Orconectes 38, 40
+duct (see also ductus/ducti)
+endophragnal skeleton
+, opisthonephric Cyprinus 73, 75-77
+rconectes 37, 38
+-Rana 94
+entopterygoideum.
+-, thoracic (branch) Rattus 172
+Cyprinus 66
+dluctuli
+cpicoracoideun
+hepatopancrcatici Arocdomta 22
+Rana 87, 88
+Helix 30
+epidermis
+duclus/ducti (see also duct)
+Lumbricus 7-10
+ductus
+clitelli Lumbricus 11
+bursae copulatrix IIelix 29, 32--34
+epididymis
+Fabricii Gallus 143
+Trachemys 112
+deferens Ascaris 5
+, cauda Rattus 181/A
+Ielix 26, 28, 31, 32
+,caput Rattus 181/B
+Orconectes 43, 46-49
+epiglottis
+Rattus 179, 180
+Rattus 161, 187
+, Ostium Helix 27
+epiphallus
+ejaculatorius Ascaris 5
+Helix 27,33
+Blaberus 64
+epiphysis
+glandulae pedalis Helix 28, 29, 32, 34
+distalis femoris Rana 100
+salivaris Helix 25-29, 34,35
+Rattus 177, 178
+-- hepatopancrcaticus Azodonta 17
+proximalis femoris Rana 101
+Helix 30
+epistropheus (see axis)
+Orconectes 39, 40, 42
+epithelinum
+ centralis Orconectes 47, 49
+, intestinal Lumbricus 11, 15
+liermaphroditicus Helix 30, 33
+ pharyngcal Laumbricus 7, 8
+nasopharyngeus Rattus 153-159, 161, 164, 165
+esophageal (Morren's) gland
+Trachemys 103
+Lumbricus 10, 15
+278
+cthmoidale
+fissura (continued)
+, lamina perpendicularis Ratius 153
+Rattus 162, 163, 167
+ethmoturbinalia
+flagellum
+Rattus 150-153, 187, 188
+Blaberus 63
+Eustachian tube (see tuba auditiva)
+Helix 23/A, 26, 27, 33, 35
+excretory organ
+flocculus
+Ascaris 3-5
+Rattus 161, 163
+, labyrinth Orcozectes 45-48, 50
+foot
+, urinary bladder Orcovectes 45, 50
+Anodonta 16/A, 17-19, 21
+exhalant channel
+IIelix 24-29, 31-34
+Anodonta 20, 21
+, transverse muscle fibers of Anodonta 17-19
+Orconectes 46-48, 50
+foramell
+cxooccipitale
+costotransversarium Gallus 129, 130
+Cyprinus 78
+ilioischiadicum Gallus 145
+eye
+intervertebrale Rana S8
+Helix 24
+magnum Cyprinus 69, 75
+fundus Cyprinus 79
+, costotransversal Rattus 167
+-stalk Orconectes 37, 47
+, intervertebral Rattus 166
+cyeball
+forewing (see also elytrum)
+, external muscles Rana 83, 84, 99
+Blaberus 51/A, 54, 62, 64
+fornix
+Rattus 187
+facies
+fossa
+ articularis quadrati Tracbemys 116
+poplitea Rattus 180, 185
+fascia
+rheomboidea Rattus 162
+-, cervical Trachemys 105
+frons
+fat body
+Blaberus 64
+Blaberus 52-60, 62, 63
+frontale
+feather
+Cyprinus 67,75
+follicle Gallus 128, 129, 145
+Gallus 123-126, 143, 144, 148
+fcmur
+Rallus 153, 154, 186-188
+Gallius 139, 146
+Tracbemys 103, 118, 119
+Rana 101
+frontoparietale
+Raltus 178, 179, 184, 189
+Rana 82, 84-86, 99
+Tachemys 115
+fundus
+, caput Gallus 145
+ventriculi (in: stomach) Rattus 173
+Rana 101
+furcula (clavicula)
+Rattus 179
+Gallzus 130, 143, 145
+, cavum medullare Gallus 139
+—, epiphysis distalis Rana 100
+Rattus 177, 178
+galea
+ proximalis Rana 101
+Blaberus 52
+filula
+ganglion/ganglia
+Gallus 141, 142
+ganglion
+Rattus 179, 180, 185
+-cerebrale Blaberus 53
+filaments
+Helix 26, 33
+, branchial Orconectes 39, 42
+Laumbricus 6/A, 7, 13,14
+filter press
+Orconectes 36/A, 37, 45, 47,48
+Orconectes 49
+nervi glossopharyngei Cyprinus 79
+fin
+vagi Cyprinus 68,79
+rays Cyprinus 75
+pcdale Aroxdonta 21
+dorsal Cyprinus 75
+ prooticum Rana 85, 99
+(red muscles of) Cyprinns 69
+spinale Gallus 134
+, pectoral (red muscles of) Cyprinus 69
+Rana 88
+fissura
+Rattus 166
+- longitudinalis Gallus 124, 126
+suboesophageale Helix 28, 31, 33, 34
+Rana 99
+Orconectes 38
+Rattus 155-158
+subpharyngeale Lumbricus 13, 14
+mediana ant. Gaflus 138
+viscerale Anodonta 20, 21
+279
+ganglion (cunimued)
+glandula (continned)
+, ventral nerve cord Lumbricus 8, 14
+, ductus Helix 25~29,34, 35
+Orconectes 39, 41,
+sublingualis Rattus 161
+ganglia
+submandibularis Rattus 161, 166, 187
+Orconectes 40
+suprarenalis Gallus 136, 143
+ nervi vagi Cyprinus 79
+Rana 94
+ thoracales Orconectes 45
+Rattus 174
+gaster (see also ventriculus)
+—,cortex Rattus 174
+Anodomta 16/A, 17, 21
+, medulla Ralius 174
+Helix 23/A, 28,29,32-34
+thyreoidea Trachemys 120
+Lumbricus 6/A, 15
+uropygii Gallus 142, 143
+Rama 90, 92,94-98, 100. 101
+glandulae
+Rattus 149/A, 189
+lacrimales Rattus 189
+Trachemys 102/A,109-111, 115, 120
+mucosae Hclix 23A, 25,27-29, 32,35
+gastric wall
+(in: vcntriculus) Gaflus 134, 135
+Lumbricus 14, 15
+rectales Blaberus 60
+gastrolith
+sublinguales Rattus 159
+Orconectes 48
+submucosac (in: ventriculus) Gallus 134, 135
+ genital pouch
+glandular fold
+Blaberus 58, 59
+Rana 88. 89
+gill/gills (see aiso) branchia/branchiac)
+glans
+arch Cyprimus 68
+penis Rattus 180
+chamber Cyprinus 68
+glochidia (in gill)
+Orconectes 38,39,41,46-48, 50
+Anodonta 20
+raker Cyprinus 68, 77
+glomus
+-, full of larvae (glochidia) Anodonta 20
+caroticum Rana 87, 88
+-, inner (see branchia med.)
+glossa
+-, interlanellar junctitons Anodonta 18
+Blaberus 52
+, lamellae of Cyprinus 68
+glycogen body
+, outer Anodonta 20 (see also branchia lat.)
+Gallas 139, 140, 143
+gingiva
+gonad
+Rattus 151
+Anodonta 17-19, 21, 22
+girdle
+gonopore
+,pelvic Cyprinus 72
+common
+Helix 24, 25, 35
+gland'glands
+Graafian follicle
+of the foot Helix 27
+Rattus 182
+of the mantle skirt Helix 29
+gyrus
+, coagulating Ralius 177
+cinguli Rattus 157
+—, esophageal (Morren's) Lumbricus 10, 15
+dentatus Rattus 156, 157
+, extraorbital lacrimal Rattus 156, 161, 165, 189
+, mucous (opening) Helix 32
+, pedal (orifice of the) Helix 3
+Harder's gland sec glandula Harderi
+, poison Rana 88, 89
+head kidney
+, salivary Helix 32, 34
+Cyprinus 69, 70, 76,77
+glandula/glandulae
+heart/hearts (see aiso cor)
+glandula
+Lumbricus 9,13-15
+acccssoria Blaberus 61, 63, 64
+Orconectes 42, 43
+albuginea Helix 30, 33
+hemispherium
+bulbourethralis Ruttus 180
+cerebelli Rattus 161-163
+Harderi Rattus 153, 188
+cerebri Rattus 164, 188
+hermaphroditica (ovotestis) Helix 30, 33
+Irachemys 118, 119
+lacrimalis Iracbemys 118, 119
+hepar
+parotis Rattus 161,166
+Cyprinus 69-72, 75-77
+pedalis IIelix 26-29, 32-34
+Callus 133, 134, 136, 139, 141, 143, 146
+, ductus Helix 28, 29, 32,34
+Rana 89-92, 95-98
+, lumen Helix 24, 26, 27
+Rattus 186, 189
+-- rectalis Blaberus 63
+Trachemys 107-111, 115, 120
+salivaris Blaberus 62
+, lobuli Gallus 135
+Helix 33, 35
+Trachemys 109
+280
+hepar (continued)
+hypophysis (continued)
+-, lobus/lobi Gallus 137
+Tachemys 120
+Rattus 172-175
+，
+hepatopancreas
+Anodonta 16/A, 17, 18, 21, 22
+ileum
+Helix 30, 32-34
+Gallus 134-139, 141, 143, 146
+Orconectes 36/A, 39~43, 45-50
+ilium
+, lobus anl. Orconecies 38
+Callus 136-141
+hind wing
+Rana 80/A, 92-95
+Blaberus 62,64
+Rattus 149/A, 176-180, 183
+hindgut
+Trachemys 102/A, 114
+Ascaris 1/A
+incisors (see also dens inicisivus)
+Cyprinus 73
+, mandibular Rattus 164
+Orconectes 36/A, 41~44, 46-49
+infraorbitale
+Trachemys 110
+Cyprinus 67
+hinge plate
+ingluvies (see ais) crop)
+Anodonta 16/A
+Blaberus 51/A, 54, 58, 62-64
+horn
+Gallus 129
+, long Helix 23/A,24~28,31-34
+Lumbricus 6/A, 13-15
+, short Helix 24, 25, 35
+inscriptio
+horny sheats
+tendinea Rana 95, 97
+Tracbemys 103, 115, 120
+interlamellar junctions
+hmerus
+(in: gill) Anodonta 18
+Galins 130, 131, 145
+intermaxilla
+Rana 87-91
+Cyprinus 75, 78,79
+Rattus 168, 169
+Rana 95, 96
+Trachemys 115
+interueningeal adipose tissue
+-, caput Gallus 145
+Cyprinus 66-68, 75, 78
+Rana 87
+interparietale
+Rattus 167
+Rattus 160-163
+Trachemys 106
+intestinun
+hyoid apparatus
+-tenue Rattus 175-177, 182, 183, 186, 189
+Cyprinus 68,75
+intumescentia
+hyoideum
+ccrvicalis Rana 99
+Cyprinus 66, 67, 75
+lumbalis Rana 99
+Gallus 122-125, 127
+iris
+Rana 83
+Cyprinus 78
+Rattus 186, 187
+Rana 82
+Trachemys 104
+Tracbemys 103, 117
+,cornu Gaflus 123-127, 148
+ischium
+hypodermis
+Gallus 141, 142, 145
+Ascaris 2-5
+Rana 95, 101
+Orconectes 38-40, 42-44
+Rattus 149/A, 184, 185
+hypopharynx
+Blaberus 52
+hypophysis
+Jacobson's organ (see organum vomcronasale)
+Cyprinus 75
+Gallus 124
+jejunum
+Gallus 136, 139-143, 146
+Rana 85, 86, 95
+Rattus 187
+jugale
+Gallus 122
+Trachemys 120
+, pars distalis Rattus 158, 159
+-nervosa Rattus 158, 159
+hypostracum
+kidney/kidncys
+Anodonta 17, 21
+Anodonta 16A, 21
+bypothalamus
+(organum Bojani) Anodonta 19, 22
+Galius 144
+Helix 23/A, 30, 32-34
+Rana 84, 95
+koilin layer (gizzard)
+Rattus 156, 157, 164, 188
+Gallus 141, 142
+281
+labium
+ligamentum (continued)
+dorsale Helix 32
+vocalc Rana 88
+inferius Rattus 151, 186, 187
+ligamenta
+latcrale Helix 32
+articulares (hip) Rattus 179
+superius Rattus 151, 187
+~ suspensoria cordis Orronectes 42
+labrum
+lime
+Blaherus 53, 64
+crystal Lumbricus 10
+labyrinth (see aiso labyrinthus)
+ sac around the spinal ganglion Rana 89, 99
+(in: excretory organ)
+linea
+Orconectes 45, 46-48, 50
+alba Rzna 94
+(in: inmner ear)
+Rattus 174-176, 182, 183
+Gallus 148
+epiphysealis Rattus 167
+labyrinthus (see aiso labyrinth)
+lingua
+(i: inner ear)
+Gallus 122, 123, 143, 144
+Rana 86,99
+Rana 81, 84, 85, 95, 96, 98
+Trachemys 104
+Rattus 151, 164, 165, 186, 187
+-osseus Rattus 162
+Trachemys 116, 120
+lacinia
+, apex Ranu 96
+Biaberus 52
+Trachemys 103
+，一
+lacrimal gland
+-, corpus Rattus 152
+, extraorbital Rattus 156, 161, 165, 189
+, (outcr muscles Rana 96
+lacrimale
+, radix Gallus 125, 127
+Cyprinus 66, 78
+Rattus 153-155
+Gallus 122
+,raphe Rattus 155
+lamellae
+kbuli
+- of thc gill Cyprinus 68
+hepatis Gallus 135
+larynx
+Trachemys 109
+Gallus 124, 143
+renis Gallus 138
+Rana 97
+lobus/lobi
+Rattus 186, 187
+lobus
+Trachemys 116, 120
+ant. hepatopancrcatis Orconectes 38
+lateral linc
+hepatis Gallus 137
+Ascaris 2-5
+Rattus 172-175
+laterobronchi
+opticus Blaberus 53
+Gallus 135
+pulmonis Rattus 170, 171
+leg/legs
+temporalis Rattus 156, 157
+Blaberus 51A, 59, 64
+vagalis Cyprinus 78
+(seconid) Blaberus 63
+lobi
+Orconectes 36/A,
+renales Cyprinus 65/A
+, abdominal Orconectes 44, 45
+lung
+lens
+Rana 89
+crystallina Cyprinus 67, 78
+entry/inlet Rana 97
+Gallus 123, 147, 148
+lyinph node (see aiso nudus lymphaticus)
+Rana 82,99
+Rattus 175
+Rattus 153
+lymphatic vessel
+'Trachemys 103, 117-119
+Trachemys 109
+lien1
+Cyprinus 70, 71, 76, 77
+Gallus 121/A, 137, 138, 143, 146
+Ranα 80/A, 93, 95, 98
+malleus
+Rattus 174, 175, 189
+Rattus 162, 165, 188
+Trachemys 102A, 109, 110
+Malpighian tubules
+ligaments
+Blaberus 57, 62-64
+- of the swim bladder Cyprinus 70
+mandibula
+ ligamentum/ligamenta
+Blaberus 52, 53, 64
+ligamcntum
+Orconectes 45
+Anodonta 16A, 18-21
+Rattus 152-154, 165, 189
+atlantooccipitale Rattus 165
+, angulus Rattus 15y
+282
+mandibula (corztinued)
+membrane (continued)
+, corpus Ratus 165
+, peritrophic Blaherus S7
+, ramus Rattus 154, 155, 164
+ meninx/meninges
+, symphysis Rattus 152, 153, 165
+meninx
+mantle skirt
+ primitiva Cyprinus 78
+Arodonta 16A, 17-21
+meninges
+一Helix 29,32-34
+Rana 85
+—, pallial muscle layer Anodonta 17, 19, 20
+Trachemys 104
+mastax
+lieniscus
+Orconectes 38, 45, 47-49
+, articulatio humeri Gallus 130
+, dens med. Orconectes 38
+mentomandibula
+, dentes laterales Orconectes 38, 49
+Rana 95.96
+maxilla
+mesencephalon
+Biaberus 52
+Cyprinus 65A
+Cyprinus 78, 79
+Rana 80/A
+(jaw) Helix 31, 32, 34, 35
+Rattus 164
+Ranα 81, 82, 8.5
+‘lrachemmys 102/A, 104, 117-119
+Rattus 152-154,
+mesenterium
+Irachemys 103,  117-.119
+Gallus 141
+maxillopodium
+Rana 94
+Orcanectes 45
+Railus 175, 189
+maxilloturbinalia
+Trachemys 109, 115
+Rattus 1.52
+mesellteron
+meatus
+Anodonta 16/A, 19, 21
+ acusticus ext. Gallus 126
+Ascaris 1/A, 3, 4, 5
+Raltus 160-163, 165, 188
+Blaberus 51/A, 57, 63, 64
+Meckel's carrilage
+Helix 30, 32-34
+Gallus 122
+Lumbricus 6/A, 11, 12, 14, 1.5
+Trachemys 115, 116
+Orconectes 39, 40, 47, 49
+mediastinum
+rmiesethmoideum
+Rattus 169
+Cyprinus 66, 78
+medulla
+ metanephridium/metanephridia
+ oblongata Cypriuus 65A, 69, 75, 78
+Lumbriczs 6/A, 9, 12, 13, 15
+Gallus 148
+metathorax
+Rana 86, 96
+Blaberus 51/A
+Rattus 163, 165
+midgut
+Tracbemys 102A, 117, 118, 120
+Cyprinus 70-72.75-77
+reni Rattus 175
+Rana 91-95, 98, 101
+spinalis Cyprinus 65A, 69-75
+'Lrachemys 109-112, 115, 120
+Gallus 128-134, 136-141, 143-145
+modiolus
+Ranα 80A, 87-91, 95-97, 99
+Rattus 161
+Rattus 149A, 166-174, 186, 189
+molars
+Trachemys 105-115, 120
+, mandibular Raius 153, 154, 164
+, cornu anterius Gallus 138
+, maxillary Rattus 153, 154, 164
+,— posterius Gallus 138
+Morren's gland (see esophageal gland)
+membrana
+mouth
+ilioischiadica Gallus 141
+Anodonta 21
+obturaloria Gallus 141
+Ascaris 1/A
+Rattus 185
+Helix 32, 3.5
+tympani Gallus 125
+Lumhricus 13, 14
+Rana 80A, 85, 86
+mucosa
+Rattus 160, 162, 165, 188
+, olfactory Cyprimus 66, 78, 79
+Trachemys 115, 117
+Ran 81
+membrane
+, oral Cyprinus 67
+, branchiostegal Cyprinus 76
+-, oropharyngeal Rana 96
+, nictitating Gallus 147
+cavity Rana 83, 86
+Rana 81
+Trachemys 104
+Tracbemys 117, 118
+, palatal Rana 82-86, 95, 96, 98
+283
+muscle
+muscles (contimued)
+cells, arms Ascaris 2, 3, 5
+, hypaxial Cyprinus 69, 71, 73, 74
+, contractile portion Ascaris 2-5
+, hypopharyngeal Blaberus 52
+, non-contractile portion Ascaris 2-5
+, laryngeal Ranz 87
+fibers of the foot, transverse Anodonta 17-19
+-, neck Gallus 143, 145
+muscle/muscles
+, nuchal Gallus 128, 143, 144
+muscle
+,—Rallus 186, 187
+of the long horn, retractor HIelix 35
+, outer lingual Rana 96
+of the short horn, retractor Helix 24
+, pelvic Rana 95
+of the thorax, longitudinal Blaberus 54
+-Trachemys 112-114
+, fixing the hyomandibulare Cyprinus 78
+, segmented axial Rana 99
+, outer pharyngeal Helix 25, 27
+, thigh Galius 141, 145, 146
+muscles
+, thoracuhumcral Gallus 130, 131
+of the abdominal fin Cyprinus 71
+Rana 87-91
+segmcnts Orconecies 4.5
+Rattus 167-169, 189
+of the back Gallus 130
+Trachemys 106
+Rana 89
+, ventral deep axial Rattus 160, 161, 163,
+Rattus 186
+165-169
+, superficial layer Rattus 165, 166
+musculature
+ of the dorsal fin Cyprimus 69-73
+ around the hyoid bone Cyprinus 66
+of the cychall, cxternal Rana 83, 84, 99
+ cpaxial Cyyrinus 75
+Trachemys 120
+, hypaxial Cyprinus 75, 76
+ of tlhe oropharyngeal cavity Gallus 122
+musculus/musculi
+Rana 96
+musculus
+t01. sAuaqoru
+adductor ant. Anodonta 16/A, 21, 22
+of the forelimb Rattus 168
+-post, Anodonta 16/A, 20, 21, 22
+of tlie hind leg 'Trachemys 115
+biceps feuoris Rattus 177
+of the hip region Trachemys 120
+bivcnter cervicis Gallus 129
+- of the hyoid bone apparatus Cyprimus 76
+cervicoauricularis Rartus 162, 165
+of the iliac region Rattus 174, 176-178, 180,
+coccygeosacralis Rana 93
+182,183, 185
+columellaris Helix 29 (see aiso mm. columel-
+ of the mandibular apparatus Cyprinus 66
+lares)
+Ranu86
+complexus major Gallus 147, 148
+(of the imaxilla and intermaxilla Cyprinus 66
+crcmaster Raizus 181/A
+ of the maxillar apparatus Cyprinus 67
+cruralis Rana 98, 100, 101
+- of the mouthparts Blaberus 53
+cutaneus Gallus 128
+-of the ncck Gailus 143, 145
+Ralius 168-173, 175-180, 183-185
+Rattus 189
+depressor mandibulac Gallus 127, 148
+- of the pectoral fin Cyprinus 69, 70, 77
+digastricus Rattus 153-155, 159
+girdle Cyprinus 68
+dors. scapulae Rana 87, 90, 98
+-- of the pharyngeal bone Cyprinus 78
+dorsovcntr. Blaberus 58, 62
+ of the shoulder girdle Trachemys 107
+genioglossus Rattus 154
+of the stomach Orconectes 45
+geniohyoideus Rana 84
+- of the thigh Rattus 178--180, 184, 185, 189
+Rattus 187
+- of the walking leg Orconectes 38
+gracilis miajor Rana 100, 101
+, abdominal Gallus 137, 141, 142, 146
+minor Rana 100
+ Rattus 184, 186
+hyoglossus Rana 83, 84, 95
+,alary Blaberus 56, 57
+iliacus int. Rana 98, 100, 101
+, axial Rana 99
+iliolumbalis Rana 92
+,— Rattus 160-163, 165-177, 182-184
+iliopsoas Rattus 174-179, 182-184, 186
+Trachremys 107, 108
+latissimus dorsi Gallus 131, 133, 134
+,buccal Helix 35
+longissimus dorsi Rana 87, 90-96
+, cleithral Cyprinus 76
+longus colli Gallus 128-132, 143--144
+, coccygeal Gallus 142
+mandibularis Blaberus 52, 53
+, cutaneous Trachemys 105
+Orconectes 38, 46--50
+, dorsal axial Rattus 162, 165-177, 182-184
+masseter Gallus 147, 148
+,cpaxial Cyprinus 69-74
+Rana 83-85
+, external syringeal Galltus 131
+Rattus 152-155, 157, 159, 164-165, 188,
+Trachemys 114, 120
+189
+284
+musculus (continued)
+musculi (continued)
+Trachemys 117
+arthropudii Orconecles 39-43
+maxillaris Orc(ectes 46, 48
+thoracales Orconectes 46-48, 50
+mylohyoideus Rattus 153, 154, 159
+coccygeales Gallus 140
+Trachemys 103
+columellares Helix 30, 33-35
+obliquus abdominis ext. Rana 94, 98, 100,
+, rami Helix 31
+101
+costopulmonales Gallus 133-135
+Rattus 173-179, 182, 183
+coxales Blaberus 54
+int.
+.Rattus 174-179, 182, 183
+dilatarorcs cocsophagi Orconecles 50
+Pectineus Rana 100
+pharyngis Lumbricus 7, 8
+pectoralis Gallus 130--134, 137, 139, 143,
+ventriculi Orconectes 50
+145,
+146
+dorsoventrales Blaberus 62, 63
+Rana 95-97
+flexores ahdominis (see mm. thoracoabdomi-
+Rattus 168
+nales ventrales)
+lrachermys 108-110
+glutei Gallus 136--140, 142
+ pars abdominalis Rana 92, 93
+Rattus 177-180, 184, 185
+plantaris longus Rana 100
+intercostales Gallus 134, 135
+Rattus 180, 185
+Rattus 170-173, 189
+plerygoidcus Rana 84
+longitudinales thoracis Blaberus 64
+rectus abdominis Rana 92-97
+mandibulares Blaberus 64
+Rattus 172-179, 182-185
+- maxillares Orconectes 46, 48, 50
+lat. Cyprinus 79
+opcrculi Cyprinus 78
+Gallus 147, 148
+pectorales Rattus 169-171
+Rattus 153
+pedales Anodonta 17-19
+Trachemys 117
+Helix 32,33
+mcd. Cyprinus 79
+ pharyngis Helix 24
+Gallus 148
+Lumbricus 7
+Trachemys 103, 117-119
+protractores radulae Helix 25, 31, 33, 35
+sup.
+Gallus 123
+pterygoidei Gallus 123, 124
+ retractor capitis colli Trachemys 10s-113,
+Rattus 155, 157, 159, 164, 165
+115-117, 120
+retractores pharyngis Helix 32
+ pedis ant. Anodonta 22
+Lumbricus 13, 14
+post. Anodonta 21, 22
+radulae HIelix 31, 33, 34
+penis Helix 28,33
+sacrococcygeales Rattus 178-181, 184, 185
+sternocoracoideus Gallus 131
+- temporales Trachemys 104, 118, 119
+sternohyoideus Rattus 166-168
+tensores abdominis (sce mm. thoracoabdomi-
+sternomastoideus Rattus 161
+llales dorsales)
+sternothyreoideus Rattus 167
+thoracales Blaberus 62, 63
+- subcoracoideus Trachemys 106
+thoracoabdominales dorsales (mm. tensores ab-
+-- submaxillaris Rana 8486, 95, 96
+dominis) Orconectes 39-43, 47
+supracoracoidcus Gallus 130-134, 137, 139,
+ventralcs (mm. flexorcs ahdominis) Orc)-
+143, 146
+nectes 39-43, 45-47
+- tenporalis Gallus 122-126
+transversales Anodonta 18
+Rana 83, 84
+Helix 31
+Ratius 1.54159, 161-164, 188, 189
+- ventriculi anteriores Orconectes 37
+tensor fasciae latae Gallus 139
+illyomers
+Rana 98, 100
+Cyprinus 70-74, 76.77
+tergocoxalis Blaherus 54
+myosepta
+- tibialis ant. longus Rana 100
+Cyprinus 70-74, 76,77
+transversus abdoinis Rana 89, 94, 98, 100,
+101
+Rattus 174-179, 182, 183
+naris/nares
+ transversum, pars vertebralis Rana 89
+Ranα 81
+trapezius Rattus 166-173
+Rattus 187
+musculi
+nasal pit.
+ abdominales Trachemys 111-113
+Cyprinus 66,78
+dorsales Orconectes 44, 45, 48
+, valve of the Cyprinus 66
+ventrales Orconectes 44-46, S0
+nasale
+abductores maxillae Blaberus 52
+Gallus 122, 147
+285
+nasale (contirued)
+nervus (continued)
+Rana 80A
+Ratius 159, 166, 171
+Rattus 150-152, 187
+nervi
+neck
+cerebrales Orconectes 37, 48
+Blaberus 64
+ optici Blaberus 53
+ nephridioporus
+spinales Gallus 145
+Orconectes 45
+Trachemys 106
+nerve cord
+nictitating membrane
+-, dorsal Ascaris 2. 3
+Gallus 147
+, ventral Ascaris 5
+Rana 81
+Blaberus 54-57, 64
+frachemys 117, 118
+Laumbricus 8-11, 14
+nodus lymphaticus / nodi lymphatici
+Orconectes 39-45
+Rattus 159, 161, 174, 175, 183, 186, 187,
+(connectivum) Orconectes 43
+189
+(ganglion) Lumbricus 8, 14
+nucleus
+(ganglion) Orconectes 39, 41
+-habenularis Rattus 156
+，一
+nerve/nerves
+- pulposus Ratths 187
+-- bundlles of pro- and peristumium Lumbricus
+13, 14
+ of a subesophageal ganglion Helix 28
+occipitale
+, cerebral Orcomecies 37, 48
+Gallus 143, 144, 147
+, cervical (Il.) Rattus 166
+Rattus 163, 187
+, segmental Lumbricus 8
+, pars basilaris Rattus 160-163
+, spinal Rana 87, 88
+, pars lat. Rattus 165
+-(branches) Rana 87, 98
+oculus
+, vagus (branches) Cyprinus 68, 70, 77
+compositus Blaberus 52, 53,59
+Gallus 127
+，一
+Orconectes 37, 47, 48
+nervus/nervi
+odontophore (cartilage core)
+nervlls
+Helix 32-34
+cochlearis Rattus 160, 162
+oesophagus
+facialis (n. VlI.) Rama 84
+Anodomta 21,22
+Rattus 160
+Blaberus 51/A, 53, 62
+glossopharyngeus Rana 87
+Cyprinus 75
+hypoglossus
+Rana 88
+Gallus 126, 128, 131-133, 143, 144
+intercostalis Rattus 169
+Helix 23/A, 25-27, 34, 35
+ischiadicus Trachemys 115
+Laumbricus 9, 10. 13-15
+lat. Cyprimus 71. 72
+Orconectes 45, 50
+maxillaris Cyprinus 67
+Rana 87-91, 97,98
+(n.V/2) Rattus 154-159, 164
+Rattus 166-173, 187
+opticus Cypriwus 75, 79
+Tracbemys 102/A, 105-107, 110, 115, 120
+Gallus 123, 147
+olfactory mucosa
+Orconectes 37
+Cyprinus 66,78,79
+Rana 83, 84, 99
+Rana 81
+Rattus 154, 155, 187, 189
+oliva
+Tracbemys 117, 118, 120
+Rattus 162
+phrenicus Ratius 169
+oocytes
+radialis Rattus 168
+Ascaris 4
+ spinalis Gallus 129
+Orcorectes 39, 40
+Rattus 168,170,173
+Trachemys 115
+-, radix dors. Rana 88
+ootheca
+Rattus 166
+Blaberus 58, 59
+, radix ventr. Rana 88
+opcrculum
+Rattus 166
+Cyprinus 68,69,76,78.79
+, rami dorsales Rana 91, 92, 95, 96
+opisthonephric duct
+tentacularis primus Helix 24
+Cypris 73,75-77
+secundus Helix 25
+Rana 94
+- tibialis Rana 100
+opist.honcphros
+ulnaris Rattus 168
+Cyprinus 71, 72, 75-77
+vagus Rana 87
+oral cavity (see cavity, oral)
+286
+oral mucosa
+palatal cartilage
+Cyprinus 67
+—plate Cyprinus 68
+lrachemys 104
+ palatal mucosa
+orbitosphcnoideum
+一
+Cyprinus 68,75
+Cyprinus 67
+Rana 82-86,95,96,98
+Rana 83
+palate
+orgaluin/organa
+, prinary Trachemys 115
+- Bojani Anodonta 19, 22 (see aiso kidney)
+, secundary Trachemys 115, 120
+genitalia feminina Ascaris 1/A
+ palatinum
+latcrale Cyprizus 71, 72
+Gallus 122
+yomeronasale (Jacobson's) Rattus 151
+Rattus 155
+ oropharyngeal cavity (see also cavity, oropharyngeal)
+Trachemys 103
+, floor Rana 81, 86
+palatum
+-Trachemys 104
+Gallus 127
+, mucosa Rana 83, 86
+Rana 81, 82
+Trachemys 104
+durum Rattus 151-153, 155, 187
+—, mucosal folds Rana 8.3
+molle Rattus 159, 186, 187
+, muscles Gallus 122
+pallial
+Rana 96
+line Anodonta 17-19
+Trachemys 104
+muscle layer Arodonta 17, 19, 20
+05
+pallium Anndonta 17-22
+coccygis Cyprinus 75
+Helix 29, 30, 33, 34
+Gallus 142
+palp/palps (see aiso palpus)
+Rana 80A
+, labial Anodonta 16A, 17, 18, 21
+- cruris Rara 100
+palpebra'palpebrae
+penis Rattus 180
+palpebra
+Weberi Cyprinus 70
+inf. Gallus 122,148
+ostium
+Rana 82
+bursae tcloris Helix 32
+Rattus 153
+ducti deferentis Helix 27
+Trachemys 118, 119
+proventriculi Blaberus 56
+-sup. Gallus 122, 148
+sinus pcdalis Helix 31
+Rana 81, 82
+vaginae Rattus 186
+Rallus 153
+ostracuml
+Trachemys 118
+Anodonta 17, 18
+palpebrae
+otolith
+Galfus147
+Rana 86, 99
+Trachemys 103, 117
+Trachemys 117
+palpus (see also palp/palps)
+ovarium (see also (ovary)
+labialis Blaberus 52
+Ascaris 4
+-maxillaris Blaberus S2
+Blaberus 59
+pancreas
+Cyprinus 72,73
+Gallus 137, 139, 141, 143
+Gallus 136
+Rana 92, 95
+Orconectes 36A, 40, 45
+Rattus 174, 175, 182, 186, 189
+Rana 80A, 92,93,100
+Trachemys 109, 110, 115, 120
+Rattus 149A, 182
+ papilla/papillae
+Trachemys 102A, 113, 115
+papilia
+ovary (see aiso Ovarium)
+reni Rattus 175
+Trachemys 115
+papillae
+—, immature Gallus 143
+palatinales Gallus 124
+, wall Orconrectes 39
+paraflocculus
+oviduct
+Rattus 160, 162, 163
+,immature Gallus 139
+paramer
+oviductus
+Blaberus 62
+Blaherus 59
+paraphysis
+Helix 32
+Rana 83, 84
+Rana 90-93,99
+Trachemys 120
+Trachemys 113
+ parasphenoideum
+ ovotestis (see glandula hermaphroditica)
+Cyprinus 67, 68, 79
+287
+parasphenoideum (continued)
+pharynx (continued)
+Gallus 123, 124
+Hlelix 23A, 24, 27
+Ranu 82-86
+Lumbricus 6A
+parietale
+Rattus 158, 159,165
+Cyprinus 68
+, wall Ascaris 2
+Gallus 127, 144
+Lumbricus 8, 13, 14, 15
+Rattus 155-160
+pinna/pinnae
+Tracbemys 104, 118, 119
+pinna
+pars intercerebralis
+abdominalis Cyprinus 72, 75
+Blaberus 53
+analis Cyprinus 65A, 74, 75
+patella
+caudalis Cyprinus 65A, 73. 76
+Gallus 141
+dors. Cyprinus 65A, 72,73
+Rattus 149/A
+thoracalis Cyprinus 68, 69, 77
+peclell
+pinniae
+Galls 147
+abdominales Cyprinus 65A
+pedunculus
+ planum nasolabiale
+cerebellaris inf. Rattus 162
+Rattus 188
+medius Gallus 147
+plastron
+pelvic girdle
+'Frachemys 106, 108-110, 112-114, 116
+Cyprinus 72
+pleura
+pclvis
+Tracbemys 109
+minor Rattus 184
+pleuralia
+penis
+Trachemys 107, 108
+(scc also phallus) Blaberus 61
+pleurit
+Helix 23A, 26-28, 31-33
+Blaberus 55-61
+Rattus 181/A
+Orconectes 40-43, 47, 48
+Trachemys 114
+plexus
+,corpus fibrosum Trachemys 114
+brachialis Rana 87, 88, 98, 99
+,glans Rattus 180
+chorioideus ventriculi lat. Ratus 157
+,Os Rattus 180
+.Trachemys 119
+, radix Rattus 180
+quarti Rana95
+pericardium
+Rattus 163
+Cyprinus 77
+lumhrsacralis Rana 94--97, 99
+Gallus 133, 135
+venosus vertebralis Ranα 87, 90, 91
+Helix 32
+Rattus 167
+Rana 89, 96,97
+, lumhosacral (branches) Rattus 177, 183
+Rattus 171
+plica vocalis
+Trachemys 109
+Rana 88, 96,97
+periostracum
+poison glands
+Anodonta 17,18
+Rana 88, 89
+peristominm
+ponis
+Lumbricus 13, 14
+Callus 127, 144, 148
+peritoneum
+Rattus 160, 161, 186, 188
+Rana 94
+porus
+Trachemys 109, 111-113
+acusticus ext. Gallus 125, 126, 148
+peritrophic membrane
+ praesphenoideum
+Blaberus 57
+Rattus 155, 189
+pessulus
+proccssus/processa
+Gallus 132
+processus
+phallus (see also penis)
+condyloideus Rattus 156, 157
+ Blaberus 61
+costarius Gaflus 128
+ pharyngeal tooth
+costotransversarius Gallus 128, 129
+, lower (see dens pharyngealis)
+medialis angularis Gallus 126, 143
+, upper (carp stone) Cyyrinus 69, 75
+pharyngeus Cyprinus 69, 70
+pharynx
+spinosus Gallus 132-134, 136-138
+Ascaris 1A
+Ranz 89
+Blaberus 52
+Rattus 167, 170, 172, 174-180, 182, 183,
+Cyprinus 68, 69
+185
+288
+processus (continued)
+quadratojugale
+- atlantis Rattus 166
+Gallus 122, 124, 126
+Trachemys 116
+Tachemys 118, 119
+dors.
+Cyprinus73,74
+quadratomaxilla
+ventr.
+Cyprinus 73,74
+Rana 8.3
+-vertebrae cervicalis Gallus 144
+quadratum
+, vertchrac cervicales Rattus 186
+Cyprinus 66, 67
+,—humbales Rattus 186
+Gallus 124, 126
+- sterni Gallus 137
+Trachemys 104
+transvcrsus Gallus 132, 133
+Rana 87-90, 99
+Rattus 169, 171, 172, 175
+rachis
+Trachemys 108
+ Ovarii Ascaris 4
+vertebrae sacralis Trachemys 114
+radiatio
+processa
+corporis callosi Rattus 155-159
+spinosa ventralia Cypriuus 76
+optica Gallus 148
+transversi Trachermys 120
+Trachemys 119
+procoracoideum
+radius
+Trachemys 106
+Gallus 131, 145
+pronotum
+Rattus 168
+Blaherus 51A, 52,62, 64
+radix
+prooticum
+aortae Cyprinus 68
+Cyprinus 68, 78
+dentis incisivi Rattus 152, 186-188
+Gallus 126
+molaris Ratius 155
+Rana 85, 86, 99
+durs. nervi spinalis Gallus 139, 140
+‘lhachermys 104, 118, 119
+Rana 88
+prostata
+Rattus 166
+Rattus 177-179
+linguac(
+Gallus 12s, 127
+prostonium
+Rattts 153-155
+Lumbricus 13-15
+mesenterii Cyprinus 71
+proventriculus
+Tachemys 110
+Blaberus 56, 63
+ penis Rattus 180
+, ostium Blaberus 56
+ventr. nervi spinalis Rana 88
+pteroticum
+Ralius 166
+Cyprinus 68
+radula
+pterygoideum
+Helix 25, 34
+Gallus 123, 124
+-sac Helix 25, 26, 31,32, 34,35
+Rana 82,83
+,odontophorc Helix 32-34
+ptcrygophores
+ramus/rami)
+Cyprinus 75
+raillus
+pubis
+mandibulae Rattus 154, 155, 164
+Callus 141, 142
+palatinalis n. VI1. Rana 84
+Rana 95, 98, 101
+rami
+Rattus 180, 185, 186
+antennulae Orconectes 45, 48
+Trachemys 112-114, 120
+dorsales nervi spinalis Rana 91, 92, 95, 96
+, symphysis Rana 98, 100, 101
+-musculi columellares Helix 31
+Rattus 180
+venae cutaneae maguae Rana 92
+ant. Trachemys 114
+pulmonalis 1lelix 29, 34
+pulm(
+raplie linguae
+Gallus 121/A, 132-135, 143, 145
+Rattus 155
+Helix 23/A, 29, 32
+receptaculum
+Rana 80/A, 90, 98
+seminis Lumbricus 9, 15
+Rallus 149/A, 172, 186, 189
+recessus
+Tracbemys 102/A, 107, 109-111, 120
+infundibuli ventriculi terti Rana 84
+-, lobi Rattus 170, 171
+rectum
+pylurus
+Anodonta 16A, 20, 21
+Rana 93
+Blaberus 51A, 60-64
+pyramis
+Gallus 137-141
+Rattus 162, 163
+Helix 23A, 30, 33
+289
+rectum (continned)
+sclera (cotimed)
+Rana 94, 95,98
+Gallus 147, 148
+Rattus 176-180,183-186
+Rana 99
+Trachemys 112, 113, 115, 120
+Rattus 153
+ren/reni
+Trachemys 118
+Gallus 121A, 134, 136-141, 145
+scrotum
+Rana 80A, 92-95
+Rattus 181/A,B
+Rattus 149A, 174, 175
+seminal vesicle (see aiso vesicula seminalis)
+Trachemys 102A, 112, 113, 120
+Laumbricus 10, 13-15
+,cortex Rattus 175
+septum
+, lobi Cyprinus 65/A
+horizontale Cyprinus 69-74
+-, lobuli Gallus 138
+interorbitale Gallus 144, 147, 148
+, medulla Rattus 175
+Frachemys 103, 117
+,papilla Rattus 175
+nasi Gallus 122
+rerina
+Rattus 150--152, 186, 188, 189
+Cyprinus 67, 78
+Trachemys 103, 117-119
+Gallus 123, 147, 148
+, pars carrilaginea Rattus 152
+Rana 82, 99
+pericardiale Orconectes 42, 43, 45
+Rrachemys 103, 117-119
+sagittale Cyprinus 69-74
+rib (see costa/costae)
+scroti Rattus 181/A,B
+rima
+trasversum Cyprinus 69, 70, 75-77
+glottidis Rana 88
+seta/setae
+rostrum
+Lumbricus 10
+Orconectes 4.5
+chitin Orconectes 38, 49
+rugae palatinae
+shell
+Rattus 187
+Helix 23A, 30, 33, 34
+, apex Helix 23A
+sinus
+branchiales Arodonta 20
+sac
+Orconectes 41, 48, 50
+, lime (around the spinal ganglion) Rana 89, 99
+-- branchialis afferens Anodonta 19, 22
+-, radula 1lelix 25, 26, 31, 32, 34, 35
+cffercns Anodonta 22
+, visceral (wall of) Hefix 30, 33
+ infraorbitalis Gallus 122
+-, vitelline Gallus 142
+-hairs Rattus 150, 151, 189
+saccus
+follicle Rattus 150, 151, 188
+abdominalis Gallus 138, 141,142. 146
+labialis Helix 33
+Rara 90-92, 9.5-97
+lymphaticus Trachemys 106
+- craniodors. Rana 83, 87, 89, 91, 92
+pedalis Anocdomta 17
+cruralis Ranu 100
+/pedales Helix 26, 27, 29
+dors. Rana 95
+,ostium Hlelix 31
+femoralis Rana 98, 100, 101
+pericardialis Orcomecies 40, 42, 43, 45
+interfemoralis Rana 100
+pcrincuralis Blaberus 57
+laryngntrachealis Rana 88, 95, 96, 97
+perivisceralis Blaberus 58, 60
+- lat. Rana 89-94, 98, 100, 101
+sagittalis sup. Gallus 124-127
+submaxillaris Rana 81, 83-85, 95, 96
+Rattus 154-158, 160
+vocalis Rana 98
+Ipachemys 104
+sacrum
+sigmoideus Rattus 158, 159, 162, 165, 189
+Rattus 176-180, 183-185
+sternalis Orconectes 38
+salivary gland
+venosus Cyprinus 65A, 69, 75-77
+Helix 32, 34
+Rana 90, 95-97
+scapula
+-ventr. Orconectes 40, 42,43
+Gallus 130-133, 145
+visceralis Orconecles 38, 4l-45
+Rana 80/A, 87, 88, 98
+siphon
+Rattus 149A, 167-169, 189
+, dorsal (exhalant) Anocdonta 16A, 21
+Trachemys 102/A, 106
+-, ventral (inhalant) Anodonta 16A, 21
+scapus
+skcletal elements
+Blaherus 63
+in thie head Blaberus 52, 53
+sclera
+skeleton
+Cyprinus 78,79
+, endophragmal Orconectes 37, 38
+290
+skin
+sulcus
+Cyprinus 66, 68
+basilaris Rattus 160
+Gallus 122, 125, 140
+ medianus post. Gallus 138
+Rana 81, 83
+ supraanal plate
+Rattus 152, 161, 165, 172, 181
+Blaberus 62, 64
+Trachernys 103
+supraoccipitale
+, lateral fold Trachemys 114
+Cyprinus 75
+spcrm
+lrachemys 120
+(in: vesicula seminalis)
+suprascapula
+reservoir Lumbricus 10, 13, 14
+Rana 87, 88,90
+rosettes Lumhricus 10
+swim bladder (see vesica natatoria)
+spermoviductus
+symphysis
+Helix 33, 34
+ant. (pubis) Trachemys 114
+, pars glandularis Helix , 29, 30
+mandibulae Rattus 152, 153, 165
+, pars prostatica Helix 29, 32
+pubica Rana 98, 100, 101
+, pars uterica Helix 29, 30, 32, 34
+Rattus 180
+sphenoideun
+synsacrum
+", corpus Rattus 187
+Gallus 121A, 138-141, 143, 145
+spiculum
+, arcus vertebrae Gallus 138
+almoris Helix 28, 32
+, corpus vertebrae Gallus 136, 138, 140
+squama
+occipitalis Rattus 164
+squamosum
+Rana 82, 83, 98
+tail (see aiso cauda)
+Tracbemys 104, 118, 119
+Rattus 181/B
+statocysta
+root Gallus 145
+Orconectes 48
+Rattus 186, 189
+sternit
+tectun
+Blaberus 54-56, 58-61
+mesencephali Gallus 125, 147, 148
+Orconectes 44
+Rattus 158, 159
+sternum
+- opticum Cyprinus 68, 75
+Gallus 131, 143, 146
+Gallus 126
+Rana 90, 91, 97
+Rana 99
+Rattus 168-173
+Trachemys 104, 120
+stigimiae
+tecth/tooth (see aiso dens/dentis)
+Blaberus 60, 62
+, intermaxillary Rana 82
+stipes
+, maxillary Rarna 82
+Blaberus 52
+', vomerine Rana 82, 85
+stomach (se gaster; ventriculus)
+, lower pharyngeal (see dens pharyngealis)
+stomodeal valve (ventriculus)
+; upper pharyngeal (carp stone) Cyprimus 69,
+Blaberus 63
+75
+slratum
+tegmcntum
+— pigmentosum retinae Raza 82
+mesencephali Gallus 125, 126
+striae
+Raltus 158, 159
+medullares thalami Rattus 157
+telencephalon
+stylus
+Cyprimus 65/A, 75, 78
+Blaberus 61
+Callus 121/A, 123-126, 143, 144
+subcutis
+Rana 80/A, 82-84, 95, 96, 99
+Rattus 166, 172, 173, 176
+Rattus 149/A, 154, 160, 186
+Trachemys 105, 112
+lracbemys 102/A, 103, 120
+subgenital plate
+", cortex Rattus 155-159
+Biaberus 63,64
+telson
+substantia
+Orconectes 36/A, 45, 46
+- adamantina Rattus 150
+temporale
+eburnea (dentin) Rattus 150
+Rattus 155-157, 160, 163, 164
+ grisea centralis Gallus 126
+-, fossa mandibularis Rattus 156, 157
+Rattus 158, 159
+, pars petromastoidea Ruttus 188
+nigra Rattus 159
+squamosa Gallus 126, 147
+291
+tendons
+transition from
+of the sacrococcygeal muscles Ratlus 180,
+csophagus to crop Gallts 130
+181/C
+duodenum to jejunum Gallus 146
+ of the supracoracoideal muscle Gallus 130,
+esophagus to stomach Trachenrys 108
+145
+pharynx to esophagus Ilelix 24
+(of the strecthing muscle of the swin bladder
+pylorus to duodenum Rana 93
+Cyprinus 71
+trochanter
+tergit
+Blaberus 55
+Blaberus .54-61
+truncus (see aiso trunk)
+Orconectes 44
+arteriosus Cyprinus 67, 68, 75-77
+testis
+Rana 97
+Ascaris 5
+brachiocephalicus Gallus 143
+Blaberus 63
+Trachenys 108
+Cyprinus 71
+coeliacomesentericus Irachemys 110
+Lumhricus 13
+pulmoualis (trunci pulmonales) Tracherzys 107,
+Orconectes 41
+108, 120
+Rana 94, 95, 98
+sympathicus
+Gallus 145
+Rattus 181/B
+Rana 89
+Trachemys 112
+Rattus 174
+, tubuli seminiferi Rattus 181/B
+vagosympathicus Callus 128
+thalamus
+trunk (see also truncus)
+Gallus 144, 147
+, celiacomesenteric (branch) Irachermys 109
+Rana 83,95,99
+tuba
+Ralius 156, 157, 187
+- auditiva (Eustachian tubc) Ranz 86, 95, 98
+Trachemys 118. 119
+tuberculum
+thoracic duct (see aiso ductus thoracicus)
+costae
+Gallus 133
+(branch) Rattus 172
+impar
+Cyprinus 75,78
+thymic lobe/hohes
+tubuli
+Gallus 129, 130, 143, 145
+seminiferi testis Rattus 181/B
+thryimus
+lunlica
+Raltus 169, 186
+muscularis (stomach) Gallus 141
+Trachemys 107, 120
+turbinalia (see ethmo- and naxilloturbinalia)
+tibia
+typhlosole
+ (see also typhlosolis)
+Raltus 179, 180, 185
+of thc hindgut Azodonta 19
+, epiphysis proximalis Rattus 184
+of the midgut Anodonta 18, 22
+tibiotarsus
+typhlosolis
+-Gallus 139, 141, 142
+Lumbricus 11, 14, 15
+torus
+longitudinalis Cyprinus 68, 78
+trabeculae
+carncac ventriculi cordis Helix 34
+ulna
+trachea/tracheae
+Gallus 131, 145
+Blaberus 52-54, 57,63
+Rattus 168
+Gallus 126, 128-131, 143, 144
+ureter
+Rattus 166-169, 186, 187
+Gallus 140, 142
+Trachemys 102A, 104, 105, 120
+Raltus 176, 177
+, dorsal segmental Blaberus 58
+Trachemys 112, 113, 120
+tracheal trunk
+, primary Helix 30, 33
+Blaberus 54, 60
+, secondary Helix 23A, 30, 33
+, lateral Blaberus 55-59, 61
+urethra
+, paraaortic Blaberus 54, 55, 58
+masculina Rattus 180, 181/A
+, paracardial Blaberus 57
+, pars prostatica Rattus 178, 179
+, paraneural Blaberus 55
+urinary bladder
+, wing root Blaberus 54
+Anodonta 19
+tractus
+Orconectes 36A, 45, 50
+ olfactorius Cyprinus 67, 75, 78
+-, cloacal Trachemys 113, 115, 120
+opticus Gallus 124, 147
+, orifice of Trachemys 113
+Rattus 157, 164
+uropodium
+'Trachemys 117
+Orconectes 46
+292
+vena cava post. (continued)
+Rana 92-95, 99
+facialis Rattus 154
+literus
+ant. Rattus 15s, 161
+Ascaris 4
+femoralis Gallus 139, 145, 146
+r, corpus Rattus 184, 186, 189
+Rattus 178, 184, 189
+Trachemys 113, 115, 120
+hemiazygos Rattus 170, 171
+hepatica Cyprinus 69, 72, 76, 77
+vagina
+Callus 143
+(n: genital organs)
+Rana 96,97
+Blaherus 60
+Rattus 186
+Helix 26-28, 31, 35
+Tracbemys 108, 115
+Rattus 185, 186, 189
+iliaca Rattus 177, 183, 184
+, ostium Raltus 186
+jugularis Gallus 127-130, 145
+(in: vascular system)
+Trachemys 105, 106, 115
+- carotica Rattus 167
+ext.
+Rattus 159, 167, 168
+valva
+int. Rattus 159, 161, 166
+- atrioventriculare Rana 97
+labialis Rattus 164
+valve
+lingualis Rattus 154, 155
+Orconecies 47, 49
+mammaria Rattus 169
+, cardiac Cyprinus 75
+mesenterica Gallhus 137, 142
+--, cardio--pyloric (in: stomach) Orconectes 38
+Rallus 174, 182,
+valvula/valvulae
+ant. Rattus 189
+valvula
+pancreaticoduodenalis
+Gallus 142
+cerebelli Cyprinus 68, 75, 78
+pectoralis Rattus 169
+sinuatrialis Rana 97
+portac hepatis Trachemys 115, 120
+valvulae
+renis Gallus 139, 140
+semilunares Rana 89
+Rana 93, 94
+vasa coronaria
+Trachemys 112
+Rattus 171
+- pulmonalis Helix 34
+vein (see ulso vena/venae)
+Trachemys 108
+, cxternal jugular (branches) Ratius 159, 161
+Rattus 170
+(branches) Trachemys 104
+-- rectalis Rattus 183, 184
+, faciel (branch of) Rattus 162
+-renalis Gallus 137-141
+, hepatic (branches) Ratlus 174
+Rattus 175
+, mesenterial (branches) Rattus 182
+Trachemys 112, 113
+, ovarial (hranches) Rattus 182
+subcardinalis Cyprinus 70, 71, 76
+, vertebral Rattus 167
+subclavia Galius 132
+vena/venae (see afso vein)
+Rattus 168
+vetia
+testicularis Rattus 180
+abdominalis Rana 92-94
+uterina Rattus 184
+Trachemys 112, 113, 120
+venae
+azygos Rattus 171
+abdominales Irachermys 110, 111
+brachialis Rattus 168
+centrales hepatis Trachemys 109
+Trachemys 115
+faciales Rattus 160, 163, 166
+cardinalis communis Cyprimus 75
+hepaticae Gallus 134, 135
+post. Cyprinus 70,71
+Ranα 90, 91
+caudalis Cyprinus 73
+Rattus 172
+Rattus 184, 185
+intercostales Cyprinus 77
+cava ant. Gallus 132
+interlobulares Rattus 172-174
+Rattus 169
+pulmonales Helix 29, 33, 34
+Trachemys 107, 115
+Trachemys 115
+post. Gallus 134, 135, 146
+renales Rana 93
+Rana 90, 92, 93, 96, 97
+vertebrales Gallus 128
+Raltus 171-176, 182, 183, 186, 189
+ventral linc
+Trachemys 109, 110, 112, 115, 120
+Ascaris 2--5
+coccygeomesenterica Gallus 137-141, 143, 145
+ventriculus
+cutanca magna Rana 91, 92
+(in: heart)
+dors. penis Rattus 180
+Cyprinus 65/A, 69, 75-77
+293
+ventriculus (continued)
+vertebra (continued)
+Gallus 121/A, 132-135, 143, 146
+-, arcus Gallus 138
+Orconectes 36/A
+Ranα 87-89, 91, 96, 97
+，一
+Rana 89-91, 95-97
+Rattus 167-173
+Rattus 170, 171, 186
+Trachemys 105, 106
+Trachemys 102/A, 109, 120
+haemalis Cyprinus 73. 74
+cordis Anodonta 19, 21
+neuralis Cyprinus 71-74
+Helix 34
+-,corpus Cyprinus 70-74
+(in: digestive system;
+: see aiso gaster)
+Gallus 136, 138, 140
+Anodonta 17, 21
+Rana 87-91, 96, 97
+Laumbricus 15
+Rattus 167-175
+(stomodeal valve) Blaberus 63
+Trachemys 105, 107, 114
+, corpus Rattus 174
+vertchrae
+, fundus Rattus 173
+cervicales Trachemys 106, 116, 120
+, pars cardiaca Orconectes 38, 45-49
+: processus spinosus Rattus 186
+—,— glandularis Gallus 121/A, 134-136, 146
+coccygeales Gallus 14.5
+ gll. mucosae Gallus 134, 135
+lumbales, processus spinosus Rattus 186
+"，
+, gll. submucosae Gallus 134, 135
+vertex
+-muscularis Gallus 121/A, 137, 139,
+Blaberus 64
+141-143, 146
+vesica
+, tunica muscularis Gallus 141
+fellea Cyprinus 65/A, 71, 75, 77
+oesophagica Rattus 173
+Gallus 137, 139
+pylorica Orconectes 45-49
+Rana 80/A
+，
+, compressing pad Orconectes 48
+Trachemys 109, 110, 115
+(in: nervous systein)
+natatoria Cyprinus 65/A, 71, 72, 75, 76
+- lat. Gallus 126
+-urinaria Rana 95, 98,101
+Rana 83, 99
+Rattus 177, 178, 180, 185
+Rattms 155, 156
+Trachemys 111, 112, 120
+Trachemys 119
+vesicle
+, plexus chorioideus Rattus 157
+, seminal Lumbricus 10, 13-15
+Trachemys 119
+vesicula
+mesencephali Cyprinus 78
+ seminalis Blaberus 61
+Rana 85, 95, 96, 99
+Lumbricus 6A, 9, 13-15
+quartus Cyprinus 78
+Rattus 177, 178
+Rana 95, 99
+vesscls (sec also blorod vesscl)
+Rattus 161-163
+, mesometrial Rattus 189
+Trachemys 117, 118, 119, 120
+, mesenterial Rattus 175
+, plexus chorinideus Rana 9.5
+Tracbemys 110
+Rattus 163
+, orbiral Cyprinus 79
+-tertius Cyprinus 68
+vestibulum
+Gallus 147
+Helix 23A, 25, 31, 35
+Rana 83, 99
+oris Rattus 153
+Rattus 156, 157, 188
+visceral sac
+Trachemys 117-119
+, wall Helix 30, 33
+—, recessus infundibuli Rana 84
+vitelline sac
+ventrobronchi
+Gallus 142
+Gallus 132
+vomer
+vermis
+Cyprinus 66
+- cerebelli Rattus 161-164
+Gallus 122
+vertchra/verrcbrae
+Rana 95, 96
+vertebra
+Rattus 152
+caudalis, corpus Rattus 181/C
+Pachemys 115
+cervicalis, arcus Gallus 128
+, corpus Gallus 128, 129, 143, 144
+lumbafis Rana 80A
+wattle
+, corpus Gallus 134
+Gallus 123, 144
+Rattus 182
+Weberian opening
+sacralis Rara 92
+Cyprinus 69
+thoracalis Gallus 130, 131, 132
+Weberian ossicle (see (s Weberi)
+294
+whisker pad
+Rattus 150, 188
+wing (see also forcwing, hind wing, elytrum)
+Gallus 131
+-root Blaberus 54
+Wulst
+Gallus 123
+yolk granules
+Blaberus 58
+295

@@ -1,0 +1,4447 @@
+ULTRASONIC IMAGING and
+ANIMAL REPRODUCTION:
+COLOR-DOPPLER
+ULTRASONOGRAPHY
+BOOK4
+O.J.GINTHER,VMD,PhD
+CONTENTS
+Part One
+BASICS
+CHAPTER1.ARTERIESAND HEMODYNAMICS
+Arterial System
+8
+Locating Ovarian and Uterine Arteries
+14
+Hemodynamics
+18
+Sedation and Doppler Ultrasonography
+23
+CHAPTER2.B-MODE AND DOPPLERULTRASONOGRAPHY
+25
+Pulses and Echoes
+Doppler Effect
+34046185 57
+CHAPTER3.PRODUCINGCOLOR-FLOWIMAGES
+Principles of Color-flow Instrumentation
+Power Flow
+Adjusting the Scanner
+Evaluation and Quantitation
+Color-flow Artifacts
+662878
+CHAPTER 4.PRODUCING SPECTRAL GRAPHS
+Principles of Spectral Instrumentation
+The Spectrum
+Adjusting the Scanner
+81
+Spectral Artifacts
+Part Two
+OVARIES
+87
+CHAPTER5.FOLLICLEBLOODFLOW
+88
+Follicle Selection
+93
+Future Ovulatory Follicle. Horses
+105
+Future Ovulatory Follicle. Cattle
+107
+Preovulatory Follicle.Women
+107
+Seasonally Transitional Follicles.Horses
+Relationship ofFollicle Characteristics toFuture Pregnancy
+111
+Color-flow Signals in Oviduct. Horses
+114
+CHAPTER6.LUTEALBLOODFLOW
+115
+Arterial Morphology of the Ovaries
+116
+Luteal Color-Doppler Studies during the Estrous Cycle.Horses
+122
+A Color-Doppler Study of Induced Luteolysis.Horses
+129
+Luteal Blood Flow.Cattle
+134
+Luteal Blood-Flow.Women
+140
+Luteinized Hemorrhagic Anovulatory Follicles.Horses
+141
+Part Three
+UTERUS AND PREGNANCY
+CHAPTER7.BLOOD FLOWINUTERUSANDEARLYEMBRYO
+151
+Vascular Studies during the Estrous Cycle
+152
+Physical Embryo-uterine Interactions.Horses
+156
+Endometrial Vascular Perfusion.Horses
+160
+Spectral Analysis of Vessels in Mesometrium.Horses
+163
+Uterine Vascular Perfusion during Early Pregnancy. Cattle
+166
+Early Color-flow Indicator of Embryo Orientation.Horses
+168
+Dysorientation of Embryo Proper.Horses
+172
+Embryo Loss. Horses
+176
+Uterine Color-Doppler Studies.Women
+178
+CHAPTER8.BLOOD FLOWINLATEEMBRYOANDFETUS
+179
+Blood-flowDetection in the Embryo
+180
+186
+Blood-flow Detection in the Fetus
+195
+Producing Spectral Graphs during Pregnancy
+198
+Published Spectral Data for theFetal Stage
+202
+Doppler Ultrasound and Pregnancy.Women
+PartFour
+STALLIONSANDBULLS
+205
+CHAPTER9.BLOODFLOWOFMALEGENITALIA
+206
+Abdominaland Pelvic Arteries
+208
+Intermal Genitalia
+215
+Testis,Epididymis,and Spermatic Cord
+222
+Spectral Graphs and Data for Male Genitalia
+PartFive
+APPENDIX
+BIBLIOGRAPHY
+227
+SUBJECTINDEX
+247
+Part One
+BASICS
+Chapter1
+ARTERIES AND HEMODYNAMICS
+In transrectal vascular Doppler ultrasonography of large animalsbloodflow
+velocities during an arterial pulse are displayed qualitatively as various colors in
+color-flow mode and qualitatively and quantitatively as a graph in spectral mode.
+A successful Doppler examination requires placement of a transducer with
+reasonable orientation over a vessel of interest,which in turn requiresknowledge
+on the configuration of the abdominal and pelvic vascular tree from the
+transrectal perspective. Computed velocities are dependent on the angle of
+transection of the vessel by the ultrasound beams, thereby introducing some
+limitation to this approach for the major arteries of the broad ligament.Another
+limitation to the utilization ofvelocities is the scarcity ofpublished information
+on the relationships of blood velocity and flow to the functional status of the
+tissue supplied by an artery. However, the nature of pulsatile blood flow in the
+elastic,branching,and tapering arterial tree is an active area of current
+investigation(l45).
+Blood flow involves the collaboration of many factors including the
+regulation and function of the heart, elasticity of vessel walls,regulation and
+function of the vascular smooth muscle,variations in vessel dimension and
+structure,interconnecting patterns of a myriad (millions) of branching
+vessels （li5), and distance from the heart.The circuitous distribution of blood is
+under the Newtonian laws of physics and involves all forms of energy (e.g.,
+thermal,kinetic).
+The pulsatility of arterial blood is a primary consideration in Doppler
+examinations and directly involvesnot only the heart,but also the elasticity of the
+major arteries (3o). During contraction of the left ventricle (systole) blood is
+ejected into the aorta. The semilunar valves close at the completion of
+contraction,and the ventricle begins to relax and fill with blood from the left
+atrium （diastole).Blood continues to flow in major arteries during diastole: the
+walls of the arteries were stretched during systole and rebounding from the
+stretched position serves to continue to move the blood but at a reduced velocity.
+Blood velocities during the phases of systole and diastole are displayed as color
+changes or as a graph or spectrum.
+Chapter 1
+8
+Arterial System
+each side is attached to a large broad ligament, as shown in lateral (A)and
+frontal-oblique B) views for a mare.The continuous sheet-like broad ligament is
+divided into three areas:mesometrium (mm),attaching to theuterus;mesovarium
+(mo),attaching to the ovary,and mesosalpinx projecting from the mesovarium
+and attaching to the oviduct.The round ligament (rl;A) of the uterus delineates
+the division between the mesovarium and mesometrium. During transrectal
+scanning,the ovaries and uterus are lifted close to the rectal wall by other
+abdominal viscera.
+The attachments of themesometrium and mesovarium are important reference
+points in transrectal Doppler ultrasound in that they indicate the area of entry of
+the blood vessels into the organs. In mares, the ligaments originate from the
+lumbar area and attach to the dorsal surface of the organs.In contrast,in heifers
+and cows the ligaments originate from the upper flank,rather than the sublumbar
+region; the attachment of the ligaments to the organs, therefore,is toward the
+ventral aspect,and the organs ride in a ligamentous sling.For these reasons, the
+free surface of the uterine horns is ventral in mares and dorsal in cattle.This
+species diference is important in transrectal ultrasound and palpation approaches.
+near the cranial tip of the nonspiraled uterine hon, and the ligament attaches to
+identifying vessels for transrectal Doppler studies.
+Circulatory System
+A.MARE
+nssope
+B.MARE
+C.HEIFER
+broad
+ligaments
+uterine
+Chapter1
+10
+HEIFER
+Germinal
+MARE
+surface
+Cortex
+Medulla
+Mesothelium
+Mesovarium
+the ovaryThecortex isinternalexcept for the point where the cortexreaches the
+on the vascularizedmedullaso that thevesselscourse over the ovarian surfaceor
+near the surface of the follicle. This arrangement leads to confusion in
+distinguishing vessels of the medulla from vessels of the follicle wall during
+Doppler examinations.In marked contrast,in cattle the greater curvature of the
+ovary is the free surface.The preovulatory follicle impinges on the free surface
+（future site of ovulation),and the base of the follicle is toward the mesovarial
+attachment.Unlike horses,the cortex in cattle is external and the medulla,with its
+large vessels,is internal.
+A.MARE
+Red= arteries
+Blue=veins
+Circulatory System
+11
+B.HEIFER
+C.HEIFER
+D.HEIFER
+Latex-injected specimens (includes
+facing page). The spatial relationship
+between the ovarian artery and the
+major vein draining the uterus is
+intimate in cattle (D),but not in horses
+（A).The functional implications of this
+species difference are discussed
+（pgs 136.137).For some cattle and for
+some sides (left versus right), the
+anastomosis between the ovarian and
+uterine arterial systems is prominent
+（B: arrow) and for others is less
+prominent （C) or not evident.In
+addition, there are anastomoses
+between sides as depicted in the
+drawing of a dorsal view in a mare (A)
+The variations may affect Doppler
+assessment of vascular impedance
+for an organ (pg 116).
+Red = arteries Black =veins
+Chapter
+12
+bua = branch of uterine artery
+MARE
+cvc= caudal vena cava
+dca = deep circumflex artery
+eia = external iliac artery
+jia = intermal iliac artery
+ipa = internal pudendal artery
+oa=ovarian artery
+ov=ovarian vein
+ua = uterine artery
+uterine branch ovarian artery
+Jboa
+uteroovarian vein
+va =vaginal artery
+Jbva
+Dorsal view and lateral view (facing page) of the arteries to uterus and
+ovaries. In these drawings, arteries containing blood that reaches the ovaries,
+oviducts, and uterus are depicted in red and continuations and branches supplying
+other organs arenot.Theovarian arteryleaves the aorta,as shown,runs dorsally
+along the abdominal wall,and enters the mesovarium.The right artery crosses the
+vena cava ventrally. The ovarian artery passes along the cranial aspect of the
+mesovarium. In mares,the artery is relatively straight and located a few
+centimeters caudal to theuteroovarian vein.In contrast, the artery in cattle soon
+becomes tortuous and adheres to the surface of the uteroovarian vein, as shown.
+The uterine branch of the ovarian artery or uteroovarian arterial anastomosis is
+highly variable among individuals and sides (pg 11).
+A species difference of considerable importance in transrectal Doppler
+ultrasonography is the origin of the uterine artery from the external iliac artery in
+horses and from the umbilical artery in cattle. The aorta continues as a common
+arteries.The uterus receives blood from the uterine branch of the ovarian artery,a
+main supply from the uterine artery, and the uterine branch of the vaginal artery.
+Circulatory System
+13
+MARE
+aorta
+iia
+CVC
+dca
+ipa
+Ov
+(uov)
+uboa
+oa
+ua
+uma
+ubva
+bua
+HEIFER
+lla
+uma
+ubva
+va
+aorta
+eia'
+ua-
+CVC
+2
+eng
+OV
+(uov)
+eoqn
+Chapter 1
+14
+and medial aspects of the horns.
+Locating Ovarian and Uterine Arteries
+Kidney.The caudal pole of theleft kidney of amare is shown in B-mode (A),
+directed dorsally.
+Circulatory System
+15
+aorta
+vena cava
+pedicle
+Nonpregnant mare
+中
+Pregnant heifer
+Ovarian artery. The ovarian artery (oa) can be imaged in B-mode,aided by
+color-flow mode when needed. The image of the lumen of the ovarian and uterine
+arteries may not be fully anechoic. Reverberation artifacts are common from the
+surrounding echoic striations.For these reasons,it is difficult to image the
+relatively small arteries; these sonograms and those on the next two pages,
+therefore,may not depict the ovarian and uterine arteries clearly.The arteries can
+be found in most mares (e.g., 70%) but may be more difficult to find in young
+nonpregnant mares. In cattle, the arteries can be found in nonpregnant cows but
+may not be detectable in nonpregnant heifers. Growth and pregnancy will enlarge
+the ovarian and uterine arteries.The ovarian artery can be detected at its origin by
+finding the aorta in longitudinal section and then moving the transducer from
+side-to-side （A,D).The right artery passes across the lower surface of the vena
+cava;because the transducer will be facing dorsally,the arterywill appear above
+the aorta and vena cava on the ultrasound image (AB）The search for the artery
+also can begin at the ovarian pedicle (C). Confirmation can be made when needed
+by tracing the cross section of the artery beginning at either end and then through
+the mesovarium to the other end.The artery is isolated from other arteries in the
+mesovarium between the aorta and ovarian pedicle in mares (B,C) but can pass
+near the pelvic inlet and therefore the external iliac artery (eia) in heifers (E）. In
+cattle,but not in maresthe artery is tortuous and adhered to the uteroovarian vein
+(uov:F); the two vessels can be confirmed in color-flow mode.
+Chapter
+16
+dca
+eia
+Mare.Variation
+Mare.Variation2
+Uterine artery.Horses.The uterine artery originates from the external iliac
+artery in horses,contrasting with an origin from a branch of the internal iliac
+artery in catle (pg 12）. The large external iliac arteries are readily identified by
+moving the transducer from side to side from a longitudinal position relative to
+the aorta. In variation 1,the deep circumflex artery （dca) originates from the
+external iliac artery (eia; A) before the origin of the uterine artery （ua; B,C).
+Howeve,thecircumflex alsomay originate directly from the aorta just before the
+origin of the external iliac (138) or at the origin of the external iliac (14). In
+variation 2,the uterine artery originates from the external iliac artery before the
+medial aspect of the periphery of the external iliac or from the opposite side.
+arteries near their origins were 2 to 6mm and 6 to 7mm,respectively (14)
+Circulatory System
+17
+aorta
+Pregnantheifer
+Uterine artery. Cattle.The uterine artery may be difficult to detect or identify
+in nonpregnant heifers. However,it can be detected in cows (i7).For illustrative
+purposes,a heifer 5 months pregnant was used for the above images. The search
+for the artery can begin at the aorta.At the origin of the extemal iliacs, the aorta
+decreases in diameter (arrow;A) to become a common artery that will terminate
+as the left and right internal iliacs. After the origin of one of the extermal iliacs is
+found,the transducer is moved further caudally to locate the intemal iliac artery
+（iia; B) on the desired side. The umbilical artery （uma) begins as a major branch
+of the internal iliac (C).The uterine artery （ua) originates from the umbilical
+artery (D),and immediately thereafter blood-flow may not be detectable in the
+umbilical artery （E).After finding the origin of the uterine artery, deliberate
+examination of a cross section of the umbilical artery in B-mode may reveal a
+mm).The small channel at the center of the artery presumably represents arterial
+flow to the urinary bladder.A distinguishing feature of theuterine artery in cattle
+courses through the mesometrium. The uterine artery is movable in the
+mesometrium,compared to the more firmly attached external iliac;this can be
+useful in identification.The artery can be traced until it begins to branch.
+Chapter1
+18
+Hemodynamics
+Plugflow
+Natural
+disturbed flow
+Plugflow
+Laminarflow
+Turbulent flow
+with eddies
+Plug flow
+Entrance length-
+Laminae
+Laminarflow
+Parabola
+Circulatory System
+19
+velocity is almost uniform across the artery and is called plug flow. After
+traveling a short distance (entrance length) in a smaller artery (e.g., ovarian
+velocity at the arterial lining.The flow occurs in infinitesimal cylindrical layers
+(laminae) which slide over each other in a smooth orderly manner without mixing
+between layers.The adhesive force between blood and the vessel lining causes
+delays the next layer in decreasing fashion so that maximum velocity is attained
+by the innermost layer. The mean velocity across the vessel is half of the
+maximum velocity (3o).Natural disturbed flow occurs when the parallel lines of
+flow are interrupted at a bifurcation, as shown. Turbulent flow is a random
+seemingly chaotic pattern with blood components moving in different directions,
+but with maintenance of the overall forward direction.At the extreme,circular
+patterns or eddy currents may develop.The incidence of natural turbulent flow in
+large animals is not known,but may be seen by ultrasonic imaging of the aorta
+(pg 22）.In this regard, turbulent flow is considered (1o8)unlikely in normal human
+circulation, except in the heart or entrance to the aorta,and is most likely a
+response to an obstruction.
+The driving force for arterial flow into the reproductive tract originates at the
+left ventricle of the heart.Half of the total resistance to flow has been attributed to
+arterioles (Io8).Resistance in a tissue (e.g.,uterus) varies dramatically according
+to the constricted or relaxed state of the muscular walls of the arterioles.Thus,
+specific tissues control local flow according to need. Tapering,bends,and
+bifurcations in the arterial tree are other sources of resistance.
+Knowledge of the various flow patterns is important to the Doppler
+ultrasonographer.When thecolor-flow function isused,therange ofvelocitiesis
+depicted by variations in color.In color-flow or power-flow mode the encoded
+colors in a segment of arterymay range from red to orange to yellow for slow to
+rapid velocities,respectively.Thus,at a section ofvessel that has laminar flow.
+Doppler colors will range from red in the peripheral area,followed by orange in
+the intermediate area,and yellow at the center.When spectral-mode (pg 61) is
+used,therange ofvelocities at a small sample point in avessel is displayed bya
+spectral graph.The greater thenumber of different velocities,the broader the line
+thatprofiles the graph.
+Chapter1
+20
+Systole
+Diastole
+One cardiac cycle
+Baseline or timeline
+Pulsatile arterial flow.The patterns of arterial flow,described above,are as
+though arterial blood flow is steady,but with varying velocities across the lumen.
+In reality,arterial flow to the reproductive tract is pulsatile in response to
+heartbeats or pulsations of the left ventricle.The red line in the illustration shows
+depicted velocity changes occur rapidly. The vessels on the images are
+Circulatory System
+21
+diastole,blood flow is slower as indicated by the graphThe color-flow mapping
+of slow velocities results in a uniform red signal.Arterial velocity at the periphery
+of the artery isbelow theminimal for the selected velocity setting and therefore is
+not detected (note anechoic area at the periphery). For this reason, the colored
+area is smaller than for the other images. The slow velocity in the vein is in a
+uniform blue. The blue indicates that flow is opposite to arterial flow depicted in
+red.At the peak when the graph indicates the most rapid arterial flow, the color
+coding is mixed because of an artifact known as aliasing-the actual velocity
+exceeds the selected velocity range.The net effects for the operator are flashes of
+changing colors during each arterial pulse on the real-time color-flow display and
+may include flashes of grays. Pulsed-Doppler ultrasound (spectral mode; Chapter
+4) represents the changing velocities during each pulse in the form of a graph
+with a shape comparable to the velocity changes depicted in the drawing. The
+shape of the graph is used by the operator for diagnostic or research information.
+The changing flow pressure or velocity is not only a direct response to
+heartbeats but also is a response to compliance, expressed as expansion and
+contraction of the wall of major arteries (30.1o8). When blood is forced into a
+compliant artery during ventricular systole,the arterial walls expand.At the end
+of systole, the heart valves close and the stretched arterial walls contract. In
+effect,the distended arterial walls are a form of energy storage,which provides
+for continuous flow towards the tissues during diastole.Thus, blood flow
+continues, even while the ventricle is refilling with blood during diastole.The
+heart valves prevent backflow.In smaller arteries,continuation of forward flow
+may not occur during diastole because the arteries have less elasticity and are too
+far from the closed valves. Continued, still, or reversed flow may occur
+depending on diameter and elasticity of the arteries and distance from the heart.
+Chapter
+22
+~30sec
+~30sec
+Disturbed
+Steady
+Disturbed
+reverb
+eddy
+Natural disturbed flow in aorta.These images of the caudal aorta of a mare
+were taken in two sequences at an interval between images of approximately 30
+secondsThe transducer was held constant,so that the motion ofblood particles
+would be appreciated by comparing the images.The effect is,of course,much
+artifacts (reverb) obscured part of the blood flow image.
+Circulatory System
+23
+Sedation and Doppler Ultrasonography
+Before sedation
+After sedation
+Variable
+(Mean ± SEM)
+(Mean± SEM)
+PSV(cm/sec)*
+89±8.5
+73±9.1
+PSVminus EDV(cm/sec)*
+70±12.7
+60±9.6
+Length systole (sec)
+0.39±0.02
+0.38±0.04
+Length diastole (sec)*
+0.62±0.11
+0.93±0.12
+Heart rate (beats/min)*
+70±12.7
+60±9.6
+A study using the carotid artery. Cattle. These data are from a study (27) on
+the effects of sedation with xylazine during spectral examinations of the carotid
+artery in 30 cows. The asterisks indicate variables with a significant difference
+between groups. The decreased heart rate and increased length of diastole can be
+considered directly related because the length of systole was not altered. Peak
+systolic velocity (PsV) and end diastolic velocity (EDV) are used in the
+calculation of the Doppler indices (resistance index,RI:pulsatility index,PI;
+pg 71). The study demonstrated an effect of xylazine,a common sedative, on
+cardiovascular function,as indicated by a decreaseinbloodvelocities.
+In horses, the effect of sedation on color-Doppler results has not been studied
+for the reproductive tract but has been examined for the carotid artery (137).
+Sedation resulted in a decrease in blood-flow velocity and peripheral resistance
+and an increase in the diameter of the carotid. Total flow remained unchanged,
+owing to the compensation between increased diameter and decreased velocity.
+Although these studies were done on the carotid arteries, the results indicate a
+need for similar sedation studies for the arteries of the reproductive organs.
+According to protocols of published reports,sedation has not been considered as
+having an effect on the results.Furthermore,many reports do not indicate
+whether a sedative was used. Some considerations to minimize potential
+confusion are:1) standardization of a minimal sedation protocol,including
+product, dose,and interval between treatment and examination:2) strict
+3) acclimation of animals to the handling system:4) selection of animals that
+scem most tolerant of the procedures:5) maintenance of a calm environment:and
+6) using procedures that require minimal time.
+Chapter1
+24
+protocols is the desire to obtain data frequently (e.g., every 5 minutes). The
+duration of a sedation effect and the time required for obtaining data may
+determine thepracticalities of examination frequency.Moreover,blood flow also
+may be altered when an animal is restrained and examined without a sedative
+and the effect may be dependent on the extent of tractability of an individual.
+Considerable study isneeded.
+Summary of circulatory system.Placement of a Doppler-ultrasound
+transducer over a targeted vessel requires knowledge of vessel configuration from
+a transrectal perspective.The uterine artery originates from the external iliac
+artery in horses in marked contrast to an origin from the umbilical artery,a
+is aneglected area of study.
+Chapter2
+PRINCIPLES OF B-MODE AND
+DOPPLER ULTRASONOGRAPHY
+B-mode or gray-scale imaging has become widely integrated into large-animal
+clinical and research programs in reproduction.A related technology, just
+beginning to be considered and utilized in theriogenology, is color-Doppler
+ultrasound (87,116).Doppler ultrasound provides two distinctively different
+approaches for assessing the vascular system: 1) blood-flow display in color on a
+two dimensional B-mode image of a tissue structure or organ (Chapter 3) and
+2) pulsed-Doppler spectral analysis of changing velocity in a small area of flow
+during an arterial pulse (Chapter 4). Both types of flow assessment will be
+considered in this book. Color-Doppler imaging provides real-time blood flow
+visualization,ranging from high velocity flow in large vessels (e.g.,uterine and
+ovarian arteries) to minimal flow through terminal vessels. The color-flow
+imaging will be more attractive than the spectral approach to the clinician because
+it provides an instantaneous impression of blood-flow,while an entire area of
+interest (e.g., endometrium, follicle) is being scanned.With this approach,real-
+time assessment by eye alone allows judgment on vascular status that reflects
+current and future capabilities of the tissue or organ.When warranted and when
+more time can be expended, the assessments by eye can be confirmed and further
+considered by objective evaluations of color signals.
+Many of the principles of Doppler ultrasonography are extensions of the
+principles of B-mode ultrasonography. This chapter will integrate the two
+modalities.B-mode considerationswill be briefandreferences and more detailed
+information can be found in Book 1 of this series （65）.This chapter has sections
+reviewing propagation and depiction of ultrasound waves and the relationships
+among pulses,reflectors,choes,beams,canning linesand magesTheDopp
+effect,the basis of color-Doppler ultrasonography,is discussed in more detail,
+including the Doppler-shift frequency,angle of intercept between the ultrasound
+beam and blood flow,role ofred cells as moving reflectors,and the Doppler
+equation.
+Chapter 2
+26
+Pulses and Echoes
+Wave depiction
+Pulse depiction
+Compression
+Sine
+3MHz
+5MHz
+andexpansionof
+wave
+tissue particles
+velength
+Amplitude
+Vibration of
+tissue particle
+Propagation and depiction of ultrasound waves.Each piezoelectric crystal
+(Bk1-29,65) of the transducer is activated by alternating polarity of an electric
+charge,and the resulting expansion and contraction sends mechanical
+compression waves into the tissue. Crystal expansion causes compression among
+neighboring tissue particles,and contraction causes decompression,as shown.
+This tissueresponse is similar to theresponse of air particles toa drumhead.The
+ultrasoundwave,as shown
+Principles
+27
+made by the tissue particles in the medium per secondFrequency is measured in
+hertz (Hz) units. One hertz is one cycle per second and a megahertz (MHz) is one
+million cycles per second. Frequency is the basis for one of the tenets of
+ultrasoundhigher frequency results in better resolution but reduced tissue
+meters/second (1.5 millimeters in one millionth of a second). A wavelength is less
+than 1 mm.Although these velocities,complexities,and characteristics should be
+kept in mind, sound waves will be depicted as simple arrows in the diagrams that
+follow.
+Each crystal is subjected to a short series of electric excitations,resulting in a
+short series ofvibrations known collectively as a pulse. The resulting energy is
+generated in both directions. The crystal is backed by a highly energy-absorbent
+damping material. The damping process absorbs the energy above the crystal and
+quickly reduces the vibrations.As a result,a well-defined burst or pulse of waves
+is produced and travels through the face covering and the gel coupler and into the
+tissue. The short,pulsed nature of the generated waves allows an interval of
+quiescence to permit reception of potential echoes by the same crystal.For
+example, the pulse of waves might be 2 to 3 mm in length and contain four
+waves. The frequency of ultrasound pulses is so great that 1,o00 pulses may be
+emitted per second despite the requirement that there be a pause between pulses
+for echo reception.A pulse is shorter for a higher-frequency crystal (e.g., 5 MHz)
+than for a lower-frequency crystal (e.g.,3MHz),but the two frequencies have the
+samenumber ofwaves per pulse.
+High-frequency ultrasoundwavesunlikeaudible sound waves,tend to behave
+like a directed beam rather than spreading out during propagation. This important
+characteristic allows the operator to precisely locate small reflectors deep within
+the tissue;two small reflectors can be differentiated only when the space between
+them is greater than the width of the beam or ultrasound pulses (Bk1-46,65).The
+heterogeneous nature of the tissue medium for ultrasound,in contrast with the
+more homogeneous nature of the airmedium for audible sound,causes extensive
+chapters, these interactions are fundamental to B-mode and Doppler
+ultrasonography
+Chapter 2
+28
+B
+Pulse
+Echo
+Pulse
+Specular
+reflector
+O
+Nonspecular
+reflectors
+Transmitted
+pulse
+Beam
+Relationships among pulses,reflectors,and echoes.The heterogeneous
+nature of tissues results in tissue interfaces wherever tissues of different density
+are in contactWhen anultrasound beam,specifically a pulseof thebeam,strikes
+a surface or interface,most of the pulse continues through the interface aspart of
+a transmitted beam,but theremainder isreflected as an echo,as shown.When the
+force of the returning sound wave reaches the quiescent crystals, the resulting
+compression and expansion produce a small voltage that is transmitted to a
+receiver.The piezoelectric property of the crystal is such that it can both generate
+signal when struck by the returning ultrasound waves.The delay between
+propagation of a wave and reception of an echo is used to determine the distance
+from the crystal to the reflector.The time intervals serve to assign the proper
+ultrasound screen(Bk1-5s,65).
+Principles
+29
+However,the pulse encountersmany scatterers simultaneously,and many echoes
+together provide adequate power or energy for stimulating the piezoelectric
+crystals.
+A pulse is produced by firing a number of adjacent elements.As the pulse
+travels through the tissues,it conforms to the confines of an imaginary beam
+(Columns A,B.C).For simplicity,assume that the specular reflector in Column A
+is 31 mm from the crystals.When the pulse strikes thereflector,part of the pulse
+is reflected back as an echo,and the remainder continues on as a transmitted
+pulse (Column B). In this illustration, the elapsed time for each pulse
+transmission (crystals to reflector) and for each echo return is approximately
+20 microseconds （31 mm x 1us/1.54 mm velocity).Attenuation is defined as
+progressive weakening in intensity of the ultrasound waves or pulses as they
+travel through tissue,thereby limiting the depth of penetration
+Acoustic powerrefers to the rate of energy emitted through the transducer by
+the scanner’s transmitter. The power may be adjusted by the operator through a
+control often labeled AP. Increasing the power yields a more energetic signal
+which is advantageous for detection of echoes from weak interfaces.Modern
+instruments limit the amount of energy that can be emitted to avoid adverse
+biologic ffects.Fortunately,diagnostic ultrasoundasopposed toheat generating
+therapeutic ultrasound,does notutilize sustained high energy.owing to the short
+duration involved in emission of a pulse.
+The term B-moderefers to Brightness of the dots or pixels on the echo-display
+screen.Each pixel or picture element corresponds to a location in the scanners
+memory and to the location ofa tissuereflector.The distance from the top of the
+image to the pixel represents the distance from transducer to tissue reflector.The
+brightness of a pixel corresponds to the amplitude or power of that individual
+echo signal. Brightness in B-mode is represented by shades of gray extending
+from white (very bright or echoic) to black (no discernible echo; anechoic).
+Chapter2
+30
+Beam
+width
+Linear array
+of64elements
+Focal
+dep
+point
+Ye
+Sequentialproduction
+ofbeamsfor each frame
+Thickness
+Widthof field ofview
+Beamsscanning lines,and frames.The beams depicted in this illustration
+and elsewhere are imaginary; they merely represent the three-dimensional path
+involved in each beam,since a delay must be allowed after the firing of each
+pulse for the collection of echo information.Because of the high velocity of the
+ultrasound pulsein tissue,the echo patterns for each beam can be collected in a
+of a cluster of crystals, as shown for two beams in this illustration.The firing of
+width of the field of view.For example,movement from beam-to-beam may
+outlined in black and one in red.
+received forabeam linebeforeanotherbeamcan beinitiated.Acompletesweep
+Principles
+31
+limited by the speed of the pulse and returning echoes,thenumber of beam lines
+collection of the resultant echoes are completed in about 0.25miliseconds.That
+is,4000pulsesorlines of echo information canbecollected inone secondIffor
+40 images are generatedper second
+The field ofview encompassed by a sweep of beams extending the full length
+of the array of elements corresponds to the tissue region being examined. The
+terms width, depth,and thickness are used to define the three-dimensional area
+corresponding to the field of view. Width and depth are easily related to the
+resulting two-dimensional image on the ultrasound screen.The width of the field
+corresponds to the length of the row of elements and is seen as the width of the
+image on the screen.The depth of the field corresponds to the useful or displayed
+depth penetrated by the beams.The remaining,smallest dimension can be called
+the thickness. This important dimension represents the thickness of the sampled
+slice of tissue; its magnitude must be imagined while viewing the image. The
+operator must appreciate the magnitude of all three dimensions for a given
+transducer in order to mentally relate the ultrasound field to the tissue mass.
+Focusing imparts the hourglass shape to the beams,indicating greater resolution
+in the focal area(Bk1-47,65).
+Each vertical scanning line on the image records the information gathered by
+a corresponding transducer beam. The echo display for each tissue reflector is
+move horizontally across the screen and turn on and off producing a vertical
+scanning line for each beam.Therefore,each point at which a raster line crosses a
+scanning line represents one pixel or picture element. The power of the electric
+signals originating from the memory of the scanner (Bk1-53.65) provides the
+appropriate information for the power of the electron beam for each pixel.The
+digital system records data into the memory,modifies data,and transfers data to
+the screen so rapidly that each process does not interfere with any other.
+Chapter2
+32
+instruments and transducers may have a feature for utilizing the harmonic as well
+of the transmitted pulses or original echoes. One of several methods may be used
+to filter out the lower frequency original echo so that the higher frequency second
+harmonic echo can be used to form an improved B-mode image. Images that
+include the harmonic echoes are less noisy and have fewer reverberation artifacts.
+Some modern ultrasound instruments incorporate the feature of tissue harmonic
+imaging,allowing the operator to adjust the scanner so that harmonic frequencies
+can be considered.
+Contrast agents. Ultrasound contrast agents consist of tiny (1 to 5 μm) gas
+bubbles in which air or a gas is encapsulated by a shell (Iss). These small bubbles
+produce echoes of large amplitude andmay be used to intensify the echoes from
+originated from the contrast agent.
+Principles
+33
+Doppler Effect
+A.Stationary
+B.Moving across
+C. Moving toward
+D.Moving away
+Doppler effect of audible sound.TheDoppler effect of sound is a recognized
+natural phenomenon. Consider the perceived sound of a car horn that is stationary
+(Row A) or moving perpendicular to the listener (neither toward nor away;
+Row B). When the listener and car are stationary or not moving toward or away
+from each other, the wave frequency of the car horm at the ear drums is constant.
+This is similar to B-mode ultrasound in that the source of the ultrasound
+frequency (transducer) and the targeted tissue are approximately stationary.
+returning echoes are similar. Now consider a car moving toward the listener
+Chapter2
+34
+Orientation of red-cell flow to ultrasound beam
+Moving
+Moving
+Moving
+away
+toward
+across
+Stationary
+D
+C
+B
+A
+C(C
+Positive
+Negative
+No
+No
+shift
+shift
+shift
+shift
+Blood
+vessel
+Red cell
+Transmitted frequency
+Returning frequency
+Doppler effect of ultrasound.InDoppler sonography of blood vessels,the
+stationary object is the transducer,and the moving reflectors that generate the
+returning echoes are primarily red-blood cells （154.155), as depicted in the
+illustration within short segments of a vessel. The Doppler-shift frequency or
+simply the Doppler frequency (iss) is defined as the difference between the
+frequency of the received echoes and the frequency of the transducer or the
+transmitted ultrasound waves,as follows:
+Doppler-shift frequeney =Received frequency-Transmitted frequency
+Principles
+35
+The interval between pulses is expressed as the pulse-repetition frequency
+decreasing the range of velocities to be sampled. A high PRF setting is used when
+Conversely,a low PRF setting is used when the vessels are far from the
+transducer or the flow is slow. A low setting increases the likelihood of aliasing
+artifact and is described elsewhere (pgs 55, 81).
+Scattering of echoes by red cells.Blood consists
+of a suspension of red cells,white cells,and
+platelets in a liquid plasma.It is generally assumed
+Ultrasound
+that the red cells are responsible for the scattering
+beam
+of ultrasound waves by blood because of the low
+numbers of white cells and the small size of
+Red cell
+platelets (28). The interface of a red cell is much
+narrower （7 μm) than the width of an ultrasound
+beam (e.g.,2 mm) and therefore is a diffuse
+reflector (pg 28). When a beam enters blood,it
+encounters a multitude of red-cell scatterers. The
+echoes rebound in many directions, so that only a
+small portion of the scattered echoes (backscatter;
+Bk1-68,65）reaches the transducer,as shown.InB-mode (gray-scale） imaging,the
+scanner's computer.
+Chapter2
+36
+180°
+.06
+60°
+30°
+OkHz
+-6.5kHz
+Angle(e):o°
+3.3kHz
+5.6kHz
+E
+D
+Shift:6.5kHz
+C
+B
+A
+Beam
+direction
+Blood
+vessel
+Red cell
+Blood flow
+direction
+Angle ofimpact between ultrasound beams and direction of blood flow.The
+angle at which the ultrasound beams intersect or impact the path of flowing blood
+is termed the Doppler angle or angle of insonation. The data given in this
+illustration for the effect of the insonation angle on Doppler-shift frequency are
+from an example given by Zagzebski (is4).Red cells are moving at a speed of 1.0
+m/sec and interact with the pulses emitted by a 5MHz ultrasound transducer.The
+reflected frequency from red cells moving directly toward the transducer
+(Doppler angle of 0°:Column A) in this example is 5,006,490 Hz (5.0065 MHz).
+The Doppler-shift frequency is a positive 6490 (6.5 kHz). That is, the reflected
+kHz at 180°
+qualitative adjunct to electronic analyses and spectral displays (158).
+Principles
+37
+1.0
+Relationship of angle to cosine.As
+the Doppler angle increases from 0°
+to90°,the effect on the Doppler-shift
+0.5
+frequency changes, but the changes
+do not occur in a linear fashion (154).
+0.0
+Cosi
+Instead, the changes are relative to
+the cosine of the angles, as shown.
+-0.5
+The cosine is used because the cosine
+function changes linear data of angle
+degrees to conform to a sine wave as
+-1.0-
+90120150180
+in an ultrasound wave (pg 26）. When
+0
+30
+60
+Angle (degrees)
+the blood moves directly toward the
+transducer,the angle is 0（pg 36),and
+the cosine is 1 (highest cosine value). That is, the Doppler frequency is at the
+maximum that can be obtained. At an insonation angle of 60°, the cosine （and
+therefore the Doppler frequency) is 50% of the value at O°(broken lines). Note
+this cosine relationship is shown for the data example on the previous page.A
+computed Doppler-shift value at 0°(6.5 kHz) is 50%of the value at 60° (3.3
+kHz). At 90° the cosine is 0.0 (dotted lines) and a Doppler-shift frequency is not
+detected.Increasing the angle from 90° (cosine,0.0) to 180°(cosine,-1.0) results
+in negative cosines in the same degree/cosine relationship as for the positive
+cosines.At 0° and 180° blood flow is toward and away from beam direction,and
+the cosines are at maximum positive and negative values,respectively
+Cosine of
+Velocity of
+Transmitted
+X
+X
+Doppler angle
+2
+blood flow
+frequency
+Doppler-shift
+frequency
+Velocity of sound in tissue
+Doppler-shift frequency
+Velocity
+Cosine of Doppler angle
+The Doppler equation.The first equation indicates that Doppler-shift
+velocity,or the cosine of the angle doubles.If the frequency seting of a given
+equation indicates that velocity is directly proportional toDoppler frequency and
+inversely proportional to cosine of the Doppler angle.
+Chapter2
+38
+quiescence between pulses allows for reception of returning echoes.The echo
+patterns from each beam are collected in a fraction of a millisecond. The
+proportion of sound waves that is reflected is received by the transducer,
+converted to electric impulsesand displayed as an echo on the ultrasound screen.
+Each pixel on the echo display screen corresponds to the location of a tissue
+reflector.The distance from the top of the image to the pixel represents the
+distance from transducer to tissuereflector. The brightness of a pixel corresponds
+to the amplitude of the echo.
+Doppler ultrasound is an emerging technology that has the potential to
+increase the diagnostic,monitoring, and predictive capabilities of
+theriogenologists and researchers.The instrument provides two distinctively
+diferent approaches to assessment of the vascular systemblood flow display in
+Chapter 3
+PRODUCING COLOR-FLOW IMAGES
+Color-flow Doppler ultrasound seems poised for a major positive impact on
+on the B-mode (gray-scale) image, so that blood-flow velocities and perfusion
+can be assessed visually on an image plane. The color spots (signals) or pixels
+also can be assigned numerical values. The combination of B-mode and color-
+flow imaging provides real-time anatomical details and physiologic blood-flow
+information.Thus, the technology has potential for delivering a unique
+perspective on the expectations for reproductive structures and events.The extent
+of vascular perfusion of a structure (e.g.,preovulatory follicle,endometrium,
+embryo proper) could indicate not only the current status of the structure,but also
+could provide indications for the future success of the structure. For example,
+color-flow study of the vasculature could help the clinician make judgments for
+the following: 1) ovulatory potential of a large (>30 mm) follicle during seasonal
+transition in mares (1),2) expected time of ovulation (so),3) functional status of
+the corpus luteum （80),4） likelihood of embryonic loss,5） suitability of an oocyte
+（indicated by follicle vasculature) for successful in vivo or in vitro fertilization,
+6) suitability of the endometrium for receiving a natural or transferred embryo,
+and 7) detection of abnormal or disturbed blood flow.Examples of research
+hypotheses that have or could be tested by color-Doppler ultrasound are: 1) large
+(> 30 mm) follicles that do not ovulate during seasonal transition in mares have
+defective blood flow (b), 2) the follicle of a wave that is destined to become the
+future dominant follicle has better vascular development at an earlier stage than
+for a future subordinate follicle (2), 3) the internal luteal vasculature is a direct
+target for a luteolytic dose of PGF2α (l7), and 4) changes in the vascular
+ perfusion of the endometrium accompany changes in the intrauterine location of
+major role for color-flow imaging in large animal theriogenology willrequire
+Chapter3
+40
+Principles of Color-flow Instrumentation
+Transmitter
+controlled by the operator to vary the
+PRF
+AP
+scanner sensitivity. This control is called
+be required to give a more energetic signal
+to weak reflectors. The transducer emits
+ultrasound waves in pulses to allow time for
+Transducer
+reception of a returning echo before another
+pulse is sent； the resulting interval between
+pulses is called the pulse-repetition
+frequency (PRF).In most instruments,the
+PRF is controlled by increasing or
+decreasing the range of velocities to be
+sampled and is linked to the velocity scale.
+Receiver
+The PRF is adjusted to generate optimal
+color signals.A low PRF may result in loss
+of needed information between transmitted
+pulsesbut may be required when the vessels
+arefarfrom the transducer orthe blood flow
+is slow.In the transrectal approach in large
+Color gain
+animals, the vessels of interest may be near
+the transducer and a high PRF can be used.
+Color Flow
+41
+B-mode beams
+In
+tissue
+B-mode and
+color-flowbeams
+B-mode information
+Color-flow information
+Single pulse generates one
+Set of multiple pulses (e.g.,10)
+echo from each stationary
+generates sequential echos
+On
+tissue reflector,corresponding
+from moving reflectors （red cells),
+image
+to each image site(pixel)
+corresponding to each image site
+along the scanning line
+along the scanning line
+Pixel sites
+Ultrasound beams for B-mode and color-flow imaging. Color-flow imaging
+or color-velocity imaging is a technology that estimates Doppler-shif frequencies
+to determine reflector (red cell) velocities (iss),whereas B-mode (gray-scale)
+imaging determines echo amplitude. Velocities are encoded and displayed as
+colored regions superimposed on the B-mode image. The color (e.g.red versus
+orange; dark blue versus light blue) at each pixel indicates the relative velocity
+for that site. Color is also used to indicate direction of flow (pg 52). Discrete
+B-mode ultrasound beams and color-flow beams are emitted into the tissue. Each
+represent an image scan line as shown. The transducer elements are switched so
+Chapter3
+corresponding site or pixel on the ultrasound screen.
+phase shift, and two such determinations (pulse packet of three) are needed for a
+Doppler shift estimate (io8). However,more are used per packet to improve
+accuracy but at the expense of lower frame rates. Frame rates may be lower than
+for B-mode imaging because of the multiple pulses needed for each scanning line.
+Doppler-processed
+signals
+Echo
+A stationary
+sequence
+Moving
+reflector
+reflectors
+Stationary
+echo
+canceler
+Color Flow
+43
+Filter processing.The filter, also called the wall filter
+with reference to the vessel wall, has settings so that
+Filter
+frequencies less than the filter setting can be removed and
+1
+higher frequencies allowed to pass. Extraneous movement or
+2
+clutter and low-velocity blood flow (e.g,venous) can be
+3
+removed to allow better assessment of arterial flow.
+4
+5
+Phase-shift autocorrelation. Several
+Autocorrelator
+techniques have been used to estimate mean
+velocity for each site or depth along the scan
+Consecutive
+line.In some instruments,blood-flow velocities
+phase shifts
+perpacket
+are displayed in color through an encoding of
+the Doppler-shift frequencies.Another method
+for more rapidly associating velocity with color
+Average
+phase shift
+is termed phase-shift autocorrelation.After
+receiving Doppler echo signals from the
+moving reflectors, the signals are submitted to
+Velocity
+Color
+estimates
+the autocorrelator and phase shifts between
+data for
+consecutive pairs of echoes in each packet are
+each pixel
+1.Mean
+2.Variance
+used to estimate the average Doppler frequency
+and velocity for the packet (154.1ss). The
+resulting data are used to indicate direction and
+Chapter3
+44
+blood flowfor each set or packet of pulses/echoes byaprocess calledphase-shift
+autocorrelationThedata are used to indicate the direction andvelocityofblood
+flow by gradation in the color pixels along each scan line.
+Theechoesfrom the pulseof eachbeamimpart thefollowing nformation on
+the corresponding pixels (picture elements)(is9):1) depth -indicated by the time
+required for a pulse/echo sequence to travel to and from the site of thereflector
+and used for both gray-scale and color-flow information;2) strength or amplitude
+-indicated by brightness of the pixel and also used for both modes;3) presence
+ofa Doppler shift -echo information is presented in color if there is a shift and in
+gray scale if there is not a shift;4)magnitude ofDoppler shift -proportional to
+blood flow velocity and Doppler angle and indicated by different colors and
+shades: and 5) direction of blood flow - toward transducer indicated by one color
+and away indicated by another color,as determined by a high echo frequency
+(towards transducer) or low frequency (away from transducer)
+The color-flow technology is highly efficient,providing an immediate
+impression of the extent of vascular perfusion of a structure.Moving blood,even
+used in spectral analyses,
+not corrected for Doppler angle as in spectral analyses.
+Color Flow
+45
+Autocorrelator
+Transmitter
+Consecutive
+phase shifts
+per packet
+AP
+PRF
+Average
+phase shift
+Velocity
+Color
+estimates
+data for
+1.Mean
+each pixel
+Transducer
+2.Variance
+Scan lines
+B-mode
+Color mode
+Artery
+Echo
+sources
+Removed
+Red
+clutter
+cells
+Red
+Clutter
+cells
+Stationary
+reflectors
+Filter
+Removed
+Stationary
+Receiver
+signals from
+echo
+stationary
+Amplified
+canceler
+reflectors
+data from:
+Red
+cells
+Red
+cells
+Clutter
+Clutter
+Stationary
+Color gain
+reflectors
+Chapter3
+46
+PowerFlow
+Power-flow imaging. These sonograms compare conventional color-flow
+(A.C) and power-flow displays (B,D).The sonograms are from double equine
+corpora lutea (A,B) and the aorta of a 110-day equine fetus (C,D).The power-
+power-flowmode is independent of the angle of insonation and direction of flow
+mode shows both red and blue signals (pg 52).
+ColorFlow
+47
+incompatible velocity ranges and Doppler angles.The extent of tissue perfusion
+can be assessed qualitatively,but to a limited degree.PowerDoppler is ange
+independent and is not influenced by aliasing (pg 55) because velocity is not
+considered directly.The technique ignores velocity and instead estimates for each
+pixel the strength or power of the Doppler signal.Frame rate may be decreased
+with powerDopplerin someinstrumentsthereforeusing a small delineated area
+rather than the entire image is important,even more so than with the color-flow
+mode.With power-Doppler,noise that would overwhelm conventional color-flow
+images can be given a uniform background color (e.g., light blue) in some
+instruments, distinctive from the color used to represent flow.
+The power-flow color bar. The color bar for power flow
+changes from dark red to orange and finally yellow.These color
+changes are crude indicators of changes in intensity.A change
+from the lower portion of the bar (dark red) to the upper
+extremity (yellow)represents increasing flow intensities or
+velocities. A mixture of colors on an image represents a mixture
+ofvelocities. Only the upper or red portion of a color-flow bar
+(pg 52) appears on the power-flow bar because power-flow
+Doppler recognizes only intensity regardless of direction of flow.
+frame rate may be much slower.
+Chapter3
+48
+Adjusting the Scanner
+5.Velocity range （pgs 54,79)
+1.Color-flow area (pg50)
+6.Doppler angle (pg 79)
+2.Color-line density (pg 51)
+7.Color priority (pg49)
+3.Gain （pgs40,49.53)
+8.Thump （pg49)
+4.Wall filter (pgs49,78)
+Controls for optimal quality of color-flow images.The echoes that produce
+canbeafcted byinadequatinstrument settings（5859）.Thebalancingofthe
+pleasing images with optimal information as desired by the operator.However,
+these factors are not under direct control of the operator-they do not have their
+own control knobs. Instead,they result from adjustments of the above controls
+(refer to indicated pages for examples).Because of the many trade-offs in
+adjusting the controls and differences among models,the operator’s manual and
+company representative may need to be consulted.
+Most manufacturers provide preset packages of predetermined control
+settings for specific applications,and availability of packages should be
+and allow the operator to use a menu system for selecting packages for targeted
+comparisons among animals.Preset packages provided by the company may
+inappropriate for transrectal study of thevesselsof thereproductive tract of large
+the preset menu of the scanner.
+ColorFlow
+49
+is increased.However,if the gain control is set at ahigh level the colrow
+Resolution. In B-mode imaging,resolution describes the minimum spacing
+between two reflectors resulting in a distinction between the reflectors on the
+image (Bk1-46,65）.Similarly,in color-flow imaging,resolution at a given focal
+depth describes the minimum spacing betweenmoving reflectors compatible with
+the calculation ofvelocity by the phase shift between reflectors (pg 43).Resolution
+can be improved by changing color-line density,gain,or RF.
+Wall filter.A high setting for wall filter allows high frequencies to pass but
+eliminates the low frequencies that are generated from slow velocity flow (pg 43)
+and from the high amplitude of clutter (pg 3）.This is not a problem with the rapid
+velocityflowofmajor arteriesbutmaybe aproblemfor the small arterieswithin
+gain, should be standardized for comparisons among animals.
+other controls are adjusted (155).
+Chapter3
+50
+Delineating area for color-
+image field,
+the color-flowi
+delineated by green dots. The
+frame rates for the three sonograms
+are shown. Delineating an area or
+Framerate:9 Hz
+assigning a box to the B-mode
+image decreases the amount of
+processing of the Doppler signals.
+thereby increasing the frame rate
+and improving the clarity （154,155.
+159).If the entire B-mode scan area
+is used for color-flow sampling,
+color-scan lines,in addition to the
+B-mode scan lines, are created for
+the entire field,resulting in a
+16Hz
+greatly decreased frame rate.
+Decreasing the width of color-flow
+sampling area increases the frame
+rate by decreasing the number of
+color-scan lines required for the
+color-flow information.Adjust-
+ment of the depth of field (A,C) is
+done to limit the depth of the area
+of interest. Greater depth requires a
+9Hz
+longer trip for the pulses and
+echoes,thereby lowering the pulse-
+ColorFlow
+51
+color-flow imaging (e.g.30 frames/sec).
+B
+4Hz
+Framerate:9 Hz
+Changing color-line density. These sonograms of an equine corpus luteum
+show a low color-line density setting (A) and a high density setting (B); the
+resulting frame rates are shown.The color-line density refers to the number of
+Chapter3
+52
+relative to transducer orientation,without regard to known direction when
+anatomical references are used.Only one color can be shown for each pixel and
+therefore green is mixed with either red or blue, depending on direction,o
+represent not only direction but also velocity.Pure green is not used. Adding
+green to red or blue results in various colors extending toward yellow (extreme
+for the red indicator of flow direction) to blue-green (cyan; extreme for the blue
+direction).The color bar shows the relationship between direction of blood flow
+and the colors on the image. The upper portion of the bar represents red and the
+lower portion blue. The upper portion shifts from red to orange and yellow,
+whereas the lower portion shifts from dark blue to cyan.A shift from the center of
+the bar （demarcation between red and blue) to the extremities (upper or lower)
+represents increasing flow velocity. When an adequate number of contiguous
+pixels are encoded with the same color,the area becomes visible asa colored spot
+on the image.An assortment of colors on the image of an artery represents
+changing velocities or turbulence
+A detailed discussion of the creation of color encoding for color-flowimaging
+primary colors are used to color the pixels.
+ColorFlow
+53
+Illustration ofcolor gain settings.Before the transducer was applied to tissue,
+the gain control was maximized to saturation with color signals (A).The gain was
+then reduced (B to D) until the color spots disappeared.The goal is to adjust the
+color-flow mode controls to optimize sensitivity but avoiding over saturation.
+High
+Filter:low
+Chapter3
+54
+10 cm/s
+Velocity:6cm/s
+20cm/s
+40cm/s
+Adjusting velocity range.Velocity settings for a Day-6 equine corpus luteum.
+Color-flow signals were lost as the velocity settings were increased (A-D).
+B
+ColorFlow
+55
+Evaluation and Quantitation
+Objective evaluation ofvascular perfusion.Color area extraction from a
+color-flow image is shown for an equine follicle (8）.A color spot is enlarged
+computer to give a quantitative measure of the extent of perfusion.Also,the
+Chapter3
+56
+Score:
+Subjective evaluation ofvascular perfusion.The sonograms illustrate the
+scoring system for subjective quantitation of vascular perfusion of the
+endometrium.We have used scoring extensively for ultrasound data,using the
+extent of involvement from minimal to maximal (e.g., scores 1 to 4;Bk1-151, 65).
+The scoring approach facilitates profiling and statistically analyzing changes
+Validation of the scoring approach is given elsewhere (pgs 123,162).
+Color Flow
+57
+Color-flow Artifacts
+B
+20cm/s
+Velocity:10 cm/s
+Chapter3
+58
+connecting arteries (blue).
+B
+conventional color Doppler imaging
+ColorFlow
+59
+Flash artifacts. Flash artifacts or clutter can be extensive and obscure the
+color-mode displays,as shown in these examples of equine embryonic vesicles
+(A,Day33;B,Day18;C,structures masked;D,Day36）.The flash artifacts ar
+from:A) mild interference from animal movement;B) intestinal movement;
+discussed elsewhere(pg78).
+Chapter3
+60
+conditioners or stabilizers are available at electric supply stores and should be
+used to absorb surges.
+Noise from RFI (radio frequency interference) or EMI (electromagnetic
+interference) are common problems in the B-mode and color-mode technologies,
+but may be continuous.It is not likely to damage the instrument,but generates
+interference that extends from a minor annoyance to an inability to operate.The
+static or noise can be caused by nearby radio transmitters and by electric motors,
+especially when under the same transformer system. This type of electric
+interference can be filtered by the same high-quality power conditioners used for
+surge protectionWhenintrerenceisnotedlugging thescannerntoa diffrn
+circuit may help,but owners of scanners that arenot battery powered should also
+own a stabilizer and consider it an extension of the ultrasound equipment.
+Three-dimensional imaging.This imaging modality has become practical and
+apparently there are no publications on its use in horses and cattle.In women, the
+the reproductive organs.
+instruments.
+Chapter 4
+blood flow (insonation angle).The Doppler-shift frequency and the insonation
+angle,based on the angle cursor,are used by the instrument for computing blood
+velocity.The focused results from placement of a sample gate in an artery are
+displayed on the screen by a graphic spectrum that represents the changing
+velocities over time and depicts the arterial pulses generated by each cardiac
+cycle. Peak systolic, end diastolic, and time-averaged maximum velocities are
+computed and displayed for a selected cardiac cycle. Doppler indices (resistance
+index,RI; pulsatility index,PI) are ratios that are computed from various
+velocities.The indices are relatable to the hemodynamics of the tissue supplied by
+to the sample gate.
+Chapter4
+62
+Principles ofSpectral Instrumentation
+Transmitter
+AP
+个
+mode imaging (pg 29). For spectral mode, as
+for B-mode,individual pulses are transmitted
+and individual echoes received by the
+transducer,unlike the pulse packets used for
+color-flow mode (pg 42). The pulses of
+Transducer
+B-mode imaging are 2 or 3 cycles long,
+whereas the minimum pulse length for
+spectral mode is 5 cycles and may be as long
+as 30 cycles (1o8). In most scanners, PRF is
+linked to the velocity scale and changes in
+PRF are represented by changes in the range
+of velocities to be sampled; there may be no
+Receiver
+PRF-labeled control. Low PRF is more
+sensitive to low velocities but more subject to
+aliasing (pg 81), whereas high PRF reduces
+aliasing but is less sensitive to low velocities.
+However, the PRF should not be so high that
+the spectral trace is reduced in height.A low
+Color gain
+PRF may result in loss of information
+between transmitted pulses.
+Spectral Graphs
+63
+Sample gate and Doppler angle
+For spectral mode,the blood flow
+characteristics in a focused area of a
+vessel are assessed by placement of a
+Pulse
+sample gate or cursor for Doppler
+Echo
+sample volume into the B-mode or
+color-mode image of the lumen of a
+targeted vessel. The spectral mode
+can be used only in conjunction with
+a sample gate.When in place,the gate
+automatically adjusts to a plane
+compatible with the direction of the
+ultrasound beams at the gate. Thus,
+Doppler
+angle
+the vertical green line of the sample
+gate that connects the two parallel
+Sample
+lines in the diagram represents the
+gate
+Angle
+Doppler line of sight.The parallel
+cursor
+Artery
+lines at the ends of the vertical line
+indicate the length of the Doppler sample volume.Although the volume sampled
+graph form.
+movements.
+Chapter4
+64
+angle cursor and the vertical connecting line of the sample gate (beam direction or
+line of sight）.The actual line of sight is adjusted by the operatorby orientation of
+the transducer.Adjustment of the Doppler angle by tilting the transducer is
+limited in transrectal scanning. Slanted stand-off pads are available and may be
+useful for scanning through the skin.
+Demodulator
+Removal of
+50
+unwanted
+signals
+100
+200
+Red
+Red
+cells
+400
+cells
+Other
+800
+movement
+1600
+Noise
+Filters
+Spectral Graphs
+65
+Spectral FFT
+analyzer
+Array of velocities
+Doppler signals of
+at each timeline
+moving red cells
+segment
+Red
+cells
+Spectral processing.Following amplification and demodulation,spectral
+processing of the Doppler signals is done to separate the frequencies in Doppler
+（108,110,113,153,155）
+Chapter4
+66
+returning echoes serve asDoppler signals that arereceivedby the transducer.
+operator-selected gate size has an impact on the resulting spectral display because
+of the natural variation in velocities at the blood volumerepresented by the gate.
+The sample gate is placed within the lumen of the artery to define the small
+focused volume from which the information is obtained.In addition,an angle
+cursor is placed parallel to the direction of blood flow at the sampledvolume.The
+angle profoundly affects the velocity calculations.The actual angle of insonation
+is a consequence of the orientation of the transducer or ultrasound beams relative
+to the angle of blood flow; the angle cursor represents the judgment of the
+operator and therefore introduces subjectivity into the resulting computations.
+Doppler-shift frequencies are produced by the Doppler effect of moving red cells
+and also by extraneous or unwanted movements within a gate or sample volume.
+The returning weak echo signals are amplified by the receiver, and unwanted
+signals are filtered by the demodulator.
+The range of Doppler-shift frequencies from the moving red cells of an
+focused area represented by the sample gate.
+Spectral Graphs
+67
+Transmitter
+Spectral FFT
+analyzer
+PRF
+AP
+个
+Red
+cells
+Transducer
+Arrayof
+velocities at each
+Pulse
+timeline segment
+Echo
+Doppler
+Timeline
+angle
+Sample
+gate Angle
+Artery
+cursor
+Spectral display
+Demodulator
+Receiver
+Removal of
+50
+unwanted
+Echo
+signals
+100
+sources
+Amplification
+200
+Red
+cells
+Red
+400
+Red
+cells
+cells
+800
+Noise
+1600
+Noise
+Other
+Filters
+Other
+movement
+Gain
+movement
+Chapter4
+68
+The Spectrum
+Cardiac Cycle
+Jelocit
+Time
+Spectral display.The changes in Doppler-shift frequencies and signal
+amplitudes are displayed as a waveform representing a cardiac cycle,as shown.
+This processing depicts the pulsatile phenomenon of arterial blood flow at the
+small focused volume of blood flow at the sample gate. The spectrum appears on
+a separate area of the ultrasound screen,usually to the right or below the
+B-mode/color-mode image. The graphic spectral display is called either the
+Doppler frequency spectrum or velocity spectrum based on Doppler-shift
+transducer frequency(i58).
+Spectral Graphs
+69
+beats/min) and 1 sec in cattle (60 heart beats/min) would encompass 4000 and
+8000 columns of Doppler-shift information in the spectrum of a cycle in horses
+and cattle,respectively.The series of columns that make-up the spectrum consist
+of pixels that are not visually discernible on the spectral display. The pixels are
+not discernible even if magnified because the information at a pixel and
+contiguous pixels is purposely smoothed by the scanner The height of the column
+corresponds to the range of Doppler frequencies or velocities at each column of
+pixels.The maximum velocity at each column is represented by the upper surface
+of the spectral trace. The third dimension of each column of the array of
+pixels becomes visible to the eye.
+Chapter4
+70
+Velocity display.
+In this example,the
+operator has placed
+an angle cursor into
+an artery on the
+color-flow image to
+represent the angle
+of insonation at the
+J0.21G35C7
+PSV
+intersection of the
+ultrasound beams
+and the arterial flow.
+TAMV
+The vertical row of
+EDV
+3Hz=Frame rate
+large green dots
+47deg=Angle of insonation
+represents the path
+0.76 and 0.21 =Velocityrange (cm/s)
+G35=Spectral gain
+of the beams at the
+C7=Spectral contrast
+PI:1.413
+PSV:54.0cm/s
+cursor gate. The gate
+RI:0.739EDV:14.1cm/s
+TAMV:28.3cm/s
+is rotated by the
+instrument automatically so that the gate direction is compatible with the
+directionof the beams.
+A selected cardiac cycle of the resulting spectral graph has been delineated by
+the vertical broken green lines,and a tracing of the maximal velocity values over
+time (selected spectrum) is shown; the trace is sometimes called the envelope.
+Some instruments automatically trace the outline of the designated cardiac cycle,
+using built-in algorithms, and in some instruments the cycle is traced manually.
+machine are given.
+Spectral Graphs
+RI=PSV-EDV
+PI=PSV-EDV
+PSV
+TAMV
+artery.Therefore,indices can be considered especially valuable to the clinician or
+researcherhedicesarecomputduing haluesPVDVandAMa
+obtained from the spectrum,and arenumerically displayed by the instrument.
+The resistance index (Rl) is frequently used because it is convenient to
+mentally relate to the negative relationship between the extent of resistance in the
+tissues and the extent of vascular perfusionthe higher the resistance or Rl,the
+lower the perfusion. The formula used by the computer in determining RI is
+shown above.The pulsatility index (Pl) is also widely used.The numerator for the
+PI formula is the same as for RI but TAMV, rather than PSV is used as the
+in blood perfusion.
+Chapter4
+Window
+Notch
+The spectral window and notch.The area beneath the red trace of the
+minimal velocity values of the spectral display is called the spectral window.
+When the flow of red cells in the sample gate is at a uniform velocity,the
+spectrum shows a thin line outlining the window. However, the spectral line
+thickens or broadens in proportion to the extent of the flow disturbance,whether
+normal or abnormal,at the gate (i58).Spectral broadening and window reduction
+are equivalent terms. Profound natural disturbance occurs in normal arteries,
+especially in the tortuous and branching arterial trees of the reproductive tract.A
+wide sample gateinamajor artery also causes broadening of the spectrum,owing
+to the inclusion of natural high and lowvelocity flow at the cross-sectional center
+and periphery, respectively (laminar flow).When the flow is disturbed, the
+simultaneous frequency shifts. Flow disturbance or flow in multiple directions
+waveforms associated with pathology such as stenoses and plaques (158).
+transient reversed flow is indicated.
+Spectral Graphs
+73
+Pulsations on color-flow image and spectrum.The sample gate was placed in
+the terminal aorta of a mare.The color-flow images correspond approximately to
+images in real time （pg20).
+Chapter4
+74
+velocity,the velocity-range settings varied.
+Spectral Graphs
+75
+broadspectrum.
+branching.Placement of an angle cursor was not attempted The cardiac cycles
+because the instrument was not given angle information. However, the relative
+changes in velocity during a cardiac cycle are meaningful.
+D) The gate was placed on the brightest color-coded signal in the mesovarium
+about l cm from the surface of an ovary. A corpus luteum or a dominant follicle
+was not detected. The loss of some of the diastolic information and in some cases
+all of the diastolic portion is characteristic of an ovary with limited activity or
+high impedance (resistance）.The blood-flow dynamics underlying the lossof the
+Chapter4
+76
+vascular bed that has low resistance; perfusion of the downstream tissues is
+systolic profile and a reversed (below baseline) or absent diastolic profile
+indicates high peripheral resistance.An example is the ovarian artery that supplies
+an ovary without a corpus luteum or large follicle.
+Waveforms and the resulting velocities obtained in the absence of an angle
+cursor (C,D,E,F) or a poorly placed cursor cannot be considered accurate (pg 79).
+However,this approach is useful for comparisons of relative velocities,if the
+arteries are uniformly transected.For example,the angle of insonationmay not be
+determinable because an adequate longitudinal section of a single large artery was
+not attainable or the sample gate was placed on a colored spot without the
+which in turm is attributable to greater velocity.
+Spectral Graphs
+77
+Doppler technology.
+The clinical andresearchusfulnessofDopplerdetminedvelocity is lited
+by several sources of error, including those resulting from a beam width that is
+narrower than the vessel and from inaccuracy in setting the cursor for angle of
+insonation (li3）.The volume of blood flow is computed (pg 2oo) from velocity
+(velocity x vessel cross-section) and requires precise measurement of the cross
+section of the vessel at the point where velocity is determined. The accuracy of
+the measurement of the cross-sectional area is a critical concem,especially for
+smaller vessels.
+Spectral summary.The maximum point in the traced outline of the spectrum
+below the timeline.
+Chapter4
+AdjustingtheScanner
+resetting of all desired controls for a specific purpose.
+Gain adjustment.The gain controls have been set too low (A),normal (B)
+and too high（C）.If the gain is too low,sensitivityisinadequate,and the spectrum
+may be weak.If set too high,background noise interferes with the spectral trace.
+Spectral Graphs
+79
+Angle cursor and
+66deg
+velocity.The cursor
+was set at a reasonable
+PI:
+1.895
+angle (A) and at
+RI:
+0.772
+aberrant angles (B.C).
+PSV:109.1cm/s
+Note that the direction
+EDV:24.9cm/s
+of the angle cursor
+was changed without a
+TAMV:44.4cm/s
+change in the actual
+angle of insonation
+between the sonic
+二
+20deg
+beam at the gate and
+the direction of blood
+PI:
+1.895
+flow. Altering the
+RI:
+0.772
+cursor angle had a
+PSV:
+47.2cm/s
+drastic effect on
+computed velocities.
+EDV:
+10.8cm/s
+Relative velocities
+TAMV:19.2cm/s
+(PSV/EDV=4.4for
+each setting of the
+angle cursor),Doppler
+80deg
+indices (RI.PI).and
+waveform of the
+PI:
+1.895
+spectrum remained
+RI:
+0.772
+consistent during
+PSV:
+255.4cm/s
+changes in the angle.
+The angle cursor can
+58.3cm/s
+EDV:
+be placed after the
+TAMV:104.1cm/s
+image and spectrum
+are frozen.
+Chapter4
+80
+factor,if sampling sizeis adequate and other factors are standardized.For
+example,the plane of transection of the artery should be similar between groups
+by manipulating the transducer. In conclusion, the velocity readings
+will not be absolute in the absence of an angle cursor, but the relative
+velocities between groups may be meaningful,if variability in other factors can
+beminimized.
+一
+Spectral Graphs
+81
+Spectral Artifacts
+Aliasing artifact in a spectral
+graph.In Spectrum A, the artifact
+resulted from a pulse-repetition
+frequency (PRF) that was too low
+for depicting the actual velocity
+changes in a cardiac cycle. The
+aliasing is recognized by the
+displacement of the top of the
+systolic profile to below the base
+line. In Spectrum B,the PRF has
+been increased without lowering
+the baseline,resultingin correction
+of aliasing but with reduction in the
+height of the spectrum.In
+Spectrum C,the display is further
+improved (greater magnification)
+by also lowering the baseline.
+Thus, lowering the baseline or
+timeline allows a lower PRF
+without aliasing by assigning the
+中
+entire range of velocities to one
+direction of blood flow.
+Aliasing is a common artifact of
+the Doppler spectrum that results
+from discrepancies between the
+periodic sampling of the Doppler
+signal by the instrument during
+processing and the actual
+frequency of the sampled signal
+Chapter4
+82
+slow-moving flowbut also increases the likelihood ofaliasing.
+个1.38m
+1.38m
+direction determination(28)
+Spectral Graphs
+83
+10.20
+Effect of clutter on spectrum. This example depicts clutter from high
+amplitude,low Doppler-shift frequency echoes in a spectrum corresponding to
+clutter in the color-flow image. The color-flow signals for clutter are confined to
+the delineated area indicated by the green dots. The gate placement indicates the
+source of the corrupted spectral display.The location of the sample gate is
+indicated by the broken white circle on the color-flow image.The clutter was in
+response to transducer movement. Other sources of clutter include visceral
+movement, animal movement,and thumping of the vessel wallThe wal fiter
+setting is therefore crucial (pg 49).
+Part Two
+OVARIES
+Chapter5
+FOLLICLE BLOOD FLOW
+aspects of foliculogenesis in large farm species and has potential for providing
+clinical information on the status and future success of a follicle and its oocyte.
+However,realization of potential will depend on future experience and research.
+During a specific wave, one of the follicles is empowered to become the
+ovulatory follicle. This phenomenon is known as follicle selection.Follicle
+selection has aroused the interest of biologists since at least the 1960s and can be
+considered one of the most enduring mysteries in reproductive biology of the
+monovular pecies.Original studiesnthisresearchareawere donenheiferu
+in recent years the mare has become an increasingly productive model (9). The
+mares is also discussed.
+Chapter5
+88
+Follicle Selection
+Diameter ofindividual follicles
+45
+iov
+C
+45
+12
+14
+161820222
+24
+Days before ovulation
+8
+OV
+Follicle type
+Dominant
+Predeviation
+Subordinates
+Other
+111315171921232527
+Minor wave
+Days before ovulation
+Follicle Blood Flow
+89
+357
+Diameter
+Dominant
+Deviation hypothesis
+Dominant
+follicle
+follicle
+30-
+25-
+Subordinate
+follicle
+20
+Subordinate
+follice
+15
+10
+Deviation
+5-
+Emergence
+5678910
+5-4-3-2-1
+5
+Days after future dominant follicle was 6mm
+Days from beginning of deviation
+Chapter5
+90
+PSV
+24
+35-
+Diameter
+20
+30-
+Follicle1
+Follicle2
+16
+25
+Follicle3
+CIms
+12
+20
+15
+10
+TAMV
+15
+Blood-flowarea
+1.2
+12
+0.8-
+9
+cm/sec
+cm2
+6
+0.4-
+0
+6.59.512.515.518.521.524.527.530.56.59.512.515.518.521.524.527.530.5
+Diameter(mm) group based on Follicle1
+Blood-flow changes and follicle selection.Horses.These data are from a
+study in mares (n = 7) to determine whether reduced blood flow in the future
+largest subordinate follicle precedes the beginning of diameter deviation (2).The
+daily changes in blood-flow velocities and blood-flow area within the wall of
+during diameter deviation.The sample gate (1 mm) was placed over the brightest
+colored spotn thewall of thefollicleThusthevelocities areconsideredrelative
+Follicle Blood Flow
+91
+well as by increased gonadotropin responsiveness (7o), to continue growing
+despite the lower concentrations ofFSHwhereas the future subordinate follicles
+are positioned to regress. It is known that a dominant follicle has a greater thecal
+vascularity and blood supply than subordinate follicles (135.157:however, these
+results demonstrated that the decreased vascularity in the future subordinate
+follicle began well before the growth rate of the follicle began to diminish.
+The earlier decrease for the two velocity end points than for the decrease in
+Chapter5
+92
+grew to larger diameters than those without detectable blood flow.
+Summary of follicle selection.The most dynamic, continually changing.
+macroscopic system in the female body involves waves of well-vascularized
+antral follicles that grow and regress during the estrous cycle.During a wave,one
+of the follicles is empowered to become the dominant follicle in a process known
+as follicle selection or deviation. The follicles of a wave initially grow in a
+common-growth phase until the beginning of deviation. The largest follicle
+(future dominant) usually has a size advantage and is the first to reach a critical
+stage associated with a mechanism that inhibits the future subordinate follicles
+before they reach a similar stage.The deviation process is similar in both species
+and begins when the future dominant follicle is about 22.5 mm in horses and
+anechoic band beneath the granulosa begin to increase differentially in the future
+Follicle Blood Flow
+93
+Power-Doppler images of blood flow. The scale (left margin) is in 10-mm
+Chapter5
+94
+Color-flow signals in folicle
+Blood flow
+wall beginning at 20 mm. Mares
+were grouped into those that
+-09
+circumference
+ovulated when the follicle was35
+to 39 mm（n =8) or 40 to 44 mm
+50
+(n = 14;unpublished).Beginning
+40
+Follicle onDay-1
+when the follicle was 20 mm and
+of
+40to44mm
+every 5 mm thereafter,the
+30
+35to39mm
+percentage of follicle wall with
+color-flow signals was estimated
+25
+30
+35
+40
+20
+during real-time scanning. There
+was a significant difference among diameters within each group,indicating that
+the percentage of wall with color-flow signals increased progressively after
+folliclesattaineda diameter of25mm.
+B
+similar anechoic band has been described in women (1oo,127).
+Follicle Blood Flow
+95
+well as arterioles.
+Chapter5
+96
+Preovulatory changes
+during 36 hours before
+457
+Diameter
+ovulation. These data are
+43
+Control
+from a study (56) involving
+41
+control mares and hCG-
+39
+hCG
+treated mares. Treatment with
+37-
+hCG was done when the
+follicle was≥35 mm.For
+3.07
+Granulosa echogenicity
+each ultrasound end point,
+3
+excluding diameter, the hour
+92.5-
+一
+effect was significant for both
+-36 to-12 hours and-4 to -1
+hours with no difference
+1.5
+between groups. The absence
+100
+ofa mean diameter increase
+Anechoicband
+during the 36 hours before
+90
+ovulation in the controls is
+consistent with other reports
+80
+(107).An increase in thickness
+%
+and echogenicity of the
+granulosa began 36 hours
+Blood flow
+L06
+before ovulation. These results
+70
+are compatible with the results
+of histologic studies in mares;
+50
+expansion of the granulosa
+doubled between 0 and 39
+30
+hours after hCG treatment
+-36
+-24
+from an accumulation of
+-12
+-3
+-4
+-2
+Hours before ovulation
+mucosubstances between the
+cells (l03). The increased
+Follicle Blood Flow
+97
+mo
+Chapter5
+98
+Serrated granulosa. These sonograms were taken 20 hours （A) and 1 to 4
+serrated granulosa (sg,brackets） in images B.C and D.In a recent study (s7
+before ovulation in any mare
+Follicle Blood Flow
+99
+granulosa becomes common and extensive as ovulation approaches
+signals in the following study.
+Chapter5
+100
+Clock-face
+100-
+positions
+80
+mares(n=21)
+60
+40
+20
+Serration
+Blood-flow
+5
+6
+7
+8
+9
+10
+12
+Clock-faceposition
+Percentage of mares with the indicated clock-face positions for serration
+and blood-flow signals. The percentage of mares with serration and percentage
+with blood flow signals in the wall of the follicle one hour before ovulation at
+each of 12 clock-face positions are shown for 21 mares with normal follicle
+evacuation (non-septated;pg 102) during ovulation(75).Data were taken from film
+clips of real-time hourly examinations of complete scans of the entire width of the
+two-dimensional image of the follicle.The beginning of evacuation was based on
+flow signals were recorded for each clock-face position. Granulosa serration was
+defined as distinct irregularities of both the inner and outer surfaces of the
+granulosa (57). An image was selected that represented the maximal cross-
+sectional area of the antrum. Using the selected image as a reference,
+approximation of at least 70% of the maximal area and included the apex.
+Follicle Blood Flow
+101
+Apical
+area
+10
+Basal
+area
+6
+Serrated granulosa
+Vascularized theca
+Mean clock-face locations of serrated and vascularized area of preovulatory
+follicle.During the hour before ovulation,clock-face positions were assigned
+Chapter5
+102
+B
+apex
+discharged. Septated evacuations required >3 hours, occurred in 19% of
+ovulations (75),and have also been termed atypical evacuations (29).
+1007
+Blood flow
+90
+Septated evacuations
+80
+ofcircumference
+70
+Normal evacuations
+60
+50
+40
+30
+-11
+-9
+-7
+-5
+-3
+Hours before beginning of evacuation
+Follicle Blood Flow
+103
+the oocyte was included in the prolonged discharge.
+Septated evacuation
+Normal evacuation
+B
+apex
+base
+septated evacuation.
+Chapter5
+104
+Before and after thebeginning of septated evacuation.For this example of
+the beginning of evacuation,and much of the periphery of the follicle has color-
+flow signals. Image Bwas taken 1 hour after the beginning of evacuation (3 hours
+after image A)and blood flow signals were detected throughout the periphery
+and on the septa. The septa apparently represented creases from wrinkling of the
+follicle as fluid was slowly discharged
+Summary of future ovulatory follicle.Horses.A vascularized medullary area
+of the ovary surrounds the internal cortex. It is sometimes difficult therefore to
+assign Doppler-encoded colored areas specifically to the vascular network of the
+follicewallThe anechoicband isgray toblackrregularin thicknessocated in
+the expected area of the thecal layers,and separated from the antrum by the
+stratum granulosum.The color-Doppler signals of blood flow are dispersed
+greatervascularization at theapex of thewall of thepreovulatoryfollicle.
+Follicle Blood Flow
+105
+0.20 Blood-flow area
+Blood flow relative to
+LH surge. These data were
+adapted from the initial
+0.15
+report (4) on blood flow in
+cm2
+the preovulatory follicle in
+cows (ab = means with
+significant differences;
+0.10-
+a
+n=5).Color-flow images
+were obtained at maximum
+15TAMV
+diameter in a plane from
+apex to base. The area (cm)
+of the colored spots in the
+cm/sec
+10-
+follicle wall was determined
+(pg 55）.A 1-mm wide sample
+gate was placed at the
+most intensive color signal
+5
+at the base of the follicle
+determining time-
+for
+6
+12
+-24
+-18
+-12
+-6
+0
+averaged maximum velocity
+Hours from onset of LH surge
+Chapter5
+106
+mm:
+18
+Blood-flow signals in follicle wall. Morphologic studies in cattle have
+demonstrated an extensive vascular network in the thecal layers surrounding the
+avascular basement membranes and granulosa in cattle (4). These images were
+obtained in color-flow or power-flow mode as indicated by the color bars.
+Diameter averaged for two dimensions is shown for the follicle of each image.
+The periphery of the ovary (arrows) and location of the mesovarium (mo) are
+shown in the upper-right panel. The smallest follicle (4 mm, arrow) in this series
+before ovulation.
+surge.
+Follicle Blood Flow
+107
+viability of transferred embryos (pg 178).
+Seasonally Transitional Follicles. Horses.
+Mares have anovulatory and ovulatory seasons (reviewed in 64.74). The
+resurging phase or transition between the anovulatory and ovulatory seasons
+occurs in the spring.Thelater portion orallof theresurging phasemayconsist of
+a period of waves in which the largest folicle reaches a diameter much larger
+Chapter5
+108
+Diameter of largest follicle
+MareA
+Ov
+50-
+Anov
+40
+30-
+20
+10
+50-
+MareB
+Ov
+Anov
+40-
+Anov
+Anov
+Anov
+30
+20
+-52-48-44-40-36-32-28-24-20-16-12-8-40
+Daysbefore first ovulation of year
+Ov=ovulation.
+Follicle Blood Flow
+109
+No.FSH surges/mare
+501Diameter
+FSH
+Ovulatory
+-0.6±02
+45
+16
+(n=11)
+-1.8±02
+14
+40
+Anovulatory
+120
+(n=6)
+35-
+30-
+10
+8
+25
+6
+1.6
+Blood-flow area
+LH
+3.0
+1.2-
+-2.5
+2.0
+1.50
+/ml
+0.4
+1.0
+0
+0.5
+-4-3-2-1012345678-12-10-8-6-4-202468
+Days from follicle ≥30mm
+Results of a vascular study. Dominant-sized anovulatory follicles were
+distinguished from dominant ovulatory follicles by daily color-Doppler
+determinations of blood-flow area,and comparisons were made between mares
+with future dominant-sized (≥30 mm) anovulatory versus ovulatory folicles ().
+The stars indicate days of a difference between groups.In the group with a future
+dominant-sized anovulatory follicleH concentrationswerereducedbeginning
+when the follicle was about 15 mm or about an average of 6 days before the
+Chapter5
+110
+2.0
+Blood-flow
+507
+Diameter
+Ov
+area
+1.5
+40-
+cm2
+1.0
+30
+Anov
+0.5-
+20
+81216
+81216
+-4
+0
+4
+4
+0
+Days from follicle≥30 mm
+anovulatory (Anov) follicles expanded at the same rate as ovulatory (Ov) follicles
+(. This occurred despite the reduction in LH beginning when the follicle was
+about 15mm,the considerablereduction inblood flow signals in thewall of the
+anovulatory 25 to 30 mm follicles,and the lower concentrations of follicular-
+fluid factors at 30 mm.Expansion after 30 mm continued at a rate similar to
+growth of ovulatory follicles.Therefore,expansionrate of dominant follicleswas
+not an indicator of the status or health of the follicle.
+Seasonal deficiency in LH
+Hypothesis for anovulation.
+?
+1) A deficiency of circulating
+LH occurs when the future
+↓IGF-1
+JInhibin-A
+LVEGF
+dominant-sized anovulatory
+follicle is about 15 mm.2) The
+LH deficiency results in low
+LFolliculogenic
+LAngiogenesis
+factors
+concentrations of follicular-fluid
+suppressors
+factors in the 30-mm follicle.3)
+?
+The low concentrations of free
+Dysfunctional
+↑FSH
+IGF-1 contribute to the low
+theca and
+Underdeveloped
+granulosa
+vasculature
+concentrations of other factors.4
+to 6) The low concentrations of
+Anovulatory
+estradiol and especially inhibin
+follicle
+account for an increase in
+concentrations of circulating
+an underdeveloped vasculature.
+Follicle Blood Flow
+with pregnancy rate (11.23.33）.There was no significant relationship between
+pregnancy rate and uterine artery or intraovarian Doppler pulsatility index (23).A
+more recent in vitro fertilization study in women found that well-vascularized
+follicles early in a follicular wave and on the day of hCG treatment late in the
+wave resulted in higher pregnancy rate after embryo transfer (47% vs 12%;140).
+Results of another study indicated that examining vascular impedance distal to an
+quality of an oocyte(43).
+followingpages.
+Chapter5
+112
+Estradiol
+Diameter
+5
+37
+Pregnant
+GH***
+j/6d
+2
+Nonpregnant
+35
+Granulosalayer
+2.7
+(score)
+2.4
+2.4
+H***
+H**
+Thickness
+2.1
+2.1
+1.8
+1.8
+Anechoicband
+100
+of circumference
+(score
+2.4
+99
+H***
+ominence
+2.1
+97
+1.8
+96
+1.5
+O
+30
+0
+30
+Hours afterhCG treatment
+Vascularity of the preovulatory follicle and establishment of pregnancy.
+Follicle Blood Flow
+113
+Color-Doppler signals
+H***
+%of circumference
+80
+GH**
+Pregnant
+60
+2.6
+Nonpregnant
+50
+P
+Vascular indices
+1.7
+0.7
+1.5
+1.3
+H**
+H
+GH***
+GH*
+0.6
+1.1-
+Blood velocities
+16
+8
+14
+TAMV(cm/s)
+PSV(cm/s)
+6
+10
+4
+8
+G*
+G*
+2
+30
+30
+0
+Hours after hCG treatment
+Chapter5
+114
+greater in association with higher pregnancy rate.
+in incidence of the waveform with continuous blood flow throughout the cardiac
+cycle in the pregnant group is compatible with the other indicators of increased
+vascular pefusionTheresultsalthoughinconclusiveprovide encouragement r
+development of a waveform-classification approach as a research end point,
+especially when the spectrum seems incompatible with the use of a vascular index
+in a largeproportion of individuals
+Color-flow Signals in Oviduct.Horses.
+fluid
+fold
+unpublished).
+Chapter 6
+the CL of the estrous cycle and its vessels develop and regress in a short period of
+time.
+Several experimental approaches have not clarified whether the decreased
+luteal blood flow at the end of diestrus is a cause or consequence of luteolysis
+(120). However, color-Doppler studies in cows indicated that luteal blood flow
+spontaneous (l17, 139) luteolysis. In horses, there was no indication that either an
+exogenousPGF(64).
+116Chapter 6
+Arterial Morphology of the Ovaries
+except in a smallarea where the artery passes obliquely across the vein; the vein
+is located several centimeters caudal to the artery.
+The uterine branch of the ovarian artery is an anastomosis between the
+ovarian and uterine arteries and in cattle varies from prominent to miniscule
+between sides and individuals and is more prominent on the CL side (73). Owing
+to the variation in size of the uteroovarian anastomosis, there are considerable
+diferences among individual cattle and between sides within an individual in the
+the non-CLportion of the ovary.
+MARE
+HEIFER
+Lateral
+oboa
+-uboa
+oboa
+-uboa
+ba
+Medial
+Chapter 6
+118
+Day:1
+12.4ng/ml
+P4:1.7ng/ml
+12.7ng/ml
+10.0ng/ml
+7.1ng/ml
+Luteal Blood Flow
+119
+Day:1
+9.7ng/ml
+P4:1.3ng/ml
+11.1ng/ml
+14.9ng/ml
+1.1ng/ml
+Chapter 6
+120
+Power-flow mode
+Color-flow mode
+B-mode
+Day:
+Luteal Blood Flow
+Color-flow mode
+121
+B-mode
+Power-flow mode
+Day:0
+Chapter 6
+122
+mo
+identical,plane (mo = mesovarium). Some color spots are clearly within the CL
+and are surrounded by luteal tissue.Most signals,owever,are at the periphery of
+the CL.Researchers that count the number of colored pixels associated with the
+CL should use a definition of the outer limit of a colored spot at the periphery of
+the CL that is accepted as representing luteal blood flow. An example requiring
+such a decision is the large aggregate of multiple colors (B) in the area of the
+attachment of the mesovarium (mo). The proportion of the colored spot
+representing luteal versus stromal or mesovarial blood flow cannot be
+determined Published papers have not defined how a decision on luteal versus
+nonluteal blood flow was made. In addition, the selection of a still image for
+counting colored pixels should be done withoutknowledge of source.
+Luteal Color-Doppler Studies during the Estrous Cycle.Horses.
+6
+P
+Pulsatility index ofovarian
+artery. These data were
+pu
+approximatedfromareport by
+Bollwein and associates (13） on
+the pulsatility index (Pl) for
+the ovarian artery in five
+468101214-6-4
+mares. The artery to the
+Days from ovulation
+dominant ovary containing the
+2
+preovulatory follicle or CL
+concentrations and was attributable to elevated blood flow in the CL.
+Luteal Blood Flow
+123
+For entire CL
+Validation for estimating
+Blood-flow area
+percentage of CL area with
+60-
+blood flow. Visual estimation
+of the percentage of the CL
+area with blood-flow signals is
+80
+effective and rapid
+an
+Operator1
+approach,as supported by
+Operator2
+20-
+these results (78). The days
+represented increasing Days 1
+and 4),maximum (Day 10),
+100For a single image
+decreasing (Day 14),and
+Blood flow
+minimum Day 17)blood-flow
+means. For the real-time
+60-
+validation of percentage of the
+entire CL with blood flow
+40-
+(upper panel), the operators
+%CL area with signals
+independently evaluated the
+Number of colored pixels
+%20
+film clips without knowledge
+of source or reference to each
+14
+10
+other’s findings.The selection
+4
+Days after ovulation
+of a still image (lower panel)
+described (pg 55; 87)
+Chapter 6
+124
+35Blood-flow area
+30-
+Basal third
+25
+%ofCL
+20-
+Middle third
+15
+10
+Apicalthird
+sum:29
+49
+56
+57
+69
+73
+76
+80
+2
+3
+5
+6
+Daysafterovulation
+Progression in appearance of blood-flow signals in developing CL.Data are
+from a study of the progressive development of color signals in various portions
+of the developing CL (75).The CL of five mares with data in a normal-evacuation
+group (pg 1oo)that did not develop a central cavity or corpus hemorrhagicum were
+used.The film clips were examined from the hour of ovulation (collapsed follicle)
+Luteal Blood Flow
+125
+Normal evacuation
+Septated evacuation
+apex
+apex
+the periphery.
+Chapter 6
+126
+Luteolytic
+Preluteolytic
+80
+period
+Actual data
+period
+Progesterone (ng/ml); CL area (cm2)
+12
+70
+10
+60
+CL blood-flow area
+50
+8
+40
+6
+30
+4
+Progesterone
+2
+CLarea
+10
+CLblood-flow area
+100
+Percentage data
+Decrease
+between periods:
+Sixfold
+80
+Twofold
+Twofold
+%of maximum value
+60
+40
+20
+34
+5678910111213141516171819
+Equivalent days after ovulation
+-10-9-8-7-6-5-4-3-2-101
+Days from progesterone <2.0 ng/ml
+Luteal Blood Flow127
+(equivalent to mean Days 15 to 17) and was defined as the luteolytic period
+Mean blood-flow area of the CL was maximum on Day 10.and Days 10 to 14
+were defined as the preluteolytic period. The slopes of the decline in values
+during the preluteolyticperiod and during the luteolytic period were calculated by
+a linear regression analysis for each of the luteal end points for each individual,
+using the percentages ofmaximum value.
+Chapter6
+128
+    r  d  ss  s  o
+During the luteolytic period, the decline in blood-flow area was twofold greater
+than during the preluteolytic period, which is similar to the comparison between
+periods for CL area.After Day 17, the percentage of maximal value was higher
+for CL area andfor blood-flow area than for progesterone.
+Summary of spontaneous changes in luteal blood flow. Horses. The
+pulsatility index (Pl) of the ovarian artery supplying an ovary with a dominant
+follicle or CL was low on the expected days of high progesterone production,
+indicating elevated blood flow.Validation procedures supported the real-time use
+of the estimated percentage of the entire CL with color-Doppler blood-flow
+signals as an approximate quantification of the extent of luteal vascularity.This
+to the precipitous decrease in progesterone.
+Luteal Blood Flow
+129
+to the ovary.
+24
+Hour:0
+Chapter 6
+130
+Progesterone concentration
+75
+50-
+25
+Control
+0
+-25
+-50
+PGF20
+-75
+75
+0
+CLblood-flow area
+Hour
+50
+25
+value
+25
+the
+-50
+75
+20
+Diameter of vascularpedicle
+10-
+0
+-10
+-20
+CLarea
+8-
+7
+6
+5
+3
+O
+602
+50
+812
+Minutes after PGF treatment
+24
+72
+48
+Hours after PGF treatment
+Luteal Blood Flow131
+first hour n both groups,and therefore does not account for theincrease in
+progesterone in the PGF group. This indication of increasing blood flow in both
+groups during the first hour may have been a consequence of handing horses
+every 5 minutes, even though docile and acclimated mares were used and
+examinations were brief. In this regard,when the 5-minute intervals were
+discontinued in the controls, the percentage of Doppler signals returmed to Hour 0
+levelsbyHour12.
+progesterone.
+132
+Chapter6
+mo
+Luteal Blood Flow
+133
+thetotal display.
+Summary of vascularity study of induced luteolysis.Horses.A single
+systemic injection of PGF was given during mid-diestrus. Blood flow was
+asssed by estimating the percentage of CL with color-Doppler signals of blood
+wasnotsupported.
+Chapter 6
+134
+Luteal Blood Flow. Cattle.
+plasma progesterone concentrationindicating activeangiogeness
+50
+Progesterone
+CL
+CLblood-flow area
+blood-flow
+CLvolume
+40
+volume
+TAMV
+CL
+30
+:(w/bu)
+20
+10
+024
+8
+12
+24
+48
+Hours after PGF treatment
+horses(pg 130)
+Luteal Blood Flow
+135
+Luteolysis and CL
+20
+Progesterone
+blood flow after an
+0
+intrauterine injection of
+PGF. Data are from a
+20
+Systemic
+study that compared
+from
+IU,responsive
+-40
+systemic administration
+IU,nonresponsive
+Control
+of15mgof PGF to
+-60
+b
+intrauterine (IU) adminis-
+°-80
+tration of 1 or 2 mg （86).
+The IU route was used to
+avoid secondary effects of
+Blood-flow area
+70
+systemic treatment. In this
+regardnjctionof
+60
+a
+about 10 times more
+50
+effective in inducing
+CL
+40
+#
+luteolysis when given into
+the uterine horn ipsilateral
+30
+Systemic
+to the CL than when given
+20
+IU,responsive
+IU,nonresponsive
+systemically. The IU
+Control
+10
+effectiveness results from a
+48
+24
+02
+unilateral uteroovarian
+Hours after treatment
+luteolytic pathway in cattle
+Chapter6
+136
+PSV
+PI
+60
+IU,responsive
+0.70
+IU,nonresponsive
+Systemic
+a
+Control
+50
+0.60
+cm/sec
+40
+30
+0.40
+口
+20
+0.30
+0.50
+RI
+TAMV
+50
+0.45
+0.40
+40
+口
+cm/sec
+30
+ab
+0.30
+20
+0.25
+02
+24
+02
+24
+Hours after treatment
+Effect of systemic and intrauterine PGF treatment on spectral-Doppler
+measurements.These data are also from the intrauterine (IU) experiment (pg 21),
+confirmation and specific study of the underlying mechanism.
+Luteal Blood Flow
+137
+Spontaneous luteolysis and
+CL blood flow.Progesterone
+began to decrease (luteolysis)
+80
+70
+a day before the beginning of a
+60
+decrease in blood flow
+-Progesterone
+(ab = significant difference
+50-
+Blood flow(estimated)
+within days: 86).There were
+-Blood flow(pixel count)
+no differences between the
+30
+percentage of CL area with
+%20
+blood-flow signals versus
+10
+number of colored pixels in a
+0-
+-3
+-2
+-1
+4
+still image (pg 55).
+5
+Days from progesterone<1 ng/ml
+80
+Association of CL blood-flow
+PGFM
+600
+Blood-flow
+Blood-
+changes with pulses of PGFM
+area
+500
+Plasma concentrations of PGFM.a
+70
+-flow
+PGF metabolite,were used for
+400
+further study (86） of thePGF/blood
+60
+300
+flow temporal relationships during
+(%
+spontaneous luteolysis.The role of
+50
+CL)
+PGF pulses was studied by
+100
+examinations every hour during a
+2
+12-hour window each day during
+2
+-1
+0折
+1
+3
+Hours from PGFM peak
+expected spontaneous luteolysis.At
+Chapter6
+138
+Effect of velocity setting
+5.510
+CLarea
+on CL color-flow signals.
+5.0
+A luteolytic dose of PGF was
+infused into the jugular
+4.5
+vein during Hours O to 3
+at mid-diestrus in seven
+3.5
+heifers (unpublished). Velocity
+3.0
+settings of 6 cm/sec and
+2.5
+10 cm/sec were used as factors
+Blood-flow area
+in the study. Blood flow was
+80
+assessed by two methods:
+percentage of the CL with
+color-flow signals during
+scanning of the entire CL and
+40
+area (cm²) of color signals on
+Velodty setting
+a selected image of the CL.
+20
+6cm/sec
+During the assessments for
+-10cm/sec
+both methods, the operator
+Blood-flow area
+was unaware whether PGF
+was given. The CL area was
+considerably reduced by PGF
+3
+treatment at 24 to 48 hours.
+For both of the methods of
+assessment of blood flow,the
+main effects of velocity group
+(higher for the setting of
+2345
+6 cm/sec) and hour were
+48
+Hours from treatment
+significant,but the interaction
+was not.For each method and
+in cattle （pg 134).
+Luteal Blood Flow139
+when a two-dimensional cross-section was evaluated.
+Summary of CL vascularity.CattleBlood-flow area and time-averaged
+Chapter 6
+140
+Luteal Blood Flow.Women.
+15
+15
+Progesterone (ng/ml)
+CLvolume(cm3)
+CL
+10
+volume
+Progesterone
+5
+5
+1.0
+-0.35
+Flow-area
+ratio
+Flow-area ratio
+0.9
+0.25
+Index
+0.8
+PI
+0.15
+-14to-12-11to-9-8to-6-5to-3
+-2to+1
+Days before end of luteal phase
+of CL vascularity.
+Luteal Blood Flow
+141
+literature,concluded that the later decrease in blood flow compared to the
+decrease in progesterone is compatible with histologic findings of larger luteal
+microvessels during the late luteal phase, despite degeneration of capillaries and
+an associated progesterone decrease.
+Luteinized Hemorrhagic Anovulatory Follicles.Horses.
+aspect of the HAFsyndrome
+Chapter6
+142
+preovulatory follicle into an HAF. In conclusion, HAF formation occurred from a
+viable follicle and began on the day of expected ovulation; there was no
+indication that daily gray-scale examinations can be used to predict whether a
+folliclewill ovulate or form an HAF.
+Luteal Blood Flow143
+evacuating area or fail to ovulate (HAF).
+Day:0
+for the Day 2 image.
+Chapter6
+144
+Dav:-1
+dimensional fibrin septae that develop inblood clots(114)
+Luteal Blood Flow
+145
+horses (14） account for the gradual sequential changes seen in theulrasonic
+images and depicted in this series.In addition,variation in anticoagulation
+properties likely accounts for different ultrasonic morphology among HAFs.as
+describedbelow.
+Chapter6
+146
+（as) from the follicle wall that entered the hematoma when the HAF expanded,
+based on real-time assessment.
+Day:5
+Luteal Blood Flow147
+Day:5
+Vascularization and decreasing diameter.The color-flow sonograms show
+decreasing diameter of an HAF,with color-flow signals on both days.
+Day:2
+Chapter6
+148
+contributed to the sequential changes within a structure and to the variation
+among structures.Follicle viability was supported by the similarity in B-mode
+images between the ovulating controls and the HAF group in diameter and
+discrete structural changes on the day before both ovulation and the beginning of
+HAF formation.The viability of the cells of a follicle that formed an HAF also
+was indicated by conversion of the follicle cells to luteal cells with an effective
+level of progesterone output.Color-flowDoppler images showed vascularization
+of the HAF wall,apparently similar to vascularization of a post-ovulatory CL.
+Higher estradiol concentrations occurred a few days before HAF formation,but
+other systemic hormones （progesterone,LH,FSH) were not altered before or
+after conversion of a preovulatory follicle into an HAF.The percentage of follicle
+circumference with blood flow (color-Doppler signals) on the day before
+a viablepreovulatoryfollicle intoan HAF
+Part Three
+UTERUS
+AND PREGNANCY
+Chapter7
+EARLY EMBRYO
+about 9 to 18 mm in diameter (Bk2-127, 6) (67). The vesicle moves from one hom
+to another an average of O.5 times per hour. Cessation of mobility (fixation)
+occurs on Days 15 to 17. Orientation refers to the position of the embryonic disc
+or embryo proper at the periphery of the vesicle (embryonic pole) relative to the
+position of the mesometrial attachment and occurs after fixation. More
+information is available for early pregnancy from Doppler ultrasound studies in
+horses than in cattle.In horses, the early conceptus is relatively small, and the
+mobility throughout the entire uterus occurs during the days that the embryo
+blocks uterine-induced luteolysis.In contrast,the cattle conceptus blocks
+the corresponding time(67).
+Chapter7
+152
+Vascular Studies during the Estrous Cycle
+3.47PI
+3.0-
+2.6-
+2.2
+1.8-
+3579111315
+3
+Numberofdaysfrom ovulation
+Uterine blood-flow study.Horses.These data were reproduced from a report
+for five mares by Bollwein and associates (/3). The sample gate (2 mm wide) was
+placed near the origin of the uterine artery （diameter,2 to 6 mm）;an angle cursor
+apparently was not used. The high-pass filter (pg 78) was set at 100 Hz. The
+pulsatility index (Pl) was high during the early luteal phase and again during
+the late luteal phase and low during the mid-luteal phase and before ovulation.
+The profile thus was bimodal. The PI increases when the distal vascular bed
+another study (5) in which resistance index (Rl) followed a profile similar to the
+increased uterine tone (pg 158).
+Uterus and Embryo
+153
+0.30-
+-0.95
+0.25
+(cm/sec)
+RI
+0.90
+0.20
+-0.85
+Index
+TAMV
+TAMV
+-0.80
+0.15
+0.75
+91113-5-3
+01
+7
+Number of days from ovulation
+different from the previous mean.A low resistance index (RI) and high time-
+velocity （TAMV) occurred before ovulation
+averaged maximum
+(Day-3) and a high RI and low TAMV ocurred during the equivalent of early
+and mid-diestrus. Systemic estrogen concentrations of the periovulation surge
+increased during the preovulatory increase in uterine blood flow and decreased
+during the decrease in blood flow.These results confirmed earlier cattle studies
+(51,148) that used surgical placement of pulsed-wave ultrasonic or electromagnetic
+probes on the uterine artery.
+endo
+endo
+mes
+endo
+Estrus
+Diestrus
+Chapter7
+154
+3.07
+Endometrial
+vascularity
+2.5-
+寸
+02.0
+1.5
+1.0
+8101214
+6
+Daysfromovulation
+Endometrial vascularity study. Cattle. Changes in vascular perfusion of the
+endometrium were studied on the indicated days of the interovulatory interval in
+six nonpregnant heifers (Silva et al.,unpublished). The perfusion was estimated
+by scoring the extent (number and size) of color-flow signals in the endometrium
+during a 1 minute real-time scan.Scores from 1 to 4 (nil to maximal perfusion）
+were used.The initial dorsal segment or the descending segment of each horn was
+used. The technique was similar to that used and validated for mares (pg 160).
+Mean length of the interval was 20 days,and the days were normalized to each
+ovulation, as shown. Perfusion increased,beginning 4 days before ovulation and
+was highest on Days -2 and -1. These perfusion data agree with the results of the
+spectral study of the uterine artery (pg 153).
+Uterus and Embryo
+155
+be at high concentrations.There was no effect on the ovarian artery supplying the
+ovary with a dominant follicle or corpus luteum. Treatment with a progestin
+(altrenogest) during both estrus and diestrus resulted in higher PI values for the
+uterine arteries,indicating decreased uterine perfusion.The effects of uterine
+infusion of semen during estrus on relative time-averaged maximum
+velocity (TAMV) for the uterine arteries were studied (i8).The TAMV values
+increased within 1 hour in both uterine arteries and in the ovarian artery
+supplying the dominant follicle.In another study (20),a vasodilator (captopril)
+decreased the PI values of the uterine and ovarian arteries,indicating increased
+perfusion of the organs.
+before ovulation.
+Chapter7
+156
+Physical Embryo-uterine Interactions.Horses.
+Linear-array
+Embryonic vesicle
+transducer
+Upper surface
+Transrectal placement of a linear-array ultrasound transducer.The diagram
+shows spatial relationships among the uterine horns,transducer,and sonograms
+(141).The colored spots are color-Doppler indicators of blood flow at the
+mesometrial atachment (ma),along the surface of the horn, and in the embryo
+Uterus and Embryo
+157
+-10'
+<-20--
+工
+Embryo location changes
+Body<→Hom
+Numberof locationchanges
+(n=7)
+B
+Uterine contractility
+(n=13)
+16
+8
+Number of days after ovulation
+even after mobility has ceased.
+Chapter7
+158
+Photographs depicting
+changes in uterine tone.
+The photographs were taken
+with the mare's body on its
+back (ventral views; 67). The
+increasing uterine tone and
+increasing embryo diameter
+after Day 1l are believed to
+result in the cessation of
+mobility （fixation) at a
+Day:3
+flexure (arrows) in a caudal
+uterine horn on about
+Day 16. Apparently, the
+flexure in a uterine horn
+becomes an impediment to
+continued embryo mobility
+when a critical balance is
+reached between a decrease
+in horn diameter (same
+as increasing turgidity)
+and an increase in conceptus
+diameter (58). The turgidity
+6
+of the horn continues to
+increase at each end of the
+embryonal bulge (Day 30),
+thereby further confining the
+conceptus. During embryo
+loss from progesterone
+reduction, the horn may
+become flaccid and the
+conceptus may dislodge
+and travel in the uterine
+lumen, even with the heart
+30
+still beating (72).
+Uterus and Embryo
+159
+Mobile embryo blocks
+uterine-induced luteolysis.
+Mobility (Days 11-15)
+Contraction
+Embryo stimulates
+Mobile embryo
+uterine contractions
+distributes substances
+causing embryo
+to increase uterine tone
+mobility.
+and decrease uterine
+diameter.
+By the time blockage of luteolysis
+Fixation (Day 16)
+is completed,uterine diameter
+has decreased and embryo
+diameterhas increased so
+that fixation occurs at the
+Flexure
+flexure in a caudal horn.
+Events associated with embryo mobility, first luteal response to pregnancy.
+and embryo fixation. The encapsulated embryo stimulates myometrial
+contractions and thereby travels throughout the uterus.especially on Days 11 to
+Chapter7
+160
+Endometrial Vascular Perfusion.Horses.
+Score:
+Scoring color-flow images of the endometrium.Data in this section are from
+vascular perfusion (pg 56).
+Uterus and Embryo
+161
+Embryo detected (n=16)
+Embryo detected
+Horn ipsi to CL
+2.2
+Horn with embryo
+Horn contra to CL
+1O3
+-Opposite horn
+Embryo not detected (n=8)
+2.0-
+Embryo not detected
+Horn ipsi to CL
+—Horn ipsi to CL
+1.8
+Horn contra to CL
+-Horn contra to CL
+1.6
+1.4
+1.2
+Endor
+1.0-
+4
+7
+10111213
+9
+14
+15
+Days from ovulation
+significant effects on endometrial vascularity on Days 1 to 8but there were on
+Days 9 to 16.An asterisk indicates a day of a difference between horns within the
+pregnant group and between days within the horn with an embryo.Pound marks
+(#) indicate the days of a difference between pregnant and nonpregnant groups.
+Higher vascularity scores were found for the horn with the embryo at the time of
+examination than in the opposite horn throughout Days 12 to 15.That is,changes
+in vascular perfusion of the endometrium occurred locally in association with
+location changes of the embryonic vesicle during the mobility phaseThe scores
+embryo was not detected by Day 12 or thereafter.
+Chapter7
+162
+Uterine horn
+Endometrial end points
+Without embryo
+Probability
+With embryo
+(Mean±SEM)
+Vascularity(score1to 4)
+1.9±0.2
+1.5±0.1
+P<0.02
+Subjective
+1.7±0.2
+2.1±0.2
+P<0.02
+Objective
+P<0.04
+4.7±0.9
+3.6±0.6
+Colored spots (No.)
+243±46
+316±67
+P<0.10
+Colored pixels (No.)
+Subjective versus objective endometrial vascular end points.Data are from
+Day 13 of pregnancy in seven mares (141). Subjective vascularity scores were
+made in the barn by an operator who knew which horn contained the embryo.
+Objective vascularity scores were obtained from real-time video clips by an
+operator who had no knowledge of the identity of the mare,uterine horn,or
+embryo location. Vascular perfusion of the endometrium also was assessed
+objectively by ofline measurement of the number of colored spots and colored
+pixels as indicators of blood flow area,as described (pg 55).Three still images
+determination of number of spots and pixels and the average of the three images
+judgments among days and mares.
+Uterus and Embryo 163
++P1:0.743
+R1:0.521
+R:12.087
+PK1:
+14.9cm/s
+endo
+PK2:
+7.2cm/s
+avg:
+B
+Positioning of a sample gate and formation of a spectrum.For the color-
+flow mode (A), the sample gate (2-mm wide) indicates the area sampled in the
+sampled vessel was outside of the uterine horn but within l cm of the uterine
+surface. The endometrium (endo) is indicated. The gate was placed over the
+brightest colored area in the color flow/B-mode image,as shown (A).Maximum
+brightness indicates maximum velocity of blood flow.The 9.96 displayed on the
+color-flow image (A) is the setting for velocity-range limit (cm/sec） after which
+aliasing will occur.The Doppler filter was set at 100 Hz. One cardiac cycle was
+Chapter7
+164
+Percentage of uterine
+Groups with:
+80-
+Embryo detected (n=16)
+horns with adequate
+Embryonot detected (n=8)
+Doppler
+signals for
+60
+analyses
+spectral
+of
+vessels in the mesometrial
+40
+attachment.An asterisk
+indicates a day with a
+20
+difference between groups
+(141).The color-Doppler
+****
+signals in the endometrium
+2345678910111213141516
+were inadequate for the
+Days from ovulation
+production of spectral
+waveforms,but signals in the mesometrial attachment were adequate in some
+mares,as shown.The percentage of horns with adequate signals during Days 1 to
+8 initially increased and then decreased.The unimodal increase and decrease
+between Days 1 to 1l in the percentage of adequate Doppler signals for spectral
+analyses of arteries in the mesometrial attachment of mares with no embryo
+detected is compatible with the reported transient lower PI for the uterine artery
+on Days 4 to 6 in nonbred mares (19). In the present study, pregnant mares showed
+a similar unimodal profile during Days 1 to 8. The reason for the transient
+increased incidence of Doppler spectral displays on Days 4 to 6 in both groups of
+contralateral to the corpus luteum in the mares in which an embryo was not
+blood flow in the uterine arteries (15).
+Uterus and Embryo 165
+TAMV
+16
+Results of spectral analyses
+Horn of fixation
+Opposite horn
+The time-averaged maximum
+14-
+velocity (TAMV) increased during
+the mobility phase in both horns
+and was higher in the horn with
+cm/
+the embryo after fixation (141).The
+10
+pulsatility index (Pl;not shown)
+decreased during the mobility
+phase in both horns and was lower
+12
+Q
+3
+-2
+-1
+-3
+5
+in the horn with an embryo than in
+Days from fixation
+the opposite horn 4 days after
+increases in blood flow were found in pregnant than in nonpregnant mares afer
+Day 1l;apparently,TAMV and RI were not as sensitive as scoring of vascular
+perfusion (pg 162) for detecting differences between horns during the mobility
+phase.After Day 15,TAMV was consistently higher and RI consistently lower in
+the ipsilateral than in the contralateral uterine artery (15).
+Chapter 7
+166
+Uterine perfusion
+2.57
+Endometrial vascularity
+study. Perfusion of the
+endometrium and the
+Horn with embryo
+resistance index (RI) of
+Oppositehorn
+92.0
+the uterus assessed at
+Score
+the mesometrium were
+compared between the
+1.5
+uterine horns in 11
+heifers(Silva and
+Ginther,unpublished).
+Vascular perfusion was
+Mesometrial vascularity
+assessed by scoring the
+3.0-
+extent of color-flow
+寸
+signals from 1 to 4 , as
+Score 1t
+2.5
+described for mares
+(pg 160). The extent of
+vascular perfusion of the
+2.0-
+mesometrial attachment
+was scored, similarly.
+The RI was obtained
+RI
+from a sample gate
+0.8
+placed on the brightest
+color-flow signal within
+1 cm of the horn,as
+0.7
+described for mares. The
+horn with the embryo
+waspredetermined by an
+0.6
+ipsilateral location to the
+ovary with the corpus
+luteum,and the horn
+81012141618202224
+Days after ovulation
+was compared to the
+opposite horn.
+Uterus and Embryo167
+local uteroovarian pathway in cattle and the absence of the pathway in horses
+accompanies the conceptus during the mobility phase in horses (pg 157), a similar
+phenomenon was expected to occur during conceptus expansion in cattle.
+However,this study in cattle did not indicate that endometrial vascularity
+increased differentially in the uterine hon ipsilateral to the corpus luteum,even
+though the horn contained the expanding conceptus at the expected time that
+uterine-induced luteolysis was being blocked.Neverthelessin an calier study
+(52), blood flow to each uterine horm of three cows during early pregnancy was
+Chapter7
+168
+horm ipsilateral to the embryo than in the contralateral horn after Day 20.
+Early Color-flow Indicator of Embryo Orientation.Horses.
+Orientation refers to the position of the embryo proper relative to the
+mesometrial attachment.Three factors are believed (67) to interact to cause
+orientation:1) thick (three-layered) and thin (two-layered) portions of the yolk-
+sac wall;2) asymmetrical encroachment from thickening of the dorsal turgid
+uterine wall on each side of the mesometrial attachment; and 3) the massaging
+action of uterine contractions.As a result,the thickest portion of the yolk-sac wall
+(embryonic pole) rotates to a ventral position (antimesometrial). Orientation
+contributes to species differences in the pattern of development of the fetal
+membranes and the site of attachment of the umbilical cord.Earlier studies
+indicated that orientation occurs somewhere between the days of fixation (Day
+16) and first detection of the embryo proper (Day 19).A color-Doppler study (143)
+revealed an early endometrial vascular indicator of completed orientation that
+method was used to record the position of the indicator, as described below.
+O'clock method of determining the
+position of a structure at the
+periphery of the embryonic vesicle.
+The numbers (3, 6, 9, 12) refer to the
+o'clock positions.Alignment with the
+area of mesometrial attachment is at
+12o'clock or 12 hours. The clock-
+face position of the embryo proper is
+at5hours
+Uterus and Embryo
+169
+Day:17
+Early endometrial indicators of thefuture position of the embryo proper on
+Days 16and17.The early indicator consisted of colored spots in close apposition
+Chapter7
+170
+Day:16
+20
+Continued development of the early indicator.The sonograms show (arrows)
+an early indicator Day 16),an early indicator with an apparent embryo proper
+Doppler assessment was confined to the area delineated by the dotted lines for
+with the color-Doppler function.
+Uterus and Embryo
+171
+Day after ovulation
+Temporal and spatial
+relationships of the
+15.9±0.1
+Fixation
+orientation indicator to
+16.4±0.1
+other events. The mean
+18.8±0.1
+clock-face position of the
+Intervals (days)
+early indicator and the
+Fixation to early indicator
+0.5±0.1
+embryo proper were not
+Early indicator to embryo proper
+2.5±0.2
+different from one
+Fixation to embryo proper
+3.0±0.1
+another and remained
+approximately constant.
+Position (clock-face hours)
+The day-to-day change in
+Early indicator
+6.1±0.2
+position of the early
+6.3±0.2
+Embryo proper
+indicator and embryo
+detection of the early indicator and the last examination of the embryo proper.
+The anatomical origin of the color-Doppler signals that were used as early
+indicators of the future position of the embryo proper and especially the colored
+processes that appeared to permeate the vesicle wall are unknown. The major
+that were stimulated or dilated as aresult of the close apposition to the embryonic
+immediately afterfixation.
+Chapter7
+172
+Dysorientation of Embryo Proper.Horses.
+ma
+Orientation
+Dysorientation
+Color-flow images showing normal orientation and dysorientation on
+Day 19.Innormal orientation,the embryo proper （ep)is positioned opposite to
+the mesometrial attachment (ma);the attachment is at 12 o'clock.In
+dysorientation, the embryo proper is in the dorsal hemisphere of the embryonic
+vesicle or at 10 o'clock.The yellow arrows indicate the outer periphery of the
+endometrium. Encroachment or thickening of the endometrium between the
+mesometrial attachment (upper right) and the embryonic vesicle is prominent for
+normal orientation but is not apparent for dysorientation. Uterine tone was flaccid
+for dysorientation, accounting for the more flattened shape of the vesicle,
+compared to the vesicle shape withnormal orientation.
+the early indicator of orientation by color-Doppler ultrasound.
+Uterus and Embryo
+173
+Endometrial
+encroachment
+Ratio
+Normal
+orientation
+3
+(n=26）
+2
+Dysorientation (n=4)
+Embryonic pole
+No. hours from 6 o'clock
+3
+17
+18
+19
+15
+16
+Days after ovulation
+normal orientation process.
+Chapter7
+174
+proper. However,owing to dysorientation of the embryo proper, one portion of the
+joint membrane of the yolk sac and allantoic sac was first to reach the area of
+endometrial encroachment at the dorsal aspect of the conceptus or the area of
+mesometrial attachment. The first portion of the membrane to reach the
+mesometrial area apparently became adhered,as indicated by the failure to detect
+further movement: the adhesive qualities of the endometrial/vesicle interface have
+been described (46).The other end of the jointmembranes continued to move as the
+allantoic sac expanded until it also reached the mesometrial area. Thereby, the
+flaccid uterus and minimal endometrial encroachment.
+dysorientation is not known.
+Uterus and Embryo
+175
+Orientation
+Dysorientation
+12o'clock
+Embryo
+6o'clock
+Day20
+Day18
+Allantoic
+sac
+Yolk sac
+Allantoic sac
+Day24
+Day25
+Day28
+Day29
+Day33
+Day31
+Umbilical cord
+Dav
+Day45
+Chapter7
+176
+attachment maintains correct positioning and corrects malpositioning of the
+embryo proper if uterine tone is adequate.
+Embryo Loss.Horses.
+Uterine
+24to0hours
+Controls
+before embryo loss
+>10
+70%
+0%
+5to10
+26%
+26%
+<5
+4%
+74%
+Percentage of uterine-index scores for controls versus mares with embryo
+loss.Data are from a study (31 on development of a uterine index to diagnose
+subsequent examination.
+Uterus and Embryo
+177
+Reduced heart rate with future
+embryo loss. This is a case history of
+a mare that lost the embryo (no longer
+detected by ultrasound) on Day 31.At
+Day 24, the ultrasonic appearance of
+the embryo was normal, as shown.
+However,heart rate was3 standard
+deviations (SD) below the heart rate
+in controls on each of Days 24.27,
+Day24
+and 30. The plasma progesterone
+concentrations on Day 30 and the
+Heart rate
+percentage of luteal blood flow were
+200
+Controls
+similar to values in controls.
+(n=8)
+Endometrial vascularity score on
+160
+Days 24,27,and 30was lower than
+wsie
+in seven of the eight controls.
+8120
+3SD
+Diameter of the conceptus was an
+equivalent of 3 days smaller than for
+80
+controls during the mobility phase.
+Embryo loss
+(n=1)
+Undersize of the conceptus during
+24
+27
+30
+mobility was associated with future
+Days after ovulation
+loss in 62% of mares (72）.This single
+Chapter7
+178
+Uterine Color-Doppler Studies.Women
+identify women with limited chance for pregnancy (122). It was suggested that
+measures to decrease vascular impedance might enhance pregnancy rate by
+improving embryo quality and uterinereceptivity.
+2.Doppler studies did not demonstrate that abnormal blood-flow indices of
+the utero-placental circulation during the first trimester were associated with
+subsequent pregnancy failure (1o1).
+3.Uterine arterial impedance was lower before embryo transfer,but not 5 to6
+days afer transfer in women that became pregnant versus nonpregnant (32).
+4.Values for impedance of flow (based on pulsatility index;PI) in the uterine
+artery and ovarian stromal arteries at the time of hCG administration were lower
+in women that conceived than in women that did not(152).
+5. The absence of sub- and intra-endometrial color signals on the day of
+embryo transfer decreased the chances of pregnancy by eightfold (l12).
+Comparison to conventional approaches was not made.
+Chapter8
+AND FETUS
+Doppler assessment of the umbilical arteries in farm species.
+In contrast to thelimited nformationin farm speciesnumerous studies using
+the Doppler vascular technology havebeen done in pregnant women over the past
+two decades. Much of this work was stimulated by requirements for planning and
+monitoring assisted reproduction programs,but provided considerable
+physiologic and pathologic information.Doppler ultrasound for assessing the
+from the uterine artery.
+Chapter8
+Blood-flowDetection in theEmbryo
+embryo and fetus.as advocated for mares (64).
+0.5 days after fixation on Day 16 and 2.5 days before detection of the embryo
+proper (pg 168）.The indicator was a colored spot in the image of the endometrium
+adjacent to the wall of the embryonic pole. Colored processes from the indicator
+appeared to permeate the wall of the embryonic vesicle. Although the major
+portion of the colored area likely represented enhanced blood flow in the
+endometrium, the color processes may have represented movement of blood in
+rudimentary embryonic vessels and contractions of the primitive heart,but this is
+unknown.A detailed study of embryonic angiogenesis at this stage is lacking for
+both species. Histologic and morphologic study in horses indicated that a heart
+chamber and an anastomotic network of blood vessels in the yolk-sac wall
+availableresearch area
+Fetal Stage
+181
+Day:21
+cm
+y= vitelline vein
+ap= apposed membrane
+ep=embryo proper
+ys=yolk sac
+as= allantoic sac
+va = vitelline artery
+cg=chorionic girdle
+Chapter8
+182
+Day43
+Day30
+Velocity:4cm/s
+4cm/s
+D
+6cm/S
+10cm/s
+Effect ofvelocity setting on blood-flow detection in embryos.Horses.The
+high velocity-range settings for the embryo proper (ep) and the fetus (fet)
+detected fewer blood-flow signals (B.D).The low settings (A,C) detected more
+apposition of the yolk and allantoic sacs (A). Color signals for the low settings
+velocityrange.
+on Day39 (arrows) represents blood flow in the umbilical cord.
+Fetal Stage
+183
+VS
+ep.
+Day:22
+am =amnion
+ap=apposed membranes
+as =allantoic sac
+ep=embryo proper
+mm=mesometrium
+ys=yolk sac
+Chapter8
+184
+signals (pg 50）.Similar to the equine embryos (pg 182),color-flow signals extend
+into vessels beyond the heart for Day 28 and thereafter.A vessel at Day 36 is
+from the developing umbilical cord.At Day 38,blood flow in the umbilical cord
+is shown for two directions of flow indicated by red and blue.The vessels are
+shown at their entrance to and exit from the abdomen. The apparent aorta is also
+indicated Carotid artery identity is based on location cranial to the heart and
+blood flow toward the transducer,opposite to the direction of flow
+in the aorta.
+Summary ofblood flow in embryos.In horses,embryonic blood flow is first
+detectable by color Doppler in the pulsating heart (Days 17 to 20).Vessels have
+been detected in the area of apposition between the yolk sac and allantoic
+was needed to detect signals: signals were not detected with a setting of
+umbilical cord,aorta,and carotid artery.
+to the day of first detection in cattle
+Fetal Stage
+Day:21
+ao=aorta
+ca = carotid artery
+ep=embryo proper
+hd=head
+ht=heart
+mm =mesometrium
+uma = umbilical artery
+umv =umbilical vem
+38
+Chapter8
+186
+Blood-lowDetection in the Fetus
+60 image.
+Day 45:Sagittal plane through the entire fetus.
+center,indicating the greater velocity of laminar flow.
+Day 5 deft:Full sagital plane.The umbilical artery andvein are labeled on
+the basis of flow away (blue) and toward (red) the beams of the convex
+transducer,respectively.An anechoic section of apparent umbilical artery （arrow)
+has no color signals,owing to flow perpendicular to the beams.The flow in the
+vena cava and aorta is away and toward the beams,respectively.Aliasing is
+considerable in the aorta,indicating a velocity that is greater than the range
+setting.The carotid artery is flowing away from thebeams.
+Day S1 (right:Approximately transverse section of a uterine horn that did not
+contain the highly mobile fetus at this tme(Bk-158.6).Note aliasing is greater in
+Yelocity in this area
+expected for flow toward thehead andbeams.
+as Dav 56io
+direetion of flow is obscured by the spiraling of the vessels.
+Fetal Stage
+187
+Day:45
+a0=aora
+ca=carotid atery
+f=from limb
+hd=head
+hl=hind limb
+mm=mesometrium
+nk=neck
+uc=umbilical cord
+uma =umbilical artery
+umv=umbilical vein
+vc=vena cava
+60
+Chapter8
+188
+The velocity setting is given for each image.
+yellowwhen flowis toward the beams.
+right.The reds and blues vividly indicate flow in opposite directions.
+Day 71:Spinal column (head to lef),showing flow toward the beams (red) in
+the aorta and away from the beams (blue) for the continuation of the umbilical
+artery
+Day 90:Abdomen (left) and chest (right). Color codes for portions of
+intestinal vessels are shown. The ductus venosus and hepatic veins that empty
+into the vena cava are based on color of signals and expected direction of flow.
+Identifications are based on locations and flow direction.
+Day 100:Caudal half of fetal body.The two umbilical arteries appear on each
+side of the urachus.The urachus is the allantoic duct,and a dilated portion will
+become the urinary bladder.
+Day 1l0 (right）:Chest and abdomenThe dorsal aspect of the fetus is inclined
+toward the top allowing identification of the aorta.A vein (red) is shown entering
+arteries.
+anda vein (blue).
+Fetal Stage
+189
+Velocity:
+24cm/s
+Day:65
+12cm/s
+60 cm/s
+24cm/s
+40cm/s
+100
+42cm/s
+a0=aorta
+dv= ductus venosus
+fe=femur
+ht=hean
+st=stomach
+hv=hepatic vein
+1=tail
+in= intestine
+uma= umbilicalartery
+lu=lung
+umv=umbilical ven
+Iv=liver
+甜=uachus
+pv=pelvis
+rc=nb cage
+=veebra
+sc=spinal column
+20cm/s
+110
+190
+Chapter8
+Horses. The velocity settings ranged from 7.5 to 12.0 cm/sec.
+Identification of vessels may be difficult or unresolvable on a still image without
+the benefit of real-time inspection of the surrounding area. In this regard, the
+spectral function is a decided asset in clarifying arterial versus venous flow.
+Day 170: Vessels in a limb with blood flow toward (red) and away (blue) from
+beam direction.
+Day 190:Color signals of blood flow in a hoof.
+Day 27l:The head is to the right,and the neck shows a carotid artery (ca）
+and a jugular vein (jv).Interpretation of the color signals for the carotid artery
+and jugular vein requires basic knowledge on the principles of the color-Doppler
+technology.The venous blood on the left (blue) is flowing toward the chest away
+from the beams.The long anechoic area is attributable to absence of color signals
+because the vessel is at 90° to the beams in this area.The small red signal is from
+blood flowing toward the beams.The blood in the carotid artery is flowing
+beneath the carotid image;identity is unknown.
+aliasing as pregnancy advanced.
+Fetal Stage
+191
+Day:140
+170
+190
+271
+150
+40
+130
+Dav:121
+80
+6
+Chapter 8
+192
+informationondirectionofflow.
+Day:83
+104
+Side by side gray-scale and color-flowimages.Cattle.The images were made
+with afunction that displayed the twomodes separately and simultaneously.
+demonstrated by the color signals
+suggests it is the umbilical artery and that the fetal torso is to the left.
+Fetal Stage
+193
+uma
+Cumv
+dv
+Day:44
+Umv
+hv
+54
+58
+ao=aorta
+hv= hepatic vein
+ca =carotid artery
+jv= jugular vein
+dv = ductus venosus
+uc=umbilical cord
+fet=fetus
+uma =umbilical artery
+fl=front limb
+umv=umbilical vein
+ht=heart
+vc =vena cava
+Chapter8
+194
+Day:74
+107
+Placentomes imaged in two modes. Cattle.Placentomes with a wide base
+(A,B) are compared for color-flow mode and power-flow mode.A pedunculated
+placentome (C,D) is shown in gray-scale (B-mode) and power mode. Note that
+the centimeter scale (left margin) is different between Days 74 and 107.
+(fetal) and are the principal areas of placental exchange.Therefore,the structures
+arehighly vascularized,as shown.
+Fetal Stage195
+arteries versus veins.
+Producing Spectral Graphs during Pregnancy
+个1.05
+04
+eia
+0.55G35C11
+Chapter 8
+196
+Day:48
+70
+110
+170
+Spectra of umbilical artery and vein.Horses.An angle cursor was used
+except for Day 48. The velocity settings differ among images as shown by the
+numbers at the upper edge of the image (e.g.,7.47 cm/sec for Day 48).
+Day 48:The sample gate (arrow) involves both an umbilical artery (red) and
+arterial spectrum below the baseline. Only the systolic portion of the arterial
+to the pulses in the adjacent artery.
+pronounced than forDay48.
+Day llo:The intervening space has continued to decrease.
+profile encroaches upon the beginning of the next profile
+Fetal Stage
+197
+A
++0.23
+.10G35
+C11
+Day58
+Color-Doppler images and spectral displays of fetal vessels Day 58). Cattle
+(A) Spectrum of carotid artery (ca) showing diastolic signals between the
+prominent systolic signals. Placement of sample gate is near the ca arrow.
+Initially, signals from the jugular vein (jv) appeared beneath the baseline,but
+regard, the gate is stationary on the monitor, and movement of the tissue or
+portionsof thegraph.
+artery in mares at this stage (pg 196).
+Chapter8
+198
+Published Spectral Data for theFetal Stage
+placental impedance. Doppler study of the fetus and placenta in horses and cattle
+may be a fruitful research area with both basic and applied ramifications.For
+example,an applied Doppler approach isneeded to enable practitioners to make
+diagnostic and prognostic judgments on fetal health, including providing
+definitive information onwhether fetal death has occurred.
+Blood flow in uterine and umbilical arteries (facing page).Horses.These
+graphs were reproduced with modifications from a publication by Bollwein et al.
+(21）.Uterine arteries were examined about 3 to 5 cm from their origin from the
+external iliac artery in four mares. Pulsed-wave mode with a 7.0 MHz transducer
+and a filter setting of 100 Hz was used for the first 10 weeks.Thereafter,a
+continuous-wave mode with a 3.75MHz transducer and a filter setting of 400 Hz
+was used.An angle cursor was placed at the sample gate. Blood volume was
+calculated from the time-averaged maximum velocity (TAMV) and artery
+ofa cattle study (pg200).
+Fetal Stage
+199
+361
+Uterine arteries,
+blood-flow volume
+both uterine arteries. The
+32
+28
+disappearance of the notch
+indicated decreased peripheral
+24
+20
+resistance to blood flow
+reflecting the vascularization of
+the micro-cotyledons (64).In
+women, the incidence of a
+notch decreased markedly
+during the second trimester,
+0.91
+Uterine arteries,
+RI
+as indicated by an incidence
+0.8
+of 52% at Week 14 versus
+0.7
+9%at Week 24 (49).Doppler
+ultrasound in women is useful
+for assessing trophoblast
+0.5
+invasion during the first
+trimester (133） and for predicting
+0.4-
+the outcome of pregnancy
+0.91 Umbilical arteries,
+during the second trimester (8.
+RI
+An abnormal waveform reflects
+0.8
+increased impedance in the
+0.7
+tissues. Doppler results for
+pregnancy abnormalities have
+not been reported for horses
+0.5
+and cattle.
+The two umbilical arteries
+0.4
+were identified on the basis of
+2
+610141822263034384246
+pulsations on the Doppler
+Weeks of pregnancy
+images and flow direction
+Chapter 8
+200
+TAMV
+Ipsilateral horn
+0.91RI
+160
+Contralateral horn
+0.8
+120
+cm/sec
+80
+0.6
+40
+0.5
+Blood-flow volume
+Artery diameter
+12
+12
+10
+S
+8
+e
+6
+345678910
+910
+2
+2
+3
+4
+6
+8
+Months of pregnancy
+Months of pregnancy
+Spectral data for uterine artery throughout pregnancy. Cattle.The figures
+were prepared from tabulated results published by Bollwein et al. (I2). Three
+uniparous heifers were used. Waveforms were obtained at an insonation angle of
+20° to 60°. Each examination required approximately 30 minutes.The day or
+days that represented a month was not given.The resistance index (RI) decreased
+during Months 1 to 8and remained at low level for Months 9 and 10.High RI
+during the last trimester in women is a reported indicator of potential fetal distress
+lower than in the contralateral artery. The first significant difference (paired t-test)
+Fetal Stage
+201
+in large animals.
+blood-flow volume and negatively correlated with Rl.
+190 Heart rate
+Embryo heart rate. Cattle.
+The number of embryo heart
+beats/minute was determined
+170
+through a function in spectral mode
+per
+in 10 heifers each day by L.A.
+Silva. Heart rate increased rapidly
+eartbe
+for a few days after detection and
+130
+then more gradually until the
+arbitrary end of the embryo stage
+(Day 40).The scanner-determined
+Days of pregnancy
+heart rate on Day 40 seemed
+were estimated with a stop watch.
+Chapter 8
+202
+Doppler Ultrasound and Pregnancy. Women.
+40Blood-flowvelocity
+R
+35
+0.85
+30
+0.80
+25
+20
+0.70
+15
+0.65
+Blood-flow volume
+0.18Artery area
+6
+0.16
+Liters/min
+5
+R
+0.10
+2
+0.08
+67891011121314151617
+67891011121314151617
+Post-menstrual weeks of pregnancy
+An early study. These graphs are smoothed representations of data reported
+by Dickey and Hower (4i).Data are combined for the two uterine arteries. Note
+that the reference point is menstruation, as is common for studies in women;
+ovulation occurs about 2 weeks after menstruation.This Doppler study apparently
+was the first clear demonstration that uterine blood flow increases nonlinearly as
+pregnancy advances. Resistance index (RI) decreased slowly until Week 10 and
+184,198,199).
+Part Four
+STALLIONS AND
+BULLS
+Chapter9
+aspects of the genitalia in bulls
+scrotum,spermatic cord,and penis （reviewed in58).Evaluationof blood-fown
+the testicular artery is being used to diagnose and monitor neoplastic and
+inflammatory changes of the testis,epididymis,and spermatic cord.The
+technology is especially useful for assessing blood flow interference in torsion of
+thespermaticcord.
+In contrast to the wealth of information in men,studies in stallions were
+Chapter 9
+206
+Abdominal and Pelvic Arteries (facing page)
+summaries ofpublished accounts(125.138).
+the spermatic cord (pgs 216,219).The cremaster artery originates from the external
+iliac in stallions and traverses the abdominal wall near the inguinal ring and
+supplies the cremaster muscle. In bulls, the cremaster artery originates from a
+branch of an artery that supplies the scrotal and preputial areas (not shown).
+The internal pudendal artery is a major branch of the internal iliac in both
+species. However,anatomists consider the internal pudendal artery to be long in
+the horse and short in cattle (/38),as shown in the sketches. The internal pudendal
+follows the same course within the pelvic cavity in the stallion as the internal iliac
+follows in the bull. The umbilical artery is a supplier to the genitalia in both
+genders.The artery arises from the internal pudendal artery in the stallion and
+directly from the internal iliac in the bullIn both species, the umbilical artery is
+the primary source of the arterial supply to the ductus deferens.The proximal
+portion of the ductus deferens is supplied by a branch of the prostatic artery.
+The prostatic artery originates from the internal pudendal arteryin the stallion
+from the internal iliac and passes through the obturator foramen.
+bag=branches to accessory glands
+bdd = branch to ductus deferens
+ir=inguinal ring
+cra = cremaster artery
+oba=obturator artery
+pa =penile artery
+dda = ductus deferens artery
+eia = external iliac artery
+pra =prostatic artery
+dpa = dorsal penile artery
+jia= internal iliac artery
+ta = testicular artery
+uma =umbilical artery
+ipa = internal pudendal artery
+ura =urethralis artery
+Male Genitalia
+STALLION
+207
+aorta
+ela
+-ipa
+-oba
+uma-
+pra-
+pa
+cra
+bdd
+bag
+dda-
+pa-
+pa
+BULL
+pra
+eia-
+iia
+bag
+aorta
+-ura
+uma'
+bdd-
+pa
+dda
+dpa
+Chapter 9
+208
+Internal Genitalia
+Urinary bladder
+Ductus
+deferens
+Vesicular gland
+Pelvicbrim
+Uterus masculinus
+Ampulla
+Prostate gland
+Lobe
+Vesicular gland duct
+Isthmus
+Ampullary duct
+Prostatic ductules
+Pelvic urethra
+-Urethral lumen
+Uterus masculinus
+Urethral muscle
+Bulbourethral gland
+(exposed)
+Anus
+Male Genitalia209
+contain a large amount of gelatinous secretion from the vesicular glands. The
+gland has an obvious lumen (anechoic) containing the gel. After sexual
+stimulation, the vesicular glands increase in height and change from flat and
+irregular to rounded.Each ductus deferens (deferent duct,vas deferens) connects
+the epididymis to the urethra, and the enlarged portion at the urethral end is
+termed the ampulla.The pair of ampullae are situated between the necks of the
+vesicular glands.The excretory ducts of the vesicular glands and the ampullae
+for fluid.
+forcolor-Doppler study.
+Chapter 9
+210
+Teased
+Rested
+Bulbourethral gland
+Ejaculated
+Rested
+Teased
+Prostate gland
+Ejaculated
+Male Genitalia
+211
+am
+Teased
+Rested
+Vesicular gland
+am=ampulla
+vg=vesiculargland
+Ejaculated
+Sonograms of accessory sex glands (this page and facing page). Stallions.
+The images were taken from a single stallion before sexual stimulation (rested)
+Chapter 9
+212
+Urinary bladder
+Ductus deferens
+Vesicular gland
+Ampulla
+Disseminate
+prostate
+Prostate body
+Urethra
+Spongy tissue
+Urethral muscle
+Pelvic urethra
+Bulbospongiosus
+Bulbourethral gland
+Bulbourethral gland
+Disseminate
+(exposed)
+prostate
+Urethra
+Spongy tissue
+Bulbospongiosus
+Urethral muscle
+Anus
+Male Genitalia213
+urethral lumen.
+tissue. An anechoic collection duct can be viewed extending from the proximal
+end of each gland and running below the prostate body.The vesicular glands
+contribute the bulk of the seminal fluid. The small seminal volume(e.g,5ml) in
+bulls is consistent with the relatively solid appearance of the glands. In contrast,
+the large seminal volume in stallions （e.g.,100 ml) is consistent with saccular
+fluid-filled glands that collapse during ejaculation.
+The ampullae are round or ovoid on cross section and are closely apposed
+theurethral lumen.
+Chapter 9
+214
+Prostate
+Bulbourethral gland
+Vesicular gland
+Vesicular gland
+am
+al = ampullary lumen
+am=ampulla
+bg=bulbourethral gland
+cp= capsule
+vgl = vesicular gland lobe
+Ampulla
+that the vessel is a vein.
+Male Genitalia
+215
+of teasing and ejaculation on thevesselshavenot been studied ineither species.
+Testis,Epididymis,and Spermatic Cord
+Chapter 9
+216
+Inguinal
+ring
+Spermatic cord
+Testicular
+artery
+Ductus deferens artery
+Pampiniform
+plexus
+-Ductus deferens
+Body of epididymis
+Head
+Testis
+Tail
+Tunica
+albuginea
+Testicular
+artery
+testis,a standoff pad may be useful.
+Male Genitalia
+217
+ep=epididymis
+tes=testis
+218Chapter9
+many coverings of the testis or scrotal wall are not distinguishable byultrasound,
+except that occasionally fluid can beimaged between the surface of the testis and
+lining of thevaginal pouch.
+The epididymis follows the caudomedial border of the testis,and therefore the
+two epididymides are in close proximity to each other.The head is over the upper
+pole of the testis and the tail projects ventrally forming a conspicuous cone; these
+two parts are interconnected by a narrow body. The tail and head of the
+epididymis can be identified on the ends of the testis because of demarcation by a
+thin echoicline,reduced echogenicity compared to the testisparenchyma,and the
+presence of numerous tubular structures.The ductus deferens is difficult to
+identify and when imaged is an anechoic tubular structure 2 to 3 mm in diameter
+channel for sperm traveling from the tail of the epididymis to the urethra.
+Male Genitalia
+219
+Spermatic cord
+Testicular artery
+Pampiniform plexus
+-Ductus deferens
+artery
+-Ductus deferens
+Head of epididymis
+Body of epididymis
+Testis
+Testicular artery
+Tunica albuginea
+Tail of epididymis
+Chapter 9
+220
+Longitudinal section
+08
+Longitudinal section
+口
+Cross section
+indicating a 90 angle of insonation (pgs 36,54).
+Male Genitalia
+221
+B
+es
+Color-flow images of testis and epididymis. Bulls.The testis is shown in
+longitudinal (A) and cross section (B）Themediastinum testis(mt） is in the plane
+ofa portion (left)of the longitudinal section and centrally located in the cross
+pole of the testis
+Chapter 9
+222
+Spectral Graphs and Data for Male Genitalia
+JD.O6G3SCII
+of the epididymis (B).Note the delineated box and position of the sample gate.
+1017035C11
+40.23G35C11
+0.12
+Male Genitalia
+223
+In spermatic cord
+Atperiphery of testis
+Range
+Mean
+Mean
+Range
+26.1
+12to51
+PSV(cm/s)*
+22.2
+8to59
+5.4
+0.3 to 14.7
+EDV(cms)
+7.9
+3.5 to 20.0
+0.78
+0.56 to 3.96
+RI*
+0.63
+0.39to 0.85
+1.99
+0.96to3.96
+PI*
+1.15
+0.55 to2.29
+the caudal testicular pole. The sample gate seting was 1 mm, and angle of
+correction was 30° to 60°. Peak systolic velocity (PsV), end diastolic velocity
+(EDV),resistance index （RI）,and pulsatility index (P)were measured Themean
+for three measurements of each end point was used. End points with an asterisk
+are significantly different between locations of the artery.The authors noted that
+assessment of longitudinal segments of the artery was tedious and time
+consuming, owing to the convolutions in the spermatic cord and the tortuosity at
+not attempted.
+Chapterg
+224
+torsion of the spermaticcord
+2) Blood flow apparently increased during thebreeding season in association with
+1 hour after injection of a large dose of hCG (6000 IU; 130). No reports were
+found that involvedDoppler assessment of the testicular artery in the abdomen or
+before it enters the internal inguinal ring or the spermatic cord.
+Spectral data.Bulls. Only one report,an abstract (Isi),was found on color
+Doppler examination of bovine testicular arteries.The artery was examined in the
+spermatic cord,a pole of the testisand in the testicular parenchyma in 25bulls.It
+was stated that blood-flow in older bulls showed decreasing velocity and
+increasing PI and RI,similar to the findings for older stallions (pg 223）.Sexual
+stimulation had no effect,whereas sedation apparently was associated with
+reduced blood-flowvelocity.A companion full report wasnot found.This should
+be a productive area for both applied and basic research.
+Summary of spectral-Doppler examinations of testicular artery.A study in
+stallions indicated that the spectral waveforms for the convoluted testicular artery
+of the spermatic cord were biphasic in that both systolic and diastolic portions
+periphery.

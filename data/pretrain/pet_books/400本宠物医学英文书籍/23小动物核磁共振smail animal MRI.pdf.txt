@@ -1,0 +1,5012 @@
+Handbookof
+SmallAnimal MRI
+IANELLIOTT
+GEOFFSKERRITT
+WILEY-BLACKWELL
+Copyrighted material
+小尾巴宠物健康中心http://ttahc.taobao.com
+HandbookofSmallAnimalMRI
+Copyrightedmaterial
+Copyrighted materia
+HandbookofSmallAnimalMRI
+lan EIlliottDCR(R)DipHSW(Open)
+Burgess Diagnostics Ltd,Leyland,Lancashire,UK
+GeoffSkerrittFRCVS,BVSc,DECVN,CBiol,MIBlol
+ChesterGates Referral Hospital,Chestergates,Chester,UK
+MWILEY-BLACKWELL
+A John Wiley&Sons,Ltd.,Publication
+Copyrighted material
+This editionfirstpublished2010
+Olan Elliott andGeoffSkerritt
+publishingprogramme has been merged with Wiley’s global Scientific,Technical,and
+Medical business to form Wiley-Blackwell.
+Registeredoffice
+John Wiley& Sons Ltd,The Atrium,Southern Gate,Chichester,West Sussex,POi9 8sQ
+UnitedKingdom
+Editorial office
+9600 Garsington Road,Oxford,OX4 2DQ,United Kingdom
+2121 State Avenue,Ames,lowa 50014-8300,USA
+Fordetailsofourglobaleditorialoffices,forcustomerservicesandforinformationabout
+how to apply for permission to reuse the copyright material in thisbookplease see our
+website at www.wiley.com/wiley-blackwell.
+The right of the author tobe identified as the author of thiswork has been asserted in
+accordancewith the Copyright,Designsand Patents Act 1988.
+All rightsreserved.Nopart of thispublication may be reproduced,stored inaretrieval
+system,ortransmitted,in anyformor byanymeans,electronic,mechanical,photocopying
+recordingorotherwise,except aspermitted by the UKCopyright,Designs andPatentsAct
+1988,without thepriorpermission of thepublisher.
+Wiley also publishes itsbooks in a variety of electronic formats.Some content that appears
+inprintmaynot be available in electronic books.
+Designations used by companies to distinguish their products are often claimed as
+trademarks. All brand names and product names used in this book are trade names,
+service marks,trademarks or registered trademarks of theirrespective owners.The
+publisher is not associated with anyproduct or vendor mentioned in thisbook.This
+required,the services of a competentprofessional should be sought.
+Library of Congress Cataloging-in-Publication Data
+Elliott,lan,1954
+Handbookofsmall animal MRl/lan Elliott,GeoffSkerritt.
+p.;cm.
+ISBN 978-1-4051-2650-2(pbk.:alk.paper)
+1.Veterinary radiography-Handbooks,manuals, etc.2. Magnetic resonance imaging
+Handbooks,manuals,etc.I.Skerritt,G.C.ll.Title
+[DNLM:1.Magnetic Resonance Imaging-instrumentation.2.Magnetic Resonance
+Imaging-veterinary.3.Safety Management.SF 757.8 E46h2010]
+SF757.8.E452010
+636.089'607548-dc22
+2009023940
+Acataloguerecord for thisbookisavailable from the British Library.
+Set in 10/13pt Franklin GothicBookby ToppanBest-setPremedia Limited
+Printed in Singapore
+12010
+Copyrighted material
+Contents
+PART OneF
+Physical PrinciplesofMRI
+Chapter1
+Basic Principles
+3
+The hydrogenproton
+4
+10
+Transmission oftheMRsignal
+13
+Imageweightingandcontrast
+20
+Spinechoandscan time
+21
+Spatial localisation
+25
+Fourier transformation
+25
+Pulse sequences:the quest for speed
+MRSystemHardware
+29
+Chapter 2
+Magnets
+29
+Shielding
+32
+Shimming
+33
+Gradients
+33
+34
+Radiofrequencysystem
+35
+Faraday cage
+36
+Imageprocessingandarchiving
+ImagingParameters
+39
+Chapter3
+40
+Signaland noise
+45
+Contrast
+46
+Artefacts
+Copyrighted material
+Chapter4
+Image Artefacts:Recognition and Reduction
+47
+48
+Movement artefact
+R
+Phase wrap or aliasing
+52
+M
+Frequency wrap
+55
+Chemical shift
+55
+Chemical misregistration
+57
+A
+Susceptibility artefact
+58
+M
+System-induced artefacts
+60
+Partial volume averaging
+61
+Z
+65
+PartTwoMRl inVeterinaryPractice
+A
+Chapter 5 MRI Safety
+67
+67
+Magnetsandmagneticfields
+Safety issues
+68
+A
+Further reading
+72
+M
+S
+Chapter6
+6UsingMRIin Clinical VeterinaryPractice
+73
+73
+Introduction
+F
+Anaesthesia
+75
+O
+77
+Patient positioning
+Imaging planes
+79
+K
+Contrast agents
+80
+O
+Clinical indications
+81
+Head
+82
+O
+Spine
+98
+B
+Degenerative disease
+112
+D
+115
+Congenital abnormalities
+Musculoskeletal system
+121
+Z
+124
+Thorax,abdomenand pelvis
+A
+Foreign bodies
+126
+H
+AnatomyAtlasforMRl Interpretation
+129
+Further Reading
+145
+Glossary
+147
+Index
+153
+Copyrighted material
+PARTONE
+Physical Principles of MRI
+Copyrighted material
+Copyrighted materia
+Basic Principles
+The hydrogen proton
+4
+10
+Transmission oftheMRsignal
+Imageweightingand contrast
+13
+Spin echoandscan time
+20
+21
+Spatial localisation
+25
+Fourier transformation
+25
+Pulse sequences:the quest for speed
+Atthetimeofwriting,mostveterinaryprofessionals,whetherthey
+besurgeons,nursesorstudents,wouldprobablyagree that their
+onnon-existent.Indeed,manymaybefilledwithadeepdreadat
+aworkingknowledgeofradiographyatleastsufficienttoknowthat
+aradiographrepresentsarecordofthedifferentdensitiesofbody
+tissuesthroughwhich thex-raybeamhaspassed.Inthischapter
+thenatureofmagneticresonance(MR)will beexaminedandthe
+measurementparametersinvolvedinconstructingaMRimagewill
+be discussed.
+Itisworthbeginningbyrecappingbrieflyonsomeradiation
+(CT),image contrast，or greyscale，is dependent on density or,
+moreelectronsanatomhasinitsshellthemoreitwillattenuate
+thex-raybeam.Dense tissues,suchas cortical bone,will appear
+3
+Copyrighted material
+aswhiteintheimagewhilstair,beingleastdense,appearsblack.
+Sinceelectrondensityis theonlymeasurementparameter,radio-
+R
+graphic and CT appearances are consistent,predictable and,
+M
+therefore,reproducible.In MRl,however,there are a number of
+sequently,image contrast.This means that the operator can
+A
+manipulateimagecontrasttotheextentofturningtheappearance
+ofwater,forexample,fromblacktowhite.Thismayappearcon
+M
+fusinguntil theprinciplesareunderstood.In fact,itistheability
+一
+tomanipulatecontrastin thiswaythatgivesMRlitssuperiorsoft
+Z
+tissuedifferentiation.
+A
+Later,considerationwillbegiventohowtheoperatorcanalter
+scanparametersinorder toproducethese changes inimage
+一
+contrastbutfirstofallweshouldexplore thehydrogenproton,
+一
+how MRI usesradiofrequency(RF) energy toproduceresonance
+A
+and whathappens as theprotonrelaxeswhenthe RFpulse is
+M
+turned off.
+S
+F
+Thehydrogenproton
+Thereareseveral atoms thatpossessthe abilitytoresonateand
+K
+canbe used to produceimages.Infact any atomwithanodd
+O
+mass number suchascarbon(13),sodium(23)and phosphorous
+(31)would besuitable,butinclinicaluseonlyhydrogen,witha
+massnumberofone,isused.This isbecause a singlehydrogen
+B
+D
+verywell;it issaid tohaveahighgyromagneticratio(y)and it
+isabundantwithinthebody.
+Z
+Hydrogenisthesimplestofatoms,havinganucleuscomposed
+A
+ofa single proton(no neutrons) and hasno orbiting electrons;
+H
+hence it is oftenreferred to simply as a proton.
+Theproton carries apositive electrical charge and spins on its
+ownaxis.Thismovingelectricalcharge,accordingtothelawsof
+aroundtheprotonsothatitbehaveslikea tinybarmagnethaving
+describedinphysicsasmagneticmoments.Eachmagnetic
+Copyrighted materia
+5
+S
+E
+P
+C
+Z
+R
+P
+Figure1.1Thehydrogen proton.
+C
+S
+A
+B
+Figure1.2In thenormal stateofaffairsmagneticmomentsareran
+domlyorientatedand canceleachotherout.
+momentpossesses theproperties ofsize and direction.Where
+two ormore magnetic moments exist together,their size and
+direction(orvectors)canbecombined togive theirnetmagnetisa-
+tion.Thus iftwomagneticmomentsexistboth having the same
+each individual.Converselyiftheyhave the same sizebutoppo-
+site direction the two will cancel eachother out and their net
+magnetisation willbe zero.In the normal course ofevents the
+body'smanybillions of microscopic magnetic moments are com-
+pletelyrandomlyorientated(Figure1.2)and canceleachotherout
+such thattheirmacroscopicornetmagneticfield iszero.
+Copyrightedmaterial
+6
+TheeffectsofanexternalmagneticfieldBo
+R
+Whenan animalis placed into the MRlscanner,the external
+M
+magneticfield(referred toas Bo)causes theprotons to abandon
+theirrandomorientationandlineup'withthemainmagneticfield.
+一
+Currentknowledge of magnets andmagnetic fields would suggest
+A
+that the tinymagneticfieldsofeachprotonwould adopt an orien-
+M
+tationparallel tothemainfieldBowiththeirnorthandsouthpoles
+matchingthoseof themainmagnet.Howeverthelawsof quantum
+mechanics dictate that certain protons have sufficient thermal
+Z
+energy atroom temperature toadoptanopposing，anti-parallel
+A
+state.Indeed the twopopulations are almostidentical.Moreover
+theprotons are continuallyoscillatingbetween the two statesbut
+atany given point in time,the ratio ofanti-parallel to parallel
+states isonemilliontoonemillionand sixataBofield strength
+A
+M
+thatourpatient'stotal hydrogencontenthas a netmagnetisation
+vector(NMV)in the parallel direction(Figure 1.3).Withonly sixin
+S
+twomillionprotons contributingto the imageit seemsdoubtful
+F
+thattheprocesswillworkatall.However,at1.5T0.01mlofwater
+contains around 3millionbillion such excessprotons,so things
+O
+begin to seem feasible.
+Since theenergylevel required toachieve the anti-parallelstate
+K
+increaseswiththefieldstrengthofBo.andthepatient'sthermal
+O
+energyremainsfairlyconstant,itfollowsthatthemagnitudeof
+O
+theNMV increaseswiththefieldstrengthoftheMRIsystemwe
+B
+D
+Z
+A
+H
+Figure1.3Theinfluenceofanextermal magneticfield istoalignprotons
+intheparalleland anti-parallelstates.
+Copyrighted material
+are using.This is an importantrelationship,since it is the NMV
+S
+that contributes the useful MRI signal.Hence systems with high
+E
+field strengthmagnets generate more signal from the same
+volumeoftissue than lowerfieldsystems.
+P
+A second influenceof Bois tocause spinningprotonstoprecess.
+一
+Justasachild'sspinningtopbeginstowobbleundertheinfluence
+C
+ofgravity,so protons are made to wobble or precess by Bo.The
+Z
+equation:
+一
+R
+①=BoY
+P
+where Wocanbereferredto as theLarmor,precessionalor
+C
+earlierinthischapterandisaconstantuniquetoeachatom.
+一
+S
+Sinceyisconstantforhydrogen,itcanbeseenfrom thisequation
+thatprecessional frequencyisdirectlylinked tofield strength Bo
+A
+thus:
+B
+口
+Thereforeitsprecessionalfrequencyat O.5Twillbe
+口
+21.285MHz.
+Theexactequationdoesnothave toberemembered,butthisis
+Themajoreffectofthisprecessionalmotion isto introducea
+transverse component to themagneticfield ofeachproton since
+each isnowspinningataslighttilttoBo(Figure1.4).Because
+thenorth/southpolesofeachprotonarepointinginrandomdirec
+inthetransverseplanesothattheNMVisstillintheparallelor
+longitudinaldirection.
+TheeffectsofanRFpulseattheLarmor
+frequency:resonance
+Ifapulse ofradiofrequency(RF)energy is now applied toprotons
+in the system it cancause thehydrogen spins toreact to itpro
+vided twoimportantconditionsare fulfilled.These are that theRF
+pulsemustbeappliedatrightanglestoBoandthatitmustbe
+Copyrighted materia
+Bo
+R
+M
+A
+M
+N
+A
+A
+M
+S
+Figure 1.4 Precession.
+F
+O
+K
+O
+O
+B
+D
+Z
+A
+H
+Figure1.5Outofphase in the transverseplane.
+attheLarmorfrequency;anyotherfrequencyatthisfieldstrength
+willhavenoeffectonhydrogen.
+Thisreaction to theRFpulseisresonance and,essentially,two
+toallowmore protons to adopttheanti-parallelstateThe six
+Copyrighted material
+S
+E
+P
+C
+Z
+R
+P
+C
+Figure1.6Inphase in the transverseplane.
+S
+A
+B
+90°RF
+pulse
+Flgure1.7Netmagnetisation passes through9o°from longitudinal to
+transverseplanes.
+happensifenoughRFenergyistransmitted toallowthreeof these
+to flipinto the anti-parallelposition.Theywill thencancel out the
+otherthreeintheparallelstateandtheNMVin thelongitudinal
+planewill nowbe zero.The othereffect,which takesplace in the
+transverse plane,is to bring all our hydrogen spins into phase
+other out,each microscopicmagneticfield isin unisonwith its
+Consequently theirindividual magneticfieldsall add together
+sothattheNMVisnowatamaximuminthetransverseplane.
+TheNMVhasshifted through9o°fromlongitudinal to transverse.
+IftheRF transmissionisterminated atthispoint itissaid tobe
+a 9o°RF pulse（Figure 1.7).Note that the angle through which
+Copyrightedmaterial
+10
+of the strength and durationof the RFpulse.Othervalues forα
+R
+willbeencounteredlater.
+M
+AndwhentheRFtransmissionisturnedoff..
+A
+M
+ofeach otheras soon as the RF transmission is turned off.
+一
+Eachwillbe considered insome detail butbrieflywhathappens
+Z
+is this:
+A
+1.
+BecausetheNMVisnowinthetransverseplaneandno
+L
+longeroverwhelmedbyBoitcanbedetectedbyareceiver
+coil.TheabsorbedRFenergyisretransmittedastheuseable
+A
+MRsignal.Howmuch signal is transmitted will depend on
+M
+howmuchhydrogen thereisinaparticular tissue;itsproton
+density (PD).
+S
+2.Thespins thatwere inphasewitheachother in the trans-
+s
+F
+locallyandsomebegintoslowdownrelativetoothers;they
+begin todephase.Thisisreferred toas T2relaxation,also
+called transverse or spin spin relaxation.
+K
+3.Theextraprotons thatwereable to useRFenergy toadopt
+O
+the anti-parallel statearenowreliantagainonthermalenergy
+aloneandbegintoreturntotheirusualstate,thermalequi-
+librium.This,surprisingly enough,is called T1 relaxation.
+B
+Thisprocess isalsoreferredtoas longitudinalrecoveryor
+D
+spinlatticerelaxation.
+Z
+A
+TransmissionoftheMRsignal
+工
+Theconceptofelectromagneticinductionteaches thata moving
+magneticfieldwill induce anelectricalcurrentinanadjacentcon-
+ductor.That is exactly the situation in the spin system;therotating
+magneticfield in thetransverseplanewillproduce anelectromag-
+neticradiationattheLarmorfrequency.ItisthisRFemissionthat
+Copyrighted materia
+1
+givestheuseableMRsignal thatgoestomakeup thefinal image.
+S
+E
+isdetermined bytheamountofhydrogeneachcontains,aswell
+P
+hydrogen such as fatand cerebrospinal fluid (CSF)will generate
+lots of signal.Conversely tissues like cortical bone and lung,which
+一
+C
+containlittleornohydrogen,willgeneratevery lowsignaloreven
+Z
+a signal void.
+patientthesignalsbeingemitted canbecollected forconversion
+R
+intoshadesofgreyintheMRimage.
+P
+C
+T1relaxation(longitudinalrecovery)
+S
+Once the RFpulse is turned off,it no longer contributes energy
+A
+to the spinsystem.In the absence ofany external influence the
+B
+hydrogen spins will return to their thermal equilibrium.Their
+acquiredenergyisgivenoffpartlyasemitted RFradiationbut
+mostly as heat to the surrounding tissues,or lattice.Hence T1
+relaxationissometimesreferredtoasspinlatticerelaxation.This
+(Figure 1.8).T1 relaxation time itself is defined as the time taken
+for63%ofmagnetisation torealignwithBo.Thisrelaxation
+T1Recovery curve
+Longitudin
+letisati
+magnc
+Time
+Flgure1.8Recovery of longitudinal magnetisation.
+Copyrighted material
+12
+T2Decaycurve
+R
+M
+L
+agnetisation
+A
+M
+Z
+A
+Time
+Figure 1.9Decay of transverse magnetisation.
+processiscalledrecoverysinceitrepresentsareturn tomaximum
+A
+fromzero.
+M
+S
+T2relaxation(transverse decay)
+F
+AtthepointthattheRFpulse is terminated,all spinsin the trans
+O
+verseplan are spinningin-phasewitheachother;inthe absence
+of thisoverridinginfluence,protonsbegin tobeinfluenced bythe
+K
+magnetic fields of neighbouring atoms.This will make some
+O
+protonstobegintospinmoreslowlythantheirneighbourscausing
+O
+thespin system begins to dephase.This causes signals in the
+B
+transverseplanetostarttocanceleachotheroutleadingtoan
+D
+exponential lossofsignal from transverse magnetisation(Figure
+Z
+1.9).Again note that T2 relaxation is called decay since it repre-
+A
+sentsalossofsignal frommaximumtozero.
+H
+Freeinductiondecay
+Thetermfreeinductiondecay,orFIDforshort,isused todescribe
+whathappens to the currentinduced in thereceiver coil at the
+endof the RFpulseprovided noother influencesarebrought to
+bear.In theperfectworld thiswould followtheT2decaycurve
+but,inreality,FIDis also affected byinhomogeneities intheMR
+Copyrighted material
+13
+S
+Pulse
+E
+Flgure 1.10180° RF pulseserves torefocus dephasingprotons
+P
+(F=fast,S=slow).
+C
+Z
+decayfunction.Theseinhomogeneitiesarisefrom manysources,
+forexampleimperfectionsinmanufacture;metalwithin thepatient
+R
+P
+MR process,to name but a few.
+Thegoodnewsisthatthesefield inhomogeneitiescanbecom-
+C
+pensatedfor togiveusa true T2relaxationcurve.This is done
+byapplyingasecondRFpulse,havingtwice theenergyofthefirst,
+S
+at some point after dephasinghas occurred.This is described as
+A
+a180°RFpulseasit hastheeffectofflippingtheNMV through
+B
+180°.Thisreversalof the spin systemhas the effectof swapping
+fast and slow precessing protons(Figure 1.10) such that faster
+back into phase rebuilding signal to produce an echo（this is
+discussed further in the next section).Since true T2decay also
+affects therephasingprocess,the echo has a lower magnitude
+T2relaxation curve.The time（TE)atwhich the echo isproduced
+canbepredeterminedbyalteringthetime（TE/2)atwhich the 180°
+pulse is applied.When spatialencodingofsignals is considered
+itwill explainwhy thisprocessofechoformationneedstobe
+image.Fornowlet'slookathowtherepetition time(TR)and echo
+time(TE) canbe altered to manipulate contrastin thefinal image.
+Imageweightingandcontrast
+Spinechosequences
+Inthelast section itwas seen thatdephasingin the transverse
+planewasnotsimplya functionoftrueT2relaxationbutwasalso
+Copyrighted material
+14
+effect.ltwouldobviouslybeadvantageousifthese twoprocesses
+R
+couldbe separated togiveatrueT2representationinourfinal
+M
+image.Thiscanbeachievedasdescribedabovebyusingan
+additional RFpulse which,thistime,producesa 180°shiftofthe
+NMv.Theaffectof this 180°RFpulse isbest appreciatedby
+A
+considering it in two90°portions.The first 90°will bring spins
+backintophase(just astheoriginal9o°pulsedid)whilst the
+M
+second will continue topush spins outofphasebut in theoppo-
+sitedirection so that,althoughstillprecessingin thesamedirec-
+Z
+tion,fastmovingspinsnowfind themselvesbehind slowmoving
+A
+theygradually catch up.The spins aresaid torephrase orrefocus
+(Figure 1.10).A corresponding regrowth of signal is detected in
+thereceiver coil,referred to as an echo.Inhomogeneitiesremain
+A
+unchanged sotheireffects are‘ironed out'but since true T2influ-
+M
+ences are stillatworkduringtherefocusingperiod,the echo
+doesn'thavequitethesameamplitudeas theFiDso theechois
+S
+Thisrefocusingprocessforms thebasis of spin echo(SE)pulse
+F
+sequencesandmanipulationofthetimingofthese90°and180°
+O
+RFpulses determinesimagecontrast.
+K
+purposes of spatial localisation,the whole process is repeated
+O
+hundredsoftimes.The timebetweenone9o°RFpulseand the
+O
+B
+D
+180pulse
+90°
+Z
+A
+H
+sItY
+intens
+T2/FID
+Echo
+Signal
+Time
+Figure1.11Spin echo formation.
+Copyrighted materia
+15
+T2relaxation
+S
+E
+L
+Signal
+P
+intensity
+C
+Z
+Long,
+R
+Tissue'a'
+P
+Tissue 'b"
+Short
+TE一
+C
+Flgure1.12T2contrastismoreobviousatlonger TE times
+S
+A
+B
+nextisreferred toas therepetitiontimeor TR whilst the time
+takenforanechotoformiscalled theecho timeorTE.Byaltering
+TR and TEwecanmanipulate imagecontrast.
+First let's examine the effects ofaltering the echo time,TE.
+Consider theT2decaycurvefromearlierin thischapter.InFigure
+1.12 the T2 curves for two different tissues(a and b)are shown.
+Ifan echo is produced with a relatively short TE(echo time is
+determinedbythe timeatwhichthe 180°RFpulse isapplied)
+thenitcanbeseenfromthediagramthatthereislittlecontrast
+betweenthetwotissues.Comparethis to themuchbetterdegree
+of contrastevidentusinga longerTE.Insummarywe can say that
+thelengthof TE affects contrastasfollows:
+A longTE:maximisesT2contrast.
+A short TE:minimises T2 contrast.
+NowacomparisonmaybemadeoftheT1recoverycurvesforthe
+same two tissues（Figure 1.13) togetherwith an examination of
+theeffectsofusinga longandshortTR.Ifwechoosetowaita
+longtimebeforerepeating the90°pulse thenbothtissueswill
+pulseisapplieditwillproducemaximumtransversemagnetisation
+Copyrightedmaterial
+16
+T1relaxation
+Tissue'a'
+R
+Tissue'b'
+M
+Signal
+intensity
+A
+M
+Z
+Short
+A
+TR
+Figure1.13T1contrast ismoreobviousatshorterTR times.
+A
+M
+inboth tissues,therebygivinglittle orno contrastbetween them.
+ChoosingashorterTRon theotherhandmeansthattissuebhas
+S
+onlypartiallyrecoveredsothat,whenthe9o°RFpulseisrepeated
+onthisoccasion,tissueawillgive maximum transversemagneti-
+F
+sation while tissuebwill onlyproduce aportion of this,resulting
+O
+inacontrastbetweenthetwotissues.Again tosummarise:
+K
+A long TR:minimises T1 contrast.
+O
+A short TR:maximises T1 contrast.
+O
+The two relaxation processes,T1 and T2,although occurring
+B
+simultaneously,arecompletelyindependentofeachotherandso
+D
+thetwo canneverbeseparated.Bychoosingthecorrectcombina-
+Z
+tion of TE and TRas outlined above,however,the sequence can
+be optimisedin favour of thedesired contrast.The resultant
+A
+imagesaresaid tobeeitherT1orT2weightedandcommonly
+工
+expressedasT1WorT2w.
+Using the observations so far,the followingcombinations can
+beputtogether:
+A short TRmaximisesT1contrastwhilea short TEminimises
+T2.
+ShortTRand short TEgiveT1weighting(T1W).
+Copyrighted material
+AlongTRminimisesT1contrastwhilea longTEmaximises
+S
+T2.
+E
+LongTRand longTEgiveT2weighting(T2W).
+P
+A thirdcombination canbeused tominimise bothT1and T2
+effects.At first this may seem to berather a counter-productive
+C
+thing towant todobutremember that tissueswithdiffering
+Z
+amountsofhydrogen in their compositionwillproducedifferent
+amountsofsignal.Anycontrastin thisimageisdown toabsolute
+R
+P
+processes.Such animage is said tobeproton densityweighted
+(PDW).
+C
+A longTR minimises T1 contrastand a short TE minimises
+T2.
+S
+LongTR and shortTE give protondensityweighting(PDW).
+A
+B
+There is,ofcourse,a fourth combination available,thatofshort
+TRandlongTE.Thediscussionsthusfarwouldsuggestthatsuch
+acombinationwouldattempttooptimisebothT1andT2atthe
+same time.Experimentingwith such acombination will clearly
+show thatthisis nota desirable combination,resultinginimages
+ofverypoorqualitythatshownouseful information.
+Table1.1summarises theoptionsfor tissuecontrastweighting
+inspinechoimagingandgivessome typical TR and TEvaluesin
+milliseconds(ms).
+Table1.1
+Optionsfor tissuecontrastweightinginspin echoimaging,
+withsome typical TR and TEvalues in milliseconds(ms).
+TR
+TE
+Fat
+Water
+Short
+Short
+High signal
+Low signal
+T1W
+300-600ms
+10-20ms
+(bright)
+(dark)
+Long
+Long
+High signal
+High signal
+T2W
+>2000ms
+90-120ms
+(bright)
+(bright)
+PDW
+Long
+Short
+High signal
+High signal
+>2000ms
+15-25ms
+(bright)
+(bright)*
+*Water should appear brighton PDw images since it contains lots ofhydrogen
+butrequiresvery longTRvalues to allow full T1 relaxation.Atvalues around
+2000ms water may still appear dark.
+Copyrighted material
+18
+Pulsesequences
+R
+Contrastmechanismsalsovaryaccording to the typeofpulse
+M
+sequence that isused.A pulse sequence,as the name would
+suggest,describes the sequence and timingof RFpulsesand
+A
+illustrate the basic T1,T2 and PD contrast mechanisms,the
+M
+straightforwardSEsequencehasbeenused.Asdescribedearlier,
+thisusesa90°RFpulsefollowedbya180°RFpulsetoproduce
+一
+anecho.There are,however,other combinations or sequences
+Z
+whichcanbeusedeithertoproducealternativecontrastcharac
+A
+willbeexamined inmoredetail intherestofthischapter,butthe
+一
+basicprinciplesofSEimagecontrastareperhapsmostvaluable
+inunderstandingcontrastmechanisms.
+A
+M
+able,particularly on sophisticated modern systems,are many.
+Eachmanufactureris continually developingnewpulsesequences
+S
+F
+andimagequality.Totrytodescribeeachandeverypulse
+sequenceavailable isbeyondthe scopeofthisbookbuta few
+O
+oftheiruniquecontrastortheincreaseinspeedofimageacquisi-
+K
+tiontheyafford.
+O
+Inversionrecovery
+B
+Onesuchsequenceworthyofsomeconsideration atthisstage
+D
+is inversion recovery (IR) as it provides some unique types of
+Z
+contrastencountered in every dayuse.IRdiffersfrom SEin that
+it startswitha 180°RFinversionpulse(Figure 1.14)thenallows
+A
+aperiodofrelaxationorrecovery:thisperiodbeingknownasthe
+H
+inversion time (Tl).The Tl is then followed by a standard SE
+sequenceasdescribedabove.Originallyusedtoproduceheavily
+T1weightedimages,inversionrecoveryismoreoftenencountered
+nowadaysaseitherSTiR(shorttimeinversionrecovery)orFLAiR
+(fluid attenuated inversion recovery) sequences.By manipulating
+the Tl period(Figure 1.15),the SE partof the sequence can be
+started atapointwherethelongitudinalrecoverycurvepasses
+throughzero,the so-called nullpoint.Thismeansthatnomagne
+Copyrighted materia
+19
+S
+E
+P
+TE
+TR
+C
+Flgure1.14Inversionrecovery sequence.
+Z
+R
+Fat
+P
+C
+CSF
+S
+2000
+150
+TI(ms)
+A
+B
+Figure 1.15Basis of theSTIR sequence.
+tisationwill beflipped intothetransverseplanebythe9o°pulse
+SincedifferenttissueshavedifferentT1recoverytimes,wecan
+chooseaTi tomatch thenullpointofaparticular tissue.
+In STIR imaginga short TI isused (around 16Omsat 1.0T)
+which correspondsto the nullpoint of fat.Theresultantimages
+showno signalfrom fat,whichwouldnormallybebright oncon-
+ventional SEsequences.This isparticularly useful when trying to
+demonstratelesions inpartsofthebodysuchas theabdomen
+ororbitswhich contain lotsof fat.Eliminatingsignal fromfatwill
+inevitablylead toareduction insignal tonoiseratio(SNR)(more
+of this later) producing rather‘noisy'images but,since most
+pathology tends to be high in water content,lesions on STIR
+imagestend tostandoutagainstthedarkerfat-freebackground
+(Figure1.16).
+Copyrightedmaterial
+20
+R
+M
+L
+A
+M
+Z
+A
+L
+L
+A
+Figure 1.i6DorsalSTiR image through the pelvis showinga lesion
+M
+adjacenttotheiliacwing(arrow).Note thatnormal fattymarrowisren
+S
+side.
+F
+O
+FLAIR usesa much longerTI (2oooms)which coincides with
+thenullpointofwater so that FLAIR imagesshow lowsignal
+K
+intensityinareasof free fluid.Bound fluid,ontheotherhand,has
+O
+aquickerrelaxation timebecauseitis able toimpartenergyto
+themoleculestowhichitisbound.Consequentlyareasofoedema,
+O
+B
+areas of free fluid,such as CsF,will appear dark.This isa par-
+D
+ticularlyuseful sequence inimagingof thebrainwhereit demon-
+Z
+obscuredbyhighsignal fromCSF.
+A
+H
+Spinechoandscantime
+It should nowbe apparent that SEsequences,includinginversion
+pulses,commonlyasmanyas512timesor more.Given that a
+Copyrightedmaterial
+21
+T2WscansequencerequiresaTRofatleast20o0ms(2s),then
+S
+the scantime for this sequence wouldbe（512x2)secondsor
+E
+17 minutes! In short,conventional SE sequences(especially for
+T2W)areveryslow.Clearlytherewas a need to developsequences
+P
+thatcouldgiveadequatecontrastweightingbutgreatlyimprove
+一
+scan speed.
+C
+Beforelookingathowtheproblemsofscanspeedhavebeen
+Z
+addressed,itwould be helpful to understand justwhy so many
+repetitions arerequired.The answerlies inhow the MR signal is
+一
+spatially localised.
+R
+P
+C
+Spatial localisation
+S
+A
+producedandhow,bymanipulatingTRandTE,theimage contrast
+B
+canbeinfluenced.Inorder toconvertthesesignalsintoamean-
+ingfulimage,however,wealsoneedtoknowfrom wherein the
+patienttheyoriginate.Inotherwordstheyneedtobespatially
+localised.Once this isknown thevarious signal intensities can
+beconverted toshadesofgreytofillinthepictureelements,or
+pixels,and thepicturetheniscomplete.Asin otherkindsofdigital
+imagingthe pixels are thedots'which make up theimage.In
+MRI,however,theimagerepresents a slice of tissue within the
+signalintensitiesofa three-dimensionalpictureelementcalleda
+voxel(Figure 1.17).
+Thefirstrequirementistobeabletoselectanimagingslicein
+termsofitsorthogonalplaneand itsthickness.
+Apixel
+Avoxel
+2Dpicture element
+3Dpictureelement
+Figure 1.17Arearesolution is represented bypixels,spatial resolution
+by voxels.
+Copyrighted material
+29
+Slicelocation
+R
+Itshould be remembered from theLarmor equation thatreso-
+M
+nanceonlytakesplaceattheLarmorfrequencyandthisisdepen
+dentonmagneticfield strength.If,instead ofauniformmagnetic
+A
+end to theother,then thiswould bereferredto as applyinga
+M
+magneticfield gradient(Figure 1.18a).In thisexample,ifan RF
+Z
+A
+A
+a)
+M
+Applied gradient
+Single applied frequencyproducesa
+S
+slice with virtually no thickness
+frequency
+F
+O
+K
+O
+Applied frequency bandwidth
+O
+produces slice thickness
+B
+D
+Z
+A
+H
+Steeper gradient
+produces thinmner slice for same appliedbandwidth
+Figure 1.18Using applied gradients toselect slicelocationand
+thickness.
+Copyrighted material
+23
+pulse is applied at theresonantfrequencyforBo,protonswill only
+S
+resonateat thepoint alongthegradientwhereitisequal to Bo.
+E
+Boand so resonancewill notoccur.
+P
+Ifa single RF frequency is used the resultant slice which is
+excitedwillhavevirtuallyno thickness.Inorder togive the slice
+C
+thickness,itis necessary toexcitea range offrequencies(Figure
+Z
+1.18b).Thisrangeisreferred toastheexcitationbandwidth.The
+slice thicknesscanbe altered bychangingthebandwidthorthe
+R
+steepnessofthegradientas shown inFigure1.18c
+Inthis example a transverse section has been selected by
+P
+applyingthegradientalongthezaxis.Sagittalanddorsalorienta-
+tions canbe obtained by using the x and y gradients(Figure 1.19),
+C
+whilstobliquesectionsemployacombinationofaxes.Onceslice
+selection hasbeenperformed,somewayof determiningwhere
+S
+within theslice thevarioussignal intensitiesshouldbeplottedin
+A
+theimageisstillneeded.Theyrequire theequivalentofamap
+B
+reference.
+Frequencyencoding
+Inorder toconvertthevarioussignal intensitiesemanatingfrom
+the selected sliceof thepatient into a sensibleimage,it is essen-
+H
+Gz
+Gy
+The orientation of the slice depends on
+which gradient. Gx.Gy.or Gz is applied
+during application of the RF excitation pulse.
+Figure1.19
+Sliceorientation dependson thecombinationofapplied
+gradients.
+Copyrighted material
+24
+respondingpositionon theimage.The analogyof themap
+reference here isagood one.If each image element(pixel) is
+R
+M
+itcanbegivenapositionontheimagegridormatrix.
+In the previous sectionon slice location we have seen that
+protonscanbeeasilylocatedbygivingthemspecificfrequency
+L
+A
+encoding.In theexampleused todemonstrateslicelocationa
+M
+xandy,tobeencoded.Thiscan bedonealongoneaxisbyapply-
+Z
+gradientisappliedalongthexaxisjustbeforetheechoiscol-
+A
+dependenton theirpositionalong thexaxisgradient.Usingthis
+gradienttechniquethexdirectionoftheimagematrixcanbe
+A
+M
+toencodethesignal intheothermatrixdirection.Usingasecond
+gradientintheyaxiswouldseemthesimplesolutionbutthis
+S
+wouldresultinprotonsfromdifferentpartsoftheimagehaving
+the same frequency.
+F
+O
+Phase encoding
+K
+O
+Thesolutionistoapplyagradientverybrieflyaftertheslicehas
+O
+Thishas theeffectofchangingthe frequencyofprecessionbut
+B
+onlyforasplitsecondbeforereturningittotheoriginalstate.This
+D
+briefblip'has the effectofchangingtheangleofprecessionor
+phase.lf a different steepness ofgradient(usingnegative aswell
+Z
+A
+collected atanyonepoint duringeachTRwill bedifferent.Although
+H
+each will have the same frequency (because the position along
+eachTRwill beslightlyoutofphasewitheveryotherTR.Ineffect
+anumber ofphase-encodedrowshavebeen produced.Note
+however,thateachphaseencodingsteprequires anadditional
+TR so themorephaseencodingstepsacquired thelonger the
+final scan timewill be.This relationship between image matrix
+Copyrightedmaterial
+25
+andscantimewillbediscussed inmoredetail inChapter3but
+S
+at thispointitisworthnoting thatthemoreencodingsteps there
+E
+are in both thefrequency andphase directions,the more pixels
+therewillbein thefinal imageand henceresolutionwill improve
+P
+一
+C
+Fouriertransformation
+Z
+一
+Now thatsignalstrengthcanbemeasuredand thepositionof
+R
+signalsplotted ona matrix,all thatremains is to convert these
+P
+digital signal valuesintoshadesofgreyand animageisproduced.
+Thisconversionis achieved usinga complexmathematical process
+C
+called 2DFourier transform.Fourier transform takes thedigital
+S
+dataheldinKspace'(amathematicalmodelused torepresent
+the informationheld in the computer'smemoryand little to do
+A
+withreal space)andconvertsitintoanaccurategeometricalrep-
+B
+Therelationshipbetween thenumberofphase encoding steps,
+scantimeandimageresolutionshouldnowbebecomingclearer.
+Morephaseencodingstepsmeanmorepixelsandbetterresolu
+inpulsesequence technologyweretobringaboutvastlyimproved
+performance in termsof scan times.Thefirstof thesewasgradi-
+entecho(GE),followed someyearslater byfastspin echo(FSE).
+Gradientecho
+Although today'sgradient echopulse sequences aremany and
+variedandoftenverycomplex,thebasicprinciplewasverystraight
+forward.Insteadofallowingnatureto takeitscourseandwaiting
+forthem torephasegeneratinganecho,gradientechointervened
+Copyrighted materia
+26
+R
+RF
+M
+Gradient
+A
+M
+Z
+Phase shift
+A
+FID
+Cch
+Signal
+A
+M
+Figure 1.2oDiagramaticrepresentation of the gradient echo pulse
+S
+sequence.
+F
+tospeed up thewholeprocess.The description of spatial encod-
+O
+inghasshownthattheapplicationofafieldgradientwillmake
+protonsprecess atdifferentspeeds.Thisvariation inprecessional
+K
+speed will,in turn,lead to dephasing of protons.The gradient
+O
+echo sequence initsmostbasic formsimplyappliesagradient
+O
+toforciblydephasespins thenreverses thegradienttoproduce
+anecho(Figure 1.20).Theresult isadramaticreduction inscan
+B
+time.In the absenceof the 180°RFrefocusingpulsefound in SE
+D
+sequences,however,thereisnolongeranycompensationforfield
+inhomogeneities.In fact field inhomogeneities(in the formof
+Z
+gradients)aredeliberatelyused aspartof thepulse sequence.
+A
+As a result,gradient echo sequences are said to produce T2*
+H
+(pronounced T2star)weighted imagesrather than true T2w.
+Fast spin echo
+ThedevelopmentofFSEsequenceswasamajorbreakthrough in
+MRimaging.Alsoreferred tobysomemanufacturers asturbospin
+Copyrighted material
+S
+E
+RF
+P
+Signal
+C
+Z
+TE
+R
+TR
+P
+Figure1.21
+Diagramatic representationof thespin echopulse
+sequence.
+C
+S
+180
+A
+06
+B
+RF
+Signal
+2000-3000
+2
+Time(ms)
+TE
+TE
+TE
+TE
+TE
+TR
+EffectiveTE
+Figure1.22Diagramaticrepresentationof the turbo spinecho pulse
+sequence.
+echo (TSE),fast spinecho(FSE)offered a considerable reduction
+inscan timeswhilstproducingimagecontrastthatwasveryclose
+totrueT2w.
+In conventional SEsequences(Figure 1.21).onephase encod
+ingisproduced duringeachTRperiod.FSEachievesfasterscan
+times byacquiringmultiplephaseencoding stepsper TR.Figure
+1.22showsfivephaseencodingsbeingacquired inasingleTR
+period.In thisexample,scan speedwill increase bya factorof
+fivesincefivephaseencodingstepsarebeingcarriedoutforevery
+Copyrightedmaterial
+28
+oneina conventional SEsequence.Thisnumberisreferred toas
+theecho trainlength(ETL);alsoreferred toby some manufactur-
+R
+ersastheturbo factor.InpracticeanETLof2Oormoreiscom
+M
+monlyused forT2wFSEsequencesgivingamassiveboostin
+sequencesencountered incurrentroutineclinicalpracticewill be
+A
+FSE.
+M
+Z
+A
+A
+M
+S
+L
+O
+K
+O
+O
+B
+IAND
+Copyrightedmaterial
+2
+MRSystemHardware
+Magnets
+29
+Shielding
+32
+Shimming
+33
+Gradients
+33
+Radiofrequency system
+34
+Faradaycage
+35
+36
+Imageprocessingandarchiving
+Asseenin thepreviouschapter,thereareseveralstepsinvolved
+ingettingfroma spinningprotontoameaningful MRimage,requir-
+ingawholerangeofelaboratehardwarealongtheway.This
+chapterwillconsider themain componentsoftheMRsystem,
+whattheydoandhowtheyinfluencetheendproduct.Aswellas
+helpingtounderstandthewholeprocess,thischaptershould help
+circumstances.
+Magnets
+Probablythemostobviouscomponentisamagnetsince thisis
+attheheartof anyMRsystem,largeorsmall.There aremany
+tional compasses,fridgedoormagnets,etc.
+29
+Copyrighted material
+30
+and Tesla(T):10000G=1T.To put these measurements into
+R
+some sortofperspective,the earth'smagneticfield is about5G,
+M
+dependingwhere on the earth's surface itismeasured.A scrap-
+InMRIsystemsthemaintypesonofferarepermanent,resistive
+A
+and superconductingmagnets.In veterinarypractice it is most
+M
+be installed in thesystem.Theresistive type isessentiallyan
+electromagnetlikethescrapyardvariety.Ithastheadvantagethat
+Z
+itcanbeeasilyturnedoffwhennotinusebutithasfallenfrom
+A
+favourbecauseofitsneedforelectricitytomaintainthefield.This
+makes such systems expensive torun.
+一
+A
+Permanentmagnets
+M
+Permanent magnets,as the name would suggest,are madeof a
+S
+permanentlymagneticmaterial suchasironorceramic.Thefield
+F
+ofthe core.Consequently,permanentmagnet systemsoperate
+O
+at lowfield strength,typically around 0.25T(Figure2.1).Usinga
+K
+O
+B
+D
+Z
+A
+工
+Figure2.1Low field(O.18T)MRl system-Esaote.
+Copyrighted material
+31
+permanentmagnetmakeslowfieldsystemsrelativelyinexpensive
+E
+R
+A
+MRscannersbringswith it limitationsin terms ofimagequality,
+W
+whilstthesmallersizecanplacerestrictionson thesizeofanimal
+D
+R
+and produce good results when scanningdogs and cats.Their
+size,costandservicingrequirementsadd totheirattractiveness
+A
+forlargereferralpracticeswithcompetentstaff.
+工
+M
+Superconductingmagnets
+E
+T
+kind.Theirmagneticfield isproduced bypassinga currentthrough
+S
+conductingwire loops made ofa titaniumalloy.These windings
+Y
+S
+R
+resistanceto currentflow.Consequently,once the field hasbeen
+M
+builtupgraduallytotherequiredlevel,thepowersupplycanbe
+inveterinaryMRIislikelytohaveitsfieldalwayson,evenwhen
+notin use and therestof the system is turnedoff.
+Because thereisno heavycoreinvolved,superconducting
+magnetscanachieveveryhighfieldstrengths:1-1.5T（Figure2.2)
+is usualforbothhuman andveterinaryuse and inthehumanfield
+researchmachinesofupto7.oTarecapableofwholebody
+imaging.
+Needless to say,machines ofthis size are much more expen-
+addtoinitialinstallationcostsevenforvisitsbyamobileunit.
+Maintenancecosts,includingtheneed to topuptheliquid helium
+regularly,are high and,aswith anycomplexequipment,break
+downsarenotuncommon.
+Copyrighted materia
+32
+R
+M
+L
+A
+M
+Z
+A
+Figure2.2High field(1.0T) MRI system-PhilipsMedical Systems
+A
+M
+Shielding
+S
+Atthesehighfield strengthsitiscrucialtolimittheexternalor
+F
+fringefieldasthiscontributesnothingtoimageformationand
+O
+ispotentiallyhazardous since fields inexcessof5Gcancause
+cardiacpacemakerstomalfunction.If thefringefieldgreaterthan
+K
+5Gcanbecontainedwithin thescanroomitself,thenpacemaker
+O
+wearers caneasily be excluded.Fringe fields canalso interfere
+with anything thatuses magnetism,such as credit cards,com-
+O
+puter screensand othersensitiveequipment.It should benoted
+B
+howeverthatthemagnet'sabilitytoattractferromagneticobjects
+D
+（the*missile'effect） is not overcome by sheilding.Potential mis-
+Z
+sileswillnotbeattractedfromsuchdistancesastheymayhave
+beenbythefringefieldbuttheywillbeattacted by themain
+A
+fieldwith greateraccelerationsince thedistancebetween5G
+工
+and 1.5T(forexample)isnow shorter.Inotherwords the gradi-
+entissteeper.
+Passiveshieldinginvolvesplacingaphysical ironshieldaround
+themagnettolimit thefringe field.Thisisa simple,fairlyeffective
+methodbutaddsconsiderablytotheweightofthescanner.
+Anotherveryeffectivewayofsubstantiallyreducingfringefieldsis
+touse active shielding.This involves adding a second setof
+Copyrighted material
+33
+superconductingcoilsoutsidetheprimaryonebutwound in the
+E
+oppositedirection.
+R
+A
+W
+Shimming
+D
+R
+FortheMRprocesstoworkatallrequiresanabsolutelyuniform
+(homogeneous) magnetic field.To achieve this,a series of up to
+A
+30additional wirecoilssited justinside the mainmagnetbore
+工
+areused.Passing currents through these additional shim coils
+allowsthefieldtobetweaked'tomakeitashomogeneousas
+M
+possible.Furtheractiveshimmingcanalsobecarriedout(usually
+E
+T
+mogeneitiesintroducedbythepatient.
+S
+Y
+S
+Gradients
+R
+Thelastchapterdemonstrated the importantrolegradientsplay
+M
+inencodingtheimageandcontrolling thevariousstepsofeach
+pulsesequence.Threesetsofgradientcoils(inpracticeapair of
+gradientcoilsisneeded toproducea linearmagneticfieldgradi-
+ent)x,yand z are employed.These threegradient orientations
+tal,transverseanddorsalofthepatient.
+are two importantpropertiesto consider.The peakamplitude,
+measured inmilliTeslapermetre（mT/m),indicatesthemaximum
+steepnessofgradientachievable.Steepgradients(25-30mT/m)
+are important, particularly when scanning small animals,in
+achieving thinslices,small field ofviewetc.Equallyimportant
+is the timetaken forgradient coils toreach theirpeakampli-
+tude.This is the,so called,rise time or slew rate and is
+imagingtechniquesbutthisislessofaconcerninveterinary
+imagingwhere thepatients are anaesthetised.Itcould,however,
+Copyrightedmaterial
+34
+beaconsiderationinabdominalexaminationswherethereis
+aneed toreducephysiologicalmotionartefact.
+R
+M
+Radiofrequencysystem
+L
+A
+Theexcitationradiofrequency(RF)pulse is transmitted(with only
+M
+oneor twoexceptions)by thebodycoil which is housed,along
+withthegradientcoils,insidethescanneritself.Consequentlythe
+Z
+operatorhasnodirectinfluenceoverthe transmittedRFpulse.
+A
+Thesameisnottrue,however,aboutthereceivercoilsused to
+detectsignal comingfrom thepatient:theecho.
+ThechoiceofreceivercoilcanhaveadramaticeffectonSNR.
+Atfirst thismayappearalittleoddsince theamountofsignal
+A
+availableisdetermined bythepatient:volumeoftissue,proton
+M
+densityand tissue relaxationconstants T1andT2.Itfollows,
+therefore,thatthechoiceofcoil cannotinfluence the amountof
+S
+signaldetected.Figure 2.3,however,shows that the choice of
+coilcandramaticallyreducetheamountofnoisecollected,thereby
+F
+increasing SNR.Generally speaking,the receiver coil chosen
+O
+should be the smallestavailable,consistentwithincludingthe
+anatomy tobeexamined.Itisalsoworthnoting thatwhen using
+K
+surface coils,i.e.coilswhich do not completely surround the
+O
+O
+B
+Noisc
+D
+Z
+A
+Signal
+工
+Headcoil
+Bodycoil
+Figure 2.3How reciever coilselection affects signal to noise ratio
+(SNR).Both coilscollect the same amountofsignal but the head coil
+collectsless noise,makingitsSNRmuchbetter.
+35
+E
+R
+A
+W
+D
+R
+A
+H
+M
+E
+T
+Figure2.4Dogpositioned forspinal imaging
+S
+Y
+patient,signal intensityfalls away withdistancefrom thecoil so
+S
+thatitisimportanttohave theregionbeingexaminedcloseto
+the coil.Usinga spinal phased array coil,for example,animals
+R
+arebestscanned indorsal recumbencyso thatthespinalcolumn
+M
+is as close to the receiver coilas possible（Figure 2.4).
+Faraday cage
+TheMRI process isheavily dependanton theuseof RF.The RF
+used isatfrequencies inline with thoseemployed ineveryday
+use for various radio transmissions.Consequently the scanner
+mustbehoused inaroomwhichprotects itfromexternal RF
+transmissions.This is achieved by shielding the room usinga
+‘Faraday cage’which,provided the door is firmly closed,will
+preventRFwaves from entering the scanningroom and being
+detected by the receiver coils,thereby creating artefact （see
+from finemetallicmeshorfoilwhichencompassestheentirescan
+ingincomingradiowaves.
+Copyrightedmaterial
+36
+R
+M
+>
+A
+M
+Z
+A
+一
+A
+M
+S
+F
+Figure2.5Useofawaveguideallowsanaestheticequipment tobe
+O
+positionedoutsidethescanroom
+K
+O
+Accessto theroomforanaesthetictubingandmonitoringcables
+isprovided via a special portcalled a‘wave guide'（Figure 2.5).
+O
+Thisallowstubingandcablestobepassed throughthescanroom
+B
+wallwithoutallowingradiowavestopass,thusmaintainingthe
+D
+integrityoftheFaradaycage.
+Z
+A
+Imageprocessingandarchiving
+H
+Thefinal linkin thehardwarechainisthecomputingandarchiving
+elements.As with most computing tasks,big is best.At the
+endofeachscansequence,alargeamountofdataispresented
+forreconstruction intorecognisableimages.Ifthesystem'scom
+puterislackinginprocessingpowerirritatingdelayscanoccur
+Copyrighted material
+37
+whilstimages are reconstructed ready forviewing.Finally,once
+E
+images havebeen created,some formof long-term storageor
+R
+archiving is required.Manysystemsusemagneto-optical discs
+A
+(MoDs)butitisbecomingincreasinglycommonfornewersystems
+touseCDsor evenDvDsasacheapandeasymeansof
+W
+storing images.
+D
+R
+A
+H
+M
+E
+T
+S
+Y
+S
+R
+M
+Copyrightedmaterial
+Copyrighted materia
+3
+ImagingParameters
+Signalandnoise
+40
+Contrast
+45
+Artefacts
+46
+TheobjectivewhencarryingoutMRl,oranyotherimagingproce
+areasonableexamination time.Thischapterwillexplorewhat
+constitutesagoodimageandhowthevariousscanmeasurement
+parameterscanbemanipulated toachieve thisobjective.Inaddi-
+tion,considerationwillbegiven to theimpactvariousparameters
+haveoneachotherandon imageacquisitiontime.
+Threemainelementscome togethertoforma'good'image,
+they aresignal,resolution andcontrast.Imagequality can also
+be degraded by the presence ofartefacts.Unfortunately,when
+selectingimagingparameters,wecanneveroptimiseallof these
+constituentparts at thesametime.Invariably,improvingone
+'trade-off'.Furthermore,itisapparentfromChapter1thatmany
+oftheparametersavailablehaveanimpactonscantime.Itisup
+tothe competentpractitioner todecidewhichelement(s)are
+importantforaparticularsequenceorexaminationandselect
+parametersaccordingly tooptimiseaparticularelementorele-
+mentsofimagequalityinanacceptable timeframe.Forexample,
+inabdominalimagingminimisingartefactsfromphysiological
+highresolution.
+39
+Copyrightedmaterial
+40
+Signalandnoise
+R
+M
+Signal-arisesfrom protons thatwereexcited intentionally.
+Noise-comesfromhydrogenprotons andotherMRactive
+L
+A
+bytheMRsystem.
+M
+Clearly,signal isa desirable qualityin thefinal imagewhilst
+Z
+noise is not.The objectives when selecting scan parameters,
+therefore,should be tomaximise signaland/or to minimise
+A
+noise.Best images are produced when the level of signal is
+highrelative tothe level ofnoise.Thisrelationshipis quantified
+asthe signaltonoiseratioorSNRand is calculated bydividing
+averagesignal by thestandard deviationofnoise.
+A
+The amount ofsignalproducedisdependent ontissue
+M
+parameters,measurementparameters and system parameters.
+S
+Tissue parameters (protondensity.T1and T2relaxation con-
+stants)arepatientdependentand the operatorhas no control
+F
+over these,but it should be remembered that larger animals
+O
+produce more signal than smaller ones (they contain more
+protons).Likewise,since fat is high signal on T1W,T2W and
+K
+PDW images,fatter animals will give more signal than lean
+O
+orundernourished ones.Experience has also shown that some
+patients,for whatever reason,appear to resonate better than
+O
+others.
+B
+D
+Measurementparameters
+Z
+A
+These arethefactorsover whichthe operatorhascontrol.
+工
+They are:
+pulse parameters-TR,TE,Tl,flip angle;
+。
+sliceparameters-slice thickness and slicegap;
+。
+matrix size;
+signal averages;
+bandwidth(or more accurately,receive bandwidth).
+O
+Copyrighted material
+41
+Eachofthesefactorsaffectsthesignalgeneratedby theMR
+S
+system.
+R
+E
+Repetitiontime
+T
+From theChapter1itwillberemembered thatifa TRislong
+E
+M
+the next9o°pulsewillproduce maximum transverse magnetisa-
+tion.If the TRis short,incompleterelaxation will have taken place
+A
+andonlya correspondingproportionoftransversemagnetisation
+R
+willbe produced by the next RF pulse.Therefore,it follows that
+A
+signal increases with increasing TR (Figure 3.1).
+P
+G
+Z
+Tissue'a'
+Tissue'b'
+C
+Signal
+A
+intensity!
+M
+iLong.
+iShort.
+TR:
+Figure 3.1Theeffectof TR on longitudinal magnetisation.How much
+magnetisation isflipped into the transverseplane isdependentonhow
+much recovered in the longitudinal plane.This increases with TR.
+Copyrightedmaterial
+42
+Echo time
+Similarly,the longer wewait to collect an echo,the more dephas-
+R
+ingofmagneticmomentshas takenplacein the transverseplane.
+M
+Transverse(T2)relaxation leads toa decreaseinsignal.Sosignal
+decreaseswith longer TE(Figure3.2).
+A
+Flip angle
+M
+Ingradientechosequencesflipanglewilldetermine theamount
+Z
+signal.Smallerflip angles suchas thoserequired forT2*weight-
+A
+ing(15-25°)will have a smaller transverse component and,
+therefore,less signal.(Figure 3.3).
+T2relaxation
+A
+M
+Signal
+intensity!
+S
+F
+O
+K
+Noise
+O
+Short
+Long
+TE
+O
+Figure3.2
+2TherelationshipbetweenTEandT2relaxation.
+B
+D
+Z
+A
+工
+250
+900
+Figure3.3Smallerflip anglesresult in less transversemagnetisation.
+Copyrightedmaterial
+43
+Matrixand fieldofview
+S
+Thenumberofphase and frequencyencodingsteps chosen deter-
+R
+mines the image matrix size.The field ofview（Fov) determines
+E
+howmuchanatomyisincludedintheimage.Dividing Fovby
+T
+matrixwillgivethepixelsize,e.g.a25cmF0Vwitha256x256
+E
+matrixwillgive pixels of(approximately)1mmx1mm.Since pixels
+M
+aretheelementsthatmakeuptheimage,theirsizewilldetermine
+A
+the area resolution ofthe image,hence,the smaller the pixels
+thebettertheresolution.Pixel sizecanbedecreased byincreas-
+R
+ingthenumberofencodingstepsorbydecreasingtheFov,orby
+A
+usinga combination of both.Unfortunately,however,thepixel size
+P
+also determineshowmuchtissue and,in turn,howmanyprotons
+eachpixel represents.Since itis hydrogen thatproduces signal,
+C
+itfollowsthatindecreasingpixelsizewenotonlyimproveresolu-
+Z
+tion but we decrease SNR since fewer hydrogen spins are
+一
+included in each pixel (Figure 3.4).
+G
+Slice thickness
+A
+M
+AlthoughMRimagesaretwodimensional,theyrepresenta three-
+dimensionalvolumeoftissue.Thisthirddimensionisdetermined
+by the slice thickness.The three-dimensional pictureelement is
+(a)
+(b)
+Figure 3.4 A summary of the relationship between matrix size,area
+resolution,SNR and scan time.Each matrix has the same FoV but (b)
+has twice as many encodingsteps.(a) has poorerresolution but better
+SNR;(b)hasbetterresolution butpoorer SNR;(b) takes twice aslongto
+acquire as (a).
+Copyrighted material
+44
+described as a voxel,the volume of which is given as pixel
+areaxslicethickness.Againthevoxelvolumewilldeterminethe
+R
+numberofhydrogen spins contributingsignal so that,for a given
+M
+arearesolution,as slice thickness increases so too does SNR.
+(remember this is dependent upon pixel size),does determine
+A
+spatial resolution since this takes intoaccount theability to
+M
+structurewithinarelativelythickslicewillbeaveragedoutat
+imagereconstructionand willeffectivelydisappear.(See Chapter
+Z
+4formore about thisphenomenon.)
+A
+Signalaverages
+一
+Referred to by manufacturers as‘number of excitations(NEx)
+[IGE],'numberofacquisitions'[Siemens],'numberofsignal aver-
+A
+ages (NSA)'[Philips],this represents the number of times each
+M
+phase encoding stepis sampled.Doing this more than once
+S
+increases SNR,not by increasing the amount of signal received
+butbyreducingtheamountofnoisesampledsincethenoise
+F
+element is randomand can therefore be averagedout.This
+O
+improvementinSNR isproportional to thesquarerootof the
+number ofsamples as shown inFigure3.5.
+Performingtwosignal averagesinsteadofonewhilstincreasing
+K
+SNRby4o%will,ofcourse,taketwiceaslong.Remember:
+O
+scan time=TRxphaseencodingstepsxNSA
+O
+B
+2.8
+D
+Z
+A
+1.4
+SNR
+工
+Acquisitions
+Figure3.5TherelationshipbetweenNSAand signal tonoiseratio.
+Copyrighted material
+45
+Receivebandwidth
+S
+Thisrefers to therangeofradiofrequenciessampled atreadout.
+R
+SamplingasmallerrangewillimproveSNRsince lessnoise,which
+E
+occurs atall frequencies,will be collected.Selecting a narrow
+T
+bandwidth,however,increaseschemical shiftartefact(seeChapter
+E
+4)andtakeslongertosamplesomayhaveanimpact,indirectly
+M
+onscan time.
+A
+R
+Deviceparameters
+A
+P
+to-daybasis isthechoiceofreceivercoil.Thiscandramatically
+G
+improveSNRasdescribedin Chapter2.
+Z
+Itshouldberememberedthattheamountofsignalavailableis
+一
+G
+inFigure 2.3,usinga smaller coilreduces the amountofnoise
+A
+collected,therebyincreasingSNR.
+M
+Contrast
+Contrast is the mechanism in imagequality,which allows differ-
+entiationofthevarioustissuesaccordingto theirsignal intensi-
+ties.This differentiationbecomesapparent in theimageas
+differentshadesofgreyanditisthesuperiorsofttissuedifferen-
+tiationofMRl thatsetsitapartfromotherimaging techniques.
+briefly,is dependent on the choice of pulse sequence,imaging
+parameters and theuse(or otherwise)ofcontrast agents.From
+earlier discussions in this chapter,it can be seen that choosing
+alongTRandashortTEwouldbothbeoptionstogivethe
+maximum amount of signal.However,the discussion on image
+weightingindicatesthatthiscombinationwillmaketheresultant
+imageprotondensityweighted,givingpoorercontrastthanT1or
+T2weighting:yet another trade-off.
+Copyrighted material
+46
+Artefacts
+R
+An artefactisasignal intensityintheimagewhichdoesnotcor-
+M
+respondeitherphysicallyorinspatial distributiontotissuesinthe
+imagingslice.Thecausesofvariousartefacts,alongwithvarious
+strategiesforartefactreduction,are covered extensivelyinChapter
+A
+4but the major causes are:
+M
+physiological motion -respiration,flow,peristalsis,patient
+Z
+movementetc.;
+A
+chemical shift;
+system induced.
+A
+M
+S
+F
+O
+K
+O
+O
+B
+D
+Z
+A
+工
+Copyrighted material
+ImageArtefacts:
+Recognition and
+Reduction
+Movement artefact
+48
+Phase wrap or aliasing
+52
+Frequencywrap
+55
+Chemical shift
+55
+57
+Chemical misregistration
+Susceptibility artefact
+58
+System-induced artefacts
+60
+61
+Partialvolumeaveraging
+InChapter3,anartefactwasdefinedasasignalintensityinthe
+imagewhich doesnot correspond,eitherphysicallyorinspatial
+distribution,to tissues in the imaging slice.In other words the
+dentallyorhasbeendisplayedinthewrongplace.Improvements
+lemswithpatientmovementarestillverymuchthemostcommon
+causeofimage artefacts.Evenanaesthetised animalspresent
+problems;physiological motion arisingfromrespiration,blood
+flow,heartbeat,peristalsisetc.canall lead to misregistration of
+signal inthe final image.Thischapterlooks at thecommon
+torstakestepstodealwiththem.
+47
+Copyrighted material
+48
+Movementartefact
+R
+M
+Descriptionsofspatialencoding,inChapter1,showed thatencod
+inginthephasedirectioninvolvesrepeated applicationsofvarying
+phaseencodinggradients throughoutthe scan acquisition.Appli-
+A
+occursmomentarilyas thesignalorecho isread.Itfollows then
+M
+direction due to themovementofprotonsbetween the applica-
+Z
+tionsofeachphaseencodinggradientand thatof thereadout
+A
+gradient.
+Figure4.1showsadiagrammaticrepresentationofflowing
+blood passing through theimaging slice.Protons arriving in the
+imagingslicefromoutside thevolumeofexcitationwillnothave
+A
+or'signal void'butprotonsarrivingfroman adjacentimagingslice
+M
+willhavebeen excitedbutwill have the wrongphase fortheir
+S
+particular geographical location and will,consequently,be dis-
+played inthewrongplaceintheimage(Figure4.2).Suchartefacts
+F
+willalwaysbepropagated in thephaseencodingdirection,soan
+O
+easywayofdealingwith themistoswapphaseandfrequency
+K
+Slice 1
+Slice2
+O
+Static
+O
+90°RFpulse
+B
+Flow
+D
+Z
+time delay
+A
+H
+Flow
+TE
+Static
+Figure4.1Asprotonsmoveduring theTEperiod they showinappropri-
+atephaseatthe timeofreadout.
+Copyrighted material
+49
+S
+人
+C
+A
+F
+E
+T
+R
+A
+E
+C
+A
+M
+Figure4.2Flowingblood in theabdominalaortaismisregisteredinthe
+image (arrowheads).
+directions.Whilst thiswill noteliminate the artefact,itwill make
+tionoveressential structures can be avoided.Agood example
+occursintransverseimagingofthespinewhereartefactfrom
+ifphase runs inthe dorsal to ventral direction but,harmlessly
+acrosstheabdomenifthephase encodingdirectionisswitched
+toleft-right.
+Anotherwaytheoperatorcanminimisemovementartefactis
+toincrease thenumberofsignalaverages(NSA).Sincemovement
+tends toberandomandsignal reproducible,themoreeachphase
+encodingstepis averaged,thelowerwill betheimpactofmove
+mentartefact.Thedownsideofthisremedyis thatincreasingNSA
+will also increase scan time.
+Otheravailablemethodsofreducingmotionartefactarepro-
+Copyrighted material
+50
+inuse.Somelowfieldsystemsbeingmarketedforveterinaryuse
+are,infact,designedforimaginghumanextremities(knee,wrist,
+R
+ankle etc.) where motion is hardly an issue.Consequently such
+M
+systems currentlyofferno facilitiesformotion artefactreduction.
+More sophisticated,high field systems,however,tackle motion
+artefact in oneor moreof threemethods:compensation,gating
+L
+A
+orpresaturation.
+M
+Compensation
+Z
+A
+Movementcompensation techniquesaremanyand theirexact
+thereaderisadvisedtoconsulttheirmanufacturer'sdocumenta-
+tionforprecisedetails.Inbroadterms,however,respiratorycom
+A
+pensationwill involvetheuseofsomesortofbellowsdeviceto
+M
+record thepattern ofrespiration.The scanner will then use this
+informationtoreorderphase encodingstepsso thatthemove-
+S
+mentbetweeneachrelative to therespirationcurveisminimal,
+thusreducingphasemismapping.Alternatively some systemswill
+F
+deliberatelymaximizemismappingso thatartefacts areprojected
+O
+Othermethods offlowcompensation usegradientcoilsin an
+K
+attempt tocorrect phase shift in movingprotons.This canbe
+O
+effectiveinslowflow suchas thatencountered incerebrospinal
+fluidandvenousblood.Again theexactmechanismwillvarywith
+O
+equipmentmanufacturer.
+B
+D
+Gating
+Z
+A
+Aparticularlyeffectivewayofeliminatingmotionartefactisto
+H
+use some form ofphysiologicalgatingor triggering.In the case
+ofrespiration movement,the same bellows device mentioned
+earlieris used to record the animal's respirationcurve.At the
+pointofexpirationtheMRsystemistriggered tocollectaphase
+encodingstepforeachslicebeingobtained.Thesystemwill then
+stopandwaitforthenextexpirationtotriggeranotherdata
+acquisition.Consequentlydataareobtainedduringexpiration
+Copyrighted material
+51
+S
+T
+C
+A
+F
+E
+T
+R
+A
+E
+C
+A
+M
+Figure4.3T2weighted transverse imageacquiredusingrespiratory
+gating.
+whilstleastmovementistakingplace.Thisworks particularly
+wellindogswheremostanimalsshowaperiodoflongstable
+expirationpunctuatedby short,steep intakesofbreath.Thetech-
+niquefallsshortsomewhatwhenthepatientispantingorbreath-
+ing erratically.
+Itshouldbenoted thatrepetition time（TR)isnowbeingdeter-
+mined by thepatient'srespirationrate andwill,inevitably,belong
+Respiratory triggering,therefore,ismost suited to T2 weighted
+4.4),obtainedwithoutusingrespiratorygating,showssignificant
+motion artefact from the chestwall.Attempting to obtain T1
+weighted imagesusingrespiratorygatingwillinvariablyresultin
+PDweightingbecauseof theincreasedTR.
+Presaturation
+outsideorwithin theimagingfield ofview(butnot,of course,over
+Copyrighted material
+52
+R
+M
+一
+A
+M
+Z
+A
+一
+A
+M
+theconsiderableartefactdue torespiratorymotion.
+S
+F
+theregion ofinterest),justbefore the 9o°excitation pulseis
+applied. Such tissue will,consequently,receive a total 180°RF
+O
+excitationand will,therefore,havenotransversecomponent.The
+resultisthatthistissuewillproduceasignalvoidintheimage.
+K
+Ifthe tissue selectedwas subject tomovement;flowingblood,
+O
+abdominal wall movement,etc.then a signal void is produced
+O
+ratherthanartefact.
+Multiple presaturation pulses can be used in combination,for
+B
+example cranialand caudaltoastackoftransverse slicesto
+D
+saturateflowingprotons in arterial and venousblood.These are
+Z
+RF pulses,however and,as such,will increase the RF heating
+effectand canincreasescan time.Inlightofthisthey shouldonly
+A
+beused appropriately.
+H
+Phasewraporaliasing
+isphasewrap,sometimes alsoreferred toasaliasingorwrap
+Copyrighted material
+53
+around.Tounderstandwhythisoccursitshould beborneinmind
+S
+that,in MRl,there are advantages in usinga rectangularfield of
+T
+C
+A
+theanatomicalareabeingexaminedwillfitintoarectangular
+F
+imagesuchasthesagittalspine.
+E
+Problemsoccur,however,when the anatomybeingexamined
+T
+R
+A
+thepartsleftoutsidewill stillproducesignal.In orderto properly
+map phase signals,the whole phase cycle (0-360°)must be
+E
+sampledwithinagivenfieldofview.Whereanatomyexistsoutside
+G
+this range ofsamples,duplicationofphase positionswill occur
+A
+sinceitisnotpossibletogobeyond36o°withoutarrivingback
+atO.lnpractice thismeans that two areasof anatomywill be
+M
+dangerthatalesioncouldbeobscuredoralesionfalselyinter-
+pretedwherenoneexists.
+IncreasingFoVsothatitencompasses all oftheanatomywill,
+Figure4.5T2*Wtransverse imageof the shouldershowinggross arte-
+factcausedbywrappingroundofanatomynotincludedinthefieldofview.
+Copyrightedmaterial
+54
+R
+M
+A
+M
+Z
+A
+L
+Flgure4.6The shoulderimage showninFigure 4.5 thistimeusing
+A
+foldover suppression'to eliminate artefact.
+M
+Table4.1Foldover suppression:the actionsinvolved and the
+S
+consequentialeffectson imagequalityandscan time.
+F
+Consequence
+Action
+O
+FOV is doubled
+Anatomyis included
+Resolutiondecreases
+SNR increases
+K
+Phase encodingstepsdoubled
+Resolution increases;returns to original
+O
+Scan time doubles
+NSAhalved
+SNR decreases;returnstooriginal
+O
+Scan time halves;returns to original
+B
+D
+ingthenumberofphase encoding steps but this,in turn,leads
+Z
+to an increase in scan time.However,because the increased
+number of phase encoding steps alsoresults inanincreased
+A
+SNR,the numberof signal averages can bereduced to reduce
+工
+scan time.If thisall sounds very complicated,the good news is
+thatmostmanufacturersenableall thesechangesautomatically
+byselectinga singleoption.GEcalls this‘nophasewrap'whilst
+thePhillips term isfoldoversuppression'.Table4.1summarises
+thevariousactions thathappenwhenthis imagingoption is
+selected and theconsequenceofeachsteponimagequality.
+Thiscombinationofchangeseliminatesaliasingartefact(Figure
+4.6)withnoapparentcompromiseofimagequality.Inpractice
+Copyrighted material
+55
+theremaybesomedetrimentduetomovementsince thereduced
+S
+T
+movement.
+C
+A
+F
+Frequencywrap
+E
+T
+Undersamplingin the frequencydirection can,theoretically,lead
+R
+toa similarwrappingroundof the image in thisdirection.Most
+A
+modernMRIsystemsare sorobustintheirdesignthattheydo
+E
+encounterthisphenomenon.
+C
+A
+M
+Chemical shift
+Hydrogenexistswithin thebodyeitherin combinationwithoxygen,
+as water,orwithcarbon,asfat.In these combinations hydrogen
+binding effects.The precessional frequency of fat is slightly lower
+than that ofwater.Itis thisvariation inprecessional frequency
+Sincethevariationinprecessionalfrequencyisproportional to
+main magnetic field strength(Bo),the chemical shiftartefact
+becomesmorepronounced inhighfield systems.At1.oT fatand
+waterprecess147Hzapartwhilstat1.5Tthedifferenceis220Hz.
+In lowfieldpermanentmagnetsystemsofO.2Torless thediffer-
+enceisvirtuallyinsignificant.
+Thefrequencyencodinggradientwillestablisharangeoffre-
+quencies across the Fov,and the readout process needs to
+samplenotjustasinglefrequencybutthisrangeorbandwidthof
+frequencies.This isreferred toasthereceive bandwidth.Dividing
+thereceivebandwidthbythenumberoffrequencyencodingsteps
+willgive therangeof frequenciesrepresented in eachpixel.For
+example,givena256matrixwithareceivebandwidthof25KHz,
+prcessional frequencyrange ofapproximately 100Hz.At1.5T
+Copyrighted material
+56
+R
+M
+A
+M
+Z
+A
+A
+M
+S
+Flgure 4.7Chemicalshiftartefactischaracterised byblackandwhite
+lines(arrowed)attissue interfaces.
+O
+K
+O
+adjacent fatand water molecules in the patient(which have a
+frequencydifferenceof220Hz)willbedisplayed twopixelsapart.
+O
+IftheFovis25cmthiswillrepresentadifferencein theimage
+B
+ofroughly2mm(25cm÷256).Theresultantimageshowsa2mm
+D
+lineeachside（blackoneside,whitetheother)ofstructureswhich
+havea fat/water orfat/tissue interface,e.g.bladder,interverte
+Z
+bral discs,kidneys,muscle etc.（Figure 4.7).
+A
+Thewaytoreducechemicalshiftartefact istousealarger
+工
+receive bandwidth.In the example above for instance,usinga
+receivebandwidthof5oKHzwouldreducetheartefacttoonly
+1mm.The downside,however,isthatusinga largerreceive band-
+width also causes a reduction in SNR(see Chapter3)
+Donotbe surprised tofind thatreceivebandwidthisnotan
+obviously selectable parameter on all MR systems.Siemens
+includebandwidthaspartofaselectablesequencefilewhilst
+Copyrighted material
+57
+S
+watershiftis,inpractical terms,the same asselectingthesmall
+T
+est availablereceivebandwidth.Only GE displaysreceive band-
+C
+width asa clearlyseparateselectableparameter.Inlow field
+A
+systems,where chemical shift is not an issue,the operator will
+havenocontroloverreceivebandwidth.
+F
+E
+T
+Chemical misregistration
+R
+A
+Thedifferenceinprecessional frequencybetween fatandwater
+E
+leadstoanotherphenomenonwhich cangiverise to image arte-
+C
+facts.Consider the paths of two protons precessing at slightly
+A
+different frequencies(Figure 4.8).Formost of the time they will
+beoutofphasewitheachotherbutatacertainpointontheir
+M
+paththeywillbeperfectlyinphase.Trythinkingofthemasthe
+twohandsofaclockwhich,atcertaintimesofday,will be super
+imposed:12o'clockforexample.
+Likewise,at certainpointsontheirpaths the magnetic
+momentsof these twoprotonswill opposeeachother.Atpoints
+wherefatandwaterareinphasewitheachother theirsignals
+willcombine,whilst atpoints where they are opposed they will
+cancel eachother out.Pixelsinthe imagewhich contain fatand
+maximum signal(fatand waterinphase)and signal void (fatand
+wateropposed).If TEisselected tocoincidewithoneorotherof
+these conditions,the same point in the image could be made to
+look bright (in phase)or dark （out of phase）.In spin echo
+DGOOQODFt
+Flgure 4.8Fatand waterprecessatslightlydifferentfrequencies
+Copyrighted material
+58
+sequences thisproblem is,largely,eliminated bythe 180°refo
+cusing pulse,but ingradient echo sequences it is exaggerated.
+R
+Selecting a TEwhich coincideswith the outofphase condition in
+M
+atfat/water interfaces,e.g.around the kidneys.Someradiolo-
+gists find thisstrangeappearance usefulincertain instances
+A
+such as imaging of the adrenal glands.In most instances,
+M
+theTE parameter(mostsystemswill then calculate thecorrect
+一
+echo timeautomatically).
+Z
+A
+Susceptibilityartefact
+L
+A
+Sometimes referred to as metallic artefact,sincemetalisoften
+M
+the cause,susceptibility describes theabilityofa substance to
+S
+betweensubstanceswithverydiversesusceptibility.Metal isthe
+F
+O
+inbreedswhere the sinuses are large.
+The180°refocusingpulsefound inspinechosequencesgoes
+K
+somewaytocompensatingfor thephaseshiftbroughtaboutby
+O
+susceptibility.Consequentlyfast or turbo spin echosequences
+B
+spins,produce the mostsevere artefact.
+D
+Inanimals themostcommonexampleofsuchan artefactis
+Z
+thatproduced on images ofthe neckbyID chips(Figure 4.9).
+Anotherexampleisprovidedbythesmallcoiledspringsfoundin
+A
+thecuffvalvesofsomeendotracheal tubes;careshouldbetaken
+H
+tokeep thevalveoutof theFOv.
+Toreducetheimpactofsuchartefactsallmetallicobjects,
+including thosethat arenon-ferromagnetic,should beremoved
+whereverpossible.Thereareevenrarecaseswhenremovalofan
+IDchipmayhavetobeconsidered.Wheremetalworkis firmly
+implanted,fastspinechosequencesshouldbefavoured tokeep
+distortiontoaminimum.
+Copyrighted material
+59
+S
+A
+F
+E
+T
+R
+A
+E
+Figure 4.9SusceptibilityartefactfromIDchip.
+G
+A
+W
+Flgure 4.1oCervical spinal cordhaemorrhagegivingrisetosusceptibil-
+ityartefactonT2gradientechosequence.
+Susceptibilityartefactcanbeusedtoadvantageincaseswhere
+oldhaemorrhageissuspected.Oneofthebreakdownproductsof
+blood ishaemosiderinwhich hasahighironcontent.Ongradient
+echo sequences,in particular,haemosiderin causes a marked
+susceptibility effect（Figure 4.10)
+Copyrighted material
+60
+System-inducedartefacts
+R
+Theseareartefactsthatariseasaresultofsomesortoferroror
+M
+malfunctionoftheMRsystemitself.Invariablytheircorrectionwill
+involvetheassistanceoftheserviceengineer.Figure4.11,for
+example,showstheartefactproduced byavoltagesurgeduring
+A
+scanning:a so-called electrical spike.Just occasionally,however,
+M
+theremedycanbea simpleone.The'zipper'artefact,forexample，
+iscausedbyerroneousRFsignalbeingpicked upbythereceiver
+Z
+coiland incorporated intotheimage(Figure4.12).Thiscan mean
+a defect in the scanroom'sFaradaycage or maybe corrected
+A
+simplybymakingsurethescanroomdoorremainsfirmlyclosed
+duringscanning.Faultylightbulbsarealsoacommonsourceof
+RFtransmissions.Makesureblownorflickeringlightsinthescan
+A
+roomare replaced.Note that the‘zipperoccurs along the fre-
+quency directionat aposition determined bythefrequencyof the
+M
+straysignal.
+S
+O
+K
+O
+B
+D
+IAN
+工
+Figure4.11Artefactcausedbyvoltagesurgeduringacquisition.
+Copyrightedmaterial
+61
+S
+A
+F
+E
+T
+R
+A
+E
+A
+M
+Figure 4.12Zipperartefactcaused byRFinterference.
+Partialvolumeaveraging
+Finally a word about‘partial volume averaging'.Although not,
+strictlyspeaking,anartefact,thisphenomenon canoftenlead to
+imagemisinterpretationorfailure todemonstratesmall lesions.
+PartialvolumeaveragingdescribeshowtheMRsystemhandles
+imagingslicein the slice selectiondirection(the slice thickness).
+Figure4.13showsasimplifiedrepresentationoftwoadjacent
+structures,one white and one black.The imagingslice has been
+and50%black.Theresultantimagewilldemonstrate neithera
+blackorwhitestructurebutagreyone.Itcouldbeargued that
+Copyrightedmaterial
+62
+Image slice
+R
+M
+L
+A
+M
+Z
+A
+7
+A
+Imageappearance
+M
+Figure 4.13Differentsignalintensitiesoccuringwithin the sameslice
+S
+thicknessareaveraged.
+F
+thisgives rise to an artefact sincenogrey structureexists but,
+K
+at the same time,it is a true representation of the net signal
+O
+intensitywithin theselected slice.
+Nowconsiderthesamearea scannedwithtwo imaging slices
+O
+eachofhalf the thickness(Figure 4.14).In thisexample ourblack
+B
+D
+Z
+imageandwhiteontheother.Spatial resolution(asdiscussed in
+chapter3)hasbeen improved allowingmore accurate demonstra-
+A
+tionof the structures under examination.
+H
+This exampleis obviouslyvery simplified forexplanatory reasons
+butin theclinicalsettingitisimportanttobearinmind thatthere
+aretwomajorpitfallsthatmayresultfromthewayanatomyis
+resolved in the slice thicknessdirection.Oneisthatvery small
+structuresorlesionscanbemissed insections thataretoo thick
+and theother is thatfalse lesions canbe inferred which are,in
+Copyrightedmaterial
+63
+S
+lmage slice
+T
+U
+A
+F
+E
+T
+R
+A
+E
+G
+A
+Image appearance
+M
+Figure 4.14Using thinner sections allows accuraterepresentationof
+eachsignal intensity.
+Figure 4.15 Apparent high signal within the spinal cord is,in fact,
+causedbyadjacentepidural fat.
+isacommonpitfall inparasagittal imagesofthespinal cord（low
+4.15).
+Copyrighted material
+PARTTWO
+MRI in Veterinary Practice
+Copyrighted material
+5
+MRI Safety
+Magnetsand magneticfields
+67
+Safety issues
+68
+Furtherreading
+72
+Magnetsandmagneticfields
+TheMRlsystemsmostoftenencountered inveterinarypractice
+employeitherpermanentorsuperconductingmagnets.Exceptin
+switchedoff;consequently themagneticfield is alwaysoneven
+ingmagnetscanbeshutdowninanemergencysituationby
+activatingtheemergencyoffmechanismwhichrapidlyboilsoff
+theliquidheliumreducingthefield tozeroinamatterofminutes,
+aprocessknownas'quenching'themagnet.Thisisaverycostly
+exerciseduetothepriceofliquidheliumandtheexpenseof
+lightly.
+Magnetic field strength is measured in units called Gauss(G)
+or Tesla(T);10000G=1T.Magnetic fields in excess of 5Gcan
+adverselyaffectcardiacpacemakerswithpotentiallyfatalconse-
+quences.Forthisreason allareaswherepersonnel mayencounter
+magneticfieldsover5Garedesignatedascontrolledareas.In
+practice this,moreoften thannot,meansthesameroomasthe
+scanneritself.Evenat1.5Tthe5Glineisusuallycontainedwithin
+the scanroom.
+67
+Copyrighted material
+68
+Safetyissues
+R
+M
+nowand isbecomingincreasinglycommoninveterinarypractice.
+There arenoknownsideeffectsand theprocedureisregarded
+>
+assafeforpatientsandoperators alike.However,becauseofthe
+A
+verystrongmagneticfield involvedthereareanumberofextremely
+M
+一
+bythoseentering thecontrolled area.
+Z
+TheMedical DevicesAgency(MDA)identified threemain hazards
+A
+associated with MRl,namely:the staticmagneticfield,Bo:time
+varyingmagneticfieldgradients;andradiofrequency(RF)magnetic
+fields(B).
+7
+A
+Thestaticmagneticfield,Bo
+M
+S
+There areseveral areasofconcernrelatingto thestaticmagnetic
+field.Perhapsmostimportantistheso-calledprojectileeffectbut
+F
+alsoworthyofconsideration are the biologicaleffects,and the
+O
+ment,such as patientmonitoring devices.Magnets employed in
+K
+clinicalveterinaryuserange from0.2-1.5T.Evenat thelowerend
+O
+of thisrange,these magnets arepowerful enough to attract loose
+ferro-magneticobjects and accelerate themtowards thecentreof
+O
+the magnet bore,causing significant damage to anyone or any
+B
+thinggettingintheway.Consequentlynoferro-magneticmaterials
+D
+should beallowed into the scan room.Thismeans thatanimals
+Z
+shouldhavecollarsetc.removedand allpersonnelshouldremove
+metallic objects (pens,scissors,coins etc.) before entering the
+A
+scanroom.Thewearingofwhitecoats'in theMRl area isdiscour
+H
+metallichardware.
+Althoughexperimentswithprimatescarriedoutatfieldstrengths
+above4-5Tsuggestedcardiacarrhythmiaandreducedmental
+function,a 1991 report from the National Radiological Board
+(NRPB)concludes that magneticfields of less than2.5Tare
+unlikelytohaveanydetrimentaleffectonhealth.
+Copyrighted materia
+69
+Despitetherebeingnoadversebiologicaleffectsfromthestatic
+Y
+magneticfield,certainimplantedmedical devicescanbe affected.
+Such devices include stents,clips,neurostimulators and,in par
+E
+ticular,cardiacpacemakers.Pacemakerscanbe adversely
+F
+affectedbyfieldsaslowas1mT.Notonlyshouldpatientswith
+A
+suchdevicesbeexcluded(thereareanumberofdogswithcardiac
+pacemakers)butstaffwiththeseimplantsshouldnotbeallowed
+S
+intothescanroomeither.
+Toavoid theintroductionofpotentiallydangerousmaterialsinto
+R
+thecontrolled area,eachpracticeinvolved inMRlshouldsetout
+a systemofpracticeorlocalrulestogovernwhoisauthorised to
+M
+preparedandscreened for potential hazards.Warning signs
+shouldbedisplayedattheentry to thecontrolledareaadvising
+of the dangersposed by the high magneticfield (Figure 5.1).
+Itshould benoted thatsurgical implantsmadefromhigh-grade
+stainlessorsurgicalsteelortitaniumarenon-ferrousandassuch
+Willnotbeattracted bythemagnet.Significantsusceptibilityarte
+factwill be caused (less so in the caseof titanium)when such
+implantsareinornearthefieldofview.
+Time-varyingmagneticfields-gradients
+ManyofthefunctionsdiscussedinChapter1(spatial localisation,
+slicelocation,frequency encodingetc.)relyonthe three time
+varying magneticfields or gradients,gx,gyand gz.These are
+areswitchedonandoffveryrapidly
+Unlike Bo,these are changingmagnetic fields and as such are
+isveryimportanttomakesurenosuchconductorsareintroduced
+into theboreof the magnetwhere induced currents could cause
+canoccurwithmonitoringleads.lfwireleadsareallowedtoform
+Careshouldbe taken toensure thatall leadsusedformonitoring.
+physiologicalgating,RFcoilsetc.arekeptstraightandseparated
+fromthepatient,particularlyinshort-hairedbreeds.
+Copyrighted materia
+70
+R
+M
+A
+M
+WARNING
+Z
+A
+A
+M
+S
+F
+O
+Flgure5.1The scanroom door shouldcarrya suitable signwarningof
+K
+the strong magnetic field.
+O
+O
+NewMRsystemshaveveryfast,andstrong,gradientscapable
+B
+ofratesofchangeintheorderof25-30mT/m in0.5-1.0mS.
+D
+Thesecanstimulatenerveormusclefibresandhave thepotential
+Z
+tocauseventricularfibrillation,epileptogeniceffects,visual flash
+sensations and the like.This sortofsideeffectisnotvery likely
+A
+duringroutine clinical investigationsbutultra-fastscanning tech-
+工
+niqueslikeechoplanarimagingmustbeusedwithsomecare
+Radiofrequencyenergydeposition
+Whilst not ionisingradiation,theradiofrequency used in MRI is,
+nonetheless,electromagneticradiationand,as such,depositsits
+Copyrighted material
+71
+energy,in the form of heat,in the patient's body.This is then
+Y
+dissipatedandremovedbyconduction,convectionandradiation
+T
+and is,therefore,dependentonmanyphysiological,physical and
+E
+environmental factors such as ambienttemperature,humidity
+F
+airflow,coat thickness,the patient's physiological state and so
+A
+on.Allthesefactorslimittherateatwhichheatislostfromthe
+body.Therate atwhichheatisbeingdeposited is,therefore,criti-
+S
+caltoavoidsimulatingamicrowaveoven!
+一
+R
+Specificabsorptionrate
+M
+Therateof heat depositionisindicatedbythespecificabsorption
+rate(SAR).For a givenpulse sequence itis dependenton the
+duration,amplitude andnumberof RFpulses(includingpresatura-
+tionpulses)duringeachTR.SARismeasured inWattsper kilo-
+gramforwholebodyexposure.Mostclinical MRexaminationswill
+haveSARsoflessthanO.4W/kgbutsomenewersequencessuch
+asfastspinechocanreach2.ow/Kg.Particularlysensitive
+organsare the eyesand testes.Fora homogeneoussphereof
+tissue(likethoseneverencounteredintheanimalbody!)ofradius
+r;conductivityo;inamagneticfield Bo,SARisproportional tothe
+flipangleαthus:
+SAR×Or²B²α²D
+whereDisthedutycycle,i.e.thepercentageoftimeduringthe
+cuitsusedetailsofthepatient'sweightalongwiththefactorsfor
+theparticularsequencetocalculatetheSARandpreventthescan
+if theSARistoohigh.Noattemptsshould bemade tobypass
+used,e.g.by reducing the number of slices,orincrease the time
+frame byincreasingTR.The temptation toguess or lie about the
+patient'sweightshouldberesisted.
+(hooray!)two points should benoted.Firstlybecause SARis pro-
+portional to thesquareofBo,itrisesrapidlywithincreasingfield
+strength.ThismeansthatSARlimitsaremoreofaproblemat
+Copyrighted materia
+72
+1.5T than 0.5T.Similarly,because SAR is also proportional to
+the square of the flip angle,180°pulses deposit four times as
+R
+much energy as do 90°pulses.Thismeans that sequences such
+M
+asfastspinecho,withmultiple180°pulses,generatemuchmore
+heat thanlowflip angle,gradientechosequences.
+A
+Acousticnoise
+M
+Itcan'thaveescaped the attentionofanyonewho has experi-
+Z
+enced anMR scanjusthownoisythe technique canbe.Increase
+A
+incurrentingradientcoilsisopposedbythestaticfieldandgen
+eratesnoise.Theeffectisproportional to Boand thereforeis
+一
+greater inhighfield systems.Levelsofup to 105dBhavebeen
+A
+insomepatientsfollowingascan.Whilstitisdifficult toprovide
+M
+effectivehearingprotectionforanimals,itisadvisabletoprovide
+S
+needtobepresentin thescanroomduringMRexaminations,
+particularlyonhigherfieldsystemswithpowerfulgradients.
+F
+O
+Furtherreading
+K
+O
+ingtoMRl.Undoubtedlythebestsourceofsafetyinformation is
+B
+D
+topics above aswell asmattersrelatingspecifically tothe equip-
+Z
+ment in question,to cryogens,fire risk,quenchingof the system,
+A
+of theRadiological ProtectionBoard,The Department ofHealth,
+H
+Medical Devices Agency (formally MDA,now MHRA) and the local
+rules.
+Copyrighted material
+Using MRI in Clinical
+Veterinary Practice
+Introduction
+73
+Anaesthesia
+75
+Patient positioning
+77
+Imagingplanes
+79
+Contrast agents
+80
+Clinical indications
+81
+Head
+82
+Spine
+86
+Degenerative disease
+112
+Congenital abnormalities
+115
+Musculoskeletal system
+121
+Thorax,abdomenandpelvis
+124
+Foreign bodies
+126
+Introduction
+Thelast20yearshaveseenenormousadvancementsinveteri-
+naryimaging.Radiographyhasbeenreadilyavailableto thevet-
+erinaryprofessionfor60yearsandrecentlytechnicaladvancements
+haveparalleled thecomputerrevolution.Dryprocessingmachines
+haveremoved theneedfordarkroomsandproducedeveloped,
+73
+Copyrighted material
+74
+ready-driedX-ray filmswithinminutes.Nowdigital radiography is
+available,givinghigh-resolutionimagesonvisual displayunitsand
+R
+allowingtheimagestobenetworkedandstoredelectronically
+M
+Ultrasonographyhasprogressed to the developmentofsophis-
+ticatedmachinesthathaveincreasingapplicationinveterinary
+A
+fromkeepingupwithmedical science intheuseofCTandMRl.
+However,theuseofmobilescannershasmeantthatthethrough
+M
+一
+locations on aregular,rotatingbasis.Recentlyhigh-qualitylow
+Z
+field MRlscanners havebecome available.Thepermanent
+A
+magnetsin thesemachines,whilsthavinga strengthwellbelow
+lentresults.The added advantagesofthesmallerstaticscanners
+arerelativeeaseofoperationandthereadyavailabilityforscan
+A
+ningpatients,e.g.outofnormal hours.
+M
+Notwithstandingthese developments in technology,a CTorMRI
+S
+practiceanditislikelythatitwillbesometimebefore theyare
+purchased byotherthanlargeprivatereferral centresandveteri-
+F
+naryschools.Perhapsthis isnotabad thingsince it automatically
+O
+companies.
+K
+TheclarityandqualityoftheimagesproducedbytheMRI
+O
+indicated and also toexpectpositiveresultswhereafulldiagnos
+O
+ticwork-upwouldshowthatavisiblelesionisunlikely.Itisthere
+B
+D
+ofthisremarkabletechniqueanddonottrytoreplaceusual,less
+Z
+sophisticated diagnosticprocedures.
+MRIundoubtedlyhasitsgreatestapplicationinstudiesofthe
+A
+H
+and theinaccessibilityoftheneuraxistodirectobservation,have
+alwaysmade theinvestigationofCNS disease aparticularchal-
+lenge.Myelographywas,formanyyears,theonlytechnique that
+producedimagesallowingavisualassessmentofcompressive
+lesions of the spinal cord.Although myelography still has its
+advocates,it has been superseded by MRl on thegrounds of
+patientriskalone.
+Copyrighted materia
+76
+tothepatientandpassingthisthroughawaveguide(seeFigure
+2.5).Similarly,oxygen cylinders and other non-MRl-compatible
+R
+equipmentcanbekeptatasafedistancefrom thefieldbyusing
+M
+extended tubing.The exactprotocolforanaesthesia will,ofcourse,
+conditionofthepatient.
+Whereas fullanaesthesiais obviouslydesirable,particularly
+A
+whenthescanningprocedureislikelyto takemorethan15
+M
+minutes,heavysedationcanbequiteadequateforshortproce-
+dures.Thecombinationofmedetomidineand butorphanolgives
+Z
+agood levelofsedationwhichisquitesuitablewhen theproce-
+A
+dureisbeingcarriedoutforbasicscreeningorroutinemonitoring
+(seebelow).Whetheranaesthesiaorsedationisbeingemployed,
+it isimportant thataphysicalexaminationprecedes theproce-
+dure.There are alsogood argumentsfor carryingouthaematologi-
+A
+calandbloodbiochemical analysisbeforescanning.Alaboratory
+M
+work-upislikelytobeneededforthepurposesofdiagnosis,but
+theresultsmayhavesomesignificancefor theanaesthesiapro
+S
+tocol and mayindicatecautionin the useofa contrastagent,e.g.
+theexistenceofsevererenaldisease.Thefactthatmanyofthe
+F
+patientshavebraindiseaseandmayalreadybereceivingtherapy,
+O
+e.g.anticonvulsants，mayinfluence the choice of anaesthetic
+drugs.Acepromazinemaybeused asapremedicantsedativein
+K
+O
+seizuresmayoccursince thisdrugisknown toactasapotential
+O
+trigger.
+Itisbeyond thescopeofthisbooktodiscussdifferentanaes-
+B
+theticagentsandprotocols.The usualregimeemployedby the
+D
+propofol followed by gaseousmaintenanceusing isoflurane or
+Z
+sevoflurane.
+A
+H
+short studies in dogs.The recommended dosages are those for
+inductionofdeepsedation;0.025ml/kgofa1mg/mlsolution of
+phanol.Thetwodrugscanbeadministeredtogetherinthesame
+syringebyintramuscularorintravenousinjection.Generallya
+periodof15minutesisrequiredafteradministrationbeforestart-
+ingtoscan.Oncompletionof scanningthesedationcanbe
+Copyrighted materia
+77
+reversedbyusinganequalvolumeofatipamezoletothatof
+medetomidine used.Recovery to standing is usuallywithin10
+R
+minutes.
+M
+Althoughmedetomidine aloneorcombinedwithbutorphanol
+and ketamine maybeused in cats to obtaindeepsedation,the
+G
+authorsprefergeneral anaesthesia whenscanning this species.
+Z
+Patient positioning
+S
+D
+AllMRsystemsavailableforsmallanimalveterinaryuse,including
+those marketed specificaly as veterinary systems,have been
+for extremity,muscloskeletal use.As a consequence,scanning
+choiceofcoilson thepartoftheoperator.Thehumankneecoil
+suppliedwiththelowfieldsystemshowninFigure6.1,forexample，
+lendsitselfnicelytoscanninganimalbrainsinsternalrecumbency
+asshown.Thedesignofthehighfield systemheadcoilshown in
+VetNR
+Figure6.1Patientpositionedinsternalrecumbencyusinganextremity
+coil.
+Copyrighted material
+78
+Figure 6.2,however,is such thatanimals are easierto accom
+modateindorsal recumbency.Theseconsiderationsnotwithstand-
+R
+ing,there isanumberoffactors the operatorshould takeinto
+M
+accountwhenpositioningpatientsandcoilsinordertooptimise
+imagequality.Thechoiceofcoil is importantasthiscanhave a
+majorimpactonSNR(seeChapter3).Generallyspeakingthecoil
+L
+A
+shouldbeassmall aspossible,consistentwithincludingthearea
+ofanatomy tobe examined.Phased array coils,where available，
+M
+willgiveimprovedSNRoverstandard linearsurfacecoils.
+Patients should be positioned as straightaspossible on the
+Z
+A
+to compensateforslightobliquityofthepatient,itisimportant,
+meanderinandoutof theimagingslice.Figure6.3showsexam-
+plesofgood andbadpositioninginsagittal imagingof thespine.
+A
+When scanning extremities,consideration should be given to
+M
+thepositionofthejointorlimbwithintheboreofthemagnet.The
+mosthomogeneouspartofthefield isthatclosesttotheisocen-
+S
+tre;consequently,better resultswill beobtained by scanningnear
+the middleofthe bore thanround the edges.In largedogs in
+F
+particular,thiswilloften involveoffsettingtheanimal tooneside
+O
+K
+O
+O
+B
+D
+Z
+A
+工
+Figure6.2Coil designmeans thispatientmustbepositioned indorsal
+recumbency.
+Copyrighted material
+79
+R
+M
+G
+Z
+S
+D
+Figure6.3T2weightedsagittal imagesshowingexamplesofgood（top)
+and poor(lower)patientpositioning
+tobring thesideunderexaminationinto thecentralpartofthe
+useablefieldmaybe14cmorless.
+Animalsshouldalsobewellimmobilisedsoastopreventmove-
+mentartefact;evenanaesthetised animalscanroll toone sideif
+notadequatelysecured.The useof immobilisationaids such as
+plastic cradles,sand bagsand ties will help achieve this aim.
+Large,deep-chestedbreedssuchasthe Irishwolfhound arepar-
+ticularlydifficulttopositionandrequiresomepatienceand
+practice.
+Imagingplanes
+Theconventionsusedinhumanmedicinedifferslightlyfromthose
+Copyrighted material
+84
+forebrainor diencephalon.lf the seizures includecompulsivecir-
+clinginthepostictalorinterictalphases then thelesion ismost
+R
+likelytobeon theside towhich thecirclingisdirected.Witha
+M
+fewexceptionsa head tilt,leaningand lossofbalancesuggest
+thata lesion involvesthe vestibularpathways and,ifcentral,will
+be in themedulla oblongata.Soin manycircumstancesthelesion
+A
+willbelocated where indicated by theclinicalsigns.Thevalue
+ofcareful assessment of the clinical signs and a competent
+M
+neurologicalexaminationisrealised whenthelesion isnotso
+obviousasitmaybe.In this situation theuseofSTIRand FLAIR
+Z
+proceduresor acontrast agentmayreward conscientious
+A
+localisation.
+Itisoftenworthrememberingthatmultiplelesionsordiffuse
+giomasoccurfrequently（Figure6.4)andin thedogdiffuseinflam-
+A
+M
+Sc8
+S
+P
+SE/M
+SL10
+F
+O
+K
+B
+D
+HANI
+-3 fee
+Figure6.4T1W transverseimagepost intravenouscontrast showing
+multiple meningiomas(arrowed)ina felinepatient.
+Copyrightedmaterial
+85
+matorydiseaseofthebrainisseenregularly,e.g.steroid-responsive
+encephalitisandgranulomatousmeningoencephalitis.Focal
+R
+lesions areusuallylateralised,apart fromthosethatinvolve
+M
+midline structures like the pituitary gland.Expanding lesions,e.g.
+tissues.Therestriction on expansion by the surrounding skull
+Z
+resultsindistortionofthe tissues,obliterationofthecavitiesof
+theventriclesandherniationoftissuescaudally.Themostfre-
+S
+quentdistortionduetoanexpandingspace-occupyinglesion isa
+D
+midline shift.
+Althoughsomeoedemamayoccurinassociationwithavascu
+laraccident,especially aninfarction,swellingrarelyis seen.The
+T2Wscanshelp todifferentiatevascularlesionsfromneoplasia.
+Neoplasia
+The site,size,distribution and often the nature of intracranial
+tumoursareverywelldemonstratedusingMRl.Inaddition,MRI
+cangivetheneurosurgeonvaluableinformationastotheresect-
+abilityorotherwiseofintracranialtumours.Neoplasmsgrowat
+varyingrates,e.g.meningiomasareslow,takingyearstoreach a
+growing andoftenout-grow theirvascularsupplyresultingin
+centralnecrosisandpoorenhancementwithgadolinium.
+Meningiomas are oftenwell circumscribed,indicatinggood pros-
+pectsofexcisionbutgliomasoftenhavea'blurred'outlinewhere
+cal excision are poor.
+calcified orcystic.Quitefrequently the MRl scansreveal thatthe
+neoplastictissueextendswithin themeningesonthe surfaceof
+thebrain to form a plaque.Common sites formeningiomas are
+theolfactorylobes,withintheskullvault(Figure6.5),theregion
+of the optic chiasma,the cranio-cervical junction (Figure 6.6) and
+the ventral aspectof the brainstem.Meningiomas usuallyenhance
+Copyrighted materia
+86
+R
+M
+A
+M
+N
+A
+A
+M
+R
+S
+F
+O
+Figure6.5T1wtransverseimagepostintravenouscontrastshowinga
+meningiomaof therightparietal region.
+K
+O
+O
+hyperintensity due totheassociated oedema.Gliomas(Figure6.7)
+B
+areprobably thesecondmostfrequentbraintumoursin dogsand
+D
+canoccuratayoungage.Gliomasmay showonlypoorenhance-
+mentwithgadoliniumandusuallyareirregularinoutline.Gliomas
+Z
+oftenarehyperintenseonT2weighting,aresurroundedbyoedema
+andmaypossessanecrotichypointensecentre(onTiw).Choroid
+工
+plexuspapillomasandependymomasarehyperintenseonT2w
+scansand arelocated around theventricularsystem.
+Thenormalpituitaryglandenhanceswithgadoliniumandcan
+bequitehyperintenseon T2w scans.Since the neoplastic pitu-
+endocrine disturbance.However,macroadenomas （Figures 6.8
+Copyrighted material
+87
+R
+M
+Z
+一
+S
+D
+Figure6.6Meningiomaofthecranio-cervical junction.
+logical signs suchasblindnessdue todisruption ofthe optic
+chiasma.Amacroadenomaofthepituitaryglandoftenshows
+extensionintothediencephalon.
+Vascularlesions
+Cerebrovascular accidents(CvAs)are wellrecognised inhuman
+patients and are called‘strokes'Theyare sudden in onset and
+maybeduetoeitheraninfarctionorahaemorrhage.Clinically
+theycanbecatastrophicresultinginhemiplegia,lossofspeech,
+etc.Formanyyearstheveterinaryliteratureinsisted that'strokes
+didnotoccurinanimalsandthenthesituationbecamefurther
+confused bythefrequentuseofthetermstroke'foracuteves-
+tibulardisease.Thiswasa double errorin thattherewasnoproof
+thattherehadbeenavascularaccidentand itwasquite thewrong
+location,probablyevenperipheral ratherthancentral.
+Copyrightedmaterial
+88
+MRI
+ANIMAL
+SMALL
+Figure6.7Transverse T1wpost-contraststudyshowingpatchy
+OF
+enhancementofaprobablegliomain therighttemporalregion.
+HANDBOOK
+Figure6.8SagittalT1Wpost-contrastimageshowingapituitarytumour.
+Copyrighted material
+89
+R
+M
+G
+Z
+S
+D
+R
+Figure 6.9The same lesionasFigure6.8 shown in thetransverse
+plane.
+MRI has now shown that spontaneous intracranialvascular
+maybeintraparenchymal,subarachnoid,subduralorepidural.The
+exactMRlappearanceofhaemorrhageisalittledifficulttopredict
+sinceitchangeswith thebreakdownof bloodwithintheclot.Work
+inhumanpatientshasdemonstratedthepatternofchangesum-
+marised inTable6.2.
+Comparativestudieshavenotbeencarried outinanimalsand
+whilstitseemsreasonabletoexpectasimilarpatternofchange
+inMRIappearance,cautionmust be exercised in applyingthe
+samedata tootherspecies.MostCVAsthatarediagnosedwith
+thehelpofMRlwillbescannedwithinafewdaysofonsetand
+sohaemorrhageswill be focaland brighton T2w.Infarcts are
+seenasareasofdiffusehyperintensity.Figure6.10showsthe
+typical T1WandT2Wappearancesofatemporal lobeinfarction.
+Ineither type ofvascularaccident involving the forebrain,the
+presentingclinical signislikelytobeaseizure.Whereasvascular
+Copyrightedmaterial
+90
+Table6.2 Changes in MRI signallingcharacteristicsof intracranial
+haemorrhage.
+R
+Time
+T1
+T2
+Biochemistry
+Comments
+M
+Oxyhaemoglobin
+Dark
+Bright
+Behaves as
+Hyperacute
+Fe2+
+(the first 2-3h)
+water
+Deoxyhaemoglobin
+Acute
+Isointense
+Dark
+Susceptibility
+A
+(3h-3days)
+Fe2+
+effect
+Subacute
+Bright
+Dark
+Methaemoglobin
+Intactred blood
+M
+(3days-1week)
+Fe3+
+cells (RBC)
+Subacute late
+Methaemoglobin
+Bright
+Bright
+RBClysis,liquid
+(1week-afew
+Fe3+
+haemoglobin
+Z
+months)
+A
+Chronic
+Dark
+Dark
+Ferritin/
+Crystalline
+(Months-years)
+haemosiderin Fe3+
+storage form
+ofiron
+A
+M
+S
+E
+O
+K
+O
+O
+B
+D
+cerebral infarct.
+Z
+A
+accidents in dogs are usually cerebral,they may occur in the
+brainstem or cerebellum(Figure 6.11).
+工
+Trauma
+TheuseofMRlincasesofacute trauma isseverelylimitedby
+problemsofurgentavailability.Ideally,trauma cases require
+instant imaging and management.Nevertheless,MRI can be
+usefulindemonstratingintracranialdamageassociatedwithhead
+Copyrighted material
+91
+R
+M
+G
+Z
+S
+D
+Figure6.11T2w transversesection through thebrain showingright
+sidedcerebellarinfarct.Note thatthelesionstopsabruptlyatthemidline
+injury,for example,and assessingthelate effects oftheseinju-
+ries.In all casesradiography should beused to complement the
+withthehelpofradiographs.
+Inflammation
+MRI isextremely sensitive toearlychanges in braintissue,par-
+ticularly white matter.Consequently,MRl is very effectivein
+inflammation.Administrationofagadolinium-basedcontrastagent
+canalsodemonstrate enhancementof the meninges indicating
+meningitis（Figure 6.12).Post-contrast sequences are alsouseful
+indistinguishing brain abscesses from cysts.An abscess wil
+demonstrateperipheralenhancementaround theedgesofacystic
+lesion (Figure 6.13). Simple cysts,not possessing a capsule,
+shownoenhancement.
+Copyrightedmaterial
+92
+MRI
+ANIMAL
+R
+SMALL
+Figure 6.12Meningealenhancementdemonstrated on post-contrast
+study of the brain.
+S
+OF
+HANDBOOK
+Figure6.13
+Typical ringenhancement(TiWpostcontrast)ofacerebral
+abcess.
+Copyrighted material
+93
+In feline patients,feline infectiousperitonitis（FiP) is also very
+nicely demonstrated;Figure 6.14 shows a post-contrast T1W
+R
+dorsalsection ofacatwith intracranialFiPinfection.
+M
+Thereare several non-infectious inflammatorydiseasesof the
+brain that regularly occur in dogs.Granulomatous meningoen-
+cephalitis(GME)has no breed predilection and occurs in both
+G
+disseminated forms and a focal form.Necrotisingmeningoen-
+Z
+cephalitis(NME)was originally thought to be a breed-specific
+diseaseof thepug（Figure 6.15)buthasnowbeenrecognised in
+S
+several othersmallbreeds.Necrotisingencephalitis(NE)wasfirst
+D
+described inYorkshire terriersbuthasrecentlybeenreported in
+theBostonterrier.Althoughthereare similaritiesbetweenthese
+Figure6.14T1Wdorsalsection throughthe brain ofacat showing
+post-contrastenhancementtypical ofFiP
+Copyrightedmaterial
+94
+R
+M
+A
+M
+IN
+A
+77
+A
+M
+S
+Figure6.15TransverseT2Wsectionthrough thebrainofapugshowing
+F
+highsignal in the left hemisphere typical ofNME.Note thatonly slight
+O
+midlineshiftispresent.
+K
+beenestablishedbuttheyaregenerallyregarded asimmunosup-
+O
+nomonic but shows some characteristic lesion distribution.The
+B
+lesionscanbediffuseorfocal;theyarehyperintenseonT2wdue
+to the associatedoedemaand theyareoften,butnotalways,
+D
+contrast-enhancing.Asymmetricventricular dilatation isa consis-
+Z
+tent findingin NME.
+A
+工
+Extracraniallesions
+Extracranialneoplasia
+Neoplasticlesions of the extracranial head and neck,including
+theorbits,areexquisitelydemonstrated usingMRl.Thedecision
+astowhethertoproceed tosurgeryandsubsequentsurgicalplan
+Copyrighted material
+95
+ningisgreatlyaidedbyMRIinvestigation.Thiscanshow thesize,
+extent and spread of what,atfirst,can appear straightforward
+R
+superficial lesions.Figure 6.16,forexample,shows an extensive
+M
+Notethattherightorbithasbeendisplacedandcompressedby
+the mass.Figure 6.17 shows a similar mass,this time arising
+G
+fromthehardpalate.
+Z
+Wherelesionscan be shown tobe superficial innaturewith
+littleornoinfiltrationorspread（Figure6.18),surgerybecomesa
+S
+muchmorestraightforwardoption.
+Middleandinnerear
+suggeststhat thereisfluid exudateoragel-likesubstancepresent.
+Lessintensityindicates athickorpurulent exudate andlow
+Figure 6.16T2w transverse section showinganosteosarcoma arising
+fromthezygomaticarch.
+Copyrightedmaterial
+96
+MRI
+ANIMAL
+MALL
+S
+palate.
+OF
+HANDBOOK
+R
+Figure6.18
+Soft tissue mass of the upper lip.
+Copyrighted material
+98
+R
+M
+A
+M
+Z
+A
+A
+M
+S
+Figure6.20
+TransverseTiwsectionthroughthenormalnasal
+turbinates.
+F
+O
+natureofnasal lesions.Thedelicateanatomyof thenasal turbi-
+K
+nates isparticularlywell demonstrated usingMRI(Figure 6.20).
+O
+Conditions such aschronicinfection and nasal tumours cannot
+O
+onlybe identified,butMRlcan demonstratethe sizeand extent
+oflesionsaswellasanygrowthacross theboneintothecranium
+B
+toinvolvethebrain.Aspergillusinfectionsarecharacterisedbythe
+D
+presenceofexudateorotherpathologywithin the frontal sinuses
+Z
+isalsoverywellvisualised.
+A
+H
+Spine
+Aswithbrain imaging,MRI hasrevolutionised the investigation
+and diagnosisof spinal disease.Tobe fair,veterinary surgeons
+didhaveattheirdisposaltheabilitytoimagethespinalcord
+Copyrightedmaterial
+99
+indirectly by using myelography.This is aninvestigation still
+commonintheveterinaryfielddespitethe factthatinhuman
+R
+M
+ofyears now.MRl is able to yield much more information,not
+leastofallregardingthephysicalstatusofthe spinalcord
+G
+itself.The surrounding soft tissues,musculature and the inter-
+vertebral discs can all be assessed and,whilst MRl is notgood
+Z
+for examining cortical bone,the technique is very sensitive to
+一
+S
+spinalmetastases.
+U
+MRIstudiesofthespineandspinalcordhaverevealedseveral
+featuresofanatomicalinterest.Thesearenotabnormalitiesbut
+areunexpectedandtheclinicianshouldbeawareofthem to
+avoidmistakendiagnoses.Thelargesize ofthedorsalsub-
+arachnoidspaceinsomelarge-breeddogssuggests that the
+spinal cord is abnormally small in diameter（Figure 6.21),but
+thereis no functional disturbance.The dorsallongitudinalliga-
+mentformspartofthefloorofthevertebralcanalbutcan
+appearsoprominentthatitmaybemistakenforan interverte-
+bral disc protrusion （Figure 6.22).MRl certainly demonstrates
+the greatvariation in the length of the spinal cord;in most
+dogs itendsattheleveloftheL6vertebrabut insome indi-
+vidualsitisseentoextendasfarasS2.
+Figure6.21Sagittal T2Wimageofthecaudal thoracicspine showing
+a capacious thecal sac givingthe impression ofa thinned spinal cord.
+Thisisanormal finding.
+Copyrightedmaterial
+101
+for 12h is hopeless.However,this generalisation has found fre-
+quentexceptions,24oreven48hofpainlossbeingfollowedby
+R
+recovery.
+M
+Itis interesting tointerpret thesecriteria forprognosis in the
+lightofMRloftheaffected spinal cord.Scanningallowsvisualisa-
+tion of intra-and extramedullary haemorrhage,intramedullary
+G
+Z
+S
+theresultsofneurologicalexamination,oritmaybethatwhat is
+D
+seen allowsan earliercertaintythattheprognosisishopeless.
+Intervertebaldiscprotrusionsandextrusionscommonlyoccur
+inthecervicalspine（Figure6.23)andatthe thoracolumbar
+Figure6.23Sagittal T2Wimageofthecervical spineshowinga
+protrusionoftheintervertebraldiscatC6/C7.Thereisalsohyper-
+trophyofthelaminaecausingdorsal compression of thespinal
+cord.
+Copyrightedmaterial
+103
+MRI
+USING
+Figure 6.25
+SagittalTiwimageofthethoracolumbarspineshowing
+multiple intervertebral disc protrusions.Note the severe compression of
+the spinalcord at T12/T13.
+protrusionoftheinterverbraldiscatT12/T13.
+Copyrighted material
+104
+MRI
+ANIMAL
+SMALL
+S
+Figure6.27
+Central discextrusion in the lumbar spine.
+OF
+HANDBOOK
+Figure6.28
+Left-sided discextrusion in the lumbar spine (arrow).
+Copyrighted material
+105
+MRI
+USING
+Figure 6.29Far right-sided disc extrusion in thelumbar spine with
+migrationof the discmaterial into theintervertebral foramen(arrow).
+Figure 6.30
+T2Wsagittal imageshowing(arrowed)a lumbosacraldisc
+protrusion.
+Copyrighted material
+106
+Spinalneoplasia
+R
+Severeandprogressivedisturbanceofspinal cordfunctionislikely
+M
+tobedue toneoplasiawithin thevertebralcanal.Therelatively
+small cross-sectional area of the spinal cord (1.0-1.5cm²ina
+A
+largetohaveadisastrouseffectonthespinalcord.Anintramedul-
+M
+lary neoplasm（Figure 6.31) inevitably comes witha very poor
+prognosisbutextramedullary tumours canoften be excised
+successfully.
+Z
+MRIof spinalneoplasia allows aprecise assessmentof
+A
+theextentofthe tumourandoftenthelikelyidentity.Meningiomas
+(Figure 6.32) have frequent incidence inbothdogs and cats;
+一
+ium.Theyusuallyextend alongthecanal andareoftensoftand
+A
+friable,makingcomplete removaldifficult.Nerve root tumours
+M
+(Figure 6.33)arenotuncommonandareusuallyidentified bythe
+extensionofneoplastictissuethroughanintervertebralforamen.
+S
+Gliomas,lymphoid tumoursand metastasesareall seen and the
+F
+clinical signs are related to the size,location and speed ofpro-
+O
+K
+O
+B
+D
+Z
+A
+工
+Figure 6.31Post-contraststudydemonstratingintramedullaryneoplasia
+(arrow).
+Copyrightedmaterial
+107
+MRI
+USING
+Figure6.32 Post-contraststudy demonstratinga meningioma adjacent
+to theC5-6discspace.
+Figure 6.33T1Wpost-contrasttransverseanddorsal imagesofa left-
+sided cervical nerve root tumour.
+gression.STiRsequencesareparticularlyusefulforlocatingspinal
+Tumoursofthevertebraeandparaspinal tissuesarealsoseen
+（Figure6.34)and maywellcause localisedcompressionof the
+spinal cord.Althoughradiographywill usuallybenecessary to
+Copyrighted material
+108
+R
+M
+A
+M
+Z
+A
+A
+M
+S
+Figure6.34T2wdorsalsectiondemonstratinga verylargeleft-sided
+paraspinal mass.
+O
+K
+visualise abone tumour,MRI ishelpful in assessingtheinvolve-
+O
+mentofthe spinalcord（Figure 6.35).
+O
+B
+Vascularlesions
+D
+Z
+The spinal cordhasanextensiveanastomosingblood supply.
+Nevertheless there are frequentinstances in which the blood
+A
+vesselstooneormoresegmentsofcordbecomedamagedor
+工
+occluded.Theresultingischaemia causesrapid dysfunction,e.g.
+limbparesis,proprioceptive deficits,etc.Thecommonestexample
+of this situation is a fibrocartilaginous embolism (FCE)(Figure
+6.36),visualised by MRl asa small localisedregion of hyperin
+Traumatic damage tobloodvesselswithin the vertebral canal
+(e.g.thevertebralvenoussinuses)mayresultinextramedullary
+Copyrighted material
+109
+MRI
+USING
+Figure6.35
+Transverse T2Wsectiondemonstratingavertebralbody
+tumourcompressingthe spinal cord.
+Figure 6.36
+Transverse T2W section demonstratingfibrocartilaginous
+embolism.
+Copyrightedmaterial
+111
+R
+W
+G
+Z
+S
+D
+Figure 6.38Dorsal T1W sections of the thoracolumbar spine at the
+levelofaspinalfracture.
+Figure6.39T2W sagittal section of the same spinal fracture shown in
+Infection
+Infectioninvariablytriggersa local reactionrangingfromlymphoe
+dema toabscessformation.MRlisverysensitivetothesechanges
+and can demonstrateinfectiveprocesses exquisitely.Probablythe
+most common infectionfound in the spinal region isthatassoci-
+ated with discospondylitis(Figure 6.40).Commonly,a degenera
+tivediscwillbecomeinfectedoftenleadingtodamageofthe
+Copyrightedmaterial
+113
+MRI
+SING
+Figure6.41T2Wsagitalsectionshowingobviousdiscprolapsebutnote
+also thelossofsignalfrom theC2-3discindicatingdehydration.
+D
+Figure6.42
+L3-4.
+Figure6.43Sagittal T2wimage showingcord compression and associ-
+ated cordoedemaatthe levelofC5-6.Inthisinstancecompressionis
+dorsaland thediscappearsnormal.
+Copyrightedmaterial
+114
+Manydegenerativeconditionsof thecentralnervoussystem
+have been described and the incidence in dogs isquite high.
+R
+Unfortunately,with a few exceptions,MRI has limited use asa
+M
+diagnostictool forthesediseases.Chronicdegenerativeradiculo
+myelopathy(CDRM)occurs most commonlyin German Shepherd
+Dogsof7-10yearsofage.Ithas acharacteristicclinicalpresen-
+A
+evidenceofCDRM israrelyvisiblebyMRI scanning;itbecomes
+M
+ratheradiagnosisbyeliminationonceitisclearthatevidenceof
+intervertebraldiscdiseaseisnotpresent.
+Z
+Thesituationisa littlebetterwithdegenerativebraindisease
+A
+inthat some conditions do have characteristicMRl findings.
+Certainlycerebellar(Figure 6.44)andcerebrocortical atrophy can
+beidentified.L-2-hydroxyglutaricaciduria(L-2-HGA)isanexample
+ofa degenerativediseaseof thebrainwithacharacteristicappear-
+A
+ance onMRl.Itis an inheriteddisorderofneuronmetabolism
+M
+S
+F
+O
+K
+O
+O
+B
+D
+IANI
+S
+Figure6.44Cerebellaratrophy.
+Copyrightedmaterial
+115
+R
+W
+G
+NI
+S
+D
+Figure 6.45Transverse T2wstudyof the brain inaStaffordshirebull
+terriershowingcharacteristicMRIappearancesof L-2-HGA.
+occurringin the Staffordshire bull terrier. The clinical signs are
+variable butseizures,dementia,muscle tremors and ataxia are
+scans（Figure6.45).
+Congenitalabnormalities
+Whenyounganimalspresentwithneurological abnormalities,con-
+genitalanomalies mustbe high on thelistofpossible causes.
+MRI is an excellentmethodofassessing thebrainand CSF
+whichcan beglaringly obvious(Figure 6.46),to structural brain
+Copyrightedmaterial
+116
+R
+M
+A
+M
+A
+R
+A
+M
+S
+F
+O
+Figure6.46Grosshydrocephalus.
+K
+O
+O
+anomaliessuchasthatdemonstratedinFigure6.47where the
+B
+corpus callosum is absent.
+D
+Whilstmanyskeletal congenital abnormalitiesareplainlyvisible
+Z
+onradiographs,MRlhasthe added advantageofbeingableto
+demonstrateassociated soft tissue involvementsuchas nerve
+A
+rootentrapment,spinal cordcompression and abnormalitiesof
+工
+the thecal sac andspinal cord itself.Kyphosis andscoliosisoccur
+regularlyincertainbreeds;MRlprovidestheopportunitytoassess
+the effectonthe spinalcord,helpingtodeterminemanagement
+and prognosis （Figure 6.48).
+Figure6.49showsadorsalobliqueviewalongthesacrumofa
+dogwitha transitionalvertebra.The right side shows a normal
+sacro-iliacjointwhilston theleftthereisatransverseprocess
+Copyrighted material
+119
+R
+M
+G
+SIN
+Figure 6.51Sagittal T2Wsection through thecranio-cervicalregionof
+Figure6.52CharacteristicT2Whighsignalcavitation ofthespinalcord
+indicatingsyrinxformation.
+and redirection ofthe CSF into the centralcanal.MRl scansof
+syrinx(syringohydromyelia)withinthe spinal cord（Figure6.52).
+Hydrocephalusisadilatationoftheventricularsystemofthe
+brain;itariseseitherasan acquiredconditionoritmaybecon-
+genital inorigin.Thesizeof thelateralventriclesin an affected
+Copyrightedmaterial
+120
+surrounds thefluid-filled cavities（Figure 6.53).The CSF ishypoin
+R
+tenseonTiwandhyperintenseonT2wscans
+M
+Arachnoid cystsareoftenseenonMRimagesof thespine;they
+donotnecessarilyresult inclinical signs.
+Congenitalabnormalities ofthevertebraearedemonstrated
+A
+betterbyradiography thanbyMRI.However,MRI providesvisuali-
+M
+The advantagesofbeingabletoassess theeffectsofbony abnor-
+Z
+malityon the soft tissues againemphasise thewayinwhich
+A
+radiographycomplementsMRl.
+A
+M
+S
+F
+K
+O
+O
+B
+HAND
+Figure6.53Dorsal T1W imageofseverehydrocephalus.The cerebral
+parenchymaisalmostnon-existent.
+Copyrightedmaterial
+122
+MRI
+ANIMAL
+MALL
+Figure6.55PDwsagittalsectionof theelbow.Theuseofa fatsatura
+tionpulseclearlydemontratesthehighsignal fluidwithinthejointcapsule.
+S
+OF
+HANDBOOK
+Flgure6.56T1Wimageofthestifle joint.
+Copyrightedmaterial
+123
+MRI
+SING
+D
+Figure6.57Post-contraststudyofthehindlimb.T1Wwithfatsaturation
+showsextensive tumourbehind thestiflejointwithinvolvementofthe
+distal femur.
+Figure 6.58T2W sagittalimageshowsa soft tissuetumourof the
+proximal forelimbwithextension into thechestwall rulingoutforelimb
+amputation.
+Copyrightedmaterial
+124
+Thorax,abdomenandpelvis
+R
+ThisisanareaofMRlstudythatisstillverymuchinitsinfancy
+M
+particularlyinthefieldofveterinarymedicine.Ultrasoundisoften
+practitioner,more effective than MRl.Thatis notto say that MRI
+A
+doesnothaveaplace in thestudyof theseregions.In thepelvis,
+M
+wherephysiological movementisnotsomuch ofan issue,very
+good resultsare obtainable with even basicequipment(Figure
+Z
+6.59).Sophisticatedhighfield MRsystemswithrespiratorygating
+andmotionreductionsoftwarecanproduceveryacceptable
+A
+abdominal images(Figure 6.60).Even in the thoraxwhere MRI is
+sometimes regarded asbeing oflittle value,usefulinformation
+canoftenbeobtained,forexamplewheninvestigatingmediastinal
+A
+masses (Figure 6.61).
+M
+S
+F
+O
+K
+B
+D
+Z
+工
+Figure6.59LowfieldT2wimageof thepelvisshowing:(A)lumbosacral
+disc disease,（B)urinarybladder,(C)caudal spleen,（D)prostate gland
+and(E)rectum.
+Copyrighted material
+127
+maybefoundbecauseofaninflammatoryreactionoraccumula-
+tionof fluid in associationwith the foreign body（Figure 6.63).
+R
+M
+foreignbodiesare sometimesincidental findings,especiallyin the
+G
+gastrointestinal tract;they are not seen as clearly identifiable
+Z
+shapesbutratherasdistortionsof theimage.Ferrousmetals may
+moveand becomeheated;scanning shouldbe stopped immedi-
+S
+atelytoavoid damageto theadjacenttissues.Patientsmaybe
+D
+bodieshavebeenpassed.
+within a fluid-filled abcess(arrow).In this case there wasno definite
+historyofforeignbody.
+Copyrightedmaterial
+Anatomy Atlasfor MRI
+Interpretation
+This section illustratesaselection ofanatomical terms.Itisnot
+anexhaustivelistbutdoesdrawattentiontotheorgansand
+structuresthatarethemostimportantforrecognisingabnormality
+onMRimages.TheEnglishversionsofthetermshavebeenused
+butwhereverpossiblethetermsaretheequivalentofthoselisted
+inNominaAnatomicaVeterinaria.
+usageinveterinaryclinical applicationsofMRl.Someregionshave
+notbeenincluded（e.g.extremitiesand somejoints)because they
+areinfrequentsubjectsforMRlandaremoresuitablystudiedby
+computedtomography.Toavoidunnecessaryrepetitiononlya
+smallnumberofsliceshavebeenillustrated ineachorientation
+and,although structuresmayappearonseveral slices,they are
+notalwayslabelled.
+Theabbreviationshavebeenchosentoprovidealogicalrepre-
+sentationoftheanatomicaltermsand inmostcasesthename
+abbreviated will beobvious.
+129
+Copyrighted material
+131
+ATLAS
+ANATOMY
+el
+SAG Brain
+qd
+gtcv
+latv
+ith
+glp
+upfl
+TRA Brain
+Copyrighted material
+132
+MRI
+tent
+ANIMAL
+SMALL
+vch
+mo
+OF
+TRABrain
+HANDBOOK
+opn
+opc
+pit
+DORBrain
+Copyrighted material
+134
+MRIscansofthespine-abbreviations
+R
+af
+ivj
+intervertebraljoint
+anulus fibrosus
+M
+arachnoid mater
+nucleus pulposus
+am
+np
+coeliac artery
+ca
+oe
+oesophagus
+ceq
+cauda equina
+rectum
+r
+A
+cisterna magna
+cm
+S
+spleen
+M
+cma
+cranialmesenteric
+sa
+sacrum
+spinal cord
+artery
+SC
+d
+dens
+si
+small intestine
+Z
+da
+sij
+dorsalaorta
+sacroiliac joint
+A
+dm
+dura mater
+subarachnoid space
+suba
+epi
+epidural space
+tra
+trachea
+for
+qn
+urinarybladder
+intervertebralforamen
+vertebralbody
+il
+ilium
+vb
+A
+M
+Vertebraearenumbered as follows C7,T13,L1,S2etc.
+Intervertebral discsare numberedaccording to the adjacent
+S
+vertebraeeg.L7/S1.
+F
+O
+K
+O
+O
+B
+da
+D
+Z
+A
+工
+ds
+SAGLumbosacralspine
+Copyrighted material
+135
+ATLAS
+ANATOMY
+suba
+da
+am+dm
+SAG Thoracolumbarjunction
+SAG Cervical spine
+Copyrighted material
+136
+ivj
+for
+MRI
+ANIMAL
+ub
+SMALL
+SAG Lumbosacral spine
+OF
+HANDBOOK
+ceq
+np
+TRA Lumbosacral junction
+Copyrighted material
+137
+ATLAS
+pr
+suba
+epi
+SC
+ANATOMY
+vby
+tp
+VVS
+TRA Cervical spine
+SC
+vby
+da
+CVC
+TRA Thoracic spine
+Copyrighted material
+138
+MRI scansof the abdomen-abbreviations
+R
+leftrenalartery
+ac
+Ira
+ascending colon
+M
+by
+bodyofstomach
+pa
+pancreas
+coeliacartery
+ca
+portv
+hepaticportalvein
+cranialmesenteric
+pt
+prostategland
+cma
+A
+artery
+py
+pyloricpartofstomach
+M
+cmv
+cranialmesentericvein
+ib
+quadratelobe(ofliver)
+col
+colon
+rectum
+r
+CVC
+caudalvenacava
+rlatl
+right lateral lobe(liver)
+Z
+da
+dorsalaorta
+rmel
+rightmedial lobe（liver)
+A
+descendingcolon
+dc
+rightrenalartery
+rra
+np
+duodenum
+SC
+spinal cord
+fu
+fundicpartofstomach
+si
+small intestine
+gb
+gall bladder
+ds
+spleen
+A
+kidney
+k
+st
+stomach
+M
+lag
+leftadrenalgland
+tc
+transversecolon
+Imel
+leftmedial lobe（liver)
+qn
+urinarybladder
+S
+F
+O
+H
+gb
+K
+O
+rmel
+Imel
+py
+O
+tc
+ac
+sp
+B
+D
+Z
+A
+工
+!S
+DOR Abdomen
+Copyrighted material
+140
+MRI
+rlat
+ANIMAL
+SMALL
+TRAAbdomen (cranial abdomen)
+OF
+HANDBOOK
+gn
+SI
+SAGPelvis
+Copyrighted material
+MRI scans ofjoints-abbreviations
+S
+A
+articular cartilage
+longdem
+long digital
+artcar
+bicepst
+biceps tendon
+extensor muscle
+T
+bifem
+biceps femoris
+mcoll
+medial collateral
+A
+muscle
+ligament
+cacrl
+caudal cruciate
+mfab
+medial fabella
+Y
+ligament
+mfeco
+medialfemoral
+M
+cbram
+cleidobrachialis
+condyle
+muscle
+pal
+patellar ligament
+O
+crcrl
+cranialcruciate
+pat
+patella
+T
+ligament
+popa
+popliteal artery
+A
+fat
+infrapatellar fat
+popm
+popliteus muscle
+Z
+pad
+popliteal vein
+popv
+fe
+femur
+scapular spine
+scapsp
+A
+gastrocm
+gastrocnemius
+scaptub
+scapular
+tuberosity
+muscle
+greater tuberosity
+supraspinatus
+gttub
+supm
+hhead
+humeralhead
+muscle
+Icoll
+lateral collateral
+synovial cavity
+sycav
+ligament
+tib
+tibia
+Ifab
+lateralfabella
+tibtb
+tibial tuberosity
+Ifeco
+lateral femoral
+tribram
+triceps brachii
+condyle
+muscle
+Igastroc
+lateral
+gastrocnemius
+muscle
+Copyrighted material
+142
+Sc4
+MRI
+TSE/M
+SI10
+ANIMAL
+ied
+gastrocm
+cacrl
+crcrl
+fat
+tibtb
+popm
+MALL
+RL107left
+RL105
+MED Stifle
+S
+OF
+pat
+HANDBOOK
+fe
+Icoll
+Ifab
+mfab
+bifem
+FH-11fee
+TRA Stifle (femur)
+Copyrighted material
+143
+ATLAS
+pal
+fat
+longdem
+NATOMY
+mfeco
+Ifeco
+popa
+popv
+A
+lgastrocm
+FH-24feet
+popm
+TRA Stifle (femur)
+Sc13
+TSE/M
+scaptub
+S16
+supn
+yca
+gttub
+tribram
+cbra
+RL421
+MED Shoulder
+Copyrighted material
+144
+Sc11
+MRI
+FFE/M
+SI8
+ANIMAL
+hhead
+SMALL
+FH-5feet
+MED Shoulder
+OF
+HANDBOOK
+Copyrighted material
+Further Reading
+Adams,W.H.,Daniel,G.B.,Pardo,A.D.and Selcer,R.R.(1995)Magnetic
+dogs(1990-1993).VeterinaryRadiologyandUitrasound,36,1.
+Assheuer,J.and Sager,M.(1997) MRIand CTAtlasof theDog.Blackwell
+PublishingLtd.,Oxford.
+Chambers,J.N.,Selcer,R.A.,Sullivan S.A.et al.(1997) Diagnosis of
+lateralizedlumbosacraldiskherniationwithmagneticresonance
+imaging.Journal of theAmericanAnimal HospitalAssociation,33（4),
+296-9.
+Coates,J.R.(20o0)Intervertebral discdisease.VeterinaryClinicsofNorth
+America(SmallAnimalPractice),30(1),77-110.
+deHaan,J.J.,Shelton,S.B.and Ackerman,N.(1993) Magneticresonance
+imaginginthediagnosisofdegenerativelumbosacralstenosisinfour
+dogs.VeterinarySurgery,22(1),1-4.
+Dobromylsky,M.J.,Dennis,R.,Ladlow,J.F.et al.(2007) The use of
+tioninjuriesindogs.JournalofSmall Animal Practice(On lineearly
+article)Sep2007.
+Farrow,C.s.and Tryon,K.(2ooo)Fathoming the mysteriesofmagnetic
+resonanceimaging.Journal oftheAmericanAnimal HospitalAssociation,
+36(3),192-8.
+Feeney,D.A.,Fletcher,T.F and Hardy R.M.(1991) Atlas of Correlative
+ImagingAnatomyoftheNormalDog.WBSaunders,Philadelphia.
+Francisco,J.,Llabres-Diaz,V.M.B.and Dennis,R.(2003) Magnetic reso-
+nanceimagingofthepresumednormal canineadrenalglands.Veterinary
+RadiologyandUltrasound,44(1),5-19.
+Gandini,G.,Cizinauskas,S.,Lang,J.et al.(2003) Fibrocartilagenous
+embolismin75dogs:clinicalfindingsandfactorsinfluencingthe
+recoveryrate.JournalofSmallAnimal Practice,44(2),76-80.
+145
+Copyrighted material
+146
+Hudson,L.C.,Cauzinille,L.,Kornegay,J.N.et al.(1995) Magnetic reso-
+R
+Ultras0und,36(4),267-75
+M
+Kippenes,H.,Gavin,PR.,Bagley,R.S.et al.(1999) Magnetic resonance
+imagingfeaturesoftumoursofthespineandspinalcord.Veterinary
+RadiologyandUitrasound,40(6),627-33.
+Kraft,S.L.,Gavin,PR.,Wendling,L.R.etal.(1989) Canine brainanatomy
+A
+onmagneticresonance images.Veterinary Radiology 30(4),147-58.
+M
+Lipsitz,D.,Levitski,R.E.,Chauvet,A.E.etal.(2001) Magneticresonance
+imagingfeaturesofcervicalstenoticmyelopathyin21dogs.Veterinary
+一
+Radiology andUitrasound,42(1),20-7.
+Z
+Parker,A.J.,Adams,W.M.and Zachary,J.F.(1983) Spinal arachnoid
+A
+cysts in the dog.Journal of theAmerican Animal Hospital Association,
+19,1001-8.
+Petite,A.F.B.and Dennis,R.(2006) Comparison of radiography and
+magneticresonance imagingforevaluatingtheextentofnasal neopla
+A
+sia in dogs.JournalofSmallAnimal Practice,47(9),529-36.
+Platt,S.R.and Garosi,L.(2003) Canine cerebrovascular disease:do
+M
+dogshavestrokes.Journal of theAmerican Animal HospitalAssociation,
+S
+39(4),337-42.
+Runge,V.M.(2002) Clinical MRI.WB Saunders Co.,Philadelphia.
+F
+Shores,A.(1993) Magneticresonance imaging.VeterinaryClinicsofNorth
+O
+America(SmallAnimalPractice),23(2),437-59.
+Simpson,S.T.(1992) Intervertebral disc disease.Veterinary Clinics of
+NorthAmerica(Small Animal Practice),22,889-97.
+K
+Sukhiani,H.R.,Parent,J.M.,Atilola,M.A.etal.(1996) Intervertebral disc
+O
+disease in dogs with signsofbackpain alone:25cases(1986-1993).
+Journalof theAmercanVeterinary MedicalAssociation,209,1275-9.
+O
+Thomas,W.B.,Wheeler, S.J.,Kramer,R.et al.(1996) Magnetic reso-
+B
+D
+Radiologyand Uitrasound,37(1),20-27.
+Thomson,C.E.,Kornegay,J.N.,Bums,R.A.et al.(1993) Magnetic reso-
+Z
+A
+veterinary neurodiagnostics.Veterinary Radiology and Ultrasound,34
+(1),2-17.
+工
+Westbrook,C.and Kaut,C.(1993) MRI in Practice.BlackwellPublishing
+Oxford.
+Copyrighted material
+sary
+Aliasing
+Artefact caused when anatomywhich is
+largerthan thefieldofview inthephase
+direction is“folded over’and misrepre-
+sentedintheimage.Alsoknownas‘phase
+wrap'or*foldover'.
+Atomicnumber
+Thenumberofprotonsinthenucleusofan
+atom.
+Bo
+Denotesthemainmagneticfieldas
+opposedtosecondaryfieldscreatedbygra-
+dient coils.
+Chemicalshift
+An artefactoccuringinthefrequencydirec-
+tionasaresultofthedifferentpreces
+sionalfrequencyof hydrogen infatand
+water.
+Cryogens
+Theliquidgases(invariablyheliumbut
+nitrogenwas alsoused inoldersystems)
+used tocool thewindingsofsuperconduct-
+ing magnets.
+CSF
+Cerebrospinal fluid.
+Decay
+Reductionof the transversecomponentof
+thenet magnetisation vector(NMV).
+Dephasing
+Lossofsynchronisation of theprecessional
+pathsofnuclei in the transverseplane.
+Echo trainlength
+ETL.The numberofphaseencodingsteps
+aquiredperTRinfastspinechoimaging.
+Alsoknownas‘turbofactor'.
+147
+Copyrighted material
+148
+An increase in net magnetisation arising
+Excitation
+fromenergyimparted byanRFpulse.
+R
+Faraday cage
+The liningof the scanningroom,designed
+M
+tokeep extraneousradiofrequencysignals
+from being detected by thereceiver coil.
+L
+FSE.A fastimagingsequencealsoreferred
+Fast spin echo
+A
+to by some manufacturers as turbo spin
+M
+echo (TSE).
+Amethodofeliminatingsignalfromfatby
+Fat saturation
+Z
+applyinga saturationpulse tuned to the
+precessional frequency of hydrogen in fat.
+A
+Fieldofview
+FOv.Thearea of anatomy included inan
+image.
+Flip angle
+Theangle throughwhich the net magnetisa-
+tionvector(NMV)passes asaresultof the
+A
+applied RFpulse.Usually90or180°but
+M
+otherflipanglesareusedingradientecho
+S
+sequences.
+Flowartefact
+Misrepresentation of MR signals in the
+F
+imagecaused bymovementof nuclei during
+O
+the image acquisition.
+Flow phenomena
+Ablanket term for theimage appearances
+K
+resulting from flowing nuclei,usually in
+blood or CSF.
+O
+Fluid attenuated
+FLAIR.A sequenceused inbrainandspinal
+O
+inversionrecovery
+imaging to eliminatesignalfromwater
+B
+(CSF).
+D
+Fourier transform
+Amathematicalprocesswhereby the data
+acquiredinK space is convertedto
+Z
+greyscalevaluesneededtocreatean
+A
+image.
+H
+Free induction
+FID.The loss of signal detected by the
+decay
+receivercoil following termination of the
+applied RFpulse.
+Unwanted andpotentiallyhazardousmag-
+Fringe fields
+netic fields occuring outside the confines
+of theMR scanner.
+Gauss
+Aunitofmeasurementofmagnetic field.
+10000Gauss=1Tesla.
+Copyrighted material
+149
+Ghosting
+Anothernameformovementartefact.
+Y
+Gradient echo
+An echoresultingfrom theapplicationofa
+R
+gradientrefocusing.
+A
+Gyromagneticratio
+A mathematical constantwhich describes
+S
+an element's ability to resonate,usually
+S
+expressed as the precessional frequency
+O
+of the element at 1T.
+Homogeneity
+The uniformity of magneticfield.
+L
+C
+Thepredominancewithin an imageofa
+Image weighting
+particular contrast type:T1,T2 or PD.
+Inhomogeneities
+Variationsinuniformityofthemagnetic
+field.
+Isocentre
+Thecentreof theMR scannerinall planes
+of orientation.
+Kspace
+Prior to conversion into an image,signals
+receivedarestored in*Kspace'
+Themathematical formulaused to deter-
+Larmorequation
+mine the precessionalfrequency of an
+elementatagivenfieldstrength.
+Magneto-optical
+MOD.A digital storage medium.
+disc
+Net magnetisation
+NMV.The total strengthand direction of all
+vector
+magneticvectors in a sample.
+Peakamplitude
+The maximum steepness achievableby
+gradient coils.
+PD
+Protein density
+Theposition of the hydrogenproton on its
+Phase
+precessionalpathatanymomentintime.
+Phase encoding
+Thespatial localisationofanucleusaccord-
+ingtoitsphaseatthetimeofsignal
+readout.
+Pixel
+Two-dimensionalpictureelementaffecting
+area resolution.
+Precession
+Themovement
+spinning
+of
+magnetic
+momentsaround Bo.
+Presaturation
+Theuseofasaturationpulse toeliminate
+signals from moving tissue.
+Copyrighted material
+150
+Pulse sequence
+The sequence of events:RF pulses,gradi-
+ent applications andcollection of data
+R
+required to produce a MR image.
+M
+The accidental oremergency de-energising
+Quench
+ofa superconductingmagnetbyraising the
+L
+temperature ofits cryogenandrestoring
+A
+resistivity.
+M
+Readout gradient
+Anothernamefor thefrequency encoding
+gradient.
+Relaxation
+Areductionin strength of theNMV.
+Z
+Resonance
+The transferofenergyfromoneoscillating
+A
+object toanotherhavingthesamefre-
+quency of oscillation.
+Rise time
+The time a gradient coil takes to reach
+maximum steepness.
+A
+RF
+Radiofrequency.
+M
+RFamplifier
+The component of the MRl system which
+S
+providesenergy to theRFtransmittercoil.
+F
+RFpulse
+A short,measured applicationofRFenergy
+via the RF transmitter coil.
+O
+Shielding
+Methodsused topreventfringe fields.
+K
+Shimming
+Passing current through additional‘shim
+coils toimprovethe homgeneityofthe
+O
+mainmagneticfield ofa MRsystem.
+O
+Short time (orTau)
+STIR.A useful sequence for eliminating
+B
+inversionrecovery
+signal from fat.
+D
+SNR.Theratio of useful MR signal to back-
+Signal to noiseratio
+ground signal or'noise'.
+Z
+Specificabsorption
+Ameasure of the amountofenergy depos-
+A
+rate(SAR)
+itedin tissuebyradiofrequency waves.
+工
+Measured in watts perkilogram (W/kg).
+Spin echo
+An echoresultingfrom theapplicationofa
+180°refocusing pulse.
+T1time
+Isthetimetakenfor63%oflongitudinal
+magnetisation ofa tissue torecover.
+T2time
+Is the timetakenfor63%of thetransverse
+magnetisation ofa tissueto decay.
+Copyrighted material
+151
+TE
+Echo time
+Y
+A unitof measurementofmagnetic field
+Tesla
+R
+strength.
+A
+TI
+Inversion time.
+S
+TR
+Repetition time.
+S
+Turbo factor
+Thenumberofphaseencoding steps
+O
+acquiredper TRinfastspinecho imaging.
+Alsoknownas‘echo trainlength'.
+C
+Turbo spin echo
+TSE.Afastimagingsequence,alsoreferred
+toby somemanufacturers as fast spin
+echo (FSE).
+Voxel
+Three-dimensional
+picture
+element
+(pixel x slice thickness).
+Waveguide
+A narrow opening in the scan roomwall
+which allows cables,tubing etc.to enter
+theroom whilstmaintainingtheintegrityof
+theFaraday cage.
+Weighting
+Refers to the predominant influence on
+image contrastof a particularsequnce:T1,
+T2,PD etc.
+The user-defined levelofbrightness of the
+Windowlevel
+shades of grey viewed in an image.
+The user-definable rangeof shadesof grey
+Windowwidth
+included in theviewed image.
+Zipper
+Commonname given to the artefactpro-
+ducedbystrayradiofrequencyproduced
+within thescanroomorleaking'in through
+the Faradaycage.
+Copyrighted material
+acepromazine,Z6
+compensation,50
+acoustic noise,72
+computed tomography(CT).3
+congenital abnormalities,
+active shielding,32
+adrenal gland,126
+115-120
+aliasing,52,54
+arachnoid cyst,120
+anaesthesia,75,Z6
+cerebellarherniation,119
+anticonvulsants,Z6
+Chiari-like malformation,117,
+119
+artefact,34.39,45-61
+atipamezole,ZZ
+corpus callosum,116
+hydrocephalus,115,119
+B,6-8,10.11,23.55
+kyphosis and scoliosis,116
+bandwidth,39,45
+syringohydromyelia/
+brain lesions,83-94
+syringomyelia,116
+clinical signs of,83
+transitional vertebrae,116
+diffuse,84
+contrast,13-18,21.45
+focal,85
+agent,45
+functional regions,83
+adverse reactions,81
+localisation,83
+controlled area,67-9
+midline shift,85
+multiple,84
+degenerative brain disease,
+butorphanol,Z6
+114-5
+cerebellum,114-5
+capnograph,75
+cerebrocorticoatrophy,114
+cardiac pacemakers,67,69
+L-2-hydroxygluteric aciduria
+cerebrovascularaccidents,87,89
+(L-2-HGA)
+chemical misregistration,57
+degenerative spinal disease,112
+chemical shift,55-7
+dephasing,13.26.42
+coils,33-5,45.69,77,78
+dimeglumine gadopentate,
+head,ZZ
+80-1
+human knee,ZZ
+dorsal longitudinal ligament,99
+153
+Copyrighted material
+154
+ear,middle and inner,
+infarction,87,89
+95,97
+inflammation/infectionofthe
+R
+echo,13-15
+CNS,91,93,94,111,
+M
+time,15. 41
+112
+train length,28
+abscess,91
+discospondylitis,111
+faradaycage,35-6
+feline infectious peritonitis
+A
+fast spin echo,26-7
+(feline cornavirus),93
+M
+field ofview(Fov),43,53
+granulomatous
+FLAIR,18.20
+meningioencephalitis
+flip angle,10.42
+(GME), 85. 93
+Z
+flow artefact,46,48,51
+meningitis,91
+A
+foldover suppression,53
+necrotising encephalitis (NE),
+foreign bodies,126,127
+93
+Fourier transformation,
+necrotisingmeningoencephalitis
+25
+(NME),93,94
+frequency encoding,23.
+intervertebraldiscdisease
+A
+24.43
+(IVDD),100-3
+M
+frequency wrap,55
+cervical discs, 101
+S
+fringe field,31-2
+clinical assessment,100,101
+deep pain loss,100,101
+F
+gadolinium,126,127
+lumbosacral discs,102
+adverse reactions,81
+pain perception,100
+O
+dosage,81
+thoracolumbar discs,
+in arthrography,81
+101-2
+K
+gating,50-1
+intracranial haemorrhage,
+O
+Gauss, 30
+88,89
+gradient,22-4
+inversion recovery (IR),18-20
+O
+coils,69,72
+inversion time,18
+B
+echo, 25. 26
+D
+Gyromagnetic ratio,4. Z
+ketamine,ZZ
+Z
+haemorrhage,59,87,89
+Larmor equation,Z
+A
+head trauma,90,91
+longitudinal recovery.10.11
+hypertophyofbone,
+H
+ligament,facetjoints
+magnet,29.30
+112
+field strength,30
+chronic degenerative
+permanent,30
+radiculomyepathy
+resistive, 30
+(CDRM),114
+superconducting,31
+Intervertebral disc disease,
+matrix,24.25.40,43
+100-103
+medetomidine,Z6
+Copyrighted material
+movementartefact,48-51
+sagittal,80
+X
+musculoskeletalsystem,121-3
+transverse,80
+E
+arthroscopy.121
+bone lesions,121
+pacemaker,67
+D
+elbow joint,121
+partial volume averaging, 61
+Z
+shoulder joint,121
+passive shielding,32
+soft tissue mass,121
+peak amplitude,33
+stifle joint,121
+permanent magnet, 30
+myelography, 74.99
+phase encoding.24. 25.27.44,
+48-9,52
+myelomalacia,110
+phasewrap.52-3
+nasal region, 97,98
+precession,78
+neoplasia,85-87
+precessional frequency, 7
+brain
+55,57
+choroid plexus papilloma,
+presaturation,50,51
+86
+propofol,76
+ependymoma,86
+proton density.10.17.40,45
+glioma,86
+pulse sequence,14,18
+meningioma,85.86
+25-7
+macroadenoma,86
+osteosarcoma,95
+receive bandwidth,40.45.
+pituitary tumour,85.86
+55-7
+paraspinal,107
+receivercoil,10-12,14,34
+spinal and spinal cord,106-8
+35.44
+extramedullary,106
+repetition time (TR),13.15
+glioma,106
+resistive magnet,30
+intramedullary,106
+resolution,39,43,44
+lymphoid tumours,106
+resonance,47.8.22,23
+meningioma,106
+resonant frequency,7. 23
+metastases,106
+RF,4.7-18
+rise time,33
+nerve root tumour,106
+vertebral tumour,107
+SAR,71-2
+net magnetisation vector (NMV).6
+sedation,75
+net magnetisation, 5.6
+shielding,32,35
+noise,40,44
+active,32
+acoustic,72
+passive,32
+NSA,44
+shimming,33
+signal averages,44
+orthognal planes,79.80
+signal-to-noise ratio (SNR),
+coronal,80
+40,78
+dorsal,80
+slew rate,33
+Copyrighted material
+156
+slicelocation,22,24
+turbo factor,28
+slice thickness,23
+turbo spin echo,26.27
+R
+spatial localisation,14,21
+spinal fracture,111
+M
+vascularlesions,87-90,
+STIR,18-20
+108
+fibrocartilaginousembolism
+stroke,87
+subarachnoid space,99
+(FCE),108
+A
+superconducting magnet,31
+spinal cord haemorrhage,
+M
+susceptibility,58
+106,108
+voxel, 21
+Tesla,30
+Z
+wave guide,36
+thorax,abdomen and pelvis,
+A
+124-6
+weighting, 13. 16. 17. 21
+adrenal gland,126
+transverse decay,12
+zipper artefact,60
+A
+M
+S
+F
+O
+K
+O
+O
+B
+D
+Z
+A
+工
+Copyrighted material

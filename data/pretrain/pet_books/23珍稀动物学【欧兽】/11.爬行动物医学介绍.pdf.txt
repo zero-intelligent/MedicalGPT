@@ -1,0 +1,660 @@
+ESAVS
+European School for
+Advanced Veterinary Studies
+商
+OPLANCOLIR
+ECZM
+AOIATOPOOE
+INTRODUCTION TO REPTILE MEDICINE
+爬行动物医学介绍
+prof. Zdenek Knotek, DVM, PhD, Dip ECZM (herpetology)
+ZdenekKnotek教授
+兽医师，博士
+欧洲野生动物兽医学会两栖爬行动物认证医师
+knotekz@vfu.cz
+欧洲野生动物兽医专家 （两栖爬行动物）
+Zora Knotkova, DVM, PhD
+Zora Knotkova，兽医师，博士
+3939911111
+Transport 运输
+Reptiles in captivity
+圈养爬行动物
+Subclass Chelonia  Order: Testudines Suborder: Cryptodira
+Family: Dermatemydae, Chelydridae,
+Kinosternidae,Platysternidae, Emydidae, Testudinidae,
+Cheloniidae, Dermochelydidae, Trionychidae,
+龟鳖亚纲
+目：龟鳖目
+亚目:隐颈亚目
+科：泥龟科，鳄龟科，泥鳖科，平胸龟科，河龟科，陆龟科，海龟科
+棱皮龟科，鳖科，
+Suborder: Pleurodira
+Family: Pelomedusidae, Chelidae
+Subclass Archosauria
+ Order: Crocodylia
+Family: Alligatoridae, Crocodylidae, Gavialidae
+亚目：侧颈亚目
+科：侧颈龟科，侧颈鳖科
+初龙亚纲
+目：鳄目
+科：短吻鳄科，鳄科，食鱼鳄科
+Subclass Lepidosauria
+1 Order: Rhynchocephalia
+Family:
+Sphenodontidae
+鳞龙亚纲
+目：喙头目
+科：楔齿蜥科
+Order: Squamata  Suborder: Sauria
+目：有鳞目
+亚目：蜥蜴亚目
+Family: Gekkonidae, Pygopodidae, Dibamidae, Cordylidae, Lacertidae,
+Iguanidae, Agamidae, Chamaeleonidae, Scincidae,Feyliniidae,
+Anelytropsidae, Xanthusiidae, Teiidae, Anguidae, Aniellidae, Xenosauridae,
+Helodermatidae,
+科：壁虎科，鳞脚蜥科，双足蜥科，环尾蜥科，草蜥科，鬣蜥科，飞蜥科，变色龙
+科，石龙子科，无肢蜥科，无鞘蜥科，夜蜥科，美洲蜥蜴科，蛇蜥科，北美蛇蜥科，
+异蜥科，毒蜥科，
+Varanidae,Amphisbaenidae, Bipedidae, Trogonophidae
+巨蜥科，蚓蜥科，双足蚓蜥科，短头蚓蜥科
+Suborder: Ophidia Family: Typhlophidae, Anomalepidae,
+Leptotyphlophidae, Anlidae, Uropeltidae, Acrochordidae,Xenopeltidae,
+Boidae,Colubridae, Elapidae, Hydrophiidae, Viperidae, Crotalidae
+亚目：蛇亚目
+科：盲蛇科，异盾盲蛇科，美洲盲蛇科，圆环蛇科，
+Metabolism - body weight
+新陈代谢-体重
+Shrew地鼠
+Mass-specificmetabolicrate
+体重代谢比
+5
+3
+巢鼠
+Harvestmouse
+小囊鼠
+2
+Kangaroomouse
+Cactusmouse
+白足鼠
+小鼠
+Mouse
+人
+马
+大象
+猫at
+大鼠Hat
+兔Raboim
+mm
+0.01
+0.1
+1
+10
+100
+1000
+Mass (kg)
+体重 （千克）
+Stevens a Hume (1995)
+Metabolism - body temperature
+新陈代谢-体温
+表1.1.高等脊椎动物在正常体温和38℃体温下的基础代谢率或标准代谢率
+Tablel.1.BasalorStandardMetabolicRatesofHigherVertebratesatNormal
+BodyTemperaturesandRecalculatedtoaUniformBodyTemperatureof38°C
+爬虫（蜥
+Mammals哺乳动物
+Birds鸟类
+项目
+Monotreme
+Marsupial
+Eutherian
+NonpasserinePasserine
+体温(C)Body
+单孔类动物有袋类动物真兽亚纲动物非雀形目雀形目
+temperature
+30.0
+30.0
+35.5
+正常体温下（°C)
+38.0
+39.5
+40.5
+BMRat
+基础代谢率Body temp.
+23
+143
+201
+290
+313
+515
+Q10
+3.3
+2.1
+2.5
+2.5
+2.5
+2.5
+38℃下
+BMRat
+38°C
+61
+259
+252
+290
+272
+411
+基础代谢率
+Source:Modified from Schmidt-Nielsen(1984）.MetabolicrateinkJ-kg-0.75.day-1
+来源：根据Schmidt-Nielsen（1984）修订。代谢率单位：KJ.kg-0.75.day-
+Stevens a Hume (1995)
+Metabolism - oxygen consumption
+新陈代谢-耗氧量
+Table1.2.StandardRatesofOxygen Consumption inEutherianMammalsof
+Various BodySizes表1.2.不同体型真兽亚纲动物的标准耗氧量
+代谢率
+Metabolicrate
+体重 (克)
+全身
+体重比
+动物
+Whole-body
+Mass-specific
+BMR 基础代谢率
+Body mass
+Animal
+(g)
+(mlO-h-1)
+(ml O2g-.h-1)（ml O2.kg-0.75.h-1)
+地鼠
+Shrew
+5
+36
+7.40
+45.95
+巢鼠
+Harvest mouse
+9
+23
+1.50
+18.89
+小囊鼠Kangaroomouse
+15
+27
+1.80
+15.12
+家鼠
+House mouse
+25
+1.65
+15.65
+地松鼠
+Ground squirrel
+96
+66
+1.03
+13.78
+大鼠
+Rat
+290
+250
+0.87
+15.18
+猫
+Cat
+2.500
+1.700
+0.68
+20.52
+狗
+Dog
+11,700
+3.870
+0.33
+14.68
+羊
+Sheep
+42,700
+9.590
+0.22
+13.78
+人
+Human
+70,000
+14,760
+0.21
+26.03
+马
+Horse
+650,000
+71,100
+0.11
+13.26
+大象
+Elephant
+3.833.000
+268.000
+0.07
+13.20
+Stevens a Hume (1995)
+Physiology生理学
+herbivors, insectivors, carnivors (specialists)
+草食动物、食虫动物、肉食动物（异种动物专科)
+短吻鳄
+布兰丁龟
+红腿象龟
+东部钻石响尾蛇
+森林变色龙
+绿鬣蜥
+SeTurti
+Red-Fooied Tortolse
+fierm Diamond Ratleansh
+Foreat Chamelieon
+ronlguan
+(Coryfophanes crstarus)
+rmeruend
+Le12
+Boty Lengfh 12 cm
+o0y L10m
+Reptilian physiology
+爬行动物生理学
+Energy能量
+ektothermspecies变温动物
+hyperthemia and behavioral hyperthermia 高温和行为性高温
+energy - 1/8 (in comparison with mammals), anaerobic glycolysis
+能量-1/8(与哺乳动物比)，无氧糖酵解
+Respiration and oxygen consumption 呼吸及耗氧量
+lungs,skin,special organs(turtles）肺，皮肤，特殊器官（龟）
+tolerance to limited oxygen in tissues 组织耐低氧
+Food，nutrition，metabolism食物，营养，新陈代谢
+herbivores，insectivores，carnivores 草食动物、食虫动物、肉食动物
+Excretion排泄
+urea，amonium,uric acid 尿素，铵，尿酸
+kidneyx urinarybladder肾×膀胱
+Gross anatomy
+大体解剖学
+Anatomy
+解剖学
+Gastralia腹膜肋
+GIT胃肠道
+Stomach 胃
+Mouth cavity
+口腔
+Intestine
+肠道
+Cloaca
+泄殖腔
+Respiratory
+Nares
+System
+鼻
+呼吸系统
+Trachea
+气管
+Glottis
+会厌
+Lungs肺
+Urinary System (renal portal system肾 门脉系
+统)
+泌尿系统
+Localisation位置
+Shape 形
+Kidney肾
+状
+Urinaryblader (+/-)膀胱
+Cloaca
+泄殖腔
+Reproduction生殖系统
+Oviparous reptiles
+卵生爬行动物
+crocodiles 100%
+鳄
+chelonians 100 %
+龟
+Lizards蜥蜴类
+.snakes
+蛇类
+Reproduction生殖系统
+Viviparous卵胎生爬行动物
+reptiles
+lizards
+蜥蜴类
+Snakes
+蛇类
+7.5FO/7.SHHZ
+AUONICI
+Turtles, tortoises, terrapins
+海龟，陆龟，水龟
+Subclass Chelonia  Order: Testudines Suborder: Cryptodira
+亚纲龟鳖目
+目：龟鳖目
+亚目：隐颈亚目
+Family: Dermatemydae, Chelydridae, Kinosternidae,Platysternidae,
+Emydidae, Testudinidae, Cheloniidae, Dermochelydidae, Trionychidae,
+科：泥龟科，鳄龟科,泥鳖科,平胸龟科,河龟科,陆龟科,海龟科，棱皮龟科，鳖
+科，
+Crocodiles鳄
+Subclass Archosauria 初龙亚纲
+Order: Crocodylia
+目：鳄目
+family:Alligatoridae 科：短吻鳄科
+Caiman crocodylus
+凯门鳄属
+Melanosuchus niger
+黑凯门鳄
+Paleosuchus palpebrosus
+钝吻古鳄
+Paleosuchus trigonatus
+锥吻古鳄
+Caiman crocodylus凯门鳄属
+SCL: 175 cm -2 m 体长: 175-200 cm
+BW: 20-35 kg 体重: 20-35 kg
+Type of terarium:aquaterarium, aquarium (filtration I!l)
+巢箱类型：水性环境、水族箱(过滤！！)
+Internal construction :water (3 - 4/5), land(1/5) 内部结构： 水(3/5-4/5)、陆地 (1/5)
+Temperature:water 28 -35 °C(16 °C) 温度: 水温 28-35℃ （16℃)
+Lighting:light, heating lamp (4o °C), biol. UV(B)
+照明：灯光、加热灯（40℃）、生物紫外灯（UVB)
+Nutrition - young:  insects, worms, fish, small mammals
+幼年期营养：昆虫、蠕虫、鱼、小型哺乳动物
+Nutrition - adult: fish, small mammals, small birds
+成年期营养：鱼、小型哺乳动物、小型鸟类
+Breeding:(copulation in water !!!）繁殖：（水中交配！！！）
+10 - 30 (40) eggs 10 weeks after mating
+每次产10-30(40)枚蛋交配后10周产卵
+  e (    oa
+孵化器温度(29-31℃)决定性别！ 80－110 days孵化期80-110
+天
+Lizards蜥蜴
+Subclass Lepidosauria 鳞龙亚纲
+Order:Squamata目：喙头目
+Suborder:Sauria亚目：蜥蜴亚目
+Family: Gekkonidae, Iguanidae, Chamaeleonidae, Varanidae
+科：壁虎科，美洲鬣蜥科，变色龙科，巨蜥科
+Gekkogecko大守宫
+lguanaiguana美洲l鬣蜥
+Chamaeleo calyptratus变色龙
+Varanus exanthematicus草原巨蜥
+Gekko gecko
+SCL:20 - 30 cm 体长: 20-30 cm
+Type of terarium:dry巢箱类型：干性
+Interna construction:branches,walls 内部结构：树枝、巢壁
+Air temperature:20 -32°C（16°C) 空气温度: 20-32C （16C)
+Lighting:light, heating lamp (4o °C), biol. UV(B)
+照明：灯光、加热灯（40℃）、生物紫外灯（UVB)
+Nutrition－young:insects,worms 幼年期营养：昆虫、蠕虫
+Nutrition - adult : insects, worms, small mammals
+成年期营养：昆虫、蠕虫、小型哺乳动物
+Breeding:2 eggs－30 days after mating繁殖：每次产2枚蛋，交配后30天
+产蛋
+incubation(25－30C） temperature sex differ孵化期温度 （25-30C）决
+定性别 100－120days孵化期为100-120天
+Sexual maturity:  1- 2 years年
+性成熟：1-2岁
+SCL体长:50cm体长：50cm
+Type of terarium: dry, cube
+巢箱类型：干性、立方体
+Internal construction:branches 内部结构：树枝
+Air temperature:20 -30°C 空气温度： 20-30C
+(a)n loig (. 0t) dwei buay '1ub! :buy6!)
+生照明：灯光、加热灯（40℃）、生物紫外灯（UVB）
+Nutrition-young：insects，worms，fruits幼年期营养：昆虫、蠕虫、水果
+Nutrition-adult：insects，smallmammals成年期营养：昆虫、小型哺乳动物
+Plants + fruits: leaves, letucce, dandelion, grapes
+植物+水果：术野、生菜、蒲公英、蒲公英
+Breeding:15 - 30 (70) eggs 10 weeks after mating
+incubation孵化期(27 - 31 °C) 166 - 200 days天
+繁殖：每次产15-30（70）枚蛋，交配后10周开始产蛋
+STL : 175 cm - 2 m 体长: 175-2 m
+BW: 3 - 7 kg 体重: 3-7 kg
+Type of terarium: big (vertical) + cage in garden (summer)
+巢箱类型：大型（垂直空[间大）+露大笼舍（夏李）
+Internal construction : branches , water basin (1/3) , refuge
+内部结构：树枝、水域（1/3）、隐蔽处
+Air temperature:25-35°℃ 空气温度：25-35°℃
+Lighting :light, heating lamp(40 °C), biological UV natural sunlight
+照明：灯光、加热灯（40℃）、生物紫外灯、自然光
+Nutrition - young :invertebrates (worms, insects, plants, flowers)
+幼年期营养：无脊椎动物（蠕虫、昆虫）、植物、花
+Potrava dospelcu: leaves, hay, vegetables, fruits, insects
+成年期营养：术野、干燥、蔬菜、水果、昆虫
+Breeding:  20 - 50 (60) eggs 8 weeks after mating
+incubation (27 - 31 °C) 75 - 113 days
+繁殖：每次产蛋10-50（60）枚，交配后8周开始产蛋
+孵化期（27-31℃）75-113天
+Bearded dragons
+鬃狮蜥
+STL:175cm -2m 体长: 175-2m
+BW:3-7 kg 体重：3-7 kg
+Type of terarium :big, + cage in garden (summer)
+巢箱类型：大型，露天笼舍（夏季）
+Internal construction :branches, rocks, refuge
+内部结构：树枝、石块、隐蔽处
+Air temperature:28－40℃空气温度：28-40℃
+Lighting :light, heating lamp , biological UV (B),natural sunlight
+照明：灯光、加热灯、生物紫外灯（UVB）、自然光
+Nutrition - young :invertebrates (worms, insects,) plants, flowers
+幼年期营养：无脊椎动物（蠕虫、昆虫）、植物、花
+Nutrition - adult : leaves, hay, vegetables, fruits, insects
+成年期营养：术野、甘草、蔬菜、水果、昆虫
+Sexual maturity: 2 - 4 years年
+Sexual dimor
+iguana
+鬣蜥
+chameleon
+变色龙
+Sexual dimorphism
+雌雄异形
+股孔
+Males
+femoral pores
+雄性
+股孔
+femoralpores
+Females
+雌性
+股孔
+femoralpores
+swelling of the hind legs with limited movement (1oo %)
+后肢肿胀导致运动受限（100%）
+Anorexia厌食
+GIT
+obstipation
+胃肠道
+顽性便秘
+Gout痛风+nephromegaly肾肿大+CRF慢性肾衰
+Anorexia厌食
+pain疼痛－distension腹围扩张
+·urinaryblader膀胱
+caecum盲肠，colon结肠
+Paralysis瘫痪+anorexia厌食
+Reproductive disorders
+生殖紊乱
+POFS排卵后卵泡淤积
+POES排卵后蛋阻留
+POES排卵后蛋阻留
+Reproductive disorders
+生殖紊乱
+Snakes虫蛇
+Subclass Lepidosauria 鳞龙亚纲
+Order:Squamata目：有鳞目
+Suborde:Ophidia亚目：蛇亚目
+Family: Boidae, Colubridae, Elapidae, Viperidae, Crotalidae
+科：蟒蛇科，游蛇科，眼镜蛇科，蛇科，响尾蛇科
+Python molurusbivittatus缅甸蟒
+Elapheguttata玉米蛇
+Python molurus bivittatus
+SCL:4 - 6 m  体长: 4-6 cm
+BW: 25-50 kg 体重:25-50 kg
+Type of terarium:  big, strong construction
+巢箱类型：大型坚固的巢箱
+Internal construction:  branches (big, strong), water (1/3)
+内部结构：树枝（大而坚固的）、水（1/3)
+(  -     a
+空气温度：25-35℃（交配前18-20℃）
+  2%08-%09 :T= 22 % 08 - 09 :pwny 
+Lighting:  light, heating lamp (40 °C), biological UV
+照明：灯光、加热灯（40℃）生物紫外灯
+Nutrition-young:small mammals幼年期营养：小型哺乳动物
+nutrition-adult:small mammals,rabbits，birds 成年期营养:小型哺乳动物、兔、鸟
+Breeding:12 - 38 eggs 8 wekks after mating incubation (29 - 32 °C) 55 - 72
+Elapheguttata
+SCL:130 - 160 cm 体长: 130-160 cm
+BW:1 - 2 kg 体重: 1-2 kg
+Type of terarium：dry巢箱类型：干性
+Internal construction: branches, shelves, water (1/5)
+内部结构：树枝、架子、水（1/5)
+Air temperature:20 - 32 °C (hiberantion 5 - 15 °C )
+空气温度：20-32℃（冬眠期间5-15℃）
+Lighting:  light, heating lamp (4o °C), biol. UV(B)
+照明：灯光、加热灯（40℃）、生物紫外灯（UVB）
+Nutrition-young：small mammals幼年期营养小型哺乳动物
+Nutrition-adult:small mammals,birds成年期营养：小型哺乳动物、鸟
+Breeding:8 - 30 eggs 60 - 100 days_after mating 60-100
+incubation (25 - 29 °C) 55 - 90 days
+繁殖：每次产蛋8-30枚，交配后60-100天开始产蛋
+孵化期（25-29C）55-90天
+Reproductive disorders
+生殖紊乱
+Typesofteraria巢箱种类
+Typesof teraria巢箱种类
+品
+Metabolic diseases
+代谢性疾病
+Young crocodiles幼年鳄类
+hypovitaminoses
+维生素缺乏
+vit A, vit B, vit D3
+维生素A，B，D3
+mineral deficit - Ca
+矿物质缺乏－钙
+Adultcrocodiles成年鳄类
+obesitas肥胖症
+bad nutrition，overfeeding!!!!营养不良，喂食过多
+hypovitaminosesof thevitBcomplex复合B族维生素缺乏
+suboptimal feeding，diseases of the GIT喂食未达最佳标准和胃肠道
+疾病
+Metabolic diseases
+代谢性疾病
+Young turtles幼年水龟
+hypovitaminosis
+维生素缺乏
+vit A, vit B, vit D3
+维生素A，B，D3
+Calcium defficiency
+缺钙
+Adultturtles成年水龟
+obesitas，badnutrition肥胖症，营养不良
+suboptimal feeding，diseases of the GlT喂食未达最佳标准和胃肠道疾病
+complications related to reproduction - egg retention
+生殖系统问题一蛋阻留
+SGS syndrom (after ATB treatment)
+无菌肠道综合症(抗生素治疗后)
+Metabolic diseases
+代谢疾病
+Young tortoises 幼年陆龟
+hypovitaminosis
+维生素缺乏
+vit A, vit B, vit D3
+维生素A，B，D3
+Calcium defficiency
+缺钙
+Adult tortoises成年陆龟
+obesitas,badnutrition肥胖症，营养不良
+PHA syndrom低白蛋白血症综合症
+hypovitaminosesof thevitBcomplex复合B族维生素缺乏
+suboptimal feeding，diseases of the GiT喂食未达最佳标准和胃肠道疾病
+complications related to reproduction - egg retention
+生殖系统问题一蛋阻留
+Skin - neck, front legs, hind legs moist and red
+皮肤-颈部，前肢，后肢潮湿和发红
+Eyelids - oedematous
+眼脸--水肿
+Mouth cavity mucose - pale
+口腔黏膜--苍白
+Post mortem examination
+尸检
+yellowish-green kidneys
+黄绿色的肾脏
+the shell extremely soft
+极其柔软的背甲
+colondistension结肠扩张
+MANAGEMENT nad TREATMENT of METABOLIC PROBLEMS
+代谢疾病的管理及治疗
+Management管理
+Temperature 温度
+airhumidity空气湿度
+Fotoperiode光周期
+internal architecture内部结构
+type andformof feeding日粮类型和饲喂方式
+Rehydratation (minimum 20 ml/kg )
+纠正脱水（最小20ml/kg）
+Energy能量
+per os口服
+Probe喂食管
+parenteral forms肠外营养
+SC皮下注射
+MANAGEMENT nad TREATMENT of METABOLIC PROBLEMS
+代谢疾病的管理及治疗
+Management管理
+Temperature 温度
+airhumidity空气湿度
+Fotoperiode光周期
+internal architecture内部结构
+type andformoffeeding日粮类型和饲喂方式
+Rehydratation (minimum 20 ml/kg )
+纠正脱水（最小20ml/kg）
+Energy能量
+per os口服
+Probe喂食管
+parenteral forms肠外营养
+SC 皮下注射
+MANAGEMENT nad TREATMENT of METABOLICPROBLEMS
+代谢疾病的管理及治疗
+Management管理
+Temperature 温度
+airhumidity空气湿度
+Fotoperiode光周期
+internal architecture内部结构
+type andform of feeding日粮类型和饲喂方式
+Rehydratation (minimum 20 ml/kg )
+纠正脱水（最小20ml/kg）
+Energy能量
+per os口服
+Probe喂食管
+parenteral forms肠外营养
+SC皮下注射
+Metabolic diseases
+代谢疾病
+Carnivores食肉类
+obesitas肥胖症
+non-optimaldiet非最佳食物
+overfeeding喂食过多
+biotindefficiency生物素缺乏
+Metabolic diseases
+代谢疾病
+Carnivores食肉类
+obesitas肥胖症
+non-optimaldiet非最佳食物
+overfeeding
+喂食过多
+biotindefficiency生物素缺乏
+Metabolic diseases
+代谢疾病
+Insectivores食虫类
+Ca andvitamin Ddeficit 钙及维生素D缺乏
+rachitis，osteodystrophy偻病，骨营养不良
+HEALTH PROBLEMS THAT HAVE EMERGED DURING
+KEEPING SNAKESIN CAPTIVITY
+圈养蛇已经出现的健康问题
+Python spp., Boa spp., Epicrates spp., Sanzinia spp. , Morelia
+spp.
+蟒、、虹属、属、树蟒属
+infections感染
+overfeeding喂食过多
+chronicmetabolicproblems慢性代谢问题
+renaldisease肾病
+traumaticlesions 外外伤
+poor husbandry卫生环境差
+Symptoms症状
+anorexia厌食
+dysecdysis蜕皮紊乱
+Laboratory实验室检测
+TP, uric acid, ALT , AST (Ca, P)

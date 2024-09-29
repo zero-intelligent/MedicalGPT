@@ -1,0 +1,5755 @@
+with
+Veterinary Technician's Handbook of
+LABORATORY
+PROCEDURES
+Brianne Bellwood and Melissa Andrasik-Catton
+WILEYBlackwell
+Veterinary Technician's
+Handbook of
+Laboratory Procedures
+Veterinary Technician's
+Handbook of
+Laboratory Procedures
+Brianne Bellwood
+Melissa Andrasik-Catton
+WILEY Blackwell
+This edition first published 2014 @ 2014 by John Wiley & Sons, Inc.
+Editoriaf offices: 1606 Golden Aspen Drive, Suites 103 and 104, Ames, lowa 50014-8300, USA
+The Atrium, Southern Gate, Chichester, West Sussex, PO19 8sQ, UK
+9600 Garsington Road, Oxford, OX4 2DQ, UK
+to apply for permission to reuse the copyright material in this book please see our website at
+www.wiley.com/wiley-blackwell.
+Authorization to photocopy items for internal or personal use, or the internal or personal use of
+specific clients, is granted by Blackwell Publishing. provided that the base fee is paid directly to
+the Copyright Clearance Center, 222 Rosewood Drive, Danvers, MA 01923. For those
+are ISBN-13: 978-1-1183-4193-3/2014.
+Designations used by companies to distinguish their products are often claimed as trademarks.
+All brand names and product names used in this book are trade names, service marks,
+trademarks or registered trademarks of their respective owners. The publisher is not associated
+with any product or vendor mentioned in this book.
+The contents of this work are intended to further general scientific research, understanding.
+and discussion only and are not intended and should not be relied upon as recommending or
+promoting a specific method, diagnosis, or treatment by health science practitioners for any
+particular patient. The publisher and the author make no representations or warranties with
+respect to the accuracy or completeness of the contents of this work and specifically disclaim
+all warranties, including without limitation any implied warranties of fitness for a particular
+purpose. In view of ongoing research, equipment modifications, changes in governmental
+regulations, and the constant flow of information relating to the use of medicines, equipment,
+and devices, the reader is urged to review and evaluate the information provided in the package
+insert or instructions for each medicine, equipment, or device for, among other things, any
+changes in the instructions or indication of usage and for added warnings and precautions.
+Readers should consult with a specialist where appropriate. The fact that an organization or
+Website is referred to in this work as a citation and/or a potential source of further information
+does not mean that the author or the publisher endorses the information the organization or
+Website may provide or recommendations it may make. Further, readers should be aware that
+Internet Websites listed in this work may have changed or disappeared between when this work
+was written and when it is read. No warranty may be created or extended by any promotional
+statements for this work. Neither the publisher nor the author shall be liable for any damages
+arising herefrom.
+Library of Congress Catafoging-in-Pubfication Data
+Bellwood, Brianne, author.
+Veterinary technician's handbook of laboratory procedures / Brianne Bellwood, Melissa
+Andrasik-Catton.
+pages ; cm.
+ISBN 978-1-118-34193-3 (pbk. : alk. paper) - ISBN 978-1-118-72604-4 (epub) -
+2. Veterinary medicine-Laboratory manuals. I. Andrasik-Catton, Melissa, author. ll. Title.
+[DNLM: 1. Clinical Laboratory Techniques-veterinary-Handbooks. 2. Animal
+Technicians-Handbooks. SF 772.6]
+SF772.6.B45 2014
+636.089'607-dc23
+2013024790
+A catalogue record for this book is available from the British Library.
+Wiley also publishes its books in a variety of electronic formats. Some content that appears in
+print may not be available in electronic books.
+Cover design by Jen Miller Designs
+12014
+To my family. for the continued support and encouragement they've shown me in aff my
+endeavors. To my pasf instructors, who insfifled in me fhe passion for veterinary medicine
+and inspired me fo pursue a teaching career. To my colfeagues and students at Lakeland
+College, with whom I have had the privilege of sharing this passion.
+BrianneBelfwood
+and fhe amazing veterinary community l have been privileged fo grow with has provided
+me invaluabie teachings: allowing me to share that knowledge with other technicians
+overthesemanyexcitingyears.
+MetissaAndrasik-Caffon
+Contents
+Preface
+xi
+Acknowledgments
+xii 
+About the Companion Website
+XY
+Laboratory Equipment
+3
+Laboratory equipment
+3
+Microscope
+3
+Centrifuge
+9
+Refractometer
+11
+Chemistry analyzers
+13
+Hematology analyzers
+13
+Coagulation analyzers
+14
+Quality control of all laboratory equipment
+14
+Blood Analysis
+17
+Hematology
+17
+Proper blood collection and handling techniques
+17
+Blood collection tubes
+17
+Peripheral blood smears
+18
+Staining
+22
+Packed cell volume (PCV)
+23
+Red blood cell count
+26
+Red blood cell indices
+28
+Reticulocyte count
+29
+ Corrected reticulocyte percentage
+30
+Reticulocyte production index (RPl)
+31
+White blood cell count
+31
+White blood cell differential
+33
+ Calculations
+34
+White blood cell estimate
+35
+Corrected white blood cell count
+36
+Platelet count
+37
+Platelet estimate
+38
+Normal species variation of leukocytes
+40
+Neutrophil maturation
+44
+Abnormal morphological changes in leukocytes
+45
+Erythrocyte morphologies
+46
+Evaluating a blood film to complement automated analyzers
+51
+vii
+vii
+Contents
+Clinical chemistries
+52
+Coagulation testing
+53
+Activated clotting time
+54
+Buccal mucosal bleeding time
+54
+Automated clotting tests
+55
+Urinalysis
+57
+Sample collection
+57
+Free catch (voided sample)
+57
+Bladder expression
+57
+Catheterization
+58
+Cystocentesis
+59
+Sample preservation
+59
+In vitro changes occurring in unpreserved urine
+60
+Refrigeration
+60
+Freezing
+61
+Toluene
+61
+Formalin (40%)
+61
+Boric acid (0.8%)
+61
+Commercial preservation tablets
+61
+Physical examination of urine
+62
+Volume
+62
+Color
+62
+Turbidity
+62
+Odor
+63
+Specific gravity (SG)
+64
+Chemical examination
+65
+Glucose
+66
+Bilirubin
+66
+Ketones
+67
+Blood
+67
+pH
+67
+Protein
+67
+Urobilinogen
+67
+Nitrite
+68
+Leukocytes
+68
+Sediment examination
+68
+Materials required
+68
+Sediment stain
+68
+Procedure for microscopic examination of urine
+69
+Reporting of findings
+70
+Microscopic elements of urine sediment
+70
+4
+Parasitology
+77
+Collection
+77
+Pooled samples
+77
+Contents
+ix
+Gross examination
+78
+Consistency
+78
+Color
+78
+Blood
+78
+Mucous
+78
+Gross parasites
+78
+Microscopic examination
+79
+Direct fecal smear
+79
+Simple fecal flotation
+80
+Centrifugation technique
+81
+Baermann technique
+83
+Common parasites of domestic species
+83
+Canine and feline
+83
+Ruminants
+106
+Equine
+113
+5
+Cytology
+121
+Sample collection
+121
+Swabs
+121
+Fine needle biopsy
+123
+Tissue biopsy
+125
+Imprints
+127
+Centesis
+128
+Scrapings
+129
+Smear preparation
+130
+Feather smear method
+130
+Line smear method
+131
+Compression (or squash) method
+131
+Modified squash method
+133
+Starfish method
+133
+Staining
+135
+Romanowsky stains (wright's and Diff-Quick)
+135
+New methylene blue
+135
+Microscopic evaluation of cytology slides
+136
+Pyknosis and karyorrhexis
+136
+Karyolysis
+138
+ Classifying cell types
+138
+Inflammation
+138
+Other cell types
+140
+Neoplasia
+140
+Reporting your findings
+144
+Laboratory submissions
+144
+Ear cytology
+144
+ Slide preparation and staining
+145
+Microscopic findings
+145
+Vaginal cytology
+145
+Contents
+Collection methods
+147
+Cell types seen
+148
+Stages of estrous
+152
+Semen evaluation
+154
+Slide preparation
+154
+Live/dead sperm ratio
+155
+Sperm morphology
+155
+Appendix
+159
+Temperature conversions
+159
+Metric conversions
+159
+Length
+159
+Weight
+160
+Volume
+160
+Metric system
+160
+Glossary
+161
+Bibliography
+169
+Index
+171
+Preface
+Laboratory procedures are an essential diagnostic component of veterinary medicine.
+The role of the veterinary technician is to collect and process samples and then analyze
+many common laboratory tests, and serves as an excellent companion to full textbooks.
+The following chapters incorporate discussions on the use of common laboratory equip-
+ment, proper quality control methods, blood analysis, urinalysis, parasitology. and
+cytology.
+Useful characteristics of this handbook,whether used in school or a clinic setting, are
+step-by-step procedures, discussions of common mistakes and errors, tips and tricks,
+and plenty of reference images. Color images are invaluable when trying to identify an
+In contrast to other texts available, this book provides needed information quickly
+and at a glance.
+An accompanying website provides additional images and study tools for students,
+BrianneBeffwood
+Metissa Andrasik-Catfon
+Acknowledgments
+I would like to thank Lakeland College's Animal Health Technology Program and its staff
+and faculty for assistance in providing resources and samples for this book.
+B.8.
+resources found in this book.
+M.A.-C.
+About the Companion Website
+This book is accompanied by a companion website:
+www.wiley.com/go/bellwoodhandbook
+The website includes:
+Case studies provided in Powerpoint files
+ Powerpoints of all figures from the book for downloading
+Crossword puzzles and answers as PDFs
+Videoofanearmite
+● Powerpoints of additional figures for downloading
+Veterinary Technician's
+Handbook of
+Laboratory Procedures
+Chapter 1
+Laboratory Equipment
+Laboratory equipment
+The variety of sophisticated laboratory equipment in a veterinary practice will depend
+largely on the size and scope of the practice itself. There are several pieces of core
+equipment that are expected in every practice that performs in-house testing and
+analysis.
+Microscope
+Purpose
+The microscope is the most important piece of equipment in the veterinary clinic labo-
+ratory. The microscope is used to review fecal, urine, blood, and cytology samples on
+a daily basis (see Figure 1.1). Understanding how the microscope functions, how it oper
+ates, and how to care for it will improve the reliability of your results and prolong the
+life of this valuable piece of equipment.
+Parts and functions of a compound microscope (Figure 1.1)
+(A) Arm: Used to carry the microscope.
+(B) Base: Supports the microscope and houses the light source.
+(C) Oculars (or eyepieces): The lens of the microscope you look through. The ocular
+also magnifies the image. The total magnification can be calculated by multiplying
+the objective power by the ocular power. Oculars come in different magnifications,
+but 10x magnification is common.
+aul poaioo oi s! iuawisnipe jaidoip aul lo asodund aul uawnsntpe jaidoid (o)
+(E) Interpupillary adjustment: This allows the oculars to move closer or further away
+from one another to match the width of an individual's eyes. when looking through
+the microscope,one should see only a single field ofview.When viewing a sample,
+'awl so poad e jaao uienis aaa anes ueo aaa auo buisn 'sasa yiog asn saemie
+(F) Nosepiece: The nosepiece holds the objective lenses. The objectives are mounted
+on a rotating turret so they can be moved into place as needed. Most nosepieces
+can hold up to five objectives.
+(G) objective lenses: The objective lens is the lens closest to the object being viewed
+and its function is to magnify it. Objective lenses are available in many powers, but
+Veterinary Technician's Hancbook of Laboratory Procedures, First Edition. Brianne Bellwood and
+Melissa Andrasik-Catton.
+@ 2014 John Wiley & Sons, Inc. Published 2014 by John Wiley & Sons, Inc
+4   Veterinary Technician's Handbook of Laboratory Procedures
+CH30
+Figure 1.1Compound microscope.
+4x, 10x, 40x, and 100x are standard. 4x objective is used mainly for scanning. 10x
+referred to as "oil immersion."Once magnified by the objective lens, the image
+100× objective lens with 10 xoculars = 1000xtotal magnification.
+(H) stage: The platform on which the slide or object is placed for viewing.
+(l) Stage brackets: Spring-loaded brackets, or clips, hold the slide or specimen in
+place on the stage.
+souy loiuos abeis aul ane abeis aul molag isnt paieool isgouy losuos abeis (r)
+These knobs move the slide or specimen either horizontally (x-axis) or vertically
+(y-axis) when it is being viewed.
+Laboratory Equipment 
+(K)Condenser: The condenser is located under the stage.As light travels from the
+illuminator, it passes through the condenser, where it is focused and directed at
+the specimen.
+(L) Condenser control knob: Allows the condenser to be raised or lowered.
+the beam of light. Generally, they do not need much adjustment unless the micro-
+scope is moved or transported frequently.
+(N) Iris diaphragm: This structure controls the amount of light that reaches the
+specimen. Opening and closing the iris diaphragm adjusts the diameter of the
+light beam.
+height. When a higher power objective is in place (1oox objective for example),
+break the slide and scratch the lens surface.
+stage height. Fine adjustment is used for more delicate, high power adjustment
+that would require fine tuning.
+(P) mluminator: The illuminator is the light source for the microscope, usually situated
+in the base. The brightness of the light from the illuminator can be adjusted to suit
+your preference and the object you are viewing.
+Kohler illumination
+What is Kohfer ilfumination?
+Kohler illumination is a method of adjusting a microscope in order to provide optimal
+illumination by focusing the light on the specimen. When a microscope is in Kohler,
+specimens will appear clearer, and in more detail.
+Process of setting Kohler
+Materiais required
+● Specimen slide (will need to focus under 10x power)
+Compound microscope.
+Kohier illumination
+(1) Mount the specimen slide on the stage and focus under 10x.
+(2) Close the iris diaphragm completely.
+(3) If the ball of light is not in the center, use the condenser centering screws to move
+it so that it is centered.
+(4) Using the condenser adjustment knobs, raise or lower the condenser until the edges
+of the field becomes sharp (see Figure 1.2 and Figure 1.3).
+(5) Open the iris diaphragm until the entire field is illuminated.
+When should you set/check Kohler?
+● After the microscope is moved/transported
+ag pinoo Aaul se dueus se jeadde jou op sioaigo joadsns noa jarauaum o
+6  Veterinary Technician's Handbook of Laboratory Procedures
+Figure 1.2 Note the blurry edges of the unfocused light.
+Figure 1.3 Adjusting the condenser height sharpens the edges of the "ball of light."
+Microscope care and maintenance
+Routinecare andpropermaintenance of microscope willensure goodperformanceover
+ered when routine techniques fail to produce optimal performance of the microscope.
+Laboratory Equipment 
+Cleaning and maintenance supplies
+Dust cover: when not in use, a microscope should be covered to protect it from dust,
+hair, and any other possible sources of dirt. It is important to note that a dust cover
+should never be placed over a microscope while the illuminator is still on.
+Lens tissue: Lint-free lens tissues are delicate wipes that would not scratch the surface
+Lens cleaner: Lens cleaning solution assists in removing fingerprints and smudges on
+thesurface.
+pressed air is clean, and avoids possible contamination of saliva particles.
+Maintenance tips
+(1) whenever the microscope is not in use, turn off the illuminator. This will greatly
+extend the life of the bulb, as well as keep the temperature down during extended
+periods of laboratory work.
+(2) When cleaning the microscope, use distilled water or lens cleaner. Avoid using other
+chemicals or solvents, as they may be corrosive to the rubber or lens mounts.
+(3) After using immersion oil, clean off any residue immediately. Avoid rotating the
+40x objective through immersion oil.If this should occur,immediately clean the
+40x objective with lens cleaner before the oil has a chance to dry.
+(4) Do not be afraid to use many sheets of lens tissue when cleaning. Use a fresh piece
+(or a clean area of the same piece) when moving to a different part of the micro-
+scope. This avoids tracking dirt/oil/residue to other areas of the microscope.
+position (4x or 10x). This placement allows for the greatest distance between the
+stage and the objective. If the microscope is bumped, the likelihood of an objective
+becoming damaged by the stage surface will be greatly minimized.
+Troubleshooting
+"I can focus my slide under 1ox, but not under 40x."
+A common reason for this is that the slide is upside down. Double check which side the
+smear is on (may not be the same side as the labe!) and try focusing again.
+Another cause could be dried immersion oil on the 4ox objective that is obstructing
+your view. When switching from oil immersion (100x) to 40x, there is a good chance
+that the tip of the 40x objective could be dragged through some immersion oil. If it is
+not immediately cleaned off, it will dry, producing a thick haze.
+cleaning, use a dry piece of lens paper to polish the objective.
+100x objective and any heavy oil present on the slide before moving back down to
+40xobjective.
+8 Veterinary Technician's Handbook of Laboratory Procedures
+Figure 1.4 Water artifact seen on the surface of the red blood cells (1ooox magnifi
+cation).
+"In hematology, when I focus under 4ox, my red blood cells appear shiny.
+This is most likely due to water artifact during the staining and drying process (see
+Figure 1.4). To make visualization of the cells easier, add a small drop of immersion oil
+of excess oil using the side of your finger. Be very gentle when doing this, and use a
+clean finger each fime you wipe. Wiping too hard or rough will cause your smear to rub
+off. This technique will leave a very thin layer of oil on your smear. The film is thin
+enough that you can use the 40x objective without running the risk of the lens becom-
+ing contaminated with oil.
+Try focusing under 40x again, and the shininess should have been resolved.
+'There's no light coming from the illuminator.'
+The first assumption is always that the bulb is burnt out, but it is a good idea to check
+a couple of other possibilities as well.
+If the iris diaphragm is closed and the brightness of the illuminator is at its lowest,
+the light may be so small that it appears as if there is no light present.
+Check to make sure the cord is fully plugged into the back of the microscope. This
+plug can become dislodged slightly during transport and microscope set up.
+If your microscope is the type that uses fuses, it may be the fuse-not the bulb-that
+needsreplacing.
+Laboratory Equipment 
+9
+life of the bulb.
+Clean up
+When the use of the microscope is complete, following proper clean up procedures will
+improve the quality of images that are viewed and extend the life of the microscope
+and its components:
+(1) Remove the slide from the stage and dispose of it properly.
+surface.
+(3) Lower the stage and move the smallest objective into place.
+(4)Clean the objectivelens and oculars after every use.The order in which they are
+cleaned is important. Cleaning the 100x objective first and then moving onto other
+tissue and lens cleaner, begin with cleaning the oculars, then the 4x objective, the
+10x objective, 40x objective, and finish with the 100x objective lens.
+Centrifuge
+trifuge types exist for different purposes, such as those for microhematocrit, fecal,
+urine, and blood samples. It is not uncommon to use a multiuse centrifuge that can be
+maintenance, and cleaning instructions.
+Microhematocrit centrifuge
+This centrifuge is used exclusively for spinning down microhematocrit tubes (see Figure
+also provide a plasma sample for protein analysis.
+Clinical centrifuge
+Clinical centrifuges are available in two main types: a variable angle centrifuge or a
+fixed angle centrifuge.
+The variable angle centrifuge (also called a horizontal centrifuge) has swinging
+tube to form the sediment (see Figure 1.6). Once the rotation stops,the buckets return
+in a slight remixing of the sample. This effect should be taken into consideration when
+preparing a sample.
+The fixed angle centrifuge has buckets that are in a fixed position, typically about
+50°(see Figure1.7).The specimen tubes are held in this position for the entire centrifu
+gation process.
+Figure 1.5 Microhematocrit centrifuge. This centrifuge is used for spinning microhema
+tocrit tubes only. It is preset to 10,0o0rpm.
+DYNACIICeI
+Figure 1.6
+Variable angle centrifuge. Buckets swing out horizontally during the centrifu
+gation process.
+10
+Laboratory Equipment
+DYNACIlCentrifu
+Figure 1.7 Fixed angle centrifuge. Buckets are at a fixed angle (typically about 5oo) and
+do notmove during the centrifugationprocess.
+StatSpin
+Another option is the StatSpin (see Figure 1.8). This centrifuge is a fixed angle centrifuge
+designed for small samples. It has a faster spinning speed, and as a result, a shorter
+processing time. These qualities could be beneficial in a small animal or exotic veteri-
+nary practice.
+Refractometer
+The purpose of a refractometer is to measure the refractive index of a solution. When
+measuring a solution (i.e., urine), light passes through the sample and bends. The angle
+of this refraction is visualized as a shadow and correlates to the concentration of the
+solution. Veterinary specific refractometers are now on the market allowing for minor
+differences between dog and cat urine specific gravity and total protein values (see
+Figure 1.9).
+The most common use of a refractometer in veterinary laboratories is to measure
+urine specific gravity and plasma total protein. Refractometers have built-in scales to
+measure both of these, and some brands of refractometers will also possess a refractive
+index scale. This scale, with the use of an appropriate conversion chart, can be used to
+measure the concentration of many other solutions.
+Tips: Cover the entire prism with the liquid (urine or plasma) being examined.
+Reading urine and plasma at room temperature will provide the most accurate
+results.
+12   Veterinary Technician's Handbook of Laboratory Procedures
+atSpin
+Figure1.8
+StatSpin.Another type of fixed angle centrifuge.
+Calibration
+It is good practice to calibrate the refractometer at the beginning of each day. This is
+achieved by applying a large drop of distilled water on the prism and adjusting the blue/
+white line to read exactly 1.ooo on the scale. The adjustment knob or screw is located
+on various places of a refractometer: therefore, the manufacturer's guide will need to
+be consulted.
+Laboratory Equipment   13
+Figure 1.9 Refractometer.
+Chemistry analyzers
+There are a wide variety of chemistry analyzers available for veterinary use. Most use
+the principles of photometry to quantify analytes, such as enzymes, proteins, and other
+constituents in the blood. Electrochemical methods are used to analyze ionic com-
+analyzers, or they may be combined into one.
+Another variation among analyzers is the way they facilitate the photometry testing
+procedure.A sampleneeds tobe added to a substrate to initialize the test.Examples
+include slides, rotors, or cartridges (see Figure 1.10).
+Depending upon the analyzer or the analyte being tested, a serum or plasma sample
+type of anticoagulant recommended should be confirmed by reviewing the manufac-
+turer recommendations.
+according to the manufacturer's recommendations. with such a wide variety of analyz
+ers available, this book cannot describe the operation, maintenance, and cleaning of
+maintenance is essential for ensuring the precision and accuracy of the analyzer. It may
+also be necessary for complying with the manufacturer's warranty.
+Hematology analyzers
+As with chemistry analyzers, there are many types of hematology analyzers to choose
+from. There are several different types of technology used to quantify cell types, and
+14   Veterinary Technician's Handbook of Laboratory Procedures
+Figure 1.10 Testing supplies for various types of chemistry analyzers.
+are impedance, laser-based, and optical fluorescence. An analyzer may use one, or a
+combination of these technologies to detect and enumerate the cells present in the
+sample.
+While the analyzers can provide a large amount of information about the patient, it
+is recommended to follow up with a manual examination to confirm readings, and review
+morphologies.
+Coagulation analyzers
+boplastin time (aPTT), and fibrinogen can be performed using fresh or citrated whole
+blood.
+quality controlprocedures to ensure the accuracy andprecisionof the equipment.
+Quality control of all laboratory equipment
+at regular intervals, calibrated and cleaned as recommended by the manufacturer, and
+used properly. In addition to properly functioning equipment, there are things the tech-
+nician can do to improve the accuracy of their test results:
+(1)Follow manufacturer directions precisely.
+(2) Become familiar with normal and abnormal findings.
+(3)Log all activity of equipment,including daily.weekly,and monthly servicing
+Laboratory Equipment15
+(4) Standardize test methods within the hospital.
+(a) Perform urinalysis, fecal analysis, packed cell volume and total protein analysis,
+and cytology in the same manner no matter who is conducting the test.
+findings.
+Remember, all laboratory equipment and its results are only as reliable as the
+human operating the equipment!
+Chapter 2
+Blood Analysis
+Hematology
+Proper blood collection and handling techniques
+Blood is collected from animals in order to conduct many tests, ranging from hematol-
+ogy parameters to clinical chemistries, and even to evaluate coagulation disorders.
+Good technique when obtaining blood samples is important to maximize the reliability
+of the results.
+Blood can be collected from many sites on animals; however, the most common for
+amphibian, and avian species have different locations for blood collection specific to
+the species. It is important to collect a sufficient quantity of blood for all the tests to
+be conducted.
+tainer technique is preferred,as this reduces the chance for a clotted sample, draws
+the accurate amount into the tube, and is considered sterile. Anticoagulant blood tubes
+should be gently inverted a number of times immediately after collection.Utilizing a
+blood rocking machine may be useful; however, overmixing or prolonged mixing of a
+sample can cause cellular damage.
+Some tests require an anticoagulated sample (whole blood) or plasma, while others
+compounds within the blood mixed in a solution that will not allow the sample to clot.
+This can be spun down in a centrifuge to separate the cells (white blood cell [WBC], red
+blood cell [RBC], etc.) from the liquid (plasma); but remember, even when spun down,
+the sample has not clotted,it is just separated.Serum is often used for chemistries and
+is theliquid portion ofablood sample affer it has clotted.The difference between
+serum does not, because those clotting factors are caught up in the clot.
+Blood collection tubes
+The tubes used to collect both types of samples (anticoagulated = whole blood and
+plasma; clotted = serum) come in many different colors and contents. It is important to
+Melissa Andrasik-Catton.
+@ 2014 John Wiley & Sons, Inc. Published 2014 by John Wiley & Sons, Inc.
+7
+18  Veterinary Technician's Handbook of Laboratory Procedures
+maintain the proper blood:anticoagulant ratio when collecting a sample. Underfilling a
+tubes used in veterinary medicine, the color of the tube, what is in it, and what it's
+used for:
+is not unusual to find human blood tubes with different colors. READ LABELS.
+tests,and blood typing.
+reptilian/amphibian blood smear, and plasma for specific tests.
+Red top: Plain-for clotting a blood sample but does not separate the clot from the
+serum. Serum is used to run chemistries. Red tops are often used for sterile urine
+collection and other bodily fluids.
+a blood sample; separates the clot from the serum. Used for most tests requiring
+serum. Some tests require no gel separator during centrifugation and transportation.
+Use a plain red top in these cases.
+Blue top: Sodium citrate-for coagulation profiles on any species.
+Gray top: Boric acid-urine preservative. Preserves cellular material in urine, but you
+Tips
+in EDTA anticoagulant blood tubes.Heparin anticoagulant is preferred whenperforming
+lant can have its uses in mammalian hematology as well. An extracellular RBC parasite,
+Mycoplasma, has the tendency to fall off the cells when exposed to EDTA. Using
+heparinized blood can make the identification of Mycoplasma easier. If hemoparasites
+s a   asa s  aa  a   ss a
+immediately after collection, before any anticoagulant is added. Using fresh blood
+immediatelyaftercollectionwillalsodecreaseplateletclumping
+Peripheral blood smears
+Purpose
+teristicsevaluatedaccurately.
+majority of counts and evaluations will be performed in this area, also known as
+the "read area.
+Blood Analysis ■  19
+30° - 40°
+Figure 2.1 Technique for preparing a peripheral blood smear.
+Materials required
+●Well-mixed anticoagulated whole blood
+Glass microscope slides
+● Capillary tube
+● Lens tissue.
+Procedure
+(1) It is important to begin with two clean, dust free microscope slides. If slides are
+dirty or dusty, polish them using lint-free lens tissue.
+(2) Using a capillary tube, obtain a sample of whole blood. Ensure that the blood is
+well mixed by gently inverting it several times before sampling with the capillary
+tube.
+(3) If blood is not well mixed, cells begin to settle causing the cell distribution on your
+PBS to be inaccurate.
+(4) Place a small drop of blood (2-3mm) at the end of your slide.
+(5) The second slide is used as a "spreader" slide and should be held at a 30o-400
+angle. See "Tips" below for additional points.
+spreader slide into the blood drop. (see Figure 2.1)
+(7）Pause at the blood dropfor a brief second,and in a smooth fluid motion,advance
+the spreader slide to the end.
+(8) Be sure not to change your angle or lift the spreader slide off of the bottom slide.
+There are many techniques for creating a smear. Different methods should be practiced
+to determine which is most comfortable for the technician.
+Characteristics of a good smear (See Figure 2.2)
+● Covers 3/4 of the slide
+● Symmetrical, bullet-shape
+● No tails or ridges
+●Microscopically: should have an even distribution of cells.
+20    Veterinary Technician's Handbook of Laboratory Procedures
+Figure 2.2
+Example of a good quality PBS. Stained with Diff-Quick.
+Troubleshooting
+Table 2.1
+Common errors in preparing a blood smear.
+Description
+Cause/tips
+Tails
+Tails may be caused by lifting
+the spreader slide up at the
+end of the spreading motion.
+Debris present on the slide.
+Tails can also be the result of
+nicks in the edge of the
+spreader slide.
+Figure 2.3
+"Tails" present on
+feathered edge.
+Table 2.1
+(Continued)
+Error
+Description
+Cause/tips
+Long and
+Results when pushing the blood
+narrow
+drop too soon before the blood
+has spread along the edge of
+the spreader slide.
+To fix:
+● Pause longer when backing
+into the drop.
+Slow your speed slightly
+when moving the spreader
+slide forward.
+Figure 2.4
+Long and narrow.
+Short and
+If the spreader slide is held at
+wide
+an angle greater than 30°, the
+blood is not pushed out over
+the length of the slide. This
+causes a small, narrow
+monolayer.
+● Spreading too fast
+Figure 2.5
+Short and wide.
+Square
+When backing into the drop,
+the pause was too long
+Forward spreading speed was
+tooslow
+Figure 2.6
+Square.
+(Continued)
+21
+22■
+1 Veterinary Technician's Handbook of Laboratory Procedures
+Table 2.1
+(Continued)
+Description
+Cause/tips
+Half-bullet
+Uneven downward pressure on
+spreader slide (left to right)
+Figure 2.?
+Half-bullet.
+Holes
+Iftheslidehasdirtyora
+greasy film, a smear with holes
+will result.
+Holes may also occur if there
+are fat particles in the blood
+Figure 2.8
+Holes.
+Tips
+The blood of an anemic or dehydrated patient may be thinner or thicker than usual.
+loweringthe anglewhenusing thickerbloodwillhelpspreadoutthecells.
+Staining
+After a smear has completely air dried,it must be stained to identify cells and their
+characteristics. A Romanowsky-type stain, Wright's stain, is used in hematology to stain
+blood smears. A commercial stain that is commonly used is Diff-Quick, which is a modi-
+fied Wright's stain (see Figure 2.9).
+The stain consists of three solutions that fix and stain various components of the
+cells. The first solution, a fixative, consists of 95% methanol. The second solution, eosin,
+has an acidic pH and stains cell cytoplasms and eosinophilic granules. The third solution,
+methylene blue, has an alkaline pH and stains the nuclei of the cells.
+The slide exposure time to each solution varies slightly depending upon the desired
+result or sample being stained. Typically, dipping a slide into each solution five times
+Blood Analysis  23
+J-322-1
+J-322-2
+J-322-3
+DipQuick Stain
+DipQuick Stain
+DipQuick Stain
+#1-Fixative
+Forivtro LabUse Only
+ForInvitroLabUse Only
+180mL
+180mL
+180mL
+Jorgonsen Laborac
+sen Labo
+Figure 2.9Diff-Quickstain set(DipQuick).
+for one second each time dip will give adequate staining. This can be adjusted to
+alter the appearance of cells. It is important to rinse the slide after the last dip
+into stain #3. Distilled water is preferred. The now stained smear should be allowed to
+air dry. Rapid drying, such as a hair dryer or waving the slide, will cause crenation
+(distortion) of the RBCs.
+Tip: Have one set of stains for blood and "clean" cytology specimens. Keep another
+set of "dirty" stains for fecal and ear cytology.
+Tip: Old stain may precipitate, causing artifacts to appear on your smear. Replace/
+Filter stain routinely depending upon usage.
+Packed cell volume (PCV)
+Materials required
+Well-mixed,anticoagulatedwholeblood
+●Clay
+●Reader card
+Centrifuge
+● Capillary tubes.
+24
+Veterinary Technician's Handbook of Laboratory Procedures
+Procedure
+(1) Begin with well-mixed, anticoagulated blood.
+(2) Fill two capillary tubes 3/4 full with blood, and seal one end with clay. Filling a
+second tube serves two purposes:
+(a) Serves as a counterbalance for centrifugation
+(b) Serves as a quality control to ensure accuracy.
+(3) Place tubes in the groves of the centrifuge, directly across from one another, with
+the clay pointing towards the outside (see Figure 2.10).
+(4) Close centrifuge lid(s).
+Speed: 10,000rpm
+Time: 5 minutes.
+(Speed and time may vary depending on the unit.)
+Figure 2.10
+Proper placement of PCV tubes into a microhematocrit centrifuge.
+Blood Analysis   25
+Plasma
+Buffy Coat
+Red Cell layer
+Figure 2.11L
+Layers of a PCV after centrifugation: plasma, buffy coat, and red cell layer.
+Readings
+After centrifugation, the blood in the microhematocrit tubes is separated into three
+Using a reader card, align the top of the plasma layer with the 10o line, and the bottom
+Measurement istaken at the top oftheredcell layerwhere theredcells andplasma
+rh aneig aas) abeiuaoiad e se passaidxa si pue paa
+Repeat for tube no. 2.
+For quality control purposes, each reading should be within 1% of the average.
+Sources of error
+·Excessive anticoagulant in the blood sample.
+●Using poorly mixed blood.
+· Misalignment of tubes with the reader card.
+● Including the buffy coat layer in your PCV measurement.
+begin to slant, making reading difficult.
+Tip: The hemoglobin value of a patient can be estimated by dividing the PCV reading
+by 3.
+Plasma evaluation
+Total Protein (Total Serum Protein) can be assessed by utilizing the plasma portion of
+the PCV tube. One of the capillary tubes can be broken above the red cell line, and the
+26   Veterinary Technician's Handbook of Laboratory Procedures
+100
+90
+80
+70
+60
+50
+40
+30-
+20
+10
+0
+Figure 2.12 PCV reading technique. Note the bottom of the red cell layer is at O and the
+top of the plasma is at 100.
+plasma (liquid) can be placed on a refractometer to determine the protein concentra-
+and report the number in g/dL (g/1o0mL).
+The color of plasma can yield information about the patient's health. Below are colors
+and associated disorders:
+Normal: Clear or light straw-yellow (horses have very deep yellow)
+Deep yellow plasma: Icteric; liver or hemolytic disorders
+Red plasma: Hemolyzed; artificial from poor blood collection technique or hemolytic
+disorders
+Milky plasma: Lipemic; artificial due to recent meal or high cholesterol and triglycer-
+ides, which may be due to liver or pancreatic issues.
+A combination of these can be seen in samples from patients with multiple
+abnormalities.
+Red blood cell count
+Materials required
+●Anticoagulated whole blood
+●Ery-TIC test kit (Bioanalytic GmbH, Umkirch/Freiburg, Germany)
+●Coverslip (specific for a hemocytometer)
+● Microscope with 40x objective lens
+Cell counter.
+Blood Analysis   27
+USSER
+MPROVED
+SCIENTIFIC
+NEUBAUER
+ADEIN USA
+MACYTOMETER
+Figure 2.13
+ Improved Neubauer bemocytometer.
+Figure 2.14 Red blood cell counting area, indicated by "R."
+Procedure
+(1) Follow Ery-TlC instructions for proper filling of the vial.
+(3) Mix the Ery-TIC vial, and flood one side of the hemocytometer counting chamber
+using capillary action.
+(4) Count the RBCs within five group squares (each consisting of 16 smallest squares)
+(see Figure 2.14).
+(5) Repeat this count on the second side of the hemocytometer.
+(6) Calculate totals for Side 1 and Side 2 of the hemocytometer grid.
+28   Veterinary Technician's Handbook of Laboratory Procedures
+Calculations and quality control
+QC: Side 1 and Side 2 totals should be within 10% of the average.
+Average x10
+=__×10°/μL
+1000
+Sources of error
+● Improper mixing of whole blood or prepared solution
+● Improper filling of Ery-TlC vial
+● Incomplete filling or overfilling of the hemocytometer chamber
+Usinga dirtyhemocytometercancausedifficultywithdifferentiatingbetweenRBCs
+and debris.
+Red blood cell indices
+Purpose
+Calculating the RBC Indices can be a useful tool when examining cases of anemia. They
+can give insight to the size and hemoglobin concentration of the average RBc in the
+calculated when a CBC analyzer is used.
+Information required
+●Packed cell volume (L/L)
+●Hemoglobin concentration (g/L)
+●RBC count (10°/μL).
+MCV (mean corpuscular volume)
+Being an indicator of volume, McV can provide information regarding the size of the
+average RBC in a sample.
+Formula:
+RBC Count (10°/μL)
+Interpretation
+Value lower than normal = microcytic: red cells are smaller than normal for that
+species.
+MCH (mean corpuscular hemoglobin)
+MCH can provide information regarding the weight of hemoglobin within the average
+RBC.
+Formula:
+Hemoglobin (g/L)
+Blood Analysis   29
+Interpretation
+Value lower than normal = red cells contain less than the average weight of hemoglobin
+for that species.
+Value higher than normal = red cells contain more than the average weight of hemo
+globin for that species.
+MCHC (mean corpuscular hemoglobin concentration)
+MCHC provides information regarding the concentration of hemoglobin within the
+size of the average red cell.
+Formula:
+Hemoglobin (g/ L)
+Interpretation
+tion of hemoglobin for that species
+globin for that species.
+Reticulocyte count
+Purpose
+Performing a reticulocyte count is indicated in cases of anemia, to determine whether
+Important notes
+Two forms of reticulocytes exist: punctate and aggregate (see Figure 2.15). In cats, only
+the aggregate forms should be counted.
+Materials required
+● New methylene blue (NMB) stain
+●Whole blood
+● Microscope slides
+● Sterile red top tube
+● Microscope with 100x objective
+Cell counter.
+Procedure
+Before preparing slides, the NMB stain should be filtered. This process will minimize
+artifacts such as stain precipitate, which may be falsely recorded as reticulocytes.
+(1) Mix equal parts whole blood with filtered NMB stain in a sterile red top tube.
+Ap Jie ol molle pue 'sad e lol pinom noA se sleaws oml aledaid (e)
+30     Veterinary Technician's Handbook of Laboratory Procedures
+Figure 2.15F
+Punctate reticulocyte (arrow); aggregate reticulocyte (arrowhead).
+(4) Reticulocyte counts are made by recording the number of reticulocytes seen per
+500 RBCs under 1000x magnification.
+(5) Repeat this process on smear no. 2.
+Calculations and quality control
+QC: Smear 1 and Smear 2 totals should be within 2o% of each other before taking an
+average.
+Total(Slide 1+Slide 2)
+Relative:
+×100=_%
+1000
+Relative(%)
+Absolute:
+xRBC Count(10°/μL) x1000= __x10² /μL
+100
+Corrected reticulocyte percentage
+Purpose
+In cases of anemia, a reticulocyte percentage can be misleading, since the total number
+of RBCs is decreased. Correcting your reticulocyte percentage takes into account the
+decreased totalmature RBCnumbers circulatingin the anemicpatient.
+ Calculation
+Observed PCV
+Observed Retic % x
+_%
+Normal SpeclesPcv
+Blood Analysis   31
+For dogs: A PCV of 45% is used in the equation
+For cats: A PCV of 35% is used in the equation.
+Reticulocyte production index (RPl)
+Purpose
+Prematurely released reticulocytes have a longer life span than mature erythrocytes.
+Calculating the RPl accounts for this extended survival time and gives insight into
+whether the regenerative response to anemia is adequate.
+Calculation:
+Corrected Retic %
+RP|=
+Retic Maturation Time
+Table 2.2
+ Reticulocyte maturation time factor.
+Patient PCV
+Maturation time factor
+45%
+1
+35%
+1.4
+25%
+2
+15%
+2.5
+For example:
+Corrected reticulocyte % = 5%
+Patient's PCV = 15% (maturation time factor = 2.5).
+RP|=
+2.5
+Table 2.3
+Reticulocyte Production index (RPl) interpretation.
+Dogs
+RPI<1
+Nonregenerative anemia
+RPI1-2
+Responsive bone marrow
+RPI>2
+Accelerated erythropoiesis
+RPI≥3
+Significant regeneration
+White blood cell count
+Materials required
+● Whole blood
+●Leuko-TIC test kits (Bioanalytic GmbH)
+32   Veterinary Technician's Handbook of Laboratory Procedures
+Figure 2.16 
+Microscopic view of hemocytometer grid with white blood cells.
+●Improved Neubauer hemocytometer
+● Coverslip (specifc for a hemocytometer)
+● Microscope with 10x objective lens
+● Cell counter.
+Procedure
+(1) Follow Leuko-TlC instructions for proper filling of the vial.
+(2) Place a clean coverslip on top of the hemocytometer.
+(3) Mix the Leuko-TlC vial, and flood one side of the hemocytometer counting chamber
+using capillary action.
+(4) Using the 10x objective lens, count the WBCs contained within each the four big
+corner squares of the grid. (see Figure 2.16 and Figure 2.17).
+(5) Repeat this count on the second side of the hemocytometer.
+Calculations and quality control
+Calculations should be made using the average between Side 1 and Side 2.
+QC: Side 1 and Side 2 totals should be within 10% of each other before taking the
+average.
+Average x50
+_10²/μL
+1000
+Blood Analysis   33
+W
+W
+W
+M
+Figure 之.17
+White blood cell counting area, indicated by "w."
+Sources of error
+Improper mixing of whole blood or prepared solution
+● Improper filling of Leuko-TIC vial
+● Incomplete flooding over overfilling of the hemocytometer chamber
+●Using a dirty hemocytometer can cause difficulty with differentiating between WBCs
+and debris.
+White blood cell differential
+Purpose
+A wBC differential count gives us information regarding the proportion and numbers
+ of individual leukocytes in the patient's sample, including significant morphological
+changes. This can provide useful diagnostic information in cases of inflammation, infec-
+tion, and antigenic responses.
+Materials required
+● Stained PBS
+· Microscope with 100x objective lens
+● Cell counter.
+Procedure
+ It is important that examination and counts be performed within the monolayer area
+of your slide (see Figure 2.18).
+34   Veterinary Technician's Handbook of Laboratory Procedures
+Figure 2.18 Read area (monolayer).
+ a o    n  i  e i  a  
+area twice.
+evaluating morphology. 1ooox magnification should be used.
+(2) Count a minimum of 100 WBCs. (ff the fotaf WBc Count is increased, 200 cells shouid
+be counted to maintain accuracy.)
+Calculations
+Relative count:
+No. of Cell Type Seen
+%
+100
+Absolute count:
+Relative (%)
+xWBC Count(10²/μL)= —_×10²/μL
+100
+Note: Check your math:
+·Relative counts of each cell type should add up to equal 100.
+●Absolute counts of each cell type should add up to equal your WBC count.
+Blood Analysis   35
+White blood cell estimate
+Purpose
+Performing a WBC estimate can be useful as a quick evaluation of a patient's leukocyte
+numbers if the materials required for a count are not available. Estimates can also be
+done if an analyzer's wBC count is questionable or is flagged.
+Materials required
+● Stained PBS
+● Microscope with 40x objective lens
+● Cell counter.
+Procedure
+Examine a stained blood smear under 4o0x magnification.
+(1) Count the number of leukocytes seen per field within the monolayer of the
+smear.
+(2) Count 10 fields and calculate the average number of cells seen per field.
+Averagex1.5=__x10²/μL
+Sources of error
+●Poorly made smear
+●Counting in areas too thick or too thin (see Figure 2.19).
+Figure 2.19
+Area of the smear that is too thick (left) and too thin (right).
+36   Veterinary Technician's Handbook of Laboratory Procedures
+Figure 2.2O Nucleated red blood cell or NRBC.
+Corrected white blood cell count
+Purpose
+anemia and in some bone marrow disorders. NRBCs can alter the accuracy of your WBC
+count. This is because they are a nucleated cell (like a WBC), and are mistakenly
+recorded as such by the analyzer. This results in a falsely high wBC count.
+Performing a corrected white blood count adjusts your WBc count to account for
+these NRBCs.
+Materials required
+● Stained blood smear
+● Microscope with 100x (oil immersion) objective lens
+● Cell counter.
+Procedure
+NRBCs are first noted during your slide evaluation, usually while performing a WBC
+differential count.
+(1) During your 100 cell differential count, record the number of NRBC seen.
+(2) Nofe: Do not include NRBCs as a part of your 1o0 cell wBC differential. Record them
+separately.
+100
+xWBC Count(10²/μL) = __×10²/μL
+(100+No.of NRBC)
+Blood Analysis   37
+Patelet count
+Materials required
+● Whole blood
+●Thrombo-TIC test kit (Bioanalytic GmbH)
+● Improved Neubauer hemocytometer
+● Coverslip
+● Microscope with 40x objective lens
+ Cell counter.
+Procedure
+(1) Follow Thrombo-TlC instructions for proper filling of the vial.
+(2) Place a clean coverslip on top of the hemocytometer.
+(3) Mix the Thrombo-TIC vial, and flood one side of the hemocytometer counting
+chamber using capillary action.
+(4) Count the platelets within 25 group squares (each consisting of 16 smallest squares)
+(see Figure 2.21).
+(5) Repeat this count on the second side of the hemocytometer.
+Counts should not be done if platelet clumping is seen. If clumping is noted, repeat
+the dilution or collect a new blood sample if clumping persists.
+(6) Calculate the sum of the 25 group squares for Side 1 and repeat for Side 2 of the
+hemocytometer grid.
+Figure 2.21
+Patelet counting area, indicated by "p."
+38   Veterinary Technician's Handbook of Laboratory Procedures
+Calculations and quality control
+QC: Side 1 and Side 2 totals should be within 10% of each other before taking the
+average.
+Average = —_ x10²/μL
+Sources of error
+● Improper mixing of whole blood or prepared solution
+● Improper filling of Thrombo-TIC vial
+● Incomplete flooding or overfilling of the hemocytometer chamber
+platelets and debris
+● Platelet clumping present due to collection and/or handling of the blood sample.
+Platelet estimate
+Purpose
+Performing a platelet estimate is a quick and simple way to verify adequate platelet
+numbers in a patient's sample. It is also useful when errors and flags arise during auto-
+mated analysis of blood. Depending upon the analyzer, megathrombocytes, which are
+Materials required
+●Stained PBS
+● Microscope with 100x objective lens
+● Cell counter
+Procedure
+(1)First, scan the edges of the smear under low power for platelet clumps.
+Because clumps are larger than individual cells, they will be pushed to the outer
+edges of the smear.
+Tip: Platelet clumping is a common occurrence following the collection of blood
+If no clumping is seen, proceed with the estimate.
+(3) Count the number of platelets seen per field within the monolayer of the smear.
+(4) Count 10 fields and calculate the average number of cells seen per field.
+Average x20 = _—_x10² /μL
+Sources of error
+· Poorly made smear
+· Counting in areas too thick or too thin
+◆Platelet clumping present (see Figure 2.23).
+Figure 2.22
+Megathrombocyte (giant platelet) (1ooox magnification).
+Figure 2.23
+Platelet clumping (1ooox magnification).
+34
+40   Veterinary Technician's Handbook of Laboratory Procedures
+Normal species variation of leukocytes
+Table 2.4 
+Canineleukocytemorphology.
+Figure 2.24
+Canine neutrophil.
+Figure 2.25
+Canine eosinophil.
+Figure 2.26
+ Canine basophil.
+Figure 2.2?
+Canine Iymphocyte.
+Figure 2.28
+Canine monocyte.
+Note "teardrop"-shaped Barr body on the nucleus of a canine neutrophil (Figure 2.24). Occurs in females
+only.
+Table 2.5
+Feline leukocyte morphology.
+.00
+O
+Figure 2.29
+Feline neutrophil.
+Figure 2.30
+Felineeosinophil.
+Figure 2.31
+Feline basophil.
+Figure 2.32
+Felinelymphocyte.
+Figure 2.33
+Felinemonocyte.
+Note the Howell-Jolly body (arrowhead) present in the red blood cell adjacent to the lyrmphocyte
+(Figure 2.32).
+Table 2.6
+Equine leukocyte morphology.
+Figure 2.34
+ Equine neutrophil.
+Figure 2.35
+Equine eosinophil.
+Figure 2.36
+Equine basophil.
+Figure 2.37
+Equine Iymphocyte.
+Figure 2.38
+Equine monocyte.
+42
+Table 2.7
+Bovine leukocyte morphology.
+Figure 2.39
+Bovine neutrophil.
+Figure 2.40
+Bovine eosinophil.
+Figure 2.41
+Bovine basophil.
+Figure 2.42
+Bovine Iymphocyte.
+Figure 2.43
+Bovine monocyte.
+43
+44
+Veterinary Technician's Handbook of Laboratory Procedures
+Table 2.8
+Ovine leukocyte morphology.
+Figure 2.44
+Ovine neutrophil.
+Figure 2.45
+Ovine eosinophil.
+Figure 2.46
+Ovine basophil.
+Figure 2.47
+Ovine Iymphocyte.
+Figure 2.48
+Ovine monocyte.
+Neutrophil maturation
+Table 2.9
+The neutrophil in various stages of maturation. (Youngest to oldest, left to right.)
+Figure 2.49
+Figure 2.50
+Band
+Figure 2.51
+Hypersegmented
+Metamyelocyte.
+neutrophil.
+neutrophil.
+Blood Analysis   45
+Abnormal morphological changes in leukocytes
+Table 2.10
+Abnormal leukocytemorphology.
+Toxic neutrophil
+Cytoplasmic basophilia
+and vacuolation; Dohle
+bodies
+● Associated with
+increased neutrophil
+production and
+shortened
+maturation time.
+Figure 2.52
+Toxic neutrophil.
+Note Dohle body present in the
+cytoplasm.
+Atypical
+Azurophilic cytoplasmic
+lymphocyte
+granules seen.
+● Associated with
+chronic antigenic
+stimulation.
+Figure 2.53
+Atypical lymphocyte.
+Reactive
+Increased cytoplasmic
+lymphocyte
+basophilia is seen.
+● Associated with
+antigenic stimulation
+secondary to
+vaccines or infection.
+Figure 2.54
+Reactive lymphocyte.
+46    Veterinary Technician's Handbook of Laboratory Procedures
+Erythrocyte morphologies
+Table 2.11
+Variations in erythrocyte chromasia (color).
+Hypochromic (pale)
+Figure 2.55
+Hypochromicerythrocyte.
+Polychromic (bluish)
+Figure 2.56
+Polychromic erythrocyte.
+Table 2.12
+Variation in erythrocyte size(anisocytosis).
+Macrocytic (large)
+Figure 2.57
+Macrocytic erythrocyte.
+Microcytic (small)
+Figure 2.58
+Microcyticerythrocyte(arrow).
+Table 2.13
+Erythrocyte inclusionbodies.
+Basophilic stippling
+Figure 2.59
+Basophilic stippling.
+Howell-Jolly bodies
+Figure 2.60
+Howell-Jolly body.
+Heinz bodies
+(Diff-Quik stain)
+Figure 2.61
+Heinz body (Diff-Quick stain).
+Heinz bodies (new
+methylene blue stain)
+Figure 2.62
+Heinz body (new methylene
+blue stain).
+47
+Table 2.14
+Small animal hemoparasites.
+Babesia canis and Babesia
+gibsoni
+Figure 2.63 Babesia canis (left) and Babesia
+gibsoni (right) present on a canine blood film
+(from Thrall, Mary Anna, Weiser, Glade, Allison,
+Robin W., and Campbell, Terry W. 2012. Veterinary
+Hematology and Clinical Chemistry. 2nd ed. Ames:
+Blackwell Publishing).
+Cytauxzoan
+Figure 2.64 Cytauxzoan organisms on a feline
+blood film (from Thrall, Mary Anna, Weiser, Glade,
+Allison, Robin W., and Campbell, Terry W. 2012.
+Veterinary Hematology and Clinical Chemistry, 2nd
+ed. Ames: Blackwell Publishing).
+Mycoplasma haemofelis
+(Figure 2.65) and
+Mycoplasma haemocanis
+(not shown)
+Figure 2.65
+Mycoplasma haemofelis organisms
+appear as small, ring-shaped or rod-shaped
+structures. Organisms can be found on the
+surface or the edge of erythrocytes. Organisms
+also seen on the surface of "ghost" cells
+(arrowhead) (from Thrall, Mary Anna, Weiser,
+Glade, Allison, Robin W, and Campbell, Terry W.
+2012. Veterinary Hematology and Clinical
+Chemistry, 2nd ed. Ames: Blackwell Publishing).
+48
+Table 2.15
+Erythrocyte poikilocytosis (shape).
+Dacrocyte
+Figure 2.66
+Dacrocyte.
+Echinocyte
+Figure 2.67
+Echinocyte.
+Schistocyte
+Figure 2.68
+Schistocyte.
+(Continued)
+49
+Table 2.15
+(Continued)
+Acanthocyte
+Figure 2.69
+Acanthocyte.
+Spherocyte
+Figure 2.70
+Spherocyte.
+Keratocyte
+C
+Figure 2.71
+Keratocyte.
+Codocyte
+Figure 2.72
+Codocyte.
+50
+Blood Analysis  51
+Table 2.15
+(Continued)
+Stomatocyte
+Figure 2.73
+Stomatocyte.
+Ovalocyte
+Figure 2.74Ovalocyte.
+Evaluating a blood film to complement automated analyzers
+Automatedanalyzersare afastandconvenientway toevaluate apatient'sbloodvalues.
+With this being said, analyzers should not completely eliminate the need to visually
+examine the blood smear microscopically. Microscopic examination accomplishes two
+important things: (1) you can confirm automated data, and (2) it allows you to evaluate
+the morphology of the blood cells. Performing a manual examination does not have to
+take much time, and the more often it is performed, the more proficient a technician
+will become.
+Erythrocytes
+Under 1ooox magnification, examine the erythrocytes for their size and color. This will
+help to confirm the MCV and MCHC values calculated by the automated analyzer. A
+large variation in anisocytosis should be reflected in the analyzer's RDw (red cell dis-
+tribution width) value.Increased numbersof polychromatophils can suggest anincreased
+reticulocyte count and should be confirmed with a manual reticulocyte count if your
+analyzer is unable to perform this function. In addition, examine the erythrocytes for
+abnormal morphological characteristics and parasitic/infectious inclusions. Currently,
+52  Veterinary Technician's Handbook of Laboratory Procedures
+Leukocytes
+Examining the numbers and distribution of the leukocytes will confirm the analyzers
+WBC count.Finally,examine themorphology of theleukocytes.Morphologiesshould be
+and severity of an inflammatory response.
+Thrombocytes
+is largely in part to their tendency to clump. Examine your blood smear under 10o0x
+a normal canine sample should have 10-35 platelets/1000x field.
+The presence of large platelets, or megathrom bocytes, is a typical finding in cats, but
+Tips for evaluating PBs
+Perform a smear evaluation on all samples to complement the analyzer's readings-not
+value for a technician to familiarize themselves with what is considered "normal." Once
+this is achieved, "abnormal morphologies or abnormal counts will be instantly obvious
+efficiently.
+Clinical chemistries
+To evaluate the function of most body systems, serum and/or plasma is evaluated for
+Chemistries (often called panels, databases, or profiles) are most frequently conducted
+on an in-house analyzer or sent to a reference laboratory. These chemistries reveal the
+ence range for that species. Below is a list of the most routinely conducted chemistries
+and the organ or system they are associated with:
+Table 2.16Common clinical chemistry tests and their associated body system or organ.
+Chemistry (and common abbreviation)
+Body system or organ
+Glucose (Glu, BG)
+Required for every cell in the
+body-energy source
+Urea nitrogen (BUN)
+Kidney
+Creatinine (Creat)
+Kidney (waste product produced by
+the muscle)
+(Continued)
+Blood Analysis   53
+Table 2.16
+(Continued)
+Chemistry (and common abbreviation)
+Body system or organ
+Total protein (TP, TS)
+Proteins in fluid portion of blood-
+albumin, globulin and others
+Albumin (Alb)
+Protein in blood, produced by the
+liver
+Globulin (Gb, GIb)
+Protein in blood associated with the
+immune system
+Bilirubin, total (TBil, Total Bili, TB)
+Liver (waste product from breakdown
+of RBC)
+Alkaline phosphatase (Alk phos, ALP)
+Liver and bone
+Aspartate aminotransferase (AST,
+Liver (also found in heart)
+SGOT)
+Alanine aminotransferase (ALT, SGPT)
+Most commonly associated with the
+liver(also found in kidney)
+Calcium (Ca, Ca²t)
+Mineral for muscles, nerves, heart,
+clotting and bones
+Phosphorus (Phos, P, Ph)
+Kidney, liver and bone
+Sodium (Na, Na+)
+Electrolyte for normal processes in
+cells
+Potassium (K, K+)
+Electrolyte for metabolism in cells
+Chloride (Cl, CI-)
+Electrolyte for acid-base balance in
+cells
+Bicarbonate (CO)
+Electrolyte for acid-base balance in
+cells
+Amylase (Amyl, Amy)
+Pancreas
+Lipase (Lip)
+Pancreas and upper Gl
+Creatine phosphokinase (CK, CPK)
+Enzyme for heart, brain and skeletal
+muscle
+Thyroid panel (T4, Free T4, TSH)
+Thyroid function
+Typically. the veterinarian will decide which combination of tests will be run
+based on the presenting complaint from the owner and the physical exam findings.
+Because testing procedures vary widely between analyzers and reference labs, they will
+not be covered.
+Coagulation testing
+In certain situations,animals require coagulation testing to determine if the clotting
+factors and platelets are working properly. Normal clotting function is a complex
+54    Veterinary Technician's Handbook of Laboratory Procedures
+process (clotting/coagulation cascade) and requires many compounds and steps to
+should be avoided as the collection vessel for anypatients witha suspected coagulopa
+thy, and a bandage should be applied to the venipuncture site.
+Activated clotting time
+Purpose
+An activated clotting time (ACT) is an in-house test that is used to determine how por-
+tions (clotting factors) of the clotting cascade are working. The ACT will be prolonged
+in patients with faulty clotting factors and a low platelet count. Automated analyzers
+are becoming more common, making this test obsolete.
+Materials required
+●ACT tube (gray top)
+Vacutainer
+● Warm water bath (body temperature of the species you are testing)
+● Timer.
+Procedure
+(1) Perform a "clean" stick into the vein without poking or searching for the vessel.
+This will increase clotting factors and platelets erroneously.
+(2) Allow the tube to fill to the volume according to the manufacturer.
+(3) Begin gently mixing as soon as the collection is complete.
+every 5 seconds until a noticeable clot has formed. Do not shake or invert the tube
+a clot. Clotting times vary by species; however, a dog's blood should clot within 120
+seconds and a cat's within 9o seconds.
+Buccal mucosal bleeding time
+Purpose
+The buccal mucosal bleeding time(BMBT) test is used to determine primary hemostasis
+platelet numbers but questionable platelet function. This can also be used to diagnose
+von Willebrand disease seen primarily in Dobermans.
+Materials required
+●Gauze to tie the lips of the muzzle upward
+● BMBT lancet (only a specific lancet for this test should be used; other devices will
+cause too deep of an incision)
+● Filter paper or once-folded paper towel
+Timer.
+Blood Analysis  55
+Procedure
+(1) Tie the muzzle of the dog closed with gauze with the lips turned upward. Cats and
+other species will likely need sedation.
+(2) Utilizing the lancet, make a small, uniform incision on the underside of the lip. Bleed-
+ing will occur.
+(3) Gently dab blood that flows from the incision with the paper. Do NoT touch the
+(4) Time how long it takes for no more drips of blood to form at the incision. Dogs <4
+minutes, cats <3.5 minutes.
+Important notes
+if left inplace toolong.
+Automated clotting tests
+Purpose
+Many reference laboratories and in-house analyzers can perform tests to establish if
+clotting issues are present. A blue top tube is collected and analyzed for activated
+partial thromboplastin time (pTT, apTT), prothrombin time (PT), and thrombin time (TT).
+or may not be working properly.
+Definitions
+● Activated partial thromboplastin time: Measures the intrinsic factors and common
+pathways of the cascade.
+● Prothrombin time: Measures the extrinsic factors and common pathways of the
+cascade.
+●Thrombin time: Measures the functional activity of the final common pathway,
+namely fibrinogen.
+this sectionis meant to provide a basic understanding of coagulation tests,along with
+how and why they are performed.
+Chapter 3
+Urinalysis
+Sample collection
+The method in which a urine sample is obtained is very important to the interpretation
+of the urinalysis itself. The method of collection should afways be noted on the urinalysis
+requisition at the time of analysis.
+Free catch (voided sample)
+Free catch samples are the easiest to collect and are often brought in by owners. They
+culturing. Owners can be instructed on how to collect samples at home in a manner
+that still maintains adequate quality control. A midstream, first-morning collection will
+provide the best sample for analysis (see Table 3.1).
+Materials required
+● Collection cup or ladle
+● Pie plate or shallow dish (useful for female dogs)
+● Nonabsorbent litter for collections in cats
+Specimen container
+Good container choice for owners
+● Leak proof with a tight-fitting lid
+●Opaque
+● Clean, and well rinsed of any previous contents or detergents
+container will have residue present that can cause microscopic lipid molecule con-
+tamination. This can lead to erroneous interpretations.
+● For cats: Commercial nonabsorbent litter for urine collection is available. As a sub-
+stitute, well-rinsed aquarium gravel or Styrofoam chips can be used as well.
+Bladder expression
+In small animals, bladder expression can be performed if a free catch sample is not
+possible. Like free catch samples, this collection method provides an adequate sample
+for routine urinalysis, but is not appropriate for bacterial culturing (see Table 3.2).
+Veterinary Technician's Hancbook of Laboratory Procedures, First Edition. Brianne Bellwood and
+Melissa Andrasik-Catton.
+@ 2014 John Wiley & Sons, Inc. Published 2014 by John Wiley & Sons, Inc.
+57
+58
+Veterinary Technician's Handbook of Laboratory Procedures
+Table 3.1 Advantages and disadvantages of a free catch (voided) sample.
+Free catch (voided sample)
+Advantages
++ No risk or complications to the patient.
++ Can be used by the client.
+Disadvantages
++ High amount of contamination of cells, bacteria and debris from the
+genitourinary tract, surrounding fur and the environment.
++ Sample is unsuitable for culture.
+Table 3.2 Advantages and disadvantages of bladder expression.
+Bladder expression
+Advantages
++ Decreased risk of trauma (if done correctly).
++Sample can be obtained when needed.
+Disadvantages
++ Excessive pressure can result in trauma to the patient.
++ If the bladder does not contain sufficient quantities of urine at the time,
+expression may not be successful.
+Same amount of contamination seen as with a voided sample.
++ Sample is unsuitable for culture.
+For collection, the animal is standing or placed in lateral recumbancy, and the bladder
+is palpated. Once it is located, gentle, steady pressure is applied to the bladder until the
+animal begins to urinate. It is important not to apply too much pressure as bladder
+rupture may occur. This method should never be used in patients with suspected
+obstruction or fragile bladders due to increased risk of rupture.
+Materials required
+● Collection dish
+● Assistance with restraint
+Catheterization
+Catheterization involves inserting a rubber catheter into the urethra and feeding it up
+to the bladder of the patient to collect a sample. A sterile syringe is attached to the end
+of thecatheter and urineisdrawn out.Thisprocedurevaries slightly depending upon
+species and sex. In any case, sterility is important. Sterile catheters, sterile lubricant,
+and sterile gloves should be worn to prevent infection. For female animals, a speculum
+Urinalysis   59
+Table 3.3 Advantages and disadvantages of catheterization.
+Advantages
++ Sample is collected in a sterile manner; therefore, it is suitable for culture.
++ Can collect urine sample when bladder volume is low.
+Disadvantages
++Increased risk of an iatrogenic infection or trauma.
+Difficult toperform infemale animals.
+Materials required
+●Sterile polypropylene or rubber catheter
+● Sterile lubricant
+●Sterile gloves
+● Sterile syringe for collection
+●Speculum (for female patients)
+Cystocentesis
+Cystocentesis is another method for collecting a sterile urine sample, and therefore is
+easily restrained animals. Sedation may be required to achieve this. Typically. the
+patient is restrained in dorsal recumbancy and the bladder is palpated. An ultrasound
+may also be used to visualize the bladder and help guide the needle. The site should
+be cleaned with 70% alcohol and aseptic techniques should be followed. A 1"-1 1/2",
+25-22 gauge needle, attached to a syringe, is inserted through the abdominal wall and
+into the bladder. Once inserted, the needle is never redirected as this could cause
+the syringe is retracted and urine is drawn out. Once the sample has been obtained,
+For female dogs and cats, the needle is inserted along the midline of the caudal
+abdomen. For male dogs, the needle is inserted caudal to the umbilicus, just off to the
+side of the sheath (see Table 3.4).
+Materials required
+ 1"-1.5", 25-22 gauge needle
+●10-12 mL syringe
+●Assistance with restraint.
+Sample preservation
+Fresh urine should be examined within 20 minutes of collection. If that is not possible,
+then a method of preservation should be considered.
+60   Veterinary Technician's Handbook of Laboratory Procedures
+Table 3.4 Advantages and disadvantages of cystocentesis.
+Advantages
++ Less of a risk of causing an iatrogenic infection (compared with catheterization).
++ No contamination of urine; therefore, the sample is suitable for culture.
+Disadvantages
++ Requires adequate volume of urine within the bladder.
+May cause microscopic hematuria.
+Before choosing a preservative, consider the following:
+(1) The method of sample collection used
+(2) The analyses to be performed
+(3) The biochemical method that will be used
+(4) The time delay between urine collection and analysis.
+Note: Always indicate the type of preservative used on the requisition.
+In vitro changes occurring in unpreserved urine
+Physical characteristics
+Turbidity:Increase-as bacteria,and possibly crystals,multiply.the turbidity of the
+sample increases.
+Odor: Becomes stronger smelling, as microbes cause increased amounts of ammonia
+to be produced within the sample.
+Chemical characteristics
+Glucose:Decrease-asit is metabolized by cells and microbes.
+Bilirubin: Decrease-bilirubin levels decrease in the presence of direct light.
+Nitrite: Increase-if it is produced by the types of microbes present in the sample.
+Sediment characteristics
+Cellular structures: Decrease-cells begin to deteriorate in concentrated, dilute, or
+acidic urine.
+Crystals: Increase or decrease-depending on the solubility and pH of the sample, the
+numbers of various crystals may change over time.
+Refrigeration
+Refrigerating a urine sample is an adequate form of preservation for up to 6 hours.
+Before analyzing the sample, be sure to allow it to return to room temperature first.
+Urinalysis ■  61
+This is important for the enzymatic reactions that occur during the chemical examina-
+tion ofurine.Generally,enzymaticreactions occur at a slowerrate whenthe sample is
+at a lower temperature. This results in false readings.
+Lowering the temperature may also encourage crystal formation. As the sample
+returns to room temperature, these crystals will dissolve.
+     o      
+promised when analyzing a sample that is below room temperature.
+Freezing
+by the actions of microbes. Freezing is also adequate for most chemical tests and pre
+serves the mineral content of urine. Freezing, however, is an unsuitable method of
+preservation for sediment and hormonal analyses due to the resulting cellular and
+protein damage.
+Toluene
+Toluene is an organic solvent that can be used to preserve a urine sample. Toluene
+floats on the surface of the sample, preventing the loss of acetone and contamination.
+Two milliliters of toluene will be adequate for 1oo mL of urine. Toluene is suitable for
+preserving the chemical profile of the urine sample; however, it would not prevent the
+invitro growth of microbes present in the sample.Due to the fact that toluene is a
+the urine.
+Formalin{40%)
+for sediment analysis. Formalin prevents microbial growth, therefore preserving the
+cellular integrity of various structures within the sample. Formalin is a reducing agent,
+so it doesinterfere with the chemical analysis of substances that use thisprinciple in
+The use of enough formalin can result in a false negative.
+Boric acid (0.8%)
+The addition of boric acid to a sample will inhibit bacterial growth. Boric acid is an
+appropriate preservative for sediment analysis and, with the exception of pH, chemical
+analysis as well.
+Commercial preservation tablets
+Commercial preservation tablets are designed to inhibit microbes and control the pH
+tion of urine sediment, such as leukocytes, erythrocytes, casts, and crystals.
+62  Veterinary Technician's Handbook of Laboratory Procedures
+Physical examination of urine
+The physical examination of urine consists of assessing the volume,color,turbidity,
+odor, and SG of a urine sample.
+Volume
+An accurate representation of urine volume should be assessed over a period of 24
+plements). Normal daily urine output can be calculated using a rate of 1mL/kg/h.
+Terminology related to urine volume
+Polyuria: Increased amounts of urine volume
+Oliguria: Decreased amounts of urine volume
+Anuria: No urine production.
+Color
+Normal urine is described as being straw colored. The pigment of the urine often cor-
+relates with the concentration of the sample, but this should still be confirmed with a
+SG reading
+To avoid discrepancies among technicians, use standard color terms when recording
+your findings (see Table 3.5 and Figure 3.1).
+Table3.5Commonurine colors and associated causes.
+Straw
+Normal
+Colorless-pale
+Dilute urine
+Deep yellow
+Concentrated urine; bilirubinuria
+Orange-red
+Hematuria; hemoglobinuria
+Red-brown
+Myoglobinuria
+Milky white
+Pyuria
+Turbidity
+Turbidity refers to the "cloudiness" of urine. An increase in turbidity in the urine can
+be caused by cellular elements, crystals, microorganisms, or mucous. When examining
+the turbidity of a sample, there are a few key points to remember:
+the bottom of a standing sample.
+Assessturbidityonaroomtemperaturesample.
+Urinalysis  63
+Figure 3.1 Urine color variations. From left to right: straw, pale yellow, and orange-red.
+Examinetheturbidityina clearcontainer of a standard depth.Agoodchoiceis a
+urine tube or sterile red top blood collection tube.
+specles.
+To examine turbidity:
+(1) with the sample in a clear tube, invert several times to ensure the sample is well
+mixed.
+(2) Hold the sample up in front of a piece of paper with text on it.
+(4) Record as clear (0), slightly cloudy (1), cloudy (2), or turbid (3).
+Odor
+The odor of urine can provide insight into possible conditions that should later be con-
+firmed through chemical and sediment analysis.
+Again, it is important to use standard terminology to minimize discrepancies among
+technicians:
+Strong odor: The urine of intact male animals, especially cats and goats, is often quite
+strong and should be described as such.
+Ammonia: Ammonia-scented urine can be associated with cystitis. Some species of
+64    Veterinary Technician's Handbook of Laboratory Procedures
+CLEAR
+Figure 3.2 Assessing turbidity.
+The presence of bacteria should be confirmed during the sediment examination or
+with a urine culture.
+Putrid: Putrid- (or foul-) smelling urine is associated with the degradation of protein.
+This can occur during infections, and should be confirmed with further testing.
+Fruity:Increased ketones present inthe urine give off a fruity odor. This odor may
+Specific gravity (SG)
+SG is determined by assessing the density of a liquid (in this case, urine) compared with
+the density of distilled water.
+Measuring SG requires the use of a refractometer (see Figure 3.3).
+In a correctly calibrated refractometer, distilled water should read 1.ooo. Calibration
+should be checked regularly to ensure accuracy.
+If the urine sample that is being tested exceeds the maximum limit of the refractom-
+eter, an accurate SG can be achieved by following these steps:
+(1) Mix equal portions of urine with distilled water.
+(3) Multiply the last two digits of the reading by 2 in order to obtain the estimated SG
+Terminology related to SG
+s i  a    a a   ue a
+>1.030; cats: >1.035).
+Hyposthenuria: The SG of the urine is lower than the glomerular filtrate (<1.o08).
+Urinalysis  65
+Figure 3.3 Refractometer.
+Isosthenuria: The SG of the urine is equal to that of the glomerular filtrate
+(1.008-1.012).
+Tips for accurate SG readings
+·Ensure the sample is well mixed before reading.
+● Ensure the sample is at room temperature if it was previously refrigerated.
+·Practice good equipment maintenance.
+Specific gravity readings using reagent strips
+sample. This method of measurement differs from the refract meter method and has
+(1) The principle of the test involves the use of a pH indicator to produce a degree of
+color change associated with a SG value. Urine samples with a pH of 6.5 or higher
+could result in erroneous findings.
+(2) The highest SG reading the strip can measure is 1.030, which is below the capacity
+of dogs and cats.
+Chemical examination
+The chemical examination of urine is usually performed by the use of reagent strips.
+66    Veterinary Technician's Handbook of Laboratory Procedures
+SIEMENS
+Multistix105G
+Figure 3.4 Multistix 10.
+for a specific urine constituent. Commercial examples would be Multistix or Chemstrip
+(see Figure 3.4).
+There are individual tests available that can be used as well. Depending upon the
+constituent tested, these alternative methods may be more/less specific or may simply
+be useful as a confirmatory test.
+Whichever method is chosen, it is important to review the package insert and make
+note of the testing time required and any possible false positives or false negatives that
+can occur.
+Glucose
+The term used to describeglucose in theurine is glucosuria.The reagentstrip method
+for detecting glucose is specific for glucose, meaning no other sugar will cause a posi-
+tive result.
+Possible causes of false positives with the reagent strips are contamination with
+detect any sugar (or reducing substance) in the urine, and therefore are not specific to
+glucose.
+Bilirubin
+When bilirubin is present in the urine, the term "bilirubinuria" is used. Bilirubin is unsta-
+ble in sunlight or artificial light and should therefore be tested immediately. Delaying
+testing will result in false negative values.
+Urinalysis67
+Ictotesttablets are availabletotestforthepresenceofbilirubinin a urinesample.
+quantities of bilirubin.
+Ketones
+There are three ketone bodies that are produced: acetone, acetoacetic acid, and
+β-hydroxybutyric acid. Most reagent strips are sensitive to acetoacetic acid, less sensi-
+tive to acetone, and do not detect β-hydroxybutyric acid. The presence of ketone bodies
+in the urine, or ketonuria, is often accompanied by a fruity odor.
+Acetest relies on the same testing principle as the reagent strips, but is more sensitive.
+Blood
+oa        aa u  
+anb sl jsal ayl adwes auun e ul (eunuigoboiw) uigoboaw pue '(eunuigoboway)
+Hematest tablets that were originally developed for detecting blood in feces can be
+Certain microbes and cells, if present, can produce the enzyme peroxidase, which will
+result in a false positive. Another source of a false positive is contamination with oxidiz
+ing disinfectants.
+pH
+a pH range of 5.0-8.5. Results are read at 0.5 intervals on the pH scale. Care should
+buffer contained within the neighboring protein pad.
+Protein
+When protein is present in the urine, the term proteinuria is used. Reagent strips are
+tiveforglobulins andmucoproteins.
+False negatives may occur due to the low concentration of protein contained within
+For the detection ofmicroalbuminuria,certainin-houseenzyme-linked immunosorb-
+ent assay (ELlSA) test kits are able to detect the trace amounts of albumin that would
+be missed by the reagent stripmethod.
+Urobilinogen
+When testing for urobilinogen, the same light-sensitivity precautions used for bilirubin
+   o   o a  sau     o
+preservative.
+68Veterinary Technician's Handbook of Laboratory Procedures
+Nitrite
+Nitrites are productsformed fromnitrates by the actions ofcertain species ofbacteria.
+only, but there are several factors to consider when recording nitrite levels as negative.
+First, only certain species of bacteria will convert nitrate to nitrite. Second, it takes time
+for this to occur.A short urine retention time within the bladder may not beadequate
+for this conversion to take place.
+Leukocytes
+Leukocytes present in the urine are termed pyuria. The reagent strip method for detect-
+ing leukocytes relies on the detection of a leukocyte esterase enzyme. Unfortunately,
+this test is insensitive in dogs, and almost always gives a positive result for feline
+Sediment examination
+Sediment examination is the final step of a complete urinalysis. A sediment exam not
+it also serves to confirm suspected findings during the physical and chemical examina-
+tions previously conducted.
+The SG of the sample itself can have an effect on the appearance of some structures,
+s        s   
+samples with a SG >1o20, these cells will begin to appear smaller, distorted, and
+shriveled. In more dilute urine, (<1.010), the cells will swell and may eventually rupture
+if given enough time.
+Before examining the sediment, we must first concentrate the sample. This is done
+by centrifuging the urine. After centrifugation, the urine will be separated into two
+portions: the supernatant and the sediment(see Figure 3.5).
+Materials required
+● Conical urine tubes
+● Centrifuge
+●Microscope
+● Slides and cover slip
+● Sediment stain (if preferred).
+Sediment stain
+Sedimentstain canbea useful tool inthe examination ofurine.Manymicroscopicele
+ments are translucent, and stain can provide some color or contrast to make visualiza
+tion easier.If using stain,it is still a good practice to prepare one sample without stain
+and one with stain, then examine and compare both.
+Urinalysis  69
+Figure 3.5 Urine after centrifugation. Sediment is concentrated at the bottom (arrow).
+Stain can bring with it some undesirable findings as well. Older stain can precipitate,
+causing clumps which could obscure or interfere with your readings. Stain can also
+microscopic examination. Comparing a stained sample with an unstained sample can
+help in eliminating these false positives.
+To maintain good quality control, check your stain regularly. Examine the stain by
+adding one drop to a slide, add a coverslip, and view under 40x power. Scan the area
+for bacteria and stain precipitate. If these contaminants are found, discard the stain.
+Sediment stain is relatively inexpensive and should be routinely replaced on a monthly
+basis.
+Procedure for microscopic examination of urine
+(1) Pour 10 mL of the urine sample into a labeled conical centrifuge tube. If 10 mL is not
+available,note thevolume usedonyourrequisition.
+(2) Centrifuge the sample for 5 minutes at 1500rpm.
+(3) Decant the supernatant leaving approximately O.5-1mL in the tube.
+(4) Resuspend the sediment by flicking the tube with your fingers or gently mixing the
+sediment and supernatant with a pipette.
+(5) Transfer a drop of resuspended sediment near the end of a microscope slide with
+a transfer pipette and place a coverslip over it.
+(6) Opfionar: Add one drop of sediment stain to one drop of urine sediment on the
+other end of the microscope slide and place a coverslip over it.
+70  Veterinary Technician's Handbook of Laboratory Procedures
+(8) Scan the entire slide under low power (10x) for the presence of large formed ele-
+ments, such as casts, crystals, and clusters of cells.
+(9) Using a grid pattern, examine the entire specimen under the coverslip (both stained
+and unstained samples)using high power (40x) to identify and semi-quantify formed
+elements.
+Tip: To verify the presence of cellular components, make a blood smear with the
+Reporting of findings
+field. Red blood cells and white blood cells are evaluated as the average number seen
+per high power field (40x). Other elements, such as bacteria and crystals, are also
+examined under high power (40x), and reported as occasional (1+), few (2+), moderate
+(3+), or many (4+).
+Microscopic elements of urine sediment
+Table 3.6
+Cellular constituents of urine sediment.
+Figure 3.6
+Red blood
+Figure 3.7
+Red blood
+Figure 3.8
+Red blood
+cells (unstained urine).
+cells (unstained urine).
+cells (stained urine).
+Figure 3.9
+White
+Figure 3.10White blood
+Figure 3.11
+White blood
+blood cells (arrows) in
+cells (arrow), red blood
+cells (arrow), red blood
+unstained urine. Red
+cells, and bacteria present
+cells, and bacteria
+blood cells and bacteria
+in unstained urine.
+present in stained urine.
+are present as well.
+Table 3.6
+(Continued)
+Figure 3.12
+Squamous
+Figure 3.13
+snowenbs oml
+ Figure 3.14
+Renal tubular
+epithelialcell.Bacilli
+epithelial cells, and one
+cells.
+bacteriaandwBCsare
+smaller, transitional
+also present.
+epithelial cell.
+Table 3.7
+Urinary casts.
+Hyaline cast
+Figure 3.15 Hyaline cast (from Hendrix, Charles M. and
+Sirois, Margi. 2007. Laboratory Procedures for Veterinary
+Technicians, 5th ed. St. Louis: Mosby-Elsevier).
+Epithelial cast
+Figure 3.16
+Epithelial cast (from Hendrix, Charles M. and
+Sirois, Margi. 2007. Laboratory Procedures for Veterinary
+Technicians, 5th ed. St. Louis: Mosby-Elsevier).
+Granular cast
+Figure 3.17 Granular cast (from Hendrix, Charles M. and
+Sirois, Margi. 2007. Laboratory Procedures for Veterinary
+Technicians, 5th ed. St. Louis: Mosby-Elsevier).
+Table 3.8
+Urinary crystals.
+Type
+PH
+Ammonium urate
+Acidic/neutral
+Figure 3.18
+Ammonium urate
+crystals (from McCurnin, Dennis M.
+and Bassert, Joanna M. 2006.
+Clinical Textbook for Veterinary
+Technicians, 6th ed. St. Louis:
+Saunders-Elsevier).
+Amorphous urate
+Acidic/neutral
+Figure 3.19
+Amorphous urate
+crystals.
+Bilirubin
+Acidic
+Figure 3.20
+Bilirubin crystals.
+Calcium carbonate
+Neutral/alkaline
+Figure 3.21
+Calcium carbonate
+crystals (spherical and dumbbell
+forms) present in equine urine.
+72
+Table 3.8
+(Continued)
+Type
+PH
+Calcium oxalate
+Acidic/neutral
+dihydrate
+Figure 3.22
+Calcium oxalate
+dihydrate crystals.
+Calcium oxalate
+Acidic/neutral
+monohydrate
+Figure 3.23
+Calcium oxalate
+monohydrate.
+Cholesterol
+Acidic/neutral
+Figure 3.24
+Cholesterol crystal.
+(Continued)
+73
+Table 3.8
+(Continued)
+Type
+pH
+Cystine
+Acidic/neutral
+Figure 3.25
+Cystine crystal.
+Magnesium
+Neutral/alkaline
+ammonium
+phosphate
+Figure 3.26
+Magnesium
+ammonium phosphate (struvite)
+crystal.
+Sulfa metabolite
+Acidic/neutral
+Figure 3.27
+One form of sulfa
+metabolite crystal.
+74
+Table 3.9
+ Miscellaneous findings in urine sediment.
+Figure 3.28 A chain of cocci bacteria
+Figure 3.29
+Bacilli bacteria
+present in a urine sample. Rod-shaped
+(arrows) and RBCs also
+bacilli and RBCs are also present.
+present.
+28mm
+Figure 3.30
+Dioctophymarenale ovum
+(from Zajac, Anne M. and Conboy, Gary
+Figure 3.31
+Spermatozoa.
+A. 2012. Veterinary Cfinical Parasitology.
+8th ed. Ames: Blackwell Publishing).
+Figure 3.32
+Artifact: bubbles.
+Figure 3.33
+Starch granules.
+75
+Chapter 4
+Parasitology
+Collection
+important in achieving accurate results.
+In small animal medicine, fecal samples are often brought in by clients. These samples
+    a       aa 
+ahead of time.
+● The sample should be fresh. If samples cannot be examined within 2 hours, they
+larvate and oocysts sporulate.
+● Samples obtained later from the yard, pen, or litter box are not acceptable.
+●The volume of sample should be adequate.A minimum of 10g of fresh feces should
+be collected.
+messy to retrieve a sample from for analysis.
+Pooled samples
+Pooled fecal samples describes a collection of fecal samples obtained from a group of
+cific individual is identified, rather the sample represents the group. It is important to
+for the parasite. When collecting these samples, the label should clearly state:
+● Owner
+Date/time of collection
+●Pen number
+Number of animals contained within this pen.
+Veterinary Technician's Hancbook of Laboratory Procedures, First Edition. Brianne Bellwood and
+Melissa Andrasik-Catton.
+@ 2014 John Wiley & Sons, Inc. Published 2014 by John Wiley & Sons, Inc.
+7
+78   Veterinary Technician's Handbook of Laboratory Procedures
+Name Nom Nombre
+F/M
+Dacha
+Figure 4.1 Specimen container suitable for fecal collection.
+Gross examination
+Upon receipt of a fecal sample, a gross exam should first be performed to examine the
+physical characteristics.
+Consistency
+Comment on the consistency of the fecal sample. Is it soft, watery, or hard? Keep in
+Color
+Unusual color should be noted,as it could give insight into other underlying conditions,
+for example, gray stool can indicate pancreatic insufficiency.
+Blood
+Note any blood present. Blood may appear bright red (frank), or black (melena or
+melanous) and have a tar-like consistency.
+Mucous
+Mucous may be present on the surface of fresh feces. This should be noted.
+Gross parasites
+Parasites may be visible upon gross examination of the stool. Most commonly seen in
+Parasitology ■ 79
+Microscopic examination
+There are many methods of preparing and performing a microscopic examination. The
+goal of each is to detect parasite ova or oocysts in the patient's sample.Depending
+upon the suspected parasite, the sample, or equipment available, one method may be
+preferred over another.
+ent. Examine the entire coverslip, working in a methodical grid pattern to ensure
+Direct fecal smear
+technique can even be used on the small amount of fecal material found on the end of
+a thermometer. The downside to this technique is that with such a small sample, the
+Materials
+● Microscope slides
+●Coverslip
+●Saline
+● Wooden applicator stick
+Procedure
+(1) Using a wooden applicator stick, mix a small amount of fecal material into a few
+drops of saline in the center of a slide.
+(2) Blend gently until the mixture is homogenous
+(3) Spread out the mixture to a thin layer.
+(4) Remove any large fecal pieces.
+(6) Examine microscopically.
+This technique is particularly useful for viewing live, motile, trophozoites (e.g.,
+Giardia).
+Figure 4.2 Mounted direct smear.
+80   Veterinary Technician's Handbook of Laboratory Procedures
+Simple fecal flotation
+There are several types of fecal flotation solutions that are used as a semi-quantitative
+method of evaluating a fecal sample. In these methods, an estimate is made of the
+number of parasite ova per gram of feces.
+The principle behind this method is to use the differences in specific gravity of para
+site eggs and cysts from that of fecal debris and the solution. A fecal sample is mixed
+its specific gravity. Parasite eggs and cysts float to the surface, while most fecal matter
+sinks to the bottom.
+A common flotation medium is sodium nitrate solution. It can be purchased already
+Other popular solutions include Sheather's solution and zinc sulfate.
+Sheather's solution, also known as sugar solution, can be messy to work with as it is
+quite sticky. It tends to float fewer eggs as compared with sodium nitrate, but it does
+not distort roundworm eggs. It is readily available and inexpensive.
+Zinc sulfate does an excellent job in concentrating cystic forms of protozoans. Zinc
+sulfate is available from veterinary suppliers.
+Figure 4.3 Simple fecal flotation.
+Parasitology  81
+Materials (commercially available fecal flotation kits may be used in place
+of these supplies)
+● Two specimen containers (or wax paper cups)
+● Tongue depressor
+●Flotation solution
+● Fecal shell vial (or test tube)
+●Metal tea strainer
+● Coverslip
+● Microscope slide.
+Procedure
+(1) Add 2g of fresh feces to a container, such as a specimen container or a wax paper
+cup.
+(2) Add flotation solution to the feces and mix well using a tongue depressor.
+(3)Strainthis mixture through a metaltea strainer into the second specimen
+container.
+(4) This strained mixture is then added to the fecal shell vial (or test tube).
+(5) Add more flotation solution to the shell vial until a meniscus is formed.
+depending upon which type of solution is used).
+(7) After the allotted time, remove the coverslip by lifting it directly upwards.
+(8)Place the coverslip onto a microscope slide.When laying the coverslip down,place
+trapped underneath the coverslip.
+(9) Examine microscopically.
+Note: It is important not to delay examination. Depending upon the type of flotation
+crystallize.
+There are many commercial kits available on the market that utilizes this same prin
+Centrifugation technique
+In comparison with the simple flotation method, the centrifugation technique is more
+efficient at recovering parasite ova from a sample. It does, however, require a little
+more specialized equipment.
+Materials
+●Two specimen containers (or wax paper cups)
+●Metal tea strainer
+● Tongue depressor
+● Test tubes
+●Flotation solution
+82■
+ Veterinary Technician's Handbook of Laboratory Procedures
+● Coverslip
+●Microscope slide.
+Procedure
+(1)Mix1g of feces in 10mL of flotation solutionin a specimen container or waxpaper
+cup until a suspension is formed.
+(2) Pour the mixture through the metal tea strainer. Using the tongue depressor, press
+(3) Pour the liquid into a centrifuge tube and centrifuge the sample at 15o0 rpm for 3
+minutes (remember to always counter balance).
+(4) Decant the supernatant, and add flotation solution. Mix well into the sediment. Add
+more flotation solution until a meniscus is formed.
+(5) Place a coverslip over the meniscus.
+minutes. (remember to counter balance)
+(a) Note: It is important that you use a centrifuge with swinging buckets, not sta-
+tionary buckets. During the centrifugation process, tubes will swing out hori-
+zontally and the coverslip will be held in place (see Figure 4.4).
+(7) After centrifugation, remove the coverslip by lifting straight upwards. Place the
+coverslip onto the slide and examine microscopically.
+Figure 4.4
+4Centrifugation technique. A variable angle centrifuge is necessary for this
+technique.
+Parasitology  83
+Baermann technique
+In contrast to the previous methods mentioned earlier, the Baermann Technique is used
+to recover parasite larvae, not ova.
+Materials
+● Baermann apparatus: Consisting of a funnel, support structure, short length of
+tubing at the end of the funnel, and a clamp at the end of the tubing.
+● Gauze or cheesecloth
+●Warm water
+● Microscope slide
+● Coverslip.
+Procedure
+(1) Wrap 5g of feces in gauze or cheesecloth and lay on the support screen inside the
+funnel of the Baermann apparatus.
+the sample is covered.
+(3) Allow the sample to sit for at least 8 hours (or overnight).
+(4) After the appropriate time has lapsed, loosen the tubing clamp slightly to withdraw
+a large drop of liquid onto a slide.
+(5) Add a coverslip to the sample and examine microscopically.
+Common parasites of domestic species
+Canine and feline
+Nematodes
+Table 4.11
+Toxocara species: Toxocara canis, Toxocara cati, and Toxascaris leonina (see
+Figure 4.5, Figure 4.6, Figure 4.7, Figure 4.8, and Figure 4.10).
+Common name
+Roundworms
+Host
+Canine and feline
+Parasite location (adult)
+Small intestine
+Transmission
+Ingestion of parasite egg containing the larval stage
+of the parasite; transmission through placenta and
+Distribution
+Worldwide
+Figure 4.5
+Toxocara canis (roundworm).
+Figure 4.6
+Toxascaris leonina (roundworm).
+84
+m
+10
+20
+30
+40
+50
+Figure 4.7
+Adult roundworm.
+Adult worm in
+intestine
+Human
+Larva migrates to the
+lungs, and are coughed
+up then swallowed
+Eggs in feces
+ Egg containing 
+larva is ingested
+Larva migrate
+through the tissues
+Figure 4.8
+Life cycle of a canine roundworm.
+85
+Table 4.2
+Ancylostoma species: Ancylostoma caninum, Ancylostoma tubaeforme,
+Ancylostoma braziliense, and Uncinaria stenocephala (see Figure 4.9 and Figure 4.10).
+Commonname
+Canine and feline hookworm
+Host
+U. stenocephala and A. caninum (canine),
+A. tubaeforme (feline), A. braziliense (canine and
+feline)
+Parasite location (adult)
+Small intestine
+Transmission
+Ingestion of eggs; placental; milk; through the skin
+Distribution
+Ancylostoma spp. (worldwide); U. stenocephala
+(North America)
+Figure 4.9
+Ancylostoma spp.
+86
+36μm
+Figure 4.10
+Ancylostoma spp. (A), Toxocara canis (T), and Cystoisospora (l) (from Zajac,
+Anne M. and Conboy, Gary A. 2012. Veterinary Clinical Parasitology, 8th ed. Ames: Black-
+well Publishing).
+Table 4.3
+Strongyloides species: Strongyloides stercoralis and Strongyloides
+trumiefaciense.
+Common name
+Threadworms
+Host
+Canine and feline
+Parasite location (adult)
+Small intestine
+Transmission
+Milk; through the skin
+Distribution
+Worldwide
+Table 4.4
+Trichuris species: Trichuris vulpis,Trichuris campanula,and Trichuris serrate
+(see Figure 4.11).
+Common name
+Whipworm
+Host
+I. campanula and T. serrate (feline); T. vulpis (canine)
+Parasite location (adult)
+Colon
+Transmission
+ Ingestion of eggs
+Distribution
+Worldwide
+7
+Figure 4.11
+Trichuris spp.(whipworm).
+Table 4.5
+Aelurostrongylus abstrusus.
+Common name
+Feline lungworm
+Host
+Feline
+Parasite location (adult)
+Bronchioles
+Transmission
+Ingestion of larvae
+Distribution
+Worldwide
+Table 4.6
+Fifaroides species: Fifaroides osleri, Fifaroides hirthi, and Fifaroides milksi.
+Common name
+Canine lungworm
+Host
+Canine
+Parasite location (adult)
+Trachea; lungs; bronchioles
+Transmission
+Ingestion of stage 1 larvae
+Distribution
+North America,Europe,Japan
+88
+Parasitology
+Cestodes
+Table 4.7
+Dipylidium caninum (see Figure 4.12 and Figure 4.13).
+Common name
+Double-pored tapeworm; flea tapeworm
+Host
+Canine and feline
+Parasite location (adult)
+Small intestine
+Transmission
+Ingestion of infected adult flea (intermediate host)
+Distribution
+Worldwide
+Figure 4.12 Dipylidium caninum (flea tapeworm).
+Adult worm in the
+sm. intestine
+Tape worm matures
+into an adult within the
+sm.intestines
+Eggs or gravid proglottids
+are passed in the feces
+Definitive host ingests
+the intermediate host.
+ Eggs are ingested by
+ intermediate host
+Figure 4.13
+Life cycle of Dipylidium caninum (flea tapeworm).
+Table 4.8
+Taenia species: Taenia pisiformis, Taenia hydatigena, and Taenia ovis.
+Common name
+Mutton tapeworm of dogs (T ovis)
+Host
+Dogs
+Parasite location (adult)
+Small intestine
+Transmission
+Ingestion of infected intermediate host (rabbits,
+ruminants, and sheep, respectively)
+Distribution
+Worldwide
+Table 4.9
+Taenia taeniaeformis (see Figure 4.14 and Figure 4.15).
+Common name
+Feline tapeworm
+Host
+Feline
+Parasite location (adult)
+Small intestines
+Transmission
+Ingestion of infected intermediate host (rats and mice)
+Distribution
+Worldwide
+90
+20μm
+Figure 4.14 Taenia spp. ova (from Zajac, Anne M. and Conboy, Gary A. 2012. Veterinary
+Clinical Parasitology, 8th ed. Ames: Blackwell Publishing).
+3
+Figure 4.15Adult tapeworm.
+92■
+Veterinary Technician's Handbook of Laboratory Procedures
+Table 4.1o Echinococcus species: Echinococcus granulosus and Echinococcus
+multilocularis (see Figure 4.16).
+Common name
+Unilocular tapeworm (E. granulosus) and multilocular
+tapeworm (E. multilocularis)
+Host
+Canine (E. granulosus) and feline (E. multilocularis)
+Parasite location (adult)
+Small intestine
+Transmission
+Ingestion of infected intermediate host (E. granulosus:
+cattle, sheep; E. muftifocufaris: rats, mice)
+Distribution
+Worldwide (E. granulosus); Northern hemisphere
+(E.muftilocularis)
+Figure 4.16
+Echinococcus spp.
+Trematodes
+Table 4.11
+Alaria.
+Common name
+ Intestinal flukes
+Host
+Canine and feline
+Parasite location (adult)
+Small intestine
+Transmission
+Ingestion of infected intermediate host (frog, snake
+or mouse)
+Distribution
+Northern United States and Canada
+Parasitology
+■93
+Table 4.12
+Paragonium kelficotti (see Figure 4.17).
+Commonname
+aynjy bun7
+Host
+Canine and feline
+Parasite location (adult)
+Lung
+Transmission
+Ingestion of infected intermediate host (crayfish)
+Distribution
+North America
+Figure 4.17
+Paragonimus kelficotti (from Hendrix, Charles M. and Robinson, Ed. 2012.
+Diagnostic Parasitology for Veterinary Technicians, 4th ed. St. Louis: Mosby-Elsevier).
+Protozoans
+Table 4.13
+Giardia (see Figure 4.18 and Figure 4.35).
+Common name
+Giardia
+Host
+Canine, feline, equine, and ruminants
+Parasite location (adult)
+Intestinal mucosa
+Transmission
+Ingestion of oocysts
+Distribution
+Worldwide
+O
+Figure 4.18 
+Giardiacvst.
+Table 4.14
+Cystoisospora (formerly isospora) (see Figure 4.19 and Figure 4.10).
+Common name
+Coccidia
+Host
+Canine and feline
+Parasite location (adult)
+Small intestine
+Transmission
+Ingestion ofoocysts
+Distribution
+Worldwide
+Figure 4.19(
+Cystoisospora felis (coccidia).
+94
+Table 4.15
+Toxoplasma gondii (see Figure 4.2o).
+Common name
+Toxoplasma
+Host
+Feline (can occur in other species)
+Parasite location (adult)
+Intestines
+Transmission
+Ingestion of oocysts
+Distribution
+Worldwide
+30um
+Figure 4.2o Small Toxoplasma oocysts. Also present is a larger isospora oocyst (arrow)
+(from Zajac, Anne M. and Conboy, Gary A. 2012. Veterinary Clinical Parasitology, 8th ed.
+Ames: Blackwell Publishing).
+Table 4.16
+Cryptosporidium (see Figure 4.21).
+Common name
+Crypto
+Host
+Canine, feline, ovine, and swine
+Parasite location (adult)
+Small intestine
+Transmission
+Ingestion of oocysts
+Distribution
+Worldwide
+95
+96    Veterinary Technician's Handbook of Laboratory Procedures
+Figure 4.21(
+Cryptosporidium (from Hendrix, Charles M. and Robinson, Ed. 2012. Diagnos-
+tic Parasitology for Veterinary Technicians, 4th ed. St. Louis: Mosby-Elsevier).
+Fleas
+Table 4.17
+Ctenocephalides species: Ctenocephafides canis and Ctenocephalides fefis
+(see Figure 4.22 and Figure 4.23).
+Commonname
+Flea
+Host
+Canine (C. canis); canine and feline (C. felis)
+Parasite location (adult)
+Adults found on host. Eggs, larvae, and pupae are
+found in the environment
+Transmission
+Host to host contact; contact with eggs, larvae or
+pupae in the environment
+Distribution
+Worldwide
+Figure 4.22
+Ctenocephafides (flea).
+Adults take a
+blood meal on the
+host
+Female flea lays
+Larvae molt into pupae
+eggs
+Eggs fall off host
+Larvae develops a
+cocoon
+Larvae hatch in the
+environment and feed
+ on organic material
+Figure 4.23
+Life cycle of the flea.
+98    Veterinary Technician's Handbook of Laboratory Procedures
+Ticks
+Table 4.181
+Rhipicephalus sanguineus (see Figure 4.24).
+Common name
+Brown dog tick
+Host
+Canine
+Parasite location (adult)
+Attaches to the body
+Transmission
+Directcontactwithinfectedenvironment
+Distribution
+North America
+Significance
+Intermediate host for Babesia canis
+Figure 4.24 Female ticks of various species. (right) ixodes scapularis (deer tick); (bottom)
+Dermacentor variabilis (American dog tick); (left) Amblyomma americanum (Lone Star
+tick); (top) Rhipicephalus sanguineus (brown dog tick) (photo courtesy of Dr. Susan Little,
+Oklahoma State University. Stillwater, OK).
+Table 4.19
+(xodes scapularis (see Figure 4.24 and Figure 4.25).
+Commonname
+Deer tick, black-legged tick
+Host
+Canine, equine, ruminants, deer, and humans
+(intermediate host: mice)
+Parasite location (adult)
+Attaches to host for feeding
+Transmission
+Direct contact with infected environment
+Distribution
+Eastern United States
+Significance
+Vectors for:
++Babesia microti
+●Borrelia burgdorferi (Lyme disease)
+Transmits Ehrfichia
+Figure 4.25
+ixodesspp.
+Table 4.20
+Dermacentor variabifis (see Figure 4.24 and Figure 4.26).
+Common name
+Wood tick, American dog tick
+Host
+Canine, ruminants, small mammals, and humans
+Parasite location (adult)
+Attaches to host when feeding
+Transmission
+Direct contact with infected environment
+Distribution
+Eastern United States
+Significance
+Vector of Rocky Mountain spotted fever
+99
+Figure 4.26 
+Dermacentor variabilis (wood tick/American dog tick).
+Table 4.21
+Dermacentor andersoni (see Figure 4.27).
+Common name
+Rocky Mountain wood tick
+Host
+Canine,equine,bovine,ovine,and humans
+(intermediate hosts: small rodents)
+Parasite location (adult)
+Attaches to the host
+Transmission
+Direct contact with infected environment
+Distribution
+Rocky Mountain regions
+Significance
+Vector of Rocky Mountain spotted fever
+100
+Figure 4.27
+Dermacentor andersoni (Rocky Mountain wood tick).
+Table 4.22
+Amblyomma americanum (see Figure 4.24).
+Commonname
+Lone Star tick
+Host
+Mammals, including humans (intermediate hosts: small
+mammals)
+Parasite location (adult)
+Attaches to the host. Often found near the ear
+Transmission
+Direct contact with infected environment
+Distribution
+Southern United States, Midwestern United States
+Significance
+Vector of:
+Rocky Mountain spotted fever
+Tularemia
+101
+102
+Veterinary Technician's Handbook of Laboratory Procedures
+Lice
+Table 4.23
+Trichodectes canis (see Figure 4.28).
+Common name
+Biting louse
+Host
+Canine
+Parasite location (adult)
+Adults, nymphs and eggs (nits) all found in the hair.
+Transmission
+Host to host, or via shared materials (ex: grooming
+tools)
+Distribution
+Northern hemisphere
+Table 4.24 
+Linognathus setosus (see Figure 4.29).
+Common name
+Sucking louse
+Host
+Canine
+Parasite location (adult)
+Adults, nymphs, and eggs (nits) all found in the hair
+Transmission
+Host to host, or via shared materials (e.g., grooming
+tools)
+Distribution
+Northern hemisphere
+Significance
+Has been implicated as an intermediate host of
+Dipyfidium caninum
+Table 4.25
+Various louse species of domesticated animals: Trichodectes canis (biting
+louse of dogs), Linognathus setosus (sucking louse of dogs), and Bovicola bovis (biting
+louse of cattle).
+Trichodectes canis
+Figure 4.28
+Trichodectes canis (biting louse
+of dogs).
+Linognathus setosus
+Figure 4.29Linognathussetosus(sucking
+louse of dogs).
+Bovicola bovis
+Figure 4.30
+Bovicolabovis(biting louse
+of cattle).
+103
+104   Veterinary Technician's Handbook of Laboratory Procedures
+Mites
+Table 4.26 Sarcoptes species: Sarcoptes scabiei var. canis and felis (rare)
+(see Figure 4.31).
+Common name
+Scabies mite
+Host
+Canine (canis);: feline (fefis)
+Parasite location (adult)
+Mites burrow in the superficial epidermal layers
+of the skin
+Transmission
+Host to host
+Distribution
+Worldwide
+Table 4.27
+Demodex canis (see Figure 4.32).
+Common name
+Follicular mange mite
+Host
+Canine
+Parasite location (adult)
+Hair follicles; sebaceous glands
+Transmission
+Host to host
+Distribution
+Worldwide
+Table 4.28(
+Otodectes cynotis (see Figure 4.33).
+Common name
+Ear mite
+Host
+Feline and canine
+Parasite location (adult)
+Ear canal (external)
+Transmission
+Host to host
+Distribution
+Worldwide
+Table 4.29
+Cheyletiella parasitovorax (see Figure 4.34).
+Common name
+Walking dandruff
+Host
+ Canine and feline
+Parasite location (adult)
+Skin surface and hair coat
+Transmission
+Host to host
+Distribution
+Worldwide
+Table 4.30
+Various mite species of domesticated animals: Sarcoptes scabiei (scabies
+mite), Demodex canis (follicular mange mite), Otodectes cynotis (ear mite), and
+Cheyletiella parsitovorax ("walking dandruff").
+Sarcoptes scabiei
+Figure 4.31
+Sarcoptes scabiei (scabies mite).
+Demodex canis
+Figure 4.32
+Demoxex canis (follicular mange mite).
+Otodectes cynotis
+Figure 4.33
+Otodectes cynotis (ear mite).
+Cheyletiella parsitovorax
+Figure 4.34
+Cheyletiella parsitovorax (walking
+dandruff) (from Hendrix, Charles M. and Robinson,
+Ed. 2012. Diagnostic Parasitology for Veterinary
+Technicians, 4th ed. St. Louis: Mosby-Elsevier.)
+105
+106
+ Veterinary Technician's Handbook of Laboratory Procedures
+Flies
+Table 4.31
+Cuterebra species.
+Common name
+Warbles
+Host
+Small mammals, occasionally canines and felines
+Parasite location (larva)
+Burrows into the skin. Location can be found by
+observing a small fistula the larva uses as a
+breathing hole.
+Transmission
+Direct contact with larva in the environment.
+Distribution
+North America
+Ruminants
+Nematodes
+Table 4.32
+Nematodirus.
+Common name
+Trichostrongyleswith large eggs
+Host
+Bovine, ovine, and caprine
+Parasite location (adult)
+ Abomasum, small and large intestine
+Transmission
+Ingestion of ova
+Distribution
+Worldwide
+Table 4.33
+Strongyloides papillosus (see Figure 4.35).
+Common name
+Bovine threadworm
+Host
+Bovine
+Parasite location (adult)
+Small intestine
+Transmission
+Ingestion of larva; penetration of skin by larva
+Distribution
+Worldwide
+20μm
+Figure 4.35 Larvated Strongyloides egg (S); collapsed Giardia cysts (G); Eimeria oocysts
+(E) (from Zajac, Anne M. and Conboy, Gary A. 2012. Veterinary Clinical Parasitology, 8th
+ed. Ames: Blackwell Publishing).
+Table 4.34
+Trichuris ovis (see Figure 4.36).
+Common name
+Whipworms
+Host
+Bovine,ovine,and caprine
+Parasite location (adult)
+Cecum and colon
+Transmission
+Ingestion of ova
+Distribution
+Worldwide
+Figure 4.36
+Trichurisovis(sheepwhipworm).
+107
+Table 4.35
+Trichostrongyle species: Bunostomum, Chabertia, Cooperia, Haemonchus,
+Oesophagostomum, Ostertagia, and Trichostrongylus (see Figure 4.37).
+Common name
+Trichostrongyles
+Host
+Bovine,ovine,and caprine
+Parasite location (adult)
+Abomasum, small and large intestine
+Transmission
+Ingestion of ova
+Distribution
+Worldwide
+Figure 4.37
+Trichostrongyle-type ova.
+Table 4.36
+Dictyocaulus.
+Common name
+Lungworm of cattle
+Host
+Bovine, ovine, and caprine
+Parasite location (adult)
+Bronchi
+Transmission
+Ingestion of larvae
+Distribution
+Worldwide
+108
+Parasitology
+109
+Cestodes
+Table 4.37
+Moniezia benedini (see Figure 4.38).
+Common name
+Ruminant tapeworm
+Host
+Bovine and ovine
+Parasite location (adult)
+Small intestine
+Transmission
+Ingestion of intermediate host (grain mite)
+Distribution
+Worldwide
+Figure 4.38
+Moniezia benedini (ruminant tapeworm).
+Table 4.38
+Thysanosoma actinoides.
+Common name
+Fringed tapeworm
+Host
+Bovine, ovine, and caprine
+Parasite location (adult)
+Bile and pancreatic ducts, and small intestines
+Transmission
+Ingestion of intermediate host
+Distribution
+North and South America
+H0
+Veterinary Technician's Handbook of Laboratory Procedures
+Protozoans
+Table 4.39
+Eimeria (see Figure 4.35 and Figure 4.39).
+Common name
+Coccidia
+Host
+Ruminants
+Parasite location (adult)
+Cecum and colon
+Transmission
+Ingestion of oocysts
+Distribution
+Worldwide
+14um
+Figure 4.39 Eimeria spp. (coccidia) (from Zajac, Anne M. and Conboy, Gary A. 2012.
+Veterinary Clinical Parasitology, 8th ed. Ames: Blackwell Publishing).
+Table 4.40
+Cryptosporidium (see Figure 4.21).
+Common name
+Crypto
+Host
+Canine, feline, ovine, and swine
+Parasite location (adult)
+Small intestine
+Transmission
+Ingestion of oocysts
+Distribution
+Worldwide
+See Figure 4.21.
+Ticks
+Dermacentor spp. and ixodes spp. have been previously discussed (see Table 4.19, Table
+4.20, and Table 4.21).
+Parasitology  111
+Lice
+See Table 4.25.
+Table 4.41
+Bovicola bovis (see Figure 4.30).
+Common name
+Biting louse
+Host
+Bovine, ovine, and caprine
+Parasite location (adult)
+Usually head, neck, and brisket area.
+Transmission
+Host to host
+Distribution
+Worldwide
+Table 4.42
+Sucking lice of ruminants: Linognathus vitufi and Haematopinus eurysternus.
+Common name
+Sucking louse: L. vitufi (long-nosed cattle louse),
+H. eurysternus (short-nosed cattle louse)
+Host
+Bovine, ovine, and caprine
+Parasite location (adult)
+Usually head, neck, and brisket area.
+Transmission
+Host to host
+Mites
+See Table 4.30.
+Table 4.43
+Sarcoptes species: Sarcoptes scabiei var. bovis and ovis.
+Common name
+Mange mite of cattle (rare) and sheep
+Host
+Bovine (S. scabiei var. bovis), ovine, and caprine
+(S. scabiei var. ovis)
+Parasite location (adult)
+Superficial layers of the epidermis, primarily the face
+in sheep.
+Transmission
+Host to host; fomites
+Distribution
+Worldwide
+112
+冏■
+Veterinary Technician's Handbook of Laboratory Procedures
+Table 4.44P
+Psoroptes species: Psoroptes ovis and Psoroptes bovis.
+Common name
+Scabies mites of sheep or cattle
+Host
+Ovine (P.ovis);bovine (P.bovis)
+Parasite location (adult)
+Skin surface; neck regions
+Transmission
+Host to host
+Distribution
+Worldwide
+Table 4.45
+Chorioptes species: Chorioptes bovis and Chorioptes ovis.
+Common name
+Leg mange
+Host
+Bovine (bovis); ovine (ovis)
+Parasite location (adult)
+Legs
+Transmission
+Host to host
+Distribution
+Worldwide
+Fies
+Table 4.46
+Myiasis-producing (species in which larvae invade the tissue), biting and
+nonbiting flies.
+Category
+Scientific name
+Common name
+Myiasis-producing flies
+Hypoderma spp.
+Cattle grubs; heel fly
+Cochfiomyia hominivorax
+Screw-worm fly
+Estrus ovis
+Nasal bot fly
+Lucifia, Calfiphora, Phormia
+Blowflies
+Biting flies
+Simufium spp.
+Black flies
+Cuficoides spp.
+No-see-ums
+Anopheles, Aedes, Culex
+Mosquitoes
+Tabanus
+Horseflies
+Stomoxys calcitrans
+Stable fly
+Haematobia irritans
+Horn fly
+Melophagus ovinus (see
+Sheep ked (wingless flies)
+Figure 4.40)
+Nonbiting flies
+Musca domestica
+House fly
+Musca autumnalis
+Face fly
+Parasitology
+113
+Figure 4.40 Melophagus ovinus (sheep ked).
+Equine
+Nematodes
+Table 4.47
+Habronema species (Habronema microstoma and Habronema muscae)
+and Draschia species (Draschia megastoma).
+Common name
+Stomach worms of horses
+Host
+Equine
+Parasite location (adult)
+Stomach
+Transmission
+Ingestion of house fly or stable fly larvae.
+Distribution
+Worldwide
+Table 4.48
+Trichostrongylus axei.
+Common name
+Stomach worms ofhorses
+Host
+Equine, bovine, ovine, and porcine
+Parasite location (adult)
+Stomach
+Transmission
+Ingestion of larvae
+Distribution
+Worldwide
+Table 4.49
+Parascaris equorum (see Figure 4.41 and Figure 4.42).
+Common name
+Horse roundworm
+Host
+Equine
+Parasite location (adult)
+Small intestine 
+Transmission
+Ingestion of ova
+Distribution
+Worldwide
+inson, Ed. 2012. Diagnostic Parasitology for Veterinary Technicians, 4th ed. St. Louis:
+Mosby-Elsevier).
+14
+Adults worms in
+ small intestines 
+Larvae are coughed
+up and swallowed
+Eggs passed
+Larvae migrate to
+in feces
+thelungs
+Larvae develop
+Larvae travel through
+the portal vein to reach
+the liver
+ Eggs containing larvae 
+are ingested
+Figure 4.42
+Life cycle of Parascaris equorum(horse roundworm).
+Table 4.50
+Strongylus species: Strongylus vufgaris, Strongylus edentaus,
+and Strongylus equinus (see Figure 4.43).
+Common Name
+Horse strongyles
+Host
+Equine
+Parasite location (adult)
+Large intestine
+Transmission
+Ingestion of larvae
+Distribution
+Worldwide
+115
+Figure 4.439
+Stongylus spp. (horse strongyles).
+Table 4.51
+Strongyloides westeri (see Figure 4.44).
+Common Name
+Horse threadworm
+Host
+Equine
+Parasite location (adult)
+Small intestine
+Transmission
+Trans-mammary through milk; larval penetration
+of the skin
+Distribution
+Worldwide
+20μm
+Figure 4.44
+Stongyloides westeri (from Zajac, Anne M. and Conboy, Gary A.2012. Vet-
+erinary Clinical Parasitology, 8th ed. Ames: Blackwell Publishing).
+116
+Table 4.52
+Oxyuris equi (see Figure 4.45 and Figure 4.46).
+Common Name
+Horse pinworm
+Host
+Equine
+Parasite location (adult)
+Cecum, colon and rectum
+Transmission
+Ingestion of ova
+Distribution
+Worldwide
+36μm
+Figure 4.45 Oxyuris ova (from Zajac,Anne M.and Conboy,Gary A.2012.Veterinary
+Clinical Parasitology, 8th ed. Ames: Blackwell Publishing).
+METRIC1
+2
+3
+Figure 4.46
+Adult Oxyuris equi (horse pinworm).
+17
+118
+Veterinary Technician's Handbook of Laboratory Procedures
+Table 4.53
+Dictyocaufus arnfieldi.
+Common name
+Horse lungworm
+Host
+Equine
+Parasite location (adult)
+Bronchioles
+Transmission
+Ingestion of larvae
+Distribution
+Worldwide
+Cestodes
+Table 4.54
+Equine tapeworms: Anoplocephala perfoliata, Anoplocephala magna,
+and Paranoplocephala mamillana (see Figure 4.47).
+Common name
+Equine tapeworm
+Host
+Equine
+Parasite location (adult)
+Small and large intestine (A. perfoliata); small intestine
+and stomach (a. magna and P mamillana)
+Transmission
+Ingestion of grain mite
+Distribution
+Worldwide
+22μm
+Figure 4.47 Anoplocephala spp. (equine tapeworm) (from Zajac, Anne M. and Conboy,
+Gary A. 2012. Veterinary Clinical Parasitology, 8th ed. Ames: Blackwell Publishing).
+Parasitology
+■19
+Protozoans
+Table 4.55
+Eimeria leuckarti.
+Common name
+Equine Coccidia
+Host
+Equine
+Parasite location (adult)
+Small intestine
+Transmission
+Ingestion of oocysts
+Distribution
+Worldwide
+See Figure 4.39.
+Lice
+Table 4.56
+Haematopinus asini.
+Common name
+Horse-sucking louse
+Host
+Equine
+Parasite location (adult)
+Hair roots of mane and base of tail.
+Transmission
+Host to host
+Distribution
+Worldwide
+Table 4.5?
+Damafinia equi.
+Common name
+Horse-biting louse
+Host
+Equine
+Parasite location (adult)
+On the body, commonly seen on the sides of the neck
+Transmission
+Host to host
+Distribution
+Worldwide
+See Table 4.25.
+Mites
+Table 4.58
+Chorioptes equi.
+Common name
+Leg mange
+Host
+Equine (common in heavy breeds)
+Parasite location (adult)
+Distal limbs
+Transmission
+Host to host
+Distribution
+Worldwide
+See Table 4.30.
+120  Veterinary Technician's Handbook of Laboratory Procedures
+Flies
+In addition to many of the cattle flies (see Table 4.46).
+Table 4.59
+9Gastrophilus (larvae) (see Figure 4.48).
+Commonname
+Stomach bots
+Host
+Equine
+Parasite location (larva)
+Stomachmucosa
+Transmission
+Ingestion of ova (attached to the hairs on a horse's leg)
+Distribution
+Worldwide
+mm
+10
+20
+Figure 4.48 
+Gastrophilus larva (bots).
+Chapter 5
+Cytology
+Sample collection
+Swabs
+Swabs are used as a collection method for sites such as body cavities or fistulous tracts.
+The goal of this method is to collect superficial cells or bacteria for preliminary or
+should be taken during collection. Examples of locations where this method is ideal
+would be the nasal cavity (i.e., looking for fungal spores) (see Figure 5.1) or vagina (i.e.,
+establishing which phase of the estrous cycle) (see Figure 5.33).
+Materials
+●Cotton swabs (sterile swabs if culturing is desired or utilize a commercial culturette)
+● 0.9% Saline
+● Microscope slides.
+Procedure
+(1) Moisten the swab using O.9% saline. Using an isotonic solution, such as saline, will
+preserve cell integrity and assist in microscopic evaluation.
+(2) If the sample will be used for culture, a sterile swab should be used for collection
+and the sample stored in the appropriate culture media. When culturing an infected
+area, the mucopurulent secretions should be avoided, as these contain dead bac-
+teria, yeast, microbes, and wBCs. Sampling the reddened surface of the infected
+tissue will yield the microbe(s) responsible for the infection.
+ficial cells. with the swab moistened, cell damage will be reduced during collection
+and smear preparation.
+(4) To transfer the collected cells onto microscope slides, gently roll the swab along
+the length of the slide. Using a rolling technique versus rubbing the swab onto the
+slide will minimize cell damage (see Figure 5.2).
+(5) Allow slide to air dry and stain.
+Melissa Andr asik-Catton.
+ 2014 John wiley & Sons, Inc. Published 2014 by John Wiley & Sons, Inc.
+121
+Figure 5.1
+Swab collection of the nasal cavity.
+Figure 5.2 Using the rolling technique used to transfer collected material from the swab
+onto theslide.
+122
+Cytology ■ 123
+Tip: Avoid using "clean stains" for this procedure, as they will become contaminated.
+An alternate method that will avoid this contamination is to use a pipette to flood the
+slide with stain versus dipping the slide into the stain itself.
+Fine needle biopsy
+Fine needle biopsies may be obtained from various masses, lymph nodes, organs, and
+nodular lesions. The principle behind a fine needle biopsy is that cells are sampled from
+within the target area itself, which avoids surface contaminants, such as debris, bacte
+rial contamination, or cellular contamination.
+There are two methods of fine needle biopsy collection: the aspiration technique and
+the nonaspiration technique.
+Site preparation
+The preparation required depends on the collection site and the tests to be performed.
+If any body cavity is to be penetrated (such as the peritoneal or thoracic cavity)，a
+to be done, a surgical prep is also warranted. Any other sampling site requires no more
+Materials
+● Microscope slides
+● Surgical prep materials (if required)
+21-to 25-g needle
+Needle gauge selection is important and varies depending upon the mass. Gener-
+ally,the softer the mass,the smaller-gauge needle is used. Using a larger needle
+often results in more bleeding. In addition to blood contamination of the sample,a
+large needle is less likely to collect individual cells for evaluation. Instead, it has the
+tendency to collect a small biopsy of tissue. For certain masses (i.e., mast cell
+tumors), a smaller needle, in conjunction with the added pressure of aspiration, could
+result in degranulation of the cells.
+3-to 12-cc syringe
+Syringe selection also depends upon the mass. A large syringe has the potential
+for creating greater amounts of negative pressure. Softer masses do not require as
+much negative pressure as firmer masses.
+Also consider the fact that controlling the syringe during the collection procedure
+needs to be performed with one hand. Choose a syringe size that can be comfortably
+handled with one hand, yet provide you with the desired negative pressure.
+Fine needle biopsy: Aspiration technique
+(1) with one hand, stabilize the mass.
+(2) Insert the needle into the mass.
+(3) Retract the plunger of the syringe to create negative pressure (see Figure 5.3).
+(4) while maintaining negative pressure and without exiting the mass, redirect the
+needleseveral times.
+(5)Release theplunger of the syringe.
+124   Veterinary Technician's Handbook of Laboratory Procedures
+Figure 5.3 Fine needle biospy: Aspiration technique.
+Figure 5.4
+Expelling aspirated material onto a slide.
+(6) Exit the mass.
+(7) Remove the needle from the syringe, and fill the syringe with air.
+(8) This expulsion of contents can be attempted multiple times until all cells from the
+needle have been expelled (see Figure 5.4).
+(9) Smear the sample using desired method.
+(10) Allow to air dry.
+Cytology  125
+Figure 5.5 Fine needle biopsy: Nonaspiration technique.
+masses. The technique is somewhat similar, with the main difference being the lack of
+negative pressure used during collection. Cells are collected by capillary action and
+gather within the bore of the needle.
+(1) with one hand, stabilize the mass.
+(2) Insert the needle into the mass. Use only the attached barrel of the syringe without
+the plunger inserted. An alternate method is to use the needle alone (see Figure
+5.5).
+(3) Redirect the needle several times.
+(4) Exit the mass.
+(5) Remove the needle from the syringe (if using this method), and fill the syringe with
+air.
+(6) Reattach the needle and eject the sample onto the slide as in the previous
+method.
+(7) Smear the sample using desired method.
+(8) Allow to air dry.
+Tissue biopsy
+A tissue biopsy involves sampling a small section of tissue, rather than individual cells.
+biopsied include superficial locations, such as skin or masses, internal organs (using
+ultrasound-guided biopsy techniques), and intestinal biopsies using an endoscope.
+126   Veterinary Technician's Handbook of Laboratory Procedures
+Figure 5.6 Various sizes of punch biopsies.
+Site preparation
+If an external mass or a skin biopsy is desired, the hair should be clipped. Cleansing
+or scrubbing of the site should be avoided, as it may distort elements of clinical
+significance.
+For organ biopsies, a surgical prep is required.
+Tissue biopsy: Wedge
+Wedge biopsies are collected using a scalpel blade to excise a small piece of tissue
+When selecting the tissue to excise, be sure the sample contains tissue from the lesion,
+the transition zone, and normal tissue. This will allow the pathologist to examine the
+microscopic features as they transition from normal to abnormal.
+Tissue biopsy: Punch
+A biopsy punch is a useful tool for collecting small, round biopsy specimens. Punches
+gentle rotation (see Figure 5.6 and Figure 5.7)
+Materials
+● Biopsy punch of desired size
+●Thumb forceps
+● Tissue scissors.
+Procedure for a skin biopsy using the biopsy punch
+(2) Gently rotate the punch in one direction until the tissue layer has been sectioned.
+Cytology ■ 127
+Figure 5.? Punch biopsy circular cutting blade.
+(3) Remove the punch.
+(4) Grasp the edge of the sample with fine-toothed tissue forceps.
+(5) Trim any subcutaneous tissue attached to the biopsy sample.
+should be fixed in 10% neutral buffered formalin.
+Imprints
+Imprints, or impression smears, can be made of external lesions, or of biopsies and
+excised masses. Superficial cells are transferred onto a slide with little cellular disrup-
+nique, and they may not be representative of the entire lesion. with certain masses,
+the veterinarian may have you cut the biopsy in half and make imprint slides of the
+inside surface as well. This will yield further cellular components that may not have
+been present on the superficial surface.
+Procedure for external lesions
+(1) For external lesions, little preparation is required. Any fluid or blood should be
+dabbed off prior to sampling
+(2) Place a slide face down onto the lesion and press. Do not rub or scrape the slide
+across the lesion.
+(3) Lift the slide off and air dry before staining.
+(4) Repeat this procedure a few times to create several slides for examination.
+128   Veterinary Technician's Handbook of Laboratory Procedures
+Figure 5.8 Biopsy imprints.
+Procedure for biopsies
+impressions (see Figure 5.8).
+(3) If the sample is large, continue onto another slide to create more impressions.
+(4) Allow slides to air dry before staining.
+Centesis
+Centesis is a process that involves the collection of bodily fluids with the use of a needle
+inserted into a body cavity. Examples include peritoneal fluid from the abdominal cavity
+(abdominocentesis or paracentesis), pleural fluid from the thoracic cavity (thoracocen-
+spinal fluid (cisternal puncture).
+Site preparation
+When inserting a needle into a body cavity, the site should be aseptically prepared and
+sterile protocols followed.
+Materials
+● Needle or butterfly catheter
+6- to 60-cc syringe
+● Microscope slides
+● Ethylenediaminetetraacetic acid (EDTA) collection tubes and plain red top tubes
+Cytology  129
+Tip: The gauge of needle or butterfly catheter will vary with the sample collection site
+and the patient being sampled. A safe way to withdraw large amounts of fluid is to use
+A syringe is attached and fluid is drawn out.
+Smears should be made immediately after fluid is collected, and any remaining fluid
+aa pinous uoeuiwexa leoisaud t 'sagni doi pau uieid pue tlai ui paoeid ag pinous
+made on the fluid and noting color,turbidity,and volume collected.A total protein or
+specific gravity should be performed on the fluid. During slide analysis, total nucleated
+cell counts, types, and morphological assessments should be performed.
+In samples with low cellularity, a portion of the collected fluid can be centrifuged to
+concentrate the cellular components. After centrifugation, the sediment is examined
+microscopically. The remaining, unspun sample should be saved for other methods of
+analysis.
+Scrapings
+Scrapings performed on external lesions yield a high number of cells, but are limited to
+Materials
+· No. 10 scalpel blade
+● Microscope slides.
+Procedure
+(1) Anchor the lesion or skin with one hand for stability.
+Figure 5.9 Skin scraping technique using #10 scalpel blade.
+130   Veterinary Technician's Handbook of Laboratory Procedures
+Figure 5.10 To examine the scraping for Demodex canis, spread the collected material
+onto slide and mix into the mineral oil.
+(3) Scrape the blade horizontally across the tissue.
+(5) Spread the sample onto a slide, using the blade to thin the sample.
+(6) Use the compression technique (see Figure 5.14) to make a smear.
+This technique is also used in the diagnosis of skin mites, such as Demodex canis (see
+Figure 5.11). The collection procedure is the same, but when transferring the sample
+onto a slide, it is helpful to use a drop of mineral oil on the slide and mix the sample
+into it. Use the blade to thin the sample (see Figure 5.10).
+Tip: To aid in the collection of cells, a drop of mineral oil can be added to the blade
+of thescalpelprior to scraping.
+Smear preparation
+Because cytological specimens vary in consistency, there are several different methods
+to the thickness of the sample and the planned evaluation and staining procedure to
+with them (i.e. lymph node aspirates and various centeses would need to be smeared.
+Imprints from biopsies are never smeared).
+Feather smear method
+This method is useful in samples that are presumed to be highly cellular. The technique
+slide atthefeathered edgewhere the cells are dispersed evenly.
+Cytology  131
+Figure 5.11 Demodex canis.
+Line smear method
+The line smear method is used in sample with a low cellular content. Cells are pushed
+to the end of the smear and concentrated for easier evaluation.
+Procedure
+(1) Add a drop of sample to the slide, near the frosted end.
+(2) Using a spreader slide, back into the drop of sample and allow the sample to spread
+horizontally along the width of the slide (see Figure 5.12).
+Figure 5.13).
+components.
+Compression (or squash) method
+The compression method is used in samples that are suspected of having cellular
+tification. Care should be taken not to apply too much force to the slides during the
+process, as this could cause cell rupture.
+Procedure
+(1) Transfer the collected sample onto a clean slide toward the frosted end of the slide.
+(2) Use a second slide, perpendicular to the first (see Figure 5.14). Lay this slide on top
+of the sample and allow the weight of the slide to "squash'" the sample. Do not apply
+Figure5.12
+Line smear. Backing spreader slide into the drop of sample.
+Figure 5.13L
+Line smear. Stopping before creating a feathered edge.
+132
+Cytology ■ 133
+Figure 5.14 Compression smear technique.
+(3) Pull the spreader slide across, smearing the sample onto its underside (see
+Figure 5.15).
+(4) Allow the slide to air dry, then stain.
+Modified squash method
+Procedure
+(1) Transfer the sample near the center of the slide.
+(2) Add a second slide on top of the first slide, and allow the sample to squish between
+the two slides. As in the compression technique, do not use any additional down-
+ward force.
+(3) Rotate the two slides to 45? to spread the sample (see Figure 5.16).
+(4) Lift the second slide directly off of the first, and allow it to air dry before
+staining.
+Starfish method
+The starfish method can be useful to gently spread samples onto a slide.
+Procedure
+(1) Add the sample to the middle of a slide.
+(2) Use the tip of a smaller-gauge needle to spread the material outwards in several
+directions. (see Figure 5.17)
+(3) Allow the slide to air dry.
+Figure 5.15
+Compression smear technique.
+Figure 5.16
+ Modified squash technique.
+134
+Cytology 135
+Figure 5.17 Starfish technique.
+Staining
+After the slide has been made, allow it to fully air dry. Avoid the use of hair dryers or
+open flames to speed up the drying process, as this can cause cell distortion.
+The two most common staining types are Romanowsky stains and new methylene
+blue (NMB).Each has its own advantages and disadvantages.
+Romanowsky stains (Wright's and Diff-Quick)
+Romanowsky stains will stain both the cytoplasms and nuclei of cells present in the
+sufficient for the cytological determination of inflammation or neoplasia.
+Regardless of the type of Romanowsky stain used, a general rule to follow is to
+New methylene blue
+NMB stains cytoplasms weakly, but provides excellent nuclear detail. Because of this,
+NMB is useful in samples with high amounts of blood contamination. The red blood cells
+do not take up much stain and therefore will not obscure the nucleated cells when
+observed microscopically.
+136  Veterinary Technician's Handbook of Laboratory Procedures
+Wet mount technique (NMB)
+(1)Add one drop of NMB stain to an air-dried cytology slide.
+(2) Place a coverslip over the drop, and allow the stain to disperse. Let the stain sit for
+2-5 minutes to facilitate stain uptake. This will result in easier examination of the
+cells.
+(3) Examine microscopically.
+Tip: NMB stain should be filtered first to eliminate any stain precipitate that may
+interfere with the microscopic evaluation.
+Microscopic evaluation of cytology slides
+The microscopic evaluation of a stained slide should begin with scanning under 10x
+objective power to locate areas where cells are evenly spaced and can easily be evalu-
+ated. Use 40x and 100x objective powers to identify, classify, and evaluate cell types.
+Many familiar blood cell types will be present, and in addition, certain tissue cell types
+will be seen (see Figure 5.18 and 5.19).
+Many cells will have undergone morphological changes associated with degeneration
+and disease. Pyknosis, karyolysis, and karyorrhexis should all be noted if seen.
+Pyknosis and karyorrhexis
+Pyknosis is associated with slow cell death (aging of a cell). Characteristics include
+Figure 5.20).
+Figure 5.18 Mast cells.
+Figure 5.19 Macrophage present in peritoneal fluid (also present: degenerating neu
+trophils and red blood cells).
+Figure 5.2o Pyknotic neutrophil displaying karyorrhexis.
+137
+138   Veterinary Technician's Handbook of Laboratory Procedures
+Figure 5.21 Perionteal fluid: Neutrophils displaying karyolysis.
+Karyolysis
+inflammatory reactions. Characteristics include a swollen nucleus without an intact
+stain as intensely as other cells.
+Classifying cell types
+Inflammation
+Cells seen in inflammatory cases include:
+●Neutrophils (see Figure 5.22)
+●Red cells (if hemorrhage has occurred)
+●Eosinophils may be present
+● Mononuclear cells, such as macrophages, lymphocytes, and plasma cells (see
+Figure 5.23)
+●Bacteria and other microorganisms (see Figure 5.24).
+The classification of the type of inflammation present can be made by the proportions
+of the cell types seen. Relative differential counts should be performed and cell mor-
+phology noted. Bacteria should be classified as either cocci or bacilli, and if they are
+single, in pairs, or chains. Comments should also be made if the bacteria were found
+extracellular or intracellular.Pay closeattentionduring the slidereview as certain
+fungal organisms can be difficult to spot.
+Figure5.22
+ Neutrophils present in an abdominocentesis sample.
+Figure5.23
+Red blood cells and a macrophage present in an abdominocentesis sample.
+(Note the phagocytosed neutrophil within the macrophage.)
+139
+140   Veterinary Technician's Handbook of Laboratory Procedures
+Figure 5.24 Bacteria should be noted whether it is seen free in the fluid or within the
+cell following phagocytosis. This is intracellular bacteria.
+Other cell types
+in clumps. Mesenchymal cells are of connective tissue origin and tend to exfoliate singly.
+Round cells are found individually, and hold a round shape.
+Neoplasia
+In many cases, our cytology specimens are collected from suspected neoplastic lesions.
+Cells seenare evaluated formalignant characteristics.Compared withaninflammatory
+sample, a neoplastic sample will have a more homogenous population of cells. However,
+neoplasia and inflammation can occur concurrently.
+Malignant characteristics
+●Macrocytosis
+●Anisokaryosis (see Figure 5.28)
+●Pleomorphism
+●High nucleus to cytoplasm ratio
+● Increased mitotic activity (see Figure 5.29)
+●Large or irregularly shaped nucleoli
+● Coarse chromatin
+●Anisonucleosis (see Figure 5.30)
+●Multinucleation.
+Figure 5.25 Ciliated epithelial cell (from Hendrix, Charles M. and Sirois, Margi. 2007.
+Laboratory Procedures for Veterinary Technicians, 5th ed. St. Louis: Mosby-Elsevier).
+Figure 5.26
+Lipoma. Mass consisting of adipocytes, which are a mesenchymal-type cell
+(from Rosenfeld, Andrew J. and Dial, Sharon M. 2010. Clinical Pathology for the Veterinary
+Team. Ames: Blackwell Publishing).
+141
+Figure 5.27
+Round cells from a lymph node aspirate.
+Figure 5.28 A neoplastic cell displaying anisokaryosis.
+142
+Figure 5.29
+Mitotic figure.
+Figure 5.30 Anisonucleoliosis.
+143
+144   Veterinary Technician's Handbook of Laboratory Procedures
+Reporting your findings
+Submission of your findings should include comments on the following information:
+(1) Cellularity: Low, moderate, or high (low: 0-3 cells/hpf, moderate: 3-5 cells/hpf, high:
+>5/hpf)
+(2) Relative differential count of cell population
+(3)  Cellular morphology
+(4) Comment on nuclear characteristics
+(5) Microorganisms.
+Laboratory submissions
+If biopsies or slides are to be submitted to a reference laboratory for analysis, there
+are several important points to consider:
+· Provide a detailed patient history pertaining to the lesion (duration of problem,
+growth rate, is the animal pruritic or painful, etc.)
+● Comment on the physical appearance of the lesion. (ls it a tumor, nodule, or cyst?
+Is there alopecia, hyperpigmentation, etc.?)
+● Describe the location of the lesion, or mark the location on a diagram. If a repre-
+sentative sample of a larger lesion is being sent, indicate the size of the original
+lesion.
+tories may recommend a specimen be fixed in formalin for 24 hours, and then
+ment, and it should be indicated on the requisition form.
+be submitted air dried or fixed in alcohol. This should be noted on the requisition
+form. If a staining procedure is used prior to shipment, this also should be indicated
+on the form.
+● Unstained slides should not be packaged with or kept near formalin vapors. Formalin
+will alter the proteins within the sample, and this in turn will affect the staining
+procedure.
+Ensure all slides and containers arefully labeled with patientinformation,date,and
+sample type.
+Ear cytology
+diagnosicpurposes.Abnormalfindingscanincludeinflammatoryreactions,abundance
+of Mafassezia organisms, bacterial infections, or parasites like Ofodecfes cynofis
+(ear mite).
+Cytology   145
+Slide preparation and staining
+Materials
+● Swabs
+● Microscope slides.
+Procedure
+(1) Collect the samples using the swab technique, but there is no need to moisten the
+swab with saline.
+(2) Collect the samples from the ear canal, generally where the vertical canal and the
+horizontal canal meet.
+the slide in the shape of an "R," and the sample from the left ear onto the other
+end of the slide in the shape of an "L." Using this method will aid in distinguishing
+differences between the left and right ear.
+(4) Stain using the Diff-Quick method and examine when dry.
+Heat fixing: Heat fixing is not recommended when staining ear swab slides. If
+there is a large amount of cerumen present on the slide, gently heating the slide
+staining. The gentle heating of the slide in this manner will avoid damaging cellulan
+structures.
+Modified collection procedure if mites are suspected
+(1) Before collecting the sample, add a drop of mineral oil to a slide.
+(2) Collect a swab sample of debris from the ear canal.
+(3) Add the sample to the mineral oil and emulsify it into the oil and spread the sample
+so it is not thick.
+Figure 5.31) parasites or ova.
+Microscopic findings
+Abnormal findings can implicate the causative agent of the inflammation. These would
+include Malessezia or bacteria. white blood cells should not be seen on a normal or
+infection (see Figure 5.32).
+Vaginal cytology
+estrous cycle of canines reflect the changes of estrogen throughout the heat cycle.
+determining a canine's fertile period.
+Figure 5.31
+Otodectes cynotis (ear mite).
+Figure5.32
+Epithelial cells and peanut-shaped Malessezia organisms from an ear swab.
+146
+Cytology■147
+Collection methods
+Collecting vaginal samples is accomplished by using the swab collection technique.
+Materials
+Swab (moistened with saline)
+● Microscope slides
+● Speculum (if desired).
+Procedure
+(1) Moistened the swab with O.9% saline.
+(2) If necessary, have someone restrain the dog.
+cone) to avoid contamination with hair or debris.
+(4) Insert the swab at a relatively steep angle upwards (see Figure 5.33).
+(5) After the swab is inserted roughly 1inch, lower the angle to approximately 45? and
+from a couple of inches to several inches.
+(6) Once the swab is inserted, rotate the swab two or three times then remove the
+swab.
+(7) Transfer the sample onto the slides in the manner described in the "Swab Sample
+Collection" section of this chapter.
+(8) Using proper slide staining techniques, stain the slide with a Diff-Quick type stain.
+Figure 5.33
+Vaginal swab collection.
+148   Veterinary Technician's Handbook of Laboratory Procedures
+Figure 5.34 Parabasal vaginal epithelial cells (arrows) with small intermediate cells
+(arrow heads).
+Cell types seen
+The majority of the cells seen microscopically when evaluating a vaginal smear are
+vaginal epithelial cells. These cells are present in their various stages of development,
+classified as parabasal cells, intermediate cells, and superficial cells. Other cells that
+may be seen are neutrophils, red blood cells, bacteria, and a few contaminating cells.
+Parabasal cells
+Parabasal cells (see Figure 5.34) are the smallest cells and are typically round with a
+than the larger vaginal epithelial cells.
+Intermediate cells
+Intermediate cells vary in size and shape and can be further classified as small inter-
+mediate (see Figure 5.35) and large intermediate (see Figure 5.36). Small intermediate
+cellsretain around to ovalshape with a large nucleus,while large intermediate cells
+Superficial cells
+Superficial cells are the largest vaginal epithelial cells. They are thin, have sharp,
+angular borders and are seen with dark, condensed, pyknotic nuclei (see Figure 5.37).
+Figure 5.38). Superficial cells may become folded or rolled up during the collection and
+slide preparation process.
+Figure 5.35
+Small intermediate vaginal epithelial cell (arrow). RBCs are also present
+(arrowhead).
+Figure 5.36
+Large intermediate vaginal epithelial cells.
+149
+fied superficial cell is also present (arrow head).
+Figure 5.38
+Cornified superficial vaginal epithelial cell.
+150
+Cytology■151
+Other cellular findings
+Figure 5.39
+ Neutrophils and a small intermediate cell present on a vaginal smear.
+Figure 5.40
+ Neutrophils and red blood cells present on a vaginal smear.
+152   Veterinary Technician's Handbook of Laboratory Procedures
+Figure 5.41
+Bacteria noted on a vaginal smear. In this case, it is adhered to the surface
+of a cornified superficial cell.
+Stages of estrous
+Anestrus (duration: 3-5 months)
+· Parabasal and intermediate cells predominate.
+● Superficial cells are absent or present in very few numbers.
+●Neutrophils may or may not be present.
+Proestrus (duration: 4-13 days) (see Figure 5.42)
+● In early proestrus, parabasal cell numbers begin to decrease as small and large
+intermediate cells predominate.
+● In late proestrus, a shift from small intermediates to large intermediates and super-
+ficial cells starts to occur.
+● Red blood cells are present.
+● Neutrophils and bacteria are present.
+Estrus (duration: 4-13 days) (see Figure 5.43)
+· Superficial cells predominate, and many are fully cornified.
+Diestrus (duration: 2-3 months) (see Figure 5.44)
+●Dramatic decline in the number of superficial cells is seen.
+● Parabasal and intermediate cells return and predominate.
+Figure 5.42 Proestrus. A mixed population of small and large intermediate cells are
+seen. Red blood cells are also present.
+Figure 5.43
+Estrus. Superficial cells make up the vast majority of the cells seen. Many
+arealsocornified.
+153
+154   Veterinary Technician's Handbook of Laboratory Procedures
+Figure 5.44
+Diestrus. Parabasal and intermediate cells return. Superficial cells are
+absent.
+Semen evaluation
+a comprehensive breeding soundness evaluation. After collection, the quality of a
+tration, motility, live/dead ratio, and morphology are evaluated in conjunction with a
+physical and behavioral examination of the individual animal. For the purposes of this
+section, the focus will be on the microscopic evaluation of semen morphology and the
+live/deadratio.
+Slide preparation
+Once the sample has been collected, a smear should be made immediately using a vital
+dye. An eosin/nigrosin stain is a popular vital dye for this purpose, as it provides a visual
+discrimination between live and dead spermatozoa.
+A small drop of warm stain is added to a drop of semen on a warmed microscope
+le aunsua oi suejodw Aiaa si ll paneaws pue jauaboi paxiu ane sdoup omi aul 'aplls
+supplies are warm. Spermatozoa are quite sensitive to cold shock, and if they are
+found. Changes in morphology will also occur. Once a smear has been made, the micro-
+live/deadratiocountandthemorphologyexamination.
+Cytology  155
+B
+Figure 5.45 Live/dead staining using eosin/nigrosin stain. (A) Live spermatozoa appears
+Live/dead sperm ratio
+or dead is made by assessing the stain uptake. Live sperm resist stain uptake and appear
+white against the purple-stained background. On the other hand, dead sperm take up
+Counts are made by examining 200 cells under 400x magnification. Live sperm counts
+are expressed as a percentage.
+Sperm morphology
+was used for the live/dead ratio. The slide is examined under 4o0x magnification, and
+themorphology of the spermatozoa are evaluated,counted,and expressed as a
+percentage.
+The anatomy of spermatozoa cell is comprised of several structures. The cell is com-
+prised of a head, acrosome, midpiece, and tail. The tail can be further divided into the
+principal piece and a terminal piece (see Figure 5.46).
+When evaluating morphology, any abnormalities are classified as either primary
+or secondary. Primary abnormalities occur during the spermatozoa cell formation
+the epididymis to the collection and handling of the specimen. Secondary abnormali-
+ties can occur due to rough handling of the sample, cold shock or overuse of the
+sire animal. Primary abnormalities are considered more serious than the secondary
+abnormalities.
+156   Veterinary Technician's Handbook of Laboratory Procedures
+Acrosome
+Head
+Midpiece
+Principal Piece
+Tail
+Terminal Piece
+Figure 5.46 Anatomy of a sperm cell.
+Acrosomal abnormalities are important to note as they are directly related to
+after the thawing process. The practice of freezing, storage, and thawing can have
+an effect on the integrity of the acrosome, and therefore affecting the breeding
+success rate (see Figure 5.49).
+Cytology ■ 157
+Primary and acrosomal spermatozoal abnormalities
+D
+Figure 5.47
+Primary cell defects: (A) double head; (B) macrocephalic; (C) microcephalic
+(D) narrow head.
+Figure 5.48
+Primary cell defects: (A) bent midpiece; (B) coiled midpiece and tail; (C)
+offset midpiece; (D) double midpiece; (E) pear-shaped head.
+Figure 5.49
+Acrosomal defects: (A) knobbed acrosome; (B) ruffled acrosome; (C) loose
+cap.
+158   Veterinary Technician's Handbook of Laboratory Procedures
+Secondary spermatozoal abnormalities
+Figure5.5o
+Secondary cell defects: (A) double tail; (B) coiled tail; (C) bent tail; (D) pro-
+toplasmic droplet; (E) detached head.
+Appendix
+Temperature conversions
+℃=(°F-32)x
+5
+6
+(6×0)
+F=
++ 32
+5
+Table A.1
+Degrees Celsius
+Degrees Fahrenheit
+36.0
+96.8
+36.5
+97.7
+37.0
+98.6
+37.5
+99.5
+38.0
+100.4
+38.5
+101.3
+39.0
+102.2
+39.5
+103.1
+40.0
+104.0
+40.5
+104.9
+41.0
+105.8
+Metric conversions
+Length
+1m = 39.37 in
+30.48cm = 1ft
+2.54cm =1in
+Veterinary Technician's Hanobook of Laboratory Proceoures, First Edition. Brianne Bellwood and
+Melissa Andr asik-Catton.
+@ 2014 John Wiley & Sons, Inc. Published 2014 by John Wiley & Sons, Inc.
+159
+160   Veterinary Technician's Handbook of Laboratory Procedures
+Weight
+1kg = 2.2 1bs 
+1g = 0.035 oz
+Volume
+3.785 L = 1 gal
+0.946L =1quarts
+29.57 mL = 10z
+5 mL = 1 teaspoon
+15 mL = 1tablespoon
+Metric system
+Table A.2
+Factor
+Symbol
+Prefix
+10-15
+f
+femto
+10-12
+P
+pico
+10-9
+n
+nano
+10-6
+μ
+micro
+10-3
+m
+milli
+10-2
+C
+centi
+10-1
+d
+deci
+10
+ep
+deka
+102
+h
+hecto
+103
+k
+kilo
+106
+M
+mega
+109
+G
+giga
+1012
+T
+tera
+1015
+P
+peta
+Glossary
+Activated clotting time (ACT)
+A simplified version of the activated partial
+thromboplastin time test. Assesses the intrinsic
+coagulation pathway.
+Activated partial
+A clotting test that assess the intrinsic coagulation
+thromboplastin time (APTT)
+pathway of whole blood.
+Anemia
+A condition in which the oxygen carrying capacity
+of blood is decreased due to low hemoglobin
+content or low red blood cell numbers.
+Anestrus
+No visible signs of estrus.
+Anisocytosis
+Variation in red blood cell size
+Anisokaryosis
+A variation of the size of a nucleus among cells.
+Anisonucleosis
+A variation of the size of the nucleoli within the
+nucleus of a cell.
+Anuria
+No urine formation or excretion.
+Barr body
+A small piece of chromatin seen during interphase
+of female cells. Typically seen in a drumstick shape.
+Bilirubinuria
+Excess bilirubin present in the urine.
+Buffy coat
+The middle layer of a packed cell volume that
+contains the leukocytes and thrombocytes.
+Centrifuge
+A piece of laboratory equipment designed to rotate
+solutions at high speeds and subjecting them to
+high centrifugal forces.
+Veterinary Technician's Hancbook of Laboratory Procedures, First Edition. Brianne Bellwood and
+Melissa Andrasik-Catton.
+@ 2014 John Wiley & Sons, Inc. Published 2014 by John Wiley & Sons, Inc.
+161
+ Veterinary Technician's Handbook of Laboratory Procedures
+Chromasia
+Referring to the variation in cell color.
+Cisternal puncture
+A procedure in which a needle puncture is
+performed to collect cerebrospinal fluid.
+Condenser
+A lens system that concentrates (focuses) light into
+a pencil-shaped cone that passes through the
+specimen and enters the objective. It controls the
+contrast seen on the specimen
+Cystitis
+Inflammation of the urinary bladder.
+Cytoplasm
+The portion of the cell that surrounds the nucleus;
+may contain various organelles.
+Definitive host
+The host that harbors the adult or sexual stage of
+the parasite.
+Diestrus
+The period following estrus. Ovulation has occurred,
+and blood levels of estrogen are low and
+progesterone levels are high.
+Diopter adjustment
+Allows for the focusing of each individual ocular
+lens. Compensates for differences in right and left
+vision acuity of the user.
+Dohle bodies
+An accumulation of residual endoplasmic reticulum
+found in mature neutrophils. Associated with
+toxemia.
+EDTA
+Ethylenediamine tetraacetic acid. An anticoagulant
+used in blood collection tubes to prevent clotting.
+Electrolytes
+Inorganic compounds that disassociate in bodily
+fluids and carry a positive or negative.
+ELISA
+Enzyme-linked immunosorbent assay; used to
+detect or measure antigens or antibodies.
+Erythropoiesis
+The formation and production of erythrocytes.
+Estrus
+The time during the reproductive cycle when the
+female displays interest in mating. Ovulation is
+about to or has just occurred.
+Fibrinogen
+A plasma protein that is involved in the clotting
+process. Under the influence of thrombin, fibrinogen
+is converted into fibrin.
+Glossary
+163
+Frank blood
+Bright red blood present on the surface of the stool.
+Glomerular filtrate
+The filtrate of plasma that passes through the
+glomerulus.
+Glucosuria
+Excess glucose present in the urine.
+Hematuria
+Presence of intact red blood cells in the urine.
+Hemocytometer
+An instrument used to count cells in a variety of
+fluids. Consist of a counting chamber etched with a
+grid, covered by a cover slip.
+Hemoglobinuria
+Presence of free hemoglobin in the urine.
+Hemolyzed
+Referring to the rupturing of red blood cells.
+Hemoparasites
+Parasites found in the blood.
+Heparin
+An anticoagulant used in blood collection tubes.
+Sodium heparin and lithium heparin are two
+available forms.
+Hypersthenuria
+Increased specific gravity of the urine.
+Hypochromic
+A red blood cell that has decreased hemoglobin
+content and therefor appear pale in color.
+Hyposthenuria
+Decreased specific gravity of the urine.
+lcteric
+A term used to describe the brightyellow coloring
+of mucous membranes or a plasma sample;
+associated with increased levels of bile pigments.
+Intermediate host
+The host that harbors the immature or asexual
+stage of the parasite.
+Isosthenuria
+The range of in which the urine-specific gravity
+equals that of the glomerular filtrate, meaning no
+dilution or concentration has occurred.
+Karyolysis
+Dissolution of a cell nucleus.
+Karyorrhexis
+Fragmentation of a cell nucleus.
+Ketonuria
+Presence of ketones in the urine.
+164   Veterinary Technician's Handbook of Laboratory Procedures
+Ketosis
+Accumulation of large quantities of ketones bodies.
+Kohler llumination
+Setting the microscope to align and focus the light.
+This maximizes both the brightness and uniformity
+of the specimen.
+Lipemic
+Referring to the presence of fatty material, or
+lipids, in plasma or serum.
+Malassezia
+A type of yeast that is often found in the infected
+ears of dogs and cats.
+MCH
+Mean corpuscular hemoglobin; refers the average
+hemoglobin content of a red blood cell.
+MCHC
+Mean corpuscular hemoglobin concentration; refers
+to the average hemoglobin concentration of a red
+blood cell.
+MCV
+Mean corpuscular volume; refers to the average
+volume of a red blood cell.
+Megathrombocyte
+An enlarged platelet.
+Melena
+Dark, tarry feces consisting of digested blood.
+Meniscus
+The curved upper surface of a liquid in a tube.
+Microcytic
+A red blood cell that has a smaller diameter than
+what is considered normal for that species.
+Monolayer
+An area of a peripheral blood smear where the
+blood cells are evenly distributed.
+Multinucleation
+A cell containing more than one nucleus.
+Myoglobinuria
+Presence of the muscle protein, myoglobin, in the
+urine.
+Neoplasia
+General term to describe a growth, usually a tumor;
+may be malignant or benign.
+NMB
+New methylene blue. A stain used in blood, vaginal
+ smears, and cytology. Provides high nuclear detail.
+NRBC
+Nucleated red blood cell. Also referred to as a
+metarubricyte, these are immature, nucleated red
+blood cells.
+Glossary
+165
+Nucleus
+A body within a cell that contains the chromosomes
+and nucleoli.
+Objective lenses
+The lens or series of lenses of a microscope that is
+nearest to the sample being examined.
+Objective power
+The strength or magnification of the objective lens.
+Ocular power
+The magnification of the oculars. Total
+magnification of an image is calculated by
+multiplying the objective magnification by the
+ocular magnification.
+Oliguria
+ Decreased amounts of urine that is being produced
+and excreted.
+Oocyst
+A structure in which sporozoan zygotes develop.
+Otitis externa
+Inflammation of the ear.
+PBS
+Peripheral blood smear.
+Photometry
+The measurement of the intensity or brightness of
+light.
+Plasma
+The fluid portion of whole blood before coagulation.
+Platelet clumping
+An aggregation of platelets visualized on a blood
+smear.
+Poikiloc ytosis
+Referring to abnormally shaped red blood cells.
+Polychromatophil
+A cell displaying polychromasia.
+Polychromic
+A variation in the staining pattern of the red blood
+cell. Typically appears more purple in color.
+Polyuria
+The formation and excretion of increased amounts
+of urine.
+Pooled fecal sample
+One fecal sample consisting of multiple samples
+from multiple individuals.
+Proestrus
+The period preceding estrus.
+Proglotids
+Each segment of a tapeworm, containing a
+complete sexually mature reproductive system.
+166  Veterinary Technician's Handbook of Laboratory Procedures
+Proteinuria
+Presence of abnormal levels of protein in the urine.
+Prothrombin time (PT)
+A clotting test use to measure the activity of
+clotting factors V, Vll, and X, prothrombin, and
+fibrinogen.
+Pyknosis
+Condensed nuclear chromatin within a degenerating
+cell.
+Pyuria
+Pus in the urine.
+RDW
+Red cell distribution width; a measure of the
+variation in size of red blood cells.
+Read area
+The area of a peripheral blood smear where counts
+are performed and morphologies are assessed.
+Red blood cell indices
+Blood test and calculation that provide insight into
+the size and hemoglobin content of the average red
+blood cell in a sample.
+Reducing agent
+Substances that act as electron contributors.
+Refractive index
+Refers to the degree in which light will bend,
+relative to air, as it travels through a solution.
+Refractometer
+An instrument for measuring the concentration of
+solutes.
+Regenerative
+Meaning renewal. In hematology, refers to the
+increase production of new cells to replace the ones
+that have been lost.
+Reticulocyte
+An immature erythrocyte that no longer contains a
+nucleus.
+Romanowsky stains
+A group of eosin and methylene blue stains used in
+hematology and cytology. Examples include Giemsa,
+Wright, and Leishman stains.
+RPI
+Reticulocyte production index; corrects the
+reticulocyte count by taking into account the
+presence of anemia. Gives a more accurate
+representation of red cell regeneration.
+RPM
+Revolutions per minute.
+Glossary
+167
+Sediment
+After the centrifugation process, the solution is
+divided into two portions. The supernatant is the
+liquid portion on the top: the sediment is at the
+bottom and consists of the solids.
+Serum
+The fluid portion of coagulated blood. Does not
+contain any coagulation proteins.
+Sodium citrate
+An anticoagulant used in blood collection tubes.
+Typically used to collect blood for coagulation
+studies.
+Solubility
+The degree of which a substance is easily dissolved.
+Specific gravity
+The weight of a solution as compared with distilled
+water.
+Spermatogenesis
+The formation and production of sperm cells.
+Stain precipitate
+Stain particles that settle out in the solution. A
+source of artifact.
+Supernatant
+After the centrifugation process, the solution is
+divided into two portions. The supernatant is the
+liquid portion on the top: the sediment is at the
+bottom and consists of the solids.
+Trophozoites
+A growing stage in the life cycle of some parasites.
+Turbidity
+The cloudiness of a solution.
+Vacuolation
+The process of forming vacuoles, or a cavity within
+the cytoplasm of a cell.
+Volatile
+Evaporates rapidly.
+Bibliography
+Bassert, Joanna M. and McCurnin, Dennis M. 2O10. Clinicaf Textbook for Veterinary Techni-
+cians, 7th ed. St. Louis: Saunders-Elsevier.
+Harvey, John W. 2OO1. Atfas of Veterinary Hematology. Philadelphia: W.B. Saunders Company.
+           
+cians, 4th ed. St. Louis: Mosby-Elsevier.
+Hendrix, Charles M. and Sirois, Margi. 2o07. Laboratory Procedures for Veterinary Techni-
+cians, 5th ed. St. Louis: Mosby-Elsevier.
+cians, 6th ed. St. Louis: Saunders-Elsevier.
+Osborne, Carl A. and Stevens, Jerry B. 1999. Urinalysis: A Clinicaf Guide to Compassionate
+Patient Care, Shawnee Mission: Bayer Corporation.
+  e    s       '
+Ames: Blackwell Publishing.
+Sutton, Ted. 1998. fntroduction to Animaf Reproduction: A Workbook, Vermilion: E.l. Sutton
+Consulting Ltd.
+Thrall, Mary Anna, Weiser, Glade, Allison, Robin W. and Campbell, Terry W. 2012 Veterinary
+Hematofogy and Clinicat Chemistry, Znd ed. Ames: Blackwell Publishing.
+Zajac,Anne M.and Conboy.Gary A.2012. Veterinary Clinicaf Parasitofogy.8th ed.Ames:
+Blackwell Publishing.
+Veterinary Technician's Handbook of Laboratory Procedures, First Edition. Brianne Bellwood and
+Melissa Andr asik-Catton.
+@ 2014 John Wiley & Sons, Inc. Published 2014 by John Wiley & Sons, Inc.
+169
+Note: Italicized page locators indicate figures/photos; tables are noted with t.
+Abdominocentesis, 128
+Anemic patients, characteristics of blood
+Abdominocentesis sample
+from, 22
+neutrophils present in, 139
+Anestrus, 152
+red blood cells and a macrophage in, 139
+defined, 161
+Absolute count, white blood cell differential
+Aniocytosis, defined, 161
+and, 34
+Anisokaryosis, 140, 142,161
+Acanthocyte, 50
+Anisonucleosis, 140, 143,161
+Acetest, 67
+Anoplocephala magna, 118t
+Acetoacetic acid, in urine, 67
+Anoplocephala perfoilata, 118t
+Acetone, in urine, 67
+Anoplocephala spp., 118, 118t
+Acrosome
+Anticoagulated samples, 17
+spermatozoa cell, 155, 156
+Antigenic responses, white blood cell
+knobbed, ruffled, and loose cap, 157
+differential and, 33
+Activated clotting time (ACT)
+Anuria, 62,161
+defined, 161
+aPTT. See Activated partial thromboplastin
+purpose, materials required, and procedure
+time
+for, 54
+APTT. See Activated partial thromboplastin
+Activated partial thromboplastin time, 14, 55,
+time
+161
+Arm, of compound microscope, 3
+Adipocytes, mass consisting of, 141
+Arthrocentesis, 128
+Aefurostrongyfus abstrusus, 88t
+Aspartate aminotransferase, 53t
+Aggregate reticulocytes, 29,30
+Aspiration technique, fine needle biopsy. 123,
+Air duster, compressed, for microscope, 7
+124
+Alaria, 92t
+Atypical lymphocyte, 45
+Albumin, 53t, 67
+Automated analyzers, complementing,
+Alkaline phosphatase, 53t
+evaluating a blood film and, 51-52
+Ambryomma americanum, 98, 101t
+Automated clotting tests, purpose of and
+American dog tick, 98, 99t, 100
+definitions for, 55
+Ammonia-scented urine, 63
+Ammonium urate crystals, 72
+Babesia canis, on canine blood film, 48
+Amorphous urate crystals, 72
+Babesia gibsoni, on canine blood film, 48
+Amylase, 53t
+Bacilli, 1138
+Analyzers
+Bacilli bacteria, in urine sediment, 75
+chemistry. 13
+Bacteria
+coagulation, 14
+free in fluid or within cell following
+hematology, 13-14
+phagocytosis, 140
+Ancylostoma spp., 86, 86t,87
+in inflammatory cases, 138
+Anemia
+in unpreserved urine, 60
+defined,161
+on vaginal smear, 152
+red blood cell indices and, 28-29
+Baermann technique, materials and procedure
+reticulocyte percentage for, 30
+for,83
+Veterinary Technician's Hancbook of Laboratory Procedures, First Edition. Brianne Bellwood and 
+Melissa Andrasik-Catton.
+@ 2014 John Wiley & Sons, Inc. Published 2014 by John Wiley & Sons, Inc.
+171
+172  Index
+Band neutrophils, 44,52
+white blood cell count, 31-33
+Barr body, defined, 161
+white blood cell differential, 33-34
+Base, of compound microscope,3
+white blood cell estimate, 35
+Basophilic stippling. 47
+Blood collection
+Basophils
+ proper locations and handling techniques
+bovine, 43
+for, 17
+canine, 40
+tubes for, 17-18
+equine, 42
+Blood film
+feline, 41
+ evaluating, to complement automated
+ovine, 44
+analyzers, 51-52
+Beta-hydroxybutyric acid, in urine, 67
+erythrocytes, 51
+Bicarbonate, 53t
+leukocytes, 52
+Bilirubin
+thrombocytes, 52
+total, 53t
+tips for evaluating PBS, 52
+in urine, 66
+Blood rocking machine, 17
+unpreserved, 60
+Blue top blood collection tubes, 18
+Bilirubin crystals, urinary. 72
+BMBT. See Buccal mucosal bleeding time
+Bilirubinuria, 66, 161
+Boric acid (0.8%), urine preservation
+Biopsies
+and, 61
+fine needle, 123-125, 124, 125
+Boric acid-urine preservative, gray top blood
+imprints, 127-128, 128
+collection tubes and, 18
+intestinal, 125
+Bovicola bovis, 103, 111t
+laboratory submissions, 144
+Bovine leukocyte morphology. 43
+tissue, 125-127
+Bovine threadworm, 106t
+Biopsy punch, procedure for skin biopsy
+Breeding soundness evaluation, semen
+with, 126-127
+evaluation and, 154
+Biting louse, 102t, 11t
+Brown dog tick, 98,98t
+of cattle, 103
+Bubbles, in urine sediment, 75
+00 'sbop jo
+Buccal mucosal bleeding time
+Black-legged tick, 99t
+procedure for, 55
+Bladder expression, 57-58
+purpose and materials required for, 54
+advantages/disadvantages of, 58t
+Buffy coat, 25,161
+materials required for, 58
+BUN. See Urea nitrogen
+Blood, in urine, 67
+Blood analysis
+Calcium, 53t
+clinical chemistries, 52-53
+Calcium carbonate crystals, urinary. 72
+coagulation testing, 53-55
+Calcium oxalate dihydrate crystals,
+corrected reticulocyte percentage, 30-31
+urinary,73
+corrected white blood cell count, 36
+Calcium oxalate monohydrate crystals,
+evaluating blood film to complement
+urinary, 73
+automated analyzers, 51-52
+Call capillary technique, 125
+hematology, 17-18
+ Canine leukocyte morphology, 40
+MCH (mean corpuscular hemoglobin), 28
+Canine lungworm，88t
+MCHC (mean corpuscular hemoglobin
+Canine reproduction, vaginal cytology
+concentration), 29
+and, 145
+MCV (mean corpuscular volume), 28-29
+Casts, urinary. 71
+normal species variation of
+Catheterization, 58-59
+leukocytes, 40-51
+advantages/disadvantages of, 59t
+packed cell volume, 23-26
+supplies for, 59
+peripheral blood smears, 18-22
+Cats,corrected reticulocyte percentage
+platelet count, 37-38
+for,30-31
+platelet estimate, 38-39
+Cattle flies, 112t
+red blood cell count, 26-27
+CBC. See Complete blood count
+red blood cell indices, 28-29
+Cell, spermatozoa cell, 155, 156
+reticulocyte count, 29-30
+Cell types, classifying, 138-144
+reticulocyte production index, 31
+epithelial, 140
+staining, 22-23
+inflammation, 138
+Index  173
+mesenchymal, 140
+Coccidia
+neoplasia, 140
+canine and feline, 94t
+reporting your findings, 144
+equine, 119t
+round cells, 140
+ruminant, 11o, 110t
+Cellular constituents, of urine sediment, 70
+Codocyte, 511
+Celsius degrees, 159, 159t
+Columnar epithelial cells, 140
+Centesis, 128-129
+Complete blood count, 18
+examples of, 128
+Compound microscope, parts and functions
+materials for, 128-129
+of,3-5,4
+site preparation for, 128
+Compressed air duster, for microscope, 7
+Centrifugation technique, in
+Compression (or squash) method, procedure
+parasitology. 81-82, 82
+for, 131, 133, 134
+Centrifuges, 9-11
+Condenser, of compound microscope, 5
+clinical, 9
+Condenser centering screws, of compound
+defined, 161
+microscope, 5
+fixed angle, ff
+Condenser control knob, of compound
+microhematocrit, 9, 10
+microscope, 5
+PCV tubes properly placed in, 24
+Condenser height, microscope, adjusting, to
+purpose of, 9
+sharpen edges of "ball of light," 6
+Statspin, 11, 12
+Cornified superficial vaginal epithelial cell,
+variable angle, 10
+150
+Cestodes
+Creatine phosphokinase, 53t
+canine and feline, 89-92
+Creatinine, 52t
+equine, 118
+Crypto
+ruminant, 109
+canine, feline, ovine, and swine, 95t
+Chemistry analyzers
+ruminant,110t
+description of and maintenance for, 13
+Cryptosporidium, 95t, 96, 110t
+testing supplies for various types of, 14
+Crystals
+Chemistry tests, common clinical, and
+urinary, 72-74
+associated body system or
+unpreserved, 60
+organ, 52t-53t
+Ctenocephafides species, 96t
+Cheyletieffa parasitovorax, 104t, 105
+Cuboidal epithelial cells, 140
+Chloride, 53t
+Cuterebra species, 106t
+Cholesterol crystals, urinary. 73
+Cystine crystal, urinary. 74
+Chorioptes equr, 119t
+Cystitis
+Chorioptes species, 112t
+ammonia-scented urine and, 63
+Chromasia, defined, 162
+defined, 162
+Ciliated epithelial cell, 141
+Cystocentesis, 128
+Cisternal puncture, 128, 162
+advantages/disadvantages of, 60t
+Clinical centrifuges, types of, 9, 10
+description of and materials for, 59
+Clinical chemistries
+Cystoisospora, 87,94t
+common tests and their associated body
+Cystoisospora felis (coccidia), 94
+system or organ, 52t-53t
+Cytauxzoan organisms, on feline blood
+conducting, 52-53
+film, 48
+Clinitest tablets, for detecting glucose in
+Cytology, 15, 121-158
+urine, 66
+classifying cell types, 138-144
+Clotting cascade, 55
+ear, 144-145
+Coagulation analyzers, 14
+laboratory submissions, 144
+Coagulation testing, 53-55
+microscopic evaluation of cytology
+activated clotting time, 54
+slides, 136-138
+automated clotting tests, 55
+reporting your findings, 144
+buccal mucosal bleeding time, 54-55
+sample collection, 121, 122, 123-130
+Coarse and fine focus adjustment knobs, of
+semen evaluation, 154-158
+compound microscope, 5
+smear preparation, 130-135
+Cocci,138
+staining, 135-136
+Cocci bacteria, chain of, in urine sediment,
+vaginal, 145-154
+75
+Cytoplasm, defined, 162
+174  lndex
+Dacrocyte, 49
+Eosin/nigrosin stain, live/dead staining
+Damaflnia equi, 119t
+with, 155
+Databases, 52
+Eosinophils
+Deer tick, 98,99t
+bovine, 43
+Definitive host, defined, 162
+canine,40
+Dehydrated patient, characteristics of blood
+equine,42
+from,22
+feline, 41
+Demodex canis, 104t, 105
+ in inflammatory cases, 138
+diagnosis of, scraping technique and, 130,
+ovine, 44
+131
+Epithelial cells
+Dermacentor andersoni, 1oot, 101
+ciliated, 141
+Dermacentor spp., 110
+in cytological samples, 140
+Dermacentor variabilis, 98,99t, 100
+Epithelial urinary cast, 71
+Diagnoses, laboratory findings and, 14
+Equine coccidia, 119t
+Diatomaceous earth, gray top blood collection
+Equine leukocyte morphology. 42
+tubes and, 18
+Ery-TIC test kit, 26
+Dictocaufus arnfiefdi, 118t
+Erythrocyte chromasia, variations in, 46
+Dictyocautus, 108t
+Erythrocyte inclusion bodies, 47
+Diestrus, 152, 154,162
+Erythrocyte poikilocytosis, 49-51
+Diff-Quick stain, 22, 23, 135
+Erythrocytes
+Dioctophymarenale ovum, in urine sediment, 75
+examining,51
+Diopter adjustment
+variations in size of, 46
+of compound microscope, 3
+Erythropoiesis, defined, 162
+defined, 162
+Estrous stages
+Dipylidium caninum, 89, 89t
+anestrus, 152
+life cycle of, 90
+diestrus, 152
+Direct fecal smear, in parasitology, 79
+estrus, 152
+Dogs, corrected reticulocyte percentage
+proestrus,152
+for, 30-31
+Estrus, 152, 153,162
+Dohle bodies, defined, 162
+Ethylenediamine tetraacetic acid
+Double-pored tapeworm, 89t
+defined, 162
+Draschia megastoma, 113t
+purple top blood collection tubes and, 18
+Draschia species, equine, 113t
+Eyepieces, of compound microscope, 3
+Dust cover, for microscope, 7
+Fahrenheit degrees, 159, 159t
+Ear cytology. 144-145
+Feather smear method, 130
+microscopic findings, 145
+Fecal analysis, 15
+slide preparation and staining: materials
+Fecal collection
+and procedure for,145
+instructions for, 77
+Ear mites, 104t, 105,144, 146
+pooled samples in, 77
+Echinococcus granufosus, 92t
+specimen container suitable for.78
+Echinococcus murtfocufaris, 92t
+ Feline leukocyte morphology. 41
+Echinococcus species, 92. 92t
+Feline lungworm, 88t
+Echinocyte, 49
+Feline tapeworm, 90t
+EDTA. See Ethylenediamine tetraacetic acid
+ Fibrinogen, 17
+EDTA tubes, centesis and, 128,129
+defined, 162
+Electrochemical methods, chemistry analyzers
+test for, 14
+and, 13
+Fifaroides hirthi, 88t
+Electrolytes, defined, 162
+Filaroides miiksi, 88t
+ELISA
+Fifaroides osteri, 88t
+defined, 162
+Fifaroides species, 88t
+test kits for detecting microalbuminuria, 67
+ Fine needle biopsy, 123-125
+Eimeria, f10,110t
+aspiration technique, 123, 124
+Eimeria feuckarti, 119t
+expelling aspirated material onto slide, 124
+Eimeria oocysts, 107
+materials, 123
+Endoscope, intestinal biopsies and use of, 125
+nonaspiration technique, 125, 125
+Eosin, in stain, 23
+site preparation for, 123
+Index  175
+Fixed angle centrifuge, 9, 11
+Hematology
+Flea tapeworm, 89,89t
+analyzers, 13-14
+life cycle of, 90
+blood collection tubes, 17-18
+Fleas
+ proper blood collection and handling
+canine and feline, 96t, 97
+techniques, 17
+life cycle of, 97
+tips, 18
+Flies
+Hematuria, 67,163
+canine and feline, 104
+Hemocytometer, defined, 163
+equine, 120
+Hemocytometer grid, microscopic view of, 32
+ruminant, 112
+Hemoglobinuria, 67, 163
+Flukes
+Hemolyzed, defined, 163
+intestinal, 92t
+Hemoparasites, defined, 163
+lung, 93t
+Hemoparasites, small animal, 48
+Follicular mange mite, 104t,105
+Heparin, defined, 163
+Formalin (40%), urine preservation and, 61
+Hookworm, canine and feline, 86t
+Formulas
+Horizontal centrifuge, 9, 10
+MCH,28
+Horse-biting louse, 119t
+MCV. 28
+Horse strongyles, 115t, 116
+Frank blood, defined, 163
+Horse-sucking louse, 119t
+Free catch (voided sample)
+Horses
+advantages/disadvantages of, 58t
+lungworm in, 118t
+good container choice for owners, 57
+pinworm in, 117t
+materials required for, 57
+roundworm in，f14,114t,115
+Freezing, urine preservation and, 61
+stomach worms in, 113t
+Fringed tapeworm, 109t
+threadworm in, 116, 116t
+Fruity odor, in urine, 64
+Howell-Jolly body, 41, 47
+Hyaline urinary cast, 71
+Gastrophius (larvae), 120, 120t
+Hypersegmented neutrophils, 44
+Giardia. 79, 93t, 94
+Hypersthenuria, 64, 163
+Giardia cysts, collapsed, 107
+Hypochromic, defined, 163
+Globulin,53t
+Hypochromic erythrocyte, 46
+Glomerular filtrate, defined, 163
+Hyposthenuria, 64, 163
+Glucose
+test for, 52t
+Icteric, defined, 163
+in urine, 66
+Ictotest tablets, for detecting bilirubin in
+unpreserved, 60
+urine, 67
+Glucosuria, 66,163
+Muminator
+Granular urinary cast, 71
+of compound microscope, 5
+Gray and red top blood collection tubes,
+no light coming from, troubleshooting, 8-9
+18
+Impedance technology, hematology analyzers
+Gray top blood collection tubes, 18
+and, 14
+Green top blood collection tubes, 18
+Imprints (impression smears), 127-128, 128
+procedure for biopsies, 128
+Habronema microstoma, 113t
+ procedure for external lesions, 127
+Habronema muscae, 113t
+Infection,white blood cell differential and， 33
+Habronema species, equine, 113t
+Inflammation, 138
+Haematopinus asini, 119t
+neoplasia concurrent with, 140
+Haematopinus eurysternus, 11t
+white blood cell differential and, 33
+Head
+ Intermediate cells
+spermatozoa cell, 155, 156
+description of, 148
+detached,158
+diestrus, 154
+double, macrocephalic, microcephalic,
+Intermediate host, defined, 163
+narrow, and pear-shaped, 157
+Interpupillary adjustment, of compound
+Heat cycle, vaginal cytology and, 145
+microscope, 3
+Heinz bodies
+Intestinal biopsy. 125
+Diff-Quick stain, 47
+Intestinal flukes, canine and feline, 92t
+new methylene blue stain, 47
+Iris diaphragm, of compound microscope, 5
+176  Index
+Isospora. See Cystoisospora
+stopping before creating a feathered
+Isosthenuria, defined, 163
+edge, 132
+Ixodes scapularis, 98,99t
+Linognathus setosus, 102t, 103
+lxodes spp., 99, 110
+Linognathus vituf, 1lt
+Lipase, 53t
+Kaolin, gray top blood collection tubes and, 18
+Lipemic, defined, 163
+Karyolysis, 136
+Lipoma, 141
+defined, 163
+Live/dead sperm ratio, 155
+neutrophils displaying, 138
+Lone Star tick, 98,101t
+septic inflammatory reactions and, 138
+Lung fluke, 93t
+Karyorrhexis
+Lungworm
+defined, 163
+canine,88t
+pyknosis and, 136
+cattle, 108t
+pyknotic neutrophil displaying, 137
+feline, 88t
+Keratinized epithelial cells, 140
+horse, 118t
+Keratocyte, 511
+Lymph node aspirate, round cells from,
+Ketones
+142
+in urine, 67
+Lymphocytes
+unpreserved, 60
+atypical, 45
+Ketonuria, defined, 163
+bovine, 43
+Ketosis, defined, 163
+canine, 40
+Kohler illumination
+equine, 42
+adjusting condenser height, 6
+feline, 41
+blurry edges of unfocused light, 6
+in inflammatory cases, 138
+defined, 5,163
+ovine, 44
+process for setting, 5
+reactive, 45
+time to set/check, 5
+Macrocytic erythrocyte, 46
+Laboratory equipment, 3-15
+Macrocytosis, 140
+centrifuge, 9-11
+Macrophages
+chemistry analyzers, 13
+ in abdominocentesis sample, 139
+coagulation analyzers, 14
+in inflammatory cases, 138
+hematology analyzers, 13-14
+Magnesium ammonium phosphate (struvite)
+microscope, 3-9
+crystal, urinary. 74
+quality control of, 14-15
+Malassezia, defined, 163
+refractometer,11-13
+Mafassezia organisms
+Laser-based technology, hematology
+ear samples and, 144,145
+ analyzers and, 14
+from ear swab, 146
+Leg mange
+Mange mite, of cattle and sheep, 11t
+bovine, ovine, 112t
+Mast cells, 136
+equine, 119t
+MCH (mean corpuscular hemoglobin)
+Lens cleaner, for microscope,7
+defined, 164
+Lens tissue, for microscope, 7
+formula for and interpretation of, 28
+Leukocyte counts, 35
+MCHC (mean corpuscular hemoglobin
+Leukocytes
+concentration)
+abnormal morphological changes in, 45
+defined, 164
+examining, 52
+formula for and interpretation of, 29
+normal species variation of, 40-51
+MCV (mean corpuscular volume)
+in urine,68
+defined, 164
+Lice
+formula for and interpretation of, 28
+canine and feline, 102-103
+Mean corpuscular hemoglobin. See MCH (men
+equine, 119t
+corpuscular hemoglobin)
+ruminant,111
+Mean corpuscular hemoglobin concentration.
+Line smear method 
+See MCHC (mean corpuscular
+backing spreader slide onto drop of
+hemoglobin concentration)
+sample, 132
+Mean corpuscular volume. See MCV (mean
+procedure for, 131
+corpuscular volume)
+Index  177
+Megathrombocytes
+Mites
+bone marrow response and, 52
+canine and feline, 104-105
+defined, 164
+equine, 119t
+false readings and, 40, 40
+ruminant, 111-112
+Melena, defined, 164
+Mitotic figure, 143
+Mefophagus ovinus, 113
+Modified squash method, procedure for, 133,
+Meniscus, defined, 164
+134
+Mesenchymal cells, in cytological samples, 140
+Moniezia benedini, 109, 109t
+Metamyelocyte, 44
+Monocytes
+Metarubicyte, 164
+bovine, 43
+Methanol, in stain, 22
+canine, 40
+Methylene blue stain, 22. See aiso New
+equine, 42
+methylene blue (NMB) stain
+feline, 41
+Metric conversions
+ovine,44
+length, 159
+Monolayer
+volume, 160
+defined, 164
+weight, 160
+peripheral blood smear, 18
+Metric system, factor, symbol, prefix, 160t
+Multilocular tapeworm, 92t
+Microalbuminuria, 67
+Multinucleation, 140, 164
+Microcytic, defined, 164
+Mutton tapeworm of dogs, 90t
+Microcytic erythrocyte, 46
+Mycoplasma haemocanis, 48
+Microhematocrit centrifuge
+Mycoplasma haemofeis organisms, 48
+PCV tubes properly placed in, 24
+Myiasis-producing biting and nonbiting
+use for, 9
+flies, 112t
+Microscope
+Myoglobinuria, 67,164
+care and maintenance of, 6-7
+clean up for, 9
+Nasal cavity, swab collection of, 122
+compound microscopy. parts and functions
+Nematodes
+of, 3-5, 4
+canine and feline, 83-88
+Kohler illumination, 5
+equine,113-118
+prolonging life of bulb, 8-9
+ruminant, 106-109
+purpose of，3
+Nematodirus, 106t
+troubleshooting tips, 7-9
+Neoplasia
+water artifact seen on surface of red blood
+defined, 164
+cells, 8
+malignant characteristics, 140
+Microscopic evaluation of cytology
+Neubauer hemocytometer
+slides, 136-138
+improved, 27
+karyolysis, 138
+red blood cell count and, 26
+pyknosis and karyorrhexis, 136
+Neutrophils
+Microscopic examination, benefits with, 51
+in abdominocentesis sample, 139
+Microscopic examination in
+bovine, 43
+parasitology. 79-83
+canine, 40
+Baermann technique, materials and
+equine, 42
+procedure for,83
+feline, 41
+centrifugation technique, 81-82, 82
+hypersegmented, 44
+materials for, 81-82
+in inflammatory cases, 138
+procedure for,82
+maturation stages for,44
+direct fecal smear, materials and procedure
+ovine,44
+for, 79
+red blood cells and, present in vaginal
+mounted direct smear, 79
+smear, 151
+simple fecal flotation, 80-81, 80
+small intermediate cell and, present in
+fecal flotation solutions, 80
+vaginal smear, 151
+materials for, 81
+toxic, 45
+procedure for, 81
+New methylene blue (NMB) stain, 29
+Midpiece
+defined, 164
+spermatozoa cell, 155, 156
+nuclear detail and, 135
+bent, coiled, offset, double, 157
+wet mount technique, 136
+178  Index
+Nitrates, 68
+Paranopfocephala mamilfana,118t
+Nitrites
+Parasitology
+in urine, 68
+canine and feline
+unpreserved, 60
+cestodes, 89-92
+NMB stain. See New methylene blue (NMB)
+fleas, 96-97
+stain
+flies, 106
+Nonaspiration technique, fine needle
+lice, 102-103
+biopsy. 125, 125
+mites, 104-105
+Nosepiece, of compound microscope, 3
+nematodes, 83-92
+Nucleated red blood cells (NRBCs), 36, 36,
+protozoans, 93-96
+164
+ticks,98-101
+Nucleus, defined, 165
+trematodes, 92-93
+equine
+Objective lenses
+cestodes,118
+of compound microscope, 3-4
+flies, 120
+defined, 165
+lice, 119
+Objective power
+mites, 119
+defined, 165
+nematodes, 113-118
+types of, 4
+protozoans, 119
+Ocular power, defined, 165
+gross examination, consistency, color,
+Oculars (or eyepieces), of compound
+blood, mucous, and parasites, 78
+microscope, 3
+microscopic examination, 79-83
+Odor
+ruminants
+of urine, 63-64
+cestodes,109
+unpreserved, 60
+flies, 112
+Oil immersion, 4
+lice, 111
+Oliguria, 62,165
+mites, 111-112
+Oocyst, defined, 165
+nematodes, 106-108
+Optical fluorescence technology, hematology
+protozoans,110
+ analyzers and, 14
+sample collection in, 77
+Otitis externa, defined, 165
+Pascaris equorum, f14, 114t
+Otodectes cynotis, 104t, 105,144, 146
+life cycle of, 115
+Ovalocyte, 51
+PBS. See Peripheral blood smear
+Ovine leukocyte morphology, 44
+PCV. See Packed cell volume
+Oxyuris equr, 117t
+Peripheral blood smear, 18-22
+adult, 117
+characteristics of, 19
+ova, 117
+defined, 165
+evaluating, tips for, 52
+Packed cell volume, 23-26
+good quality, example, stained with
+analysis, 15
+Diff-Quick,20
+layers of, after centrifugation: plasma,
+holes, causes/tips, 22, 22
+buffy coat, and red cell layer, 25
+ materials required for, 19
+materials required for, 23
+preparing, technique for,19
+placement of tubes into microhematocrit
+procedure for,19
+centrifuge. 24
+purpose of，18
+plasma evaluation, 25-26
+tips, 22
+procedure for, 24
+troubleshooting. 20-22
+reading technique, 26
+half-bullet, causes/tips, 22, 22
+readings for, 25
+long and narrow, causes/tips, 21, 2f
+sources of error in, 25
+short and wide, causes/tips, 21, 21
+Panels, 52
+square, causes/tips, 21, 21
+Parabasal vaginal epithelial cells, 148, 148
+tails, causes/tips, 20, 20
+description of, 148
+ Peritoneal fluid
+diestrus, 154
+macrophage present in, 137
+Paracentesis, 128
+neutrophils displaying karyolysis in,
+Paragonium kelficotti, 93, 93t
+138
+Index  179
+pH
+Putrid urine, 64
+testing for urine, 67
+Pyknosis, 136, 166
+of unpreserved urine, 60
+Pyuria, 68, 166
+of urinary crystals, 72-74
+Phosphorus, 53t
+Quality control, for laboratory
+Photometry, defined, 165
+equipment, 14-15
+Photometry testing procedure, chemistry
+analyzers and, 13
+RDW. See Red cell distribution width
+Pinworm, horse, f17, 117t
+Reactive lymphocyte, 45
+ Plasma
+Read area
+deep yellow, disorders associated with, 26
+defined，166
+defined, 165
+peripheral blood smear, 18
+milky, disorders associated with, 26
+Reagent strips
+normal, 26
+for detecting glucose in urine, 66
+red, disorders associated with, 26
+specific gravity readings with, 65
+serum vs., 17
+Red blood cell count, 27-28
+Plasma cells, in inflammatory cases, 138
+calculations and quality control for, 28
+Plasma evaluation, 25-26
+materials required for, 26
+Plasma total protein, refractometer and
+procedure for, 27
+measurement of, 11
+sources of error with, 28
+Platelet clumping, 40, 40, 165
+Red blood cell counting area, 28
+Platelet count, 37-38
+Red blood cell indices, 28-29
+calculations and quality control for, 38
+defined, 166
+materials required for, 37
+information required for, 28
+procedure for，37
+purpose of，28
+sources of error in, 38
+Red blood cells
+ Platelet counting area, 37
+in abdominocentesis sample, 139
+Platelet estimate, 38-39
+easier visualization of, 8
+materials required for,38
+in urine sediment, 70
+procedure for, 38
+water artifact seen on surface of, 8
+purpose of, 38
+Red cell distribution width, 51, 166
+sources of error in, 38
+Red cells, in inflammatory cases, 138
+Platelets, 52
+Red top blood collection tubes, 18
+Poikilocytosis, defined, 165
+Reducing agent, defined, 166
+Polychromatophil, defined, 165
+Refractive index, defined, 166
+Polychromic, defined, 165
+Refractometer, 11-12, 13, 65
+Polychromic erythrocyte, 46
+calibrating, 12
+Polyuria, 62,165
+defined, 166
+Pooled fecal samples, 77, 165
+purpose of, 11
+Potassium, 53t
+Refrigeration, of urine samples, 60-61
+Principal piece, spermatozoa tail, 155, 156
+Regenerative, defined, 166
+Proestrus, 152, 153, 165
+Relative count, white blood cell differential
+Profiles, 52
+and, 34
+Proglotids, defined, 165
+Renal tubular cells, urine sediment, 71
+Proteinuria, 67, 166
+Reticulocyte count, 29-30
+Prothrombin time, 14,55,166
+calculations and quality control for, 30
+Protoplasmic droplet, spermatozoa cell, 158
+important notes about, 29
+Protozoans
+materials required for, 29
+canine and feline, 93-96
+procedure for, 29-30
+equine, 119
+purpose of, 29
+ruminant, 110
+Reticulocyte maturation time factor, 31t
+Psoroptes species, 112t
+Reticulocyte percentage, corrected, 30-31
+PT. See Prothrombin time
+Reticulocyte production index
+Punch biopsies, 126, 126, 127
+defined, 166
+Punctate reticulocyte, 29,30
+interpretation of, 31t
+Purple top blood collection tubes, 18
+purpose of and calculation for, 31
+180
+■Index
+Reticulocytes
+Simple fecal flotation, in parasitology. 80-81,
+defined, 166
+80
+types of,29,30
+Slides
+Revolutions per minute, defined, 166
+focusing.7
+Rhipicephalus sanguineus, 98,98t
+laboratory submissions, 144
+Rocky Mountain wood tick, 100,100t
+ Small animai hemoparasites, 48
+Romanowsky stains, 135, 166
+Smear preparation, 130-131
+Round cells
+compression (or squash) method, 131, 133,
+in cytological samples, 140
+134
+from lymph node aspirate, 142
+feather smear method, 130
+Roundworms, 83t,84
+line smear method, 131, 132, 133
+adult, 85
+modified squash method, 133, 134
+canine, life cycle of, 85
+starfish method, 133, 135
+in dog and cat feces, 78
+Sodium, 53t
+in horses, 114, 114t, 115
+Sodium citrate, defined, 167
+RPl. See Reticulocyte production index
+Sodium nitrate solution, 80
+RPM.See Revolutions per minute
+Solubility, defined, 167
+Specific gravity
+Sample collection (cytology)
+accurate readings, tips for, 65
+centesis, 128-129
+defined, 167
+fine needle biopsy. 123-125
+reagent strips for reading, 65
+irnprints, 127-128
+terminology related to, 64-65
+scrapings, 129-130
+Sperm cell, anatomy of, 155, 156
+swabs, 121, 122
+Sperm morphology, primary and secondary
+tissue biopsy. 125-127
+abnormalities, 155
+Sarcoptes scabei, 105
+Spermatogenesis, defined, 167
+Sarcoptes scabeie var. bovis and ovis, 111t
+ Spermatozoa
+Sarcoptes species, 104t
+bent midpiece, 157
+Scabies mites
+bent tail, 158
+of domesticated animals, 104t, 105
+coiled midpiece and tail, 157
+of sheep or cattle, 112t
+coiled tail, 158
+Schistocyte, 49
+cold shock and, 154, 155
+Scrapings, 129-130
+detached head, 158
+materials for, 129
+double head, 157
+procedure for, 129-130, 130
+double midpiece, 157
+skin scraping technique using # 10 scalpel
+double tail, 158
+blade, 129
+knobbed acrosome, 157
+Sediment, defined, 167
+live/dead staining using eosin/nigrosin
+Sediment examination, urinalysis, 68-75
+stain, 155
+materials required for, 68
+loose cap. 157
+microscopic elements of urine
+macrocephalic,157
+sediment, 70-75
+microcephalic, 157
+reporting findings, 70
+narrow head, 157
+sediment stain, 68-69
+offset midpiece, 157
+urine after centrifugation，69
+pear-shaped head, 157
+Semen evaluation, 154-158
+primary and acrosomal cell defects, 157
+acrosomal abnormalities, 156
+ protoplasmic droplet, 158
+live/dead sperm ratio, 155
+ruffled acrosome, 157
+slide preparation, 154
+secondary abnormalities, 158
+sperm morphology. 155
+in urine sediment, 75
+Serum
+Spherocyte, 51f
+defined, 167
+Squamous epithelial cells, 140
+plasma vs., 17
+urine sediment, 71
+Servicing of laboratory equipment, 14
+Stage, of compound microscope, 4
+SG. See Specific gravity
+Stage brackets, of compound microscope, 4
+Sheather's solution, 80
+Stage control knobs, of compound
+Sheep ked, 113
+microscope, 4
+Index  181
+Stain precipitate, defined, 167
+Thoracocentesis, 128
+Staining, 22-23, 135-136
+Threadworms
+Diff-Quick stain set, 23
+bovine, 106t
+new methylene blue stains, 135
+equine, 116,116t
+Romanowsky stains, 135
+Thrombin time, 55
+solutions for, 22-23
+Thrombo-TIC test kit, 37
+Starch granules, in urine sediment, 75
+Thrombocytes, examining, 52
+Starfish method, procedure for, 133, 135
+Thyroid panel, 53t
+Statspin, 11, 12
+Thysanosoma actinoides, 109t
+Stomach bots, equine, 120,120t
+Ticks
+Stomach worms of horses, 113t
+canine and feline, 98-101
+Stomatocyte, 51
+female, of various species, 98
+Strongyfoides egg, larvated, 107
+ruminant, 110
+Strongyfoides papilfosus, 106t
+Tissue biopsy. 125-127
+Strongyfoides species, 87t
+punch biopsy. 126, 126, 127
+Strongyfoides stercorafis, 87t
+ site preparation, 126
+Strongyfoides trumiefaciense, 87t
+wedge biopsy. 126-127
+Strongyfoides westeri, 116, 116t
+Toluene, urine preservation and, 61
+Strongyfus edentaus, 115t
+Total protein, 53t
+Strongyfus equinus, 115t
+Total protein analysis, 15
+Strongyius species, horse, 115t, 116
+Total Serum Protein, assessing, 25
+Strongyfus vufgaris, 115t
+Toxascaris feonina, 83t, 84
+Sucking lice, 102t, 11t
+Toxcara species, 83t
+of dogs, 103
+Toxic neutrophil, 45
+of ruminants, 111t
+Toxocara canis, 83t,84.87
+Sugar solution, 80
+Toxocara cati, 83t
+Sulfa metabolite crystal, urinary. 74
+Toxoplasma, feline, 95t
+Superficial vaginal epithelial cells, 148, 150
+Toxoplasma gondii, 95t
+Supernatant, defined, 167
+Toxoplasma oocysts, small, 95
+Swabs for sample collection
+TP. See Total protein
+materials and procedure for, 121
+Transitional epithelial cells, in urine
+nasal cavity, 122
+sediment,71
+rolling technique to transfer collected
+Treatment plans, laboratory findings and, 14
+material from swab onto slide, 122
+Trematodes, canine and feline, 92-93
+Tricharis spp., 88
+Taenia hydatigena, 90t
+Trichodectes canis, 102t, 103
+Taenia ovis, 90t
+Trichostrongyfe species, 108t
+Taenia pisiformis, 90t
+Trichostrongyle-type ova, 108
+Taenia species, 90t
+Trichostrongyles, 108t
+ova from, 91
+with large eggs, 106t
+Taenia taeniaeformis, 90t
+Trichostrongyfus axei, 113t
+Tail
+Trichuris campanufa, 87t
+spermatozoa cell, 155, 156
+Trichuris ovis, 107,107t
+double, coiled, and bent, 158
+Trichuris serrate, 87t
+Tails, blood smear, causes/tips, 20, 20
+Trichuris species, 87t
+Tapeworms
+Trichuris vuipis, 87t
+adult, 91
+Trophozoites, 79.167
+in dog and cat feces, 78
+TT. See Thrombin time
+equine, 118t
+Turbidity
+feline, 90t
+defined, 167
+fringed, 109t
+of urine, 62
+multilocular, 92t
+assessing, 64
+ruminant, 109,109t
+examining, 63
+unilocular, 92t
+unpreserved, 60
+Temperature conversions, degrees Celsius and
+degrees Fahrenheit, 159, 159t
+Ultrasound-guided biopsy techniques, 125
+Terminal piece, spermatozoa tail, 155, 156
+Unilocular tapeworm, 92t
+182 ■ lndex
+Urate crystals
+collection methods, materials and
+ammonium, 72
+procedure for, 147, 147
+amorphous, 72
+estrous stages, 152, 153-154
+Urea nitrogen, 52t
+ intermediate cells, 148
+Urinalysis, 15, 57-75
+parabasal cells, 148
+chemical examination, 65-68
+superficial cells, 148
+physical examination of urine, 62-65
+Vaginal epithelial cell
+sample collection, 57-59
+cornified superficial, 150
+bladder expression, 57-58
+large intermediate, 149, 153
+catheterization, 58-59
+small intermediate, 149, 153
+cystocentesis, 59
+superficial，150
+free catch, 57
+Variable angle centrifuge, 9, 10
+sample preservation, 59-61
+Volatile, defined, 167
+boric acid (0.8%). 61
+commercial preservation tablets, 61
+Walking dandruff, 104t, 105
+formalin (40%), 61
+freezing, 60-61
+Warbles,106t
+Wedge biopsies, 126
+refrigeration, 60-61
+toluene, 60-61
+Wet mount technique, new methylene
+in vitro changes in unpreserved
+blue,136
+urine, 60
+Whipworms
+canine and feline, 87t, 88
+sediment examination, 68-75
+Urinary casts, 71
+ovine, 107,107t
+Urinary crystals, 72-74
+White blood cell count, 31-33
+Urine
+calculations and quality control for,
+32
+after centrifugation, 69
+chemical examination of, 65-68
+corrected,36
+materials required for, 36
+bilirubin, 66-67
+procedure for,36
+blood, 67
+purpose of, 36
+glucose, 66
+materials required for, 31
+ketones, 67
+procedure for, 32
+leukocytes, 68
+nitrites, 68
+sources of error with, 33
+White blood cell counting area, 33
+pH, 67
+White blood cell differential, 33-34
+protein, 67
+urobilinogen, 67
+absolute count, 34
+materials required for, 33
+color of, 62,62t, 63
+microscopic examination of, 69-70
+procedure for,33-34
+purpose of， 33
+odor of, 63-64
+physical examination of, 62-65
+read area (monolayer), 34
+relative count, 34
+specific gravity of, 64-65
+turbidity of, 62-63
+White blood cell estimate, 35
+area of smear that is too thick and too
+unpreserved
+clinical characteristics of, 60
+thin,35
+physical characteristics of, 60
+materials required for, 35
+procedure for, 35
+sediment characteristics of, 60
+purpose of，35
+volume of, 62
+Urine specific gravity, refractometer and
+White blood cells
+microscopic view of hemocytometer grid
+measurement of, 11
+for, 32
+Urobilinogen, testing for, 67
+in urine sediment, 70
+Whole blood samples, 17
+Vacuolation, defined, 167
+Wood tick, 99t, 100
+Vacutainer technique, for blood draws, 17
+Wright's stain, 22, 135
+Vaginal cytology. 145,147-154
+canine reproduction and, 145
+cell types seen in, 148, 149-152
+Zinc sulfate, 80
+Keep up with
+critical fields
+Would you like to receive up-to-date information
+on our books, journals and databases in the areas
+that interest you, direct to your mailbox?
+Join the Wiley e-mail service - a convenient way
+to receive updates and exclusive discount offers
+on products from us.
+Simply visit www.wiley.com/email
+and register online
+We won't bombard you with emails
+ and we'll only email you with
+information that's relevant to you.
+We will ALwAYS respect your e-mail
+privacy and NEVER sell, rent, or
+MWILEY
+exchange your e-mail address to any
+ Outside company. Full details on our
+privacy policy can be found online.
+WILEY-
+VBLACKWELL
+www.wiley.com/email

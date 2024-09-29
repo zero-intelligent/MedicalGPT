@@ -1,0 +1,2268 @@
+ECG
+Interpretation
+in the
+Critically Ill Dog and Cat
+THOmAS K. BAY
+Blackwell
+Publishing
+小尾巴宠物健康中心http:/ttahc.taobao.com
+ECG Interpretation in the
+Critically Ill Dog and Cat
+Thomas K. Day, DVM, MS, DACVA, DACVECC
+Blackwell
+Publishing
+Thomas K. Day received his DVM from The Ohio State University.
+Authorization to photocopy items for intermal or personal use, or
+Dr. Day is a Diplomate of the American College of Veterinary Anes-
+the internal or personal use of specific clients, is granted by
+thesiologists and a Diplomate of the American College of Veterinary
+Blackwell Publishing, provided that the base fee of $.10 per copy
+Emergency and Critical Care. Dr. Day presently practices at
+is paid directly to the Copyright Clearance Center, 222 Rosewood
+Lonisville Veterinary Specialty and Emergency Services, Louisville,
+Drive, Danvers, MA 01923. For those organizations that have
+Kentucky.
+been granted a photocopy license by CCC, a separate system of
+payments has been afranged. The fee code for users of the Trans-
+actional Reporting Service is ISBN-13:978-0-8138-0901-4;
+@2005 Blackwell Publishing
+ISBN-10:0-8138-0901-0/2005$.10.
+All rights reserved
+First edition, 2005
+Blackwell Publishing Professional
+2121 State Avenue,Ames,Iowa 50014,USA
+Library of Congress Cataloging-in-Publication Data
+Day, Thomas K., 1960-
+1-800-862-6657
+ECG interpretation in the critically ill dog and cat /
+Orders:
+1-515-292-0140
+Thomas K. Day.
+Office:
+1-515-292-3348
+Fax:
+P.cm.
+Web site:
+www.blackwellprofessional.co
+Includes index
+12
+ISBN-13: 978-0-8138-0901-4 (alk. pape)
+Blackwcll Publishing Ltd
+ISBN-10: 0-8138-0901-0 (alk. paper)
+9600 Garsington Road,Oxford OX4 2DQ,LR
+1.Dogs--Diseases-
+-Diagnosis.
+2.
+DREases
+BIDAIOCHKH
+Tel.:+44(0)1865 776868
+Diagnosis.
+3.Veterinary electrocardi
+Critical
+care medicine.
+[.Title
+APIE!
+Blackwell Publishing Asia
+550 Swanston Street, Carlton, Victoria 3053, Australia
+SF992.C37.D39 2005
+Tel.: +61 (0)3 8359 1011
+636.7'0896075—dc22
+0595244
+The last digit is the print number: 9 8 7 6 5 4 3 2
+Dedication
+This book is dedicated to allof the past, present and future students, technicians,inters,
+residents,practitioners,and colleagues who provided encouragement and support for this
+project.Thevastmajoriry of the casepresentations in this book arrived from patients in the
+ICU or on the emergency room floor during the training of future clinicians.The inspiration
+towrite this bookis certaintyallof the students andveterinariansI haveandwill encounter
+However thecompletionof thisbookisentirely dedicatedtomywife,Deborah,who
+has providedsupport andenduring love thatwords are unableto describe.
+0611048
+Contents
+Cor
+ntents
+Preface
+议
+Case 22
+57
+How to Use This Book
+xi
+Case 23
+59
+Case 24
+61
+Anesthesia
+Case 25
+63
+Case 26
+67
+Case 1
+3
+Case 2
+Case 27
+69
+5
+Case 3
+8
+Endocrine
+Case 4
+10
+Case 5
+12
+Casc 28
+75
+Case 6
+14
+Case 29
+77
+Case 7
+17
+Case 8
+19
+Environmental
+Case 30
+81
+Cardiovascular
+Case 31
+86
+Case 9
+23
+Case 32
+88
+Case 10
+25
+Case 33
+90
+Case 11
+28
+Case 12
+30
+Medicine
+Case 13
+33
+Case 14
+Case 34
+95
+37
+Case 35
+98
+Case 15
+39
+Case 36
+100
+Case 16
+42
+Case 37
+102
+Case 17
+45
+Case 38
+104
+Case 18
+48
+Case 19
+50
+Perioperative
+Case 20
+52
+Case 21
+55
+Case 39
+109
+vif
+rts
+Case 40
+111
+Trauma
+ter
+Case 41
+113
+Cont
+Case 49
+133
+Case 42
+115
+Case 43
+Case 50
+136
+117
+Case 51
+138
+Case 44
+119
+Case 52
+142
+Case 45
+121
+Case 53
+123
+144
+Case 46
+Intlex
+147
+Renal
+Case 47
+127
+Case 48
+129
+vii
+Preface
+face
+tion on how to interpret the electrocardiogram (ECG). You are en-
+You will find that the emphasis on therapy for an ECG abnor-
+couraged to studly these texts to acquire a base knowledge of the
+was designed to emphasize ECG abnormalities based on case prc-1
+the multitude of causes of ECG abnormalities, as well as the ability
+sentations and the indications to perform an ECG. The ECG can  to recognize all possible therapeutic interventions, including an-
+then be interpreted based on the abnormalities of the patient and
+tiarrhythmic drugs.
+ix
+How to Use This Book
+How
+to
+Use
+The electrocardiograms (ECGs) presented in this book represent a
+The normal ECG in the dog consists of the P-wave, P-R interval,
+This
+diagnostic “piece" of information regarding the status of the car-
+QRS complex, T-wave, and Q-T interval (Figure FM3).
+dliac conduction system in dogs or cats. A brief case is presented
+Book
+The P-wavc represents electrical conduction from the sinus
+witlh pertinent information needed to provide an assessment of the
+node to the atrioventricular (AV) node. Discharge from the sinus
+ECG that follows the case on the same pagc. You are asked to make
+node is synonymous with the sinus rate.
+the ECG diagnosis and provide therapy for the patient that will cor-
+The P-R interval represents conduction through the AV node.
+rect the ECG abnormality. The ECG interpretation and approaches
+Conduction through the AV node is the rate-limiting, or slowest,
+to therapy of the patient and the ECG begin on the following page.
+conduction within the cardiac electrical system.
+You will benefit the most by providing the best answer possible
+The QRS complex represents conduction from the AV node,
+prior to looling at the answer that follows the case presentation.
+through the Bundle of His and through the ventricle via the Purk-
+Each case is presented in a randoin fashion, with no regard to the
+inje fibers. The R-wave is positive in lead II of the ECG.
+type of ECG abnormality. The categories of disease processes that
+ The T-wave represents repolarization of the ventricle and can be
+can result in an ECG abnormality have becn organized in a general
+positive, negative, or biphasic
+fashion without the prcsentation of a diagnosis.
+S s! paads iaded aun pue l peal ane sauoen Dog IIv saoN
+mm/s with 1 mV equal to 10 mm (1 cm).
+Continuous monitoring of the ECG during anesthesia or during
+hospitalization can provide the clinician witlh valuable information
+that may be missed with intermittent ECG monitoring. Thcre are
+many manufacturers of ECG monitors including bedlside monitors
+(Figure FM.1) and telemetry units (Figure FM.2). Telemetry unils
+afford the advantage of continuous ECG evaluation without having
+the ECG monitor near the cage. Most telemetry unis can detect the
+ECG up to l0o0 feet from the main monitor.
+Knowledge of the normal P-QRS-T complex is cssential to de-
+termine abnormal ECG complexes.
+Figure FM.1. Bedside ECG monitor.
+xi
+How to Use This Book
+The Q-T interval represents the relative time of ventricular repo-
+larization.
+The normal sinus discharge in dogs depends somewhat on size of
+the dog. Small dogs (< 5 kg) have normal sinus rates of 100-140
+bpm. Large dogs (> 30 kg) have a noimal sinus rate of 80-100 bpm.
+The intrinsic rate of the ventricle in dogs is 40-80 bpm.
+The normal feline ECG has several differenccs compared to the
+canine ECG (Figure FM.4). The rale of sinus node discharge is
+more rapid, and the QRS complexes are relatively smaller. The
+sarme electric physiology that occurs in the canine occurs in the fe-
+line. The intrinsic sinus node discharge rate is 160-200 bprm. The
+intrinsic ventricular discharge rate is 130-150 bpm.
+Figure FM.2.Telemetry unit
+xii
+How to Use This Book
+Figure FM.3. Normal canine ECG.
+Figure FM.4. Normal feline ECG.
+xil
+Anesthesia
+Case 1
+A healthy 3-year-old M Wiemaraner (30 kg) has becn sedated with
+Describe the arrhythimia or conduction disturbance and your ap-
+acepromazine (0.05 mg/kg, IV) and hydromorphone (0.1 mg/kg, IV)
+proach to therapy. The answer and discussion appear on the next
+to repair a laceration on the right forelimb. A local anesthetic (lido-
+page.
+caine, 5 ml) has been infiltrated around the wound. The heart rate
+has decrcased, and the mucous membranes are pale. An ECG is per-
+formed.
+interpretation
+(0.025 mg/kg, IV) can be administered to increase the rate of sinus
+esthesia
+node discharge, which will eliminate the ventricular escape
+The rhythm is sinus bradycardia (60 bpm) with a ventricular escape
+rhythm. The decision to adiminister the atropine or glycopyrolate
+rhythm.A normal PQRS-T complex occurs in the middle of the
+is not necessarily based on the ECG, but on whether perfusion is
+1hythm strip (thin arrow).The intrinsic ventricular rate in the dog is
+being compromised. The clinical finding of pale mucous mem-
+40-60 bpm. A ventricular escape rhythm occurs when there is a de-
+branes indicates that perfusion has decreased and that a parasympa-
+lay in ventricular conduction from the sinus node. The primary
+tholytic agent is indicated. An antiarrhythimic agent such as lido-
+cause of the rhythm in this dog is likely increased parasympathetic
+caine or procainamide will eliminate the ventricular escape rhythm
+-daserd y suoudouoipy isuose piodo a Aa panuy auot
+and is therefore contraindicated.
+tholytic agent such as atropine (0.02 mg/kg, IV) or glycopyrrolate
+Case 2
+asé
+八
+An 8-month-old F Labrador (25 kg)is anesthetized for an ovario-
+you that the ECG looks abnormal. Mucous membranes are pink
+hysterectomy. Accpromazine (0.05 mg/kg,IM) and butorphanol
+and the lingual pulse is strong. Indlirect blood pressure is normal.
+(0.2 mg/kg,IM) were administered as prcanesthetic medication,
+ Describe thc arrhythmia or conduction disturbance and your ap-
+propofol (4 mg/kg, IV) was administered as the induction agent,
+proach to therapy. The answer and discussion appear on the next
+alnd sevoflurane is the inhalation anesthetic. An esophageal ECG is
+page
+used to monitor the heart rate and rhythm.The technician alerts
+lnterpretation
+the venuricular rate is not rapid. The overall ventricular rate (90 bpmt)
+Anesthesta
+is not affected by the atrial flutter. There is no therapy for atial flut-
+The rhythm disturbance is atrial futter with irregular conduction to
+ter, as spontaneous resolution usually occurs (star, lower fgure).
+the ventricle. There are numerous Pwaves that occur in a regular
+Normal sinus rhythrm occurs following atrial futter (following
+pattern between each normal QRS complex. The ventricular com-
+page). The overall ventricular rate (70 bpm) is slower than during
+plexes occur at an inregular rate due to the linited conduction
+atrial fiutter but is still considered normal in this dog and joes not
+through the atrioventricular (AV) node. Atrial futter can occur as a
+require therapy.
+tachyarrhythmia when the AV nodal conduction is normal. The influ-
+ence of anesthctic agenis on the AV node is an explanation as to why
+Case 2
+Case 3
+A 6-month-old F Yorkshire terrier (3 kg) is anesthetized for an
+mmHg. A dose of atropine (0.02 mg/kg. IM) is adiministered. The
+ovariohysterectomy.Preanestheticmedication consistedof di-
+technician reports that the heart rate is now 70 bpm, and the ECG
+azepam (0.2 mg/kg, IM) and butorphanol (0.4 mg/kg, IM), induc-
+appears abnormal.
+tion was with propofol (4 mg/kg,IV), and maintenance is with
+Describe the arrbythmia or conduction disturbanceandyour ap-
+isofurane. The technician notifes you that the heart rate has  proach to therapy. The answer and discussion appear on the next
+dropped to 80 bpm, and the indirect systolic blood pressure is 80  page.
+8
+Interpretation
+the sinus node before the AV node, resulting in relativcly more P-
+Case
+waves than concurrent QRS complexes. The second is that there
+The ECG shows an accelerated sinus response noted by P-waves
+may be more parasympalhetic innervation Io the AV node, which
+that are not followed by QRS complexes. The normal P-QRS-T
+3
+will result in the same imbalance between P-waves and QRS com-
+complex is a first-degree atrioventricular (AV) block that is indi-
+plexes. Regardless of the cause, bradycardia may occur before the
+nations for the increased sinus node discharge without a concurrent
+several minutes and not administer more atropine.
+increase in ventricular activity. One is that there is more blood flow
+to the sinus node relative to the AV node and the atropine affects
+9
+Anesthesia
+Case 4
+A 6-month-old F doimestic shorthair cat (3.5 kg) is anesthetized for
+nipulated, and the systolic blood pressure increases to 150 mmHg.
+The jaw tone is tense and the cat begins lo move. The ECG be-
+of ketamine (15 mg/kg). acepromazine (0.1 mg/kg), and butor-
+comes crratic aswell.
+phanol (0.2 mg/kg), all administered IM prior to induction of anes-
+Describe the arthythmia or conduction disturbance and your ap-
+thesia with propofol (4 mg/kg, IV). The cat is receiving isoflurane
+proach to therapy. The answer and discussion appear on the next
+in oxygen. The doppler begins to sound erratic as the ovary is ma-
+page.
+10
+Interpretation
+Case
+The rhythm diagnosis is sinus tachycardia with premature ventric-
+while the depth of anesthesia is increased, by increasing the
+ular complexes (thick arrows). The sinus complexes (circles) can
+amount of isoflurane and/or administration of a more potent anal-
+gesic agent such as hydromorphone (0.1 mg/kg, IV). Antiarrhyth-
+likely causc of the arrhythmia is inadequate anesthetic depth result-
+mic therapy may not be warranted, based on the results of increas-
+jng in an increase in catecholamine release secondary to pain. The
+ing anesthetic deptli and providing additional analgesia.
+11
+Case 5
+A 10-year-old'F Poodle (5 kg) has been diagnosed with pyometra
+ture/10 kg). Maintenance anesthesia is with isoflurane and oxy-
+and surgery is underway. All chemistries were within normal lini-
+gen. An ECG and doppler have been in piace since induction.
+its, and fuid therapy had been administered for several hours, in-
+Shortly after induction, you notice that the doppler rate suddenly
+cluding hetastarch and lactated Ringer's solution (LRS) with
+decreases.
+potassium supplementation. Diazeparm (0.2 mg/kg, IV) and hydro-
+Describe the atrhythmia or conduction disturbance and your ap-
+morphone (0.1 ng/kg, IV) were administered prior to anesthetic
+proach to therapy. The answer and discussion appear on the next
+induction with ketamine and diazepam (1 ml of a 50:50 mix-
+page.
+12
+Interpretation
+have discharged prior to the continuation of the sinus electrical ac-
+The initial rhythm is sinus tachycardia.Premature ventricular com-
+tivity to the ventricle.Anesthetic depth must be assessed and blood
+pressure deterrnined to decide whcther or not an antiarrhythmic
+ plexes (arrows) occur in a bigeminal pattern. The presence of P.
+agent is required.
+waves preceding the premature ventricular complexes (PVCs) is of
+no consequence. The sinus node and the abnormal QRS complex
+13
+Case 6
+5
+stf
+A 16-year-old FS domestic shorthair cat (6 kg) presents for evalua-
+IV) and placed on isoflutane. The heart rate drops dramatically, hy-
+tion of chronic vomiting and an endoscopy is scheduled. Physical
+potension occurs, and the ECG is reexamined (ECG, page 15).
+Describe the arrhythmia or conduction disturbance and your ap-
+examination is unremarkable.Thoracic auscuitation is unremark-
+able, and the heart rate is 150 bpm. A preoperative ECG is per-
+proach to therapy. The answer and discussion appear on page 16.
+formed and evaluated as normal
+The cat is anesthetized with diazepam (0.4 mg/kg) and butor-
+phanol (0.2 mg/kg) administered IV prior to propofol (5 mg/kg,
+14
+Case 6
+15
+Anesthesia
+interpretation
+Reexamination of the initial ECG revcals a third-degree block as
+well (lower figure). The sinus rate is rapid (200 bpm), yet the ven-
+The rhythm is a third-degree or complete atrioventricular (AV)
+tricular rate is slower (150 bpm). There is no association between
+block. The sinus node discharge is normal (165 bpm) and is repre-
+the P-waves and QRS cormplexes.
+sented by the P-waves (thin lines). The ventricular rate is slow (80
+Third-degree AV block can be a spontaneous occurrence in cats.
+bpm) and has no association with the P-waves (thick lines). The hy-
+However, an echocardiogram is indicated to investigate the possi-
+potension resuits in termination of the procedure, and anesthesia is
+bility of primary heart disease.
+discontinued.
+16
+Case 7
+) 
+medetomidine (0.02 mg/kg) and hydromorphone (0.1 mg/kg), both
+non-weight-bearing lameness of the front right limb. The owners
+administered IM. The mucous membranes become pale, the heart.
+are unsure of the cause, though the dog runs in their 3/4-acre,
+rate is slow, and the pulse is weak.An ECG is performed.
+fenced-in yard with the other family dog, which is much larger.
+IDescribe the arrhythmia or conduction disturbance and your ap-
+Physical examination is difficuit due to severe pain. You are able to
+proach to therapy. The answer and discussion appear on the next
+confirm norinal thoracic auscultation. You dccide to administer
+page.
+17
+phone. Both anesthetic drugs increase parasympathetic tone, which
+Interpretation
+will decrease sinus node discharge (bradycardia) and slow conduc.
+The rhythm is sinus bradycardia (thin lines), and the ventricular
+tion through the AV node (first- and second-degree AV block).
+rate is slow (40 bpum) and irregular. There are two conduction dis-
+Therapy would consist of atropine acministration (0.02 mg/kg, IV)
+turbances. The P-R interval is prolonged (bars), which defines a
+or reversal of medetomidine with alipamezole (same volume as
+first-degree atrioventricular (AV) block. There are P-waves with no
+medetomidine, IM) and/or reversal of hydromorphone with nalox-
+QRS complex (thick lines), which defines a second-degree AV
+One (0.04 mg/kg, IV). Reversal of both anesthetic drugs will result
+block. The likely cause of the bradycardia and the conduction dis-
+in the reversal of the effects of the analgesia.
+turbances is the combination of medetomidine and hydromor-
+18
+Case 8
+ase
+A 3-year-old MN domestic shorthair cat (3.5 kg) is anesthetized for
+with isoflurane in oxygen. The doppler blood pressure is normal.
+removal of a gastric foreign object. The physical examination and
+yet the ECG appears unusual.
+laboratory parameters were withiu normal lirnits.Anesthesia con-
+Describe the arhythmia or conduction disturbance and your ap-
+sists of diazepam (0.3 mg/kg) and butorphanol (0.2 mg/kg) IV
+proach to therapy. Thc answer and dliscussion appear on thc next
+prior to induction with propofol (4 mg/kg, 1V) and maintenance
+page.
+19
+the P-waves appear to move in and out of the QRS complexes. The
+interpretation
+ventricularrate is likely a ventricular arrhythmia that has originated
+The arrhythmia is isorhythmic atrioventricular dissociation (nodal
+high in the ventricle, resulting in a normal QRS complex.The
+blood pressure is normal, and the overal ventricular rate is accept-
+ventricular rate is slightly lower than normal (110 bpm), and the
+able for an anesthetized cat. No antiarrhythmic therapy or alter-
+QRS complexes are normal. The sinus rate is also near normal (110
+ation of anesthetic depth is indicated. The arrhythmia resolves after
+bpm) and is similar to the ventricular rate (thin lines). There is no
+anesthesia.
+association between the P-waves and the QRS cormplexes.In fact,
+人人人人人
+20
+Cardiovascular
+Case 9
+D
+An 11-year-old FS Comish Rex cat (4 kg) presenis in respiratory
+gram reveals dilated cardiomyopathy. The heart rate is slow and
+distress. Thoracic auscultation reveals muffed lung sounds ven-
+regular. An ECG is performed.
+trally, though lung sounds can be heard dorsaily. The heart sounds
+Describe the arrhythmia or conduction disturbance and your ap-
+e mufled. Pleural effusion is diagnosed. A total of 175 ml of chy-
+proach to therapy、 The answer and discussion appear on the next
+lous effusion is removed via thoracocentesis,and an echocardio-
+page.
+23
+Interpretation
+rhythm is an escape chythm that occurs when no electrical activity
+enters the ventricle from the sinus node.The intrinsic ventricular
+The ECG diagnosis is third-degree arioventricular (AV) block. P-
+ratc of the feline ventricle is 130-150 bpm. Thc ventricular com-
+waves (thin lines) occasionally appear throughout the rhythm strip
+plexes are not premature in origin, and lidocaine or other antiar-
+and have no association with the ventricular complexes. The sinus
+rhythmic therapy is not indicated. Administration of an antiarrhyth-
+rate (P-waves) is normal at 180 bpm. The ventricuiar complexes
+mic agent could result in elimination of any ventricular activity and
+Originale from three different foci within the ventricle (thick ar-
+death of the cat. Definitive therapy for third-degree AV block is
+Iows), as deteimmined by three different shapes of the QRS com-
+placenent of aventricular pacemaker
+plex. The ventricular rate is 140 bpm and regular. The ventricular
+24
+Case 10
+ase
+A 6-year-old MN Scottish deerhound (45 kg) presents for evalua-
+mild pleural effusion, and generalized cardiomegaly. Dilated car-
+tion of lethargy and exercise intolerance. Physical examination re-
+diomyopathy is diagnosed via echocardiography. An ECG is per-
+veals a grade 3/6 systolic apical heart murmur that is most promi-
+nent at the ventral left hemithorax. The heart rate is rapid and
+ Describe the arrhythmia or conduction disturbance and your ap-
+irregular. The femoral pulscs are weak and irregular with pulse
+proach to therapy. The answer and discussion appear on the next
+deficits. Tlhcre are mild crackles, bilaterally, and slightly muffled
+page.
+heart sounds. Thoracic radiography reveals hilar pulmonary edema.
+25
+and a reduced ventricular rate. A loading dose of digoxin can be ad-
+yascular
+Interpretation
+ministered orally. The daily dose of digoxin is 0.22 mg/m² (body
+The ECG rbythin diagnosis is atuial fbrillation. Cniteria for atrial
+surface area) twice daily. The conversion from kilograms to body
+Cardiova
+fibrillation include a rapid, iregular ventricular rate, normal QRS
+surface area must be made prior to dose calculation and administra-
+complexes,lack of P-waves, and the presence of fibrillation waves
+lion of the digoxin. If the dog's body surface area is 1.25 m², the
+(f-waves). F-waves (thin lines) occur instead of P-waves as sinus
+daily dose is approximately 0.5 mg. The entire calculated daily dose
+node discharge has been replaced by chaotic atrial conduction. The
+(0.55 mg) should be administered twice on the first day of thcrapy.
+QRS complexes are normal in appearance and occur in a rapid, ir-
+The dose of digoxin can then be administered at the appropriate
+regular rhythm (240 bpm). Fibrillation of the atria results in con-
+dose (0.25 mg) twice daily on the second day.
+stant electric stimulation of the atrioventricular (AV) node. The AV
+The congestion has resolved 48 hours later, and the fermoral
+ node conducts electrical activity to the ventricle in a rapid, iregular
+pulse rate is slower than on presentation.
+pattem,resulting in normal,rapid,and irregular QRS complexes
+A second ECG is performed (next page).
+Therapy for cardiogenic failure (furosemide, 2 mg/kg. IV; digoxin;
+The ventricular rate has decreased to near normal (100 bpm) and
+and enalapril, 0.25 mg/kg, PO BID) is instituted. Digoxin is the ini-
+remains irregular. The f-waves are mote evident as the ventricular
+tial drug of choice for atrial fibrillation. Digoxin slows conduction
+late decreases.
+through the AV node, resulting in slower discharge to the ventricle
+26
+Case 10
+27
+Case 11
+cles. The diagnosis of dilated cardiomyopathy is made.An ECG is
+Physical cxamination is unremarkable except for a very slow and
+performed.
+regular heart rate and femoral pulse rate with no pulse deficits.
+Describe the arrhythmia or conduction disturbance and your ap
+Thoracic auscultation reveals a 3/6 systolic murrnur, heard best at
+proach to therapy. The answer and discussion appear on the next
+the left apex, and normal lung sounds. Echocardiography revcals
+page.
+bilateral atrial enlargement and dilated, poorly contracting ventri-
+28
+Interpretation
+within the ventricle because the shapc of the QRS complex is dif-
+Case
+ferent than that of the ventricular escape complcxes. These likely
+The rhyihm indicaies a third-degree or complete atrioventricular
+developed as a result of poor perfusion to the ventricular my
+(AV) block. The line graph demonstrates the lack of association
+ocardium because of the heart disease. Administration of an antiar
+between P-waves (short lines) and QRS complexes (long lines).
+thythmic agent such as lidocaine to control the R-on-T is not rec-
+The small lines represent normal discharge of the sinus node (250
+ommended. Lidocaine will result in termination of the ventricular
+bpm). The large lines demonstrate the intrinsic ventricular rate for
+escape rhythm. Laboratory tests should commencc to deterimine if
+the cat (70-130 bprn). The cat clinically is not in congestive heart
+there is another cause of the ventricular arrhythmia (hypokalemia,
+failure. Definitive therapy wouid consist of a ventricular pace-
+maker.
+hypercalcemia, etc.). The R-on-T phenomcnon is not a contraindi-
+There are two ventricular complexes with R-on-T phenomena
+cardiomyopathy would include a positive inotrope such as digoxin.
+(circle). The ventricular complexes originate from a different site
+29
+Cardiovascular
+Case 12
+A 7-year-old MN Great Dane mix (35 kg) presents for lethargy and
+Describe the arrhythmia or conduction disturbance and your im-
+exercise intolerance. Physical examination reveals a very lethargic
+mediate approach to therapy. The answer and discussion appear on
+dog. Thoracic auscultation reveals a very rapid, irregular heart rate
+the followingpages.
+with no cardiac murmur. Femoral pulses are weak, rapid, and irreg-
+ular with many pulse deficits.An ECG is performed.
+30
+Initial Interpretation
+docaine (2 mg/kg. IV) is administered as a slow bolus. Other op-
+Case
+lions include procainanide (6 mg/kg, IV, over 5 minutes) and mag-
+The rhythm diagnosis is sustained ventricular tachycardia with a
+nesium sulfate (30 mg/kg, IV). The ECG (lower figure) appears to
+rate of 360 bpm, The specific term for this type of sustained ven-
+have converted out of sustained ventricular tachycardia.
+tricular tachycardia is torsade de pointes.
+Describe the arrhythmia or conduction disturbance and your ap-
+The primary cause of the lethargy and cxercise intolerance is
+proach to therapy. The answer and discussion appear on the next
+likely the extremely high ventricular rate, as therc are lo clinical
+page.
+signs of congestive heart failure. Innediate cessation of the
+rhythm is indicated. An IV catheter is placed in a cephalic vein. Li-
+31
+Follow-up Interpretation
+channel antagonists (diltiazem) and beta-blockers (atenolol).
+/ascular
+Other considerations include digoxin to treat the atrial fibrillation
+The rhythm diagnosis is paroxysmal ventricular tachycardia with
+R-on-T phenomena (circle). There is a second arrhythmia in the
+rhythmias.An echocardiogram provides the diagnosis of dilated
+ECG that is atrial fibrillation. Considerations for therapy of both
+cardiomyopathy.
+ventricular and supraventricular arrhythmias include calcium
+32
+Case 13
+Case
+A 15-year-old MN domestic longhair cat presents in respiratory
+Describe the arrhythmia or conduction disturbance and your ap-
+distress. The history is unremarkable. Thoracic auscultation reveals
+proach to therapy. The answer and discussion appcal on the next
+bilateral fine crackles and a grade 4/6 systolic murmur, heard loud-
+page.
+est at the left apex.The femoral pulse rale is very erratic,and therc
+arc pulse deficits. You perform an ECG during initial therapy of
+oxygen administration.
+33
+Initial Interpretation
+dermally). The cat is able to have an echocaidiogram, which re-
+veals hypertrophic cardiomyopathy with enlargement of the left
+The rhythm is rapid (360 bpm) and regular. The QRS complexes
+atriurn. The respiratory distress resolves with medical therapy in
+P
+24 hours and the ECG is reexamined (page 35).
+gin. However, it is difficult to determnine if the rhythm is supraven-
+Describe the arrhythmia or conduction disturbance and your ap-
+tricular or ventricular as the rate is too rapid and there is no normal
+proach to therapy. The answer and discussion appear on the follow-
+P-QRS-T complex for comparison.‘Therapy is initiated with
+ingpages.
+furosemide (2 mg/kg, IM) and nitroglycerine paste (1/4 inch trans-
+34
+Case 13
+35
+Follow-up Interpretation
+dia. The decision to institute antiarhythmic therapy on initial pres
+entation is usually determined after congestion is relieved. Dilti
+The rhythm diagnosis is normal sinus rhythm with occasional ven-
+azem is a calcium channel antagonist that is a recommended ther-
+tricular premature complexes (circles). The QRS complexes of the
+apy for cats with hypertrophic cardiomyopathy. Diltiazerm could
+initial ECG are similar to those of the normal QRS complexes.
+also be used to control supraventricular tachycardia.
+Therefore, the initial ECG diagnosis is supraventricular tachycar-
+36
+Case 14
+5e
+的
+A 14-year-old FS Beagle (10 kg) is presented for evaluation of acute
+weak and rapid femoral pulse.An ECG is performed while acute
+cardiogenic failure therapy is instituted with furosemide (2 rmg/kg.
+thc last 4 years and is curently recciving enalapril. The dog acutely
+IV) and nitroglycerine (l/4 inch transdermally).
+wen1 into respiratory distress after running through the house. Phys-
+Describe the arrhythmia or conduction disturbance and your ap-
+ical examination reveals fulminate pulmonary edema (pink,foamy
+jxau au uo ieadde uoissnosip pue remsue aul Aderaui 0i qoeond
+fluid from the nostrils and bilateral fine crackles), a grade 5/6 sys-
+page.
+tolic murmur heard loudest over the left hemithorax, and a very
+37
+Interpretation
+years of normal activity can be caused by chordae tendinae rupture
+司
+or development of an arrhythmia. Acute onset of atrial fibrillation
+The rhythm diagnosis is atrial fibrillation. The QRS complexes are
+or supraventricular tachycardia can resull in acute dccompensation
+normal in appearance, rapid, and irregular. There is no consistent
+in dogs with mitral valve discase.Acute therapy for the atrhythmia
+R-R interval (bars), and there are no discernible P-waves. Rapid
+could consist of digitalis glycosides (oral-loading dose or intra-
+atrial fibrillation can be mistaken for supraventricular tachycardia
+venous administration) or calcium channel blockers (verapamil,
+(Eormal appearance of QRS complexes, rapid and regular rate).
+0.5 rng/kg, IV; diltiazem, 0.1 mg/kg,IV, over 5 minutes).
+Acute decompensation to congestive heart failure after several
+38
+Case 15
+Sé
+A 6-year-old MN domestic shorthair cat (6 kg) presents in acute
+Describe the arrhythmia or conduction disturbance and your ap-
+fespiratory distress. Pleural cffusion has been identified, and 200
+ml of a transudate has been removed. Thoracic auscultation reveals
+ingpages.
+a very irregular heart rhythm with corresponding pulse deficits. You
+perform an ECG as part of your diagnostics plan.
+6
+initial Interpretation
+Increasing the paper speed to 50 mm/s can be helpful in determil-
+ing if P-waves are present (lower figure).
+The initial rhythm diagnosis is ventricular tachycardia. The QRS
+ More discussion and ECG on the next page
+complexes arc wide and bizarre, and the ventricular rate is regular.
+40
+Follow-upInterpretation
+responding QRS complex is helpful in determining the diagnosis of
+Case
+ventricular tachycardia. Lidocaine (0.25 mg/kg, IV) would be indi-
+P-waves are identified (short vertical lines), which indicates that
+cated in this cat.
+the sinus node has function. Identification of P-waves with no cor-
+41
+Case 16
+A 4-year-old MN Boxer prcsents for acute syncope.Physical ex-
+Describe the airhythmia or conduction disturbance and your ap-
+amination reveals a dog in good conformation and no other obvious
+proach to therapy. The answer and discussion appear on the follow-
+problerms. Thoracic auscultation reveals an extremely rapid and ir-
+ing pages.
+regular heart rate and a normal pulmonary system. Femoral pulses
+are weak, rapid, and iregular, with many pulse deficits. An ECG is
+perforned irmmediately.
+42
+Initial Interpretation
+An intravenous catheter is placed, and lidocaine (2 mg/kg, IV) or
+The rhythm diagnosis is sustained ventricular tachycardia. Torsade
+procainamide (6 mg/kg. IV) could be adliministered. Several min-
+de pointes is the specific type of sustained ventricular tachycardia.
+utes later, the ECG changes (lowcr figure).
+43
+Follow-up Interpretation
+An echocardiogram is indicated to deteimine if this dog has un-
+rdiovascular
+derlying heart disease (dilated cardiomyopathy) or Boxer car-
+The ventricular tachycardia has been convertcd to sinus tachycar-
+diomyopathy (arthythmias only).
+dia. There is a compensatory delay in sinus node activity following
+the ventricular tachycardia due to repolarization of the sinus node.
+Haneaect
+44
+Case 17
+A 10-year-old FS Poodle presents for a 4-week history of coughing
+tion also reveals irregular heart rate with occasional pulse deficits.
+that occurs prinarily at night and after exercise. Otherwise, the dog
+Radiographs reveal left-sided cardiomegaly.
+Describe the arrhythmia or conduction disturbance and your ap-
+grade 4/6 apical systolic murmur, heard loudest on the left
+proach to therapy. The answer and discussion appcar on the follow-
+hemithorax, but audible on the right hemithorax as well. Ausculta-
+ingpages.
+45
+initital Interpretation
+Continued observation of an ECG reveals another abnormality
+(lower figure)
+The rhythm is sinus with atrial premature complexes occurring in a
+Describe the arrhythmia or conduction disturbance and your ap-
+bigeminal pattem. An abnormai, premature P-wave and a normal
+proach to therapy. The answer and discussion appear on the next
+QRS complex followed by a compensatory delay in conduction
+page
+identify atrial premature complexes (circles)
+46
+Follow-up Interpretation
+sist of slowing conduction through thc AV node to allow appropii-
+ A period of paroxysmal atrial tachycardia occurs at the begining
+atc ventricular activity with digitalis glycosides, calcium channel
+blockers, or beta-blockers. Therapy for the arrhythimia would not
+of the ECG strip with the unusual presence of a nonconducted, ab-
+normal atrial P-wave (circles) that defines secondl-degree atrioven-
+be indicated in this dog because the rhythm does not result in clini-
+tricular block. This may occur due to the refractive nature of the
+cal signs of syncope or exercise intolerance.
+ventriclc during the rapid rate. Therapy for atrial arhythmias con-
+47
+Cardiovascular
+Case 18
+A 14-ycar-old Cocker spaniel presents for episodes of syncope dur-
+ Describe the arrhythmia or conduction disturbance and your ap-
+ing exertion. Physical examination is unremarkable. Auscultation
+jxau sun no jeadde uoissnos pue rmsue au adenaun on yoeond
+is within norrmal limits except for a slow,regular heart rate and
+page.
+femoral pulse. An ECG is performed.
+48
+Interpretation
+(thick lines) is 40-60 bpm. Thc QRS complexes do not have the
+Case
+typical appearance of a wide and bizarre complex. The QRS com-
+The thythm diagnosis is third-degree or complele atrioventricular
+(AV) block. The AV node is nonfunctional in this dog and could be
+plexes appear more normal in configuration because the origin is
+high in the ventricle near the AV node. Definitive therapy is place-
+due to an aging change of the AV node. The sinus rate (P-waves;
+ment of a ventticular pacemaker.
+(hin lines) is normal (120 bpm). The venticular escape rhythm
+49
+Cardiovascular
+Case 19
+A 4year-old Great Dane (55 kg) presents for syncopal episodes.
+Describe the arrhythmia or conduction disturbance and your ap-
+Physical examination reveals a very weak dog with pale mucous
+ proach to therapy. The answer and discussion appear on the next
+membranes and weak, irregular femoral puises. Thoracic ausculta-
+page.
+tion reveals a rapid, irregular heart rate and no cardiac muimmur. An
+ECG isperformmed.
+50
+Interpretation
+ers (verapamil, 0.5 mg/kg, IV; diltiazeim, 0.1 mg/kg, IV, over 5
+Case
+mirutes). Adenosine (0.05 mg/kg, IV, over 5 minutes) is also an op-
+The ECG diagnosis is supraventricular tachycardia. The heart rate
+tion, though the effectiveness has not been determined in dogs. Pri-
+is rapid (240 bpm) and regular. The QRS complexes are normal in
+appearance. There is one premature ventricular complex (aitow).
+mary heart disease inust be ruled out as a cause of the airhyihmia.
+Vagal maneuvers such as compression of the globes of the eye and
+Primary therapy is directed to slowing the heart rate. Oplions in-
+carotid artery massage could be attermpted to increase parasympa-
+chude digitalis glycosides, beta-blockers (esmolol, 0.25 mg/kg, IV,
+thetic tone and possibly convert the rhythrm to sinus rhythm.
+slow bolus; atenolol, 0.5 mg/kg, PO), and calcium channel block-
+51
+Case 20
+A 12-year-old MN cat (4 kg) had a ventricular pacemaker placed
+Describe thc arrhythmia or conduction disturbance and your ap-
+several years ago for treatment of a third-degree atrioventricular
+proach to therapy. The answer and discussion appear on the follow-
+(AV) block. The cal presents for acute onset of lethargy.You are able
+ing pages.
+to observe the batlery under the skin in the right cervicothoracic
+area, and it appears to be discharging properly. Auscultation reveals
+an irregular heart rate compared to the discharge of the battery.
+52
+Initial Interpretation
+compensatory delay in conduction. There is one pacemaker spike
+Case
+The normal ventricular complexes generated by the pacemaker are
+that does not result in a ventricular complex (thin arrow). The cat is
+Iocated in the latter half of the ECG strip (stars). The pacemaker is
+placed on atenolol (6.25 mg, PO, SID) for control of the ventricular
+embedded in the ventricle. Therefore, the QRS compiex that is gen-
+arrhythmias and an ECG is reevaluated in one week (lower figure).
+ Describe the arrhythmia or conduction disturbance and your ap-
+erated is ventricular in origin. Ventricular premature complexes oc-
+cur immcdiately following a pacemaker-generated QRS complex
+proach to therapy.
+in the beginning of thc ECG strip (thick arrows), resulting in a
+53
+Cardiovascular
+Follow-up interpretation
+Dot be able to detect ventricular activity and may be rnalfunction
+ing. The beginning of a pacemaker spike on the T-wave of a prema-
+Thcre are nore norinal pacermaker-generated QRS complexes, with
+ture ventricular complex could lead to ventricular fibrillation. The
+only one pacemaker spike that does not generate a complex (thin
+pacemaker requires reevaluation.
+arrow). However, two pacemaker spikes (circle) occur soon after a
+ventricular premature complex (thick arrow). The pacemaker inay
+54
+Case 21
+ase
+A 7-year-old MN Doberman (35 kg) presents for a history of pro-
+hemithorax. Pulse deficits are also present and an ECG is per-
+gressive lethargy. Physical examination reveals depression; a rapid,
+fomed.
+very weak and irregular femoral pulse; and a grade 2/6 systolic
+Describe the arrhythmia or conduction disturbance and your ap-
+  o        
+proach to thcrapy.
+55
+Interpretation
+conduction through thie AV node and permit slowing of the ventric-
+iovascular
+ular rate.Other options include calcium channel blockers (vera-
+The rhytlhm is supraventicular tachycardia (SVT). The QRS com-
+pamil, 0.5 mg/kg, IV; diltiazem, 0.1 mg/kg, IV, over 5 minutes) and
+beta-blockers (atenolol, 0.5 mg/kg, PO, SID), though each can re-
+(290 bpm).Normal QRS complexes classify this rhythin as
+sult in decreased contractility. Adenosine (0.05 mg/kg, IV, over 5
+supraventicular in origin.It is not possible to differentiate atrial
+minutes) can be used in people with spontaneous occurrence of
+from junctional tachycardia with a rate this rapid. Atrial tachycar-
+SVT (no underlying heart disease).Adenosine does not have the
+same success in dogs with DC'M
+diography reveals dilated cardiomyopathy (DCM). Primary ther-
+apy for this rhythm1 would consist of digitalis glycosides to slow
+56
+Case 22
+ase
+22
+A 12-year-old FS Himalayan (3.5 kg) presents for evaluation of an
+ Describe the arrhythmia or conduction disturbance and your ap-
+irregular heart rhythm. The cat has a normal physical examination
+proach to therapy. The answer and discussion appear on the next
+except for irregularity of the heart rhythim and pulsc deficits. The
+page.
+cat is normal at home, You perform an ECG.
+57
+Interpretation
+abnormalities. The ventricular complexes are interpolated, which is
+ascual
+described as a consistent discharge of a ventricular complex with-
+The rhythm is sinus with occasional premature ventricular com-
+plexes (PVCs)(thick arrows) that occur at a regular interval. Note
+ered benign. No therapy is indicated, though frequent reevaluations
+that the P-QRS-T comploxes of the normal feline ECG can he very
+of the echocardiogram are recommended.
+small. A complete cardiovascular diagnostic evaluation reveals no
+58
+Case 23
+Case
+A 6-year-old Irish wolfhound (45 kg) presents for an occasional
+Describe the arrhythmia or conduction disturbance and your ap-
+cough and syncope. Physical examination reveals depression;
+rapid, slightly weak, and irregular femoral pulse; a grade 2/6 sys-
+page.
+tolic murmur, most prominent over the apical portion of the left
+hemithorax; and muliple pulse deficits. An ECG is performed to 
+begin the evaluation of syncope.
+59
+ascular
+interpretation
+lated cardiomyopathy. The rhythm is likely a prelude to the devel.
+opment of atrial fbrillation. Therapy would consist of slowing con-
+The rhythm is paroxysmal supraventricular tachycardia (SVT).
+duction through the AV node to allow a slower ventricular rate.
+There are occasional normal P-QRS-T complexes (circles) that are
+Therapeutic options include digitalis glycosides, calcium channel
+followed by short bursts (paroxysyms) of SVT (bars). The normal
+blockers (verapamil, 0.5 mg/kg. IV; ditiazem, 0.1 mg/kg, IV, over
+complexes that occur are terrned capture complexes, us the sinus
+5 minutes), and beta-blockers (atenolol, 0.5 mg/kg, PO, SID)
+node captures the normal rhythm. Echocardiography reveals di-
+60
+Case 24
+Case24
+An 8-year-old MN Maine Coon (7 kg) has been treated for hyper-
+Describe the arrhythmia or conduction disturbance and your ap-
+trophic cardiomyopathy for the last 4 ycars and is currently receiv-
+proach to therapy. The answer and discussion appear on the nexl
+ing diltiazem twice daily. Recently, the owner has noticed lethargy
+Page.
+after exertion. Physical examination is unremarkable, and thoracic
+auscultation reveals clear lungs with a slow, regular heart rate. You
+perforni an ECG.
+61
+nterpretation
+of the diltiazem. The sius rate is nornal, so a side effect due to dil-
+tiazem is unlikely since the calcium channel blockers also can de-
+The rhythm is third-degree atrioventricular (AV) block. The sinus
+crease sinus node discharge. The cat is not showing signs of con-
+rate (thin lines) is regular and normal (180 bpm). The ventricular
+ gestive heart failure. Therapy at this point in lime is not indicated.
+rate (thick lines) is regular and occurs at the normal intrinsic rate of
+However, placement of a ventricular pacemaker may be a viable
+the ventricle (l60 bpm). There is no association between the sinus
+option.
+and ventricular complexes. The cause of the rhythm disturbance
+could be related to progression of the heart discase or to side effects
+62
+Case 25
+ase
+A 13-year-old MN Persian cat (3.5 kg) has been treated for hyper-
+Describe the arrhythmia or conduction clisturbance and your ap-
+trophic cardiomyopathy for the past 2 years. He is currently receiv-
+proach to thcrapy. The answer and discussion appear on the follow-
+ing diltiazem and enalapril. The owner has noticed that the cat is
+ing pages.
+more lethargic, and a syncopal episode occured today. Ausculta-
+tion reveals a very irregular heart rate with corresponding pulse
+deficits. You perform an ECG.
+63
+Initial Interpretation
+reveals iregularity and the appearance of P-waves. A second ECG
+rhythn strip is examined (page 65).
+The initial ECG diagnosis is sustained ventricular tachycardia. The
+Describe the arrhythmia or conduction disturbance and your ap-
+QRS complexes appear abnormal in configuration, and the rate is
+proach to therapy. The answer and discussion appear on page 66.
+rapid (240 bpm) and regular. Continucd examination of the ECG
+64
+Case 25
+65
+Follow-up Interpretation
+plex. The conduction of the QRS complex is described as a right
+bundle branch block.Therefore, the tachycardia is likely junctional
+品
+Examination of the second ECG strip reveals P-waves with what ap-
+品
+Or' supraventricular in origin. The ECG diagnosis is then described
+pears to be a norrmal P-R interval and conduction through the ventri-
+as paroxysmal supraventricular tachycardia (bars) with junctional
+cle (circles). The QRS complex does not change, Cats with hyper-
+trophic cardiomyopathy can develop abnormal conduction through
+agent such as a beta-blocker should be considered.
+the ventricle, resulting in an abnorimal appearance of the QRS com
+66
+Case 26
+Case 26
+A 12-year-old M Schnauzer (10 kg) presents for evaluation of syn-
+inregular, with the same pauscs noted on auscultation. An ECG is
+ i a     s   
+perforned.
+examinalion reveals a dog in good conformation with no obvious
+Describe the arrhythmia or conduction disturbance and your ap-
+abnormalities. Auscultation reveals no cardiac murmur, but a very
+irregular rhythm with lengthy pauses. Femoral pulse is strong, yet
+page.
+67
+Interpretation
+as the paroxysmal SV'T is the rhythm that is preventing asystole
+and likely death. The paroxysmal SVT may also be a contraindica-
+The primary disturbance is sinus arrest. There is a junctional es-
+tion for atropine therapy in this dog Definitive therapy is a ransve-
+cape complex (ihick arrow) that is followed by paroxysmal
+nous atrial pacemaker,
+supraventricular tachycardia (SVT) (bars). There is one normal
+P-QRS-T complex (circle). No antiarrhythmic therapy is indicated
+68
+Case 27
+Ca
+ase
+Z
+A 10-year-old MN Anstralian shepherd (25 kg) presents for
+Describe the arrhythmia or conduction disturbance and your ap-
+lethargy and exercise intolerance. Physical examination reveals
+proach to therapy. The answer and discussion begin on the next
+jugular vein distension with jugular pulsation. Thoracic ausculta-
+page.
+tion reveals normal lung sounds and rapid, muffed heart sounds.
+The fermoral pulse is weak and rapid and an ECG is performed.
+69
+Cardiovascular
+Initial lnterpretation
+reveals pericardial effusion with tamponade of the right ventricle
+Pericardiocentesis is the treatment of choice.
+The rhythm is sinus tachycardia with electrical altemans. The QRS
+complexes are smaller than normal and vary in size (circle). Peri-
+cardial effusion with tamponade should be suspected. Ultrasound
+70
+Follow-up Interpretation
+Case27
+Pericardiocentesis results in an irmmediate decrease in heart rate
+and respiratory sinus arrhythmia. The electrical alternans has re-
+solved, and the QRS complex is larger (circles).
+71
+Endocrine
+Case 28
+Case28
+A 7-year-old M Sanoyed (30 kg) presents for evaluation of ven-
+Describe the arrhythmia or conduction disturbance and your ap-
+tricular tachycardia. Mucous membranes are palc, and the femoral
+proach to therapy. The answer and discussion appear on the next
+pulse is weak, rapid, and irregular. Blood pressure is unable to be
+page.
+obtained. An ECG is performed.
+75
+Interpretation
+cium gluconate (0.5--1.0 ml/kg, IV, over 10 minutes) to establish a
+more normal ECG.Fluid therapy and insulin (0.5 unit/kg) followed
+The rhythm diagnosis is ventricular tachycardia with a rate of 240
+by dextrose (1-1.5 g/unit administered insulin) would also be indi-
+bpm. Fluid therapy (crystalloids and colloids) is instituted until di-
+cated to correct the ECG. Definitive therapy for Addison's disease
+agnostics are completed. Electrolytes reveal hyponatremia (Na+ =
+with fudrocortisone acetate (Florinef) or desoxycorticosterone
+125 mEq/L) and hyperkaleinia (K+ = 9.7 mEq/L). Addison's dis-
+pivulate (Percorten) will correct the hyperkalemia.
+ease is suspected and confirmed with an ACTHI stimulation test.
+Therapy for the ventricular tachycardia would include 10% cal-
+76
+Case 29
+Case 29
+A 3-yeal-old MN Australian shepherd (25 kg) presents in lateral re-
+pulse is slow and irregular An ECG is placed as part of the initial
+Cumbency. The owners report a history of vomiting and bloody di-
+diagnosticworkup.
+arrhea for 3 days. The owners also report a similar presentation 3
+Describe the arrhythmia or conduction disturbance and your ap-
+i j s   p q o  o s
+fluid therapy. The mucous membranes are pale, and the femoral
+page.
+77
+Interpretation
+ACTH stimulalion test. Therapy for the junctional escape rhythm
+should first consist of 10% calcium gluconate (0.5-1.0 ml/kg,IV,
+The rhythm is atrial standstill with junctional escape complexes
+ over 10 minutes) with the goal of reestablishing a more normal dif-
+(thick arrow). Two sinus complexes appear (small arrows) near the
+ference between resting membrane and threshold potential. Ac-
+end of the ECG rhythm stip. Fluid therapy (crystalloids and col-
+complishment of this goal will result in a more rapid heart rate. At-
+loids) is instituted until diagnostics are completed. Electrolytes re-
+ropine would likely be ineffective in this dog.
+veal hyponatremia (Na+ = 135 mEq/L) and hyperkalemia (K+ :
+11.2 mEq/L). Adelison's discase is suspected and confirmed with an
+78
+Environmental
+Case 30
+ase
+A 5-year-old spayed female (FS) Saint Bermard mix (65 kg) is
+Describe the arrhythmia or conduction disturbance and your ap-
+found collapsed outdoors in subfreezing weather. The rectal tem-
+proach to therapy. The answcr and discussion begin on the next
+perature is below the lower limits of the thermometer (< 90°F).
+page.
+The dog is minimally responsive. The mucous membranes are pale,
+and the femoral puise is slow, weak, and irregular. Systolic blood
+pressure cannot bc obtained and an ECG is performed.
+8f
+Initial Interpretation
+The prinary therapy for atrial fibrillation in this dog is aggres-
+sive external rewarming and fuid therapy with crystalloids and col-
+vironmer
+The rhythm is atrial fbrillation. The ventricular rate is 80 bpm and
+loids.
+irregular. There are no discernible P-waves, and the QRS coim-
+Aggressive rewarming has resulted in a rectal temperature of
+plexes appear to be conducted in a normal fashion. Hypothermia
+AU
+98°F. The femoral pulse is much stronger and remains irregular
+can result in atrial fibrillation in people and dogs. The main differ-
+(page 83).
+ence between atrial fibrillation caused by heart disease and that
+Describe the arrhythmia or conduction disturbance and your ap-
+caused by hypothermia is that the ventricular rate is much slower
+proach to therapy. The answer and discussion appear on page 84.
+during hypothermia. A second differential diagnosis for atrial fib-
+rillation not caused by heart discase is hypothyroidism.
+82
+Case 30
+83
+Follow-up Interpretations
+Atrial fibrillation has spontaneous converted to normal sinus
+F
+rhythm (page 85). Resolution of hypothermia-induced atrial fibril-
+The rhythm remains atrial fibrillation.The ventricular rale is higher
+lation has been reported in the dog.
+(170 bpm) and iegulat, with normal QRS complexes. There are
+no P-waves, although the ventricular rate appcars more regular.
+Several hours later, the heart rate becomes fnore regular.
+84
+Case 30
+85
+Case 31
+An 8-month-old MN domestic shorthair cat (3 kg) presents after
+pressure is 5O mmHg.'The heart rhythm and pulse are weak and ir-
+being inadvertently caught in a dryer. The owner reports that thie
+regular. An ECG is performed as part of the initial diagnostic plan.
+dryer was on several minutes before the problem was recognized.
+Describe the arrhythmia or conduction disturbance and your ap-
+The cat is extremely tachypneic,with open-mouth breathing, and
+proach to therapy. The answer and discussion appear on the next
+the rectal teinperature is 107.8°F. Indirect doppler systolic blood
+page.
+86
+Interpretation
+The initial approach to therapy is to recstablish perfusion lo the
+Case
+The rhythm is multiforme ventricular tachycardia wjth R-on-T
+ r   r i y    
+crystalloids and colloids, administration of an effective analgesic
+phenomena (circle). All of the complexes are of ventricular origin.
+The various shapes of the QRS complexes (stars) indicate origins
+agent (hydromorphone or morphine) intravenously, and extermal
+from different areas of the ventricle. Ventricular complexes arising
+cooling. Blood gas analysis will provide infornation on the acid-
+base status. All of the previously mentioned causes of ventricular
+myocardium, direct effects of hyperthermia, pain, anemia, direct
+arrhythunias need to be corrected prior to administration of an an-
+trauma, acid-base disturbances,underlying heart disease, or a com-
+tiarrhythmic drug such as lidocaine_ Potential detrimental effects of
+bination of factors. The rate is rapid (200 bpm), and overall perfu-
+lidocaine prior to correction of the clinical abnormalities inchude
+sion has been affected (hypotension). The R-on-T phenomenon is a
+hypotension, seizure activity, and possible worsening of the ar-
+prefibrillatory event that requires immediate therapy.
+rhythrmia.
+87
+nmental
+Case 32
+A 12-year-old FS cat (3 kg) presents after disappearing for 4 days
+Describe the arrhythmia or conduction disturbance and your ap-
+in very cold weather. The cat is very thin and presents in lateral re-
+proach to therapy. The answer and discussion appear on the next
+cumbency. The rectal temperarure docs not register on your ther-
+page.
+mormeter (< 90°F) and you are unable to palpatc a femoral pulse.
+The heart rate on auscultation appears to be slow and regular. An
+ECG is performed.
+88
+Interpretation
+velopment of a ventricular escape rhythm. Primary therapy consists
+Of external rewarming. The ECG can be reexamined after normal
+ase
+The rhythm is conplete atrioventricular dissociation with sinus
+bradycardia (thin lines). There are three different ventricular foci of
+rectal temperature is established. Administration of an antiarrhyth-
+the QRS complexes. Hlypothermia can 1esult in decteased sinus
+mic such as lidocaine is contraindicated and will likely result in
+node discharge (P-waves), atrioventricular node inactivity, and de-
+termination of the ventricular escape rhythm.
+89
+Case 33
+A 2-year-old MN mixed breed dog (25 kg) is being treated for
+Glasgow coma score increased to a near normal value. The dog
+head trauma after being hit by a car. Adequate volume resuscita-
+has deteriorated and is now comatose,the systolic blood pressure
+tion has been established with hypertonic saline and hetastarch,
+is 190 mmHg, and there is a very slow and irregular heart rate. An
+based on clinical parameters of pink mucous membranes, norimal
+ECG is performed.
+capillary refill time, and blood pressure. Furosemide and mannitol
+Describe the arrhythmia or conduction disturbance and your ap-
+were administered 3 hours previous. The initial response to fuid
+proach to therapy. The answer and discussion appear on the next
+resuscitation and diuretic therapy was encouraging as the modified
+page.
+90
+Interpretation
+tension. Therapy would consist of a second adiministration of di-
+Case
+The primary rhythm is sinus arrest. The primary cause of the al-
+uretic therapy, intubation, and ventilation. Atropine could be ad
+ministered, though there is the potential for a detrimental increasc
+in cerebral blood fow.
+bly due to hermiation of the brain. The Cushing's reflex resulis in
+91
+Medicine
+Case 34
+Case
+A 4-year-old MN Rottweiler (40 kg) presents for evaluation of
+lar heartbeat. Indirect blood pressure is within normal limits. An
+chronic vomiting and is scheduled to undergo diagnostic en-
+ECG is perforimed.
+doscopy. Physical examination reveals a very healthy looking dog
+IDescribe the arrhythmia or conduction disturbance and your ap-
+that is bright, alert, and responsive. The femoral pulse is strong but
+proach to therapy. The answer and discussion appear on the next
+irregular. Auscultation is within normal linits except for the irregu-
+page.
+95
+Interpretation
+IM), induction with a combination of ketamine and diazepam
+edicin
+(50:50 mixture, 1 ml/10 kg, IV; 2 ml each of diazepam and keta-
+The rhythm is atrial fibrillation. The ventricular rale is I50 bpm
+mine), and maintenance with isoflurane. The atrial fibrillation re-
+and irregular, and there are fibrillation waves (thin lines). An
+mains, and the heart rate and blood pressure are normal during
+echocardiogram is performed and is within normal limits. No ani-
+anesthesia (page 97),
+Inflammatory bowel disease is diagnosed. Prednisone (I mg/kg
+tion either is related to chronic intestinal disease or is considered a
+PO daily) is prescribed. Two weeks later the ECG is within normal
+lone atrial fbrillation. Anesthesia consists of preanesthetic medica-
+limits.
+tion with diazepam (0.2 mg/kg, IM) and butorphanol (0.2 mg/kg,
+Norna! tteguar ORScomplexesfl!
+96
+Case 34
+97
+Case35
+dicin
+A 10-year-old MN Maltese (5 kg) presents for acute onset of vom-
+systolic murmur and normal pulmonary sotunds. Indirect systolic
+iting after cating chicken skin. The dog has been treated for mitral
+blood pressure is within normal limits. An ECG is performed.
+valve insufficiency for the last 3 years and is receiving cnalapril
+Describe the arhythmia or conduction disturbance and your ap-
+(1.25 mg twice daily). Physical examination reveals a painful cra-
+proach to therapy. How will the ECG and underlying heart disease
+nial abdomen, fever, and bile-stained vomitus. The femoral pulses
+ affect therapy? The answer and discussion appear on thc next page
+are strong, rapid, and irregular. Thoracic auscultation reveals 3/6
+86
+Interpretation
+The elevated heart rate is rnost likely due to pain and changes in
+Case
+The rhythm diagnosis is alrial fbrillation. The venticular rate is
+plasma volume as a fesult of vomiting. The elevated heart rate is
+likely not a sign of cardiac decompensation due to heart disease.
+180 bpm and irregular. The QRS complexes are normal in appear-
+35
+ance. Ihere is an absence of P-waves. The fibrillation waves thal
+invasive procedures such as central venous catheterization to mon-
+are commonly seen with atrial fibrillation are not present and have
+itor central venous pressure.
+beenreplacedwithatnial standstifl.
+50
+99
+Case 36
+A 10-year-old FS Siamese cat presents depressed and in lateral re-
+glycemia (blood glucose = 695 mg/dL), azotemia (creatinine 
+cumbency after a 3-week history of increased water consumption
+3.4 mg/dL), and ketonuria. An ECG is performed
+and increascd urination. Mucous membranes are pale, rectal tem-
+Describe the arrhythmia or conduction disturbance and your ap-
+perature is 93°F, fenoral pulses are weak and irregular, thoracic
+proach to therapy. fhe answer and discussion appear on the next
+auscultation is unremarkable, and the cat is hypotensive (systolic
+page.
+blood pressure = 50 mmHg). Initial diagnostics reveal hyper-
+100
+Interpretation
+ketoacidosis) and hypokalemia are common causes of ventricular
+Case
+arrhytlhmias. The ECG may not respond to antiarrhythnic therapy
+The ECG diagnosis is multiforme ventricular tachycardia with R-
+without resolution of either abnorimality. However,perfusion is
+on-T phenomena (circle). The ventricular rate is 300 bpm, and
+poor, and the arrhythmia is considered a malignant arrhythmia. Li-
+there is evidence of poor perfusion (hypotension, lateral recum-
+docaine is administered at a low dose (0.25-0.5 mg/kg, IV). Perfu-
+bency, pale mucous membranes). Immediate therapy consists of
+sion paramelers are monitored closely,external rewarming is ap-
+oxygen, conservative Huid therapy with crystalloids (15 ml/kg, IV)
+plied, and diagnostics are performed. The arrhythmia may not
+and colloids (5 ml/kg, IV), and analgesia (butorphanol, 0.2 mg/kg,
+improve with lidocaine therapy, and consecutive doscs are not 1cc-
+ommended until other causes of the arhythmia are corrected.
+mic agcnt should be administered prior to evaluation of acid-base
+status and electrolytes. Metabolic acidosis (poor perfusion, diabetic
+101
+Medicine
+Case 37
+An 18-month-old unaltered female Chihuahua (1.5 kg) presents for
+Describe the arrhythmia or conduction disturbance and your ap-
+cvaluation of seizure activity that began at 8weeks of age.Physical
+examination reveals a large,domed skull, open fontanelle,ventro-
+Page.
+lateral strabismus of both eyes,and decreased mentation.Ausculta-
+tion is normal cxcept for a slow, inregular heart rate. The systolic
+doppler blood pressure is I80 mmHg, and an ECG is performed.
+102
+Interpretation
+reffex). Primary therapy would be to decrease intracranial pressure
+with prednisone (decreases cerebrospinal fuid production) and
+There is first-degree attioventricular (AV) block (short, thin vertical
+furosemide. Administration of atropine could result in detrimental
+line) and second-degree AV block (thick vertical line). The overall
+S
+increases in cerebral blood fow and further increases in intracra-
+ventricular rate is slow (60 bpm), and the QRS complexes are nor-
+nial presslre.
+mal. The likely cause of the arrhythmia is increased intracranial pres-
+sure resulting in systemic hypertension and bradycardia (Cushing's
+103
+Medicine
+Case 38
+A 2-year-old MN domestic shorthair cat (4.5 kg) presents in respi-
+ministration results in some improvenent of the respiratory dis-
+ratory distress. There has been a long history of asthma, and ther-
+tress, though mucous membranes are minimally improved. The
+apy has consisted of prednisone as needed for an acute crisis. The
+femoral pulse is slow and irregular:
+cat is currently not receiving prednisone. The cat is open-mouth
+Describe the arrhythmia or conduction disturbance and your ap--
+breathing with an increased inspiratory effort and an exaggerated
+   e s e r u  n 
+expiralory effort. Expiratory wheezes are auscultated, and there is
+page.
+no heart murmnur. Mucous membranes are cyanotic. Oxygen ad-
+104
+Interpretation
+tion. Capturing the airway by intubation may be required. Antiar-
+The rhythm is sinus bradycardia with paroxysmal junctional tachy-
+rhythmic drugs are unlikely to be effective without adequate oxy-
+8
+cardia (circle). The bradycardia is likely due to severe hypoxemia.
+genation.
+The junctional arrhythmias are also likely due to hypoxemia and
+105
+Perioperative
+h
+E
+[1
+Case 39
+Case
+A 7-year-old MN Great Dane (50 kg) is being monitored for 24
+Describe the arrhythmia or conduction disturbance and your ap-
+proach to therapy. The answer and discussion appear on the next
+(GDV).Anesthesia and surgery were unconplicated. A continuous
+page.
+ECG is being monitored during the postoperative period. The tech-
+nician observes what appears to be an abnormality.
+109
+Interpretation
+ acid-base disturbances including 1netabolic and respiratory
+Perioperative
+acidosis;
+'The ECG begins as sinus rhythm with a heart rate of l10 bpm. An
+accelerated ventricular rhythm appears in the latter half of the ECG
+tracing with a ventricular rate of 110 bpm. Fusion complexes (ar-
+magnesemia;
+rows) occur prior to the accelerated ventricular rhythm. A fusion
+·anemia due to blood loss;
+complex is described as a complex that is the combination of the
+*pain; and
+normal sinus complex and the ventricular complex. A fusion com-
+primary heart disease.
+plex has no clinical significance, and no therapy is required. The
+accelerated ventricular rhythm occurs at a rate that is very similar
+A decision on the need for antiarrhythmic therapy is based on
+to the normal sinus rate.
+the collection of clinical and laboratory data. Therapy is usually not
+Gastric dilatation-volvulus is a multisystenic disorder that can
+warranted if clinical and laboratory values are normnal. An acceler-
+result in several disorders that predispose the heart to ventricular
+ated ventricular rate below 150--170 bpm does not require antiar-
+arrhythmias. These include
+rhythmic therapy. The acceleraled ventricular thythm with a rate
+similar to the sinus rate typically results in normal cardiac output
+·poor perfusion resulting in tissue hypoxia, reperfusion in-
+and a clinically normal patient.
+jury, and metabolic acidosis;
+1t0
+Case 40
+A 5-year-old MN Bulldog (20 kg) is recovering from an entero-
+Describe the arrhythmia or conduction disturbance and your ap-
+tomy performed the previous day to removc a foreign object. Hy-
+proach to therapy. The answer and discussion appear on the next
+dromorphone (0.1 mg/kg, IV; 2 mg; every 4 hours) is being admin-
+page.
+istered for postoperative anaigesia, and the dog is resting
+comfortably. The technician notes that the heart rate is slower than
+the previous day and is more irregular. An ECG is performed.
+t11
+Interpretation
+mal QRS cornplexes. Therefore, the origin of the escape complexes
+is in or very close to the atrioventricular node. No therapy is war
+T'he rhythm is respiratory sinus arrhythmia. There are junctional
+ranted in this dog. Clinical parameters of perfusion (mucous mem-
+escape complexes (arrows) that occur during the expiratory phase
+branes, blood pressure, femoral pulse) indicate no detrimental ef-
+of respiration. The heart rate increases during inspiration and de-
+fect of the arrhythmia on the cardiovascular system. Administration
+creases during expiration due to normal parasympathetic re-
+Of a parasympatholytic agent (atropine or glycopyrrolate) could re-
+sponses、 Hydromorphone is an opioid agonist that can increase
+sult in sinus tachycardia and the possibility of tachyarrhythmias.
+parasympathetic tone and exacerbate the respiratory sinus arrhyth-
+mia. The escape complexes are identical in appearance to the nor-
+112
+Case 41
+Case
+a splenectomy. The dog presented in severe hemorthagic shock.t
+the time of theECG include hypotension (indirect Doppler systolic
+Initialstabilization was withhypotensiveresuscitation using het-
+blood pressure = 75 mmHg), pale mucous membranes, and a
+astarch (5 ml/kg) and lactated Ringer's solutiuon (LRS) (45 ml/kg)
+rapid, irregular, and wcak femoral pulse.
+intravenously until the systolic blood pressure was above 60
+Describe the arrhythmia or conduction disturbance and your ap-
+mmHg. The dog was hypotensive throughout anesthesia despite
+proach to therapy. The answer and discussion appear on the next
+therapy with Oxyglobin (4 ml/kg, IV bolus) during surgery. The
+page.
+113
+Interpretation
+combination of factors.A jugular venous catheter should be placed
+erati
+to monitor central venous pressure (CVP), which would provide in-
+The rhythm is multiforme ventricular tachycardia with R-on-T
+formation regarding the intravascular volume status. Once CVP is
+00
+phenomena (circle) that progresses to sustained ventricular tachy-
+determined, decisions could be made regarding the use of antiar-
+cardia. Hypotension may be the primary factor in the development
+rhythimic dxugs. Administration of lidocaine or procainamide in a
+of this arhythmia. Hypotension could be due to continued bleed-
+patient with poor volume could result in severe hypotension.
+ing, anemia, reperfusion injury, pain, electrolyte disturbances, or a
+114
+Case 42
+A 6-year-old FS Bull mastiff prescnts for nonproductive vomiting
+Describe the arrhythmia or conduction disturbance and your ap-
+and abdominal distension of 4-6 hours duration. Initial diagnosis is
+proach to therapy. The answer and dliscussion appear on the next
+gastric dilatation-volvulus and is confirmed with a right lateral ra-
+page.
+diograph. Indirect systolic blood pressure is low (60 mmHg), mu-
+cous membranes are pale, and the fenoral pulse is weak and irreg-
+ular. An ECG is performed.
+Bpecelabe,Inc.
+MEDICAL.SUPPLIE
+（00日)
+115
+Interpretation
+correction of hypotension (fluid support), decompression of the
+distended stomach, and analgesia (opioid agonist) prior to the ad-
+ele
+The ECG begins with sinus tachycardia and proceeds to paroxys-
+ministration of antiarriythmic drugs.Administration of lidocaine
+mal multiforme ventricular tachycardia with R-on-T phenoimena
+ or procainarmide could result in worsening of the hypotension if
+(sinall circle). The causes of sinus tachycardia followed by the ven-
+there is not adequate intravascular volume.
+tricular arrhythmia in this dog include hypotension as a result of
+There are two areas of arlifact on the ECG related to movement
+obstruction of venous return, blood loss, pain, electrolyie distur-
+of the palient (arrow and large oval). The moverment artifact during
+bances (low potassium), acid-base disturbances (metabolic acido-
+paroxysmal multiforme tachycardia has resulted in the complexes
+sis), and hypoxemia secondary to ventilation perfusion imbalances
+being cut off at the bottom of the ECG strip.
+公
+as a result of the distended abdomen. Therapy includes oxygen,
+,Lnc
+客008]
+116
+Case 43
+Case
+A 9-year-old MN Labrador retriever is being monitored 12 hours
+Describe the arrhythimia or conduction disturbance and your ap-
+after successlul surgery to correct a gastric dilatation-volvulus. A
+continuous ECG has been monitored since the end of surgery, and
+page.
+abnormalities are noticed. Physical examination reveals thc dog is
+more pale than normal,cspecjally during the airhythmia.
+117
+perative
+Interpretation
+*anemia due to blood loss;
+Multiforme prernature ventricular complexes (arrows) occur with a
+pain; and
+sinus rhiythm (circles). Several diagnostic tests are necessary to de-
+· primary heart disease.
+termine the approach to therapy. Gastric dilatation-volvulus is a
+Laboratory results for this dog reveal normal packed cell vol-
+multisystemic disorder that can result in several abnormalities that
+ume and total solids, adequate analgesia, and normal artenial and
+A
+can predispose the heart to ventricular airhythmias including
+central venous blood gas. Electrolytes reveal hypokalermia (2.6
+1S
+* poor perfusion resulting in tissue hypoxia, reperfusion in-
+mEq/L) and normal magnesium.
+b:
+jury, and metabolic acidosis;
+Hypokalemia can result in ventricular arrhythmias and should
+al
+· acid-base disturbances including metabolic and respiratory
+be corrected with potassium supplementation prior to administra-
+A
+acidosis;
+tion of antiarrhtyhmic agents.
+· electrolyte disturbances such and hypokalemia and hypo-
+Cr
+magnesemia;
+118
+Case 44
+Ca
+ase
+An 8-year-old MN Rotrweiler (45 kg) is bcing monitored following
+rameters including blood pressure (110 mmHg systolic) and mu-
+cous membrane color with capillary refill time (pale/pink, 2 sec-
+bleeding was found on physical examination after a presentation of
+onds) are within normal limits. The dog is uncomfortable in the
+anorexia, lethargy, and occasional vomiting for the past 3 days.
+cage and changes positions often.
+Anesthesia and surgery were uneventful, and an ECG has been
+Describe the arrhythmia or conduction disturbance and your ap-
+monitored since the end of surgery 2 hours previous. Analgesia
+proach to therapy. The answer and discussion appear on the next
+consists of intermittent butorphanol administralion. Clinical pa-
+page.
+119
+.1
+Interpretation
++electrolyte disturbances such and hypokalemia and hypo-
+magnesemia; and
+The rhythm is sinus with one premature ventricular complex (thin
+arrow) and a fusion complex (thick arrow) followed by paroxysmal
+·primary heart disease
+ventricular tachycardia. The paroxysmal ventricular tachycardia is
+Immediate therapy with lidocaine (2 mg/kg, IV bolus) would be
+very rapid and contains R-on-T complexes (circle)
+indicated due to the rapid ventricular rate and R-on-T complexes
+and normal cardiovascular parameters.
+heart to ventricular arrhythmias.These include
+Physical examination reveals inadequate analgesia. Butorphanol
+*poor perfusion from postoperative blood loss, which can re-
+is an opioid agonist-antagonist with mild to moderate analgesia. A
+sult in myocardial tissue hypoxia, reperfusion injury, and
+metabolic acidosis;
+hours) should be administered. Reassessment of analgesia should
+' pain;
+commence prior to the continued administration of lidocaine Or
+other antiarrhythmic agents.
+· anemia;
+All other laboratory diagnostics were within normal limits.
+· acid-base disturbances including metabolic and respiratory
+acidosis;
+120
+Case 45
+Case
+A 2-year-old FS Great Dane (40 kg) is being monitored 16 hours
+time of 2 seconds, and Doppler systolic blood pressure of 120
+mmHg.
+continuous ECG has been monitored since the end of surgery, and
+Describe the arrhythmia or conduction disturbance and your ap-
+today you notice some abnormalities. The dog has a normal physi-
+proach to therapy. The answer and discussion appear on the next
+page.
+121
+Perioperative
+Interpretation
+· anemia due to blood loss;
+There is sinus rhythm with an accclerated ventricular rhythm. The
+*pain; and
+rate of the sinus rhythm and ventricular rhythm is similar and nor-
+primary heart discase.
+mal. 'There is no physical evidence of perfusion abnormalities. Gas-
+tric dilatation-volvulus is a multisystemic disorder that can result in
+Determination of the causcs of ventricular arrhythmias will re
+several disorders that predispose the heart to ventricular arrhyth-
+veal thc approach to therapy. All laboratory tests are normal. There
+mias. These include
+is no indication for antiarrhythmic therapy in this dog unless thie
+* poor perfusion resulting in tissue hypoxia, reperfusion in-
+or imore rapid. Most accelerated ventricular rhythms do not require
+jury, and metabolic acidosis;
+therapy unless the rate is above 150-170 bpm or there is a clinical
++acid-base disturbances including metabolic and respiratory
+effect as a result of the arrhythmia (poor perfusion)
+acidosis;
+magnesemia;
+122
+Case 46
+Case
+46
+A 15-year-old FS Shih Tzu (6 kg) is recovering from a thoraco
+Describe the arrhythmia or conduction disturbance and your ap-
+tomy to perform a right pneumonectomy. Surgery and anesthesia
+proach to therapy. The answer and discussion appear on the next
+were uncomplicated. Analgesia consists of intraplcural bupiva-
+page.
+caine, transdermal fentanyl, and an infusion of morphine, lido-
+caine, and ketamine. Blood pressure is normal, mucous membranes
+are pink, and respirations are normal. The ECG appears abnormal.
+123
+Interpretation
+rate increases. Atropine could be administered if the sinus rate de
+erafiv
+The ECG diagnosis sinus bradycardia that results in ventricular es-
+fusion. Antiarrhythmic therapy with lidocaine or procainamide is
+cape complexes (thick arrows). Tlherapy would consist of arousing
+not indicated and could be detrimental.
+the dog to deternine if the escape complexes resolve as the heart
+124
+Renal
+Case 47
+Se
+A 1-year-old MN domestic shorthair cat (5 kg) presents in lateral
+Describe the arrhythmia or conduction disturbance and your ap-
+   q   a  n o  g
+proach to therapy. The answer and discussion appear on the next
+out of the litter box for 3 days. A large, firm bladder is palpated.
+'2ed
+The femoral pulse is slow and regular, and an ECG is placed.
+127
+Interpretation
+ing membrane and threshold potential that potassium has nar-
+'The ECG depicts an extremely slow idioventricular rhythm. The
+Iowed. Thercfore, the action potential can act in a more normal
+fashion until the potassium can be lowered. Adnninistration of in-
+QRS complexes are described as sinusoidal in appearance. Hyper-
+sulin (1 unit) followed immediately by 50% dextrose (5 ml) will
+kalemia should be suspected. The potassium of this cat (12.1
+ mEq/L) is very high, and intravenous calcium gluconate therapy
+drive potassium into the cell. Fluid therapy will also decrease the
+potassium. Calcium gluconate, insulin and dextrose, and fuid ther-
+(0.5-1 ml/kg, IV, over 5 minutes) should be administered imrnedi-
+apy should commence prior to placing a urethral cathetcl.
+ately. Calcium will reestablish the normal difference between rest-
+128
+Case 48
+Case 48
+A 5-year-old MN domestic shorthair cat (5.5 kg) presents for in-
+Dcscribe the arhythrmia or conduction disturbance and your ap-
+ahility to urinate. The owners report that the cat has been going in
+proach to therapy. The answer and discussion appear on the next
+and out of the lilter box for 3 days. A large, fim bladder is pal-
+page.
+pated. The cat is depressed but aware of its surroundings. The
+femoral pulse is regular, and an ECG is placed.
+129
+Rena
+interpretation
+ECG other than potassium concenuration. Sedation or anesthesia in
+The rhythm is normal sinus rhythm with a normal rate of 180 bpm.
+a patient with hyperkalemia and a normal ECG could still result in
+Electrolytes reveal hyperkalemia (K + = 7.5 mEq/L). Hyperkalemja
+detrimental effects if the potassium is not decreased prior to the ad
+ministration of anesthetic drugs.
+does not necessarily produce expecled ECG changes in every pa-
+tient, as there are mulriple factors involved with generation of the
+130
+Trauma
+Case 49
+Case 49
+A 2-year-old MN Labrador retriever (45 kg) presents immediately
+ by mask is administered. An ECG is placed as venous access is ob-
+after being hit by a car. The owner reports that the dog has had dif-
+tained.
+ficulty breathing since the accident. Physical examination reveals
+Describe the arrhythmia or conduction disturbance and your ap-
+severe respiratory diistress with muffled pulmonary and cardiac
+proach to therapy. The answer and discussion appear on the follow-
+sounds. Blood is being expelled from the nose and mouth. Oxygen
+ing pages.
+133
+Initial Interpretation
+have becorne cyanotic.The ECG has also changed dramatically
+The rhythm is sinus tachycardia. Potential causes include hypox-
+(lower figure).
+Describe the arrhythmia or conduction disturbance and your ap-
+cmia secondary to pulmonary contusions and/or pneumothorax,
+ proach to therapy. The answer and discussion appear on the next
+hypovolermia (relative or absolute), or pain.
+The dog's condition worsens as Huid therapy is being adminis-
+page.
+tered. The respiratory rate has slowed, and the mucous membranes
+134
+Follow-up Interpretation
+and open-chest cardiopulmonary resuscitation (CPR) is indicated
+Case
+immediately. The injury to the thorax may be revealed and be re-
+The rhythm is multiforme sustained ventricular tachycardia with
+lieved upon entering the chest. Closed-chest CPR would be much
+R-on-T phenomena (circles). The second cpisode of R-on-T results
+less effective in this dog.
+in ventricular fibrillation and cessation of respirations. Intubation
+135
+Case 50
+A 2-year-old male cat (5 kg) presents after being attacked by rwo
+Describe the arrhythmia or conduction disturbance and your ap-
+dogs. The cat is recumbent with an open fracture of the right radius.
+proach to therapy. The answer and discussion appear on the next
+Mucous membranes are pale, no femoral pulse is palpated, and
+Page.
+the cat is hypothermic. You place an ECG and begin resuscitalive
+tlhierapy
+136
+Interpretation
+bated by pain. Intravascular volume therapy is instituted on a con-
+servative basis during external rewarming by using crystaloids (15
+The rhythm begins as sinus tachycardia (240 bpm). Several multi-
+ml/kg, IV) and colloids (5 ml/kg, IV). The decision to administer
+forme ventricular premature complexes occur (arrows), and there
+an antiarrhythmic agent is made after rewarming and reassessment
+are several episodes of R-on-T (circle).
+of the cardiovascular status.Immedjate administration of an antiar-
+Intravenous analgesia (hydromorphone, 0.1 mg/kg) is adminis-
+rhythmic agent such as lidocaine could result in hypotension.
+tered as the airhythmias could be result of pain or may be exacer-
+137
+Case 51
+A 15-rnonth-old F mixed-breed dog (15 kg) is being treated for in-
+pressure is normal, and the mucous membranes are pink with a
+juries associated with being hit by a car. There is a simple, closed,
+capillary refill time of 2 seconds. The femoral pulse is surong, yet
+left tibial fracture that has been splinted. Initial signs of shock were
+irregular. There arc no pulse deficits. Continuous ECG is being
+successfully treated with colloids and analgesia. A continuous fate
+monitored by telemetry
+infusion (CRI) of morphine (0.12 mg/kg/hr) is being administered,
+Describe the arrhythmia or conduction disturbance and your ap-
+and a transdermal fentanyl patch (25 μg/kg/hr)has been placed.
+proach to therapy. The answer and discussion begin on the next
+The technician totes that while the dog is sleeping the heart rate
+page.
+decreases, and there appear to be pauses in the rhythm. The blood
+138
+Initial Interpretation
+AV block. There is one junctional escape complex (thick arrow)
+Case
+The underlying rhythm is respiratory sinus arrhythmia as the sinus
+that occurs after a nonconducted P-wave,
+The dog awakens as the cage door is opened. The ECG is noted
+[ate (P-waves) increases and decreases with respiration. The P-R
+interval is prolonged (bars) and is described as first-degree atri-
+to become more regular (page 140).
+Describe the arrhythmia or conduction disturbance and your ap-
+Oventricular (AV) block. There are occasional P-waves with no cor-
+ proach to therapy The answer and discussion appear on page 141.
+responding QRS complex (thin line), which defines sccond-degree
+139
+Trauma
+140
+Follow-up Interpretation
+fects of the morphine. Mild stimulation (awakening) results in a
+Case
+relativc increase in sympathetic tone. The result is an increase in si-
+The overall rhythm is normal sinus rhythm. The fist-degree AV
+nus node discharge and resolution of the secondl-degree AV block
+block persists (bars), and there is a movement artifact (circle). The
+5
+(increased conduction though thc AV node). No therapy is war-
+second-degree block has resolved. The scenario is comumon with
+fanted because hemodynamic variables are normal during the ar-
+continuous rate infusion of opioids in stable animals. The morphine
+rhythmia. Atropine could be administered as the dog sleeps. How.
+can decrease sinus node discharge and can exacerbate respiratory
+ever, an increase in heart rate could result in unnecessary increased
+sinus arrhythmia as a result of increased parasympathetic tone.
+myocardialwork.
+Second-degree AV block can also occur. Sleep can intensify the ef-
+141
+Case52
+A 6-week-old M kitten (1 kg) presents after being found outside in
+Describe the arrhythmia or conduction disturbance and your ap-
+the snow. The kitten is recumbent and has a rectal temperature that
+proach to therapy. The answer and discussion appear on the next
+does not register on the thermometer (< 90°F).The heart is diff-
+page.
+cult to auscultate, and a femoral pulse is not palpated. Blood pres-
+sure is unable to be obtained.
+142
+Interpretation
+in decreascd electrical activity of the heart.Atropine administration
+would be ineffective for therapy of this rhythm as increased
+The rhythm is periods of sinus arest with junctional escape com-
+parasyinpathetic tone is not the cause of the conductiou distur-
+plexes (thick arrows). There are two P-waves that appear to con-
+bance. Aggressive cxternal and internal warning is indicated as the
+duct to the ventricle in a norimal fashion (circle). The Q-T interval
+primarytherapy.
+(bars) is prolonged as a result of hypothermia. Hypothermia results
+143
+Case 53
+In
+Th
+ve
+vC
+A 6-year-old MN Labrador retriever (30 kg) presents after being hit
+with initial therapy, and the dog appears to be stable. Continuous
+by a car. initial hemodynamic parameters included hypotension,
+ECG monitoring 2 hours later reveals an abnormality.
+tachycardia, pale mucous membranes, and weak fenoral pulse.
+Describe the arrhythmia or conduction disturbance and your ap-
+Physical examination revealed a fracture of the left femur. Initial
+proach to therapy. The answer and discussion appear on the next
+resuscitation consisted of oxygen, hetastarch, and analgesia with
+page.
+butorphanol (0.2 mg/kg, IV). Hemodynamic pararmeters improved
+144
+Interpretation
+Determination of the causes of ventricular airhythmias will re
+Case
+veal the approach to therapy. Laboralory tests do not revcal severe
+The underlying rhythm is respiratory sinus arrhythmja. Paroxysmal
+bleeding, blood gas examination is normal, and hemodynarmic pa-
+ventricular tachycardia (circles) occurs with R-on-T phenomena.
+rameters are normal.
+Trauma can result in several disorders that predispose the heart to
+Analgesia for a femoral fracture should consist of more potent
+ventricular arrhythmias. These include
+agents than butorphanol. Administration of an opioid agonist such
+* poor perfusion resulting in tissue hypoxia, reperfusion in-
+as morphine as a continuous rate infusion (with or without lido-
+jury, and metabolic acidosis;
+caine and ketamine),administration of an intermittent bolus of
+morphine or hydromorphone, and addition of a potent nonsteroidal
+·anernia due to blood loss (intemal or at the fracture site);
+anti-inflammatory agent would be recomimended prior to adminis-
+·pain (inadequate analgesia);
+tration of an antiarrhythmic agent. lf analgesia were assessed to be
+· acid-base disturbances including metabolic acidosis;
+normal, then administration of an antiarrhythmic such as lidocaine
+  r  s s  s
+(2 mg/kg, IV) or procainamide (6 mg/kg, IV) would be warranted.
+magnesemia; and
+· primary heart disease
+145
+Ir
+Ac
+Ac
+Ac
+AC
+Ad
+PV
+An
+An
+An
+Ast
+Asj
+Index
+D
+Acceleratcd ventricular rhythm,110.
+Atenolol, 32. 51,53,56,6[1
+Butorphanol,5,8,10,14,19.91,101,
+canine, 28, 29,32, 44, 56, 60
+122
+Atipamezole,18
+119
+feline, 23
+Acepromazine, 3. 5
+Atrial arrhythmias
+Dilliazem, 32, 36, 38. 51, 56, 60-63
+Acid-basc disturbances, 87. 116, 118,
+fibrillation, 26, 38, 60, 82, 84, 96. 99
+Calcium channel blockers/antagonists,
+Digitalis glycosides, 38, 47, 51, 56, 60.
+120,122,145
+futter, 6
+36, 38, 47, 51, 56, 60
+See also Digoxin
+Acidosis
+premature complexes, 46
+Calcium gluconute. 76. 78, 128
+Digoxin, 26, 29, 32. See aiso Digitalis
+mctabolic, 101, 110 116, 118, 120,
+tachycardia
+Cardiogenic failure, 37. See also
+glycosides
+122,145
+paroxysmal, 47
+Congestive heart failure, 37
+respiratory, 110, 118,120, 122.145
+Atrial fbrillation, 26, 38, 60, 82, 84, 96,
+Cardiomegaly, 25
+Echocardiogram, 16, 23, 32, 34, 44, 58
+Addison's disease, 76, 78
+99. See aiso Atrial arrhythmias
+Cardionyopathy
+Echocardiography.25,28,60
+Adenosine, 51, 56
+Atrial futter, 6. See ulso Airial
+canine
+Electrical altemans, 70, 71
+Analgesia, 101, 119, 120, 138, 144, 145
+arrhythmias
+Boxer, 44
+Electrolyte disturbanccs,114, 116, 118,
+Anemia, 87, 110, 114, 118, 120, 122
+Atrial premature complexcs. 46
+dilated, 28, 29, 32, 44, 56, 60
+120, 145
+Antiasrhythmic drugs
+Atrial standstill, 78, 99
+feline
+Enalapril,37,63.98
+adenosinc.51,56
+Atnial tachycardia, 56
+dilated,23
+Endoscopy, 14, 95
+beta blockers, 47, 51.56, 60, 66
+Atrioventricular (AV) block
+hypertrophic, 34. 36, 61. 63
+Enterotomy, 11
+atenolol, 32, 51, 53, 56, 60
+first-degree, 9, 18,103
+Cardiopulmonary resuscitation (CPR),
+Escape complex/rhythnl
+esmolol,51
+second-degree, 18, 47, 103
+135
+juuctional. 68, 78, 112. 139, 143
+calcium channel blockcrs/antagonists,
+third-degree, 16, 24, 29, 49, 52.62
+Central venous pressure, 99, 114
+ventricular, 4, 24, 49, 89, 124
+36,38,47, 51, 56, 60
+Atrioventricular dissociation, 89
+Cerebrsl blood flow, 91
+Esmolol,51
+diltiazem, 32,36, 38,51,56,60~63
+Atrioventricular (AV) node, 6, 26
+Chylous effusion, 23
+Esophageal ECG, 5
+verapamil, 38, 51, 56,60
+Atropine, 4, 8, 9, 18, 68, 91, 103, 112,
+Colloids, 87, 137, 138
+Excrcise intoletancc, 30,69
+digitalis glycosides, 38, 47, 51, 56, 60
+124,141,143
+Congestive heart Failre,29,38.See
+digoxin.26,29,32
+aiso cardiogenic failure
+Fludrocortisone acetate (Flurinef), 76
+lidocaine, 3,4, 24, 29, 31, 41, 43, 87,
+Beta blockers, 47, 51, 56, 60, 66
+Crystalloids, 87, 137
+Furosemide, 37,90
+89, 101, 114, 116, 120, 124, 137,
+Blood pressure
+Cushing's refex, 91, 103
+Fusion complexcs, 110, 120
+145
+indirect, 10, 95, 115
+magnesium sulfalc, 31
+doppler, 19, 86. 113, 121
+Desoxycorticosterone pivulate
+Gastric dilatation-volvulus (GIDV), 109,
+procainamide,31,32,43.114,116,
+Boxer cardiomyopathy, 44. See also
+(Percorten), 76
+115, 117,121
+120,124
+Cardiomyopathy
+ext1ose (50%), 76, 128
+Glasgow cona score, 90
+Artifact, 116, 141
+Bradycardia,4,9,18,89,91,103,124
+Diazepam, 8, 12, 14, 19, 91
+Glycopyrolatc, 4, 112
+Asthma, 104
+See also Sinus bradycardia
+Filated cardiomyopathy. See aiso
+Asystole, 68
+Bupivacaine, 123
+Cardiomyopathy
+Head trauma, 90
+147
+Hermacrhagic shock, 113
+Junctional premature complcxcs. 66
+Paccrraker
+Reperfusion injury, 1 10, 114, 118, 122
+pu
+Hctastarch, 90, 144
+Junctional tachycardia, 56, 66
+atrial,68
+Respiratory acidosis, I10, 1l8, 120,
+Hydtomorphane, 3, 4, 11, 12, 17, 18.
+ventricular,24,29,49, 52.62
+122, 145
+87,110,112,120,137
+Ketamine, 10, 12,91. 123, 145
+Pain, 87, 110, 114, 18, 120, 122, 134,
+Respiratory distress, 23, 33, 37,39,104,
+Hypercalcenaia, 26
+Ketonuria, 100
+137
+EEE
+Hyperglycemia, 100
+Parasyinpathetic,4,9, 18, 51,143
+Respiratory sinus arhythmia, 71, 112,
+Hyperkalemia, 76. 78, 128, 130
+Lidocaine, 3,4, 24, 29, 31, 41, 43. 87.
+Parasympatholytic agent, 4, 112
+139, 145
+Hypertension, 91, 103
+89, 101, I14,116, 120, 124, 137,
+Paroxysmal atrial tachycardia, 47
+Riglht bundle branch block, 66
+Hyperthcrmia,87
+145
+Paroxysmal junctional tachycardlia, 105
+Hlypertonic saline, 90,
+Paroxysmal supraventricular
+Sevoflurane,5
+Hypertroplhiccardionyopathy, 34. 36.
+Magnesium sulfate, 31
+tachycardia, 60, 66, 68
+Sinus afrest, 68, 91, 143
+61,63
+Mannitol, 90
+Paraxysmal ventricular tachycardia. 32,
+Sinus atrhythmias
+Hypokalemia, 29, 101, 110, 118. 120,
+Medetomidine, 17, 18
+116, 120, 145
+aTest, 68, 91, 143
+122,130,145
+Metabolic aciclosis, 10l, 110, 116, 118,
+Perfusion, 112, 120, 122
+bradycardia, 4, 9, 18, 89, 91, 105.
+Hypomagnesemta.110, 118,120,122,
+120, 122, 145
+Pericardial effusion, 70
+124
+130,145
+Mitral valve insufficiency, 37, 98
+Pericardial tamponade, 70
+respiratory, 71,112, 139,145
+Hypotension:74,16,87,100,101,113,
+Morphine, 87, 123, 138, 145
+Pericardiocentesis, 70, 71
+tachycarwia,11, 13,44,112, 116,
+114,116.137.144
+Multiforme premature ventricular
+Pleural effusion, 25, 39
+134,137
+Hypotensive resuscitation, 1 13
+complexes, 118, 137
+chylous, 23
+Sinus bradycardia,4,9, 18, 89. 91,105.
+Hypothermia, 82, 89, 136,143
+Multiforme ventricular tachycardia, 87,
+Pneumothorax, 34
+124
+Hypothyroidism, 82
+101, 114, 116, 135
+Preduisone, 103, 104
+Sinus tachycardia,11,13,44,112,116,
+Hypovolemia, 134
+Premature complexes
+134,137
+Hypoxemia, 116.134
+Naloxone,18
+atrial, 46
+Sotalol,32
+Hypoxia, 118, 122
+Nitroglycerine, 37
+inte1polated, 58
+Splenectomy, 113, 119
+Nodal tachycardia, 20
+junctional, 66
+Supraventricular tachycardia, 36, 38, 51
+Idioventricular rhythm, 128
+Normal simus rhythm, 6, 36, 51, 58, 110,
+ventricular, 11. 13.36, 51, 53, 58,
+paroxysmal.60,66,68
+Inflammatory bowel disease, 96
+122, 130, 141
+120,137
+Syncopal episodes, 28, 50, 63, 67.
+Insulin, 76, 128
+multifornc, 118, 137
+See also Syncope
+Interpolaterl premature ventricular
+Onychectomy,10
+Procainanide, 31,32, 43, 114,116,120,
+Syncope, 42, 48, 59. See afso Syncopal
+complexes,98
+Opioids
+124
+episodes
+Intracranial pressure, 91,03
+butorphanol, 5,8, 10, 14, 19, 91, 101,
+Propofol, 5,8, 14, 19
+Isoflurane, 8, 10-12, 14, 19, 20, 96
+119
+Palrmonary contusions, 134
+Tachycardlia
+Isorhythmic atrioventricular
+hydromorphone,3,4, 11.12, 17, 18,
+Puhmonary edema, 25, 37
+atrial,56
+dissociation, 20
+87,110, 112.120, 137
+Pyometra, 12
+paroxysnal,47
+morphine, 87, 123, 138, 145
+junctional,56,66
+Junctional escape complexes, 68,78.
+Ovariobysterectomy, 5, 8, 10
+R-on-T phenomena,29,32,87,101,
+paroxysmal, 105
+112, 139, 143
+Oxyglobin°, 113
+116, 120, 135
+sinus, 11, 13, 44, 112, 116, 134, 137
+148
+supraventricular.36, 38, 51,56, 66
+Transdermmal fentanyl, 123
+multiforme, 118, 137
+Ventricular tachycardia, 40, 41, 44, 74.
+paroxysmai,60,66.68
+tachycardia, 40, 41, 44, 75. 76
+76
+vcntricular, 40,41, 75,76
+Vagal maneuver, 51
+multiforme,87,101,114,116,135
+muitiforme,87,101,114,116,135
+multiforme,87,101,114,116,135
+Ventriculaur amhythumas, 20, 29, 32
+paroxysmal, 32, 116, 120, 145
+paroxysmal, 32, 116, 120, 145
+paroxysmal, 32, 116, 120
+bigeminy, 13
+sustained,31,43,64,114,135
+sustuined, 31,43,64, 114, 135
+sustaited, 31, 43, 64, 114
+Escape rhythm, 4,24,49, 89, 124
+Ventricular escape thythm, 4, 24, 49, 89,
+torsade de pointes, 31, 43
+Thoracocentesis, 23
+fibnillation, 54, 135
+124
+Verapamil, 38, 51, 56, 60
+Thoracotomy, 123
+premalure ventricular complexcs, 11.
+Ventricular fbrillalion, 54, 135
+Tursade de pointes, 31, 43
+13, 36, 51,53, 58, 120, 137
+?
+KTHIATPIKH
+EXCA
+BIBAIOCHKH
+149
+ECG Interpretation in the Critically ll Dog and Cat is a clinical reference on the diagnosis and management of
+arrhythmias occurring in critically ill canine and feline patients. Using a case-oriented approach, it provides
+This book details the types of case scenarios in which arrhythmias can occur, how these arrhythmias can be diagnosed,
+and what therapeutic interventions are available. The emphasis on the case scenario approach is perfcctly suited to
+veterinarians and veterinary techmicians dealing with emergency events in critically ill small animal patients.
+· 'The first book to cover arrhythmias caused by conditions outside the realm of cardiac disease
+● Innovative case-orientated approach, providing therapeutic and management options for the arrhythmia paticnt
+● An essential referencc text for all those involved with critically ill small animal patients
+About the Author:
+Dr. Thomas K. Day is a Diplomate, American College of Veterinary Anesthesiologists and College of Veterinary
+Emergency and Critical Care. He is a consultant for the Emergency Folder of the Veterinary Information Network
+IS8N0-8138-0901-0
+Blackwell
+Publishing
+7808
+A.1

@@ -1,0 +1,333 @@
+Case 14: West Highland White Terrier, 3 years, Male castrated
+病例14：西高地白梗，3岁，去势公犬
+Neutered approximately 6 days ago, vomiting, very painfultense
+abdomen, lethargic, currently on
+Carprofen（Rimadyl）6天前做去势手术，最近呕吐，腹部非常疼痛/紧张，嗜睡
+Case 15:LabradorRetriever,Male castrated,11years 病例15：拉布拉多，去势公犬
+Abdominal mass palpated during routine clinical examination
+在临床检查时可触诊到腹部肿块
+Case16:MiniaturePoodle,Female,5years病例16：迷你贵宾，母，5岁
+Pregnancy check孕检
+Case 17:Cross breed dog,Female,9 years 病例17:杂种犬,母，9岁
+Hematuria,pollakiuria 尿血，尿频
+Case18:Dog,Collie,Female,9years 病例18:柯利犬，母，9岁
+Depressed, abdominal distension, labored breathing tonight
+沉郁，腹部膨胀，呼吸谨慎
+Case 19: Dog, Mixed breed, Male castrated, 3 years 病例19: 杂种犬,去势,3岁
+Depressed,vomitingfor 48hrs 近48小时沉郁，呕吐
+Case 20:Dog,Pit Bull, Female,10 years 病例20:犬,母,10岁
+Anorexia,PUPD，Vomiting,Dehydrated食欲减退，多饮多尿，呕吐，脱水
+Case 14: West Highland White Terrier,
+3years, Male castrated
+病例14：西高地白梗，3岁，去势公犬
+Neutered approximately 6 days ago, vomiting, very painful/tense
+abdomen, lethargic, currently on
+Carprofen（Rimadyl）6天前做去势手术
+最近呕吐，腹部非常疼痛/紧张，嗜睡
+R
+WestHighland WhiteTerrier,
+3years,Malecastrated
+ Loss of detail in the ventral abdomen
+腹部腹侧影像细节消失
+H
+West Highland White Terrier,
+3 years, Male castrated
+Do you see the difference ?
+·看到差别了吗？
+WestHighlandWhiteTerrier,
+3years,Malecastrated
+What is responsible for the abdominal contrast in normal dogs ?
+在正常犬形成腹部对比的主要因素？
+Fat#
+脂肪
+WestHighlandWhiteTerrier,
+3 years, Male castrated
+Lossofabdominalserosaldetail：无腹部浆膜影像
+-Nofat没有脂肪
+-Young dog幼犬
+一Abdominalfluid腹水
+-Peritonitis腹膜炎
+-Carcinomatosis癌扩散
+一Largeabdominalmass腹腔大肿瘤
+West Highland White Terrier,
+3 years, Male castrated
+Anything else ?
+?有没有其它的？
+H
+West Highland White Terrier,
+3 years, Male castrated
+Anythingelse？其它?
+West Highland White Terrier,
+3 years, Male castrated
+Pneumoabdomen气腹
+WestHighland WhiteTerrier,
+3years,Malecastrated
+CausesofPneumoabdomen？气腹的原因?
+-Recentabdominalsurgery近期腹腔手术
+-Penetratingwound穿透性损伤
+-Ruptureofaholloworgan中空脏器的破裂
+WestHighland White Terrier,
+3 years, Male castrated
+Abdominal effusion or peritonitis
+腹部渗出或腹膜炎
+Pneumoabdomen
+气腹
+Pneumoabdomen and peritonitis due to
+rupture of a hollow organ, most likely a
+nerforatino oastric mlcer
+Case 15: Labrador Retriever, Male castrated,
+11years病例15：拉布拉多，去势公犬
+Abdominal mass palpated during routine clinical
+examination在临床检查时可触诊到腹部肿块
+Labrador Retriever, Male
+castrated, 11 years
+Questions ?
+问题？
+LabradorRetriever,Male
+castrated,11 years
+Isthemassvisible？肿块可见吗？
+Whichorganisitcomingfrom？来源于哪个脏器？
+What is the nature of the mass ?
+肿块的性质？
+Labrador Retriever, Male
+castrated,
+111
+years
+Location？位置
+Abdominal structures displaced ?
+腹部脏器移位？
+Labrador Retriever, Male
+castrated, 11 years
+Location？位置
+Abdominal structures displaced ?
+腹部脏器移位？
+Labrador Retriever, Male
+castrated, 11 years
+Splenic mass
+脾肿块
+Labrador Retriever, Male
+castrated,
+111years
+What is next?下一步?
+-Thoracicradiographs胸腔摄片检查
+-Abdominalultrasonography腹部B超
+-Cardiacultrasonography心脏B超
+Case 16: Miniature Poodle, Female, 5 years
+病例16：迷你贵宾，母，5岁
+Pregnancy check
+孕检
+Miniature Poodle,
+Female,
+ 5 years
+How many puppies ?
+多少条幼犬
+MiniaturePoodle,
+Female,
+5years
+Best time to take radiographs for pregnancy
+check？怀孕的最佳放射线检查时间？
+55days
+55天
+MiniaturePoodle
+Female,
+.5 years
+Are the puppies alive ?
+幼犬还活着吗？
+MiniaturePoodle
+Female,
+ 5 years
+Signs of fetal death
+死胎的征象
+一Abnormalposition位置异常
+- Overriding of skull bones
+一颅骨重叠
+- Gas in fetus
+一胎儿产气
+Radiology versus
+Ultrasonography
+放射线检查和超声检查的比较
+·Radiology放射线
+Ultrasonography 超声
+- Good for counting
+g易数数
+- Good for early
+. Good for assessment of
+pelvic inlet obstruction
+diagnosis
+易诊断骨盆口阻塞
+一易于早起诊断
+ Assessment of fetal death
+评价死胎
+- Assessment of fetal life
+INGMED
+Case 17: Cross breed dog.
+.Female,
+9years
+病例17：杂种犬，母，9岁
+Hematuria, pollakiuria
+尿血，尿频
+Cross breed dog,
+Female,
+9years
+Why take survey radiographs before
+contrast study ?
+为什么在造影前要拍X光片？
+Cross breed dog,
+Female,
+9 years
+Why take survey radiographs before
+contrast study ?
+为什么在造影前要拍X光片？
+Check patient preparation
+看动物的准备情况
+Check technique技术核查
+确定
+Confirm indication
+Find contra-indication有无禁忌
+Make a pre-contrast reference
+做造影前的对照
+Cross breed dog.
+Female,
+vears
+What kind of study is this ?
+这是什么类型的检查？
+Vagino-urethrography阴道尿道造影
+Cross breed dog.
+Female,
+years
+Normal study 正常
+Cross breed dog,
+Female,
+years
+Severe irregularity of the
+urethral mucosa
+尿道粘膜极不规则
+Urethral tumor
+尿道肿瘤
+Case 18: Dog, Collie, Female,
+.9years
+病例18：柯利犬，母，9岁
+Depressed, abdominal distension,
+labored breathing tonight
+沉郁，
+腹部膨胀，呼吸谨慎
+Dog.
+.Collie, Female, 9 years
+Gastricposition胃的位置
+GastricDilatation
+Volvulus
+胃扭转扩张
+Bestseen onrightlateralview右侧卧位最佳
+Reverse C shape
+倒C形
+Compartimentalization 分隔
+“Doublebubbleequaltrouble”2个气泡等于麻烦
+Dog.
+Collie, Female,
+.9years
+Gastricwall？胃壁?
+Dog,
+Collie,Female,
+9years
+Pneumatosis=gastricwall necrosis气肿=胃壁溃疡
+Dog.
+Collie, Female, 9 years
+Gastric dilatation volvulus
+胃扭转扩张
+Gastric wall necrosis
+胃壁
+Case 19: Dog, Mixed breed, Male castrated,
+3years病例19：杂种犬，去势，3岁
+. Depressed, vomiting for 48 hrs
+近48小时沉郁，呕吐
+Dog.
+Mixed breed
+Male castrated,
+1. 3 years
+Dilated intestinal segment
+肠段扩张
+Dog.
+Mixedbreed,
+Male castrated,
+. 3 years
+Options？选项？
+-- Repeat survey after 8-12 hrs
+-8一12小时候重新摄片
+- Barium series f
+钡造影
+ Barium enema 
+钡灌肠
+-Ultrasonography B超
+-Surgery手术
+Dog,
+Mixedbreed,
+Malecastrated,3j
+vears
+Progression of contrastmedium进行造影
+Dog,
+Mixedbreed,
+Male castrated, 3
+vears
+Progression of contrastmedium 进行造影
+Mucosalborder粘膜边缘
+Fillingdefect充盈缺损
+Sizeofintestinalloops肠段大小
+Dog,
+Mixedbreed,
+Male castrated, 3
+vears
+Intraluminalfillingdefect腔内充盈缺损
+Dog,
+Mixedbreed,
+Male castrated, 3
+vears
+Intraluminalfillingdefect腔内充盈缺损
+Dog.
+Mixedbreed,
+Male castrated, 3
+vears
+Intestinal foreign body肠内异物
+Case 20: Dog.
+.Pit Bull, Female,10 years
+病例20：犬，母，10岁
+Anorexia, PUPD, Vomiting, Dehydrated
+食欲减退，多饮多尿，呕吐，脱水
+Dog.
+PitBull,Female,
+10 years
+Fluid filled tubular structure in the caudo-ventral
+abdomen在腹后部有充满液体的管状结构
+Intestine ?
+肠管？
+Uterus ?
+子宫？
+Dog.
+Pit Bull, Female,
+.10years
+Location
+位置
+Content
+内容物
+Size大小
+Dog.
+PitBull,Female,
+10 years
+Fluid filled uterus充满液体的子宫
+Pyometra
+子宫畜脓
+Mucometra
+黏液积聚
+Pregnancy
+怀孕
+Diagnosis of Pyometra
+子宫畜脓的诊断
+Radiology
+Ultrasonography
+放射线拍摄
+B超检查
+6：
+VINGMED
+mage
+UTERUS
+ECG
+Releclur

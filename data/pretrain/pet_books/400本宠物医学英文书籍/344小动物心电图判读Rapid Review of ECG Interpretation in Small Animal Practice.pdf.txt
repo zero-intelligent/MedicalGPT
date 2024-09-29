@@ -1,0 +1,2673 @@
+RAPIDIREVIEW
+ECG interpretation
+in small animal practice
+MARK A. OYAMA
+MARC S. KRAUS
+ANNA R. GELZER
+CRC Press
+Taylor & Francis Group
+Rapid Review
+ECG Interpretation In
+Small Animal Practice
+小尾巴宠物健康中心
+http://ttahc.taobao.co m
+This page intentionally left blank
+Rapid Review
+ECGI
+Interpretation
+Small Animal
+IPractice
+Mark A. Oyama
+DVM
+Professor
+Department of Clinical Studies
+Matthew J. Ryan Veterinary Hospital
+University of Pennsylvania
+Philadelphia, PA, USA
+Marc S. Kraus
+DVM
+Senior Lecturer
+College of Veterinary Medicine
+Cornell University
+ Department of Clinical Sciences
+Ithaca, NY, USA
+Anna R. Gelzer
+Dr. med. vet., PhD
+Heart & Rhythm Veterinary Specialists
+Ithaca, NY, USA
+CRC Press
+CRC
+Taylor & Francis Group
+ Boca Ratlon London New York
+CRC Press is an imprint of the
+Taylor & Hrancis Group, an informa business
+CRC Press
+Taylor&Francis Group
+6000 Broken Sound Park way N W, Suite 300
+Boca Raton, FL 33487-2742
+@ 2014 by Taylor & Francis Group, LLC
+CRC Press is an imprint of Taylor & Francis Group, an Informa business
+No claim to original U.S. Govern ment works
+Version Date: 20131028
+International Standard Book Number-13: 978-1-84076-654-7 (eBook - PDF)
+This book contains information obtained from authentic and highly regarded sources. While all reasonable efforts have been made to publish reliable
+data and information, neither the author[s] nor the publisher can accept any legal responsibility or liability for any errors or omissions that may be
+made. The publishers wish to make clear that any views or opinions expressed in this book by individual editors, authors or contributors are personal
+to them and do not necessarily reflect the views/opinions of the publishers. The information or guidance contained in this book is intended for use
+un huaant umo s euissajod auo n lea a on suaaddns e se As papiaod si pue seissad ae-ayao syais eia aq
+knowledge of the patient's medical history, relevant manufacturer's instructions and the appropriate best practice guidelines. Because of the rapid
+urged to consultthe drug companies' printedinstructions, and their websites, before administering any of the drugs recommended in this book. This
+book does not indicate whether a particular treatment is appropriate or suitable for a particular individual.Ultimately it is the sole responsibility of
+the medical professional to make his or her own professional judgements, so as to advise and treat patients appropriately.The authors and publishers
+have also attempted to trace the copyright holders of all material reproduced in this publication and apologize to copyright holders if permission to
+publish in this form has not been obtained. If any copyright material has not been acknowledged please write and let us know so we may rectify in any
+future reprint.
+Except as permitted under U.s. Copyright Law, no part of this book may be reprinted, reproduced, transmitted, or utilized in any form by any elec-
+tronic, mechanical, or other means, now known orhereafter invented, including photocopying, microfilming, and recording, or in any information
+storage or retrieval system, without written permission from the publishers.
+For permission to photocopy or use material electronically from this work, please access www.copyright.com (http:/www.copyright.com/) or contact
+the Copyright Clearance Center, Inc. (CCC), 222 Rosewood Drive, Danvers, MA 01923, 978-750-8400. CCC is a not-for-profit organization that pro-
+vides licenses and registration for a variety of users. For organizations that have been granted a photocopy licen se by the CCC, a separate system of
+payment has been arranged.
+uoeuedxa pue uoeoyuap! ioj Auo pasn ane pue syieuapenn paaisiea io syieuapenn aq Aeu saueu aneodios no ponpoia aoon yiemape
+without intent to infringe.
+Visit the Taylor & Francis Web site at
+http://www.taylorandfrancis.com
+and the CRC Press Web site at
+http://www.crcpress.com
+CONTENTS
+Preface
+Abbreviationis
+Section 1 Principles of Electrocardiography
+Section 2 Evaluation of the Electrocardiogram
+Section 3 Approach to Evaluating Arrhythmias
+27
+ECG Cases
+35
+Index
+93
+PREFACE
+Clinicians can choose from many different cardiac
+ the subject. Following a brief consideration of the
+diagnostic tests when assessing dogs and cats 
+ theoretical basis of the ECG, a systematic approach
+with heart disease. Many of these modalities,
+ to interpretation is presented in the introductory
+such as thoracic radiography, are widely used and
+ chapters. Included are several flow charts that
+ modalities such as echocardiography as well as new
+ will help users to diagnose arrhythmias with more
+cardiac blood and biomarker tests are increasingly
+confidence. These sections cover determination of
+available. Notwithstanding the availability of these
+heart rate, measurement of intervals, derivation
+ and other tests, the standard electrocardiogram 
+of the mean electrical axis, criteria for atrial
+{ECG) is an indispensable part of cardiac medicine.
+and
+ventricular enlargement or hypertrophy,
+It can be obtained easily, rapidly, and inexpensively.
+intraventricular conduction disturbances, and both
+and with little to no risk to the patient. Results can
+normal and abnormal cardiac rhythms. The second
+be interpreted in real time and its format lends itself 
+ part of the book contains a comprehensive collection
+to easy electronic transmission should consultation
+asn o Asea ue ui shue1 DoH pue saseo lea1 jo
+with a remote specialist be desired. The ECG is the
+format. The cases cover the common arrhythmias
+gold standard for assessment of cardiac rhythm
+encountered in small animal medicine, and will
+disturbances, and a sound working knowledge of
+help develop the necessary skills to assess the ECG
+ ECG principles is needed for proper interpretation.
+ quickly and accurately in both the dog and the cat.
+Most  veterinarians  have some experience 
+in
+We hope that you find this book useful and that it
+ECG interpretation, but many still feel uncertain
+makes interpretation of the ECG an enjoyable and
+about their ability in this respect. ECG textbooks
+ productive endeavor.
+are often lengthy, detailed, and not intended
+for immediate clinical application. This book is
+Mark A. Oyama
+designed with the general practitioner in mind, and
+ Marc S. Kraus
+ presented as a concise and practical overview of
+ Anna R. Gelzer
+ABBREVATIONS
+AC
+ alternating current
+LAFB
+left anterior fascicular block
+AF
+ atrial fibrillation
+LBBB
+left bundle branch block
+AFL
+ atrial flutter
+MEA
+ mean electrical axis
+AP
+ accessory pathway
+RBBB
+right bundle branch block
+ARVC
+ arrhythmogenic right ventricular
+SA
+sinoatrial
+cardiomyopathy
+SB
+sinus bradycardia
+ATP
+adenosine triphosphate
+SSS
+sick sinus syndrome
+AV
+atrioventricular
+SVA
+ supra ventricular arrhythmia
+AVRT
+atrioventricular re-entrant tachycardia
+SVT
+ supra ventricular tachycardia
+cTnI
+cardiac troponin
+VF
+ventricular fibrillation
+ECG
+electrocardiography/electrocardiogram
+VPC
+ventricular premature contraction
+FAT
+focal atrial tachycardia
+VT
+ventricular tachycardia
+ICU
+Intensive Care Unit
+Section 1
+PRINCIPLES OF
+ELECTROCARDIOGRAPHV
+The electrocardiogram (ECG) is a graphical record
+ECG LEAD TERMINOLOGY
+of electric potentials generated by the heart muscle 
+In order to record an ECG waveform, a differential
+during each cardiac cycle. These potentials are
+recording is made between two electrodes, placed
+detected on the surface of the body using electrodes
+on different points on the body. One of the
+attached to the limbs and chest wall, and are then
+electrodes is labeled positive, and the other negative.
+amplified by the electrocardiograph machine and
+The positions of the electrodes on the body are
+displayed on special graph paper in voltage and
+standardized (Fig. 1.1) and defined as RA = right
+time. The ECG serves to characterize arrhythmias
+arm, LA = left arm, and LL = left leg. The output
+and conduction disturbances.
+from each electrode pair (differential recording) is
+referred to as a lead and numbered with the Roman
+INDICATIONS FOR ECG RECORDINGS
+numerals I, II, and III. These leads are called limb
+· Evaluating arrhythmias and heart rate
+leads.
+disturbances detected on auscultation.
+· History of syncope (fainting) or episodic
+weakness.
+Cardiac monitoring during anesthesia.
+· Cardiac monitoring in critically ill patients.
+· Monitoring changes in rate and rhythm due to
+ drug administration.
+Assessing changes in ECG morphology and
+ heart rate due to electrolyte imbalances
+ associated with extracardiac disease or drug
+toxicities.
+· In addition, the ECG may also be helpful to
+identify anatomical changes due to myocardial
+hypertrophy or dilation, and detect pericardial
+disease. However, echocardiography has largely
+replaced the ECG for these indications due to its
+RA
+superior sensitivity.
+I= LA-RA
+II =LL - RA
+III=LL-LA
+Fig. 1.1 The standardized positions of the electrodes
+on the body are defined as RA = right arm, LA =
+left arm, and LL = left leg. The output from each
+electrode pair is referred to as a lead and numbered
+with the Roman numerals I, Il, and Ill.
+9
+Principles of Electrocardiography
+The limb leads form the points of what is known as
+THE LIMB LEADS
+Einthoven's triangle (Fig. 1.2). The positive pole for
+There are six limb leads which assess the cardiac
+lead I is on the left arm, the positive pole for lead
+depolarization in the frontal plane. A modified
+ Ill peal ro alod ansod aui pue bal yal aui uo 1
+version of the frontal plane in the dog is shown in
+is on the left leg. An imaginary line connecting the 
+Figure 1.3. Leads I, II, and II directly record the
+two electrodes is the lead axis. Each lead looks at 
+electrical activity between two limb electrodes ( Table
+the heart from a different angle within the animal's
+1.1) and are thus referred to as bipolar limb leads.
+frontal plane. There are 12 standard ECG leads used
+The unipolar (augmented) limb leads use the same
+in veterinary medicine, which provide information 
+electrodes as lead I, II, and IIl, and also measure
+regarding the magnitude of the electrical activity
+the electrical activity between two terminals, but
+of the heart and the direction of a moving
+the recording electrode is always positive and the
+depolarization wavefront in multiple orientations.
+negative terminal is made up of the sum of the
+A wavefront traveling towards the positive terminal
+electrodes attached to the right arm, left arm, and
+of a lead results in a positive deflection of the ECG
+left leg (Fig. 1.4). These limb leads are named after
+in that lead. When a wavefront travels away from
+their positive electrode, located on the Left arm
+the positive electrode, a negative deflection occurs.
+(aVL), the Right arm (aVR), and the left Foot (aVF),
+A lead axis in parallel to the direction a wavefront
+where the ‘a’ stands for augmented, and V' stands
+is moving results in a large deflection, while a lead
+for vector (Fig. 1.5 ). Together with leads I, II, and III,
+axis perpendicular to the direction of a moving 
+augmented limb leads aVR, aVL, and aVF form the
+wavefront results in a small (or no) deflection on
+basis of the bexaxial reference system, which is used
+the ECG.
+to calculate the heart's electrical axis in the frontal
+ plane. The positive and negative terminals of the six
+limb leads are listed in Table 1.1.
+Transverse
+RA
+A
+4
+rontal
+Fig. 1.3 The limb leads display the cardiac
+Fig. 1.2 The limb leads (l. Il, Ill) form the
+depolarization in the frontal plane. The chest leads
+Einthoven's triangle.
+display the depolarization in the transverse plane.
+10
+Principles of Electrocardiography
+Table 1.1 The positive and negative terminals of the six ECG limb leads
+Augmented 
+Bipolar
+unipolar limb
+limb leads
+leads
+R arm {-} to L arm {+}
+aVR
+R arm ({+} to common terminal {-}
+R arm {-} to L foot {+}
+aVL
+L arm {+} to common terminal {-}
+三
+L arm {-} to L foot {+}
+aVF
+L foot (+) to common terminal {-}
+Fig. 1.4 The augmented
+{unipolar) limb leads
+use the same electrodes
+RA
+as lead I, Il, Ill, but the
+recording electrode is
+ always positive and 
+the negative terminal is
+made up of the sum of 
+the electrodes attached
+to the right arm, left arm.
+ and left leg.
+2LA-RA -LL
+→aVL =
+2
+RL
+Augmented
+limb
+→aVR：
+2RA - LA - LL
+leads
+2
+→aVF = 2LL - LA - RA
+2
+Fig. 1.5 The augmented
+limb leads are named
+after their positive
+electrode, located on the
+Left arm {aVL), the Right
+RA
+A
+arm (aVR), and the left
+④：
+?
+Foot (aVF), where the 'a'
+stands for augmented.
+and 'v' stands for vector.
+11
+Principles of Electrocardiography
+THE PRECORDIAL OR CHEST LEADS
+GENESIS OF THE NORMAL ECG
+(V LEADS)
+The ECG waveforms are generated by the spread of
+The chest leads view the heart's electrical activity
+activation of cardiac action potentials through the
+in the transverse plane (see Fig. 1.3 p.10). This
+specialized electrical conduction system of the heart,
+complements the information regarding the electrical
+as well as the atrial and ventricular myocytes. The
+fields gained from the six limb leads. The chest leads
+specialized conduction system consists of the sinus
+are termed V (voltage) leads. They are considered
+node, internodal tracts, the atrioventricular (AV)
+to be unipolar with the positive exploring electrode
+node, the bundle of His, which divides into the two
+placed on the chest (precordium). The electrodes
+main bundle branches, and the Purkinje fibers (Fig.
+for the chest leads (V1, V2, V3, V4, V5, and V6)
+1.7). Organized electrical activity passing along this
+are placed directly on the chest (Fig. 1.6). In dogs,
+specialized conduction system results in co-ordinated
+V1 is placed in the 5th right intercostal space just
+mechanical contraction during each cardiac cycle.
+to the right of the sternum, V6 is placed in the left
+The sinoatrial (SA) and AV node cells have the
+6th intercostal space at the costochondral junction,
+intrinsic ability to fre spontaneously (automaticity).
+while V2-V5 are spaced equally between V1 and
+Normal atrial or ventricular myocytes do not
+V6 in the 6th intercostal space on the left side. Left
+spontaneously depolarize. The SA node normally
+chest leads may be more sensitive than the limb
+dictates the heart rate because the SA nodal cells
+leads for detection of right ventricular enlargement
+have a faster rate of spontaneous depolarization than
+or allow better identification of P waves.
+the AV nodal or Purkinje fbers. The actual action
+Fig. 1.6 The unipolar
+chest leads {V =
+voltage) leads are
+placed directly on the
+chest (precordium).
+Equidstant
+6
+RA
+V4
+V3
+√1
+V2
+A
+12
+Principles of Electrocardiography
+ potential generated by the SA nodal cells (pacemaker 
+relatively isoelectric segment following the P wave,
+ potentials) are too small be seen on the surface ECG.
+contributing to the PR interval. When the electrical
+However, as the activation wa vefront encounters the
+impulse emerges from the AV node and enters
+mass of atrial myocardium, the initiation of electrical
+the His-Purkinje network, conduction velocity
+activity is observed on the body surface. Thus, the
+dramatically increases once again. The bundle of His
+frst ECG wave of the cardiac cycle is called the P
+divides into the right and left bundle branches that
+wave and represents activation of the atria. Atrial
+depolarize the right and left ventricles, respectively.
+repolarization is rarely appreciated on the ECG, as it
+The left branch further divides into the anterior and
+occurs simultaneously with ventricular depolarization
+posterior fascicule. Once the large muscle mass of
+and is thus hidden in the QRS complex.
+the ventricles is excited, a large deflection is seen
+Conduction of the cardiac impulse proceeds from
+on the body surface, called the QRS complex. This
+the SA node through the atria via the specialized
+large wave can have several components. In lead
+conduction system of the internodal tracts to the
+II, there may be an initial downward deflection,
+AV node. When the activation wave reaches the
+called the Q wave, followed by a dominant upward
+AV node, conductions slows markedly, due to the
+deflection called the R wave. There may also be a
+slow depolarization characteristics of the AV nodal
+terminal downward deflection, called the S wave.
+cells. This provides time between the mechanical
+The polarity and actual presence of these three
+contraction of the atria and the ventricles. On the
+components depend on the lead examined.
+surface ECG, this conduction delay produces a short,
+Fig. 1.7 The
+specialized cardiac
+conduction system.
+Internodal tracts
+Sinoatrial 
+(SA) node
+Left atrium
+Right atrium 
+Atrioventricular
+[AV} node
+Bundle
+of His
+Left ventricle
+Right ventricle
+Right bundle.
+Left bundle
+branch
+branch
+13
+Principles of Electrocardiography
+Following the QRS complex is another short,
+ or other electrical equipment in the room. The ECG
+relatively isoelectric segment, the ST segment.
+reference ground is provided through a separate
+During this time period, the ventricles are absolutely
+electrode, either incorporated into one of the three
+refractory, i.e. cannot respond to another electrical
+limb leads, or as a separate wire.
+activation. After this short segment, the ventricles
+To record an ECG, the animal should be placed
+return to their electrical resting state, and a wave
+ on its right side with the limbs perpendicular to the
+of repolarization is seen as a low-frequency signal,
+body. The animal must be physically connected to
+the T wave. During the T wave, the ventricles are
+the amplifier front end of the cables, by attaching
+only relatively refractory, and may be stimulated
+ alligator clips or patch electrodes to the skin. These
+by a premature electrical activation. The duration
+electrodes require alcohol ('wetting of the skin') or
+of time from the start of the QRS complex to
+ a gel with a high ionic concentration, which acts as
+the end of the T wave is the QT interval which
+the transducer at the tissue-electrode interface. The
+represents the entire ventricular depolarization and
+size of the ECG waveform deflections depends on the
+repolarization.
+distance between the heart and the electrode position.
+In dogs and cats, the limb leads are attached to the
+TECHNICAL ASPECTS OF ECG
+elbows and stifles, and color coded to identify their
+ACQUISITION
+position. Table 1.2 lists the electrode positions.
+The standard ECG recording systems record
+ Besides the standard 6- or 12-lead ECG, there are
+an analog signal and use a heated stylus which
+several other uses of ECG recording technology that
+ records on light-sensitive graph paper. Older-style
+rely on only a few leads. Continuous monitoring
+ECG machines recorded one lead at a time while
+under anesthesia or in the Intensive Care Unit
+more recent digital systems, which record
+l the
+(ICU) using an integrated physiorecording system
+ECG on a computer, allow any combination of
+for blood pressure, oxygen saturation, and so on,
+simultaneous 6- or 12-lead recordings. The ECG
+typically record only one lead. The ambulatory or
+machine typically applies a flter to reduce baseline
+Holter ECG is an important technology for long-
+artifact. A S0 Hz flter may be adequate in dogs.
+term monitoring of patients allowing detection and
+but in cats it is best to use a 150 Hz flter in order
+ quantification of intermittent arrhythmias. Holters 
+to include high-frequency components of the R
+ record a two or three lead ECG digitally for up to 7
+ and S wave. Proper grounding is important to
+days. The data can then be stored and analyzed on-
+ avoid electrical interference from 60 Hz alternating
+line with personal computer-based programs.
+ current (AC) originating from the electrical supply
+Table 1.2 Electrode position for ECG recording
+in dogs and cats
+ECG electrode
+Position
+Black
+Left front leg at elbow
+White
+Right front leg at elbow
+Red
+Left back leg at stifle
+Green
+Right back leg at stifle
+14
+Principles of Electrocardiography
+The cardiac conduction system and components of the P-QRS-T complex
+Through a complex change of ionic concentrations across the cell membrane, an extracellular potential
+field is established which then excites neighboring cells, and a cell-to-cell propagation of electrical events
+occurs. Because the body acts as a purely resistive medium, these potential fields extend to the body
+surface. The character of the body surface waves as seen on the EcG depends on the amount of tissue
+activated at one time and the relative speed and direction of the activation wavefront. The 12 ECG leads
+provide information about the magnitude of the electrical activity of the heart and the direction of the
+moving depolarization wavefront in multiple orientations. A wavefront traveling towards the positive
+away from the positive electrode, a negative deflection occurs. A lead axis in parallel to the direction
+a wavefront is moving results in a large deflection, while a lead axis perpendicular to the direction of a
+moving wavefront results in a small (or no) deflection on the ECG.
+An early pioneer of the ECG, Einthoven chose the letters of the alphabet 'PQRST' to avoid conflict with
+other physiological waves being studied at about the same time. The wavefront initiated by the sinus
+node, located at junction of the cranial vena cava and the right atrium, depolarizes the atria from right to
+left and cranial to caudal. This results in a small, upright P wave in the caudal leads I, Il,Ill, and aVF, while
+in lead ll, because the average vector of the atrial depolarization is traveling towards the positive terminal
+of lead Il, while the P is almost invisible in leads which are oriented perpendicular to lead Il (aVL). While
+the impulse conducts slowly through the AV node and enters the bundle of His and spreads down into
+the bundle branches and to the Purkinje fibers, the ECG displays an isoelectric (baseline) line in all leads.
+These conduction tissues are 'insulated' so that the action potential travels mostly intracellular and does
+Once the impulse reaches the ventricular myocardium, it spreads into the interventricular septum
+and then across both ventricles, producing the QRS complex on the surface ECG. The initial vector of
+jo alod aalsod aut woiy Aeme s! teun 'tuby aul oi pue Ajejuenn juiod uen wnidas aul ou! uogezjejodap
+lead ll, producing the small negative deflection of the Q wave. Not all dogs and cats display Q waves.
+depending on the position of the heart in the chest. Because the muscle mass of the left ventricle exceeds
+that of the right ventricle, the summation of all vectors of ventricular depolarization point toward the left
+side and caudally. i.e. the positive terminal of lead ll, resulting in the large, positive deflection of the R
+ae pue 'l 'll 'll speal lpner lle Aewou ina 'apnidwe aam y isael aut smous Alleoii ll pea] 'aaem
+will depict a positive R wave. The final phase of ventricular depolarization includes the heart base, such
+Not all dogs and cats display Q waves or S waves as the presence of these waves depends somewhat on
+the horizontal position of the heart in the chest.
+process that starts at the epicardium and the ventricular apex, and ends at the endocardium and heart
+amplitude T wave in lead ll. It can be a positive or negative deflection in dogs, or nearly isoelectric in cats.
+15
+Principles of Electrocardiography
+Electrical properties of the heart
+Two types of action potentials are observed in the heart: The fast response action potential occurs in the
+normal atrial and ventricular myocardium and in the Purkinje fibers (Fig. 1.8A), while the slow response
+action potential (Fig. 1.8B) is found in the SA node, the pacemaker region of the heart, and in the AV node.
+the specialized tissue that conducts the cardiac impulse from atria to the ventricles (see Fig. 1.7 p. 13).
+The various phases of the action potential (Fig. 1.8) are associated with changes in the permeability of the
+cell membrane, mainly to positively charged sodium (Na+), potassium (K+), and calcium (Ca2+) ions. This is
+accomplished by opening and closing of voltage-dependent ion channels in the cell membrane, selective
+across the cell membranes (resting membrane potential) such that the inside is negative with respect to
+the outside of the cells. This negative intracellular potential is maintained by Na+ channels, which extrude
+Na+ ions from the cell. When an action potential from a neighboring cell arrives, it reduces the resting
+potential to a threshold (i.e. makes it less negative) resulting in an abrupt increase in permeability of the
+ Na+ channels, allowing Na+ ions to rush into the cell and depolarize it. The rapid depolarization (upstroke of
+fast response action potential), that ensues once the cell reaches a voltage threshold corresponds to Phase 
+0. The membrane potential is thus reversed or positive. Once a cell is depolarized, it cannot be depolarized
+again, until the ionic fluxes that occur during depolarization are reversed, a process called repolarization.
+The repolarization of the cardiac cells roughly corresponds to phases 1 through 3 of the action potential.
+Phase 1 consists of a brief rapid repolarization, initiated at the end of the action potential upstroke, as the
+ Na+ channels inactivate and the K+ channels transiently allow outwards current. Phase 1 is interrupted
+when the cell reaches the 'plateau phase' or phase 2, maintained by a slow Ca?+ influx. The transmembrane
+ current of Ca2+ initiates the mechanical contraction of the heart. During the plateau, repolarization slowly
+progresses, until the Ca?+ channels are turned off and eventually a final rapid repolarization (phase 3)
+ensues, via an outward K+ current. Because a second depolarization cannot happen until repolarization 
+occurs, the time from the end of phase 0 to late in phase 3 is called the refractory period. Phase 4 is the
+resting membrane potential. This is the period that the cell remains in until it is stimulated again by an
+extemal electrical stimulus (typically an action potential from an adjacent cell).
+Cells from the SA node and the AV node (Fig. 1.8B) have a lower resting membrane potential which
+becomes gradually more positive during diastole (phase 4) because of steady influx of calcium through
+slow Ca2+ channels, eventually resulting in spontaneous depolarization. The slow influx of Ca2+ produces 
+the slow upstroke velocity (s/ow response action potential) in the SA and AV nodal cells.
+A
+B
++50
+-50
+Thres hold
+0
+potential
+100L
+Resting
+potential
+Fig. 1.8 Action potentials of the heart and generation of the surface ECG. The fast response action
+action potential (graph B) is found in the sinoatrial and atrioventricular nodes.
+16
+Section 2
+EVALUATION OFTHE
+ELECTROCARDIOGRAM
+Evaluation of the ECG is best performed
+ of squares and performing a few easy calculations
+using a systematic approach so that important
+to convert each value to either seconds or millivolts,
+characteristics are not overlooked.  Important
+respectively.
+features that require analysis include heart rate,
+rhythm, mean electrical axis (MEA), waveform
+morphology, and criteria for heart enlargement.
+This section will provide a step-by-step guide on
+how to evaluate each of these features, but first, one
+must understand how paper speed and sensitivity
+settings affect ECG interpretation.
+ECG PAPER, SENSITIVITY, AND SPEED
+OF RECORDING
+ECG paper has a background pattern of 1 mm
+squares and bold division lines every 5 mm in both
+horizontal and vertical directions (large squares).
+The ECG is typically recorded at one of two different
+paper speeds, either 25 mm/s or 50 mm/s. Paper
+ speed denotes the speed at which the paper moves
+through the ECG machine while the waveforms
+Paper speed:
+Sensitivity:
+are being recorded. At 25 mm/s, each 1 mm square
+25 mm/s
+10 mm/mV
+represents 0.04 seconds and each 5 mm square
+50 mm/s
+ represents 0.2 seconds, while at 50 mm/s, each 1 mm
+square represents 0.02 seconds and each 5 mm square
+0.2 s
+ represents 0.1 seconds (Fig. 2.1).
+0.1 s
+ECG sensitivity refers to the amplitude of the
+waveforms based on electrical voltage. At standard
+0.04 s
+sensitivity, an impulse of 1 millivolt (mV) will inscribe
+0.02 5
+a waveform amplitude that is 10 mm tall (Fig. 2.1).
+4++
+1 mV
+In cases where the ECG voltages are low (i.e. in cats),
+sensitivity can be increased (doubled) so that an
+impulse of 0.5 mV will create a waveform of 10 mm
+0.1 mV
+ amplitude, thereby allowing easier inspection of the
+individual ECG waveforms. Conversely, in animals 
+Amplitude
+with severe heart enlargement, sensitivity can be
+decreased (halved) so that waveforms do not extend
+past the borders of the recording paper. Once the
+ paper speed and sensitivity are noted, calculation of
+Time-
+heart rate and waveform morphology becomes as
+simple as determining time and amplitude in number
+Fig. 2.1 Paper speed and sensitivity.
+17
+Evaluation of the Electrocardiogram
+HEART RATE
+ The regularity of the heart beats: are the RR
+ If the heart rhythm is regular, the simplest method
+intervals regular or irregular?
+to calculate heart rate is to count the number of 1
+The relationship of the P wave and QRS
+mm squares between two heart beats (RR interval)
+complexes:
+and divide this number into 3000 if the paper speed
+· Is there a P wave in front of every QRS
+is 50 mm/s (3000 is the equivalent of i minute
+complex?
+because 60 seconds x 50 = 3000), or into 1500 if the
+· Is there a QRS complex following every P
+paper speed is 25 mm/s (Fig. 2.2). This calculation
+wave?
+will yield the heart rate as beats per minute (bpm).
+The origin of the heart beats:
+If the heart rhythm is irregular, calculation of the
+- Sinus node
+ average heart rate over a prescribed period of time
+- Ectopic focus (i.e. atrial, junctional, or
+is performed. It is useful to realize that 30 larger
+ventricular origin).
+squares or 150 mm represent 3 seconds at 50 mm/s or
+The heart rate.
+6 seconds at 25 mm/s. Thus heart rate is determined
+by counting the number of QRS complexes over 30
+ In some instances, the heart rhythm changes or is
+large squares and multiplying this number by 20 if
+composed of multiple different rhythms that each
+ the paper speed is 50 mm/s, or multiplying by 10 if
+requires a separate description.
+the paper speed is 25 mm/s (Fig. 2.3). A commonly
+used shortcut takes advantage of the fact that many
+MEAN ELECTRICAL AXIS
+standard ballpoint pens are 150 mm in length.
+The mean electrical axis (MEA) describes the net
+Thus, the pen can be placed on the ECG paper to
+direction of cardiac depolarization across the
+denote a 3 or 6 second interval and the number of
+ animal's frontal plane (the plane delineated by the
+beats that are demarcated by the length of the pen
+four extended limbs if the animal is viewed as lying
+can be quickly counted. To get *bpm', this number
+on its back). The conventional 6-lead ECG system
+is multiplied by 20 if the paper speed is 50 mm/s or
+divides the frontal plane into 12 segments, similar
+by 10 if the paper speed is 25 mm/s.
+to the slices of a pie (Fig. 2.4, see Fig. 1.3 p.10).
+By doing so, the 6-lead ECG examination records
+RHYTHM
+the electrical activity of the heart from six different
+The heart rhythm describes the pattern of heart
+vantage points along the frontal plane in 30 degree
+beats and sequence of the P-QRS-T wave
+increments (Fig. 2.4). The MEA normally points
+forms. The heart rhythm is best evaluated over
+towards the caudal half of the animal. In the dog.
+a prolonged recording of a 6-lead ECG tracing.
+the normal MEA is between +40 and +100 degrees
+When determining the heart rhythm, the following
+characteristics should be examined:
+Heart rate = 3000/15 = 200 bpm
+50 mm/s
+15 mm
+10 mm/mV
+1
+Fig. 2.z Calculation of heart rate when rhythm is regular.
+18
+Evaluation of the Electrocardiogram
+25 mm/s
+Average heart rate = 12 beats/6 s = 12 x 10 = 120 bpm
+10 mm/mV
+150 mm (30 large squares) = 6 s
+Fig. 2.3 Calculation of heart rate when rhythm is irregular.
+avF-
+-90"
+-120°
+-60°
+aVR+
+aVL+
+150°
+-30°
++/-180*
+D°
+十
++150°
+avL
++30°
+aVR-
++120°
++60°
+三十
++90°
+=十
+aVF+
+Fig. 2.4 The 6-lead ECG system.
+19
+Evaluation of the Electrocardiogram
+and in the cat, the normal MEA is between O and
+left axis deviation includes partial or incomplete
++160 degrees (Fig. 2.5). An easy way to remember
+bundle branch block. Note that left ventricular
+the direction of the normal MEA is to visualize
+hypertrophy does not usually result in the left
+a dorsoventral or  ventrodorsal  radiograph 
+ and
+ axis shiff, as the normal MEA is already pointing
+imagine the normal MEA as pointing from the center
+ in the direction of the left ventricular apex. Less
+of the heart towards the left ventricular apex. The
+commonly, mechanical displacement of the heart to
+MEA can be within the normal range or to the right
+ either side of the thorax by space-occupying lesions
+or left of the normal range. Common causes of right
+or lung lobe atelectesis can change the MEA.
+axis deviation include right ventricular hypertrophy
+Examples of animals with a left and right axis shift
+or right bundle branch block. A common cause of
+ are shown in Figure 2.6.
+aVF-
+-90°
+-120°
+-60°
+aVR+
+aVL+
+-150°
+30°
++/-180°
+aVR
++150°
++30°
+aVL-
+aVR-
++120°
++60°
+aVL
+三+
++90°
++
+aVF+
+aVF
+25 rmm/s
+5 mm/mV
+the polarity of the QRS complexes from each of the six limb leads.
+1. Identify the ECG lead in which the QRS complex is isoelectric, that is, the lead in which the net polarity of the
+QRS complex is closest to zero (i.e. the positive and negative deflections ofthe QRS waves cancel each other
+outy . In some instances this will be the lead in which the QRS waves are the smallest and in other instances the
+lead in which the amplitude of the positive QRS deflections is the same as the sum of the negative deflections.
+2. Examine the hexaxial lead system and identify the limb lead that is perpendicular to the isoelectric lead. The
+MEA will exist in a direction either towards the positive or negative pole of the perpendicular lead.
+ 3. Inspect the ECG and note the polarity of the QRS complex in the perpendicular lead.
+4. If the net polarity is negative, the MEA points to the negative pole of the perpendicular lead, and if the net
+polarity is positive, the MEA points to the positive pole of the perpendicular lead.
+20
+Evaluation of the Electrocardiogram
+avF-
+.06-
+-120°
+60°
+aVR+
+avL-
+-150°
+-30°
++/-180°
++150°
+002+
+avL-
+aVR-
++120°
+.09+
+.06+
++三
+I+
+avF+
+aVF-
+4
+.06-
+-120°
+-60°
+avR+
+2
+ayL-
+-150°
+30°
++/-180°
++150°,
+02+
+avL-
+avR-
++120°
++60°
+o06+
++
++= 
+aVF+
+25 mm/s10 mm/mV
+50 mm/s20 mm/mV
+Fig. 2.6 Right shift (right panel) and left shift (left panel) in mean electrical axis. See Figure 2.5 for numerals.
+21
+Evaluation of the Electrocardiogram
+WAVEFORM MORPHOLOGY AND
+The PR interval
+INTERVALS
+The PR interval represents the time it takes for
+The amplitudes, durations, and intervals
+ofa
+the electrical impulse to conduct from the sinus
+representative  normal  P-QRS-T complex are
+node through the atria and the AV node and
+shown in Figure 2.7.
+bundle of His. Physiologically, the delay in impulse
+ conduction in the AV node allows the atria to empty
+The P wave
+ of blood and for ventricular flling to occur, prior
+The  P  wave represents  atrial depolarization.
+to the onset of ventricular contraction. The PR
+Increased P wave amplitude or duration is associated
+interval is measured from the start of the P wave to
+with either right and/or left atrial enlargement.
+the first deflection of the QRS complex. The normal
+Normal P wave values for the dog and cat are
+PR interval in dogs and cats is shown in Table 2.1.
+shown in Table 2.1. Absence of P waves is noted in
+Increased duration of the PR interval is described
+instances of atrial fibrillation (AF), atrial standstill,
+as frst-degree AV block. Varying PR intervals are
+and sinus arrest. P waves without corresponding
+noted in cases of sinus arrhythmia or certain forms
+QRS complexes are noted in cases of second- and
+of second-degree AV block. Abnormally short PR
+third-degree AV node block. Inverted or retrograde
+intervals are rare and encountered in instances of
+P waves are commonly seen in conjunction with
+ accessory pathway (AP)-mediated arrhythmias.
+ junctional or atrial premature and escape beats.
+Fig. 2.7 Amplitudes,
+durations, and intervals
+of the P-QRS-T
+complex.
+ R amplitude
+P amplitude
+P duration
+ST segment
+QRS duration
+PR interval
+QT interval
+22
+Evaluation of the Electrocardiogram
+The QRS complex
+The
+ QRS
+complex
+represents
+ventricular
+through the ventricle, and the potential presence of
+depolarization. Standard nomenclature describes
+ventricular hypertrophy. QRS complexes generated
+the first negative deflection as the Q wave, the first
+by a beat of supraventricular origin (sinus node or
+positive deflection as the R wave, and the first negative
+supraventricular foci such as the atria or AV nodal
+deflection following the first positive deflection as the
+junction) are typically narrow and positive in lead II,
+S wave. Note that normal QRS complexes do not
+while those that originate from ventricular foci are
+ necessarily contain all three waveforms, and in dogs,
+auieadde aqi ul aieziq, pue uonemp ul iapim
+a high degree of individual variability is seen. The
+as compared to normal sinus beats.
+normal sequence of ventricular depolarization results
+Conduction disturbances within the ventricles
+in a QRS complex of relatively short duration and
+  o  a rae ose s
+with a net positive polarity in leads II, II, and aVF.
+complexes. Finally, ventricular hypertrophy can
+The normal duration and amplitude of the QRS
+increase the amplitude of the QRS complex and
+complex in the dog and cat is shown in Table 2.1.
+the duration (albeit to a lesser degree than a bundle
+A key component of ECG analysis is inspection of
+branch block) or change the MEA (as in the case of
+the QRS morphology in lead II, which can provide
+right heart enlargement, Fig. 2.6, p.21).
+clues to the complex's origin, its conduction
+Table 2.1 Normal ECG amplitude and duration in the dog and cat
+Dog
+Cat
+Heart rate
+Puppy: 70-220 bpm
+120-240 bpm
+Adult: 70-180 bpm
+Rhythm
+Sinus rhythm
+Sinus rhythm
+Sinus arrhythmia
+P wave
+Amplitude
+Max: 0.4 mV
+Max: 0.2 mV
+Duration
+Max: 0.04 s
+Max: 0.04 s
+PR interval
+0.06-0.13 5
+0.05-0.09 5
+QRS
+Amplitude
+Max: 2.5 mV, small breeds
+Max: 0.9 mV
+[3.0 mV, large breeds)
+Duration
+≤0.06 s
+≤0.04 s
+ST segment
+no elevation
+none
+or depression >0.2 mV
+T wave
+positive, negative, or
+isoelectric or usually positive and
+biphasic, not >25% height or R wave
+x0.3 mV
+Electrical axis
++40° to + 100*
+0 to + 160°
+Adapted from Tilley LP, Srmith WK (2008). Electrocardiography. In: Tilley LP, Smith WK, Oyaina MA, Sleeper MM (eds).
+Manual of Canine and Feline Cardiology, 4th edn. Saunders Elsevier, St Louis.
+23
+Evaluation of the Electrocardioqram
+The ST segment
+congenital  heart disease (subaortic  stenosis),
+The ST segment (or interval) represents the time
+electrolyte imbalances, acute hypoxia (anesthesia),
+between the end of ventricular depolarization
+ or suspected myocardial infarction (rare).
+and the beginning of ventricular repolarization.
+In general, the ST segment should not be either
+The T wave
+elevated or depressed as compared to baseline by
+The T wave represents ventricular repolarization.
+more than 0.2 mV. In human patients, ST segment
+The normal T wave in both dogs and cats
+abnormalities occur in instances of myocardial
+demonstrates a high degree of variability and can
+ischemia/infarction,
+ pericardial
+disease,
+or
+be positive, negative, biphasic, or of very low
+electrolyte imbalances. In dogs and cats, ST segment
+amplitude; however, the T wave should be consistent
+abnormalities are occasionally detected in cases
+from beat to beat during a normal rhythm. The
+of myocardial disease (dilated cardiomyopathy),
+ normal characteristics of the T wave in dogs and
+cats are shown in Table 2.1. As compared to human
+patients, T wave changes in the dog and cat are
+relatively nonspecific  and poorly  characterized.
+T wave abnormalities can be seen in instances of
+tlectrolyte abnormalities, hypoxia, conduction
+abnormalities, or drug toxicity {i.e. digoxin). The
+ duration of time from the start of the QRS complex
+to the end of the T wave is called the QT interval.
+CRITERIA FOR HEART ENLARGEMENT
+The criteria for heart enlargement in the dog and
+cat are shown in Table 2.2. In brief, left atrial
+enlargement is manifest as P wave of increased
+duration (P mitrale) or increased amplitude, and left
+ventricular enlargement as QRS waveforms with
+increased R wave amplitude and QRS duration.
+Right atrial enlargement is manifest as P waves of
+increased amplitude (P pulmonale) or increased
+duration, and right ventricular enlargement as a
+right MEA shift and prominent S waves. Examples
+ of left and right heart enlargement patterns are
+shown in Figures 2.8 and 2.9.
+Fig. 2.8 Left atrial and ventricular enlargement
+in a dog is denoted by the wide and notched P
+wave (arrow) and wide QRS complex (red bar).
+respectively.
+24
+Evaluation of the Electrocardiogram
+Fig. 2.9 Right venticular enlargement in a dog is denoted by deep S waves in leads I, Il, Ill, and aVF
+[arrows).
+Table 2.2 ECG criteria for heart enlargement in the dog and cat
+Dog
+Cat
+Left atrial enlargement
+P wave
+>0.4 mV
+>0.04 s
+>0.04 s
+Notched
+Right atrial enlargement
+P wave
+>0.4 mV
+>0.2 mV
+Left ventricular enlargement
+R wave
+>2.5 mV in lead Il, aVF
+>0.9 mV in lead Il
+[>3.0 mV in large breed dogs)
+>1.5 mV in lead I
+QRS duration*
+>0.06 s
+>0.04 s
+Right ventricular enlargement
+S wave
+> 0.05 mV in lead I
+S wave in leads I,Il, Ill
+>0.35 mV in lead Il
+and aVF
+Electrical axis
+nght shift (> + 100°)
+right shift (> + 160°)
+Adapted from Tilley LP, Sinith WK (2008). Electrocardiography. In: Tilley LP, Smith WK, Oyama MA, Sleeper MM (eds).
+Manual of Canine and Feline Cardiology, 4th edn. Saunders Elsevier, St Louis.
+*QRS duration >0.08 s in the dog and >0.06 s in the cat can be associated with left or right bundle branch blocks. See
+text for rmore detail.
+25
+Evaluation of the Electrocardiogram
+BUNDLE BRANCH BLOCK
+The bundle of His is specialized conduction tissue
+markedly prolonged QRS duration (>0.08 s in the
+that forms the distal portion of the AV node, and 
+dog and >0.06 s in the cat). Examples of RBBB and
+divides into two main bundle branches that course
+LBBB are shown in Figures 2.10 and 2.11. The
+left- and rightward into the ventricular muscle.
+wide QRS morphology of a bundle branch block
+Right (RBBB) or left (LBBB) bundle branch block
+pattern may be confused with a ventricular rhythm.
+occurs when the impulse is blocked or slowed
+Impulse origin in most cases of bundle branch
+within either of the branches and block results in
+block is the sinus node, hence there is a P wave
+characteristic QRS waveform changes. In order
+associated with each QRS complex and the rhythm
+to diagnose a bundle branch block, the MEA has
+is supraventricular, despite the marked change in
+to be determined, which requires a 6-lead ECG
+QRS waveform morphology. RBBB is typically a
+recording. RBBB is characterized by a right shift of
+benign finding in both dogs and cats, whereas LBBB
+the MEA and markedly prolonged QRS duration
+is usually associated with severe underlying heart
+(>0.08 s in the dog and >0.06 s in the cat), while
+disease.
+LBBB is characterized by a normal MEA and
+Figs. 2.10, 2.11 Bundle branch block. Fig. 2.10: Left bundle branch block in a dog. Note the presence of a
+in a cat. Note the presence of P wave, deep and wide S waves in leads I, ll, Ill, and aVF, and the right mean
+electrical axis deviation.
+26
+Section 3
+APPROACHTO
+EVALUATNG
+ARRHYTHMIAS
+Cardiac arrhythmias are defined as variations
+SYSTEMIC APPROACH TO RHYTHM
+of the cardiac rhythm from normal sinus rhythm
+DIAGNOSIS
+(too rapid, too slow, or too irregular). “Ectopic'
+Questions to ask:
+beats are those that arise from a source other than
+ Is the rate fast or slow (tachycardia vs.
+the sinus node. Some cardiac arrhythmias are
+bradycardia)?
+benign and clinically insignificant and require no
+ Is the rhythm regular or irregular? If irregular, is
+ therapy, whereas other arrhythmias are malignant
+the rate slow, fast, or are there premature beats?
+and potentially life-threatening (i.e. ventricular
+ Are there P waves? Are they normal (upright 
+tachycardia [VT] or ventricular fibrillation [VF]]
+ in lead II - i.e. is the rhythm sinus or not sinus)
+ causing clinical signs such as weakness, lethargy.
+(Fig. 3.1)?
+syncope, or sudden death.
+ Is there a P wave for every QRS; is there a QRS
+Although a specific diagnosis may be suggested
+for every P wave?
+by auscultation (i.e. AF, high-grade AV block) and
+Are the QRS complexes normal or abnormal
+physical examination, an ECG is required for a
+(normal or abnormal conduction)?
+definitive diagnosis.
+Sinus
+Normal conduction
+Abnormal conduction
+Bundle branch blocks:
+ Sick sinus
+Normal rate
+Abnormal rate
+left or right
+syndrome
+Bradycardia
+Tachycardia
+AV blocks:
+1st degree
+2nd degree
+3rd degree
+(complete)
+Regular rhythm
+Fig. 3.1 Schematic
+Irregular rhythm
+diagram of rhythm
+ analysis in sinus rhythm
+{P waves have to be
+ Sinus rhythm
+Sinus arrhythmia
+present to be considered
+sinus rhythm).
+27
+Approach to Evaluating Arrhythmias
+HOW DOES ONE DIFFERENTIATE
+SUPRAVENTRICULAR ARRHYTHMIAS
+FROM VENTRICULAR ARRHYTHMIAS?
+Supraventricular arrhythmias: general criteria
+Ventricular arrhythmias: general criteria (Fig. 3.3):
+(Fig. 3.2):
+· Wide QRS complex.
+?
+ Ectopic beats display a narrow QRS complex.
+· Morphology of ectopic QRS complexes and
+ Morphology of ectopic QRS complexes and
+ sinus beat QRS complexes are dissimilar.
+sinus beat QRS complexes are similar.
+· P waves are not associated with the ectopic QRS
+· P waves usually associated with the ectopic QRS
+complex.
+(unless heart rate is rapid enough so that the P
+ If fusion beats are present, this supports a
+waves are buried within the preceding T wave
+diagnosis of ventricular ectopic complexes.
+ or if AF or atrial flutter [AFL] are present).
+ P wave morphology of ectopic beats can appear
+different from the sinus P wave.
+Is ventricular
+conduction normal?
+ Normal 
+Abnormal
+ventricular
+ventricular
+conduction
+ condition
+Irregularly
+SVT with
+Regular
+irregular
+rhythm 
+ bundle 
+rhythm
+branch blocks
+ Atrial
+ Atrial
+flutter
+tachycardia
+or junctional
+No P
+tachycardia
+waves
+ Atrial
+Fig. 3.2 Schematic diagram of rhythm
+fibrillation
+analysis in supraventricular arrhythmias. SVT:
+supraventricular tachycardia.
+Wide complex
+[QRS} rhythm
+Ventricular
+Supraventricular
+rhythm 
+rhythm with bundle
+branch block
+Rate
+Rate
+>160 bpm
+<160 bpm
+ Ventricular
+Idioventricular
+tachycardia
+ or accelerated
+escape rhythm
+Fig. 3.3 Schematic diagram of rhythm analysis
+in ventricular tachycardia (wide QRS complex
+rhythm].
+28
+Approach to Evaluating Arrhythmias
+Fig. 3.4 Dog. lead Il, 50 mm/s showing atrial fibrillation and f waves (arrow).
+Fig. 3.5 Dog. lead Il, 50 mm/s showing atrial flutter and Fl waves (arrows).
+SUPRAVENTRICULAR ARRHYTHMIAS
+Supraventricular arrhythmias (SVAs) originate in
+Most cases of AF in small animals are associated
+the sinus node, atrial tissue, and AV junction {or
+with significant underlying heart disease. In giant
+AV node). SVAs include a wide variety of atrial,
+breed dogs, AF can occur spontaneously, and in the
+AV, and AV nodal tachycardias. SVAs have to
+absence of identifiable heart disease, the term *lone*
+be differentiated from sinus tachycardia. Sinus
+AF is often used.
+tachycardia is typically physiological and may be
+caused by many conditions including febrile states,
+Atrial flutter
+anemia, heart failure, adrenergic medications, and
+AFL is a form of re-entry tachycardia that usually
+anxiety.
+arises from the right atrium. It utilizes the anatomy
+of the right atrium to sustain a macro-re-entry loop
+Specific supraventricular arrhythmias and ECG
+of continuous depolarization. It can also be initiated
+criteria
+and sustained in the left atrium. It is maintained
+Atrial fibrillation
+due to differences in the refractory periods of atrial
+AF is caused by multiple atrial impulses that
+tissue. As in AF, the AV node controls the ventricular
+depolarize the atria simulatenously and bombard
+response rate.
+the AV node. During AF the atrial activation rate is
+rapid and can exceed 500 depolarizations/minute.
+ECG criteria (Fig. 3.5):
+The refractory period of the AV node does not
+Rapid ventricular rate possible.
+allow all these impulses to travel to the ventricle,
+Saw tooth undulation of the baseline.
+and prevents heart rates exceeding 250-300 bpm.
+Atrial (f wave) rate usually >300 bpm.
+This protects the ventricles from developing
+VF
+Rate and regularity of RR intervals can be
+as a consequence of AF. The electrophysiological
+variable (depends on AV conduction). Often 2:1
+mechanisms that initiate and maintain AF include
+or 3:1 conduction patterns are observed.
+abnormal automaticity and re-entry.
+ECG criteria (Fig. 3.4):
+· P waves are absent.
+●Atrial activity is represented by fibrillatory (f)
+waves of varying amplitudes.
+Irregular ventricular rhythm.
+· At very rapid rates the rhythm can appear more
+regular.
+29
+Approach to Evaluating Arrhythmias
+Focal (ectopic) atrial tachycardia
+· One-to-one atrial to ventricular association is
+ Focal atrial tachycardia (FAT) occurs when localized
+usually present during AVRT because the atria
+ regions in the atria (other than the sinus or AV node)
+and ventricles are both integral parts of the
+develop the ability to fre rapidly on their own.
+arrhythmia circuit.
+ Depending on the site of the focus, the morphology
+of the P wave observed on the surface ECG varies. On
+BRADYARRHYTHMIAS AND
+ occasion, multifocal atrial tachycardia can develop, in
+CONDUCTION DISTURBANCES
+which case the P wave morphology varies depending
+Sinus bradycardia
+on the shifting atrial focus. The electrophysiological
+Sinus bradycardia (SB) is a type of sinus rhythm
+mechanisms that initiate and maintain FAT include
+where the sinus node discharge rate is low (<50 bpm
+abnormal automaticity, re-entry, and triggered activity.
+ in an awake dog). SB of 45-60 bpm during sleep is 
+normal. However, if SB persists during excitement
+ECG criteria (Fig. 3.6):
+ or exercise, it can be a sign of sinus node pathology.
+ Normal P waves or abnormal P waves that are
+different in morphology from sinus P waves.
+ECG criteria (Fig. 3.7):
+ There may be a 'warm up' period observed
+ Sinus rhythm with positive P waves in the
+where the heart rate gradually accelerates after
+caudal leads (II, IHl, aVF) and normal QRS
+initiation of the tachycardia.
+ complexes, unless concurrent conduction disease
+ Atrial rate generally >180 bpm.
+is present.
+ The ventricular rhythm may be irregular when
+ Slow sinus node discharge rate.
+the atrial rate is so rapid that not every atrial
+ Escape beats (junctional or ventricular) may be
+beat is conducted to the ventricles (physiological
+present.
+second-degree AV block).
+SICK SINUS SYNDROME
+Atrioventricular re-entrant tachycardia (AVRT}
+Sick sinus syndrome (SSS) is a disease process in
+Atrioventricular re-entrant tachycardia (AVRT} is a
+which the spontaneous sinus node discharge is either
+macro-re-entry arrhythmia whose circuit comprises
+slower than normal (primary SB) or intermittently
+the AV node as well as an accessory pathway (AP)
+absent (sinus arrest or sinus block). It is characterized
+which can conduct impulses from the atria to the
+by an atrial rate that is inappropriate for a patient's
+ventricles directly, thus bypassing the AV node
+activity. The subsidiary pacemaker tissue (AV node
+and His-Purkinje system. During typical AVRT,
+ and Purkinje fbers) is often also abnormal, resulting
+the depolarization proceeds from the atria to the
+in inadequate escape rhythms, such that complete
+ventricles through the AV node, and back up to
+ asystole (pauses) can occur, often lasting many
+the atria from the ventricles in the retrograde
+seconds. Clinical signs associated with SsS may
+direction via the AP. An AP can behave like a two-
+include fainting or intermittent weakness. Some
+way street for electric conduction. During normal
+patients experience supraventricular tachycardia
+sinus rhythm, early activation (pre-excitation) of
+(SVT) as well as bradycardia or sinus arrest.
+the ventricle via the AP can create a delta wave
+(slurring of the upstroke of the QRS complex) on
+ECG criteria (Fig. 3.8):
+the surface ECG. Some APs can only conduct in the
+ The ECG demonstrates a collection of
+retrograde direction and therefore do not show a
+conditions that indicate sinus node and escape
+ pre-excitation pattern.
+rhythm dysfunction.
+· Periods of bradycardia or sinus arrest followed
+ECG criteria:
+by paroxysms of SVT.
+· Short PR interval (if the impulse is transmitted
++
+ AV block may also be present.
+forward from atria to ventricle over the AP)
+ Due to the intermittent nature of the
+?
+ Delta wave (if the impulse is transmitted
+arrhythmia, 24-hour ambulatory ECG (Holter)
+forward from atria to ventricle over the AP).
+monitoring is often necessary to diagnose this
+ During typical AVRT, QRS complexes are
+condition definitively
+usually narrow and the retrograde P wave
+(negative polarity in leads II and Il) may be seen
+embedded into the early portion of the T wave.
+30
+Approach to Evaluating Arrhythmias
+Fig. 3.6 Dog. lead Il, 25 mm/s showing focal atrial tachycardia (blue arrow points to T wave and red arrow
+points to P wave).
+Fig. 3.7 Dog, lead aVF, 50 mm/s showing sinus bradycardia, with a heart rate of 65 bpm.
+Fig. 3.8 Dog. lead Il, 25 mm/s showing sick sinus syndrome, with a period of sinus arrest and junctional
+(second beat from the left) and ventricular (last beat on the right) escape beats.
+31
+Approach to Evaluating Arrhythmias
+ATRIAL STANDSTILL
+AV CONDUCTION ABNORMALITIES
+Atrial standstill is a lack of electrocardiographic
+(AV BLOCK)
+evidence of atrial depolarization, resulting in the
+AV block consists of incomplete, intermittent, or
+absence of P waves on the ECG. Causes include
+complete failure of conduction between the atria
+hyperkalemia, digitalis toxicity, and primary atrial
+and ventricles via the AV node. Three types of AV
+myocardial disease.
+block exist:
+● First-degree AV block (Fig. 3.10) is defined as
+ECG criteria (Fig. 3.9):
+ prolonged conduction through the AV node that
+· No P waves are present.
+results in an increased PR interval of >0.13 s
+· Slow junctional or ventricular escape rhythm is
+(dog) and >0.09 s (cat) and normal P wave and
+often present.
+QRS complexes, in a 1:1 ratio.
+· If associated with hyperkalemia, the T waves
+Second-degree AV block (Fig. 3.11) is a
+ can be tall and the QRS morphology can be
+conduction disorder in which some atrial
+wide and bizarre.
+impulses are not conducted to the ventricles.
+There are normal P waves and QRS complexes,
+but intermittently the P waves are not followed
+by QRS complexes (blocked P). Second-degree
+AV block occurs in two types:
+Fig. 3.9 Cat, lead aVL, 50 mm/s showing atrial standstill.
+Fig. 3.10 Dog, lead Il, 50 mm/s showing first-degree atrioventricular block, with a PR interval of 0.16 s.
+32
+Approach to Evaluating Arrhythmias
+- Mobitz type I (Wenckebach) AV block: PR
+VENTRICULAR ARRHYTHMIAS
+interval gradually prolongs until conduction
+Ventricular arrhythmias are abnormal spontaneous
+across the AV node fails, hence no QRS
+depolarizations that originate in any location
+complex occurs following the P (dropped
+in the ventricle. The occurrence of three or more
+beat).
+ventricular premature contractions (VPCs) in a
+- Mobitz type II AV block: the PR interval is
+row is termed VT. Descriptions of ventricular
+usually constant before a dropped beat occurs.
+arrhythmias often include whether or not the
+This is considered a more advanced form of
+morphology of all VPCs is similar (monomorphic)
+block that occurs lower in the His bundle and
+or different (polymorphic), occurs as a single
+may thus progress to complete heart block
+VPC, two VPCs in a row (couplet), or three or
+· In third-degree (complete) AV block (Fig. 3.12),
+more VPCs in a row (VT). Furthermore, a period
+none of the P waves conduct through the AV
+of VT is often described as persisting less than 30
+node, thus the atrial and ventricular activities
+seconds (nonsustained) or more than 30 seconds
+are completely independent (AV dissociation).
+(sustained). Breed-specific ventricular arrhythmias
+The atrial rate is faster than the ventricular
+occur especially in Boxers, Doberman Pinchers, and
+rate. The escape rhythm is either junctional or
+German Shepherd dogs. An analysis algorithm for
+ventricular in origin.
+differentiation of wide QRS complex arrhythmias is
+shown in Figure 3.3 p. 28.
+Fig. 3.11 Dog. lead Il, 50 mm/s showing second-degree atrioventricular block, with a blocked P wave
+ seen in the middle of the strip.
+Fig. 3.12 Dog. lead Il, 25 mm/s showing third-degree atrioventricular block.
+33
+Approach to Evaluating Arrhythmias
+ECG criteria (Figs. 3.13, 3.14):
+VENTRICULAR FIBRILLATION
+· Abnormally wide and bizarre QRS complexes as
+Ventricular fibrillation (VF) is an irregular chaotic
+ compared to the normal sinus QRS complex.
+rhythm during which there is no organized
+No associated P waves.
+ventricular contraction. VF is a fatal arrhythmia
+Rate of ventricular beats is similar to (AV
+because it is never self-terminating and is associated
+dissociation) or greater than the P wave rate
+with little to no cardiac output. Electric defibrillation 
+(VT).
+is the only viable treatment option.
+● Fusion beats are often present.
+ECG criteria (Fig. 3.15):
+· Chaotic and irregular deflections of varying
+amplitudes.
+· No distinguishable P, QRS, or T waves are
+present.
+Fig. 3.13 Dog. lead Il, 50 mm/s showing ventricular
+Fig. 3.14 Dog. lead Il, 50 mm/s showing ventricular
+premature beats.
+ tachycardia.
+Fig. 3.15 Dog. lead Il, 50 mm/s showing ventricular fibrillation.
+34
+ECG CASES
+Question 1
+ECG recorded from an 11-year-old Golden Retriever with acute onset of extreme weakness.
+1 What are the findings in ECG 1 (50 mm/s; 10 mm/mV)?
+2 What is the clinical significance of this ECG?
+Question 2
+Lead II ECG recorded in a 3-year-old Labrador Retriever.
+1 What are the findings in ECG 2 (25 mm/s; 20 mm/mV)?
+2 What is the clinical significance of this ECG?
+35
+Answers 1, 2
+ECG Cases
+Answer 1
+1 ECG 1 shows sinus rhythm with low amplitude QRS complexes and electrical alternans.
+2 · The heart rate is ~145 bpm. The P wave amplitude is normal. The QRS amplitude in all leads is
+<1.0 mV which is unusual for a large breed dog. The R wave height varies slightly with every other
+beat, most easily appreciated in leads I and aVF. Beat to beat variation in QRS complex amplitude or
+configuration is called electrical alternans.
+· Low amplitude QRS complexes and electrical alternans are most commonly found in association
+with pericardial effusion. These findings are not extremely sensitive, but fairly specific for pericardial
+effusion. Dampening of the electrical signal by the pericardial effusion decreases the QRS amplitude,
+and swinging of the heart in the fluid-filled pericardial sac is considered the origin of the electrical
+alternans.
+· Large volumes of pericardial effusion impair cardiac flling, resulting in cardiogenic shock
+ (pericardial tamponade), and require pericardiocentesis and often intravenous fluid administration.
+In this patient, pericardial effusion was confirmed by echocardiography and a mass was visualized
+originating at the right atrium. The right atrial mass is most likely a hemangiosarcoma, which is
+commonly diagnosed in older, large breed dogs with pericardial effusion.
+Answer 2
+1 ECG 2 shows either SVT or sinus tachycardia.
+2 · The average heart rate is 200 bpm. The rhythm is regular.
+● There is a P wave (blue arrow), QRS complex (black arrow), and T wave (green arrow) for every
+beat.
+· The rapid heart rate causes the P wave to be partially obscured by the preceding T wave.
+· The QRS complex morphology is normal indicating a supraventricular origin, which could be ectopic
+(SVT) or originating from the sinus node (sinus tachycardia).
+· Differentiation between the two rhythms can sometimes be difficult. SVT is characterized by sudden
+ (paroxysmal) stopping and starting of the tachycardia, electrical alternans (cyclical variation in 
+the amplitude of the QRS complex), changes in P wave morphology, persistence despite sedation
+or alleviation of patient stress, and underlying myocardial or valvular disease. In contrast, sinus
+tachycardia is usually associated with gradual acceleration and deceleration of the tachycardia.
+disappearance when patient stress is alleviated, and normal underlying heart function.
+· Labrador Retrievers are particularly prone to SVT and may require additional diagnostic procedures,
+such as echocardiography or 24-hour ambulatory (Holter) monitoring, as well as medical therapy to
+slow the heart rate (i.e. beta-blockers, calcium-channel blockers, digoxin).
+36
+ECG Cases
+Questions 3, 4
+Question 3
+ECG recorded in a 5-year-old Great Dane dog.
+1 What are the findings in ECG 3 (50 mm/s; 10 mm/mV)?
+2 What is the clinical significance of this ECG?
+Question 4
+ECG recorded from a 9-year-old male mix breed dog that presents to the emergency service with acute
+collapse.
+1 What are the findings in ECG 4 (50 mm/s; 10 mm/mV)?
+2 What is the clinical significance of this ECG?
+37
+Answers 3, 4
+ECG Cases
+Answer 3
+1 ECG 3 shows sinus tachycardia.
+2 · The average heart rate is 200 bpm and the rhythm is regular. There is a normal P, QRS, and
+T wave for each beat.
+· Sinus tachycardia is mediated by increased sympathetic tone and can be a normal response to stress
+or exercise, or secondary to systemic conditions such as sepsis, fever, hypovolemia, shock, or heart
+failure.
+· Sinus tachycardia can be differentiated from SVT through its gradual acceleration and deceleration in
+response to stress and the absence of other clinical signs in instances of excitement or exercise.
+Answer 4
+1 ECG 4 demonstrates a particular type of polymorphic VT called torsade de pointes.
+2 · There is a characteristic illusion of a twisting of the QRS complex around the baseline. The ECG has
+ an undulating appearance with varying QRS amplitudes. Torsade de pointes can degenerate into VF,
+which is a terminal arrhythmia if not quickly defibrillated.
+· Various causes have been implicated in this dangerous arrhythmia, including adverse effects from
+certain sodium- or potassium-channel blocking antiarrhythmic drugs, and/or electrolyte or metabolic
+disturbances (hypokalemia, hypocalcemia, hypomagnesemia, acidosis) that prolong the QT interval.
+VPCs in the presence of long QT intervals predispose the patient to an R-on-T phenomenon,
+where the R wave of a subsequent beat occurs during the relative refractory period at the end of
+repolarization (T wave) of the preceding beat, and thus may initiate torsades or fbrillation.
+· For this arrhythmia, treatment is directed at withdrawal of the offending agent, infusion of
+magnesium sulfate, and/or electrical defibrillation.
+38
+ECG Cases
+Questions 5, 6
+Question 5
+ECG recorded from a 5-year-old Newfoundland dog with an arrhythmia.
+1 What are the findings in ECG 5 (25 mm/s; 10 mm/mV)?
+2 What is the clinical significance of this ECG?
+1x11-30Hz
+Shock 1 100 J Impedance 55
++
+25 rmm/s
+Question 6
+ ECG recorded in a 12-year-old male castrated Golden Retriever with a heart murmur.
+1 What are the findings in ECG 6 (25 mm/s; 5 mm/m V)?
+2 What is the clinical significance of this ECG?
+39
+Answers 5, 6
+ECG Cases
+Answer 5
+1 ECG 5 shows conversion to sinus rhythm, using electrical cardioversion.
+ 2 ● The initial four complexes represent AF, with a ventricular rate of approximately 60 bpm. AF is
+diagnosed based on the absence of distinct P waves, presence of low amplitude f waves, the irregular
+nature of the rhythm, and the QRS complexes having supraventricular morphology (see ECG 12,
+p.50 and ECG 29, p.72).
+· Because of the absence of significant underlying heart disease and the relatively slow ventricular
+rate, a diagnosis of lone' AF was made and conversion back to sinus rhythm was attempted using
+electrical cardioversion. A transthoracic electrical shock was delivered with a biphasic defibrillator
+(blue and white arrowheads).
+● The small blue arrows pointing to the R waves are synchronization markers. Defbrillation shocks
+should never be delivered over the T wave, since the repolarization phase is a vulnerable window for
+induction of VF. To avoid this complication, the defibrillator detects the R waves and synchronizes
+the defbrillation discharge with the onset of the R wave.
+● Immediately following cardioversion, there are two ventricular beats (red arrows), followed by
+restoration of sinus rhythm with normal P waves (purple arrows) and QRS complexes (green arrow).
+Ix 11-30Hz
+Shock11u0Jlrnpedance55
+25 mn/s
+Answer 6
+1 ECG 6 shows sinus rhythm.
+2 ● The heart rate is ~94 bpm. The rhythm is regular and there is a P for every QRS and QRS for every P.
+The amplitude and duration of the P and QRS complexes are normal. The QRS complex amplitude
+ is 2.6 mV In order for the QRS complexes from each lead to ft onto the paper without overlapping
+each other, note that the ECG sensitivity was set at 5 mm/mV, which is half the normal
+[10 mm/mV) setting. The MEA is normal.
+● Sinus rhythm represents the normal sequence of cardiac depolarization. In the dog, sinus rhythm
+typically ranges between 70 and 180 bpm, although in large breed dogs, the upper rate is often
+defined as 140 bpm, and in puppies, 220 bpm.
+· The key points are the regularity, and normal rate, sequence, and morphology of the P-QRS-T
+waves.
+40
+ECG Cases
+Questions 7, 8
+Question 7
+ECG recorded in a 9-year-old male domestic shorthair cat with a grade 2/6 systolic murmur.
+1 What are the findings in ECG 7 (50 mm/s; 10 mm/mV)?
+2 What is the clinical significance of this ECG?
+Question 8
+ECG from a 9-year-old Collie being treated for glomerulonephritis and progressive respiratory distress and
+tachycardia
+1 What are the findings in ECG 8 (50 mm/s; 10 mm/mV)?
+2 What is the clinical significance of this ECG?
+41
+Answers 7. 8
+ECG Cases
+Answer 7
+1 ECG 7 shows sinus rhythm with evidence of left ventricular hypertrophy.
+2 ● The average heart rate is 210 bpm. The rhythm is regular.
+· The amplitude of the R wave in lead II is 1.9 mV (normal <0.9 mV) suggesting left ventricular
+hypertrophy. The caudal limb leads II and aVF, which are similar in orientation to lead II, also
+display R wave amplitudes similar to lead I1.
+● Left ventricular enlargement if often due to cardiomyopathy or, less commonly, hyperthyroidism
+ or systemic hypertension. Based on the ECG findings as well as the presence of a heart murmur,
+underlying changes in cardiac structure and function are likely, and further diagnostics, such as
+radiographs or echocardiography, are warranted.
+Answer 8
+1 ECG 8 shows sinus rhythm with ST segment elevation.
+2 ● The heart rate is 150 bpm. The ST segment is markedly elevated (arrows) in leads II, II, and
+aVF and depressed in lead aVR. The Q waves are notched in leads II,Ill, and aVF.
+· ST segment elevation or depression occurs secondary to myocardial hypoxia/ischemia in dogs and
+cats. In humans, the discrete location of a recent myocardial infarction can often be inferred based
+on ST segment changes. The mechanisms underlying ST segment changes are complex. Hypoxic
+conditions in the myocardium leads to diminished intracellular concentrations of adenosine
+triphosphate (ATP), and thus decreased activity of ATP-dependent ion transport systems. These
+systems play an important role in maintenance of the resting cell membrane as well as action
+potential propagation. In cases of myocardial hypoxemia, neighboring regions of myocardium will
+have different electrical properties and a small electrical current (current of injury) flows from the
+depolarized ischemic regions to more normal regions, resulting in ST segment elevation or depression.
+· In this case, pulmonary thromboembolism secondary to glomerulonephritis and loss of antithrombin
+ III resulted in severe hypoxemia.
+42
+ECG Cases
+Question 9
+Question 9
+ECG recorded from an 8-year-old Lhasa Apso presented for yearly vaccinations and an arrhythmia was
+ausculted.
+1 What are the findings in ECG 9 (50 mm/s; 10 mm/mV)}?
+2 What is the clinical significance of this ECG?
+43
+Answer 9
+ECG Cases
+Answer 9
+1 ECG 9 shows second-degree AV nodal block
+2 ● There are P waves that are not followed by a QRS (arrowheads). This is an example of Mobitz type
+I (Wenckebach) AV block, wherein the PR interval gradually prolongs before a P wave is blocked.
+The arrows displaying the PR interval are longer at the end of the sequence of sinus beats than at the
+beginning.
+· Second-degree AV block can be due to high resting vagal tone, degeneration or infltration of the
+AV node, or infectious or inflammatory disease. In patients with high vagal tone and slow heart
+rates, Wenckebach type second-degree AV block can occasionally be observed as a physiological
+phenomenon. In this case, the underlying heart rate is relatively high at 150 bpm, indicating that vagal
+tone is not predominant and underlying disease of the AV node is likely. In cases of infrequent AV
+block, no clinical signs are observed and no treatment is indicated. In cases of frequent AV block and
+resulting bradycardia, syncope or weakness can result.
+· Atropine (0.04 mg/kg) can be administered intravenously or subcutaneously in an attempt to resolve
+the AV block. Incomplete resolution of the AV block suggests presence of underlying AV nodal injury
+or disease.
+人人人人人人人人人人人人人人人
+44
+ECG Cases
+Question 10
+Question 10
+ ECG recorded in a 9-year-old male castrated Cocker Spaniel with a heart murmur.
+1 What are the ECG findings in ECG 10 (25 mm/s; 10 mm/mV)?
+ 2 What is the clinical significance of this ECG?
+10
+45
+Answer 10
+ECG Cases
+Answer 10
+1 ECG 10 shows sinus arrhythmia.
+2 ● The average heart rate is ~90 bpm. The rhythm is regularly irregular and there is a P for every QRS
+and QRS for every P. The amplitude and duration of the P and QRS complexes are normal.
+The MEA is normal.
+· Sinus arrhythmia is similar to sinus rhythm with respect to average heart rate and the normal
+sequence of cardiac depolarization. Sinus arrhythmia differs from sinus rhythm in that the heart rate
+demonstrates phasic changes that are often (but not always) related to respiration. Higher rates are
+noted during inspiration and slower heart rates during expiration (respiratory sinus arrhythmia).
+● Changes in size and shape of the P wave (arrows) is termed wandering pacemaker and can occur during
+sinus arrhythmia. The P wave amplitude is greater during faster heart rates and smaller during slower
+heart rates.
+· Vagolytic stimuli (e.g. exercise, atropine) reduces or eliminates sinus arrhythmia.
+· The key points are the phasic irregularity and normal rate, sequence, and morphology of the P-
+QRS-T waves.
+10
+46
+ECG Cases
+Question 11
+Question 11
+ECG recorded from a 5-year-old Siberian Husky.
+1 What are the ECG findings in ECG 11 (25 mm/s; 10 mm/mV)?
+ 2 What is the clinical significance of this ECG?
+11
+47
+Answer 11
+ECG Cases
+Answer 11
+1 ECG 11 shows atrial premature complexes.
+The frst beat is a sinus beat and the second beat is an atrial premature beat. There is a normal
+P wave in front of the sinus QRS complex of each pair The atrial premature beat has a normal QRS
+configuration and a small negative P wave (arrows).
+· The interval between the first and second beat of each pair equates to an atrial premature beat rate
+of 190 bpm. The term atrial bigeminy is often used in instances when the sinus and atrial premature
+beats alternate in a regular 1:1 fashion.
+· Atrial premature beats often occur in cases with underlying heart diseases, especially in those that
+produce atrial enlargement (i.e. mitral valve disease, cardiomyopathy), but can also be secondary to a
+wide variety of extracardiac conditions.
+48
+ECG Cases
+Questions 12, 13
+Question 12
+ECG recorded in an 8-year-old male castrated domestic shorthair cat.
+1 What are the findings in ECG 12 (50 mm/s; 10 mm/mV)?
+2 What is the clinical significance of this ECG?
+12
+Question 13
+ECG recorded from a 6-year-old Boxer that presented with a 3-week history of progressive coughing and
+onset of severe dyspnea over the last 48 hours.
+1 What are the findings in ECG 13 (50 mm/s; 10 mm/m V)?
+2 What is the clinical significance of this ECG?
+13
+49
+Answers 12, 13
+ECG Cases
+Answer 12
+ 1 ECG 12 shows atrial fbrillation (AF) and left ventricular enlargement.
+ 2 ● The heart rate ranges from 130 bpm to 272 bpm, with the average ~220 bpm. The rhythm is
+irregularly irregular.
+· There are no consistent P waves noted; however, despite the lack of P waves, the QRS complexes are
+narrow and appear to be of supraventricular origin.
+· The amplitude is 1.3 mV (normal <0.9 mV) indicating left ventricular enlargement. Note that the
+caudal limb leads II and aVF, which are similar in orientation with lead II, also display QRS complex
+amplitudes that are relatively increased, further supporting left ventricular enlargement.
+· The irregularity, lack of P waves, and supraventricular QRS complexes are all findings consistent with
+AF.
+· In cats, AF is usually due to severe underlying heart disease, and further diagnostics such as
+radiographs and echocardiography are indicated.
+· Treatment of AF involves slowing the ventricular rate by decreasing conduction through the AV node
+with medications such as beta-blockers, calcium-channel blockers, and/or digoxin.
+Answer 13
+1 ECG 13 shows sinus rhythm with a left bundle branch block (LBBB).
+ 2 ● The heart rate is 100 bpm. The QRS complexes look wide and bizarre, and the duration is prolonged
+at 100 ms. The MEA is normal. The rhythm is sinus in origin as evidenced by the fact that there are
+P waves preceding each QRS complex, with a regular PR interval of 140 ms. The P wave morphology
+changes slightly with heart rate, indicating a wandering pacemaker. The PR interval is slightly
+prolonged, consistent with first-degree AV block. The ST segment is depressed and slurred,
+which is suggestive of myocardial hypoxia.
+· The diagnosis of a LBBB is made based on sinus QRS complexes with a normal MEA and increased
+duration of the QRS (>80 ms in a dog, >50 ms in a cat). The wide QRS duration is caused by
+complete disruption of the left bundle branch and delayed depolarization of the left ventricle.
+· The QRS complex morphology of LBBB mimics that of a VPC. The key feature discriminating
+between LBBB and VPCs is the presence of P waves associated with each QRS, signifying the QRS as
+supraventricular in origin. If the heart rate is very rapid, the P waves may be hidden in the preceding
+T waves, and the rhythm can be difficult to discern from VT.
+· LBBB almost never occurs by itself as a benign abnormality. Rather, it occurs secondary to left
+system disease. While the LBBB does not require treatment per se, the presence of underlying cardiac
+disease results in a relatively poor prognosis. The finding of LBBB should prompt further diagnostics
+such as echocardiography to search for an underlying cardiac disease.
+50
+ECG Cases
+Questions 14, 15
+Question 14
+A 10-year-old cat presented for a dental prophylaxis
+1 What are the findings in ECG 14 (50 mm/s, 10 mm/mV}?
+2 What is the clinical significance of this ECG?
+14
+Question 15
+ECG recorded from an 8-year-old Rottweiler that presents for several episodes of collapse.
+1 What are the findings in ECG 15 (50 mm/s; 10mm/mV)?
+2 What is the clinical significance of this ECG?
+15
+51
+Answers 14, 15
+ECG Cases
+Answer 14
+1 ECG 14 shows normal sinus rhythm with baseline artifact.
+2 · The heart rate is 200 bpm, likely in response to being handled for ECG acquisition. The P-QRS-T
+complexes are normal and the MEA is normal.
+· The diastolic intervals after the third and fourth QRS complex, the sixth and eighth, as well as the
+ 11th and 12th QRS complexes show small, high frequency undulations, most easily discerned in leads
+ II and aVF. These undulations are not an arrhythmia, but the consequence of the cat purring, causing 
+a repeatable, breathing-associated artifact in this ECG. This type of artifact can often be mistaken as
+AF, but the presence of P waves precludes this diagnosis. In dogs, panting or shivering are common
+causes of similar artifacts. Other causes of ECG artifact include electrical current 60 or 50 Hz
+interference, due to poor grounding of the ECG machine or any other electronic equipment connected
+to the patient. The 60-Hz cycle interference can also mimic AF, and all other electronic equipment in
+the room may need to be unplugged to avoid this artifact.
+Answer 15
+1 ECG 15 shows complete or third-degree AV nodal block
+ 2 · The ventricular heart rate is 35 bpm. There is complete AV dissociation, with the P waves having no
+ relationship to the QRS complexes and the atrial and ventricular rates are independent of each other.
+In complete AV block, the atrial rate (P-P interval) is always faster than the ventricular rate, and P
+waves should have ample opportunity to conduct to the ventricles, but fail to do so. In third-degree 
+(complete) AV block, the ventricular escape rhythm is usually slow and regular, and approximately
+40-60 bpm in dogs and 80-120 bpm in cats.
+· The etiology of most cases of third-degree AV block is unknown, but age-related degeneration of the
+ AV node or acute myocarditis are two possible causes.
+● Most dogs with third-degree AV block show signs of weakness, lethargy, activity intolerance, or
+syncope, and require artificial pacemaker implantation. In cats, the more rapid ventricular escape rate
+often permits normal quality of life without the need for any specific therapy.
+52
+ECG Cases
+Questions 16, 17
+Question 16
+ECG recorded in an 11-year-old mixed breed dog.
+1 What are the ECG findings in ECG 16 (25 mm/s; 10 mm/mV}?
+2 What is the clinical significance of this ECG?
+16
+Question 17
+ECG recorded in a domestic shorthair cat.
+1 What are the findings in ECG 17 (25 mm/s; 10 mm/mV)?
+2 What is the clinical significance of this ECG?
+17
+53
+Answers 16, 17
+ECG Cases
+Answer 16
+1 ECG 16 shows atrial flutter (AFL).
+2 · The average heart rate is 120 bpm. The rhythm is irregular and there is a *sawtooth' baseline that
+represents the AFL waves (F waves). The rate of the F waves is 425 bpm. The QRS complexes
+ are narrow and of normal morphology.
+· AFL usually occurs in the presence of advanced cardiac disease, such as mitral valve disease or
+dilated cardiomyopathy. AFL is often considered a more ^organized’ form of AF. The ventricular rate
+is dependent on the conduction of the F waves through the AV node and is further described by the
+ratio of F waves to QRS complexes (e.g. four F waves for every one QRS is described as 4:1). In cases
+where the ventricular rate is rapid, medication to slow conduction through the AV node (e.g. digoxin,
+diltiazem, and/or atenolol) can be used.
+· The key points are the 'sawtooth baseline' made up of F waves, the variable conduction of F waves
+through the AV node, and the often rapid ventricular rate.
+Answer 17
+1 ECG 17 shows sinus arrest and junctional escape beats.
+2 · There are eight beats of sinus rhythm at the start of the ECG tracing with normal P waves, QRS
+complexes, and T waves. The heart rate is ~215 bpm and the rhythm is regular.
+· Following the 8th beat, there is a 2.5 second period of sinus arrest that is terminated by a narrow
+QRS complex without a P wave, consistent with a junctional escape beat. This is followed by another
+sinus beat, a second period of sinus arrest, a second junctional escape beat, and then resumption of
+sinus rhythm. Sinus arrest can be secondary to sinus node disease, cardiomyopathy, abnormal vagal
+ tone secondary to central nervous system, gastrointestinal, or respiratory disease, or drug toxicity
+(i.e. beta-blockers). Extended periods of sinus arrest (typically >3-4 seconds in cats) can cause clinical
+signs such as syncope or weakness.
+54
+ECG Cases
+Questions 18, 19
+Question 18
+ECG recorded from a 15-year-old domestic shorthair cat admitted for a dental examination with a grade
+2/6 systolic heart murmur
+1 What are the findings in ECG 18 (50 mm/s; 10 mm/mV)?
+2 What is the clinical significance of this ECG?
+18
+Question 19
+ECG recorded from a 6-year-old male castrated Boxer that presents for collapse during exercise.
+1 What are the findings in ECG 19 (50 mm/s; 10 mm/mV)?
+2 What is the clinical significance of this ECG?
+19
+MMYMO
+55
+Answers 18, 19
+ECG Cases
+Answer 18
+1 ECG 18 shows sinus rhythm with a left anterior fascicular block (LAFB) pattern
+2 ● The heart rate is 200 bpm. The MEA is shifted to the left to -50° (see Section 2 Evaluation of the
+Electrocardiogram). The QRS duration is 20 ms and normal.
+· The LAFB pattern is thought to arise from disruption of the anterior fascicule of the left bundle branch
+that supplies the cranial and basilar region of the left ventricle with electrical impulses. A region of
+block will result in a deviation of the MEA of the ventricular depolarization to the left, but the QRS
+duration is not prolonged since only one of the two fascicules of the left bundle branch is blocked.
+● This conduction disturbance does not tend to progress to more advanced degrees of bundle branch
+block and does not warrant any treatment per se; however, many cats with LAFB patterns are found
+to have cardiomyopathy. This ECG finding in conjunction with the presence of a systolic murmur
+warrants further diagnostics, such as thoracic radiography or echocardiography prior to general
+anesthesia for a dental procedure.
+Answer 19
+1 ECG 19 shows rapid VT.
+2 ● The heart rate is 300 bpm. There are no P waves associated with the ventricular beats and there
+is one fusion beat (circled) present, which helps differentiate this rhythm from a supraventricular
+arrhythmia. The ventricular complexes are wide and bizarre and *upright' in appearance (positive
+QRS deflection in leads II, II, and aVF). The arrow indicates a normal sinus beat (*capture beat')
+which briefly captured control of the heart rhythm.
+· The most likely underlying cause of the ECG findings is arrhythmogenic right ventricular
+cardiomyopathy (ARVC). The presence of the *upright VPC morphology in lead II is common in 
+Boxer dogs with ARVC. Rapid VT can cause reduced cardiac output and blood pressure, and clinical
+signs such as weakness or syncope are common.
+· For acute life-threating VT, intravenous lidocaine (2 mg/kg bolus, up to a cumulative dose of
+6-8 mg/kg) can be administered in an attempt to convert to sinus rhythm. The first choice for oral
+antiarrhythmic therapy for treatment of symptomatic VT in most dogs, including Boxers with ARVC,
+is sotalol.
+· Ambulatory ECG monitoring (Holter) is useful to determine the effect of therapy on frequency and
+severity of ventricular arrhythmias or to detect VPCs in dogs with only intermittent arrhythmias.
+19
+LAYMYAVAYA
+56
+ECG Cases
+Question 20
+Question 20
+ECG 20a was recorded in a 9-year-old female spayed Siberian Husky. ECG 20b was recorded from a
+geriatric Cocker Spaniel.
+1 What are the findings in ECG 20a (50 mm/s; 5 mm/mV) and ECG 20b (25 mm/s; 10 mm/mV)?
+2 What is the clinical significance of these ECGs?
+20a
+Rate 75 bprm
+20b
+57
+Answer 20
+ECG Cases
+Answer 20
+1 ECGs 20a and 20b show atrial standstill.
+2 · The heart rate in ECG 20a is 48 bpm and heart rate in ECG 20b is 75 bpm. In both ECGs, the
+rhythm is regular.
+· There is an absence of P waves. The QRS complexes in ECG 20a are wide, indicating they are
+likely ventricular in origin. The slow rate and absence of normal sinus beats are consistent with a
+ventricular escape rhythm. The QRS complexes in ECG 20b are narrow indicating they are likely
+supraventricular in origin.
+· The lack of P waves is most consistent with atrial standstill. Atrial standstill can be secondary to a
+degenerative atrial myopathy or secondary to severe electrolyte abnormalities, such as hyperkalemia.
+· The degenerative atrial myopathy is typified by loss of functional atrial myocytes and atrial fbrosis,
+and atrial standstill is usually permanent. This condition was suspected in the case of ECG 20a.
+· Hyperkalemia can be secondary to metabolic disease (i.e. diabetic ketoacidosis), endocrine
+disease (i.e. hypoadrenocorticism), renal failure, or reperfusion injury that sometimes
+accompanies feline aortic thromboembolism. In the case of ECG 20b, the dog had
+hypoadrenocorticism and a serum K+ of 10 mmoll (10 mEq/l). Correction of hyperkalemia
+(e.g. diuresis, glucose, insulin, and so on) can restore normal sinus rhythm.
+58
+ECG Cases
+Question 21
+Question 21
+ ECG recorded in a 1-year-old dog under anesthesia for a routine ovariohysterectomy.
+1 What are the findings in ECG 21 (50 mm/s; 10 mm/mV)?
+ 2 What is the clinical significance of this ECG?
+21
+59
+Answer 21
+ECG Cases
+Answer 21
+1 ECG 21 shows accelerated idioventricular rhythm.
+ This rhythm occurs when the discharge rates of the sinus node and another ectopic pacemaker site
+(nodal or ventricular) approximate each other. In this example, when the sinus rate is slightly slower
+than the ventricular rate, the ventricular rate ^takes over'. The R-R interval of the sinus complexes (blue
+arrow) is 460 ms (heart rate of 130 bpm) and the interval of the ventricular complexes (black arrow) is
+shorter at 420 ms (143 bpm). Therefore, the ventricular rate is *accelerated' and becomes the dominant
+rhythm until the sinus rate increases and recaptures control of the heart rate later in the strip. This
+arrhythmia is commonly seen in patients under anesthesia or animals with significant systemic disease.
+· Generally, no therapy is required as the sinus and ectopic pacemaker rate approximate each other.
+ Usually, slow ventricular rhythms do not result in hemodynamic consequences and are not a
+significant risk for degeneration into ventricular fibrillation; however, if the ventricular rate is very
+fast (typically >180 bpm), antiarrhythmic treatment may be necessary.
+21
+60
+ECG Cases
+Question 22
+Question 22
+ECG recorded in an 11-year-old Irish Setter.
+1 What are the ECG findings in ECG 22a (25 mm/s; 5 mm/mV)?
+2 What is the clinical significance of this ECG?
+22a
+61
+Answer 22
+ECG Cases
+Answer 22
+1 ECG 22a shows SVT.
+ 2 ● The heart rate is 250 bpm. The rhythm is regular. The heart rate is fast enough such that the P waves
+in front of each QRS complex occur immediately at the end of the preceding beat's T wave. The
+amplitude and duration of the P and QRS complexes are normal. The MEA is normal.
+· SVT describes a rapid and usually regular rhythm that originates from either the atria or AV nodal
+junction. These rhythms can be due to rapid fring of ectopic foci or re-entrant rhythms. SVT can
+be differentiated from sinus tachycardia by: 1) its persistence despite the patient being calm or
+unstressed; and 2) sudden cessation secondary to vagal maneuvers or pharmacologic intervention.
+Many cases of SVT will have underlying cardiac disease.
+· Depending on the origin of the rhythm (atria or AV junction), the P wave configuration can be
+normal or altered. The QRS configuration is usually normal except in cases of aberrant conduction
+such as concurrent bundle branch block
+· There is typically one P wave for every QRS complex; however, in cases of SVT and AV nodal block,
+the ratio of P waves to QRS complexes may be <1 (ECG 22b).
+· The key points are identification of a rapid rhythm with normal QRS configuration.
+22b
+62
+ECG Cases
+Question 23
+Question 23
+ECG recorded in 11-year-old male castrated cat that was scheduled to have a dental cleaning. An arrhythmia
+and a 3/6 systolic sternal murmur was ausculted.
+1 What are the findings in ECG 23 (50 mm/s; 10 mm/mV)}?
+2 What is the clinical significance of this ECG?
+23
+63
+Answer 23
+ECG Cases
+Answer 23
+1 ECG 23 shows ventricular bigeminy (sinus beat followed by a ventricular beat).
+ 2 ● The QRS complex of the ventricular beat (circled) is wide and bizarre and has a negative deflection.
+There are no P waves associated with these beats. Notice that the sinus beats all have P waves
+preceding the QRS complex (arrows).
+· The most common cause for ventricular arrhythmias in cats is cardiomyopathy and further
+diagnostics, such as echocardiography, are recommended. This patient was diagnosed with
+hypertrophic obstructive cardiomyopathy.
+· Other common diseases that can cause or exacerbate myocardial hypertrophy and associated
+ventricular arrhythmias include systemic hypertension and hyperthyroidism. Blood pressure and
+thyroid levels should both be acquired in cats with ventricular arrhythmias.
+23
+64
+ECG Cases
+Questions 24, 25
+Question 24
+ECG recorded from a 12-year-old Poodle dog that presented for respiratory distress.
+1 What are the findings in ECG 24 (50 mm/s, 10 mm/mV}?
+2 What is the clinical significance of this ECG?
+24
+Question 25
+ECG recording from a 15-year-old Pug dog under anesthesia.
+1 What are the findings in ECG 25 (25 mm/s; 10 mm/mV)?
+2 What is the clinical significance of this ECG?
+25
+65
+Answers 24, 25
+ECG Cases
+Answer 24
+1 ECG 24 shows sinus arrhythmia and criteria for atrial enlargement.
+2 · The heart rate is ~100 bpm. The P waves are tall and peaked in leads I, II, and aVF. The amplitude of
+the P wave in lead II is 0.5 mV (normal: <0.4 mV). A tall P wave is often referred to as *P pulmonale'
+despite the fact that tall P waves can be detected in both cases of left or right atrial enlargement.
+· At times, tall P waves are seen in patients with pulmonary disease, right ventricular hypertrophy, and
+pulmonary hypertension (cor pulmonale).
+Answer 25
+1 ECG 25 shows ventricular fibrillation (VF) followed by electrical defibrillation, a wide complex
+tachycardia, and finally a more narrow complex tachycardia.
+● Section A shows VF, recognized by the low voltage undulating baseline and absence of distinct P
+waves or QRS complexes. During VF, cardiac output and arterial blood pressure are absent and
+immediate intervention is indicated. The arrow shows delivery of a transthoracic defibrillation shock
+of 50 Joules with a biphasic defibrillator. The ECG trace disappears during the shock application due
+to the high current flow.
+● Approximately 1 second following the shock a wide complex tachycardia at 230 bpm appears and
+ is likely VT. Despite the abnormal nature of this initial postshock rhythm, it immediately provided a
+co-ordinated cardiac contraction and blood pressure, which is vital. The wide complex tachycardia
+begins to assume a narrow complex morphology towards the end of the strip and likely represents
+ resumption of a supraventricular rhythm.
+25
+A
+External electrical defibrillation is the treatment of choice in cases of VF. In dogs, a dose of 2-3 J/kg for
+to depolarize uniformly and simultaneously a critical mass of the excitable myocardium. The objectives
+are to interfere with all arrhythmia mechanisms and to allow the normal cardiac pacemakers to assume the
+role of primary pacemaker. Failure to defibrillate or immediate recurrence of VF are an indication to repeat
+defibrillation depends on two key factors: 1) duration between onset of fibrillation and defibrillation, and
+2) the metabolic condition of the myocardium. The goal is to use the minimum amount of energy required
+to overcome the threshold of defibrillation. Excessive energy can cause myocardial injury and worse
+lo sped aigesodsip jauta buisnl uogonpuoo aienbape pue isayo paaeus pue 'ainssaid poeiuoo wi
+electrode gel) all contribute to lower impedance, which allows the use of lower-energy shocks.
+During VF, blood flowto andfrom the heartceases, resultinginrapidoxygen depletionofthe myocardium.
+preparing the electric defibrillator or between failed defibrillation attempts. Antiarrhythmics as a means to
+defibrillate are rarely effective, as perfusion of the myocardium is absent during VF.
+66
+ECG Cases
+Question 26
+Question 26
+ ECG recorded from a 2-year-old Labrador Retriever that presents to the emergency service for a syncopal
+episode. An arrhythmia was ausculted on presentation.
+1 What are the findings in ECG 26 (50 mm/s; 10 mm/mV)?
+2 What is the clinical significance of this ECG?
+26
+67
+Answer 26
+ECG Cases
+Answer 26
+1 ECG 26 shows paroxysmal rapid VT.
+ 2 ● The maximum instantaneous heart rate of the VT is 380 bpm.
+· *R-on-T phenomenon is present. The R-on-T phenomenon′ is the superimposition of an ectopic beat
+QRS complex on the T wave of a preceding beat (arrows) due to the rapid rate of the VT. There is
+short pause between the first ventricular couplet and the next ventricular triplet. It is believed that
+these short-long intervals during VT can predispose to the onset of VF, which is a terminal rhythm
+unless successfully defibrillated.
+· In addition, the sinus beat QRS complexes are of low amplitude.
+26
+8
+Rapid VT is uncommon in young dogs. Certain dog breeds are predisposed to a juvenile onset of
+cardiomyopathy and arrhythmias (such as Boxer, Doberman, Portuguese Water, and German Shepherd
+dogs). In this case, myocarditis was suspected due to elevated serum cardiac troponin (cTnl) concentration
+(13.5 ng/ml, normal: 0-0.11 ng/ml). cTnl is a highly sensitive and specific biomarker of myocardial injury
+and necrosis. In humans with myocardial infarction, sepsis, or traumatic myocardial injury, cTnl is used to
+aid in a diagnosis of cardiac injury and to provide prognostic information. cTnl is elevated in dogs and cats
+with a variety of diseases including myocarditis, cardiomyopathy. pericardial disease, arrhythmias,
+congestive heart failure, gastric dilatation and volvulus, chemotherapy. and heatstroke, and after intensive
+exercise.
+ In this case, the absence of any of these other conditions suggested a diagnosis of myocarditis. Vector-
+borne diseases have been implicated in myocarditis; thus, testing for heartworm, anaplasmosis, Lyme
+disease, Ehrlichia toxoplasmosis, Neospira spp., Bartonella spp., and leptospirosis can be considered. The
+underlying cause is often not identified. The cTnl half-life is ~-2 hours in the dog. thus serial measurements
+ might be helpful in determining the presence of either ongoing or resolving myocardial injury.
+Treatment of suspected myocarditis depends on whether an underlying cause has been identified.
+Anti-inflammatory therapy is controversial. Many patients receive empiric doxycycline and/or clindamycin
+'paajosaid s! (uzib od by/w 1-zh loleios 'adoouas se yons subis jeoiuio sasneo 1 aut f 'tuawea
+ldeally. a pre- and post-treatment Holter examination is acquired to assess the efficacy of the
+antiarrhythmic therapy.
+68
+ECG Cases
+Question 27
+Question 27
+ECG recorded from a 7-year-old Shar Pei that presents for exercise intolerance.
+1 What are the findings in ECG 27 (50 mm/s; 10 mm/mV)?
+2 What is the clinical significance of this ECG?
+27
+69
+Answer 27
+ECG Cases
+Answer 27
+1 ECG 27 shows second-degree AV nodal block.
+2 ● The ventricular rate is approximately 75 bpm. There are P waves present without a subsequent QRS
+complex. There are three P waves (arrows) for every QRS complex, and the AV block can be further
+described using a ratio of P waves to QRS complexes, or 3:1. One of the P waves is buried in the T
+wave. In AV block with 2:1 conduction ratio or higher, prolongation of the PR interval before the
+block is impossible to observe so Mobitz type I or II labeling cannot be performed, and this form of
+second-degree AV block is often referred to as *high-grade'.
+· The exercise intolerance in this case might be explained by the AV block and resulting bradycardia.
+As explained in ECG 9, p.44, an atropine response test can be performed to help differentiate
+increased vagal tone versus intrinsic AV nodal disease as a cause of the AV block. In most instances
+of high-grade second-degree AV block, AV node disease is present. Patients experiencing even a
+partial response to atropine may be candidates for medical management with vagolytic drugs (e.g.
+probantheline bromide) and/or a sympathomimetic drug (e.g. albuterol, theophylline).
+· Second-degree AV block can progress to third-degree AV block, and further diagnostics include
+Holter recording to screen for other periods of AV block. Artificial pacemaker implantation can be
+used to treat symptomatic high-grade or third-degree AV block.
+27
+70
+ECG Cases
+Questions 28, 29
+Question 28
+ECG recorded from a 10-year-old Labrador Retriever presented to the veterinary hospital for a routine
+dental prophylaxis.
+1 What are the findings in ECG 28 (50 mm/s; 10 mm/mV)?
+2 What is the clinical significance of this ECG?
+28
+Question 29
+ ECG recorded in a 10-year-old mixed breed dog.
+1 What are the ECG findings in ECG 29 (25 mm/s; 10 mm/m V)?
+2 What is the clinical significance of this ECG?
+29
+10
+71
+Answers 28, 29
+ECG Cases
+Answer 28
+1 ECG 28 shows a normal sinus rhythm and first-degree AV nodal block.
+2 · The heart rate is 70 bpm. The P waves and QRS complexes are normal in morphology. The PR
+interval is 160 ms (normal: 60-130 ms) and consistent with a diagnosis of first-degree AV block.
+· First-degree AV block has no clinical sequelae unless it progresses to a more advanced form (i.e.
+second- or third-degree AV block). The exact etiology of AV block is often undetermined but can
+be due to high resting vagal tone, degeneration or infltration of the AV node, or infectious or
+inflammatory disease. First-degree AV block can also be an incidental finding in a healthy dog. Drugs
+that reduce or slow AV nodal conduction such as beta-blockers, digoxin, or calcium-channel blockers
+can exacerbate this conduction delay and result in more advanced forms of AV block. Opioids
+increase vagal tone and it might be best to avoid these drugs during the anesthesia protocol.
+Answer 29
+1 ECG 29 shows atrial fbrillation (AF).
+'sm d ou ane arau pue renai aenai s uuu au udq oiz si aeu ieay aaae au · 7
+The QRS complexes are narrow and of supraventricular morphology. The baseline displays small
+ atrial fibrillatory waves (f waves).
+· AF usually occurs in the presence of advanced cardiac disease, such as mitral valve disease or dilated
+cardiomyopathy. In these instances, the ventricular rate is typically rapid, thus requiring medications
+(e.g. digoxin, diltiazem, and/or atenolol) to slow conduction through the AV node and slow the
+rate. Spontaneous conversion back to sinus rhythm is rare. In some large breed dogs, AF can occur
+without any identifiable underlying cardiac disease (lone AF). In this instance, the ventricular rate is
+usually slow and might not require medication. Conversion of lone AF back to sinus rhythm using
+electric cardioversion (see ECG 5, p.40) or antiarrhythmic medications (amiodarone) is possible.
+· The key points are the irregularity of the ventricular rhythm, lack of P waves, the normal morphology
+of the QRS complexes indicating a supraventricular origin, and the rapid ventricular rate.
+72
+ECG Cases
+Questions 30, 31
+Question 30
+ECG recorded from a 6-year-old male castrated Boston Terrier presented with a 4/6 left-sided systolic
+apical murmur.
+1 What are the findings in ECG 30 (50 mm/s; 10 mm/mV)?
+2 What is the clinical significance of this ECG?
+30
+Question 31
+ECG recorded from a 10-year-old West Highland White Terrier with progressive weakness and syncope.
+1 What are the findings in ECG 31 (50 mm/s; 10 mm/mV}?
+2 What is the clinical significance of this ECG?
+31
+73
+Answers 30, 31
+ECG Cases
+Answer 30
+1 ECG 30 shows sinus arrhythmia and criteria for atrial enlargement.
+2 ● The heart rate is 90 bpm. There are wide and notched (bifid) P waves in leads II, IIl, and aVF. The
+P wave duration in lead II is 60 ms (normal: <40 ms). A wide and notched P wave is also referred
+to as *P mitrale' despite the fact that tall P waves can be detected in cases of both left or right atrial
+enlargement.
+· Atrial enlargement is associated with volume overload and increased atrial size, as for example
+occurs with degenerative mitral or tricuspid valve disease or cardiomyopathy. ECG detection of atrial
+enlargement is relatively insensitive but usually specific in both cats and dogs. This patient had severe
+left atrial enlargement due to advanced degenerative mitral valve disease.
+Answer 31
+1 ECG 31 shows sinus bradycardia and QT interval prolongation.
+2 · The heart rate is ~45 bpm. The PR interval is mildly prolonged at 140 ms, indicating first-degree
+ an iq u si  s a ll e u  mo P Pa si am d a o 
+interval is markedly prolonged at 360 ms (normal: 150-250 ms, depending on heart rate). The QT
+interval is measured from the beginning of the QRS complex to the end of the T wave and represents
+the total duration of electrical depolarization and subsequent repolarization of the ventricular
+ myocardium. The QT interval is inversely related to the heart rate.
+· Long QT syndromes are caused by abnormal ionic current flow during repolarization. Various
+drugs are a common cause of a long QT interval, including the class IA antiarrhythmic agents,
+including quinidine, procainamide, and disopyramide, and class IHl antiarrhythmic agents, including
+sotalol and amiodarone. A number of noncardiac drugs have also been reported to prolong QT
+interval, including cisapride, phenothiazines, haloperidol, tricyclic antidepressants, antimicrobial
+ agents (erythromycin, chloroquine, and trimethoprim-sulphamethoxazole), and antifungal agents 
+[ketoconazole and itraconazole).
+· Long QT intervals predispose to the development of polymorphic ventricular arrhythmias, (torsade
+de pointes; see ECG 4, p.38).
+74
+ECG Cases
+Question 32
+Question 32
+ECG recorded in a 13-year-old female domestic shorthair cat.
+1 What are the findings in ECG 32 (50 mm/s; 10 mm/mV)?
+ 2 What is the clinical significance of this ECG?
+32
+75
+Answer 32
+ECG Cases
+Answer 32
+1 ECG 32 shows an accelerated junctional rhythm and evidence of left heart enlargement.
+2 · The average heart rate is 185 bpm. The rhythm is slightly irregular.
+· Two different QRS complex morphologies are noted. P waves can be intermittently seen in front of
+QRS complexes of normal duration (arrows), and these beats appear to be sinus beats (heart rate
+195-214 bpm). Other QRS complexes also with narrow duration but greater amplitude (arrowheads)
+do not have a P wave associated with them, and these beats are most likely an accelerated junctional
+rhythm (heart rate 195 bpm).
+· The junctional (as opposed to ventricular) origin of the accelerated beats is suggested by the narrow
+QRS complex.
+· The amplitude of the sinus beat QRS complexes is increased at 1.9 mV (normal <0.9 mV) indicating left
+ventricular enlargement.
+· Accelerated junctional rhythms compete with the sinus node for control of the heart rate. When
+the sinus rate speeds up above the rate of the junctional rhythm, the sinus rate captures control of
+the rhythm. When the sinus rate slows below that of the accelerated junctional rate, the junctional
+rhythm captures control of the rhythm.
+· Accelerated junctional rhythms can occur secondary to underlying cardiomyopathy, as well as
+ secondary to extracardiac disease such as trauma, hypoxia, electrolyte abnormalities, and drugs.
+32
+76
+ECG Cases
+Questions 33, 34
+Question 33
+ECG recorded from a 3-year-old Welsh Springer Spaniel that presents for exercise intolerance.
+1 What are the findings in ECG 33 (50 mm/s; 10 mm/mV)?
+2 What is the clinical significance of this ECG?
+33
+Question 34
+ECG recorded from a 5-year-old cat with a heart murmur.
+1 What are the findings in ECG 34 (50 mm/s; 10 mm/mV)?
+2 What is the clinical significance of this ECG?
+34
+77
+Answers 33, 34
+ECG Cases
+Answer 33
+1 ECG 33 shows sinus arrhythmia, first-degree AV nodal block, and low amplitude QRS complexes.
+2 · The heart rate is ~80 bpm. There is a prolonged PR interval of 140 ms, which is indicative of first-
+degree AV block. The amplitude of the R waves is <1.0 mV in leads I, II, II, and aVF, which is 
+unusual for a medium or large breed dog.
+· Conditions associated with low amplitude QRS complexes include a variety of cardiac and
+extracardiac causes. Pericardial effusion is the most common cardiac cause of low amplitude QRS
+complexes. Other causes include cardiomyopathy, cardiac neoplasia, constrictive pericarditis, and
+myocarditis.
+· Extracardiac causes are due to the pathology of organs and tissues surrounding the heart. Causes
+ include peritoneopericardial diaphragmatic hernia, pneumomediastinum, pneumothorax, pneumonia,
+and obesity. This patient had a peritoneopericardial diaphragmatic hernia that was surgically
+corrected as it was causing clinical signs of exercise intolerance. The first-degree AV block is an
+incidental finding and of no clinical consequence.
+Answer 34
+1 ECG 34 shows sinus rhythm and right bundle branch block (RBBB)
+2 ● The heart rate is 150 bpm. The duration of the QRS is prolonged at 80 ms (normal: <40 ms).
+The QRS complexes in leads I, II, II, and aVF are negative and the MEA is shifted to the right at
+-120*. This shift in MEA occurs because conduction is blocked down the right bundle, so that the
+depolarization travels rapidly down the left bundle branch activating the left ventricle first, followed
+by right ventricular depolarization. The right ventricular depolarization is prolonged due to slower
+conduction from myocyte to myocyte instead of the rapidly conducting Purkinje system. This results
+ in the late and dominant S wave in the aforementioned leads. There is a notch in the QRS complex,
+which is commonly seen in cases of RBBB.
+· RBBB occurs either as a consequence of conduction system disease in the right bundle branch or
+can be an incidental finding in a healthy animal, particularly in dogs. Rarely, RBBB is associated
+with severe right ventricular hypertrophy secondary to a pressure overload condition such as
+pulmonic stenosis. More commonly, such conditions produce a right axis shift but without excessive
+prolongation of conduction time.
+· Due to the delayed activation of the right ventricle, RBBB may cause a prolonged right ventricular
+ejection time, thus resulting in delayed closure of the pulmonic valve, which may be ausculted as a
+split second heart sound.
+78
+ECG Cases
+Questions 35, 36
+Question 35
+ECG recorded from an 8-year-old Doberman Pinscher with dilated cardiomyopathy.
+1 What are the findings in ECG 35 (50 mm/s; 10 mm/mV)?
+2 What is the clinical significance of this ECG?
+35
+Question 36
+ECG recorded from an 8-year-old Doberman Pinscher with a history of syncope.
+1 What are the findings in ECG 36 (50 mm/s; 10 mm/mV)?
+2 What is the clinical significance of this ECG?
+36
+79
+Answers 35, 36
+ECG Cases
+Answer 35
+1 ECG 35 shows AF and a LBBB morphology.
+2 · The heart rate is ~185 bpm. The rhythm is irregularly irregular. The QRS duration is prolonged
+(>80 ms) due to a wide Q and R wave.
+· The diagnosis of a LBBB is made based on a normal MEA of the QRS complex with increased
+duration of the QRS.
+· AF is a common sequela to atrial dilation associated with advanced dilated cardiomyopathy. Due to
+the absence of P waves, and the LBBB morphology, one may be inclined to make a diagnosis of VT
+in this ECG. The key feature to recognize AF with a LBBB is the irregularity of the rhythm; VT is
+usually more regular.
+· AF in the setting of advanced myocardial failure is typically associated with tachycardia and can lead
+to exacerbation of heart failure signs, such as ascites or pulmonary edema.
+Answer 36
+1 ECG 36 shows polymorphic VT.
+2 · Five sinus beats (black arrows) are seen. The other complexes are wide and bizarre compared to the
+normal sinus beats, indicating a ventricular origin. A short period of VT consisting of five ventricular 
+premature beats (blue arrows) is detected in the middle of the recording, with a heart rate of
+200 bpm. The VPCs have two different and distinct morphologies (i.e. polymorphic), suggesting that
+they arise from two different areas within the ventricles.
+● There is one potential fusion beat (green arrow), indicating simultaneous ventricular depolarization
+from a sinus impulse and a ventricular ectopic impulse. The resultant QRS complex morphology is a
+combination of a normal sinus QRS and abnormal VPC QRS.
+· In this case, dilated cardiomyopathy was diagnosed via echocardiography and the antiarrhythmic
+agent sotalol was prescribed, based on the presumption that syncope was being caused by longer runs
+of polymorphic VT.
+36
+80
+ECG Cases
+Questions 37, 38
+Question 37
+ECG 37 was recorded in an 18-year-old cat with a history of chronic dyspnea.
+1 What are the findings in ECG 37 (50 mm/s; 10 mm/mV)?
+2 What is the clinical significance of this ECG?
+37
+Question 38
+ECG recorded in a 2-year-old Rottweiler, with a grade 4/6 systolic murmur.
+1 What are the findings in ECG 38 (50 mm/s; 5 mm/mV)?
+2 What is the clinical significance of this ECG?
+38
+81
+Answers 37, 38
+ECG Cases
+Answer 37
+ 1 ECG 37 shows a sinus rhythm and criteria for right ventricular hypertrophy.
+2 · The heart rate is 215 bpm. The QRS duration is within normal limits and each is preceded by a
+normal P wave. There is a shift in the MEA to the right at -100°, indicated by a predominantly
+negative QRS morphology in leads I, II, II, and aVF.
+· Right axis deviations are associated with either right ventricular hypertrophy or RBBB, with the
+discriminating feature being the duration of the QRS complex. QRS durations >60 ms in the cat are
+· In this cat an echocardiogram revealed marked right ventricular hypertrophy due to pulmonary
+hypertension and tricuspid insufficiency.
+Answer 38
+1 ECG 38 shows sinus arrhythmia with criteria for left ventricular hypertrophy.
+2 · The heart rate is ~150 bpm. Note that the ECG was recorded at 5 mm/mV, which results in the
+ amplitude of the QRS complex as appearing half its actual height. The P wave amplitude is normal at
+0.4 mV. The MEA is +80°, which is in the normal range. The R wave amplitude in lead II is
+4.4 mV, in lead aVF is 4.6 mV, and in lead I is 1.5 mV, all of which are indicative of left ventricular
+hypertrophy.
+· Left ventricular hypertrophy increases the magnitude of the electrical wavefront travelling through
+the left ventricle, resulting in an increased R wave in leads parallel with this wavefront, primarily
+leads II and aVF. Diseases that cause left heart hypertrophy include cardiomyopathy, valve disease,
+and a variety of congenital heart defects. The left heart hypertrophy pattern is not specific to any
+one disease or cause, and further diagnostics such as thoracic radiography or echocardiography are
+warranted.
+· In this case, echocardiography revealed congenital subaortic stenosis and resulting concentric left
+ventricular hypertrophy.
+82
+ECG Cases
+Question 39
+Question 39
+ECG recorded from a 1-year-old cat presented to the emergency service with a history of syncope and
+having just received a calcium-channel blocker (diltiazem).
+1 What are the findings in ECG 39a (25 mm/s, 20 mm/mV)?
+2 What is the clinical significance of this ECG?
+39a
+83
+Answer 39
+ECG Cases
+Answer 39
+1 ECG 39a shows a SVT converting into sinus rhythm.
+2 · The initial section of ECG 39a shows a narrow complex tachycardia at a rate of 300 bpm. The QRS
+complexes are tall and narrow and therefore the arrhythmia is presumed to be supraventricular in origin,
+despite the fact that P waves cannot be readily identified. The heart rate is rapid enough that any P waves
+will be buried in the preceding T wave. Diltiazem, a calcium-channel blocker was administered and the
+SVT terminated abruptly followed by a sinus rhythm with a heart rate of 125 bpm.
+● This ECG demonstrates the difficulty in discerning VT from SVT when the heart rate is very rapid.
+A differential diagnosis for the arrhythmia is VT, as the QRS complexes during the tachycardia do
+not look exactly like the QRS complexes during sinus rhythm. The response to diltiazem, however,
+strongly suggests that this was a SVT, as calcium-channel blockers are effective at terminating SVTs
+but are not effective at treating ventricular arrhythmias.
+The cat from ECG 39a was stabilized and a subsequent ECG was recorded several hours later {ECG 39b).
+The ECG shows sinus rhythm with a heart rate of 200 bpm. The PR interval is unusually short (40 ms;
+normal: 50-90 ms). resulting in a P wave that appears very close to the QRS complex. This finding
+AV pathway. Accessory pathways (APs) are extra-AV nodal pathways situated between the atria and the
+ventricles and allow the cardiac impulse to travel directly from the atria to the ventricles while bypassing
+the AV node. Normal conduction via the AV node is also present. In ventricular pre-excitation, the AP
+reaches the ventricle prior to AV nodal impulses and 'pre-excites' the ventricle, causing early activation and
+can result in a QRS complex with a slurred upstroke, called a delta wave.
+Pre-excitation by itself has little clinical consequence; however, the presence of the AP along with
+the AV node creates a circuit of conduction tissue that promotes development of SvT. SvT as seen in
+ECG 39a is often triggered by an atrial premature contraction. The tachycardia utilizes the AV node for
+forward conduction and the AP for conduction back to the atria. Drugs that block AV nodal conduction.
+such as diltiazem, can terminate the SvT by blocking impulse conduction through the AV node. Other
+antiarrhythmic drugs can selectively slow conduction in the AP and can also be effective at terminating the
+tachycardia. Cessation of tachycardia that is resistant to medical therapy requires interventional procedures
+such as catheter ablation using radiofrequency energy to destroy (ablate) the accessory pathway.
+39b
+MAAMMMAMMMMAMMAMMMM
+人人人人人
+84
+ECG Cases
+Question 40
+Question 40
+ECG recorded from a 5-month-old German Shepherd dog with a continuous murmur.
+1 What are the findings in ECG 40 (50 mm/s; 5 mm/mV)?
+ 2 What is the clinical significance of this ECG?
+40
+85
+Answer 40
+ECG Cases
+Answer 40
+ 1 ECG 40 shows sinus rhythm with criteria for left ventricular enlargement and a motion artifact.
+2 · The heart rate is 115 bpm. The P waves are normal in amplitude and duration. Note that the ECG
+was performed with a sensitivity setting of 5 mm/mV, which results in complexes half their normal
+size. Thus, the R wave amplitude is increased at 4.0 mV (normal: <3.0 mV in large breed dogs) and
+the QRS duration is prolonged at 70 ms (normal: <60 ms). Both of these findings are consistent with
+left ventricular hypertrophy. Based on the dog's age and breed and presence of a continuous murmur,
+a patent ductus arteriosus is the most likely cause of the left heart hypertrophy.
+● The fourth complex from the left is a result of movement artifact. At first inspection, the ECG
+complex appears to have a morphology similar to the surrounding QRS complexes and to arrive
+earlier than expected, thereby suggesting that it is a supraventricular or atrial premature beat.
+However, two characteristics indicate that it is an artifact. Firstly, the *QRS complex' does not have
+a characteristic T wave following it similar to all the other beats, and secondly, the *QRS complex' is
+absent from lead I. It is impossible for the heart to depolarize (forming a QRS complex) and not to
+repolarize (forming a T wave), and it would be highly unlikely that a true QRS complex would not be
+detected in all leads. Based on the orientation of leads I, II, and II (see Section 1, Figure 1.1), artifact
+ generated by the left hind limb (in this case movement of the leg) will cause artifact in leads II and III,
+which both use the left hind limb as one pole of the ECG recording, but be absent in lead I, which
+ uses the left and right forelimbs for its ECG recording.
+· Electrocardiographic artifact is common in dogs and cats and careful inspection of the ECG is needed
+ to avoid misinterpretation of these deflections.
+86
+ECG Cases
+Questions 41, 42
+Question 41
+ECG recorded in an 11-year-old mixed breed dog.
+1 What are the findings in ECG 41 (50 mm/s; 10 mm/m V)?
+2 What is the clinical significance of this ECG?
+41
+Question 42
+ECG recorded from a 4-month-old German Shepherd dog under general anesthesia.
+1 What are the findings in ECG 42 (25 mm/s; 10 mm/mV)?
+2 What is the clinical significance of this ECG?
+42
+H
+600 ms
+87
+Answers 41, 42
+ECG Cases
+Answer 41
+1 ECG 41 shows sinus bradycardia (SB).
+2 ● The heart rate ranges from 44 bpm to 70 bpm. The rhythm is slightly irregular.
+● There is a normal P wave, QRS complex, and T wave for every beat.
+· Causes of SB include high resting vagal tone, sinus node dysfunction, electrolyte abnormalities (i.e.
+hyperkalemia), central nervous system disease, hypothermia, and drugs (e.g. anesthestics, sedatives,
+opioids).
+· In this case, the cause of the SB is likely related to high resting vagal tone as the irregularity is
+suggestive of sinus arrhythmia. If so, a normal response to exercise or administration of atropine
+should be an increase in the heart rate and regularity. Failure to respond to these stimuli can signal
+underlying conduction system disease.
+Answer 42
+1 ECG 42 shows VT degenerating into VF.
+ 2 ● The first two QRS complexes (A) are the result of an artificial pacemaker with a rate of 100 bpm. The
+rhythm changes into a rapid and polymorphic VT, before it degenerates into VF (B).VF is characterized
+by low amplitude and disorganized electrical activity of the heart where the ECG deflections constantly
+change in shape, direction, and amplitude. Normal P-QRS-T waves are not discernible during VF. In 
+this example the fibrillatory waves appear relatively coarse. Typically, the amplitude of coarse fibrillation 
+becomes progressively lower with ever-finer oscillations detected on the ECG.
+· During VF the ventricular muscle twitches randomly, rather than contracting in a coordinated
+fashion. Subsequently the ventricles fail to pump blood into the systemic and pulmonary circulation.
+VF causes loss of consciousness within seconds, as cardiac output totally ceases, and the rhythm is
+fatal if not treated immediately. External electrical defbrillation is the most successful method to
+terminate VF and help restore a more effective rhythm.
+88
+ECG Cases
+Questions 43, 44
+Question 43
+ECG recorded from a 10-year-old Cocker Spaniel.
+1 What are the ECG findings in ECG 43 (50 mm/s; 10 mm/mV}?
+2 What is the clinical significance of this ECG?
+43
+Question 44
+ECG recorded in a 7-year-old male domestic shorthair cat.
+1 What are the findings in ECG 44 (50 mm/s; 10 mm/mV}?
+2 What is the clinical significance of this ECG?
+44
+89
+Answers 43, 44
+ECG Cases
+Answer 43
+1 ECG 43 shows a junctional escape complex.
+2 ● The first three beats appear sinus in origin with a rate of 120 bpm. After these beats there is a
+period of sinus arrest/pause of approximately 1.4 seconds, followed by a junctional escape beat with
+a different P wave configuration. The QRS configuration of the junctional escape beat is normal.
+● Junctional escape beats occur when the rate of the sinus rhythm slows below the intrinsic rate of the
+junctional escape rhythm (typically 40-80 bpm). The P wave of the escape beat is typically different
+from that of the sinus beat, indicating its origin from the escape focus rather than the sinus node.
+· Escape rhythms should never be suppressed, rather the underlying cause of the bradycardia should be
+investigated.
+· The key points are normal QRS complexes with negative or altered P wave configuration occurring
+after periods of bradycardia or asystole.
+Answer 44
+1 ECG 44 shows sinus rhythm
+ 2 · The average heart rate is 200 bpm. The rhythm is regular with normal P (blue arrows), QRS
+(black arrows), and T waves (green arrows).
+● Sinus rhythm represents a normal sequence of atrial and ventricular depolarization that occurs
+at a normal heart rate. Beats are initiated by depolarization of the SA node, followed by atrial
+depolarization (P wave), AV node depolarization (PR interval), and ventricular depolarization (QRS
+complex) and repolarization (T wave). The normal T wave in cats is often very low-voltage and may
+ not be visualized at all.
+· In cats, the rate of sinus rhythm is typically 120-240 bpm.
+· Note that in the cat with normal sinus rhythm, the polarity of the QRS complexes is positive in leads
+ II and aVF, indicating a normal MEA.
+44
+90
+ECG Cases
+Questions 45, 46
+Question 45
+ECG recorded in a 16-year-old male castrated domestic longhair cat with a suspected aortic
+thromboembolism.
+1 What are the findings in ECG 45 (50 mm/s; 10 mm/mV)}?
+2 What is the clinical significance of this ECG?
+45
+Question 46
+ECG recorded in a 13-year-old domestic shorthair cat.
+1 What are the findings in ECG 46a (50 mm/s; 10 mm/mV}?
+2 What is the clinical significance of this ECG?
+46a
+91
+Answers 45, 46
+ECG Cases
+Answer 45
+1 ECG 45 shows atrial standstill
+ 2 ● The heart rate is ~105 bpm and the rhythm is regular
+· There is an absence of P waves. The QRS complexes are narrow indicating they are likely
+supraventricular in origin.
+· The lack of P waves, slow heart rate, and supraventricular QRS complexes are most consistent with
+atrial standstill. The QRS complexes are likely junctional escape beats.
+· Atrial standstill can be secondary to a degenerative atrial myopathy or secondary to severe electrolyte
+abnormalities, such as hyperkalemia
+● The degenerative atrial myopathy is typified by loss of functional atrial myocytes and atrial fibrosis,
+ and atrial standstill is usually permanent.
+· Hyperkalemia can be secondary to metabolic disease (i.e. diabetic ketoacidosis), renal failure, or
+reperfusion injury that sometimes accompanies feline aortic thromboembolism. Correction of
+hyperkalemia (e.g. diuresis, glucose, insulin, and so on) can restore normal sinus rhythm.
+Answer 46
+1 ECG 46a shows SVT and a left MEA shift consistent with left anterior fascicular block (LAFB).
+2 ● The heart rate is 300 bpm and the rhythm is regular. The QRS complexes are narrow; however, the
+QRS polarity is predominantly negative in leads II, Hl, and aVF, while positive in leads I and aVL,
+and is consistent with a left MEA shift (see ECG 18, p.56).
+· There are P waves in front of each QRS complex indicating that the origin of the QRS complexes is
+supraventricular (rather than ventricular despite the abnormal polarity).
+· SVT can be due to underlying cardiomyopathy, hyperthyroidism, cardiac neoplasia, or drug toxicity
+(e.g. bronchodilators, chocolate, sympathomimetics).
+· In this case, the presence of the left axis shift is confirmed as the SVT suddenly terminates (arrows,
+ECG 46b) and two sinus beats (arrowheads) appear at a slower heart rate.
+46b
+92
+LLL
+In this concise and practical review, the authors recognise
+that, among the range of cardiac investigations available
+to veterinarians, the standard electrocardiogram (EcG) is
+ an indispensable, safe, and inexpensive test in assessing
+dogs and cats with heart disease.
+Following discussion of the principles of
+electrocardiography, the book deals systematically with
+the evaluation of the EcG, covering determination of
+heart rate, measurement of intervals, derivation of the
+mean electrical axis, criteria for atrial and ventricular
+enlargement or hypertrophy, intraventricular conduction
+disturbances, and both normal and abnormal cardiac
+rhythms. It includes flow charts to help users diagnose
+arrhythmias with confidence and 46 real cases and ECG
+tracings that reinforce the principles and discussion.
+Rapid Review of EcG Interpretation in Small Animal
+Practice is illustrated throughout and is of value to all
+veterinary practitioners, technicians, and students who
+wish to improve their skills in interpreting ECCs
+CRC Press
+6000 Broken Sound Parkway,NW
+K21976
+Suite 300, Boca Raton, FL 33487
+ISBN:978-1-84076-198-6
+Taylor & Francis Group
+711 Third Avenue
+New York,NY10017
+00006
+an informa business
+2 Park Square, Milton Park
+www.crcpress.coml
+Abingdon, Oxon OX14 4RN, UK
+www.crcpress.com

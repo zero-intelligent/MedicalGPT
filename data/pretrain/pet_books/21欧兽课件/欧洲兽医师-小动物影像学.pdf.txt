@@ -1,0 +1,282 @@
+SmallAnimal
+Radiology
+小动物影像学
+ESAVS
+EuropeanSchoolfor
+UNIVERSITE DU
+AdvancedVeterinaryStudies
+LUXEMBOURG
+Prof. dr. Paul Y Barthez, Dip. ECVDl, Dip. ACVR
+Pr Dominque Begon, Dip. ECVDl
+Basisof Radiographic
+ImageFormation
+放射成像基础
+RAYONS
+Prof. dr. Paul Barthez, Dip ACVR, Dip ECVDl
+VEDIM
+VeterinaryDiagnosticImaging
+pbarthez @hotmail.com
+Introduction简介
+1895 : Discovery of x-rays, by Rontgen, in Germany
+Rontgen在德国发现x光线
+1896 : First radiograph of an animal
+第一张动物的×光片
+1900 : American Roentgen Ray Society
+美国X射线学会
+简介
+Introduction
+20th century : technological improvement
+20世纪：技术革新
+1962 : American College of Veterinary
+Radiology (ACVR)
+美国兽医放射学学院
+ACVR
+1992 : European College of Veterinary
+Diagnostic Imaging (EcVDl)
+欧洲兽医影像诊断学院
+RadiographicImageFormation
+X射线影像形成
+Radiographic image is made by attenuation
+differences of the x-ray beam as it goes through
+different parts of the body
+放射影像是当×射线穿过物体的不同部位时因
+其衰减程度不同而形成的
+X-ray machine
+X光机
+Radiology
+RadiographX光片
+杯个个个
+Receptor受体
+Interaction between X-rays and Matter
+X光与物体的相互作用
+X-rays can
+X光可以：
+-go through穿过
+Black黑色
+-bestopped不能穿过
+Greytowhite灰色到白色
+-bedeviated偏移
+Fog雾状
+Attenuation
+衰减作用
+Decrease in number of x-rays
+X光的数量减少
+Relative number of x-ray
+Decreasing exponential law :
+0.8
+曝光减少量公式
+0.6
+Ix = I。 e-mx
+0.4
+0.2
+Thickness (cm)
+Attenuation衰减作用
+Dependsonthickness取决于厚度
+Dependsoncomposition取决于组成
+-Density密度
+－Atomicnumber原子数
+Depends on energy of x-rays (kV)
+取决于×射线的能量
+- When energy increases, attenuation decreases
+能量下降，衰减作用下降
+RadiographicImage
+Brightness and Contrast
+X光片亮度与对比度
+Mean attenuation : image brightness
+平均衰减作用：景
+影像亮度
+Differences in attenuation : image contrast
+衰减作用的差异：影像对比度
+Brightness亮度
+Mean brightness = sum
+ot
+attenuation when x-
+rays are going through
+the body
+平均亮度=X光穿过物体衰
+减作用的总和
+Objects are
+superimposed one
+over the others
+物体相互重叠
+DifferencesinAttenuation
+衰减差异性
+Composition: density and atomic number
+成分：密度和原子数
+- 5 categories of opacity in the body with
+visible differences in attenuation
+体内具有可辨识出的衰减差异的5类不透明度结构
+Contrast : 5 Different Types of Opacity
+对比度：5种不同类型的不透明度
+Metal金属
+Bone骨骼
+Water (soft tissue / liquid)
+水 （软组织/液体）
+Fat脂肪
+Air/gas空气/气体
+Silhouette
+轮廓
+Radiographic image :
+shadow
+X光片：阴影
+We can only see the
+silhouette of soft
+tissue structures
+我们只能见到软组织结构的轮廓
+Radiology影像学
+Poorcontrastresolution对比度分辨率差
+Improvement with contrast procedures
+对比度操作改进
+Contrast Resolution
+对比度分辨率
+Interactionbetween X-rays and Matter
+X光与物质的反应关系
+Photoelectriceffect光电效应
+Compton effect
+康普顿效应
+Photoelectric Effect
+光电效应
+X-raysarestoppedX光不能穿过
+Probability of occurence depends on发
+生的可能性取决于：
+-Density(g/cm3)密度
+- Atomic number (Z) to the power of 3
+原子数数量的3次方
+Mostly with low energy x-rays (< 70 kV)
+常发生于低能量的×光（<70kV）
+ComptonEffect康普顿效应
+X-raysaredeviatedX光偏移
+-Scatterradiation散射
+Probability of occurrence depends on
+发生的可能性取决于：
+-Density（g/cm3）密度
+Mostly with high energy x-rays (> 90 kV)
+常发生于高能量射线（>90kV）
+ScatterRadiation散射
+Comes from the patient
+来自于病畜
+Scatter radiation increases with
+散射会随着以下条件增多：
+一Energyofx-rays（kV）X线的能量
+-Volumeirradiated受辐射量：
+·Fieldsize照射面大小
+·Patientthickness病畜厚度
+ScatterRadiation散射
+Effectsonradiographicimage对x光影像的影响：
+- Contributes to overall film darkness: Fog
+对整体影像暗度的影响：雾状
+- Decreases image contrast
+降低对比度
+ScatterRadiation散射
+Effectsonradiographicimagex光片效果：
+- Contributes to overall film darkness: Fog
+片子整体发黑：雾状
+-Decreasesimage contrast对比度下降
+Biologicaleffects生物学效应：
+-Radiationprotectionrules放射保护规则
+ScatterRadiation散射
+Interaction between X-rays
+and Matter : Image Contrast
+X光与物质的相互作用：对比度
+Muscle肌肉：density密度=1
+Z=7.42
+Bone骨骼：（
+density密度=1.85
+Z=13.8
+Attenuationdifference衰减作用差异？
+Photoelectriceffect光电效应
+(1/1.85) x (7.43/13.8)3 = 1/12
+InteractionbetweenX-rays
+and Matter : Image Contrast
+X光与物质的相互作用：对比度
+Muscle肌肉：density密度=1
+Z=7.42
+Bone骨骼：
+density密度=1.85
+Z=13.8
+Attenuationdifference衰减作用差异？
+Photoelectric effect :
+(1/1.85) x (7.43/13.8)3 = 1/12
+Comptoneffect康普顿效应：
+1/1.85
+Photoelectric Effect/ Compton Effect
+光电效应康普顿效应
+X-ray Energy
+X光能量
+Low voltage (50 - 70 kV)低千伏
+High voltage ( >90 kV)高千伏
+Photoelectriceffect光电效应
+Comptoneffect康普顿效应
+Lower attenuation difference
+Large attenuation difference
++Scatter radiation
+衰减差异大
+较小的衰减差异+散射
+Good contrast良好对比度
+Lower contrast低对比度
+100KV
+8.8MAS
+Effect of
+Voltage on
+80KV
+17.8MAS
+Image
+Contrast管
+电压对图像
+65KV
+41.6MAS
+对比度的影
+响
+50KV
+148MAS
+Geometry of theRadiographic Image
+X影像的几何学
+Conic projection (monocular vision)
+锥形投影（单眼视觉）
+-Deformation变形
+Magnification放大
+Projection
+投影
+Radiology : projection of a 3-D object on a
+planar surface (radiographic film)
+X光片：3-D结构投影于平面上（胶片）
+2 orthogonal projections
+2个正交投影
+OrthogonalProjections正交投射
+MultipleProjections多角度投射
+Conic Projection
+锥形投射
+Deformation of objects
+物体变形
+Magnification放大
+Due to the diverging nature of
+S
+the x-rays beam
+决取于X光线的散射特性
+SO
+Associated with blurriness
+SF
+与模糊度相关
+Object to radiograph
+as close as possible
+to the table
+-
+物体与X光片尽可能接近桌面
+Magnification
+1放大
+The limb closest to the
+table is the smallest
+最接近桌面的肢体是最小
+的
+Conclusion结论
+Understanding how the radiographic image
+is made is the basis for a good interpretation
+理解X光影像的成像原理是进行良好判读的基础
+Conclusion结论
+Radiographic protocols are made to optimize
+the information collected depending on the
+region and expected findings
+X光操作规程是根据照射区域和期待的发现而制定
+出来，以求能够优化采集到的信息
+-2 orthogonalradiographs2个正交位X光片
+-Specialprojectionsasneeded根据需要选择特殊投影

@@ -1,0 +1,1276 @@
+图IV-1外形和分部 The shape and distribution
+10
+6
+图IV-2整体骨骼侧面观 The skeleton.Lateral view
+12
+6572820323
+345
+16
+17-
+18-
+19-
+20-
+67304
+21-
+22-
+24
+25-
+1颈neck
+2耳ear
+3头head
+4眼eye
+5鼻nose
+6 mouth
+7前肢 anterior limb
+8尾cauda
+9背back
+10后肢 posterior limb
+11胸thorax
+12肋骨rib
+13 腰椎 lumbar vertebra
+14 骼骨 ilium
+15坐骨ischium
+16尾骨coccyx
+17股骨femur
+18骨patella
+19排骨fibula
+20胫骨 tibia
+21 附骨 tarsal bone
+22 跖骨 metatarsal bone
+23 趾骨 digital bone
+24胸骨sternum
+25肩脾骨 scapula
+26 胸椎 thoracic vertebra
+27 颈椎 cervical vertebra
+28 枢椎 axis
+29 寰椎 atlas
+30 枕骨 occipital bone
+31 顶骨 parietal bone
+32 额骨 frontal bone
+33 上颌骨 maxillary bone
+34颧骨 malar bone
+35 下颌骨 mandible bone
+36 颢骨 temporal bone
+37肱骨humenus
+38尺骨ulna
+39挠骨radius
+40掌骨 metacarpal bone
+41指骨 digital bone
+42 腕骨 carpal bone
+图IV-3头骨上面 The skull.Superior aspect
+    
+-15
+16
+17
+1C
+20
+22
+图IV-5头骨侧面 The skull.Lateral aspect
+23-
+11-
+-27
+28
+29
+-30
+图IV-6头骨前面 The skull.Anterior aspect
+31-
+6
+32
+4
+-1
+3-
+-26
+2
+29-
+-30
+27-
+-28
+30-
+-33
+16-
+1上颌骨maxillarybone
+2眶下孔 infraorbitalfossa
+3 颧骨 malar bone
+4眶腔orbital cavity
+5 颢骨 temporal bone
+6外鼻孔 external naris
+7鼻骨 nasal bone
+8泪骨 lacrimal bone
+9额骨 frontal bone
+10冠状缝coronalsuture
+11 顶骨 parietal bone
+12 矢状缝 sagittal suture
+13 矢状 sagittal crest
+14人字缝 lambdoid suture
+15 犬齿 canine tooth
+16下颌骨mandible bone
+17 白齿 molar tooth
+18额弓zygomatic arch
+19 后鼻孔 posterior naris
+20 鼓泡 tympanic bulla
+21枕骨 occipital bone
+22 枕大孔 foramen magnum
+23 眶腔 orbital cavity
+24 外耳门 external acoustic pore
+25 鼻前孔 anterior naris
+26 门齿 incisor tooth
+27 上犬齿 upper canine tooth
+28 下犬齿 lower canine tooth
+29 上白齿 upper molar tooth
+30 下白齿 lower molar tooth
+31 额骨 frontal bone
+32 下鼻甲 inferior concha
+33 下门齿 lower incisor
+图IV-7颈椎腹面 The cervical vertebra.
+图IV-8颈椎背面The cervical vertebra.
+Ventralaspect
+Dorsalaspect
+11
+0
+6
+7
+8
+图IV-9胸椎背面The thoracic vertebra.
+图IV-10腰椎侧面 The lumbar vertebra.
+Dorsalaspect
+Lateralaspect
+-19
+12
+20
+13-
+-10
+26
+14-
+10-
+27
+22
+15
+23
+16-
+24
+17-
+18
+1寰椎atlas
+2第一颈椎 1st cervical vertebra
+3第二颈椎2nd cervical vertebra
+4 第三颈椎 3rd cervical vertebra
+5第四颈椎 4th cervical vertebra
+6 第五颈椎 5th cervical vertebra
+7第六颈椎 6th cervical vertebra
+8第七颈椎 7th cervical vertebra
+9横突transverse process
+10棘突 spinous process
+11枢椎axis
+12 第一胸椎棘突 spinous process of Istthoracic vertebra
+13 第二胸椎棘突 spinous process of 2nd thoracic vertebra
+14 第三胸椎棘突 spinous process of 3rd thoracic vertebra
+15 第四胸椎棘突 spinous process of 4th thoracic vertebra
+16 第五胸推棘突 spinous process of 5th thoracic vertebra
+17 第六胸椎棘突 spinous process of 6th thoracic vertebra
+18第七胸椎棘突 spinous process of 7th thoracic vertebra
+19第一胸椎Istthoracic vertebra
+20第二胸椎 2nd thoracic vertebra
+21第三胸椎3rd thoracic vertebra
+22第四胸椎 4th thoracic vertebra
+23第五胸椎5th thoracicvertebra
+24第六胸椎6th thoracic vertebra
+25 第七胸椎 7th thoracic vertebra
+26 椎间孔 intervertebral foramen
+27关节突 articular process
+图 IV-11 胸廓背面 The thorax.Dorsal
+图IV-12肩肿骨背面 The scapula.Dorsal aspect
+aspect
+-10
+11-
+12
+图IV-13肩胛骨腹面 The scapula.Ventral aspect
+1胸椎棘突 spinous process of thoracic
+vertebra
+10
+2 胸椎 thoracic vertebra
+3肋骨rib
+4浮肋floating ribs
+5前缘anterior brim
+11
+6冈上窝 infraspinousfossa
+7背缘dorsal brim
+8关节孟 glenoid cavity
+-14
+9喙突 coracoid process
+10肩峰acromion
+11后缘 posterior brim
+12肩胛冈 scapular spine
+13 冈下窝 supraspinous fossa
+14肩胛下窝subscapularfossa
+图IV-14 前肢骨内侧面 The bones of anterior limb.Medial aspect
+图IV-15 前肢骨外侧面 The bones of anterior limb. Lateral aspect
+1肱骨头headofhumerus
+5腕骨 carpal bone
+2肱骨humerus
+6掌骨 metacarpal bone
+3挠骨radius
+7指骨 digital bone
+4尺骨ulna
+图IV-16 骨盆背面 The pelvis.
+图IV-17骨盆腹面Thepelvis.Ventralaspect
+Dorsal aspect
+11
+13
+14
+图IV-18 骨盆及尾骨侧面 The pelvis and coccyx.Lateral aspect
+1 骼骨翼ala of ilium
+2荐骨sacnum
+3髋白acetabulum
+15
+4坐骨棘ischialspine
+5 坐骨支 ramus of ischium
+6坐骨结节ischial tuberosity
+7尾骨coccyx
+8耻骨pubis
+9坐骨ischum
+10坐耻骨联合ischiopubic
+symphysis
+11 荐骨翼 ala of sacrum
+12 闭孔 obturator foramen
+13 耻骨联合 pubic symphysis
+14 坐骨弓 ischial arch
+15 骼前上棘 anterior superior
+iliac spine
+图IV-20后肢骨外侧面 The bones of posterior limb.Lateral aspect
+1胫骨tibia
+2趾骨digital bone
+3跖骨metatarsalbone
+4跟骨calcaneus
+5排骨fibula
+6骨 patella
+7股骨femur
+8股骨头femoral head
+图IV-21口腔前面观The oral cavity.Anterior view
+图IV-23脑背面 The brain.Dorsal aspect
+17-
+22
+18-
+-23
+-24
+19
+-25
+20
+21-
+-26
+-27
+28
+图IV-22 喉与舌上面 The larynx and tongue.Superior aspect
+-10
+1
+-12
+13
+15
+16
+1 上犬齿 upper canine tooth
+2 上白齿 upper molar toot
+3 下白齿 lower molar tooth
+4下犬齿 lower canine tooth
+5鼻前孔 anterior naris
+6门齿 incisor tooth
+7硬聘 hard palate
+8软聘soft palate
+9舌 tongue
+10 喉 aperture of larynx
+11会厌软骨epiglottic cartilage
+12下颌骨 mandible
+13 舌扁桃体lingual tonsil
+14 舌根 root of tongue
+15 舌体 body of tongue
+16 舌尖 apex of tongue
+17嗅球 olfactory bulb
+18 乙状回 sigmoid gyros
+19 薛氏上回 suprasylvian gyrus
+20薛氏后回retrosylviangyros
+21 缘回 supramarginal gyros
+22 眶小脑半球 orbital cerebellar hemisphere
+23薛氏前沟 anterior sylvian sulcus
+24 十字沟 cruciate sulcus
+25 外侧沟 lateral sulcus
+26小脑vermis
+27小脑半球 cerebellar hemisphere
+28 脊髓 spinal cord
+图IV-24脑腹面Thebrain.Ventral aspect
+-8
+-10
+4
+-11
+5
+-2
+-13
+6-
+图IV-25 脑外侧面 The brain. Lateral aspect
+14
+22
+图IV-26脑与背髓背面Thebrain and
+图IV-27脑与脊髓腹面Thebrain and
+ spinal cord.Dorsal aspect
+spinal cord. Ventral aspect
+2#
+16
+94
+16-
+31
+-12
+-14
+29-
+6
+22-
+-15
+32
+32
+24
+24
+33
+-33
+1 视神经 optic nerve
+2下颌神经mandibular nerve
+3上颌神经 maxillary nerve
+4眼神经ophthalmic nerve
+5 脑桥墓底沟 basilar sulcus of pons
+6 延髓 myelencephalon
+7嗅束olfaceory tract
+8嗅神经olfactory nerve
+9 视交叉 optic chiasma
+10梨状叶 pyriform lobe
+11大脑脚 cerebral pedumcle
+12脑桥pons
+13 延髓锥体 of myelencephalon
+14 薛氏上沟 suprasylvian sulcus
+15 外侧沟 lateral sulcus
+16 柄状沟 slalked sulcus
+17十字沟 cmciate sulcus
+18 眶沟 orbital sulci
+19 嗅球 olfactory bulb
+20 薛氏裂 sylvian fissure
+21 外薛氏后沟 lateral retrosylvian sulcus
+22 小脑 cerebellum
+23 前庭蜗神经 vestibulocochlear nerve
+24 脊髓 spinal cord
+25 面神经ficial nerve
+26 三叉神经 trigeminal nerve
+27眶回 orbital gyri
+28 乙状回 sigmoid gyri
+29缘回 marginal gynus
+ s   
+31外薛氏前沟 lateralanterior sylvian sulcus
+32 颈膨大 cervical enlargement
+33 腰膨大 lumbar enlargement
+34 中脑 midbraim
+图 IV-39整体肌侧面观 The muscles. Lateral view
+1背阔肌 latissimus dorsi muscle
+2 上后锯肌 serratus posterior superior muscle
+3头head
+4 颈肌群 muscles of neck
+5斜方肌 trapezius muscle
+6肱二头肌biceps brachi muscle
+7肱三头肌 triceps brachi muscle
+8前肢屈肌群 flexor muscles of anterior limb
+9 前肢伸肌群 extensor muscles of anterior limb
+10腰背筋膜lumbodorsalfascia
+11尾cauda
+12 腹外斜肌 external oblique muscle of abdomen
+13 股外侧肌 vastus lateralis muscle
+14 缝匠肌 sartorius muscle
+15 股收肌 adductor femoris muscle
+16 后肢屈肌群 flexor muscles of posterior limb
+17后肢伸肌群extensor muscles of posterior limb
+图 IV-40 整体肌腹面观 The muscles.Ventral view
+-8
+-9
+-10
+-11
+-12
+-13
+-14
+图IV-41整体肌背面观 The muscles.Dorsal view
+15-
+16-
+-18
+17-
+-19
+20
+-21
+-22
+-23
+1 前肢 anterior limb
+2 mouth
+3颈外静脉 external jugular vein
+4三角肌deltoid muscle
+5胸大肌 pectoralis major muscle
+6前臂筋膜张肌 tensor fasciae muscle of forearm
+7 前背锯肌 serratus anterior dorsi muscle
+8 浅筋膜superficial fascia
+9 腹外斜肌 external oblique muscle of abdomen
+10 腹直肌 rectus abdominis muscle
+11 缝匠肌 sartorius muscle
+14尾cauda
+12 股收肌 adductor femoris muscle
+15 指伸肌 extensor digitorum muscle
+13后肢 posterior limb
+16 尺侧腕伸肌 extensor carpi ulnaris muscle
+17肱三头肌 triceps brachi muscle
+19背长肌 longus dorsi muscle
+18斜方肌 trapezius muscle
+20背阔肌 latissimus dorsi muscle
+21腰背筋膜 lumbodorsal fascia
+22 臀浅肌 gluteus superficialis muscle
+23 半腱肌 semitendinosus muscl
+图 IV-42 躯干肌侧面(1)The muscles of trunk. Lateral aspect (1)
+图IV-43 躯干肌侧面(2)The muscles of trunk. Lateral aspect (2)
+二
+1 上后锯肌 serratus posterior superior muscle
+2斜方肌trapeziusmuscle
+3背阔肌 latissimus dorsi muscle
+4三角肌deltoid muscle
+5肱三头肌 triceps brachi muscle
+6腰背筋膜lumbodorsal fascia
+7臀浅肌 gluteus superficialis muscle
+8缝匠肌 sartorius muscle
+9股外侧肌 vastus lateralis muscle
+10股内侧肌vastus medialis muscle
+11 腹外斜肌 extermal oblique muscle of abdomen
+n12口mouth
+13 枕下颌肌 occipitomandibular muscle
+14肱二头肌biceps brachi muscle
+15 胸头肌 pectoralis capitis muscle
+16 胸大肌 pectoralis major muscle
+17胸直肌 rectus pectoralis muscle
+18 腹直肌 rectus abdominis muscle
+图IV-44胸肌Thpetoralmuscle
+图IV-45 腹肌 The abdominal muscle
+1鼻涕nasnl
+2mouth
+3胸骨舌骨肌 sternohyoid muscle
+4锁臂肌 clavicobrachialis muscle
+5 胸大肌 pectoralis major muscle 
+6背阔肌latissimus dorsi muscle
+7胸直肌 rectus pectoralis muscle
+8腹白线linea alba
+9腹外斜肌 external oblique muscle of abdomen
+10腹直肌鞘sheath of rectus abdominis muscle
+11 浅筋膜superficial fascia
+12 腹直肌鞘前层 anterior layer of sheath of rectus abdominis muscle
+13 缝匠肌前部 anterior part of sartorius muscle
+14 缝匠肌后部 posterior part of sartorius muscle
+15股收肌 adductor femoris muscle
+16股静脉femoral vein
+17后肢 posterior limb
+18尾cauda
+图IV-46 胸、腹腔器官（1）The organs in the thoracic and abdominal cavities（1)
+9
+-10
+12
+-13
+-14
+4
+-15
+16
+7
+-18
+5
+-19
+6
+20
+7
+21
+22
+8
+图IV-47 胸、腹腔器官(2)The organs in the thoracic and abdominal cavities (2)
+-10
+11
+-24
+-13
+1-
+3
+-15
+4
+-16
+23-
+19
+20
+-25
+26
+-27
+1前臂筋膜张肌tensor fasciaemuscle of forearm
+2右肺 right lung
+3肝右中叶 right middle lobe of liver
+4 肝右外叶 right lateral lobe of liver
+5 腹外斜肌 external oblique muscle of abdomen
+6 腹内斜肌 internal oblique muscle of abdomen
+7腹横肌 transversus abdominis muscle
+8缝匠肌 sartorius muscle
+9胸大肌 pectoralis major muscle 
+10三角肌 deltoid muscle
+11 左肺 left lung
+12 心包 pericardium
+13 脂 diaphragm
+14 肝左中叶 left middle lobe of liver
+15 肝左外叶 left lateral lobe of liver
+16胃 stomach
+17大网膜greater omentum
+18 壁腹膜 parietal peritoneum
+19回肠ileum
+ 20 降结肠 descending colon
+21膀胱urinary bladder
+22股静脉femoralvein
+23 空肠jejunum
+24 心heart
+25缝匠肌 sartorius muscle
+26股静脉femoral vein
+ 27股收肌 adductor femoris muscle
+图IV-48胸腔器官The organs in the thoracic cavity
+-10
+-11
+图IV-49心与肺腹面 The heart and lung.Ventral aspect
+-12
+2
+13
+1肋端costal end
+2右肺 right lung
+3胸肋面stemocostalsurface
+4 心包 pericardium
+5胸大肌 pectoralis major muscle
+6 正中神经 median nerve
+7背阔肌 latissimus dorsi muscle
+8前背锯肌 serratus anterior dorsi muscle
+9左肺 left lung
+10 膈diaphragm
+11后腔静脉postcaval vein
+12气管 trachea
+13心 heart
+图 IV-50 心左面 The heart. Left surface
+图IV-51 心右面 The heart. Right surface
+10
+图IV-52左心房和左心室The left atrium
+图IV-53右心房和右心室The right atrium
+and left ventricle
+and right ventricle
+11
+15-
+14
+20
+21
+16-
+0
+1肺动脉 pulmonary artery
+2冠状沟 coronary sulcus
+3左心房 left atrium
+4左心室left ventricle
+5 心尖 cardiac apex
+6右心耳 right auricle
+7动脉圆锥 conus arteriosus
+8右心室 right ventrical
+9左心耳 left auricle
+10 前室间沟 anterior interventricular groove
+11前腔静脉 precaval vein
+12 肺静脉 pulmonary vein
+13 梳状肌 pectinate muscles
+14 二尖瓣 mitral valve
+15腱索chordaetendineae
+16 乳头肌 papillary muscles
+17左室壁 wall of left ventrical
+18 心外膜epicardium
+19 三尖瓣 tricaspid valve
+20 右心室腔 cavity of right ventricle
+ 21右心室壁wall of right ventricle
+22肺动脉干
+图 IV-54 腹腔器官(1)The organs in the abdominal cavity（1)
+-8
+6
+-10
+-13
+图 IV-55 腹腔器官(2)The organs in the abdominal cavity (2)
+23
+14
+24
+15-
+16-
+17-
+27
+18-
+28
+19-
+29
+20
+21-
+22-
+3
+1胆囊 gall bladder
+2 肝右叶 right lobe of liver
+3股静脉femoralvein
+4精索spermatic cord
+5 股收肌 adductor femoris muscle
+6腹外斜肌 external oblique muscle of abdomen
+7肝liver
+8胃 stomach
+9大网膜greater omentum
+10 腹内斜肌 internal oblique muscle of abdomen
+11 缝匠肌前部 anterior part of sartorius muscle
+12 缝匠肌后部 posterior part of sartorius muscle
+13 耻骨肌 pecineus muscle
+14右肺 right lung
+15  diaphragm
+16 贵门 cardia
+17幽门pylorus
+18十二指肠duodenum
+19 空肠jejunum
+20 降结肠 descending colon
+21腹股沟韧带inguinal ligament
+22缝匠肌 sartorius muscle
+23 左肺 left lung
+24心heart
+25 食管esophagus
+26胃底fundus of stomach
+27 胃小弯 lesser curvature of stomach
+ 28 胃大弯 greater curvature of stomach 
+29回肠ileum
+图IV-56 腹腔器官(3)The organs in the abdominal cavity (3)
+7
+9
+2
+3
+-10
+4
+-11
+5
+-12
+-13
+14
+18
+图IV-57腹腔器官(4)The organs in the abdominal cavity (4)
+22
+7
+61
+9
+2
+10
+20-
+12
+21-
+-12
+13-
+-23
+-15
+14
+16
+-18
+1 肝右中叶 right middle lobe of liver
+2 肝右外叶 right lateral lobe of liver
+3十二指肠duodenum
+4大网膜 greater omentum
+5空肠jejunum
+6回肠 ileum
+7肝左外叶 left lateral lobe of liver
+8肝左中叶 left middle lobe of liver
+9胃stomach
+10脾 spleen
+11左肾 left kidney
+12 降结肠 descending colon
+13脂肪垫 fat-pad
+14 膀胱 urinary bladder
+15 缝匠肌前部 anterior part of sartorius muscle
+16 缝匠肌后部 posterior part of sartorius muscle
+17股静脉femoral vein
+18股收肌 adductor femoris muscle
+19 胆囊gallbladder
+20 横结肠 transverse colon
+21盲肠Cecum
+22 膈diaphragm
+23腹横肌 transversus abdominis muscle
+图IV-58 腹腔器官(5)The organs in the abdominal cavity (5)
+-6
+7
+-8
+9
+10
+11
+-12
+图IV-59 腹腔器官(6)The organs in the abdominal cavity (6)
+6
+2
+8
+9
+-21
+17-
+-22
+23
+24
+18
+19
+13
+-14
+25
+U
+16-
+67283
+20-
+20
+1 肝右中叶 right middle lobe of live
+2胆囊gallbladder
+3盲肠cecum
+4肠系膜动、静脉 mesenteric artery and vein
+5股静脉femoralvein
+6 肝左外叶 left lateral lobe of liver
+7肝左中叶left middle lobe of liver
+8胃stomach
+9脾 spleen
+10 大网膜 greater omentum
+11 空肠 jejunum
+12 肠系膜mesentery
+13 缝匠肌前部 anteropr part of sartorius muscle
+14 缝匠肌后部 posterior part of sartorius muscle
+15耻骨肌 pectineus muscle
+16股收肌 adductor femoris muscle
+17回肠ileum
+18降结肠 descending colon
+19腹横肌 transverses abdominis muscle
+20 睾丸 testis
+21肾kidney
+22 腹内斜肌 internal oblique muscle of abdomen
+23腹膜后脂肪垫fat-padof postperitoneum
+24 腹外斜肌 external oblique muscle of abdomen
+25膀胱urinary bladder
+26股动脉 femoral artery
+27精索 spermatic cord
+28阴茎penis
+图IV-60 腹腔器官(7)The organs in the abdominal cavity (7)
+8
+2-
+-10
+-11
+-12
+-13
+31
+14
+15
+4
+5
+-16
+-17
+6-
+-18
+图 IV-61 腹腔器官(8)The organs in the abdominal cavity (8)
+8-
+-9
+-21
+1
+-22
+2-
+19-
+-12
+14-
+20
+-13
+-23
+15-
+16
+24
+17
+1 肝右中叶 right middle lobe of live
+2胆囊 gallbladder
+3结肠系膜mesocolon
+4降结肠descending colon
+5直肠rectum
+6膀胱 urinary bladder
+7股收肌 adductor femoris muscle
+8肝左中叶 left middle lobe of liver
+9肝左外叶 left lateral lobe of liver
+10胃stomacln
+11胰 pancreas
+12脾spleen
+13左肾left kidney
+14后腔静脉 postcaval vein
+15 腹内斜肌 internal oblique muscle of abdomen
+16 腹横肌 transversus abdominis muscle
+17缝匠肌 sartorius muscle
+18脂肪囊fetty capsule
+19 肝右外叶 right lateral lobe of liver
+20十二指肠duodenum
+21 胃前壁 anterior wall of stomach
+22 胃后壁 posterior wall of stomach
+23 空肠jejunum
+24回肠ileum
+图IV-62肝与胃（1）The liver and stomach（1)
+3-
+图IV-63 肝与胃(2)The liver and stomach (2)
+5-
+12
+2
+-13
+8-
+14
+3-
+15
+9-
+16
+10-
+-17
+-18
+11
+1 肝右中叶 right middle lobe of liver 
+2胆囊gallbladder
+3 肝右外叶 right lateral lobe of liver
+4 膈 diaphragm
+5 肝左中叶 left middle lobe of liver
+6胃stomach
+7肝左外叶 left lateral lobe of liver
+8小网膜 lesser omentum
+9十二指肠 duodenum
+10胰 pancreas
+11空肠jejunum
+12 胃底 fundus of stomach
+13 胃小弯 lesser curvature of stomach
+14 胃体 body of stomach
+15 胃大弯 greater curvature of stomach
+16 大网膜 greater omentum
+17脾 spleen
+18左肾 left kidney
+图IV-64 肝隔面 The liver. Diaphragmatic surface
+图IV-65 肝脏面（1）The liver. Visceral surface（1)
+图IV-66肝脏面(2)The liver.Visceral surface (2)
+1 肝右外叶 right lateral lobe of liver
+2肝右中叶 right middle lobe of liver
+3肝左外叶 left lateral lobe of liver
+4肝左中叶 left midle lobe of liver
+5肝尾状叶 caudate lobe of liver
+6后腔静脉口 aperture of postcaval vein
+7 肝门 porta hepatis
+8胆囊gallbladder
+9右外叶后部 posterior part of right lateral lobe
+10右外叶前部 anterior part of right lateral lobe
+图IV-67胃The stomach
+图 IV-68 胃壁内面 The wall of stomach. Inner surface
+图IV-69 空肠 The jejunum
+10
+1幽门pylorus
+2 胃小弯 lesser carvature of stomach
+3 角切迹 angular notch
+4食管esophagus
+5资门cardiac
+6胃底 fundus of stomach
+7胃大弯 greater curvature of stomach
+8 纵行皱 longitudinal folds
+9 空肠动脉弓 jejunal arterial arch 
+10 空肠系膜jejunal mesentery
+11 空肠动脉 jejunal artery
+12 空肠静脉 jejunal vein
+图IV-70 空肠和回肠The jejunum and ileum
+图IV-71 回肠和结肠后面 The ileum and colon. Posterior aspect
+图IV-72肾和膀胱Thekidney andurinarybladder
+9
+12
+-01
+-13
+11
+-14
+-15
+图IV-73 肾纵断面 The longitudinal section of the kidney
+-19
+-20
+16
+-21
+17-
+18-
+1回肠动脉ileal artery
+7脂肪垫fat-pad
+2回肠静脉ileal vein
+8降结肠 descending colon
+3回肠系膜ileal mesentery
+9右肾上腺right adrenal gland
+4结肠jejunum
+10右肾right kidney
+5回肠ileum
+11右输尿管rigth ureter
+6脾spleen
+12 左肾上腺 left adrenal gland
+13左肾left kidney
+16 肾乳头 renal papillae
+14 左输尿管 left ureter
+17 筛区 cribriform area
+15 膀胱 urinary bladder
+18 肾盂 renal pelvis
+19肾皮质renal cortex
+20 中间带 intermediate zone
+21 肾髓质 renal medulla
+图IV-74泌尿、生殖器官（&）（1）
+The urinary and genital organs (?) (1)
+-12
+-13
+-14
+-15
+-16
+17
+6
+7
+-18
+8
+-8
+-19
+9
+-13
+10
+-20
+-21
+11
+-22
+-25
+图IV-75 泌尿、生殖器官（）（2)The urinary and genital organs（&）(2)
+-12
+-26
+-16
+6
+-8
+29
+8
+20-
+13
+-30
+26-
+-9
+25-
+-21
+23
+-22
+-11
+28
+-24
+-27
+1后腔静脉孔foramenof postcaval vein
+2隔中心腱 central tendon of diaphragm
+3右肾上腺right adrenal gland
+4右肾right kidney
+5肾静脉renel vein
+6后腔静脉postcaval vein
+7输尿管ureter
+8睾丸动脉 testicular artery
+9膀胱urinarybladder
+10尿道urethra
+11股静脉femoral vein
+12 脂 diaphragm
+13腹横肌 transversus abdominis muscle
+14 膈胸肋部 stemocostal part of diaphragm
+15 左肾上腺left adrenal gland
+16左肾lef kidney
+17 肾孟 renal pelvis
+18腰大肌 psoas major muscle
+19 腹膜后脂肪垫postperitoneal fat-pad
+20腹内斜肌 internal oblique muscle of abdomen
+21缝匠肌前部 anterior part of sartorius muscle
+22缝匠肌后部 posterior part of sartorius muscle
+23 精索 spermatic cord,
+24 耻骨肌pectineus muscle
+25股收肌 adductor femoris muscle
+26脂肪囊fatty capsule
+27睾丸 testis
+28 阴茎 penis
+29腹主动脉 abdominal aorta
+30 前列腺 prostate
+图IV-76 泌尿、生殖器官（）（3)The urinary and genital organs（&）（3)
+11
+12
+13
+14
+-15
+16
+图IV-77泌尿、生殖器官（&）（4)The urinary andorgans（&）（4)
+1
+2
+8
+17
+11
+3
+-19
+4
+20
+18
+-12
+-14
+15
+16
+1右肾上腺rigat adrenal gland
+2右肾静脉 rigth renel vein
+3后腔静脉 postcaval vein
+4降结肠descending colon
+5尿道urethra
+6阴茎penis
+7脂diaphragm
+8左肾上腺 left adrenal gland
+9左肾left kidney
+10左肾静脉leftrenel vein
+11腰大肌 psoas major muscle
+12膀胱urinary bladder
+13腹股沟韧带inguinal ligament
+14股静脉femoral vein
+15 股收肌 adductor femoris muscle
+16阴囊scrotum
+17右肾 right kidney
+18缝匠肌 sartorius muscle
+19腹膜后脂肪垫postperitonealfat-pad
+20 直肠 rectum
+21尾cadua
+图IV-78泌尿、生殖器官（早）（1）The urinary and genital organs（早）（1）
+9
+10
+11
+12
+6
+13
+图IV-79泌尿、生殖器官（早）（2)The urinary and genital organs（早）（2)
+14-
+15
+-19
+20
+16-
+16
+11
+-21
+6
+6
+17-
+-13
+18-
+1 肝右外叶right lateral lobe of liver
+2空肠 jejunum
+3盲肠cecum
+4回肠ileum
+5卵巢ovary
+6子宫角horn of utenus
+7子宫体 body of uterus
+8脂肪囊fetty capsule
+9脾spleen
+10 大网膜 greater omentum
+11后腔静脉 postcaval vein
+12降结肠descending colon
+13膀胱 urinary bladder
+14右肾right kidney
+15右肾上腺 right adrenal gland
+16肾门 renal hilum
+17子宫阔韧带broad ligament of uterus
+18腹股沟韧带 inguinal ligament
+19左肾left kidney
+20 左肾上腺 left adrenal gland
+21腹主动脉abdominalaorta
+图IV-80泌尿、生殖器官（早）（3）The urinary and genital organs（早）（3)
+9
+10
+11
+6
+-12
+图IV-81泌尿、生殖器官（早）（4)The urinary and genital organs（早）（4)
+-14
+-15
+-16
+-17
+-18
+-19
+20
+1右肾上腺 right adrenal gland
+2右肾right kidney
+3右肾静脉 right renel vein
+4后腔静脉 postcaval vein
+5卵巢ovary
+6输卵管 uterine tube
+7子宫角 horn of utenus
+8子宫体 body of utenus
+9左肾上腺 left adrenal gland
+10左肾left kidney
+11左肾静脉left renel vein
+12腹主动脉 abdominal aorta
+13腹膜后脂肪垫postperitonealfat-pad
+14 膀胱 urinary bladder
+15 缝匠肌 sartorius muscle
+16尿道urethra
+17股内侧肌 vastus medialis muscle
+18股静脉femoral vein
+19股收肌 adductor femoris muscle
+20肛门anus
+图IV-82泌尿、生殖器官（辛）（5)The urinary and genital organs（辛）（5)
+2
+广
+I0
+图IV-83 泌尿、生殖器官（早）(6)The urinary and genital organs（早）(6)
+8
+I
+图IV-84子宫（1）The utenus（1)
+13
+14
+12
+2
+10
+15
+图IV-85子宫（2)The utenus(2)
+12
+口
+17
+1卵巢ovary
+4子宫颈 neck of utenus
+2子宫角 horn of uterus
+5肛门anus
+3子宫体 body of uterus
+6膀胱urinarybladder
+7尿道urethra
+9股静脉femoral vein
+8缝匠肌 sartorius muscle
+10股收肌 adductor femoris muscle
+11子宫阔韧带 broad ligament of utenus
+14后腔静脉 postcaval vein
+12 输卵管 uterine tube
+15尾cauda
+13 胸直肌 rectus pectoralis muslce
+16子宫右角 right horn of uterus
+17子宫左角left horn of uterus
+图IV-86前肢外侧面 The anterior limb.Lateral aspect
+图IV-87 前肢内侧面(1)The anterior limb. Medial aspect （1
+8
+C
+15
+图IV-88 前肢内侧面(2)The anterior limb.Medial aspect (2)
+10
+H
+12
+13
+6
+9
+15
+1 侧腕短伸肌 extensor carpiradialis brevis muscle
+2 小指伸肌 extensor digitl minimi inuscle
+3尺侧腕屈肌 flexor carpi ulnaris muscle
+4斜方肌 trapezins muscle
+5三角肌 deltoid muscle
+6肱三头肌 triceps brachi muscle
+7背阔肌 latissimus dorsi muscle
+8胸乳突肌 sternomastoideus muscle
+9胸大肌 pectoralis major muscle
+10肱二头肌biceps brachi muscle
+11 肱格肌 brachioradialis muscle
+12 格侧腕屈肌 flexor carpi radialis muscle
+13 掌长肌 palmaris longus muscle
+14 尺侧腕屈肌 flexor carpi ulnaris muscle
+15 胸小肌 pectoralis minor muscle
+图 IV-89 前肢内侧面(3)The anterior limb. Medial aspect (3)
+图 IV-90 后肢外侧面(1)The posterior limb. Lateral aspect （1)
+-12
+1胸乳突肌sternomastoideus
+muscle
+13
+2胸大肌
+pectoralis
+major
+muscle
+3胸小肌
+ pectoralis
+minor
+14
+muscle
+4三角肌deltoid muscle
+15
+5肱梳肌 brachioradialis muscle
+16
+6尺侧腕屈肌flexorcarpi
+ulnaris muscle
+17
+7肱二头肌bicepsbrachii
+muscle
+8 正中神经 median nerve
+9臀动脉 brachial artery
+18
+10尺神经 ulnar nerve
+11肱三头肌tricepsbrachii
+muscle
+12腹外斜肌 external oblique
+muscle of abdomen
+13缝匠肌 sartorius muscle
+14股外侧肌vastuslateralis
+muscle
+15尾cauda
+16 臀浅肌 gluteus superficialis muscle
+17股二头肌 biceps femoris muscle
+18胫骨前肌 tibialis anterior muscle
+图IV-93 后肢后面 The posterior limb. Posterior aspect
+3-
+4
+-9
+6-
+7
+10
+门
+图 IV-94 后肢内侧面(1)The posterior limb. Medial aspect （1)
+3
+4
+9
+12
+6
+13
+1腹白线 linea
+14
+alba
+2腹股沟韧带
+inguinal
+ligament
+15
+缝匠
+肌
+sartorius
+muscle
+10
+4股静脉
+femoral vein
+5月
+股薄肌
+ gracilis muscle
+6睾丸 testis
+腓肠肌
+gastrocnemius
+muscle
+8腹外斜肌
+external
+oblique muslce
+ of abdomen
+股收肌
+adductor
+femoris muscle
+10胫骨前肌 tibialis anterior muscle
+11尾cauda
+12 股内侧肌 vastus medialis muscle
+13 半膜肌 semimembranosus muscle
+14 半腱肌 semitendinosus muscle
+15 排肠肌 gastrocnemius muscle
+图IV-95后肢内侧面(2)The posterior limb.Medial aspect(2)
+6
+7
+9
+10
+图IV-96后肢内侧面(3)The posterior limb.Medial aspect(3)
+13
+11
+14
+-9
+6
+-5
+15
+7
+8
+16
+6
+12
+1精索 spermatic cord
+2副睾epididymis
+3睾丸testis
+4排肠肌 gastrocnemius muscle
+5股静脉femoralvein
+6缝匠肌 sartorius muscle
+7股内侧肌 vastus medialis muscle
+8股收肌 adductor femoris muscle
+9半膜肌 semimembranosus muscle
+10胫骨前肌 tibialis anterior muscle
+11腹白线 linea alba
+12阴茎penis
+13 腹直肌 rectus abdominis muscle
+14 腹外斜肌 external oblique muslce of abdomen 
+15耻骨肌 pectineus muscle
+16股动脉 femoral artery

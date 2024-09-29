@@ -1,0 +1,670 @@
+COUGHING
+DIEFERENTIALDIAGNOSIS
+ANDCLINICALAPPROACH
+咳嗽的鉴别诊断和临床分析
+Michael E. Herrtage
+University of Cambridge
+C94-259Yorkshire terrier
+14 year old female neutered
+约克夏，14岁，去势母犬
+Michael E.Herrtage
+University of Cambridge
+5/25/2006
+C94-259Yorkshireterrier
+14 year old female neutered
+History病史
+ Chronic cough for 3 months
+慢性咳嗽达3个月之久
+Dry, hacking cough in paroxysms
+阵发性干咳，频咳
+Progressive exercise tolerance and panting
+进行性耐受不良，喘气
+No response to antibiotics
+抗生素治疗无效
+No oculonasal discharge
+无眼鼻分泌物
+C94-259Yorkshireterrier
+14 year old female neutered
+ClinicalExamination临床检查
+Dog slightly over-weight
+患畜稍微肥胖
+Cough elicited on tracheal palpation
+气管触诊诱发咳嗽
+Pulse rate 100 beats per min
+脉搏：100次/分钟
+Grade 3/6 systolic murmur over 1eft apex
+左心尖部有3/6级收缩期心杂音
+Regularly irregular rhythm
+规律性出现节律不齐
+Reduced lung sounds right dorsal lung area
+右背部肺区呼吸音减弱
+Dullness on percussion of right dorsal lung area
+右背肺区叩诊浊音
+LATERALTHORACICRADIOGRAPH
+侧位胸片
+DORSOVENTRAL
+THORACIC
+RADIOGRAPH
+背-腹位胸片
+THORACICULTRASOUND
+胸部超声波
+94-259CYTX14YFNKA
+04/11/01:141745
+01Nov04
+TIs0.0MI0.40
+94-259CYTX14YFNKA
+04/11/01:141745
+01Nov04
+TIsO.0MI0.40
+CAMBRIDGEVETSCHOOL
+C8-5Ped/NeoAb
+14:21:16
+Fr#2335.7cm
+CAMBRIDGEVETSCHOOL
+C8-5Ped/NeoAb
+14:20:35
+Fr#2325.7cm
+Map3
+Map3
+170dB/C4
+170dB/C4
+Persist Off
+LUNG
+MASS
+0
+Persist Off
+LUNG
+MASS
+2DOptFSCT
+2DOptFSCT
+FrRate:Surv
+Fr Rate:Surv
+SonoCT?
+SonoCT?
+XResTM
+XResTM
+3.21cm
+4.68cm
+THORACICULTRASOUND
+胸部超声波
+94-259CYTX14YFNKA
+04/11/01:141745
+TIs 0.4MI1.0
+HI
+94-259CYTX14YFNKA
+04/11/01:141745
+01Nov04
+TIs0.5 MI1.0
+01Nov04
+CAMBRIDGEVETSCHOOL
+C8-5Ped/NeoAb
+14:23:19
+Fr#1065.7cm
+CAMBRIDGEVETSCHOOL
+C8-5Ped/NeoAb
+14:21:52
+Fr#1
+5.7cm
+Map3
+Map3
+170dB/C3
+170dB/C3
+Persist Low
+LUNG
+MASS
+Persist Low
+LUNG
+MASS
+RHS
+2DOptRes
+2DOptRes
+CPA81%Map1
+Col82%Map1
+WFMed
+WFMed
+PRF1000 Hz
+PRF2500Hz
+Flow Opt:MedV
+Flow Opt:MedV
+CPA
+19.:
+cm/s
+RESPIRATORYVERSUSCARDIAC
+CAUSESOFCOUGHING
+心源性咳嗽VS肺源性咳嗽
+Small breed dog
+小型犬
+Chronic valvular disease and chronic bronchitis common in these breeds
+常见慢性瓣膜病变和慢性气管炎
+Obesity
+肥胖
+Usually associated with pulmonary disease
+通常与肺部疾病相关
+Weight loss
+体重下降
+ Congestive cardiac failure usually causes dramatic weight loss. May be seen
+with pulmonary neoplasia.
+充血性心衰，通常导致明显的体重下降，可在肺肿瘤中见到
+Pronounced sinus arrhythmia
+明显窦性心律不齐
+ Associated with chronic pulmonary obstructive disease. Lost in heart failure.
+与慢性肺部阻塞性疾病相关
+RESPIRATORYVERSUSCARDIAC
+CAUSESOFCOUGHING
+心源性咳嗽vs肺源性咳嗽
+Soft moist cough
+湿咳
+·Pulmonary oedema can cause this type of cough
+肺水肿可引发
+Dry harsh cough
+干咳
+ Can occur with either respiratory or cardiac causes
+呼吸系统疾病或心脏病均可引发
+Exercise intolerance/ dyspnoea
+运动耐受力差/呼吸困难
+Usually, but not always, associated with heart disease
+常见（但不全是）与心脏疾病相关
+ Loud murmur
+响亮的心杂音
+ There is no correlation between the intensity of the murmur and the severity
+of the disease
+杂音的强度与疾病的严重程度无关
+INVESTIGATIONOFCOUGHING
+咳嗽的诊断
+History
+病史
+Physical examination
+全身检查
+Radiography
+X光片
+Bronchoscopy
+气管镜
+Bronchoalveolar lavage
+支气管肺泡灌洗
+Laboratory examinations
+实验室检查
+咳嗽
+COUGHING
+ Description of cough: harsh and dry, soft and productive.
+honking and wheezing, paroxysmal
+咳嗽的描述：粗大声干咳，轻柔的湿咳（有分泌物）
+，鹅鸣似咳嗽而后喘鸣，阵发性咳嗽
+Precipitating factors: excitement,
+exercise,   nocturnal
+tracheal palpation
+易发因素：兴奋、运动、夜间、气管触诊
+Other factors: gagging, retching, vomiting
+其他因素：作呕、干呕、呕吐
+呼吸音
+RESPIRATORYSOUNDS
+参照肺音
+Referred lung sounds
+Normal respiratory sounds
+正常呼吸音
+. Bronchial (blowing) sounds
+支气管呼吸音
+Vesicular sounds
+肺泡呼吸音
+Adventitious sounds
+外来呼吸音
+Crackles (rales)
+爆破音（锣音）
+Wheezes (rhonchi)
+喘鸣音（干锣音）
+Pleural friction rubs
+胸膜摩擦感
+THORACICRADIOGRAPHY
+胸部X光片
+Sedation or general anaesthesia
+使用镇静药或全麻
+Fast film/screen combination, particularly rare earth
+screens
+高感光度的底片，增感屏结合使用，特别是用稀有元
+素的增感屏
+Use cassette of sufficient size to include the whole thorax
+用足够大小的片夹以包含整个胸部
+THORACICRADIOGRAPHY
+胸部X线
+Use a grid if thorax is > 15 - 20 cm thick
+若胸部>15-20cm，要使用栅板
+Close collimation of the beam
+使用集光筒
+Use high kV low mAs technique
+用高KV低mAs技术
+Accurate positioning
+正确摆设胸腔位置
+Expose film at full inspiration
+深吸气时照光
+THORACICRADIOGRAPHY
+胸部X光片
+THORACICRADIOGRAPHY
+胸部X光片
+LATERALTHORACICRADIOGRAPH
+侧位胸部X光片
+Rightlateral右侧位
+Left lateral左侧位
+NORMALLUNGPATTERN
+正常肺模式
+NORMAL PATTERN
+FACTORSAFEECTING
+NORMALLUNGPATTERN
+影响正常肺模式的因素
+不正确的暴露
+Incorrect exposure
+Phase of respiration
+呼吸的时相
+Age of animal
+动物的年龄
+Conformation/obesity of patient
+患畜生理构造/肥胖
+Prolonged lateral recumbency
+长时间的侧躺
+BRONCHOSCOPY
+支气管镜检查
+BRONCHOSCOPY
+支气管镜检查
+BRONCHOSCOPY
+气管镜检查
+DIFFERENTIALDIAGNOSISOF
+ACUTECOUGHING
+急性咳嗽的鉴别诊断
+Infectious tracheobronchitis
+传染性气管-支气管炎
+气道刺激
+Airway irritation
+Bronchopneumonia
+支气管肺炎
+Infectious
+传染性
+Aspiration
+吸入性
+Allergic lung disease
+过敏性肺部疾病
+.Pulmonary oedema/haemorrhage
+肺水肿/肺出血
+气道创伤
+· Airway trauma
+BRONCHOPNEUMONIA
+支气管肺炎
+Bacterial bronchopneumonia
+细菌性支气管肺炎
+BRONCHOPNEUMONIA
+支气管肺炎
+Eosinophilic bronchopneumonia
+嗜酸性粒细胞支气管肺炎
+TREATMENTOFBRONCHOPNEUMONIA
+支气管肺炎的治疗
+Ensurepatent airway
+保证气道通畅
+Oxygen therapy
+氧(气)疗法
+Minimal stress
+避免刺激
+Fluid therapy
+液体疗法
+Antibiosis
+抗生素
+Physiotherapy
+理疗
+TREATMENTOF
+BRONCHOPNEUMONIA
+支气管肺炎的治疗
+Bronchodilators?
+支气管扩张剂
+Expectorants祛痰药
+Surgery if only one lobe involved
+只一叶发炎时可手术切除
+DIFFERENTIALDIAGNOSISOF
+CHRONICCOUGHING
+慢性咳嗽的鉴别诊断
+Chronic bronchitis
+慢性支气管炎
+Bronchopneumonia
+支气管肺炎
+Allergic lung disease
+过敏性肺病
+Bronchial asthma
+支气管哮喘
+Allergic bronchitis
+过敏性支气管炎
+Pulmonary infiltration with eosinophils
+嗜酸性细胞肺浸润
+Bronchiectasis
+支气管扩张
+CHRONICBRONCHITIS
+慢性支气管炎
+Damaged mucociliary carpet
+支气管纤毛受损
+Adult dogs, usually small breeds
+常发生于：小型成犬
+Persistent cough > 2 months duration
+持续性咳嗽>2周
+Affected animals often obese
+多数患畜体形肥胖
+Pronounced sinus arrhythmia
+明显的窦性心律不齐
+BRONCHALPATTERN
+支气管模式
+BRONCHIAL PATTERN
+CHRONICBRONCHITIS
+慢性支气管炎
+BRONCHOSCOPY
+支气管镜检查
+CHRONICBRONCHITIS
+慢性支气管炎
+Inspiration吸气
+Expiration呼气
+Chronic bronchitis with
+bronchial collapse
+慢性支气管炎伴支气管塌陷
+CHRONICBRONCHITIS
+慢性支气管炎
+Chronic bronchitis
+Chronic bronchitis with
+with bullae
+early bronchiectasis
+慢性支气管炎伴肺大泡
+慢性支气管炎伴早期支气管扩张
+BRONCHOALVEOLARLAVAGE
+支气管肺泡灌洗
+Alveolar macrophages
+肺泡巨噬细胞
+Gobletcells杯状细胞
+Macrophages and neutrophils
+巨噬细胞和中性粒细胞
+TREATMENTOF
+CHRONICBRONCHITIS
+慢性支气管炎的治疗
+Avoid irritant factors e.g. smoke
+避免刺激因素，如：烟雾
+Control obesity
+控制肥胖
+常规免疫
+Regular vaccination
+Control secondary bacterial infection
+控制继发性细菌感染
+Reduce airway inflammation
+减少气道炎症
+Bronchodilators支气管扩张剂
+Antitussives e.g. butorphanol, codeine
+镇咳药，如布托啡诺，可待因
+Mucolytics
+粘液溶解药
+FELINEBRONCHIALDISEASE
+猫的支气管疾病
+Bronchial smooth muscle hypersensitivity to inhaled substances
+支气管平滑肌对吸入性物质高度敏感
+Hypersensitivity reaction to inhaled allergens
+对吸入性过敏源有高度敏感性反应
+Smoke, aerosol sprays, house dust mite, human dander, feathers,
+cat litter and infections have been implicated
+烟雾、喷雾剂、尘螨、人类皮屑、羽毛、猫砂和感染都会引
+起此病
+FELINEBRONCHIALDISEASE
+猫的支气管疾病
+Dry cough of variable severity, often paroxysmal
+干咳程度不一，通常是阵发性的
+Wheezing and dyspnoea, which may be inspiratory or
+expiratory
+吸气或呼气时会出现喘鸣和呼吸困难
+End-expiratory grunting, wheezing and crackling may
+be heard on auscultation
+肺部听诊：呼气末呼噜音，喘鸣或爆破音
+FELINEBRONCHIAL
+DISEASE
+猫的支气管疾病
+FELINEBRONCHIAL
+DISEASE
+猫的支气管疾病
+BRONCHO-INTERSTITIAL
+PATTERN
+支气管-间质模式
+BRONCHO-INTERSTITIALPATTERN
+FELINEBRONCHIALDISEASE
+猫支气管疾病
+FELINEBRONCHIALDISEASE
+猫支气管疾病
+BAL
+(Broncho— Alveolar Lavage
+支气管肺泡灌洗
+Eosinophils
+嗜酸粒细胞
+Degenerative
+neutrophils
+中性粒细胞退变
+TREATMENTOFEELINE
+BRONCHIALDISEASE
+猫支气管疾病的治疗
+Control obesity
+控制体重
+控制继发性感染
+Control secondary infection
+Glucocorticoid therapy (often dramatic)
+糖皮质激素治疗（通常效果显著）
+Bronchodilators
+支气管扩张剂
+Theophylline 4 mg/kg TID
+茶碱4 mg/kg TID
+.Terbutaline 1.25 mg/kg TID
+特布他林1.25mg/kgTID
+Inhalation therapy
+吸入性治疗
+Supplemental oxygen in a severe attack急性发作时供氧
+TREATMENTOFFELINE
+BRONCHIALDISEASE
+猫支气管疾病的治疗
+Inhaler therapy
+吸入性治疗
+PULMONARYINFILTRATION
+WITHEOSINOPHILS(PIE)
+嗜酸性粒细胞肺浸润
+Bronchial,i
+interstitial and/or alveolar infiltrationwith
+eosinophils
+支气管、间质和/或肺泡都伴有嗜酸性粒细胞浸润
+Variable severity of clinical signs
+临床征象严重程度不一
+Coughing is usually the primary complaint
+咳嗽通常是主诉
+Tachypnoea, dyspnoea,
+, weight loss, depression, and
+anorexia may occur
+表现为：呼吸急促、呼吸困难、体重下降、精神沉郁和
+食欲减退
+PULMONARYINFILTRATION
+WITHEOSINOPHILS(PIE)
+嗜酸性粒细胞肺浸润
+PULMONA
+WITHEO
+PULMONARYINFILTRATION
+WITHEOSINOPHILS(PIE)
+Eosinophilic bronchopneumonia
+EOSINOPHLLICGRANULOMA
+嗜酸性粒细胞肉芽肿
+Not all nodules are tumours
+不是所有的结节都是肿瘤
+PULMONARYINFILTRATION
+WITHEOSINOPHILS(PIE)
+嗜酸性粒细胞肺浸润
+Prednisolone 1 mg/kg BID initially
+首剂：泼尼松龙1mg/kgBID
+Repeat radiographs to assess response
+X光片复查
+Reduce to lowest effective dose
+减量至最低有效剂量
+May require alternate day dosing
+可根据需要隔日给药
+Prognosis for control is good except for the more
+severe granulomatous form of the disease
+预后控制较好，除非是形成严重的肉芽肿
+支气管扩张
+BRONCHIECTASIS
+支气管扩张
+BRONCHIECTASIS
+DIEFERENTIALDIAGNOSISOF
+CHRONICCOUGHING
+慢性咳嗽的鉴别诊断
+Left-sided heart failure
+左侧心衰
+· Pulmonary congestion/oedema
+肺充血/肺水肿
+. Compression of mainstem bronchi
+压迫主支气管
+Parasitic lung disease
+寄生虫性肺病
+（类丝虫属）
+· Oslerus (filaroides) osleri
+脉管圆线虫
+·Angiostrongylus vasorum
+·Aelurostrongylus abstrusis
+猫圆线虫病
+Inhaled tracheal/bronchial f.b
+吸入性气管/支气管异物
+LEFT-SIDEDHEARTFAILURE
+左侧心衰
+Pulmonary congestion and
+oedema
+肺充血/肺水肿
+Compression of mainstem
+bronchi
+压迫主支气管
+OSLERUSFILAROIDES)
+OSLERI（类丝虫属）
+OSLERUS(FILAROIDES)OSLERI
+类丝虫属
+Endoscopic （内窥镜）view of Oslerus (Filaroides) nodules
+ANGIOSTRONGLUSVASORUM
+INFECTION
+脉管圆线虫感染
+Majority of cases are young adults often reared outdoors
+多数病例发生在青壮年犬，通常养于户外
+Clinical signs are variable and many are subclinical
+临床表现不一，亚临床表现亦多见
+Weakness,
+haematoma
+formation,
+bleeding
+anaemia,
+exercise intolerance, collapse, weight loss, stunted growth
+虚弱、血肿形成、出血性贫血、运动耐受力差、虚脱、
+体重下降、发育迟缓
+ANGIOSTRONGYLUSVASORUM
+脉管圆线虫
+AELUROSTRONGYLUS
+ABSTRUSUSINFECTION
+猫圆线虫感染
+Bronchiolar parasite of cats
+猫细支气管寄生虫感染
+Intermediate host (slugs and snails) may be eaten by birds and small
+mammals
+中间宿主（鼻涕虫、蜗牛）可被鸟和小型哺乳动物所食
+Infection usually asymptomatic, but may cause coughing, wheezing
+and dyspnea
+感染通常是无症状的，但可导致咳嗽、喘鸣和呼吸困难
+Usually self-limiting with spontaneous resolution
+通常有自限性，能自行恢复
+Fenbendazole 20 mg/kg daily for 5 days
+芬苯达唑：20mg/kg/天，连续服用5天
+AELUROSTRONGYLUSABSTRUSUS
+猫圆线虫
+BRONCHIALFOREIGNBODY
+支气管异物
+Spanner扳手in trachea
+Tooth牙齿 in trachea
+BRONCHIALFOREIGNBODY
+支气管异物
+Ear of wheat in right caudal
+lobebronchus
+支气管右后叶发现麦穗
+BRONCHIALFOREIGNBODY
+支气管异物
+Ear of wheat in right caudal
+lobe bronchus
+支气管右后叶发现麦穗
+DIFFERENTIALDIAGNOSISOF
+CHRONICCOUGHING
+慢性咳嗽的鉴别诊断
+Primary or secondary neoplasia
+原发性或继发性肿瘤
+Pulmonary abscess/granuloma
+肺脓肿/肉芽肿
+气道压迫
+Pressure on airway
+.Enlarged left atrium
+左心房扩大
+.Pulmonary neoplasia
+肺部肿瘤
+Tracheal collapse
+气管塌陷
+PRIMARYLUNGTUMOUR
+原发性肺肿瘤
+Primary lung tumours may take on the
+shape of the affected lung lobe
+原发性肺肿瘤可能象肺叶的形状
+PRIMARYLUNGTUMOUR
+原发性肺肿瘤
+PULMONARYMETASTASIS
+肺部转移
+PULMONARYMETASTASIS
+肺部转移
+Right lateral右侧位
+Left1ateral左侧位
+PULMONARYMETASTASIS
+肺部转移
+Nodules larger than
+Miliary nodular pattern
+surrounding vessels
+栗粒结节状
+结节比周围血管大
+MILIARYNODULARPATTERN
+栗粒状结节
+Singlenodules单结节
+Miliarynodules粟粒状结节
+MILIARYMETASTASIS
+肺部转移
+MILIARYMETASTASIS
+肺部转移
+EOSINOPHILICGRANULOMA
+嗜酸性肉芽肿
+Not all nodules are tumours
+并非所有结节都是肿瘤
+PULMONARYABSCESS
+肺脓肿
+Not all nodules are tumours
+并非所有结节都是肿瘤
+TRACHEALCOLLAPSE
+气管塌陷
+EXP
+呼气
+INSP吸气
+TRACHIEALCOLLAPSE
+气管塌陷
+6180
+Skyline trachea
+TRACHEALCOLLAPSE
+气管塌陷
+Normal trachea
+Tracheal collapse
+正常气管
+气管塌陷
+TRACHEALCOLLAPSE
+气管塌陷
+Normal trachea
+Tracheal collapse
+正常气管
+气管塌陷
+TREATMENTOF
+TRACHEALCOLLAPSE
+气管塌陷的治疗
+Control obesity
+控制体重
+Treat concurrent cardiac or respiratory disease
+治疗伴发的心脏或呼吸系统疾病
+Bronchodilators
+支气管扩张剂
+Glucocorticoids
+糖皮质激素
+Antitussives
+镇咳药
+Sedation
+镇静剂
