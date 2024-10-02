@@ -1,0 +1,25 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "gradio_demo",
+            "type": "debugpy",
+            "request": "launch",
+            "program": "${workspaceFolder}/gradio_demo.py",
+            "env": {"CUDA_VISIBLE_DEVICES":"0"},
+            "args": [
+                "--model_type","auto",
+                "--base_model","Qwen/Qwen2.5-7B",
+                "--lora_model","outputs-pt-qwen-v1/checkpoint-1250",
+                "--cache_dir","./cache",
+                "--share"
+            ],
+            "cwd": "${workspaceFolder}",
+            "console": "integratedTerminal",
+            "justMyCode": false
+        }
+    ]
+}

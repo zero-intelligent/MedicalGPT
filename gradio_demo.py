@@ -45,7 +45,8 @@ def main():
     parser.add_argument('--only_cpu', action='store_true', help='only use CPU for inference')
     parser.add_argument('--resize_emb', action='store_true', help='Whether to resize model token embeddings')
     parser.add_argument('--share', action='store_true', help='Share gradio')
-    parser.add_argument('--port', default=8081, type=int, help='Port of gradio demo')
+    parser.add_argument('--cache_dir', default='cache', help='cache_dir')
+    parser.add_argument('--port', default=8082, type=int, help='Port of gradio demo')
     args = parser.parse_args()
     print(args)
     load_type = 'auto'
@@ -57,13 +58,14 @@ def main():
     if args.tokenizer_path is None:
         args.tokenizer_path = args.base_model
     model_class, tokenizer_class = MODEL_CLASSES[args.model_type]
-    tokenizer = tokenizer_class.from_pretrained(args.tokenizer_path, trust_remote_code=True)
+    tokenizer = tokenizer_class.from_pretrained(args.tokenizer_path, trust_remote_code=True,cache_dir=args.cache_dir)
     base_model = model_class.from_pretrained(
         args.base_model,
         torch_dtype=load_type,
         low_cpu_mem_usage=True,
         device_map='auto',
         trust_remote_code=True,
+        cache_dir=args.cache_dir
     )
     try:
         base_model.generation_config = GenerationConfig.from_pretrained(args.base_model, trust_remote_code=True)
@@ -121,8 +123,8 @@ def main():
         predict,
         chatbot=gr.Chatbot(),
         textbox=gr.Textbox(placeholder="Ask me question", lines=4, scale=9),
-        title="MedicalGPT",
-        description="为了促进医疗行业大模型的开放研究，本项目开源了[MedicalGPT](https://github.com/shibing624/MedicalGPT)医疗大模型",
+        title="PetMedialGPT",
+        description="输入宠物的症状描述，医宠大模型为您解答",
         theme="soft",
     ).queue().launch(share=args.share, inbrowser=True, server_name='0.0.0.0', server_port=args.port)
 
