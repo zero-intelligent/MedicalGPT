@@ -39,7 +39,7 @@ def main():
     parser.add_argument('--base_model', default=None, type=str, required=True)
     parser.add_argument('--lora_model', default="", type=str, help="If None, perform inference on the base model")
     parser.add_argument('--tokenizer_path', default=None, type=str)
-    parser.add_argument('--template_name', default="vicuna", type=str,
+    parser.add_argument('--template_name', default="qwen", type=str,
                         help="Prompt template name, eg: alpaca, vicuna, baichuan2, chatglm2 etc.")
     parser.add_argument('--system_prompt', default="", type=str)
     parser.add_argument('--only_cpu', action='store_true', help='only use CPU for inference')
@@ -119,14 +119,31 @@ def main():
                 partial_message += new_token
                 yield partial_message
     CSS = """
-            .gradio-container { height: 100vh !important; display: flex; flex-direction: column; }
-            #component-0 { height: 100% !important; display: flex; flex-direction: column; }
-            .wrap { flex-grow: 1; overflow: auto; }
-            #chatbot { flex-grow: 1; overflow-y: auto; height: calc(100vh - 150px); }  /* Adjusted height to accommodate input box */
-            #textbox { width: 100% !important; }
-        """
-
-
+        .gradio-container { 
+            height: 100vh !important; 
+            display: flex; 
+            flex-direction: column; 
+        }
+        #component-0 {
+            height: 100% !important; 
+            display: flex; 
+            flex-direction: column;
+        }
+        .wrap {
+            flex-grow: 1; 
+            display: flex; 
+            flex-direction: column; 
+        }
+        #chatbot {
+            flex-grow: 1; 
+            overflow-y: auto; 
+            max-height: calc(100vh - 180px);  /* Ensure the chat area can scroll */
+        }
+        #textbox {
+            width: 100% !important; 
+        }
+    """
+    
     gr.ChatInterface(
         predict,
         chatbot=gr.Chatbot(),

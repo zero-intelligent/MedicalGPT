@@ -521,7 +521,7 @@ Supports: https://huggingface.co/Qwen/CodeQwen1.5-7B-Chat
 register_conv_template(
     Conversation(
         name="qwen",
-        system_prompt="<|im_start|>system\nYou are a helpful assistant.<|im_end|>\n",
+        system_prompt="<|im_start|>system\n你是一个专业的宠物医生，帮助解答各类宠物疾病问题.<|im_end|>\n",
         messages=[],
         roles=("user", "assistant"),
         prompt="<|im_start|>user\n{query}<|im_end|>\n<|im_start|>assistant\n",
