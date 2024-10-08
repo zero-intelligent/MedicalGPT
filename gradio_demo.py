@@ -118,14 +118,23 @@ def main():
             if new_token != stop_str:
                 partial_message += new_token
                 yield partial_message
+    CSS = """
+            .gradio-container { height: 100vh !important; display: flex; flex-direction: column; }
+            #component-0 { height: 100% !important; display: flex; flex-direction: column; }
+            .wrap { flex-grow: 1; overflow: auto; }
+            #chatbot { flex-grow: 1; overflow-y: auto; height: calc(100vh - 150px); }  /* Adjusted height to accommodate input box */
+            #textbox { width: 100% !important; }
+        """
+
 
     gr.ChatInterface(
         predict,
         chatbot=gr.Chatbot(),
         textbox=gr.Textbox(placeholder="Ask me question", lines=4, scale=9),
-        title="PetMedialGPT",
+        title="医宠 (PetMedialGPT)",
         description="输入宠物的症状描述，医宠大模型为您解答",
         theme="soft",
+        css = CSS
     ).queue().launch(share=args.share, inbrowser=True, server_name='0.0.0.0', server_port=args.port)
 
 
