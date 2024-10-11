@@ -7,8 +7,8 @@ source .venv/bin/activate
 
 CUDA_VISIBLE_DEVICES=0 python gradio_demo.py \
     --model_type auto \
-    --base_model bigscience/bloomz-560m \
-    --lora_model outputs-sft-v1/checkpoint-250 \
+    --base_model Qwen/Qwen2.5-7B \
+    --lora_model outputs-sft-qwen-v1/checkpoint-250 \
     --cache_dir ./cache \
     --share 
     

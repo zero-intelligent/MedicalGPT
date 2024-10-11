@@ -41,7 +41,7 @@ def main():
     parser.add_argument('--tokenizer_path', default=None, type=str)
     parser.add_argument('--template_name', default="qwen", type=str,
                         help="Prompt template name, eg: alpaca, vicuna, baichuan2, chatglm2 etc.")
-    parser.add_argument('--system_prompt', default="", type=str)
+    parser.add_argument('--system_prompt', default="你是一个专业的宠物医生,帮助解答各类宠物疾病问题,尽可能全面准确,字数在30到500之间。", type=str)
     parser.add_argument('--only_cpu', action='store_true', help='only use CPU for inference')
     parser.add_argument('--resize_emb', action='store_true', help='Whether to resize model token embeddings')
     parser.add_argument('--share', action='store_true', help='Share gradio')
